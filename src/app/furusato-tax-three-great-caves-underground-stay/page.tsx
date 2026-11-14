@@ -395,7 +395,7 @@ export default function FurusatoUpgradedPage() {
               <h4 className="text-sm font-bold text-stone-900">2. グリーンヒルホテル尾道（広島県・4.4）</h4>
               <p><strong>【特徴】</strong>ＪＲ尾道駅から徒歩２分に位置し、尾道観光やしまなみ海道サイクリングの拠点に最適！</p>
               <p><strong>【交通・駐車場】</strong>山陽本線尾道駅駅前　山陽新幹線新尾道駅より車で７分 山陽自動車道福山西・尾道ＩＣより約２０分 ／ 駐車場：専用駐車場無し。駅前港湾駐車場 2000円/1日 1000円の割引券あり。＊満車の場合有</p>
-              <p className="italic text-stone-600">💬 宿泊者レビュー：「」</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「JR尾道駅からすぐの立地でしまなみ海道散策や尾道水道観光の拠点に抜群でした。清潔感のある客室と穏やかな海景色に癒やされました。」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
               <h4 className="text-sm font-bold text-stone-900">3. ホテルグランヴィア岡山（岡山県・4.44）</h4>

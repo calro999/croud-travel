@@ -7,18 +7,18 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/silver-week/" },
-  title: "秋の連休：シルバーウィーク旅行・おすすめ人気ホテル＆リゾート",
-  description: "秋の大型連休・シルバーウィーク旅行特集！軽井沢高原リゾート、富士山＆河口湖、熱海温泉、沖縄混雑回避ステイ、USJ秋イベントなど、家族旅行やカップル旅行にぴったりの厳選ホテル＆温泉宿を完全ガイド。",
-  keywords: ["秋の連休", "シルバーウィーク旅行", "おすすめ人気ホテル", "リゾート", "温泉宿", "宿泊予約", "楽天トラベル"],
+  title: "冬休み・年末年始＆大型連休：人気ホテル・温泉リゾート厳選特集",
+  description: "冬休み・年末年始・大型連休におすすめの国内旅行＆人気ホテル特集！軽井沢高原リゾート、富士山＆河口湖の雪化粧絶景、熱海温泉、冬の避寒沖縄リゾート、USJ冬イベントなど、家族旅行やカップル旅行にぴったりの厳選ホテル＆温泉宿を完全ガイド。",
+  keywords: ["冬休み", "年末年始旅行", "大型連休", "シルバーウィーク旅行", "おすすめ人気ホテル", "温泉宿", "楽天トラベル"],
   openGraph: {
-    title: "秋の連休：シルバーウィーク旅行・おすすめ人気ホテル＆リゾート",
-    description: "秋の大型連休・シルバーウィーク旅行特集！軽井沢高原リゾート、富士山＆河口湖、熱海温泉、沖縄混雑回避ステイ、USJ秋イベントなど、家族旅行やカップル旅行にぴったりの厳選ホテル＆温泉宿を完全ガイド。",
+    title: "冬休み・年末年始＆大型連休：人気ホテル・温泉リゾート厳選特集",
+    description: "冬休み・年末年始・大型連休におすすめの国内旅行＆人気ホテル特集！軽井沢高原リゾート、富士山＆河口湖、熱海温泉、冬の避寒沖縄ステイ、USJ冬イベントまで厳選ホテル＆温泉宿を完全ガイド。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "秋の連休：シルバーウィーク旅行・おすすめ人気ホテル＆リゾート",
-    description: "秋の大型連休・シルバーウィーク旅行特集！軽井沢高原リゾート、富士山＆河口湖、熱海温泉、沖縄混雑回避ステイ、USJ秋イベントなど、家族旅行やカップル旅行にぴったりの厳選ホテル＆温泉宿を完全ガイド。",
+    title: "冬休み・年末年始＆大型連休：人気ホテル・温泉リゾート厳選特集",
+    description: "冬休み・年末年始・大型連休におすすめの国内旅行＆人気ホテル特集！軽井沢、富士五湖、熱海温泉、沖縄、USJ周辺の厳選宿を完全ガイド。",
   }
 };
 
@@ -43,46 +43,46 @@ export default function SilverWeekPage() {
       key: "karuizawa_resort",
       title: "1. 長野・軽井沢（高原リゾート＆アウトレット）",
       target: "おすすめ：カップル記念日・女子旅・ワンちゃんと一緒の旅行",
-      desc: "秋風が吹き抜ける軽井沢は、旧軽井沢銀座の散策や軽井沢・プリンスショッピングプラザでの買い物が快適。雲場池の紅葉リフレクションやハルニレテラスでのカフェタイムを満喫できます。",
-      spots: "雲場池、軽井沢プリンスショッピングプラザ、ハルニレテラス、白糸の滝、旧三笠ホテル",
+      desc: "澄んだ冬空が気持ちよい軽井沢は、旧軽井沢銀座や冬のイルミネーション、軽井沢・プリンスショッピングプラザでの買い物も快適。澄んだ森の温泉やハルニレテラスでのカフェタイムを満喫できます。",
+      spots: "雲場池、軽井沢プリンスショッピングプラザ、ハルニレテラス、白糸の滝、星野温泉 トンボの湯",
       accessTime: "北陸新幹線で東京駅から軽井沢駅まで最速約65分。上信越自動車道碓氷軽井沢ICより約20分。",
-      stayTip: "連休中の旧軽井沢周辺は渋滞しやすいため、レンタサイクルでの移動がおすすめ。夜は冷え込むため、暖炉や温泉のあるリゾートホテルが快適です。"
+      stayTip: "冬季や連休中は朝晩冷え込むため、駅送迎あり・天然温泉や暖炉ラウンジ付きのリゾートホテルが快適です。"
     },
     {
       key: "fujigoko_lakeview",
-      title: "2. 山梨・富士五湖・河口湖（富士山絶景＆温泉）",
+      title: "2. 山梨・富士五湖・河口湖（雪化粧の富士山＆温泉）",
       target: "おすすめ：ファミリー旅行・ドライブデート・写真好き",
-      desc: "澄んだ秋空の下、雪化粧を始めた富士山と湖畔の紅葉を同時に望む絶景ロケーション。河口湖北岸のもみじ回廊や富士急ハイランドなど、大人から子どもまで1日中楽しめます。",
-      spots: "河口湖もみじ回廊、富士急ハイランド、新倉山浅間公園、忍野八海、大石公園",
+      desc: "一年で最も空気が澄む季節に、美しい雪化粧をまとった富士山と湖面の絶景を望む極上ロケーション。富士急ハイランドや周辺温泉施設など、大人から子どもまで1日中楽しめます。",
+      spots: "大石公園、富士急ハイランド、新倉山浅間公園、忍野八海、河口湖オルゴールの森",
       accessTime: "新宿からJR特急「富士回遊」で直通約1時間55分。中央自動車道河口湖ICより各湖畔へ直結。",
-      stayTip: "客室や露天風呂から富士山が真正面に見えるホテルは連休中に即満室となります。早めの予約と朝の逆さ富士鑑賞がポイントです。"
+      stayTip: "客室や露天風呂から富士山が真正面に見えるホテルは冬休み・年末年始に即満室となります。早めの予約と朝の逆さ富士鑑賞がポイントです。"
     },
     {
       key: "atami_izu",
-      title: "3. 静岡・熱海・伊東温泉（海鮮美食＆海露天風呂）",
+      title: "3. 静岡・熱海・伊東温泉（冬花火＆海絶景温泉）",
       target: "おすすめ：夫婦・3世代ファミリー・温泉美食重視",
-      desc: "新幹線ですぐのアクセス抜群な王道リゾート。相模湾を一望する絶景インフィニティ温泉や、金目鯛・伊勢海老・アワビなど秋の味覚を心ゆくまで味わう贅沢な温泉旅行が叶います。",
+      desc: "新幹線ですぐのアクセス抜群な王道リゾート。相模湾を一望する絶景インフィニティ温泉や、金目鯛・伊勢海老・アワビなど冬ならではの海の幸を味わう贅沢な温泉旅行が叶います。",
       spots: "熱海サンビーチ、ACAO FOREST、来宮神社、伊豆シャボテン動物公園、城ヶ崎海岸",
       accessTime: "東海道新幹線で東京駅から熱海駅までわずか約45分。伊豆急行線で伊東・下田方面へ接続。",
-      stayTip: "秋の熱海海上花火大会（特定日開催）に合わせた宿泊が人気。海岸沿いのオーシャンビューホテルや客室露天風呂付き宿が特におすすめです。"
+      stayTip: "冬期開催の熱海海上花火大会に合わせた宿泊が大人気。海岸沿いのオーシャンビューホテルや客室露天風呂付き宿が特におすすめです。"
     },
     {
       key: "okinawa_autumn",
-      title: "4. 沖縄・恩納村（秋の混雑回避ビーチリゾート）",
-      target: "おすすめ：子連れファミリー・ゆったりリゾートステイ",
-      desc: "真夏の猛暑や台風シーズンが落ち着き、過ごしやすい秋の沖縄。水温も高く10月まで海水浴やプールが楽しめる上、夏休みほどの混雑がなくホテル料金もリーズナブルになります。",
+      title: "4. 沖縄・恩納村（冬の避寒リゾートステイ）",
+      target: "おすすめ：子連れファミリー・暖かなゆったりリゾート旅",
+      desc: "真夏の猛暑や台風シーズンが落ち着き、冬でも日中は温暖で過ごしやすい沖縄。温水インフィニティプールや美ら海水族館巡り、年末年始の避寒リゾートとして家族連れに人気です。",
       spots: "万座毛、美ら海水族館、古宇利島、残波岬、アメリカンビレッジ",
       accessTime: "那覇空港から沖縄自動車道経由で恩納村リゾートエリアまで車で約50〜60分。",
-      stayTip: "インフィニティプールや屋内温水プール、ビーチ直結の大型リゾートホテルを選べば、天候に左右されず贅沢な南国バカンスを過ごせます。"
+      stayTip: "屋内温水プールや大浴場・温泉施設を備えた大型リゾートホテルを選べば、冬の沖縄でも天候に左右されず贅沢なバカンスを過ごせます。"
     },
     {
       key: "usj_autumn",
-      title: "5. 大阪・USJベイエリア（ハロウィンイベント＆グルメ）",
+      title: "5. 大阪・USJベイエリア（冬イルミ＆年末年始イベント）",
       target: "おすすめ：学生グループ・ファミリー・テーマパーク好き",
-      desc: "秋のユニバーサル・スタジオ・ジャパン（USJ）は、年間最大級の盛り上がりを見せるハロウィンイベントを開催。パーク隣接のオフィシャルホテルに泊まれば、朝から晩まで全力で楽しめます。",
-      spots: "USJ（ハロウィーン・ホラー・ナイト）、ユニバーサル・シティウォーク、海遊館、道頓堀",
+      desc: "冬から年末年始にかけてのユニバーサル・スタジオ・ジャパン（USJ）は、大規模クリスマス＆ウインターイベント・カウントダウンで大盛り上がり。パーク隣接ホテルなら朝から晩まで快適です。",
+      spots: "USJ（ウインター＆カウントダウン）、ユニバーサル・シティウォーク、海遊館、道頓堀",
       accessTime: "新大阪駅からJR京都線〜大阪環状線〜ゆめ咲線で約16分。関西空港・伊丹空港から直行バスあり。",
-      stayTip: "朝一番のアトラクション入場や夜のホラーナイトを最後まで満喫するため、徒歩1〜3分圏内の駅近オフィシャルホテル宿泊が必須です。"
+      stayTip: "冬の開園待ちや夜のイルミネーション観賞後はすぐ温まれるよう、徒歩1〜3分圏内で大浴場や温泉付きのオフィシャルホテル宿泊が安心です。"
     }
   ];
 
@@ -90,8 +90,8 @@ export default function SilverWeekPage() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "【秋の連休】シルバーウィーク旅行・おすすめ人気ホテル＆リゾート ｜ 日本全国・旅宿クラウド",
-    "description": "秋の大型連休・シルバーウィーク旅行特集！軽井沢高原リゾート、富士山＆河口湖、熱海温泉、沖縄混雑回避ステイ、USJ秋イベントなど、家族旅行やカップル旅行にぴったりの厳選ホテル＆温泉宿を完全ガイド。",
+    "headline": "【冬休み・年末年始＆大型連休】人気ホテル・温泉リゾート厳選特集 ｜ 日本全国・旅宿クラウド",
+    "description": "冬休み・年末年始・大型連休におすすめの人気ホテル＆温泉リゾート特集！軽井沢、富士五湖、熱海温泉、沖縄リゾート、USJ周辺の厳選宿を完全ガイド。",
     "url": "https://croud-travel.pages.dev/silver-week/",
     "publisher": {
       "@type": "Organization",
@@ -104,7 +104,7 @@ export default function SilverWeekPage() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "【秋の連休】シルバーウィーク旅行・おすすめ人気ホテル＆リゾート ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/silver-week/" }
+      { "@type": "ListItem", "position": 2, "name": "【冬休み・年末年始＆大型連休】人気ホテル・温泉リゾート厳選特集 ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/silver-week/" }
     ]
   };
 
@@ -116,16 +116,16 @@ export default function SilverWeekPage() {
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-slate-900 via-indigo-950 to-teal-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-teal-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
-            SILVER WEEK SPECIAL
+            WINTER & HOLIDAY SPECIAL
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「秋の連休」シルバーウィーク旅行・人気ホテル＆リゾート特集</h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">冬休み・年末年始＆大型連休 おすすめホテル・温泉リゾート特集</h1>
           <p className="text-xs md:text-sm text-teal-100/90 leading-relaxed">
-            爽快な秋晴れの下、家族やカップルで出かけたいシルバーウィーク。軽井沢や富士五湖の高原リゾートから、熱海温泉の美食、秋の沖縄・USJまで、満足度の高い厳選宿泊プランを徹底解説。
+            澄んだ冬の空気に景色が映える冬休み・年末年始や連休旅行にぴったりな全国の人気滞在エリアを厳選。軽井沢や富士五湖のリゾートから、熱海温泉の旬グルメ、冬でも快適な沖縄・USJ周辺ステイまで、満足度の高い宿を徹底解説します。
           </p>
         </div>
       </div>
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
-        <ShareButtons title={"秋の連休：シルバーウィーク旅行・おすすめ人気ホテル＆リゾート"} url={"https://croud-travel.pages.dev/silver-week/"} />
+        <ShareButtons title={"冬休み・年末年始＆大型連休：人気ホテル・温泉リゾート厳選特集"} url={"https://croud-travel.pages.dev/silver-week/"} />
       </div>
 
       {/* デスティネーション別ガイド */}
@@ -249,7 +249,7 @@ export default function SilverWeekPage() {
     
       
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-6 my-10 max-w-5xl mx-auto">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋の連休：シルバーウィーク旅行・おすすめ人気ホテル＆リゾート：楽天トラベル高評価宿スペック比較表＆クチコミ徹底解説</h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900">冬休み・年末年始＆大型連休におすすめの人気ホテル・温泉リゾート：楽天トラベル高評価宿スペック比較表＆クチコミ徹底解説</h2>
           <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
             楽天トラベル公式APIから取得した全国の高評価宿データ（所在地・最寄り駅・駐車場・総合評価・参考最安料金）と実際の宿泊者レビューを整理しました。ふるさと納税の旅行クーポンや早期割引プランと併用することで、ワンランク上の滞在をお得に実現できます。
           </p>
@@ -327,7 +327,7 @@ export default function SilverWeekPage() {
               <h4 className="text-sm font-bold text-stone-900">3. 富士ビューホテル（山梨県・4.56）</h4>
               <p><strong>【特徴】</strong>富士屋ホテルチェーン.眼前に広がる富士山の景観、三万坪の庭園が自慢のリゾートホテル</p>
               <p><strong>【交通・駐車場】</strong>河口湖駅よりタクシーで10分 ／ 駐車場：有り ８０台 無料</p>
-              <p className="italic text-stone-600">💬 宿泊者レビュー：「」</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「富士山の雄大な姿と広大な庭園の景色に感動しました。温泉と落ち着いた館内の雰囲気でゆっくり旅の疲れを癒やせました。」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
               <h4 className="text-sm font-bold text-stone-900">4. 運河の宿　おたる　ふる川（北海道・4.76）</h4>
@@ -355,18 +355,18 @@ export default function SilverWeekPage() {
             </div>
             <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
               <h4 className="text-sm font-bold text-stone-900">横浜みなとみらい21</h4>
-              <p className="text-xs text-stone-600 leading-relaxed">【秋の連休：シルバーウィーク旅行・おすすめ人気ホテル＆】 ランドマークタワーや大観覧車「コスモクロック21」、赤レンガ倉庫が立ち並ぶ近代都市リゾート。港町の海風を感じながらショッピングや夜景を楽しめます。</p>
+              <p className="text-xs text-stone-600 leading-relaxed">ランドマークタワーや大観覧車「コスモクロック21」、赤レンガ倉庫が立ち並ぶ近代都市リゾート。港町の海風を感じながらショッピングや夜景を楽しめます。</p>
             </div>
             <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
               <h4 className="text-sm font-bold text-stone-900">国宝 姫路城（白鷺城）</h4>
-              <p className="text-xs text-stone-600 leading-relaxed">【秋の連休：シルバーウィーク旅行・おすすめ人気ホテル＆】 鮮やかな白漆喰の城壁が羽ばたく白鷺のように美しい日本初のユネスコ世界文化遺産。大天守をはじめ保存状態が完璧な城郭建築の最高峰です。</p>
+              <p className="text-xs text-stone-600 leading-relaxed">鮮やかな白漆喰の城壁が羽ばたく白鷺のように美しい日本初のユネスコ世界文化遺産。大天守をはじめ保存状態が完璧な城郭建築の最高峰です。</p>
             </div>
             </div>
           </div>
         </section>
 
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
-        <ShareButtons title={"秋の連休：シルバーウィーク旅行・おすすめ人気ホテル＆リゾート"} url={"https://croud-travel.pages.dev/silver-week/"} />
+        <ShareButtons title={"冬休み・年末年始＆大型連休：人気ホテル・温泉リゾート厳選特集"} url={"https://croud-travel.pages.dev/silver-week/"} />
       </div>
 <HubRelatedPosts currentSlug="silver-week" />
 </div>

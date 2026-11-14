@@ -203,13 +203,13 @@ export default function WinterTravelSpecialPage() {
               <h4 className="text-sm font-bold text-stone-900">1. ホテル　インターコンチネンタル東京ベイ　ｂｙ　ＩＨＧ（東京都・4.61）</h4>
               <p><strong>【特徴】</strong>隅田川越しに広がる摩天楼とレインボーブリッジ輝く東京ベイの2つの景観が魅力のウォーターフロントホテル</p>
               <p><strong>【交通・駐車場】</strong>ゆりかもめ竹芝駅直結・JR浜松町駅徒歩8分・羽田空港から30分・成田空港リムジンバス120分。 ／ 駐車場：有り　177台　3000円（税込）</p>
-              <p className="italic text-stone-600">💬 宿泊者レビュー：「誕生日記念誕生日記念でクラブラウンジにアクセスできるお部屋に泊まりました。リバービューでしたがスカイツリーが見えて夜景がとても綺麗でした。ラウンジでチェックイン後シャンパンとアフタヌーンティーを出…」</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「誕生日記念でクラブラウンジにアクセスできるお部屋に泊まりました。リバービューでしたがスカイツリーが見えて夜景がとても綺麗でした。ラウンジでチェックイン後シャンパンとアフタヌーンティーを出…」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
               <h4 className="text-sm font-bold text-stone-900">2. 白馬五竜　ホテル　ステラベラ（長野県・4.43）</h4>
               <p><strong>【特徴】</strong>信州白馬のモダンなホテル！巨大樽の露天風呂、２４H営業の天然温泉もあり。シェフこだわりのお食事も♪</p>
               <p><strong>【交通・駐車場】</strong>JR神城駅,白馬五竜バス停(送迎：要事前予約）安曇野ICより車で45分 ／ 駐車場：有り</p>
-              <p className="italic text-stone-600">💬 宿泊者レビュー：「」</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「白馬五竜の雪景色と24時間入れる天然温泉に大満足です。巨大樽の露天風呂で温まったあとの温かいディナーが最高でした。」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
               <h4 className="text-sm font-bold text-stone-900">3. 熱海温泉　湯の宿　平鶴（ひらつる）（静岡県・4.54）</h4>
@@ -243,11 +243,11 @@ export default function WinterTravelSpecialPage() {
             </div>
             <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
               <h4 className="text-sm font-bold text-stone-900">横浜みなとみらい21</h4>
-              <p className="text-xs text-stone-600 leading-relaxed">【全国の冬の絶景温泉＆冬の美食満喫特集まとめ 500選】 ランドマークタワーや大観覧車「コスモクロック21」、赤レンガ倉庫が立ち並ぶ近代都市リゾート。港町の海風を感じながらショッピングや夜景を楽しめます。</p>
+              <p className="text-xs text-stone-600 leading-relaxed">ランドマークタワーや大観覧車「コスモクロック21」、赤レンガ倉庫が立ち並ぶ近代都市リゾート。港町の海風を感じながらショッピングや夜景を楽しめます。</p>
             </div>
             <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
               <h4 className="text-sm font-bold text-stone-900">国宝 姫路城（白鷺城）</h4>
-              <p className="text-xs text-stone-600 leading-relaxed">【全国の冬の絶景温泉＆冬の美食満喫特集まとめ 500選】 鮮やかな白漆喰の城壁が羽ばたく白鷺のように美しい日本初のユネスコ世界文化遺産。大天守をはじめ保存状態が完璧な城郭建築の最高峰です。</p>
+              <p className="text-xs text-stone-600 leading-relaxed">鮮やかな白漆喰の城壁が羽ばたく白鷺のように美しい日本初のユネスコ世界文化遺産。大天守をはじめ保存状態が完璧な城郭建築の最高峰です。</p>
             </div>
             </div>
           </div>

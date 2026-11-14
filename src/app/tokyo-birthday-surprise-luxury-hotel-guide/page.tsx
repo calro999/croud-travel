@@ -649,7 +649,7 @@ export default function TokyoBirthdaySurpriseHotelPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　177台　3000円（税込）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「誕生日記念誕生日記念でクラブラウンジにアクセスできるお部屋に泊まりました。リバービューでしたがスカイツリーが見えて夜景がとても綺麗でした。ラウンジでチェックイン後シャンパンとアフタヌーンティーを出…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「誕生日記念でクラブラウンジにアクセスできるお部屋に泊まりました。リバービューでしたがスカイツリーが見えて夜景がとても綺麗でした。ラウンジでチェックイン後シャンパンとアフタヌーンティーを出…」
                   </blockquote>
                 </div>
               </div>

@@ -210,7 +210,7 @@ export default function FurusatoTanbaShinshuChestnutMatsutakeStayPage() {
                     <span>→</span>
                   </a>
                   <a
-                    href="https://event.travel.rakuten.co.jp/furusato/"
+                    href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fevent.travel.rakuten.co.jp%2Ffurusato%2F"
                     target="_blank"
                     rel="sponsored noopener noreferrer"
                     className="sm:w-auto bg-stone-100 hover:bg-stone-200 text-stone-800 font-bold py-3.5 px-6 rounded-2xl border border-stone-300 text-center transition text-sm flex items-center justify-center gap-1.5"
@@ -277,7 +277,7 @@ export default function FurusatoTanbaShinshuChestnutMatsutakeStayPage() {
                     <span>→</span>
                   </a>
                   <a
-                    href="https://event.travel.rakuten.co.jp/furusato/"
+                    href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fevent.travel.rakuten.co.jp%2Ffurusato%2F"
                     target="_blank"
                     rel="sponsored noopener noreferrer"
                     className="sm:w-auto bg-stone-100 hover:bg-stone-200 text-stone-800 font-bold py-3.5 px-6 rounded-2xl border border-stone-300 text-center transition text-sm flex items-center justify-center gap-1.5"
@@ -344,7 +344,7 @@ export default function FurusatoTanbaShinshuChestnutMatsutakeStayPage() {
                     <span>→</span>
                   </a>
                   <a
-                    href="https://event.travel.rakuten.co.jp/furusato/"
+                    href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fevent.travel.rakuten.co.jp%2Ffurusato%2F"
                     target="_blank"
                     rel="sponsored noopener noreferrer"
                     className="sm:w-auto bg-stone-100 hover:bg-stone-200 text-stone-800 font-bold py-3.5 px-6 rounded-2xl border border-stone-300 text-center transition text-sm flex items-center justify-center gap-1.5"
