@@ -307,3 +307,4 @@ showcase_wakayama
 january-aomori-hirosaki-10selection
 showcase_miyazaki
 january-mie-ise-10selection
+showcase_akita
