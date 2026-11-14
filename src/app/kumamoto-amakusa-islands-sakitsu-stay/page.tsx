@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             紺碧の有明海と八代海を跨ぐ「天草五橋」を渡り、120余の島々へ。世界遺産に登録された潜伏キリシタンの漁村「﨑津集落」とゴシック様式の教会。約200頭の野生イルカと出会うクルーズ。幻の地鶏・天草大王と踊り食い車海老を味わう楽園の旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"熊本・天草諸島＆三角：世界遺産﨑津集落・イルカウォッチング＆天草大王・車海老宿 厳選ガイド"} url={"https://croud-travel.pages.dev/kumamoto-amakusa-islands-sakitsu-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"熊本・天草諸島＆三角：世界遺産﨑津集落・イルカウォッチング＆天草大王・車海老宿 厳選ガイド"} url={"https://croud-travel.pages.dev/kumamoto-amakusa-islands-sakitsu-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="kumamoto-amakusa-islands-sakitsu-stay" />
 </div>
   );

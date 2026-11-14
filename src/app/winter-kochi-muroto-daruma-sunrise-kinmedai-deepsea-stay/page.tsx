@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
     title: '【11・12・1月高知】太平洋の奇跡「だるま朝日・だるま夕日」と冬の極上「室戸キンメダイ」・御厨人窟初日の出＆海洋深層水リゾート宿5選',
     description: '11月中旬から1月中旬、高知県室戸岬は、冷気と黒潮の海水温差が生む冬の光学現象「だるま朝日・だるま夕日」のベストシーズン。',
     url: 'https://croud-travel.pages.dev/winter-kochi-muroto-daruma-sunrise-kinmedai-deepsea-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     images: [
       {
         url: 'https://img.travel.rakuten.co.jp/share/HOTEL/20702/20702.jpg',
@@ -49,12 +50,12 @@ export default function KochiMurotoDarumaWinterPage() {
     dateModified: '',
     author: {
       '@type': 'Organization',
-      name: 'クラドトラベル編集部',
+      name: '旅宿クラウド編集部',
       url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png'
@@ -293,6 +294,9 @@ export default function KochiMurotoDarumaWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月高知】太平洋の奇跡「だるま朝日・だるま夕日」と冬の極上「室戸キンメダイ」・御厨人窟初日の出＆海洋深層水リゾート宿5選"} url={"https://croud-travel.pages.dev/winter-kochi-muroto-daruma-sunrise-kinmedai-deepsea-stay/"} />
+      </div>
 
       {/* Main Content Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 pt-12 space-y-16">
@@ -446,7 +450,7 @@ export default function KochiMurotoDarumaWinterPage() {
                       <a 
                         href={hotel.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center justify-center gap-2 w-full sm:w-auto px-6 py-3 bg-gradient-to-r from-rose-600 to-rose-700 hover:from-rose-700 hover:to-rose-800 text-white font-bold text-sm rounded-xl shadow-md transition-all shrink-0"
                       >
                         <span>空室・宿泊プランを確認する</span>
@@ -652,6 +656,9 @@ export default function KochiMurotoDarumaWinterPage() {
               <span>冬の特集一覧へ戻る</span>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月高知】太平洋の奇跡「だるま朝日・だるま夕日」と冬の極上「室戸キンメダイ」・御厨人窟初日の出＆海洋深層水リゾート宿5選"} url={"https://croud-travel.pages.dev/winter-kochi-muroto-daruma-sunrise-kinmedai-deepsea-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-kochi-muroto-daruma-sunrise-kinmedai-deepsea-stay" />
 </div>
         </section>

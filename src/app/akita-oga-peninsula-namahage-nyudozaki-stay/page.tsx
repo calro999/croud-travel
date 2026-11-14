@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             荒波の日本海に突き出た信仰と伝説の半島「秋田・男鹿半島」。北緯40度線上にそびえる白黒縞模様の「入道崎灯台」。大晦日の夜に雄叫びを上げるユネスコ無形文化遺産「なまはげ」。真っ赤に熱した小石を桶の出汁に放り込む男鹿伝統の「石焼料理」を味わう旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"秋田・男鹿半島＆なまはげ・入道崎：北緯40度白黒灯台・名物石焼料理宿 厳選ガイド"} url={"https://croud-travel.pages.dev/akita-oga-peninsula-namahage-nyudozaki-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -361,6 +365,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"秋田・男鹿半島＆なまはげ・入道崎：北緯40度白黒灯台・名物石焼料理宿 厳選ガイド"} url={"https://croud-travel.pages.dev/akita-oga-peninsula-namahage-nyudozaki-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="akita-oga-peninsula-namahage-nyudozaki-stay" />
 </div>
   );

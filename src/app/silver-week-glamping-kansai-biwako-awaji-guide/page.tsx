@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -155,6 +156,9 @@ export default function SilverWeekGlampingKansaiBiwakoAwajiPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"関西シルバーウィーク グランピング：琵琶湖レイクビュー＆淡路島オーシャンビュー極上ドームヴィラ"} url={"https://croud-travel.pages.dev/silver-week-glamping-kansai-biwako-awaji-guide/"} />
+      </div>
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-16">
@@ -635,6 +639,9 @@ export default function SilverWeekGlampingKansaiBiwakoAwajiPage() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"関西シルバーウィーク グランピング：琵琶湖レイクビュー＆淡路島オーシャンビュー極上ドームヴィラ"} url={"https://croud-travel.pages.dev/silver-week-glamping-kansai-biwako-awaji-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="silver-week-glamping-kansai-biwako-awaji-guide" />
 </div>
   );

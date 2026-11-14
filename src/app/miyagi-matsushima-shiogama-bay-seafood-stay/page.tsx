@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             松尾芭蕉も言葉を失ったといわれる日本三景・松島湾の260余の島々。伊達政宗が再建した国宝・瑞巌寺の威厳と、塩竈港に揚がる極上の生マグロや冬の松島名物・焼き牡蠣。海風香る絶景温泉露天風呂から茜色に染まる朝日と湾を眺める、至福の宮城ステイへご案内します。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"宮城・松島＆塩竈：日本三景松島・塩竈生マグロ＆焼き牡蠣温泉宿 厳選ガイド"} url={"https://croud-travel.pages.dev/miyagi-matsushima-shiogama-bay-seafood-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -460,6 +464,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"宮城・松島＆塩竈：日本三景松島・塩竈生マグロ＆焼き牡蠣温泉宿 厳選ガイド"} url={"https://croud-travel.pages.dev/miyagi-matsushima-shiogama-bay-seafood-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="miyagi-matsushima-shiogama-bay-seafood-stay" />
 </div>
   );

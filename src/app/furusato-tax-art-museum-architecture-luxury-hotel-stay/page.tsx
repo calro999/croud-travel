@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import FurusatoStepSection from "@/app/components/FurusatoStepSection";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
@@ -96,6 +97,9 @@ export default function FurusatoArtMuseumHotelStayPage() {
             </Link>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"安藤忠雄建築や現代アートと眠る美術館ホテル＆アートリゾート×ふるさと納税厳選ガイド直島・箱根強羅・青森"} url={"https://croud-travel.pages.dev/furusato-tax-art-museum-architecture-luxury-hotel-stay/"} />
+      </div>
 
         {/* 3つの醍醐味セクション */}
         <section className="mb-16">
@@ -516,6 +520,9 @@ export default function FurusatoArtMuseumHotelStayPage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"安藤忠雄建築や現代アートと眠る美術館ホテル＆アートリゾート×ふるさと納税厳選ガイド直島・箱根強羅・青森"} url={"https://croud-travel.pages.dev/furusato-tax-art-museum-architecture-luxury-hotel-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-art-museum-architecture-luxury-hotel-stay" />
 </div>
         </section>

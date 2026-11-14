@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -113,6 +114,9 @@ export default function SeasonalFeaturePage() {
             世界中からスキーヤーが集まる極上のパウダースノー。スキーやスノーボードを1日中満喫した後は、冷えた体を温める源泉かけ流し温泉と温かいご当地鍋料理で至福のステイを。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【冬のスキー・スノボ】ゲレンデ直結＆極上温泉リゾート 完全ガイド"} url={"https://croud-travel.pages.dev/winter-ski-snowboard-resort/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function SeasonalFeaturePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【冬のスキー・スノボ】ゲレンデ直結＆極上温泉リゾート 完全ガイド"} url={"https://croud-travel.pages.dev/winter-ski-snowboard-resort/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-ski-snowboard-resort" />
 </div>
   );

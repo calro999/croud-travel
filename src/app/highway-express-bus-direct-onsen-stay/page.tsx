@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function TransitStyleHubPage() {
             大きな荷物を持った乗り換えのストレスなし！バスタ新宿や東京駅、梅田から高速バス1本で温泉街の中心へダイレクトアクセス「高速バス直行の温泉宿」。リーズナブルで確実着席、車窓の景色を眺めながらゆったり名湯へ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"高速バス直行・バスターミナル直結温泉宿：乗り換えなし・座席指定で楽々アクセス 厳選ガイド"} url={"https://croud-travel.pages.dev/highway-express-bus-direct-onsen-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function TransitStyleHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"高速バス直行・バスターミナル直結温泉宿：乗り換えなし・座席指定で楽々アクセス 厳選ガイド"} url={"https://croud-travel.pages.dev/highway-express-bus-direct-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="highway-express-bus-direct-onsen-stay" />
 </div>
   );

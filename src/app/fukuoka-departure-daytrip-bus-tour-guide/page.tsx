@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -180,6 +181,9 @@ export default function FukuokaDepartureDaytripBusTourPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"福岡・博多発 日帰りバスツアー：呼子活イカ・由布院温泉街散策・阿蘇カルデラ絶景の格安ツアー比較"} url={"https://croud-travel.pages.dev/fukuoka-departure-daytrip-bus-tour-guide/"} />
+      </div>
 
       {/* 🚀 Breadcrumbs */}
       <nav className="bg-teal-950/10 border-b border-teal-950/10 py-2.5 px-4 text-xs text-slate-600">
@@ -544,6 +548,9 @@ export default function FukuokaDepartureDaytripBusTourPage() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"福岡・博多発 日帰りバスツアー：呼子活イカ・由布院温泉街散策・阿蘇カルデラ絶景の格安ツアー比較"} url={"https://croud-travel.pages.dev/fukuoka-departure-daytrip-bus-tour-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="fukuoka-departure-daytrip-bus-tour-guide" />
 </div>
   );

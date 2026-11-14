@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -7,7 +8,7 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '日本新三景「耶馬渓・一目八景」奇岩と紅葉のパノラマ絶景＆名湯別府鉄輪温泉・極上関あじ関さば｜ふるさと納税で泊まれる名宿ガイド',
   description: '10月下旬〜11月中旬に奇岩巨峰と紅葉が織りなす耶馬渓・一目八景。湯けむり立ち上る別府鉄輪温泉の老舗宿で、源泉かけ流し露天風呂と豊後水道の極上ブランド魚「関あじ・関さば」「おおいた和牛」をふるさと納税で堪能。',
-  keywords: ["日本新三景「耶馬渓", "名湯別府鉄輪温泉", "極上関あじ関さば", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル"],
+  keywords: ["日本新三景「耶馬渓", "名湯別府鉄輪温泉", "極上関あじ関さば", "旅宿クラウドふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-yabakei-hitomehakkei-autumn-stay/",
   },
@@ -15,7 +16,7 @@ export const metadata: Metadata = {
     title: '日本新三景「耶馬渓・一目八景」奇岩と紅葉のパノラマ絶景＆名湯別府鉄輪温泉・極上関あじ関さば｜ふるさと納税で泊まれる名宿ガイド',
     description: '10月下旬〜11月中旬に奇岩巨峰と紅葉が織りなす耶馬渓・一目八景。湯けむり立ち上る別府鉄輪温泉の老舗宿で、源泉かけ流し露天風呂と豊後水道の極上ブランド魚「関あじ・関さば」「おおいた和牛」をふるさと納税で堪能。',
     url: 'https://croud-travel.pages.dev/furusato-tax-yabakei-hitomehakkei-autumn-stay/',
-    siteName: 'クラウドトラベル (croud-travel.pages.dev)',
+    siteName: '旅宿クラウド (croud-travel.pages.dev)',
     type: 'article',
     locale: 'ja_JP',
   },
@@ -29,11 +30,11 @@ export default function Page() {
     "description": "10月下旬〜11月中旬に奇岩巨峰と紅葉が織りなす耶馬渓・一目八景。湯けむり立ち上る別府鉄輪温泉の老舗宿で、源泉かけ流し露天風呂と豊後水道の極上ブランド魚「関あじ・関さば」「おおいた和牛」をふるさと納税で堪能。",
     "author": {
       "@type": "Organization",
-      "name": "クラウドトラベル編集部"
+      "name": "旅宿クラウド編集部"
     },
     "publisher": {
       "@type": "Organization",
-      "name": "クラウドトラベル",
+      "name": "旅宿クラウド",
       "logo": {
         "@type": "ImageObject",
         "url": "https://croud-travel.pages.dev/logo.png"
@@ -112,12 +113,15 @@ export default function Page() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"日本新三景「耶馬渓・一目八景」奇岩と紅葉のパノラマ絶景＆名湯別府鉄輪温泉・極上関あじ関さば"} url={"https://croud-travel.pages.dev/furusato-tax-yabakei-hitomehakkei-autumn-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"日本新三景「耶馬渓・一目八景」奇岩と紅葉のパノラマ絶景＆名湯別府鉄輪温泉・極上関あじ関さば｜ふるさと納税で泊まれる名宿ガイド | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-yabakei-hitomehakkei-autumn-stay/"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"日本新三景「耶馬渓・一目八景」奇岩と紅葉のパノラマ絶景＆名湯別府鉄輪温泉・極上関あじ関さば｜ふるさと納税で泊まれる名宿ガイド | 旅宿クラウドふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-yabakei-hitomehakkei-autumn-stay/"}]}) }}
       />
         {/* Intro Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 mb-12">
@@ -194,7 +198,7 @@ export default function Page() {
 
           <div className="bg-stone-50 rounded-xl p-5 border border-stone-200 mb-6 space-y-4">
             <div>
-              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5"><span>️</span> 料理のこだわり・秋の旬会席</h5>
+              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">料理のこだわり・秋の旬会席</h5>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 中津名物「中津からあげ」、焼き立てパン、オーガニック野菜サラダバー（朝食無料ビュッフェ）
               </p>
@@ -259,7 +263,7 @@ export default function Page() {
 
           <div className="bg-stone-50 rounded-xl p-5 border border-stone-200 mb-6 space-y-4">
             <div>
-              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5"><span>️</span> 料理のこだわり・秋の旬会席</h5>
+              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">料理のこだわり・秋の旬会席</h5>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 和洋30種以上の無料朝食バイキング、中津名物おかず、炊きたてご飯
               </p>
@@ -324,7 +328,7 @@ export default function Page() {
 
           <div className="bg-stone-50 rounded-xl p-5 border border-stone-200 mb-6 space-y-4">
             <div>
-              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5"><span>️</span> 料理のこだわり・秋の旬会席</h5>
+              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">料理のこだわり・秋の旬会席</h5>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 豊後牛の陶板焼き、耶馬渓の清流ヤマメの塩焼き、季節のキノコ鍋、耶馬渓名物手打ちそば、山菜小鉢
               </p>
@@ -375,7 +379,7 @@ export default function Page() {
           <div className="bg-amber-950/60 p-4 rounded-xl border border-amber-500/30 text-xs sm:text-sm text-amber-100 flex items-start gap-2">
             <span>ℹ️</span>
             <span>
-              <strong>ポイント還元の二重取り：</strong>楽天カード決済や「お買い物マラソン」「0と5のつく日」を併用すると、寄付額に対して高還元率で楽天ポイントも獲得でき、さらにお得になります。
+              <strong>年末駆け込み＆先々の旅行予約に対応：</strong>2026年分の寄附控除枠は12月31日まで。返礼品の宿泊クーポンは有効期限が最長3年間と長く、予約済みの宿泊に「あとから割引適用」することも可能です。
             </span>
           </div>
         </section>
@@ -505,6 +509,9 @@ export default function Page() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"日本新三景「耶馬渓・一目八景」奇岩と紅葉のパノラマ絶景＆名湯別府鉄輪温泉・極上関あじ関さば"} url={"https://croud-travel.pages.dev/furusato-tax-yabakei-hitomehakkei-autumn-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-yabakei-hitomehakkei-autumn-stay" />
 </div>
   );

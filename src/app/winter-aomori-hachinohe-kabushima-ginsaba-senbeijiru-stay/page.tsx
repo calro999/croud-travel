@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
     title: '【11・12・1月青森】八戸前沖銀鯖と本場せんべい汁・八食センター七輪村買い出し＆蕪島神社初詣・太平洋一望の八戸名宿5選',
     description: '11月から1月、青森県八戸市は日本一脂が乗る「八戸前沖銀鯖」の最盛期を迎え、出汁の染みた熱々の「八戸せんべい汁」が極上の美味を放ちます。',
     url: 'https://croud-travel.pages.dev/winter-aomori-hachinohe-kabushima-ginsaba-senbeijiru-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     images: [
       {
         url: 'https://img.travel.rakuten.co.jp/share/HOTEL/166325/166325.jpg',
@@ -49,12 +50,12 @@ export default function AomoriHachinoheKabushimaWinterPage() {
     dateModified: '',
     author: {
       '@type': 'Organization',
-      name: 'クラドトラベル編集部',
+      name: '旅宿クラウド編集部',
       url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png'
@@ -293,6 +294,9 @@ export default function AomoriHachinoheKabushimaWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月青森】八戸前沖銀鯖と本場せんべい汁・八食センター七輪村買い出し＆蕪島神社初詣・太平洋一望の八戸名宿5選"} url={"https://croud-travel.pages.dev/winter-aomori-hachinohe-kabushima-ginsaba-senbeijiru-stay/"} />
+      </div>
 
       {/* Main Content Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 pt-12 space-y-16">
@@ -446,7 +450,7 @@ export default function AomoriHachinoheKabushimaWinterPage() {
                       <a 
                         href={hotel.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center justify-center gap-2 w-full sm:w-auto px-6 py-3 bg-gradient-to-r from-sky-600 to-sky-700 hover:from-sky-700 hover:to-sky-800 text-white font-bold text-sm rounded-xl shadow-md transition-all shrink-0"
                       >
                         <span>空室・宿泊プランを確認する</span>
@@ -652,6 +656,9 @@ export default function AomoriHachinoheKabushimaWinterPage() {
               <span>冬の特集一覧へ戻る</span>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月青森】八戸前沖銀鯖と本場せんべい汁・八食センター七輪村買い出し＆蕪島神社初詣・太平洋一望の八戸名宿5選"} url={"https://croud-travel.pages.dev/winter-aomori-hachinohe-kabushima-ginsaba-senbeijiru-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-aomori-hachinohe-kabushima-ginsaba-senbeijiru-stay" />
 </div>
         </section>

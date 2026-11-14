@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import FurusatoStepSection from "@/app/components/FurusatoStepSection";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
@@ -96,6 +97,9 @@ export default function FurusatoRadiumRadonHotspringStayPage() {
             </Link>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"奇跡のホルミシス効果！世界屈指のラジウム・ラドン名湯温泉＆本格湯治名旅館×ふるさと納税厳選ガイド鳥取三朝・愛知猿投・新潟村杉"} url={"https://croud-travel.pages.dev/furusato-tax-radium-radon-hotspring-healing-stay/"} />
+      </div>
 
         {/* 3つの醍醐味セクション */}
         <section className="mb-16">
@@ -518,6 +522,9 @@ export default function FurusatoRadiumRadonHotspringStayPage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"奇跡のホルミシス効果！世界屈指のラジウム・ラドン名湯温泉＆本格湯治名旅館×ふるさと納税厳選ガイド鳥取三朝・愛知猿投・新潟村杉"} url={"https://croud-travel.pages.dev/furusato-tax-radium-radon-hotspring-healing-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-radium-radon-hotspring-healing-stay" />
 </div>
         </section>

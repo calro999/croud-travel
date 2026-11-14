@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             松尾芭蕉が言葉を失った日本三景「松島」。朝日と夕日に輝く松島湾260余の島々。伊達政宗公が再建した国宝・瑞巌寺の荘厳な佇まいと、ぷりぷりの松島牡蠣・三陸海の幸に舌鼓を打つ極上の海辺旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"宮城・日本三景松島：松島湾260島パノラマ・瑞巌寺＆極上牡蠣・牛たん宿 厳選ガイド"} url={"https://croud-travel.pages.dev/miyagi-matsushima-bay-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"宮城・日本三景松島：松島湾260島パノラマ・瑞巌寺＆極上牡蠣・牛たん宿 厳選ガイド"} url={"https://croud-travel.pages.dev/miyagi-matsushima-bay-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="miyagi-matsushima-bay-stay" />
 </div>
   );

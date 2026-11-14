@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -13,7 +14,7 @@ export const metadata: Metadata = {
     title: '新潟出張＆地酒ひとり旅：信濃川パノラマ・天然温泉サウナ・ぽんしゅ館利き酒！日本海美食を堪能する極上宿 厳選3選',
     description: '上越新幹線で東京から最短約1時間29分！日本一の米どころ・酒どころである新潟。「信濃川と日本海を見下ろす地上140mのランドマーク」を誇る「ホテル日航新潟」、新潟駅万代口徒歩すぐで天然温泉大浴場と夜鳴きそば完備の「ドーミーイン新潟」、新幹線直結の好アクセスを誇る「アートホテル新潟駅前」を徹底特集。',
     url: 'https://croud-travel.pages.dev/niigata-solo-business-sake-seafood-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -27,12 +28,12 @@ export default function ArticlePage() {
     description: '上越新幹線で東京から最短約1時間29分！日本一の米どころ・酒どころである新潟。「信濃川と日本海を見下ろす地上140mのランドマーク」を誇る「ホテル日航新潟」、新潟駅万代口徒歩すぐで天然温泉大浴場と夜鳴きそば完備の「ドーミーイン新潟」、新幹線直結の好アクセスを誇る「アートホテル新潟駅前」を徹底特集。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル ひとり旅・出張調査班',
+      name: '旅宿クラウド ひとり旅・出張調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -79,6 +80,9 @@ export default function ArticlePage() {
           上越新幹線で東京から最短約1時間29分！日本一の米どころ・酒どころである新潟。「信濃川と日本海を見下ろす地上140mのランドマーク」を誇る「ホテル日航新潟」、新潟駅万代口徒歩すぐで天然温泉大浴場と夜鳴きそば完備の「ドーミーイン新潟」、新幹線直結の好アクセスを誇る「アートホテル新潟駅前」を徹底特集。
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"新潟出張＆地酒ひとり旅：信濃川パノラマ・天然温泉サウナ・ぽんしゅ館利き酒！日本海美食を堪能する極上宿 厳選3選"} url={"https://croud-travel.pages.dev/niigata-solo-business-sake-seafood-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
@@ -381,7 +385,7 @@ export default function ArticlePage() {
             href="/"
             className="inline-flex items-center gap-2 text-sm text-stone-600 hover:text-stone-900 font-medium transition-colors"
           >
-            ← クラウドトラベル トップページへ戻る
+            ← 旅宿クラウド トップページへ戻る
           </Link>
         </div>
       </div>
@@ -473,6 +477,9 @@ export default function ArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"新潟出張＆地酒ひとり旅：信濃川パノラマ・天然温泉サウナ・ぽんしゅ館利き酒！日本海美食を堪能する極上宿 厳選3選"} url={"https://croud-travel.pages.dev/niigata-solo-business-sake-seafood-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="niigata-solo-business-sake-seafood-stay" />
 </div>
         </section>

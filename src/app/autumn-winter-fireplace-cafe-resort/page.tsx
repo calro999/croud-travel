@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -113,6 +114,9 @@ export default function SeasonalFeaturePage() {
             外の寒さを忘れさせるパチパチと薪が爆ぜる暖炉の温もり。芳しい挽きたて珈琲やウイスキーを片手に、お気に入りの本を開く贅沢な冬の時間。時を重ねたクラシックホテルで過ごす大人の隠れ家ステイ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"暖炉と珈琲：パチパチ薪が燃える！大人の隠れ家クラシックホテル 厳選ガイド"} url={"https://croud-travel.pages.dev/autumn-winter-fireplace-cafe-resort/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function SeasonalFeaturePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"暖炉と珈琲：パチパチ薪が燃える！大人の隠れ家クラシックホテル 厳選ガイド"} url={"https://croud-travel.pages.dev/autumn-winter-fireplace-cafe-resort/"} />
+      </div>
       <HubRelatedPosts currentSlug="autumn-winter-fireplace-cafe-resort" />
 </div>
   );

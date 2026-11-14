@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月山口・萩温泉郷の維新城下町と初冬解禁本場天然とらふぐ】萩甘鯛・長州黒毛和牛＆日本海夕景露天の宿5選',
     description: '11月から12月にかけて世界遺産の城下町・山口県萩市は、白壁の武家屋敷通りに初冬の柔らかな日差しが差し込み。',
     url: 'https://croud-travel.pages.dev/winter-yamaguchi-hagi-onsen-fugu-choshu-beef-stay/',
-    siteName: 'クラドトラベル (Croud Travel)',
+    siteName: '旅宿クラウド (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -287,6 +288,9 @@ export default function HagiOnsenWinterFeature() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月山口・萩温泉郷の維新城下町と初冬解禁本場天然とらふぐ】萩甘鯛・長州黒毛和牛＆日本海夕景露天の宿5選"} url={"https://croud-travel.pages.dev/winter-yamaguchi-hagi-onsen-fugu-choshu-beef-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-10 space-y-12">
@@ -492,7 +496,7 @@ export default function HagiOnsenWinterFeature() {
                     <a
                       href={h.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="w-full sm:w-auto inline-flex items-center justify-center gap-2 bg-indigo-700 hover:bg-indigo-800 text-white font-bold text-sm px-6 py-3 rounded-2xl shadow-sm hover:shadow transition group flex-shrink-0"
                     >
                       <span>楽天トラベルでプランを見る</span>
@@ -611,6 +615,9 @@ export default function HagiOnsenWinterFeature() {
               <h3 className="text-sm font-bold group-hover:text-indigo-200 transition">日本三大秘境初雪渓谷美とケーブルカー谷底露天・特選阿波牛の宿</h3>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月山口・萩温泉郷の維新城下町と初冬解禁本場天然とらふぐ】萩甘鯛・長州黒毛和牛＆日本海夕景露天の宿5選"} url={"https://croud-travel.pages.dev/winter-yamaguchi-hagi-onsen-fugu-choshu-beef-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-yamaguchi-hagi-onsen-fugu-choshu-beef-stay" />
 </div>
         </section>

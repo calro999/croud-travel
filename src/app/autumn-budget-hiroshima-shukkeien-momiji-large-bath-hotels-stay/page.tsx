@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Image from 'next/image';
@@ -63,12 +64,14 @@ export default function HiroshimaBudgetAutumnPage() {
             秋は広島湾の牡蠣が旬を迎える季節。熱々のお好み焼きに大粒の牡蠣をトッピングした名物グルメを堪能し、大浴場で手足を伸ばして寛ぐのが賢い広島ステイの醍醐味です。
           </p>
         </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"秋の広島×格安：縮景園の紅葉ライトアップと旬の牡蠣・お好み焼き"} url={"https://croud-travel.pages.dev/autumn-budget-hiroshima-shukkeien-momiji-large-bath-hotels-stay/"} />
+      </div>
 
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-teal-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！広島の大浴場付き格安ホテル5選</h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">楽天トラベル高評価！広島の大浴場付き格安ホテル5選</h2>
 
           <div className="space-y-8">
 
@@ -498,6 +501,9 @@ export default function HiroshimaBudgetAutumnPage() {
               </div>
             </div>
           </div></section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"秋の広島×格安：縮景園の紅葉ライトアップと旬の牡蠣・お好み焼き"} url={"https://croud-travel.pages.dev/autumn-budget-hiroshima-shukkeien-momiji-large-bath-hotels-stay/"} />
+      </div>
         <div className="max-w-4xl mx-auto px-4 sm:px-6">
           <HubRelatedPosts currentSlug="autumn-budget-hiroshima-shukkeien-momiji-large-bath-hotels-stay" />
         </div>

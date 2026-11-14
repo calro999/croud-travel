@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
@@ -36,7 +37,7 @@ export default function Page() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "大正ロマン＆昭和モダン・アールデコ建築宿完全ガイド【ステンドグラスと意匠美】 | クラウドトラベル",
+    "headline": "大正ロマン＆昭和モダン・アールデコ建築宿完全ガイド【ステンドグラスと意匠美】 | 旅宿クラウド",
     "description": "ホテルニューグランド、熱海名邸、旧軽井沢倶楽部など、大正ロマンや昭和初期のアールデコ様式が色濃く残るレトロモダン宿を厳選。ステンドグラスやシャンデリアが誘うノスタルジックな滞在。",
     "url": "https://croud-travel.pages.dev/taisho-roman-showa-modern-art-deco-hotel-stay/",
     "publisher": {
@@ -50,7 +51,7 @@ export default function Page() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "大正ロマン＆昭和モダン・アールデコ建築宿完全ガイド【ステンドグラスと意匠美】 | クラウドトラベル", "item": "https://croud-travel.pages.dev/taisho-roman-showa-modern-art-deco-hotel-stay/" }
+      { "@type": "ListItem", "position": 2, "name": "大正ロマン＆昭和モダン・アールデコ建築宿完全ガイド【ステンドグラスと意匠美】 | 旅宿クラウド", "item": "https://croud-travel.pages.dev/taisho-roman-showa-modern-art-deco-hotel-stay/" }
     ]
   };
 
@@ -81,6 +82,9 @@ export default function Page() {
             西洋のモダニズムと日本の伝統工芸が奇跡的な融合を果たした大正末期から昭和初期。アールデコ調の幾何学レリーフ、色鮮やかなステンドグラス、重厚な真鍮の照明器具など、当時のモダニストたちが夢見た華麗なる空間が宿の中に息づいています。映画のワンシーンに迷い込んだかのようなノスタルジーに浸り、珈琲やワインを片手に贅沢な読書と寛ぎの時間を愉しむ名宿セレクションです。
           </p>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"大正ロマン＆昭和モダン・アールデコ建築宿厳選ガイド「ステンドグラスと意匠美」"} url={"https://croud-travel.pages.dev/taisho-roman-showa-modern-art-deco-hotel-stay/"} />
+      </div>
 
         {/* メインコンテンツセクション */}
         
@@ -308,8 +312,7 @@ export default function Page() {
 
         {/* よくある質問 FAQ */}
         <section className="mb-16 bg-white rounded-2xl shadow-sm border border-stone-200/80 p-6 md:p-8">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2"><span className="w-2 h-7 bg-amber-700 rounded-full inline-block"></span>
-            よくある質問・歴史建築宿の楽しみ方</h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">よくある質問・歴史建築宿の楽しみ方</h2>
           <div className="space-y-4">
             
             <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
@@ -500,6 +503,9 @@ export default function Page() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"大正ロマン＆昭和モダン・アールデコ建築宿厳選ガイド「ステンドグラスと意匠美」"} url={"https://croud-travel.pages.dev/taisho-roman-showa-modern-art-deco-hotel-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="taisho-roman-showa-modern-art-deco-hotel-stay" />
 </div>
         </section>

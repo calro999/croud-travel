@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -277,6 +278,9 @@ export default function KinosakiWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11月解禁！城崎温泉の青タグ津居山ガニ】名物7つの外湯めぐりと極上活ズワイガニ会席宿5選"} url={"https://croud-travel.pages.dev/winter-hyogo-kinosaki-onsen-matsuba-crab-stay/"} />
+      </div>
 
       {/* Main Content Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
@@ -408,7 +412,7 @@ export default function KinosakiWinterPage() {
                       </span>
                     </div>
 
-                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug hover:text-cyan-800 transition-colors"><a href={hotel.url} target="_blank" rel="noopener noreferrer">
+                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug hover:text-cyan-800 transition-colors"><a href={hotel.url} target="_blank" rel="sponsored noopener noreferrer">
                         {hotel.name}
                       </a></h3>
 
@@ -451,7 +455,7 @@ export default function KinosakiWinterPage() {
                     <a
                       href={hotel.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-6 py-3 rounded-xl bg-cyan-800 hover:bg-cyan-900 text-white font-bold text-sm shadow-md hover:shadow-lg transition-all transform active:scale-98"
                     >
                       <span>楽天トラベルで空室・プランを見る</span>
@@ -685,6 +689,9 @@ export default function KinosakiWinterPage() {
               <Link href="/prefectures/okayama/" className="px-3 py-1.5 bg-stone-100 hover:bg-cyan-100 text-stone-700 hover:text-cyan-900 rounded-lg transition-colors font-medium">岡山県の宿一覧</Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11月解禁！城崎温泉の青タグ津居山ガニ】名物7つの外湯めぐりと極上活ズワイガニ会席宿5選"} url={"https://croud-travel.pages.dev/winter-hyogo-kinosaki-onsen-matsuba-crab-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-hyogo-kinosaki-onsen-matsuba-crab-stay" />
 </div>
         </section>

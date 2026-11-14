@@ -46,7 +46,7 @@ const CAMPAIGNS: CampaignItem[] = [
     discountInfo: "寄付額の最大30%相当のクーポン進呈（控除上限内なら実質2,000円負担）",
     description: "年間の控除上限額の範囲内であれば自己負担実質2,000円で、憧れの高級温泉旅館やリゾートホテルに宿泊できる大人気制度！寄付後すぐに予約で使えるデジタルクーポンが発券されます。",
     targetDays: "通年開催中（控除上限額の確認はお早めに）",
-    highlights: ["あとから予約にクーポンを適用することも可能", "有効期限が最長3年間と長くて安心", "ポイント還元とダブルでお得"],
+    highlights: ["あとから予約にクーポンを適用することも可能", "有効期限が最長3年間と長くて安心", "控除上限内なら自己負担実質2,000円で贅沢宿泊"],
     affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F",
     imageUrl: "/images/rakuten_furusato_travel.png",
     category: "地域応援・クーポン"
@@ -65,12 +65,12 @@ const CAMPAIGNS: CampaignItem[] = [
   },
   {
     id: "rakuten-seasonal-deals",
-    title: "秋冬の温泉旅行＆ご当地グルメ応援セール",
-    badge: "最新シーズン限定企画",
-    discountInfo: "早期予約クーポン＆限定タイムセールプラン",
-    description: "秋の紅葉狩りや冬の雪見露天風呂、カニ・ふぐ・地魚などの冬グルメを満喫するための期間限定セール！早期予約でお得なプランが続々登場。",
-    targetDays: "秋冬シーズン限定・順次更新中",
-    highlights: ["全国の人気温泉宿・露天風呂付き客室がお得", "冬の味覚（カニ・寒ブリ・地鶏など）プラン多数", "楽天トラベル限定の直前割・早期割"],
+    title: "冬休み・年末年始の雪見露天＆冬味覚応援セール",
+    badge: "2026-2027冬季限定企画",
+    discountInfo: "早期予約クーポン＆直前タイムセールプラン",
+    description: "冬休み・年末年始の雪見露天風呂や温泉年越し、越前ガニ・松葉ガニ・とらふぐなど冬グルメを満喫するための期間限定セール！早期予約・直前割でお得なプランが続々登場。",
+    targetDays: "冬季・年末年始シーズン限定・順次更新中",
+    highlights: ["全国の雪見露天風呂・客室露天風呂付き宿がお得", "冬の味覚（カニ・寒ブリ・あんこう鍋など）プラン多数", "楽天トラベル限定の直前割・年末年始空室"],
     affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fcoupon%2F",
     imageUrl: "/images/travel_hero_onsen.png",
     category: "大型セール"
@@ -223,15 +223,32 @@ export default function CampaignsPage() {
           </span>
           <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2"><span>楽天トラベル セール・割引クーポン利用でよくある質問（FAQ）</span></h2>
           <p className="text-xs text-emerald-950/70 leading-relaxed font-medium">
-            楽天トラベル セール、楽天セール トラベルの次回開催タイミングや、クーポンの併用ルール、お盆・夏休みのお得な予約方法をまとめました。
+            楽天トラベル セール・楽天トラベルスーパーSALEの次回開催タイミングや、クーポンの併用ルール、冬休み・年末年始のお得な予約方法をまとめました。
           </p>
+        </div>
+
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-3 mb-4">
+          <Link
+            href="/posts/furusato-tax-yearend-rush-rakuten-travel-coupon-guide/"
+            className="p-4 rounded-2xl bg-gradient-to-r from-amber-50 to-orange-50 border border-amber-300 hover:border-amber-500 transition block group"
+          >
+            <span className="inline-block text-[10px] font-black text-amber-900 bg-amber-200/80 px-2 py-0.5 rounded mb-1">12月31日締切・駆け込み必読</span>
+            <p className="text-sm font-black text-amber-950 group-hover:underline">ふるさと納税の駆け込み寄付×楽天トラベル宿泊クーポン完全ガイド（20選） →</p>
+          </Link>
+          <Link
+            href="/posts/winter-newyear-countdown-anaba-onsen-hotels-guide/"
+            className="p-4 rounded-2xl bg-gradient-to-r from-sky-50 to-indigo-50 border border-sky-300 hover:border-sky-500 transition block group"
+          >
+            <span className="inline-block text-[10px] font-black text-sky-900 bg-sky-200/80 px-2 py-0.5 rounded mb-1">冬休み・年末年始特集</span>
+            <p className="text-sm font-black text-sky-950 group-hover:underline">まだ間に合う！年末年始・年越しカウントダウン穴場温泉宿20選 →</p>
+          </Link>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
           <div className="p-5 rounded-2xl bg-amber-50/50 border border-amber-200 space-y-2">
             <h3 className="text-sm font-bold text-amber-950 flex items-center gap-1.5"><span>楽天トラベル セールは次回いつ開催されますか？</span></h3>
             <p className="text-xs text-emerald-950/80 leading-relaxed pl-5 font-medium">
-              楽天トラベルの大型セール（スーパーSALE等）は3月・6月・9月・12月の年4回開催されます。また、毎月「5と0のつく日」や季節限定のサマーセール・お盆先々セールも常時開催されています。
+              楽天トラベルの大型セール（楽天トラベルスーパーSALE等）は3月・6月・9月・12月の年4回開催されます。また、毎月「5と0のつく日」や年末年始直前セール・ウィンターセールも随時開催されています。
             </p>
           </div>
 
@@ -243,9 +260,9 @@ export default function CampaignsPage() {
           </div>
 
           <div className="p-5 rounded-2xl bg-indigo-50/50 border border-indigo-200 space-y-2">
-            <h3 className="text-sm font-bold text-indigo-950 flex items-center gap-1.5"><span>お盆や夏休みのホテル・温泉・プール宿はお得に予約できますか？</span></h3>
+            <h3 className="text-sm font-bold text-indigo-950 flex items-center gap-1.5"><span>冬休みや年末年始のホテル・雪見露天宿はお得に予約できますか？</span></h3>
             <p className="text-xs text-emerald-950/80 leading-relaxed pl-5 font-medium">
-              早期予約クーポンや「5と0のつく日」の高級宿20%OFFクーポンを狙うのがコツです。満室になりやすいプール付きファミリーホテルや人気温泉宿も事前クーポンでお安く予約できます。
+              早期予約クーポンや「5と0のつく日」の高級宿最大20%OFFクーポン、ふるさと納税宿泊クーポンを活用するのがコツです。満室になりやすい雪見露天風呂やカニ付き温泉宿も事前クーポンでお得に予約できます。
             </p>
           </div>
 

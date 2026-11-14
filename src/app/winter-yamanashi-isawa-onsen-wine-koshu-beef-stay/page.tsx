@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -277,6 +278,9 @@ export default function IsawaWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月石和温泉の新酒ワインと美肌湯】富士を望む甲州名湯と甲州牛ステーキ・冬のほうとう会席宿5選"} url={"https://croud-travel.pages.dev/winter-yamanashi-isawa-onsen-wine-koshu-beef-stay/"} />
+      </div>
 
       {/* Main Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
@@ -463,7 +467,7 @@ export default function IsawaWinterPage() {
                     <a
                       href={hotel.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-6 py-3.5 rounded-2xl bg-gradient-to-r from-purple-800 to-stone-900 hover:from-purple-900 hover:to-black text-white font-bold text-sm shadow-md hover:shadow-lg transition-all transform hover:-translate-y-0.5"
                     >
                       <span>楽天トラベルでプラン・空室を見る</span>
@@ -660,6 +664,9 @@ export default function IsawaWinterPage() {
               <h3 className="text-sm font-bold text-stone-900 group-hover:text-purple-800 transition line-clamp-2">【下呂温泉】冬花火ミュージカルと日本三名泉の美肌湯・飛騨牛会席</h3>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月石和温泉の新酒ワインと美肌湯】富士を望む甲州名湯と甲州牛ステーキ・冬のほうとう会席宿5選"} url={"https://croud-travel.pages.dev/winter-yamanashi-isawa-onsen-wine-koshu-beef-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-yamanashi-isawa-onsen-wine-koshu-beef-stay" />
 </div>
         </section>

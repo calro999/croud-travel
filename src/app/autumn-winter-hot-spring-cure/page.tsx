@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -113,6 +114,9 @@ export default function SeasonalFeaturePage() {
             何百年も人々の体を癒やし続けてきた奇跡の湯治場（とうじば）。加水・加温一切なしの圧倒的な源泉力、硫黄香る白濁湯、歴史ある木造大浴場で、日頃の疲れを根底から解きほぐす本格温泉ステイ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"本格湯治場：源泉かけ流し＆効能抜群の名湯秘湯旅館 厳選ガイド"} url={"https://croud-travel.pages.dev/autumn-winter-hot-spring-cure/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function SeasonalFeaturePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"本格湯治場：源泉かけ流し＆効能抜群の名湯秘湯旅館 厳選ガイド"} url={"https://croud-travel.pages.dev/autumn-winter-hot-spring-cure/"} />
+      </div>
       <HubRelatedPosts currentSlug="autumn-winter-hot-spring-cure" />
 </div>
   );

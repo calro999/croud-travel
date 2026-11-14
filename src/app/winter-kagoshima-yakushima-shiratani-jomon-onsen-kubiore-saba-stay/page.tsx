@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
@@ -15,7 +16,7 @@ export const metadata: Metadata = {
     title: '静寂の原生林と白谷雲水峡・極上温泉：2026-2027年冬の屋久島！首折れサバと天然露天風呂宿5選',
     description: '冬だけの静寂に包まれる世界自然遺産・屋久島！朝露に光る白谷雲水峡の苔むす森トレッキング、旬を迎える極上の首折れサバ・屋久鹿料理と絶景オーシャンビュー温泉を堪能する大人の冬旅名宿5選。',
     url: 'https://croud-travel.pages.dev/winter-kagoshima-yakushima-shiratani-jomon-onsen-kubiore-saba-stay/',
-    siteName: 'クラウドトラベル',
+    siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -79,6 +80,9 @@ export default function WinterFeaturePage() {
             </div>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"静寂の原生林と白谷雲水峡・極上温泉：2026-2027年冬の屋久島！首折れサバと天然露天風呂宿5選"} url={"https://croud-travel.pages.dev/winter-kagoshima-yakushima-shiratani-jomon-onsen-kubiore-saba-stay/"} />
+      </div>
 
         {/* 魅力・おすすめ理由 */}
         <section className="max-w-4xl mx-auto px-4 py-10">
@@ -91,22 +95,19 @@ export default function WinterFeaturePage() {
             </div>
             <div className="grid grid-cols-1 gap-4">
               <div className="p-4 rounded-xl bg-stone-50 border border-stone-200/80 space-y-1.5">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-cyan-600"></span>
-                  静寂の森を独り占めできる冬の「白谷雲水峡」と苔の雫</h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">静寂の森を独り占めできる冬の「白谷雲水峡」と苔の雫</h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                   映画のモデルとして名高い白谷雲水峡。夏は多くの登山者で賑わいますが、11月から1月は静けさに包まれます。冬の澄んだ大気と朝露によって苔の瑞々しさが際立ち、神秘的な緑の回廊を心ゆくまで自分のペースでトレッキングできます。
                 </p>
               </div>
               <div className="p-4 rounded-xl bg-stone-50 border border-stone-200/80 space-y-1.5">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-cyan-600"></span>
-                  冬に脂乗りがピークに達する「首折れサバ」と島の美味</h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">冬に脂乗りがピークに達する「首折れサバ」と島の美味</h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                   屋久島近海で一本釣りされ、鮮度を保つため首を折って血抜きされる「首折れサバ」。厳冬期は身が引き締まり脂の乗りが抜群で、コリコリとした歯ごたえと上質な脂の甘みはここでしか味わえません。トビウオの姿揚げや屋久鹿料理との相性も格別です。
                 </p>
               </div>
               <div className="p-4 rounded-xl bg-stone-50 border border-stone-200/80 space-y-1.5">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-cyan-600"></span>
-                  海と森に抱かれる絶景温泉と、湯けむりからの星空観賞</h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">海と森に抱かれる絶景温泉と、湯けむりからの星空観賞</h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                   屋久島南部の尾之間温泉や平内海中温泉をはじめ、島内屈指のリゾートホテルには源泉掛け流しやオーシャンビューの露天風呂が点在。冬は空気が澄み渡るため、湯船に浸かりながら満天の天の川や東シナ海の水平線を一望できます。
                 </p>
@@ -546,6 +547,10 @@ export default function WinterFeaturePage() {
             </div>
           </div>
         </section>
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"静寂の原生林と白谷雲水峡・極上温泉：2026-2027年冬の屋久島！首折れサバと天然露天風呂宿5選"} url={"https://croud-travel.pages.dev/winter-kagoshima-yakushima-shiratani-jomon-onsen-kubiore-saba-stay/"} />
+      </div>
       </main>
     </>
   );

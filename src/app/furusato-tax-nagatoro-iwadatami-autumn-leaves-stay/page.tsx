@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
@@ -5,7 +6,7 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '長瀞ラインくだりの岩畳紅葉＆月の石もみじ公園ライトアップ！秩父温泉宿×ふるさと納税厳選ガイド埼玉',
   description: '11月上旬〜下旬に荒川沿いの国指定名勝が黄金色と深紅に染まる「埼玉・長瀞岩畳」。舟から見上げる岩畳紅葉ラインくだりや月の石もみじ公園の幻想的なライトアップ、秩父の山懐に抱かれた「花のおもてなし 長生館」「teihaku秩父長瀞 古民家邸」「丸山鉱泉旅館」で秩父名物豚みそ漬けや手打ちそば・ぼたん鍋を堪能。ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。',
-  keywords: ["長瀞ラインくだりの岩畳紅葉", "2026年最新秋旅", "埼玉", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
+  keywords: ["長瀞ラインくだりの岩畳紅葉", "2026年末・冬休み対応", "埼玉", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-nagatoro-iwadatami-autumn-leaves-stay/"
   },
@@ -38,7 +39,7 @@ const HOTEL_DATA = {
   nagatoro_teihaku: {
     name: 'ＢＢＱ×露天風呂付き一棟貸切ホテル　ｔｅｉｈａｋｕ秩父長瀞　古民家邸',
     no: 188101,
-    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9485%2F9485.html',
+    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F188101%2F188101.html',
     planUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F188101%2F188101.html%26f_flg%3DPLAN',
     reviewUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D188101',
     img: 'https://img.travel.rakuten.co.jp/share/HOTEL/188101/188101.jpg',
@@ -53,7 +54,7 @@ const HOTEL_DATA = {
   nagatoro_maruyama: {
     name: '丸山鉱泉旅館',
     no: 56686,
-    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F188101%2F188101.html',
+    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F56686%2F56686.html',
     planUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F56686%2F56686.html%26f_flg%3DPLAN',
     reviewUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D56686',
     img: 'https://img.travel.rakuten.co.jp/share/HOTEL/56686/56686.jpg',
@@ -72,7 +73,7 @@ export default function FeatureArticlePage() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "長瀞ラインくだりの岩畳紅葉＆月の石もみじ公園ライトアップ！秩父温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】埼玉",
+    "headline": "長瀞ラインくだりの岩畳紅葉＆月の石もみじ公園ライトアップ！秩父温泉宿×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】埼玉",
     "description": "11月上旬〜下旬に荒川沿いの国指定名勝が黄金色と深紅に染まる「埼玉・長瀞岩畳」。舟から見上げる岩畳紅葉ラインくだりや月の石もみじ公園の幻想的なライトアップ、秩父の山懐に抱かれた「花のおもてなし 長生館」「teihaku秩父長瀞 古民家邸」「丸山鉱泉旅館」で秩父名物豚みそ漬けや手打ちそば・ぼたん鍋を堪能。ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。",
     "url": "https://croud-travel.pages.dev/furusato-tax-nagatoro-iwadatami-autumn-leaves-stay/",
     "publisher": {
@@ -86,7 +87,7 @@ export default function FeatureArticlePage() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "長瀞ラインくだりの岩畳紅葉＆月の石もみじ公園ライトアップ！秩父温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】埼玉", "item": "https://croud-travel.pages.dev/furusato-tax-nagatoro-iwadatami-autumn-leaves-stay/" }
+      { "@type": "ListItem", "position": 2, "name": "長瀞ラインくだりの岩畳紅葉＆月の石もみじ公園ライトアップ！秩父温泉宿×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】埼玉", "item": "https://croud-travel.pages.dev/furusato-tax-nagatoro-iwadatami-autumn-leaves-stay/" }
     ]
   };
 
@@ -111,7 +112,7 @@ export default function FeatureArticlePage() {
       <header className="bg-gradient-to-br from-stone-900 via-amber-950 to-orange-950 text-white py-14 md:py-20 px-4 mb-10 shadow-lg">
         <div className="max-w-5xl mx-auto text-center">
           <div className="inline-flex items-center gap-2 bg-white/20 backdrop-blur-md px-4 py-1.5 rounded-full text-xs md:text-sm font-semibold mb-5 text-amber-200">
-            <span>🍁 10月・11月限定 秋旅特集</span>
+            <span>🍁 12/31締切 年末駆け込み＆冬休み対応</span>
             <span>•</span>
             <span>楽天ふるさと納税トラベルクーポン対応</span>
           </div>
@@ -121,6 +122,9 @@ export default function FeatureArticlePage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"長瀞ラインくだりの岩畳紅葉＆月の石もみじ公園ライトアップ！秩父温泉宿×ふるさと納税厳選ガイド埼玉"} url={"https://croud-travel.pages.dev/furusato-tax-nagatoro-iwadatami-autumn-leaves-stay/"} />
+      </div>
 
       <div className="max-w-5xl mx-auto px-4 grid grid-cols-1 lg:grid-cols-3 gap-8">
         {/* メインコンテンツ */}
@@ -132,11 +136,11 @@ export default function FeatureArticlePage() {
               埼玉県北西部に位置する長瀞（ながとろ）は、国指定名勝・天然記念物の「岩畳」をはじめとする美しい自然美が魅力。秋には荒川の両岸が鮮やかなモミジやクヌギで彩られ、船頭が巧みに操る「長瀞ラインくだり」でスリルとともに紅葉パノラマを満喫できます。夜には「月の石もみじ公園」が幻想的にライトアップされ、秩父の薬湯や天然温泉と郷土の味覚・豚みそ漬けや岩魚料理を味わえます。
             </p>
             <div className="bg-amber-50/80 rounded-xl p-5 border border-amber-200/80">
-              <h3 className="font-bold text-amber-950 text-sm md:text-base mb-2 flex items-center gap-2">10月〜11月の旅を満喫する3大ポイント</h3>
+              <h3 className="font-bold text-amber-950 text-sm md:text-base mb-2 flex items-center gap-2">年末〜冬休み・来春の旅を満喫する3大ポイント</h3>
               <ul className="text-xs md:text-sm text-amber-900 space-y-2 list-disc list-inside">
-                <li><strong>見頃の紅葉パノラマ：</strong>標高や日当たりで刻一刻と変化するグラデーションを鑑賞（長瀞ラインくだりの岩畳紅葉＆月の石もみじ公園ライトア）</li>
-                <li><strong>極上の温泉と湯巡り：</strong>朝夕の冷え込む秋風の中で入る露天風呂は格別の贅沢（長瀞ラインくだりの岩畳紅葉＆月の石もみじ公園ライトア）</li>
-                <li><strong>控除上限内なら自己負担実質2,000円（最大30%クーポン還元）：</strong>楽天ふるさと納税トラベルクーポンで賢く予約（長瀞ラインくだりの岩畳紅葉＆月の石もみじ公園ライトア）</li>
+                <li><strong>見頃の紅葉パノラマ：</strong>標高や日当たりで刻一刻と変化するグラデーションを鑑賞</li>
+                <li><strong>極上の温泉と湯巡り：</strong>朝夕の冷え込む秋風の中で入る露天風呂は格別の贅沢</li>
+                <li><strong>控除上限内なら自己負担実質2,000円（最大30%クーポン還元）：</strong>楽天ふるさと納税トラベルクーポンで賢く予約</li>
               </ul>
             </div>
           </section>
@@ -185,7 +189,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.nagatoro_choseikan.planUrl || HOTEL_DATA.nagatoro_choseikan.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-3.5 px-6 rounded-xl text-center shadow-md transition-all text-sm md:text-base flex items-center justify-center gap-2"
               >
                 <span>プラン一覧・空室確認（楽天トラベル）</span>
@@ -194,7 +198,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.nagatoro_choseikan.reviewUrl || HOTEL_DATA.nagatoro_choseikan.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="bg-stone-100 hover:bg-stone-200 text-stone-700 font-bold py-3.5 px-5 rounded-xl text-center border border-stone-300 text-sm transition-all"
               >
                 口コミを見る
@@ -246,7 +250,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.nagatoro_teihaku.planUrl || HOTEL_DATA.nagatoro_teihaku.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-3.5 px-6 rounded-xl text-center shadow-md transition-all text-sm md:text-base flex items-center justify-center gap-2"
               >
                 <span>プラン一覧・空室確認（楽天トラベル）</span>
@@ -255,7 +259,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.nagatoro_teihaku.reviewUrl || HOTEL_DATA.nagatoro_teihaku.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="bg-stone-100 hover:bg-stone-200 text-stone-700 font-bold py-3.5 px-5 rounded-xl text-center border border-stone-300 text-sm transition-all"
               >
                 口コミを見る
@@ -307,7 +311,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.nagatoro_maruyama.planUrl || HOTEL_DATA.nagatoro_maruyama.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-3.5 px-6 rounded-xl text-center shadow-md transition-all text-sm md:text-base flex items-center justify-center gap-2"
               >
                 <span>プラン一覧・空室確認（楽天トラベル）</span>
@@ -316,7 +320,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.nagatoro_maruyama.reviewUrl || HOTEL_DATA.nagatoro_maruyama.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="bg-stone-100 hover:bg-stone-200 text-stone-700 font-bold py-3.5 px-5 rounded-xl text-center border border-stone-300 text-sm transition-all"
               >
                 口コミを見る
@@ -357,19 +361,19 @@ export default function FeatureArticlePage() {
             <h3 className="font-bold text-stone-900 mb-4 pb-2 border-b border-stone-200 flex items-center gap-2">この特集で紹介した宿</h3>
             <ul className="space-y-4 text-xs md:text-sm">
               <li>
-                <a href={HOTEL_DATA.nagatoro_choseikan.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
+                <a href={HOTEL_DATA.nagatoro_choseikan.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
                   <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.nagatoro_choseikan.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.nagatoro_choseikan.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
-                <a href={HOTEL_DATA.nagatoro_teihaku.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
+                <a href={HOTEL_DATA.nagatoro_teihaku.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
                   <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.nagatoro_teihaku.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.nagatoro_teihaku.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
-                <a href={HOTEL_DATA.nagatoro_maruyama.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
+                <a href={HOTEL_DATA.nagatoro_maruyama.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
                   <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.nagatoro_maruyama.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.nagatoro_maruyama.rating} | 楽天トラベルで詳細確認</div>
                 </a>
@@ -531,6 +535,9 @@ export default function FeatureArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"長瀞ラインくだりの岩畳紅葉＆月の石もみじ公園ライトアップ！秩父温泉宿×ふるさと納税厳選ガイド埼玉"} url={"https://croud-travel.pages.dev/furusato-tax-nagatoro-iwadatami-autumn-leaves-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-nagatoro-iwadatami-autumn-leaves-stay" />
 </div>
         </section>

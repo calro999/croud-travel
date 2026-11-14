@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -171,6 +172,9 @@ export default function SilverWeekGlampingLastMinuteGuidePage() {
             <span className="flex items-center gap-1.5">✓ 手ぶらBBQ＆本格温泉併設の即決候補</span>
           </div>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"まだ間に合う！シルバーウィーク直前予約グランピング：空室ありの穴場施設＆キャンセル拾いの極意"} url={"https://croud-travel.pages.dev/silver-week-glamping-last-minute-empty-rooms-guide/"} />
+      </div>
       </section>
 
       {/* 楽天トラベルスペシャルクーポンバナー */}
@@ -397,6 +401,9 @@ export default function SilverWeekGlampingLastMinuteGuidePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"まだ間に合う！シルバーウィーク直前予約グランピング：空室ありの穴場施設＆キャンセル拾いの極意"} url={"https://croud-travel.pages.dev/silver-week-glamping-last-minute-empty-rooms-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="silver-week-glamping-last-minute-empty-rooms-guide" />
 </div>
   );

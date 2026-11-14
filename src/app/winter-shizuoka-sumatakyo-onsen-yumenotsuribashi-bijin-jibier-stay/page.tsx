@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
     title: '【11・12・1月静岡】南アルプス秘境「夢の吊橋」冬のコバルトブルー・とろとろ美女づくりの湯＆冬の猪鍋・大井川鐵道名湯宿5選',
     description: '11月から1月、静岡県川根本町の奥大井・寸又峡は、大間ダム湖が年間で最も冴え渡るミルキーブルーに輝く「夢の吊橋」の絶景シーズン。',
     url: 'https://croud-travel.pages.dev/winter-shizuoka-sumatakyo-onsen-yumenotsuribashi-bijin-jibier-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     images: [
       {
         url: 'https://img.travel.rakuten.co.jp/share/HOTEL/10709/10709.jpg',
@@ -49,12 +50,12 @@ export default function ShizuokaSumatakyoOnsenWinterPage() {
     dateModified: '',
     author: {
       '@type': 'Organization',
-      name: 'クラドトラベル編集部',
+      name: '旅宿クラウド編集部',
       url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png'
@@ -293,6 +294,9 @@ export default function ShizuokaSumatakyoOnsenWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月静岡】南アルプス秘境「夢の吊橋」冬のコバルトブルー・とろとろ美女づくりの湯＆冬の猪鍋・大井川鐵道名湯宿5選"} url={"https://croud-travel.pages.dev/winter-shizuoka-sumatakyo-onsen-yumenotsuribashi-bijin-jibier-stay/"} />
+      </div>
 
       {/* Main Content Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 pt-12 space-y-16">
@@ -446,7 +450,7 @@ export default function ShizuokaSumatakyoOnsenWinterPage() {
                       <a 
                         href={hotel.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center justify-center gap-2 w-full sm:w-auto px-6 py-3 bg-gradient-to-r from-teal-600 to-teal-700 hover:from-teal-700 hover:to-teal-800 text-white font-bold text-sm rounded-xl shadow-md transition-all shrink-0"
                       >
                         <span>空室・宿泊プランを確認する</span>
@@ -652,6 +656,9 @@ export default function ShizuokaSumatakyoOnsenWinterPage() {
               <span>冬の特集一覧へ戻る</span>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月静岡】南アルプス秘境「夢の吊橋」冬のコバルトブルー・とろとろ美女づくりの湯＆冬の猪鍋・大井川鐵道名湯宿5選"} url={"https://croud-travel.pages.dev/winter-shizuoka-sumatakyo-onsen-yumenotsuribashi-bijin-jibier-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-shizuoka-sumatakyo-onsen-yumenotsuribashi-bijin-jibier-stay" />
 </div>
         </section>

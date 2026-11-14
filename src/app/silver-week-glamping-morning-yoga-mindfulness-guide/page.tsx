@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -227,6 +228,9 @@ export default function SilverWeekGlampingMorningYogaMindfulnessPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"朝ヨガ＆森林セラピー グランピング：朝陽と鳥の声で目覚める！美と健康のリトリート女子旅"} url={"https://croud-travel.pages.dev/silver-week-glamping-morning-yoga-mindfulness-guide/"} />
+      </div>
 
       {/* 楽天トラベル クーポンバナー */}
       <SpecialCouponBanner />
@@ -436,6 +440,9 @@ export default function SilverWeekGlampingMorningYogaMindfulnessPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"朝ヨガ＆森林セラピー グランピング：朝陽と鳥の声で目覚める！美と健康のリトリート女子旅"} url={"https://croud-travel.pages.dev/silver-week-glamping-morning-yoga-mindfulness-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="silver-week-glamping-morning-yoga-mindfulness-guide" />
 </div>
   );

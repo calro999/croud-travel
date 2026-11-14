@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月南知多温泉郷の伊勢湾パノラマ夕日露天と本場とらふぐ】天然とらふぐフルコース・知多牛ステーキ＆日間賀島たこ会席の海辺宿5選',
     description: '11月から12月にかけて愛知県・知多半島の最南端に位置する南知多温泉郷（内海・山海・師崎）の魅力とおすすめ宿泊施設を詳しくご紹介します。',
     url: 'https://croud-travel.pages.dev/winter-aichi-minamichita-onsen-torafugu-chita-beef-stay/',
-    siteName: 'クラドトラベル (Croud Travel)',
+    siteName: '旅宿クラウド (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -287,6 +288,9 @@ export default function MinamichitaOnsenWinterFeature() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月南知多温泉郷の伊勢湾パノラマ夕日露天と本場とらふぐ】天然とらふぐフルコース・知多牛ステーキ＆日間賀島たこ会席の海辺宿5選"} url={"https://croud-travel.pages.dev/winter-aichi-minamichita-onsen-torafugu-chita-beef-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-10 space-y-12">
@@ -393,7 +397,7 @@ export default function MinamichitaOnsenWinterFeature() {
                           <span className="text-slate-400 font-normal text-xs">({h.reviews}件)</span>
                         </div>
                       </div>
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-teal-800 transition"><a href={h.url} target="_blank" rel="noopener noreferrer">
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-teal-800 transition"><a href={h.url} target="_blank" rel="sponsored noopener noreferrer">
                           {h.name}
                         </a></h3>
                     </div>
@@ -462,7 +466,7 @@ export default function MinamichitaOnsenWinterFeature() {
                     <a
                       href={h.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="w-full sm:w-auto px-6 py-3.5 rounded-2xl bg-gradient-to-r from-teal-800 to-teal-900 hover:from-teal-900 hover:to-slate-900 text-white font-bold text-sm shadow-md hover:shadow-lg transition flex items-center justify-center gap-2"
                     >
                       <span>楽天トラベルでプラン・空室を見る</span>
@@ -615,6 +619,9 @@ export default function MinamichitaOnsenWinterFeature() {
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">全国の厳選温泉・旬旅特集まとめを見る</h3>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月南知多温泉郷の伊勢湾パノラマ夕日露天と本場とらふぐ】天然とらふぐフルコース・知多牛ステーキ＆日間賀島たこ会席の海辺宿5選"} url={"https://croud-travel.pages.dev/winter-aichi-minamichita-onsen-torafugu-chita-beef-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-aichi-minamichita-onsen-torafugu-chita-beef-stay" />
 </div>
         </section>

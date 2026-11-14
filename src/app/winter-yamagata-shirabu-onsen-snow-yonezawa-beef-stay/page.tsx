@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月山形・白布温泉＆新高湯温泉】西吾妻山の豪雪秘湯と開湯700年の名物湯滝・最高峰A5米沢牛すき焼きを堪能する名宿5選',
     description: '11月中旬から深い雪に包まれる山形県米沢市の秘境・西吾妻山山麓に位置する白布温泉（しらぶおんせん）と新高湯温泉。',
     url: 'https://croud-travel.pages.dev/winter-yamagata-shirabu-onsen-snow-yonezawa-beef-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -49,7 +50,7 @@ export default function YamagataShirabuYonezawaPage() {
         "isPartOf": {
           "@type": "WebSite",
           "@id": "https://croud-travel.pages.dev/#website",
-          "name": "クラドトラベル",
+          "name": "旅宿クラウド",
           "url": "https://croud-travel.pages.dev/"
         },
         "headline": "【11・12月山形・白布温泉＆新高湯温泉】西吾妻山の豪雪秘湯と開湯700年の名物湯滝・最高峰A5米沢牛すき焼きを堪能する名宿5選",
@@ -60,7 +61,7 @@ export default function YamagataShirabuYonezawaPage() {
         "mainEntityOfPage": "https://croud-travel.pages.dev/winter-yamagata-shirabu-onsen-snow-yonezawa-beef-stay/",
         "publisher": {
           "@type": "Organization",
-          "name": "クラドトラベル編集部",
+          "name": "旅宿クラウド編集部",
           "url": "https://croud-travel.pages.dev/"
         }
       },
@@ -348,6 +349,9 @@ export default function YamagataShirabuYonezawaPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月山形・白布温泉＆新高湯温泉】西吾妻山の豪雪秘湯と開湯700年の名物湯滝・最高峰A5米沢牛すき焼きを堪能する名宿5選"} url={"https://croud-travel.pages.dev/winter-yamagata-shirabu-onsen-snow-yonezawa-beef-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-10 sm:pt-14 space-y-12">
@@ -460,7 +464,7 @@ export default function YamagataShirabuYonezawaPage() {
                         <a
                           href={hotel.url}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="inline-flex items-center gap-1.5 bg-amber-800 hover:bg-amber-900 text-white text-xs sm:text-sm font-bold px-4 py-2.5 rounded-xl transition shadow-xs"
                         >
                           プラン一覧を見る
@@ -647,6 +651,9 @@ export default function YamagataShirabuYonezawaPage() {
               </p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月山形・白布温泉＆新高湯温泉】西吾妻山の豪雪秘湯と開湯700年の名物湯滝・最高峰A5米沢牛すき焼きを堪能する名宿5選"} url={"https://croud-travel.pages.dev/winter-yamagata-shirabu-onsen-snow-yonezawa-beef-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-yamagata-shirabu-onsen-snow-yonezawa-beef-stay" />
 </div>
         </section>

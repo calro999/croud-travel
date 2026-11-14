@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -13,7 +14,7 @@ export const metadata: Metadata = {
     title: '姫路出張＆世界遺産ひとり旅：姫路城ビュー・姫路駅直結・天然温泉サウナ！名物穴子めしと播磨の地酒を味わう名宿 厳選3選',
     description: '山陽新幹線全列車停車・兵庫県西部の産業拠点「姫路」！「JR姫路駅直結でサウナ付き温浴施設完備」の「ホテルモントレ姫路」、最上階に天然温泉大浴場と夜鳴きそば完備の「天然温泉 白鷺の湯 ドーミーイン姫路」、姫路城を望む格式あるシティホテル「ホテル日航姫路」を徹底特集。',
     url: 'https://croud-travel.pages.dev/himeji-solo-business-castle-onsen-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -27,12 +28,12 @@ export default function ArticlePage() {
     description: '山陽新幹線全列車停車・兵庫県西部の産業拠点「姫路」！「JR姫路駅直結でサウナ付き温浴施設完備」の「ホテルモントレ姫路」、最上階に天然温泉大浴場と夜鳴きそば完備の「天然温泉 白鷺の湯 ドーミーイン姫路」、姫路城を望む格式あるシティホテル「ホテル日航姫路」を徹底特集。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル ひとり旅・出張調査班',
+      name: '旅宿クラウド ひとり旅・出張調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -79,6 +80,9 @@ export default function ArticlePage() {
           山陽新幹線全列車停車・兵庫県西部の産業拠点「姫路」！「JR姫路駅直結でサウナ付き温浴施設完備」の「ホテルモントレ姫路」、最上階に天然温泉大浴場と夜鳴きそば完備の「天然温泉 白鷺の湯 ドーミーイン姫路」、姫路城を望む格式あるシティホテル「ホテル日航姫路」を徹底特集。
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"姫路出張＆世界遺産ひとり旅：姫路城ビュー・姫路駅直結・天然温泉サウナ！名物穴子めしと播磨の地酒を味わう名宿 厳選3選"} url={"https://croud-travel.pages.dev/himeji-solo-business-castle-onsen-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
@@ -381,7 +385,7 @@ export default function ArticlePage() {
             href="/"
             className="inline-flex items-center gap-2 text-sm text-stone-600 hover:text-stone-900 font-medium transition-colors"
           >
-            ← クラウドトラベル トップページへ戻る
+            ← 旅宿クラウド トップページへ戻る
           </Link>
         </div>
       </div>
@@ -473,6 +477,9 @@ export default function ArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"姫路出張＆世界遺産ひとり旅：姫路城ビュー・姫路駅直結・天然温泉サウナ！名物穴子めしと播磨の地酒を味わう名宿 厳選3選"} url={"https://croud-travel.pages.dev/himeji-solo-business-castle-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="himeji-solo-business-castle-onsen-stay" />
 </div>
         </section>

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -164,6 +165,9 @@ export default function HighwayBusArticlePage() {
             東北新幹線「はやぶさ」なら東京〜盛岡最速2時間10分・片道約15,010円（往復約30,020円）。夜行高速バスなら片道約3,500円〜7,500円！往復で2万円以上浮くため、わんこそば100杯挑戦、本場盛岡冷麺、花巻温泉郷の奥座敷名旅館を贅沢に楽しめます。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"東京〜盛岡・花巻：新幹線はやぶさ vs 夜行バス徹底比較！片道3,500円〜行く三大麺爆食＆花巻温泉郷1泊2日モデルコース"} url={"https://croud-travel.pages.dev/tokyo-iwate-morioka-bus-vs-shinkansen-guide/"} />
       </div>
 
       {/* 📊 交通手段・料金・所要時間の徹底比較テーブル */}
@@ -427,6 +431,9 @@ export default function HighwayBusArticlePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"東京〜盛岡・花巻：新幹線はやぶさ vs 夜行バス徹底比較！片道3,500円〜行く三大麺爆食＆花巻温泉郷1泊2日モデルコース"} url={"https://croud-travel.pages.dev/tokyo-iwate-morioka-bus-vs-shinkansen-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="tokyo-iwate-morioka-bus-vs-shinkansen-guide" />
 </div>
   );

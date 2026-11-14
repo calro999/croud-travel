@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             現世の幸せを祈る「羽黒山」、過去を清める「月山」、未来の生まれ変わりを願う「湯殿山」の出羽三山。樹齢数百年の杉並木と国宝五重塔。修験僧が受け継いできた精進料理のごま豆腐や山菜。日本海の絶景夕陽を望む湯野浜温泉と庄内美食の旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"山形・鶴岡＆羽黒山・出羽三山：国宝羽黒山五重塔・杉並木＆精進料理・庄内浜宿 厳選ガイド"} url={"https://croud-travel.pages.dev/yamagata-tsuruoka-hagurosan-dewasanzan-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"山形・鶴岡＆羽黒山・出羽三山：国宝羽黒山五重塔・杉並木＆精進料理・庄内浜宿 厳選ガイド"} url={"https://croud-travel.pages.dev/yamagata-tsuruoka-hagurosan-dewasanzan-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="yamagata-tsuruoka-hagurosan-dewasanzan-stay" />
 </div>
   );

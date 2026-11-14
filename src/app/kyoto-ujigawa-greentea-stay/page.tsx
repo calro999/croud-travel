@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             宇治川の滔々たる清流と、極楽浄土を現世に再現した「平等院鳳凰堂」。香ばしい宇治茶の焙じ香が漂う参道。源氏物語の舞台となった歴史の古都で、極上の抹茶スイーツと川畔の静寂に浸る旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"京都・宇治：平等院鳳凰堂・宇治茶＆源氏物語ゆかりの川畔宿 厳選ガイド"} url={"https://croud-travel.pages.dev/kyoto-ujigawa-greentea-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -423,6 +427,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"京都・宇治：平等院鳳凰堂・宇治茶＆源氏物語ゆかりの川畔宿 厳選ガイド"} url={"https://croud-travel.pages.dev/kyoto-ujigawa-greentea-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="kyoto-ujigawa-greentea-stay" />
 </div>
   );

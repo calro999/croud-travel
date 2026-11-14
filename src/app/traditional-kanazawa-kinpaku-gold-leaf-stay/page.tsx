@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             金沢が誇る伝統工芸「金箔」を贅沢に使った黄金の金箔フェイシャルエステ＆金箔酒！開湯1300年の歴史を誇る加賀温泉郷（山中・山代・粟津）で、九谷焼の器で味わう極上加賀会席と名湯に浸る贅沢旅。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"金沢金箔エステ＆加賀会席：純金箔の贅沢スパ体験と山中・山代・粟津温泉の名宿5選"} url={"https://croud-travel.pages.dev/traditional-kanazawa-kinpaku-gold-leaf-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"金沢金箔エステ＆加賀会席：純金箔の贅沢スパ体験と山中・山代・粟津温泉の名宿5選"} url={"https://croud-travel.pages.dev/traditional-kanazawa-kinpaku-gold-leaf-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="traditional-kanazawa-kinpaku-gold-leaf-stay" />
 </div>
         </section>

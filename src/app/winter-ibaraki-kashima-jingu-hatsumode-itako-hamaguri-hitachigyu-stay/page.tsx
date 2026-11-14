@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from "react";
 import type { Metadata } from "next";
@@ -164,6 +165,9 @@ export default function FeaturePage() {
             </div>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"関東最古の霊場・鹿島神宮新春初詣と水郷の冬景色：2026-2027年冬の茨城・鹿島＆潮来！鹿島灘はまぐりと極上常陸牛名宿5選"} url={"https://croud-travel.pages.dev/winter-ibaraki-kashima-jingu-hatsumode-itako-hamaguri-hitachigyu-stay/"} />
+      </div>
 
         {/* なぜこの冬訪れるべきか */}
         <section className="max-w-4xl mx-auto px-4 mb-10">
@@ -227,8 +231,7 @@ export default function FeaturePage() {
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4 pt-2">
               <div className="bg-stone-50 rounded-xl p-4 sm:p-5 border border-stone-200/80 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 border-b border-stone-200/80 pb-2"><span className="w-2.5 h-2.5 rounded-full bg-cyan-700"></span>
-                  <span>エリアへのアクセス</span></h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 border-b border-stone-200/80 pb-2"><span>エリアへのアクセス</span></h4>
                 <ul className="space-y-2 text-xs sm:text-sm text-stone-600 leading-relaxed">
                   <li className="flex items-start gap-1.5">
                     <span className="text-cyan-700 font-bold shrink-0">・</span>
@@ -249,8 +252,7 @@ export default function FeaturePage() {
                 </ul>
               </div>
               <div className="bg-stone-50 rounded-xl p-4 sm:p-5 border border-stone-200/80 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 border-b border-stone-200/80 pb-2"><span className="w-2.5 h-2.5 rounded-full bg-cyan-700"></span>
-                  <span>見頃・気候・おすすめの服装</span></h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 border-b border-stone-200/80 pb-2"><span>見頃・気候・おすすめの服装</span></h4>
                 <ul className="space-y-2 text-xs sm:text-sm text-stone-600 leading-relaxed">
                   <li className="flex items-start gap-1.5">
                     <span className="text-cyan-700 font-bold shrink-0">・</span>
@@ -713,6 +715,10 @@ export default function FeaturePage() {
             </div>
           </div>
         </section>
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"関東最古の霊場・鹿島神宮新春初詣と水郷の冬景色：2026-2027年冬の茨城・鹿島＆潮来！鹿島灘はまぐりと極上常陸牛名宿5選"} url={"https://croud-travel.pages.dev/winter-ibaraki-kashima-jingu-hatsumode-itako-hamaguri-hitachigyu-stay/"} />
+      </div>
       </main>
     </>
   );

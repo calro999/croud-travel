@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import Link from 'next/link';
 import type { Metadata } from 'next';
@@ -16,7 +17,7 @@ export const metadata: Metadata = {
     title: '【11・12・1月高知】太平洋望む名勝「桂浜」初日の出と坂本龍馬像！知恵の文殊「五台山 竹林寺」新春初詣・極上戻り鰹藁焼き塩タタキ＆土佐あかうし厳選名宿5選',
     description: '黒潮洗う南国土佐の冬景色！11〜1月は澄み渡る青空と群青の太平洋が広がり。',
     url: 'https://croud-travel.pages.dev/winter-kochi-katsurahama-ryoma-sunrise-chikurinji-hatsumode-tataki-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
     images: [{
@@ -45,11 +46,11 @@ export default function KochiKatsurahamaWinterFeaturePage() {
     "dateModified": "2026-10-25T06:00:00+09:00",
     "author": {
       "@type": "Organization",
-      "name": "クラドトラベル編集部 温泉・神社仏閣取材班"
+      "name": "旅宿クラウド編集部 温泉・神社仏閣取材班"
     },
     "publisher": {
       "@type": "Organization",
-      "name": "クラドトラベル",
+      "name": "旅宿クラウド",
       "logo": {
         "@type": "ImageObject",
         "url": "https://croud-travel.pages.dev/logo.png"
@@ -306,6 +307,9 @@ export default function KochiKatsurahamaWinterFeaturePage() {
             </div>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月高知】太平洋望む名勝「桂浜」初日の出と坂本龍馬像！知恵の文殊「五台山 竹林寺」新春初詣・極上戻り鰹藁焼き塩タタキ＆土佐あかうし厳選名宿5選"} url={"https://croud-travel.pages.dev/winter-kochi-katsurahama-ryoma-sunrise-chikurinji-hatsumode-tataki-stay/"} />
+      </div>
 
         {/* Main Content Area */}
         <main className="max-w-4xl mx-auto px-4 sm:px-6 py-12">
@@ -438,7 +442,7 @@ export default function KochiKatsurahamaWinterFeaturePage() {
                       <a
                         href={h.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-1.5 px-4 py-2 bg-blue-600 hover:bg-blue-700 text-white rounded-lg text-xs font-bold transition shadow-sm"
                       >
                         楽天トラベルでプラン・空室を確認
@@ -574,7 +578,11 @@ export default function KochiKatsurahamaWinterFeaturePage() {
             </div>
           </section>
 
-        </main>
+        
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月高知】太平洋望む名勝「桂浜」初日の出と坂本龍馬像！知恵の文殊「五台山 竹林寺」新春初詣・極上戻り鰹藁焼き塩タタキ＆土佐あかうし厳選名宿5選"} url={"https://croud-travel.pages.dev/winter-kochi-katsurahama-ryoma-sunrise-chikurinji-hatsumode-tataki-stay/"} />
+      </div>
+      </main>
       </article>
     </>
   );

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -199,6 +200,9 @@ export default function FeatureDetailPage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"とろける極上霜降り！A5米沢牛すき焼き会席＆白布・小野川名湯宿5選"} url={"https://croud-travel.pages.dev/traditional-yonezawa-beef-sukiyaki-onsen-stay/"} />
+      </div>
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
@@ -864,6 +868,9 @@ export default function FeatureDetailPage() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"とろける極上霜降り！A5米沢牛すき焼き会席＆白布・小野川名湯宿5選"} url={"https://croud-travel.pages.dev/traditional-yonezawa-beef-sukiyaki-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="traditional-yonezawa-beef-sukiyaki-onsen-stay" />
 </div>
   );

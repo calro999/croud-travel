@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -13,7 +14,7 @@ export const metadata: Metadata = {
     title: '横浜・みなとみらいひとり旅：大観覧車バルコニー・天空プール・Kアリーナ遠征！大人が心奪われる極上夜景ホテル 厳選3選',
     description: '「コスモクロックのイルミネーションを部屋のバルコニーから独り占めしたい」「KアリーナやぴあアリーナMMでのライブ終演後、ラグジュアリーな空間で優雅に余韻に浸りたい」。大人ソロトラベラーへ。みなとみらい唯一のバルコニー付き「横浜ベイホテル東急」、ウェルネスを極めた最新ライフスタイル「ウェスティンホテル横浜」、20階スカイプールと絶景ロビーを誇る「三井ガーデンホテル横浜みなとみらいプレミア」を徹底特集。',
     url: 'https://croud-travel.pages.dev/yokohama-minatomirai-solo-nightview-luxury-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -27,12 +28,12 @@ export default function ArticlePage() {
     description: '「コスモクロックのイルミネーションを部屋のバルコニーから独り占めしたい」「KアリーナやぴあアリーナMMでのライブ終演後、ラグジュアリーな空間で優雅に余韻に浸りたい」。大人ソロトラベラーへ。みなとみらい唯一のバルコニー付き「横浜ベイホテル東急」、ウェルネスを極めた最新ライフスタイル「ウェスティンホテル横浜」、20階スカイプールと絶景ロビーを誇る「三井ガーデンホテル横浜みなとみらいプレミア」を徹底特集。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル ひとり旅・出張調査班',
+      name: '旅宿クラウド ひとり旅・出張調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -79,6 +80,9 @@ export default function ArticlePage() {
           「コスモクロックのイルミネーションを部屋のバルコニーから独り占めしたい」「KアリーナやぴあアリーナMMでのライブ終演後、ラグジュアリーな空間で優雅に余韻に浸りたい」。大人ソロトラベラーへ。みなとみらい唯一のバルコニー付き「横浜ベイホテル東急」、ウェルネスを極めた最新ライフスタイル「ウェスティンホテル横浜」、20階スカイプールと絶景ロビーを誇る「三井ガーデンホテル横浜みなとみらいプレミア」を徹底特集。
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"横浜・みなとみらいひとり旅：大観覧車バルコニー・天空プール・Kアリーナ遠征！大人が心奪われる極上夜景ホテル 厳選3選"} url={"https://croud-travel.pages.dev/yokohama-minatomirai-solo-nightview-luxury-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
@@ -381,7 +385,7 @@ export default function ArticlePage() {
             href="/"
             className="inline-flex items-center gap-2 text-sm text-stone-600 hover:text-stone-900 font-medium transition-colors"
           >
-            ← クラウドトラベル トップページへ戻る
+            ← 旅宿クラウド トップページへ戻る
           </Link>
         </div>
       </div>
@@ -473,6 +477,9 @@ export default function ArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"横浜・みなとみらいひとり旅：大観覧車バルコニー・天空プール・Kアリーナ遠征！大人が心奪われる極上夜景ホテル 厳選3選"} url={"https://croud-travel.pages.dev/yokohama-minatomirai-solo-nightview-luxury-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="yokohama-minatomirai-solo-nightview-luxury-stay" />
 </div>
         </section>

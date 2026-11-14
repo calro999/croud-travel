@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import FurusatoStepSection from "@/app/components/FurusatoStepSection";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
@@ -96,6 +97,9 @@ export default function FurusatoNaturalMudBathStayPage() {
             </Link>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"天然ミネラル泥パックで全身ツルツル美肌！極上泥湯温泉＆湯治名旅館×ふるさと納税厳選ガイド八幡平後生掛・霧島・別府鉄輪"} url={"https://croud-travel.pages.dev/furusato-tax-natural-mud-bath-mineral-detox-onsen-stay/"} />
+      </div>
 
         {/* 3つの醍醐味セクション */}
         <section className="mb-16">
@@ -518,6 +522,9 @@ export default function FurusatoNaturalMudBathStayPage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"天然ミネラル泥パックで全身ツルツル美肌！極上泥湯温泉＆湯治名旅館×ふるさと納税厳選ガイド八幡平後生掛・霧島・別府鉄輪"} url={"https://croud-travel.pages.dev/furusato-tax-natural-mud-bath-mineral-detox-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-natural-mud-bath-mineral-detox-onsen-stay" />
 </div>
         </section>

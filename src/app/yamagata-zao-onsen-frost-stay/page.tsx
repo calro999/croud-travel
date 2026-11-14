@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             標高約900m、蔵王連峰の懐に湧く「蔵王温泉」。日本屈指の強酸性白濁硫黄泉が古くから皮膚病や美肌に効く名湯として愛される。冬には世界中から人々が訪れる奇跡の「樹氷（スノーモンスター）」と山形牛の饗宴。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"山形・蔵王温泉：樹氷スノーモンスター・強酸性硫黄泉＆山形牛極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/yamagata-zao-onsen-frost-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -423,6 +427,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"山形・蔵王温泉：樹氷スノーモンスター・強酸性硫黄泉＆山形牛極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/yamagata-zao-onsen-frost-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="yamagata-zao-onsen-frost-stay" />
 </div>
   );

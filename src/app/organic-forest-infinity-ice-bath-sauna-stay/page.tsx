@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             水温10℃未満のグルシン（シングル）極冷水風呂と、100℃超の本格フィンランド薪サウナ！熱気と冷気の強烈なコントラストで一気にディープなトランス状態へ導く、全国屈指のハードサウナー特化型リゾートを厳選。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"シングル氷水風呂＆森サウナ：極限の冷水とアロマロウリュで覚醒するととのい宿5選"} url={"https://croud-travel.pages.dev/organic-forest-infinity-ice-bath-sauna-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"シングル氷水風呂＆森サウナ：極限の冷水とアロマロウリュで覚醒するととのい宿5選"} url={"https://croud-travel.pages.dev/organic-forest-infinity-ice-bath-sauna-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="organic-forest-infinity-ice-bath-sauna-stay" />
 </div>
         </section>

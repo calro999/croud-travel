@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             湧出量・源泉数ともに日本一を誇るおんせん県おおいたの象徴「別府温泉郷」！立ち上る白い湯けむりが冬空に映える鉄輪（かんなわ）温泉の「地獄蒸し料理」や、海地獄・血の池地獄などの地獄めぐり、そして極上にごり湯を満喫する旅。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"冬こそ温まる！別府八湯地獄めぐり＆地獄蒸し：日本一の湧出量と湯けむり展望露天宿5選"} url={"https://croud-travel.pages.dev/winter-oita-beppu-jigokumushi-hotspring-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -500,7 +504,7 @@ export default function FeaturePage() {
                 <span className="inline-block text-[10px] font-bold px-2 py-0.5 rounded bg-amber-100 text-amber-800 mb-2">
                   厳選おすすめ特集
                 </span>
-                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">新潟・越後一宮 弥彦神社もみじ谷＆弥彦温泉！菊まつりと越後名物・のどぐろ・岩船米コシヒカリ | クラウドトラベルふるさと納税</h3>
+                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">新潟・越後一宮 弥彦神社もみじ谷＆弥彦温泉！菊まつりと越後名物・のどぐろ・岩船米コシヒカリ | 旅宿クラウドふるさと納税</h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
                 特集を見る →
@@ -578,6 +582,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"冬こそ温まる！別府八湯地獄めぐり＆地獄蒸し：日本一の湧出量と湯けむり展望露天宿5選"} url={"https://croud-travel.pages.dev/winter-oita-beppu-jigokumushi-hotspring-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-oita-beppu-jigokumushi-hotspring-stay" />
 </div>
         </section>

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -7,7 +8,7 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '霊峰大山「鍵掛峠」ブナ樹海の圧巻紅葉＆皆生温泉・11月解禁本場「松葉がに」と大山黒牛｜ふるさと納税で泊まれる名宿ガイド',
   description: '10月下旬〜11月中旬に大山南壁を鮮やかに彩る鍵掛峠のブナ紅葉。日本海に面した皆生温泉で、塩化物泉の温まり美肌湯と11月上旬に初競り解禁となる本場「松葉がに」「鳥取和牛」をふるさと納税で味わう秋の山陰旅。',
-  keywords: ["皆生温泉", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
+  keywords: ["皆生温泉", "旅宿クラウドふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-daisen-kagikaketoge-autumn-stay/",
   },
@@ -15,7 +16,7 @@ export const metadata: Metadata = {
     title: '霊峰大山「鍵掛峠」ブナ樹海の圧巻紅葉＆皆生温泉・11月解禁本場「松葉がに」と大山黒牛｜ふるさと納税で泊まれる名宿ガイド',
     description: '10月下旬〜11月中旬に大山南壁を鮮やかに彩る鍵掛峠のブナ紅葉。日本海に面した皆生温泉で、塩化物泉の温まり美肌湯と11月上旬に初競り解禁となる本場「松葉がに」「鳥取和牛」をふるさと納税で味わう秋の山陰旅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-daisen-kagikaketoge-autumn-stay/',
-    siteName: 'クラウドトラベル (croud-travel.pages.dev)',
+    siteName: '旅宿クラウド (croud-travel.pages.dev)',
     type: 'article',
     locale: 'ja_JP',
   },
@@ -29,11 +30,11 @@ export default function Page() {
     "description": "10月下旬〜11月中旬に大山南壁を鮮やかに彩る鍵掛峠のブナ紅葉。日本海に面した皆生温泉で、塩化物泉の温まり美肌湯と11月上旬に初競り解禁となる本場「松葉がに」「鳥取和牛」をふるさと納税で味わう秋の山陰旅。",
     "author": {
       "@type": "Organization",
-      "name": "クラウドトラベル編集部"
+      "name": "旅宿クラウド編集部"
     },
     "publisher": {
       "@type": "Organization",
-      "name": "クラウドトラベル",
+      "name": "旅宿クラウド",
       "logo": {
         "@type": "ImageObject",
         "url": "https://croud-travel.pages.dev/logo.png"
@@ -112,12 +113,15 @@ export default function Page() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"霊峰大山「鍵掛峠」ブナ樹海の圧巻紅葉＆皆生温泉・11月解禁本場「松葉がに」と大山黒牛"} url={"https://croud-travel.pages.dev/furusato-tax-daisen-kagikaketoge-autumn-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"霊峰大山「鍵掛峠」ブナ樹海の圧巻紅葉＆皆生温泉・11月解禁本場「松葉がに」と大山黒牛｜ふるさと納税で泊まれる名宿ガイド | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-daisen-kagikaketoge-autumn-stay/"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"霊峰大山「鍵掛峠」ブナ樹海の圧巻紅葉＆皆生温泉・11月解禁本場「松葉がに」と大山黒牛｜ふるさと納税で泊まれる名宿ガイド | 旅宿クラウドふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-daisen-kagikaketoge-autumn-stay/"}]}) }}
       />
         {/* Intro Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 mb-12">
@@ -194,7 +198,7 @@ export default function Page() {
 
           <div className="bg-stone-50 rounded-xl p-5 border border-stone-200 mb-6 space-y-4">
             <div>
-              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5"><span>️</span> 料理のこだわり・秋の旬会席</h5>
+              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">料理のこだわり・秋の旬会席</h5>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 11月解禁「境港直送・活松葉がにフルコース」（焼きがに、かに刺し、かに鍋、甲羅味噌焼き）、鳥取和牛ステーキ、地魚お造り
               </p>
@@ -259,7 +263,7 @@ export default function Page() {
 
           <div className="bg-stone-50 rounded-xl p-5 border border-stone-200 mb-6 space-y-4">
             <div>
-              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5"><span>️</span> 料理のこだわり・秋の旬会席</h5>
+              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">料理のこだわり・秋の旬会席</h5>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 タグ付きブランド松葉がに会席、鳥取大山黒牛の溶岩焼き、日本海朝獲れ鮮魚の姿造り、大山おこわ
               </p>
@@ -324,7 +328,7 @@ export default function Page() {
 
           <div className="bg-stone-50 rounded-xl p-5 border border-stone-200 mb-6 space-y-4">
             <div>
-              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5"><span>️</span> 料理のこだわり・秋の旬会席</h5>
+              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">料理のこだわり・秋の旬会席</h5>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 特選松葉がにづくし会席、A5鳥取和牛オレイン55ステーキ、境港水揚げ本マグロのお造り、大山鶏の茶碗蒸し
               </p>
@@ -375,7 +379,7 @@ export default function Page() {
           <div className="bg-amber-950/60 p-4 rounded-xl border border-amber-500/30 text-xs sm:text-sm text-amber-100 flex items-start gap-2">
             <span>ℹ️</span>
             <span>
-              <strong>ポイント還元の二重取り：</strong>楽天カード決済や「お買い物マラソン」「0と5のつく日」を併用すると、寄付額に対して高還元率で楽天ポイントも獲得でき、さらにお得になります。
+              <strong>年末駆け込み＆先々の旅行予約に対応：</strong>2026年分の寄附控除枠は12月31日まで。返礼品の宿泊クーポンは有効期限が最長3年間と長く、予約済みの宿泊に「あとから割引適用」することも可能です。
             </span>
           </div>
         </section>
@@ -505,6 +509,9 @@ export default function Page() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"霊峰大山「鍵掛峠」ブナ樹海の圧巻紅葉＆皆生温泉・11月解禁本場「松葉がに」と大山黒牛"} url={"https://croud-travel.pages.dev/furusato-tax-daisen-kagikaketoge-autumn-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-daisen-kagikaketoge-autumn-stay" />
 </div>
   );

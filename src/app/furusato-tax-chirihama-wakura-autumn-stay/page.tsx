@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -7,7 +8,7 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '日本唯一の波打ち際ドライブ「千里浜なぎさドライブウェイ」夕景＆和倉温泉・極上能登牛と七尾湾秋魚｜ふるさと納税で泊まれる名宿ガイド',
   description: '10月〜11月の澄んだ日本海と夕日を走る千里浜なぎさドライブウェイ。七尾湾を望む名湯「和倉温泉」の海の温泉で温まり、極上能登牛と秋の七尾湾鮮魚・ズワイガニをふるさと納税で堪能する能登応援秋旅特集。',
-  keywords: ["和倉温泉", "極上能登牛と七尾湾秋魚", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
+  keywords: ["和倉温泉", "極上能登牛と七尾湾秋魚", "旅宿クラウドふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-chirihama-wakura-autumn-stay/",
   },
@@ -15,7 +16,7 @@ export const metadata: Metadata = {
     title: '日本唯一の波打ち際ドライブ「千里浜なぎさドライブウェイ」夕景＆和倉温泉・極上能登牛と七尾湾秋魚｜ふるさと納税で泊まれる名宿ガイド',
     description: '10月〜11月の澄んだ日本海と夕日を走る千里浜なぎさドライブウェイ。七尾湾を望む名湯「和倉温泉」の海の温泉で温まり、極上能登牛と秋の七尾湾鮮魚・ズワイガニをふるさと納税で堪能する能登応援秋旅特集。',
     url: 'https://croud-travel.pages.dev/furusato-tax-chirihama-wakura-autumn-stay/',
-    siteName: 'クラウドトラベル (croud-travel.pages.dev)',
+    siteName: '旅宿クラウド (croud-travel.pages.dev)',
     type: 'article',
     locale: 'ja_JP',
   },
@@ -29,11 +30,11 @@ export default function Page() {
     "description": "10月〜11月の澄んだ日本海と夕日を走る千里浜なぎさドライブウェイ。七尾湾を望む名湯「和倉温泉」の海の温泉で温まり、極上能登牛と秋の七尾湾鮮魚・ズワイガニをふるさと納税で堪能する能登応援秋旅特集。",
     "author": {
       "@type": "Organization",
-      "name": "クラウドトラベル編集部"
+      "name": "旅宿クラウド編集部"
     },
     "publisher": {
       "@type": "Organization",
-      "name": "クラウドトラベル",
+      "name": "旅宿クラウド",
       "logo": {
         "@type": "ImageObject",
         "url": "https://croud-travel.pages.dev/logo.png"
@@ -112,12 +113,15 @@ export default function Page() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"日本唯一の波打ち際ドライブ「千里浜なぎさドライブウェイ」夕景＆和倉温泉・極上能登牛と七尾湾秋魚"} url={"https://croud-travel.pages.dev/furusato-tax-chirihama-wakura-autumn-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"日本唯一の波打ち際ドライブ「千里浜なぎさドライブウェイ」夕景＆和倉温泉・極上能登牛と七尾湾秋魚｜ふるさと納税で泊まれる名宿ガイド | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-chirihama-wakura-autumn-stay/"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"日本唯一の波打ち際ドライブ「千里浜なぎさドライブウェイ」夕景＆和倉温泉・極上能登牛と七尾湾秋魚｜ふるさと納税で泊まれる名宿ガイド | 旅宿クラウドふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-chirihama-wakura-autumn-stay/"}]}) }}
       />
         {/* Intro Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 mb-12">
@@ -194,7 +198,7 @@ export default function Page() {
 
           <div className="bg-stone-50 rounded-xl p-5 border border-stone-200 mb-6 space-y-4">
             <div>
-              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5"><span>️</span> 料理のこだわり・秋の旬会席</h5>
+              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">料理のこだわり・秋の旬会席</h5>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 能登牛の陶板焼き、七尾湾獲れたて地魚のお造り盛り合わせ、能登ふぐ料理、季節の釜飯、能登の地酒
               </p>
@@ -259,7 +263,7 @@ export default function Page() {
 
           <div className="bg-stone-50 rounded-xl p-5 border border-stone-200 mb-6 space-y-4">
             <div>
-              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5"><span>️</span> 料理のこだわり・秋の旬会席</h5>
+              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">料理のこだわり・秋の旬会席</h5>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 厳選能登牛会席、七尾湾直送ズワイガニ（秋・冬限定）、のどぐろ塩焼き、能登コシヒカリ、輪島ふぐのたたき
               </p>
@@ -324,7 +328,7 @@ export default function Page() {
 
           <div className="bg-stone-50 rounded-xl p-5 border border-stone-200 mb-6 space-y-4">
             <div>
-              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5"><span>️</span> 料理のこだわり・秋の旬会席</h5>
+              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">料理のこだわり・秋の旬会席</h5>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 能登牛ステーキ御膳、七尾港水揚げ旬魚の刺身、能登豚のしゃぶしゃぶ鍋、手作り郷土料理の小鉢
               </p>
@@ -375,7 +379,7 @@ export default function Page() {
           <div className="bg-amber-950/60 p-4 rounded-xl border border-amber-500/30 text-xs sm:text-sm text-amber-100 flex items-start gap-2">
             <span>ℹ️</span>
             <span>
-              <strong>ポイント還元の二重取り：</strong>楽天カード決済や「お買い物マラソン」「0と5のつく日」を併用すると、寄付額に対して高還元率で楽天ポイントも獲得でき、さらにお得になります。
+              <strong>年末駆け込み＆先々の旅行予約に対応：</strong>2026年分の寄附控除枠は12月31日まで。返礼品の宿泊クーポンは有効期限が最長3年間と長く、予約済みの宿泊に「あとから割引適用」することも可能です。
             </span>
           </div>
         </section>
@@ -505,6 +509,9 @@ export default function Page() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"日本唯一の波打ち際ドライブ「千里浜なぎさドライブウェイ」夕景＆和倉温泉・極上能登牛と七尾湾秋魚"} url={"https://croud-travel.pages.dev/furusato-tax-chirihama-wakura-autumn-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-chirihama-wakura-autumn-stay" />
 </div>
   );

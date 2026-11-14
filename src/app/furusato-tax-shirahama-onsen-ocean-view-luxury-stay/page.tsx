@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -79,6 +80,9 @@ export default function FurusatoShirahamaOnsenOceanStayPage() {
           <span className="bg-green-100 text-green-900 px-2 py-0.5 rounded font-medium">実質負担2,000円対象</span>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"青い海と真っ白な砂浜！南紀白浜温泉の絶景オーシャンビュー露天風呂＆幻のクエ・熊野牛名門旅館×ふるさと納税完全攻略ガイド【2026年最新】むさし・海舟・シーモア！南紀白浜温泉の絶景オーシャンビュー露天風呂＆幻のクエ・熊野牛名門旅館×ふるさと納税完全攻略ガイド【2026年最新】むさし・海舟・シーモア"} url={"https://croud-travel.pages.dev/furusato-tax-shirahama-onsen-ocean-view-luxury-stay/"} />
+      </div>
 
       {/* リード文ブロック */}
       <section className="bg-gradient-to-br from-amber-50/70 via-orange-50/40 to-yellow-50/60 p-6 md:p-8 rounded-2xl border border-amber-200/80 mb-12 shadow-sm">
@@ -91,7 +95,7 @@ export default function FurusatoShirahamaOnsenOceanStayPage() {
           <ul className="text-xs md:text-sm text-gray-700 space-y-1.5">
             <li className="flex items-start gap-1">
               <span className="text-amber-600 font-bold">✔</span>
-              <span><strong>寄付額の最大30％が宿泊クーポンとして即時付与</strong>され、楽天ポイントも二重に貯まる</span>
+              <span><strong>寄付額の最大30％が宿泊クーポンとして即時付与</strong>され、最長3年間いつでも宿泊予約に使える</span>
             （青い海と真っ白な砂浜！南紀白浜温泉の絶景オーシャンビュー露天風呂＆幻のクエ・熊野牛名門旅館×ふるさと納税完全攻略ガイド【2026年最新】むさし・海舟・シーモア！南紀白浜温泉の絶景オーシャンビュー露天風呂＆幻のクエ・熊野牛名門旅館×ふるさと納税完全攻略ガイド【2026年最新】むさし・海舟・シーモア）</li>
             <li className="flex items-start gap-1">
               <span className="text-amber-600 font-bold">✔</span>
@@ -341,6 +345,9 @@ export default function FurusatoShirahamaOnsenOceanStayPage() {
             ▸ 【荒波迫る大洞窟風呂＆神秘の岩風呂×ふるさと納税】南紀勝浦・湯の峰・上諏訪
           </Link>
         
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"青い海と真っ白な砂浜！南紀白浜温泉の絶景オーシャンビュー露天風呂＆幻のクエ・熊野牛名門旅館×ふるさと納税完全攻略ガイド【2026年最新】むさし・海舟・シーモア！南紀白浜温泉の絶景オーシャンビュー露天風呂＆幻のクエ・熊野牛名門旅館×ふるさと納税完全攻略ガイド【2026年最新】むさし・海舟・シーモア"} url={"https://croud-travel.pages.dev/furusato-tax-shirahama-onsen-ocean-view-luxury-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-shirahama-onsen-ocean-view-luxury-stay" />
 </div>
       </section>

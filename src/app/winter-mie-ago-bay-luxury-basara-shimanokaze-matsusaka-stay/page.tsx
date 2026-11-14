@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
@@ -108,6 +109,9 @@ export default function LuxuryStayPage() {
             </p>
           </div>
         </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【英虞湾の夕景リアス美と全室離れ露天風呂スイート】2026-2027年11-12月の三重・志摩賢島！「汀渚 ばさら邸」＆ベイスイート・冬の伊勢志摩天然伊勢海老・極上松阪牛名宿5選"} url={"https://croud-travel.pages.dev/winter-mie-ago-bay-luxury-basara-shimanokaze-matsusaka-stay/"} />
+      </div>
 
         <div className="max-w-5xl mx-auto px-4 mt-12 space-y-16">
           <section className="bg-white p-6 md:p-10 rounded-2xl border border-slate-200/80 shadow-md">
@@ -228,8 +232,7 @@ export default function LuxuryStayPage() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント</h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>敷地面積約4,000坪の広大な森と海に抱かれ、わずか全室離れスタイルの露天風呂付き客室が点在するプライベートリゾートです。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>英虞湾を見下ろす3つの絶景貸切露天風呂は圧巻のスケール。夜には満天の星が降り注ぎ、波の音と木々のさざめきだけが響き渡ります。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>夕食は志摩の海で獲れた天然伊勢海老や鮑、A5松阪牛を贅沢に盛り込んだ新和食懐石。専用個室ダイニングで心ゆくまで美食に浸れます。</span></li>
                 </ul>
@@ -293,8 +296,7 @@ export default function LuxuryStayPage() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント</h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>2016年伊勢志摩サミットで各国首脳が集った歴史の舞台。全客室が100平米以上の優美なスイートルームで構成されています。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>客室のテラスや展望バスからは、英虞湾の穏やかな入江と真珠筏が織りなすパノラマを一望。夕暮れ時のグラデーションは息を呑む美しさです。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>ミシュラン掲載のレストラン「ラ・メール」で供される伝統の海の幸フランス料理。伊勢海老のクリームスープや鮑ステーキは至高の逸品です。</span></li>
                 </ul>
@@ -358,8 +360,7 @@ export default function LuxuryStayPage() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント</h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>昭和26年創業、山崎豊子の小説『華麗なる一族』の舞台としても名高い日本を代表する名門リゾートホテルです。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>木の温もりあふれる客室やサミット円卓が展示された庭園、ライブラリーラウンジなど、知性と気品に満ちた大人の空間が広がります。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>伝統のフレンチコースと上質なワインのペアリング。窓外に広がる英虞湾のリアス美を眺めながら、時代を超えて愛される極上の味覚を堪能できます。</span></li>
                 </ul>
@@ -423,8 +424,7 @@ export default function LuxuryStayPage() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント</h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>賢島の高台に位置し、英虞湾に面した雄大な庭園露天風呂「朝なぎの湯・夕なぎの湯」が自慢の大型高級温泉旅館です。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>良質な療養泉「伊勢志摩温泉・朝なぎの湯」の滑らかな湯ざわり。海を渡る爽やかな風を感じながらの朝夕の露天風呂浴は格別です。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>夕食には伊勢志摩の活伊勢海老のお造り、焼き伊勢海老、鮑の陶板焼きなど豪華絢爛な会席料理。上質な和室スイートで寛げます。</span></li>
                 </ul>
@@ -488,8 +488,7 @@ export default function LuxuryStayPage() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント</h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>白壁とテラコッタ瓦が美しい南欧アンダルシア地方を思わせる優雅な佇まい。全室にオーシャンビューテラスを備えています。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>地中海リゾートの開放感と伊勢志摩の豊かな自然が融合。英虞湾の入り江を見下ろすプールサイドやスパで上質なリラクゼーションが叶います。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>三重の地元食材をふんだんに取り入れたフレンチまたは和会席のディナー。愛犬と泊まれるヴィラルームも備えた多彩なプレミアムステイです。</span></li>
                 </ul>
@@ -622,6 +621,10 @@ export default function LuxuryStayPage() {
             </ul>
           </section>
         </div>
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【英虞湾の夕景リアス美と全室離れ露天風呂スイート】2026-2027年11-12月の三重・志摩賢島！「汀渚 ばさら邸」＆ベイスイート・冬の伊勢志摩天然伊勢海老・極上松阪牛名宿5選"} url={"https://croud-travel.pages.dev/winter-mie-ago-bay-luxury-basara-shimanokaze-matsusaka-stay/"} />
+      </div>
       </div>
     </>
   );

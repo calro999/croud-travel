@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import Link from 'next/link';
 import type { Metadata } from 'next';
@@ -299,6 +300,9 @@ export default function NaraKashiharaWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月奈良】日本建国の聖地「橿原神宮」新春初詣と畝傍山の冬朝霧！飛鳥路の静寂と名物「飛鳥鍋」・大和牛名宿5選"} url={"https://croud-travel.pages.dev/winter-nara-kashihara-jingu-hatsumode-asuka-asukunabe-yamatogyu-stay/"} />
+      </div>
 
       {/* Summary Box */}
       <section className="max-w-5xl mx-auto px-4 -mt-8 relative z-20">
@@ -492,7 +496,7 @@ export default function NaraKashiharaWinterPage() {
                         </span>
                       </div>
 
-                      <h3 className="text-xl md:text-2xl font-black text-slate-900 hover:text-amber-800 transition"><a href={hotel.url} target="_blank" rel="noopener noreferrer">
+                      <h3 className="text-xl md:text-2xl font-black text-slate-900 hover:text-amber-800 transition"><a href={hotel.url} target="_blank" rel="sponsored noopener noreferrer">
                           {hotel.name}
                         </a></h3>
 
@@ -538,7 +542,7 @@ export default function NaraKashiharaWinterPage() {
                       <a 
                         href={hotel.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-2 px-6 py-3 bg-gradient-to-r from-red-600 to-rose-600 hover:from-red-700 hover:to-rose-700 text-white font-black text-xs md:text-sm rounded-xl shadow-md hover:shadow-lg transition transform active:scale-95"
                       >
                         <span>プラン詳細・空室確認</span>
@@ -647,6 +651,9 @@ export default function NaraKashiharaWinterPage() {
               トップページへ戻る
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月奈良】日本建国の聖地「橿原神宮」新春初詣と畝傍山の冬朝霧！飛鳥路の静寂と名物「飛鳥鍋」・大和牛名宿5選"} url={"https://croud-travel.pages.dev/winter-nara-kashihara-jingu-hatsumode-asuka-asukunabe-yamatogyu-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-nara-kashihara-jingu-hatsumode-asuka-asukunabe-yamatogyu-stay" />
 </div>
         </section>

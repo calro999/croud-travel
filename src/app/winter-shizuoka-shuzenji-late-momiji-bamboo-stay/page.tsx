@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -277,6 +278,9 @@ export default function ShuzenjiWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月修善寺温泉の遅咲き紅葉と竹林】伊豆の小京都で桂川の静寂と伊豆牛会席を堪能する極上湯宿5選"} url={"https://croud-travel.pages.dev/winter-shizuoka-shuzenji-late-momiji-bamboo-stay/"} />
+      </div>
 
       {/* Main Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
@@ -463,7 +467,7 @@ export default function ShuzenjiWinterPage() {
                     <a
                       href={hotel.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-6 py-3.5 rounded-2xl bg-gradient-to-r from-emerald-800 to-emerald-950 hover:from-emerald-900 hover:to-stone-950 text-white font-bold text-sm shadow-md hover:shadow-lg transition-all transform hover:-translate-y-0.5"
                     >
                       <span>楽天トラベルでプラン・空室を見る</span>
@@ -671,6 +675,9 @@ export default function ShuzenjiWinterPage() {
               <h3 className="text-sm font-bold text-stone-900 group-hover:text-emerald-800 transition line-clamp-2">【京都嵐山】渡月橋の初冬絶景と嵯峨野竹林散策・名物湯豆腐会席の名宿</h3>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月修善寺温泉の遅咲き紅葉と竹林】伊豆の小京都で桂川の静寂と伊豆牛会席を堪能する極上湯宿5選"} url={"https://croud-travel.pages.dev/winter-shizuoka-shuzenji-late-momiji-bamboo-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-shizuoka-shuzenji-late-momiji-bamboo-stay" />
 </div>
         </section>

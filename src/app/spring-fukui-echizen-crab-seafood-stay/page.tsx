@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             黄色いタグ付き最高級「越前がに」の茹でたてアツアツと、ぷりぷりの歯ごたえがたまらない「若狭ふぐ」！関西の奥座敷・あわら温泉の風情あふれる庭園旅館で、北陸最高峰の冬春グルメを堪能する旅。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"越前がにと若狭ふぐ：日本海の冬春極上味覚！福井・あわら温泉と三方五湖の美食名湯宿5選"} url={"https://croud-travel.pages.dev/spring-fukui-echizen-crab-seafood-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"越前がにと若狭ふぐ：日本海の冬春極上味覚！福井・あわら温泉と三方五湖の美食名湯宿5選"} url={"https://croud-travel.pages.dev/spring-fukui-echizen-crab-seafood-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="spring-fukui-echizen-crab-seafood-stay" />
 </div>
         </section>

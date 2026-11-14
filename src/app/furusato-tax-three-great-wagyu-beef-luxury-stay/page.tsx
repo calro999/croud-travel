@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -121,7 +122,7 @@ export default function FurusatoUpgradedPage() {
             <a
               href={officialFurusatoAffUrl}
               target="_blank"
-              rel="noopener noreferrer"
+              rel="sponsored noopener noreferrer"
               className="inline-flex items-center justify-center gap-2 px-8 py-4 rounded-2xl bg-gradient-to-r from-amber-500 to-orange-500 hover:from-amber-400 hover:to-orange-400 text-stone-950 font-black text-base shadow-xl shadow-amber-500/20 hover:scale-[1.02] active:scale-[0.98] transition-all"
             >
               <span>楽天ふるさと納税 宿泊クーポンを獲得する</span>
@@ -130,6 +131,9 @@ export default function FurusatoUpgradedPage() {
           </div>
         </div>
       </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"日本三大銘牛の極上鉄板焼き＆すき焼き名湯宿×ふるさと納税厳選ガイド松阪牛・神戸牛・米沢牛"} url={"https://croud-travel.pages.dev/furusato-tax-three-great-wagyu-beef-luxury-stay/"} />
+      </div>
 
       {/* メリット3選 */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto border-b border-stone-800">
@@ -230,7 +234,7 @@ export default function FurusatoUpgradedPage() {
                       <a
                         href={officialFurusatoAffUrl}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="flex-1 text-center bg-stone-800 hover:bg-stone-700 text-amber-200 font-bold py-3 px-6 rounded-xl border border-stone-700 transition duration-150 text-sm"
                       >
                         自治体返礼品クーポン一覧
@@ -254,7 +258,7 @@ export default function FurusatoUpgradedPage() {
             <div className="p-6 rounded-2xl bg-stone-950/80 border border-stone-800">
               <div className="text-2xl font-black text-amber-400 mb-2">STEP 01</div>
               <h3 className="font-bold text-white mb-2">自治体に寄附する</h3>
-              <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">宿泊したい施設がある自治体を選び、楽天ふるさと納税で寄附を申し込みます。楽天ポイントも通常通り進呈されます。
+              <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">宿泊したい施設がある自治体を選び、楽天ふるさと納税で寄附を申し込みます。クーポンは寄附翌日から最長3年間利用可能です。
               </p>
             </div>
             <div className="p-6 rounded-2xl bg-stone-950/80 border border-stone-800">
@@ -273,7 +277,7 @@ export default function FurusatoUpgradedPage() {
           <a
             href={officialFurusatoAffUrl}
             target="_blank"
-            rel="noopener noreferrer"
+            rel="sponsored noopener noreferrer"
             className="inline-flex items-center justify-center gap-2 px-10 py-5 rounded-2xl bg-gradient-to-r from-amber-500 to-orange-500 hover:from-amber-400 hover:to-orange-400 text-stone-950 font-black text-lg shadow-xl shadow-amber-500/20 hover:scale-[1.02] active:scale-[0.98] transition-all"
           >
             <span>対象の宿泊割引クーポンを探す</span>
@@ -413,7 +417,7 @@ export default function FurusatoUpgradedPage() {
             </div>
           </div>
           <div className="space-y-3 pt-4 border-t border-stone-200">
-            <h3 className="text-base font-bold text-stone-900">️ 合わせて訪れたい日本の代表的観光名所ガイド</h3>
+            <h3 className="text-base font-bold text-stone-900">合わせて訪れたい日本の代表的観光名所ガイド</h3>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
               <h4 className="text-sm font-bold text-stone-900">清水寺</h4>
@@ -435,6 +439,9 @@ export default function FurusatoUpgradedPage() {
           </div>
         </section>
 
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"日本三大銘牛の極上鉄板焼き＆すき焼き名湯宿×ふるさと納税厳選ガイド松阪牛・神戸牛・米沢牛"} url={"https://croud-travel.pages.dev/furusato-tax-three-great-wagyu-beef-luxury-stay/"} />
+      </div>
 <HubRelatedPosts currentSlug="furusato-tax-three-great-wagyu-beef-luxury-stay" />
 </div>
   );

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import Link from 'next/link';
 import type { Metadata } from 'next';
@@ -16,7 +17,7 @@ export const metadata: Metadata = {
     title: '【11・12・1月山梨】日蓮宗総本山「身延山久遠寺」白銀の奥之院思親閣新春初詣と三門・千本杉！富士川冬景色・名物身延湯葉会席＆信玄隠し湯「下部温泉」ぬる湯治厳選名宿5選',
     description: '山梨県南部、富士川の清流と峻嶺な山々に抱かれた身延・下部エリア。11〜1月は澄み渡る冬晴れの下、日蓮宗総本山「身延山久遠寺」が荘厳な冬景色に包まれます。',
     url: 'https://croud-travel.pages.dev/winter-yamanashi-minobusan-kuonji-hatsumode-shimobe-onsen-yuba-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
     images: [{
@@ -45,11 +46,11 @@ export default function YamanashiMinobusanWinterFeaturePage() {
     "dateModified": "2026-10-25T09:00:00+09:00",
     "author": {
       "@type": "Organization",
-      "name": "クラドトラベル編集部 温泉・神社仏閣取材班"
+      "name": "旅宿クラウド編集部 温泉・神社仏閣取材班"
     },
     "publisher": {
       "@type": "Organization",
-      "name": "クラドトラベル",
+      "name": "旅宿クラウド",
       "logo": {
         "@type": "ImageObject",
         "url": "https://croud-travel.pages.dev/logo.png"
@@ -308,6 +309,9 @@ export default function YamanashiMinobusanWinterFeaturePage() {
             </div>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月山梨】日蓮宗総本山「身延山久遠寺」白銀の奥之院思親閣新春初詣と三門・千本杉！富士川冬景色・名物身延湯葉会席＆信玄隠し湯「下部温泉」ぬる湯治厳選名宿5選"} url={"https://croud-travel.pages.dev/winter-yamanashi-minobusan-kuonji-hatsumode-shimobe-onsen-yuba-stay/"} />
+      </div>
 
         {/* Main Content Area */}
         <main className="max-w-4xl mx-auto px-4 sm:px-6 py-12">
@@ -437,7 +441,7 @@ export default function YamanashiMinobusanWinterFeaturePage() {
                       <a
                         href={h.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center justify-center w-full sm:w-auto gap-2 px-6 py-3 rounded-lg bg-indigo-600 hover:bg-indigo-700 text-white font-bold text-xs sm:text-sm shadow-sm transition"
                       >
                         <span>楽天トラベルでプラン・空室を確認</span>
@@ -590,12 +594,16 @@ export default function YamanashiMinobusanWinterFeaturePage() {
                 山梨県の旅行ガイド・宿一覧
               </Link>
               <Link href="/" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">
-                クラドトラベル トップページ
+                旅宿クラウド トップページ
               </Link>
             </div>
           </section>
 
-        </main>
+        
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月山梨】日蓮宗総本山「身延山久遠寺」白銀の奥之院思親閣新春初詣と三門・千本杉！富士川冬景色・名物身延湯葉会席＆信玄隠し湯「下部温泉」ぬる湯治厳選名宿5選"} url={"https://croud-travel.pages.dev/winter-yamanashi-minobusan-kuonji-hatsumode-shimobe-onsen-yuba-stay/"} />
+      </div>
+      </main>
       </article>
     </>
   );

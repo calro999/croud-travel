@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -277,6 +278,9 @@ export default function IkahoWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月伊香保温泉の初冬散策】365段の石段街と黄金の湯・上州牛会席を味わう名旅館5選"} url={"https://croud-travel.pages.dev/winter-gunma-ikaho-stone-steps-joshu-beef-stay/"} />
+      </div>
 
       {/* Main Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
@@ -463,7 +467,7 @@ export default function IkahoWinterPage() {
                     <a
                       href={hotel.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-6 py-3.5 rounded-2xl bg-gradient-to-r from-amber-700 to-amber-900 hover:from-amber-800 hover:to-amber-950 text-white font-bold text-sm shadow-md hover:shadow-lg transition-all transform hover:-translate-y-0.5"
                     >
                       <span>楽天トラベルでプラン・空室を見る</span>
@@ -671,6 +675,9 @@ export default function IkahoWinterPage() {
               <h3 className="text-sm font-bold text-stone-900 group-hover:text-amber-800 transition line-clamp-2">【阿智村・昼神温泉】日本一の満天星空ナイトツアーと極上美肌湯</h3>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月伊香保温泉の初冬散策】365段の石段街と黄金の湯・上州牛会席を味わう名旅館5選"} url={"https://croud-travel.pages.dev/winter-gunma-ikaho-stone-steps-joshu-beef-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-gunma-ikaho-stone-steps-joshu-beef-stay" />
 </div>
         </section>

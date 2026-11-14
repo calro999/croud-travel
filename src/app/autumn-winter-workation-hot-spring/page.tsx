@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -113,6 +114,9 @@ export default function SeasonalFeaturePage() {
             午前中は集中してリモートワーク、午後は澄んだ空気の中を散策し、夜は効能豊かな名湯露天風呂と美味しい地酒でリフレッシュ。日常を離れて生産性とウェルビーイングを高める温泉ワーケーションへ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"温泉ワーケーション：高速Wi-Fi＆名湯！大人のリトリート宿 厳選ガイド"} url={"https://croud-travel.pages.dev/autumn-winter-workation-hot-spring/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function SeasonalFeaturePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"温泉ワーケーション：高速Wi-Fi＆名湯！大人のリトリート宿 厳選ガイド"} url={"https://croud-travel.pages.dev/autumn-winter-workation-hot-spring/"} />
+      </div>
       <HubRelatedPosts currentSlug="autumn-winter-workation-hot-spring" />
 </div>
   );

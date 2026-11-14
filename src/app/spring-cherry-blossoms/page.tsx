@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -113,6 +114,9 @@ export default function SeasonalFeaturePage() {
             春風が心地よい季節。客室のテラスや露天風呂から淡いピンクの桜を独り占めする贅沢。京都、伊豆、吉野山、弘前など、一生に一度は見たい全国の桜絶景宿をご紹介。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【全国】桜・お花見絶景宿＆客室露天風呂 完全ガイド"} url={"https://croud-travel.pages.dev/spring-cherry-blossoms/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function SeasonalFeaturePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【全国】桜・お花見絶景宿＆客室露天風呂 完全ガイド"} url={"https://croud-travel.pages.dev/spring-cherry-blossoms/"} />
+      </div>
       <HubRelatedPosts currentSlug="spring-cherry-blossoms" />
 </div>
   );

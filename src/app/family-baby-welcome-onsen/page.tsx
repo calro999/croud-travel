@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function TargetAudienceHubPage() {
             初めての家族旅行や赤ちゃんの温泉デビューを全力応援！ミキハウス認定の充実ベビーアメニティ、転んでも痛くない和室・クッションフロア、周囲に気兼ねなく楽しめるお部屋食や貸切風呂完備の極上宿。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"赤ちゃん・子連れ歓迎温泉宿：ウェルカムベビー認定・部屋食＆貸切風呂 厳選ガイド"} url={"https://croud-travel.pages.dev/family-baby-welcome-onsen/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆おすすめ宿 */}
@@ -231,6 +235,9 @@ export default function TargetAudienceHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"赤ちゃん・子連れ歓迎温泉宿：ウェルカムベビー認定・部屋食＆貸切風呂 厳選ガイド"} url={"https://croud-travel.pages.dev/family-baby-welcome-onsen/"} />
+      </div>
       <HubRelatedPosts currentSlug="family-baby-welcome-onsen" />
 </div>
   );

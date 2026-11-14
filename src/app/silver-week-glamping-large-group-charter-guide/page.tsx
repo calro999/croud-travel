@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -155,6 +156,9 @@ export default function SilverWeekGlampingLargeGroupCharterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"大人数・10人以上OK グランピング：シルバーウィーク全棟貸切・サークル合宿・3世代家族旅行"} url={"https://croud-travel.pages.dev/silver-week-glamping-large-group-charter-guide/"} />
+      </div>
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-16">
@@ -607,6 +611,9 @@ export default function SilverWeekGlampingLargeGroupCharterPage() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"大人数・10人以上OK グランピング：シルバーウィーク全棟貸切・サークル合宿・3世代家族旅行"} url={"https://croud-travel.pages.dev/silver-week-glamping-large-group-charter-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="silver-week-glamping-large-group-charter-guide" />
 </div>
   );

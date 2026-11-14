@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
@@ -36,7 +37,7 @@ export default function Page() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "【最大30%還元・実質2,000円負担で泊まる名湯】高級温泉旅館＆憧れの老舗宿をふるさと納税で予約する完全ガイド | クラウドトラベル",
+    "headline": "【最大30%還元・実質2,000円負担で泊まる名湯】高級温泉旅館＆憧れの老舗宿をふるさと納税で予約する完全ガイド | 旅宿クラウド",
     "description": "年末の控除枠やご褒美旅行に最適！草津・伊豆・有馬の名旅館に楽天ふるさと納税トラベルクーポンで泊まる方法を徹底解説。有効期限3年の安心設計と実質2,000円負担の上手な活用術。",
     "url": "https://croud-travel.pages.dev/furusato-tax-luxury-hotspring-ryokan-stay/",
     "publisher": {
@@ -50,7 +51,7 @@ export default function Page() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "【最大30%還元・実質2,000円負担で泊まる名湯】高級温泉旅館＆憧れの老舗宿をふるさと納税で予約する完全ガイド | クラウドトラベル", "item": "https://croud-travel.pages.dev/furusato-tax-luxury-hotspring-ryokan-stay/" }
+      { "@type": "ListItem", "position": 2, "name": "【最大30%還元・実質2,000円負担で泊まる名湯】高級温泉旅館＆憧れの老舗宿をふるさと納税で予約する完全ガイド | 旅宿クラウド", "item": "https://croud-travel.pages.dev/furusato-tax-luxury-hotspring-ryokan-stay/" }
     ]
   };
 
@@ -97,6 +98,9 @@ export default function Page() {
             </a>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"実質2,000円で泊まる名湯：高級温泉旅館＆憧れの老舗宿をふるさと納税で予約する厳選ガイド"} url={"https://croud-travel.pages.dev/furusato-tax-luxury-hotspring-ryokan-stay/"} />
+      </div>
 
         {/* 制度解説・攻略ポイントセクション */}
         <section className="mb-16 bg-white rounded-3xl shadow-sm border border-stone-200/80 p-6 md:p-10">
@@ -134,9 +138,9 @@ export default function Page() {
             <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-3 flex items-start gap-3 font-serif"><span className="w-8 h-8 rounded-full bg-amber-700 text-white flex items-center justify-center text-sm font-sans font-black shrink-0">
                 3
               </span>
-              <span>ポイント③：楽天ポイント還元もダブルで獲得できる</span></h3>
+              <span>ポイント③：有効期限最長3年＆予約後でもあとから割引適用が可能</span></h3>
             <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-11">
-              お買い物マラソンや「0と5のつく日」などのキャンペーン中に楽天ふるさと納税で寄付すれば、通常の楽天市場と同じ高倍率ポイントが付与されます。寄付でポイントを稼ぎ、旅行でクーポンを使い、さらに宿泊利用でトラベルポイントも貯まる圧倒的にお得な三重取りが可能です。
+              12月31日までに楽天ふるさと納税で寄附を済ませておけば、寄附翌日から使える有効期限最長3年間の宿泊クーポンが付与されます。既に予約済みの宿泊プランに「あとから割引適用」することもできるため、冬休みや年末年始、来春以降の旅行計画にも柔軟に活用できます。
             </p>
           </div>
   
@@ -393,8 +397,7 @@ export default function Page() {
 
         {/* よくある質問 FAQ */}
         <section className="mb-16 bg-white rounded-3xl shadow-sm border border-stone-200/80 p-6 md:p-10">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2"><span className="w-2.5 h-7 bg-amber-700 rounded-full inline-block"></span>
-            よくある質問・ふるさと納税トラベルクーポンの疑問を解消</h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">よくある質問・ふるさと納税トラベルクーポンの疑問を解消</h2>
           <div className="space-y-4">
             
             <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
@@ -628,6 +631,9 @@ export default function Page() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"実質2,000円で泊まる名湯：高級温泉旅館＆憧れの老舗宿をふるさと納税で予約する厳選ガイド"} url={"https://croud-travel.pages.dev/furusato-tax-luxury-hotspring-ryokan-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-luxury-hotspring-ryokan-stay" />
 </div>
         </section>

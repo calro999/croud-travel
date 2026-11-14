@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
     title: '【11・12月南伊豆＆下賀茂温泉】温暖な避寒リゾートと湯煙南国情緒・旬の伊勢海老姿造り＆脂が乗った地金目鯛姿煮・水仙まつりを巡る名宿5選',
     description: '11月から12月にかけて寒風が吹き始める本州において、黒潮が洗う伊豆半島最南端の「南伊豆・下賀茂温泉＆弓ヶ浜」の魅力とおすすめ宿泊施設を詳しくご紹介します。',
     url: 'https://croud-travel.pages.dev/winter-shizuoka-minamiizu-shimogamo-onsen-iseebi-kinmedai-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -48,7 +49,7 @@ export default function ShizuokaMinamiizuShimogamoWinterPage() {
         "isPartOf": {
           "@type": "WebSite",
           "@id": "https://croud-travel.pages.dev/#website",
-          "name": "クラドトラベル",
+          "name": "旅宿クラウド",
           "url": "https://croud-travel.pages.dev/"
         },
         "headline": "【11・12月南伊豆＆下賀茂温泉】温暖な避寒リゾートと湯煙南国情緒・旬の伊勢海老姿造り＆脂が乗った地金目鯛姿煮・水仙まつりを巡る名宿5選",
@@ -59,7 +60,7 @@ export default function ShizuokaMinamiizuShimogamoWinterPage() {
         "mainEntityOfPage": "https://croud-travel.pages.dev/winter-shizuoka-minamiizu-shimogamo-onsen-iseebi-kinmedai-stay/",
         "publisher": {
           "@type": "Organization",
-          "name": "クラドトラベル編集部",
+          "name": "旅宿クラウド編集部",
           "url": "https://croud-travel.pages.dev/"
         }
       },
@@ -374,6 +375,9 @@ export default function ShizuokaMinamiizuShimogamoWinterPage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月南伊豆＆下賀茂温泉】温暖な避寒リゾートと湯煙南国情緒・旬の伊勢海老姿造り＆脂が乗った地金目鯛姿煮・水仙まつりを巡る名宿5選"} url={"https://croud-travel.pages.dev/winter-shizuoka-minamiizu-shimogamo-onsen-iseebi-kinmedai-stay/"} />
+      </div>
 
       {/* Main Content Container */}
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-12">
@@ -482,7 +486,7 @@ export default function ShizuokaMinamiizuShimogamoWinterPage() {
                     <a
                       href={hotel.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center justify-center gap-1.5 px-5 py-2.5 bg-teal-700 hover:bg-teal-800 text-white text-xs sm:text-sm font-bold rounded-xl transition shadow-xs"
                     >
                       <span>楽天トラベルで空室・プランを見る</span>
@@ -744,6 +748,9 @@ export default function ShizuokaMinamiizuShimogamoWinterPage() {
               <span className="text-[11px] text-stone-500">11月・12月おすすめの厳選特集</span>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月南伊豆＆下賀茂温泉】温暖な避寒リゾートと湯煙南国情緒・旬の伊勢海老姿造り＆脂が乗った地金目鯛姿煮・水仙まつりを巡る名宿5選"} url={"https://croud-travel.pages.dev/winter-shizuoka-minamiizu-shimogamo-onsen-iseebi-kinmedai-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-shizuoka-minamiizu-shimogamo-onsen-iseebi-kinmedai-stay" />
 </div>
         </section>

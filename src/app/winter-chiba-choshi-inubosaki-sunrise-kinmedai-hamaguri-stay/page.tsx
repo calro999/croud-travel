@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
     title: '【11・12・1月千葉】本州一早い初日の出「犬吠埼」と冬の極上「銚子つりきんめ」・九十九里焼きはまぐり鍋＆太平洋パノラマ犬吠埼温泉宿5選',
     description: '11月から1月、千葉県銚子・犬吠埼は、本州の平地で最も早く昇る神々しい初日の出と。',
     url: 'https://croud-travel.pages.dev/winter-chiba-choshi-inubosaki-sunrise-kinmedai-hamaguri-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     images: [
       {
         url: 'https://img.travel.rakuten.co.jp/share/HOTEL/4691/4691.jpg',
@@ -49,12 +50,12 @@ export default function ChibaChoshiInubosakiWinterPage() {
     dateModified: '',
     author: {
       '@type': 'Organization',
-      name: 'クラドトラベル編集部',
+      name: '旅宿クラウド編集部',
       url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png'
@@ -293,6 +294,9 @@ export default function ChibaChoshiInubosakiWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月千葉】本州一早い初日の出「犬吠埼」と冬の極上「銚子つりきんめ」・九十九里焼きはまぐり鍋＆太平洋パノラマ犬吠埼温泉宿5選"} url={"https://croud-travel.pages.dev/winter-chiba-choshi-inubosaki-sunrise-kinmedai-hamaguri-stay/"} />
+      </div>
 
       {/* Main Content Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 pt-12 space-y-16">
@@ -432,7 +436,7 @@ export default function ChibaChoshiInubosakiWinterPage() {
                     <a 
                       href={hotel.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="w-full inline-flex items-center justify-center gap-2 bg-gradient-to-r from-orange-800 to-slate-900 hover:from-orange-900 hover:to-black text-white font-bold py-3.5 px-6 rounded-2xl shadow-sm hover:shadow transition text-sm tracking-wide"
                     >
                       <span>楽天トラベルで空室・冬限定プランを見る</span>
@@ -635,6 +639,9 @@ export default function ChibaChoshiInubosakiWinterPage() {
               <p className="font-bold text-stone-800 line-clamp-2">シャンパンゴールドの街並みイルミネーションと高級ホテルステイ</p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月千葉】本州一早い初日の出「犬吠埼」と冬の極上「銚子つりきんめ」・九十九里焼きはまぐり鍋＆太平洋パノラマ犬吠埼温泉宿5選"} url={"https://croud-travel.pages.dev/winter-chiba-choshi-inubosaki-sunrise-kinmedai-hamaguri-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-chiba-choshi-inubosaki-sunrise-kinmedai-hamaguri-stay" />
 </div>
         </section>

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             標高3,000m級の北アルプスを貫く世界有数の山岳観光路「立山黒部アルペンルート」。春の巨大な雪の壁「雪の大谷」、紺碧の水面に立山が映る「みくりが池」。雲上の絶景温泉に浸かり、富山湾の海の幸を堪能する大冒険へ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"富山・立山黒部アルペンルート：雪の大谷・みくりが池＆立山連峰・富山湾宿 厳選ガイド"} url={"https://croud-travel.pages.dev/toyama-tateyama-kurobe-alpen-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -231,6 +235,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"富山・立山黒部アルペンルート：雪の大谷・みくりが池＆立山連峰・富山湾宿 厳選ガイド"} url={"https://croud-travel.pages.dev/toyama-tateyama-kurobe-alpen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="toyama-tateyama-kurobe-alpen-stay" />
 </div>
   );

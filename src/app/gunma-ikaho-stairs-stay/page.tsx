@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             榛名山の中腹、標高約700mに位置する「伊香保温泉」。365段の石段を一段一段登るごとに広がるレトロな射的場や足湯。鉄分を豊富に含む茶褐色の黄金の湯に浸かり、歴史の情緒に抱かれる旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"群馬・伊香保温泉：365段の石段街・黄金の湯＆水沢うどん極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/gunma-ikaho-stairs-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"群馬・伊香保温泉：365段の石段街・黄金の湯＆水沢うどん極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/gunma-ikaho-stairs-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="gunma-ikaho-stairs-stay" />
 </div>
   );

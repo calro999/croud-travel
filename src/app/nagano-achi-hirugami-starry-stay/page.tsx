@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             環境省が認定した日本一の星空の村「長野県阿智村」。標高1,400mの山頂へゴンドラで登り、合図とともに一斉に消灯される満天の天の川。pH9.7を誇る極上のとろとろ美肌湯「昼神温泉」と信州牛に癒やされる天空の旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"長野・阿智村＆昼神温泉：日本一の星空ナイトツアー・美肌名湯＆信州牛極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/nagano-achi-hirugami-starry-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"長野・阿智村＆昼神温泉：日本一の星空ナイトツアー・美肌名湯＆信州牛極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/nagano-achi-hirugami-starry-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="nagano-achi-hirugami-starry-stay" />
 </div>
   );

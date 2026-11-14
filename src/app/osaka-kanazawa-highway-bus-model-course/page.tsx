@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -164,6 +165,9 @@ export default function HighwayBusArticlePage() {
             北陸新幹線敦賀延伸により特急サンダーバードは敦賀乗り換えが必要に（片道約9,400円）。一方、高速バスなら大阪・京都から直行で片道約2,800円〜！乗り換えの手間ゼロ＆圧倒的コスパで楽しむ金沢1泊2日週末トリップ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"大阪から金沢 高速バス 新幹線 どっち？：安く行く方法＆乗り換えなし1泊2日モデルコース"} url={"https://croud-travel.pages.dev/osaka-kanazawa-highway-bus-model-course/"} />
       </div>
 
       {/* 📊 交通手段・料金・所要時間の徹底比較テーブル */}
@@ -617,6 +621,9 @@ export default function HighwayBusArticlePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"大阪から金沢 高速バス 新幹線 どっち？：安く行く方法＆乗り換えなし1泊2日モデルコース"} url={"https://croud-travel.pages.dev/osaka-kanazawa-highway-bus-model-course/"} />
+      </div>
       <HubRelatedPosts currentSlug="osaka-kanazawa-highway-bus-model-course" />
 </div>
   );

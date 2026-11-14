@@ -206,6 +206,70 @@ export default function Home() {
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-1">
           <Link
+            href="/posts/winter-newyear-countdown-anaba-onsen-hotels-guide/"
+            className="p-5 rounded-2xl bg-amber-500/15 hover:bg-amber-500/25 border-2 border-amber-400/60 hover:border-amber-300 transition block group space-y-2 shadow-sm hover:shadow-lg"
+          >
+            <div className="flex items-center justify-between">
+              <span className="text-[10px] font-extrabold text-amber-200 bg-amber-950/90 px-2.5 py-0.5 rounded-md border border-amber-400/40">
+                2026-2027年末年始・年越し
+              </span>
+              <span className="text-[10px] text-amber-200/90 font-bold">全国20宿・予算別</span>
+            </div>
+            <h3 className="text-sm md:text-base font-bold text-white group-hover:text-amber-200 transition line-clamp-2 leading-snug">【2026-2027年末年始】まだ間に合う！年越し・お正月泊の穴場温泉宿＆ホテル全国厳選20選（予算別）</h3>
+            <p className="text-xs text-stone-200 line-clamp-2 leading-relaxed">
+              箱根・湯河原・草津・北陸・有馬・九州！コスパ重視の年越し宿とご褒美名旅館をAPI実測データで徹底比較。
+            </p>
+          </Link>
+
+          <Link
+            href="/posts/winter-yukimi-rotenburo-train-access-onsen-hotels-guide/"
+            className="p-5 rounded-2xl bg-sky-500/15 hover:bg-sky-500/25 border-2 border-sky-400/50 hover:border-sky-300 transition block group space-y-2 shadow-sm hover:shadow-lg"
+          >
+            <div className="flex items-center justify-between">
+              <span className="text-[10px] font-extrabold text-sky-200 bg-sky-950/90 px-2.5 py-0.5 rounded-md border border-sky-400/40">
+                新幹線・電車で行く雪見湯
+              </span>
+              <span className="text-[10px] text-sky-200/90 font-bold">全国16宿・送迎付</span>
+            </div>
+            <h3 className="text-sm md:text-base font-bold text-white group-hover:text-sky-200 transition line-clamp-2 leading-snug">【雪道運転不要】新幹線・電車＆送迎で行ける全国の絶景「雪見露天風呂」温泉宿16選</h3>
+            <p className="text-xs text-stone-200 line-clamp-2 leading-relaxed">
+              越後湯沢・信州・乳頭温泉・定山渓＆登別へ車なしで行ける！駅近コスパ宿と秘湯ご褒美宿を予算別に厳選。
+            </p>
+          </Link>
+
+          <Link
+            href="/posts/furusato-tax-yearend-rush-rakuten-travel-coupon-guide/"
+            className="p-5 rounded-2xl bg-rose-500/15 hover:bg-rose-500/25 border-2 border-rose-400/50 hover:border-rose-300 transition block group space-y-2 shadow-sm hover:shadow-lg"
+          >
+            <div className="flex items-center justify-between">
+              <span className="text-[10px] font-extrabold text-rose-200 bg-rose-950/90 px-2.5 py-0.5 rounded-md border border-rose-400/40">
+                12/31締切・あとから割引
+              </span>
+              <span className="text-[10px] text-rose-200/90 font-bold">寄付額・予算別20宿</span>
+            </div>
+            <h3 className="text-sm md:text-base font-bold text-white group-hover:text-rose-200 transition line-clamp-2 leading-snug">【12/31締切】楽天ふるさと納税「トラベルクーポン」年末駆け込み完全攻略＆全国厳選名宿20選</h3>
+            <p className="text-xs text-stone-200 line-clamp-2 leading-relaxed">
+              有効期限最大3年＆予約済み宿にも適用可能！少額寄附コスパ枠と高額寄附ご褒美枠の2価格帯で分かりやすく整理。
+            </p>
+          </Link>
+
+          <Link
+            href="/posts/national-arena-dome-oshikatsu-live-hotels-guide/"
+            className="p-5 rounded-2xl bg-pink-500/15 hover:bg-pink-500/25 border-2 border-pink-400/50 hover:border-pink-300 transition block group space-y-2 shadow-sm hover:shadow-lg"
+          >
+            <div className="flex items-center justify-between">
+              <span className="text-[10px] font-extrabold text-pink-200 bg-pink-950/90 px-2.5 py-0.5 rounded-md border border-pink-400/40">
+                全国15大ドーム・アリーナ
+              </span>
+              <span className="text-[10px] text-pink-200/90 font-bold">推し活遠征ガイド</span>
+            </div>
+            <h3 className="text-sm md:text-base font-bold text-white group-hover:text-pink-200 transition line-clamp-2 leading-snug">【全国15大ドーム・メガアリーナ】推し活遠征ホテル完全攻略！予算別（コスパ節約vsご褒美）ガイド</h3>
+            <p className="text-xs text-stone-200 line-clamp-2 leading-relaxed">
+              東京・京セラ・PayPay・Kアリーナ・たまアリ他全15会場！グッズ代確保の格安宿から余韻贅沢宿まで各4軒以上掲載。
+            </p>
+          </Link>
+
+          <Link
             href="/posts/winter-tokyo-omotesando-illumination-jingu-christmas-luxury-hotels-guide/"
             className="p-5 rounded-2xl bg-white/10 hover:bg-white/20 border border-amber-400/30 hover:border-amber-400 transition block group space-y-2 shadow-sm hover:shadow-lg"
           >
@@ -432,29 +496,23 @@ export default function Home() {
             <span>いま予約が集中している秋冬〜年末年始の人気テーマ：</span>
           </p>
           <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-2.5 text-xs">
-            <Link href="/winter-crab-gourmet/" className="bg-white hover:bg-rose-50 border border-rose-200/80 rounded-xl px-3 py-2.5 font-bold text-rose-950 flex items-center gap-1.5 shadow-sm transition">
-              <span>🦀</span>
+            <Link href="/posts/winter-newyear-countdown-anaba-onsen-hotels-guide/" className="bg-white hover:bg-rose-50 border border-rose-200/80 rounded-xl px-3 py-2.5 font-bold text-rose-950 flex items-center gap-1.5 shadow-sm transition">
+              <span className="truncate">年末年始・年越し穴場20選</span>
+            </Link>
+            <Link href="/posts/winter-yukimi-rotenburo-train-access-onsen-hotels-guide/" className="bg-white hover:bg-sky-50 border border-sky-200/80 rounded-xl px-3 py-2.5 font-bold text-sky-950 flex items-center gap-1.5 shadow-sm transition">
+              <span className="truncate">電車で行く雪見露天16選</span>
+            </Link>
+            <Link href="/posts/furusato-tax-yearend-rush-rakuten-travel-coupon-guide/" className="bg-white hover:bg-amber-50 border border-amber-200/80 rounded-xl px-3 py-2.5 font-bold text-amber-950 flex items-center gap-1.5 shadow-sm transition">
+              <span className="truncate">12/31締切ふるさと納税宿</span>
+            </Link>
+            <Link href="/posts/national-arena-dome-oshikatsu-live-hotels-guide/" className="bg-white hover:bg-pink-50 border border-pink-200/80 rounded-xl px-3 py-2.5 font-bold text-pink-950 flex items-center gap-1.5 shadow-sm transition">
+              <span className="truncate">全国15会場 推し活遠征宿</span>
+            </Link>
+            <Link href="/winter-crab-gourmet/" className="bg-white hover:bg-orange-50 border border-orange-200/80 rounded-xl px-3 py-2.5 font-bold text-orange-950 flex items-center gap-1.5 shadow-sm transition">
               <span className="truncate">松葉ガニ・越前ガニ解禁</span>
             </Link>
-            <Link href="/furusato-tax-winter-crab-gourmet-luxury-stay/" className="bg-white hover:bg-amber-50 border border-amber-200/80 rounded-xl px-3 py-2.5 font-bold text-amber-950 flex items-center gap-1.5 shadow-sm transition">
-              <span>🏷️</span>
-              <span className="truncate">ふるさと納税×活蟹宿</span>
-            </Link>
-            <Link href="/snow-viewing-open-air-bath-secret-hotsprings/" className="bg-white hover:bg-sky-50 border border-sky-200/80 rounded-xl px-3 py-2.5 font-bold text-sky-950 flex items-center gap-1.5 shadow-sm transition">
-              <span>♨️</span>
-              <span className="truncate">絶景の雪見露天風呂</span>
-            </Link>
             <Link href="/furusato-tax-three-great-illuminations-resort-stay/" className="bg-white hover:bg-indigo-50 border border-indigo-200/80 rounded-xl px-3 py-2.5 font-bold text-indigo-950 flex items-center gap-1.5 shadow-sm transition">
-              <span>✨</span>
               <span className="truncate">冬イルミネーション宿</span>
-            </Link>
-            <Link href="/new-year-hatsumode-onsen/" className="bg-white hover:bg-emerald-50 border border-emerald-200/80 rounded-xl px-3 py-2.5 font-bold text-emerald-950 flex items-center gap-1.5 shadow-sm transition">
-              <span>🎍</span>
-              <span className="truncate">年末年始・初詣の名宿</span>
-            </Link>
-            <Link href="/furusato-tax-kue-gourmet-luxury-fish-stay/" className="bg-white hover:bg-teal-50 border border-teal-200/80 rounded-xl px-3 py-2.5 font-bold text-teal-950 flex items-center gap-1.5 shadow-sm transition">
-              <span>🍲</span>
-              <span className="truncate">本クエ鍋・冬の高級魚</span>
             </Link>
           </div>
         </div>

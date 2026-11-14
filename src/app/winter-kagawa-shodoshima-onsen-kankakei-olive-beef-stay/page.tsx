@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月小豆島温泉の初冬寒霞渓奇岩絶景とエンジェルロード夕日】海一望露天風呂・小豆島オリーブ牛ステーキ＆冬の讃岐でんぶく会席の宿5選',
     description: '11月下旬から12月にかけて瀬戸内海の小豆島は、温暖で穏やかな気候の中、日本三大渓谷美「寒霞渓」の紅葉から初冬の岩肌へと移ろうダイナミックな景観と。',
     url: 'https://croud-travel.pages.dev/winter-kagawa-shodoshima-onsen-kankakei-olive-beef-stay/',
-    siteName: 'クラドトラベル (Croud Travel)',
+    siteName: '旅宿クラウド (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -287,6 +288,9 @@ export default function ShodoshimaOnsenWinterFeature() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月小豆島温泉の初冬寒霞渓奇岩絶景とエンジェルロード夕日】海一望露天風呂・小豆島オリーブ牛ステーキ＆冬の讃岐でんぶく会席の宿5選"} url={"https://croud-travel.pages.dev/winter-kagawa-shodoshima-onsen-kankakei-olive-beef-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-10 space-y-12">
@@ -393,7 +397,7 @@ export default function ShodoshimaOnsenWinterFeature() {
                           <span className="text-slate-400 font-normal text-xs">({h.reviews}件)</span>
                         </div>
                       </div>
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-teal-800 transition"><a href={h.url} target="_blank" rel="noopener noreferrer">
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-teal-800 transition"><a href={h.url} target="_blank" rel="sponsored noopener noreferrer">
                           {h.name}
                         </a></h3>
                     </div>
@@ -462,7 +466,7 @@ export default function ShodoshimaOnsenWinterFeature() {
                     <a
                       href={h.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="w-full sm:w-auto px-6 py-3.5 rounded-2xl bg-gradient-to-r from-teal-800 to-teal-900 hover:from-teal-900 hover:to-slate-900 text-white font-bold text-sm shadow-md hover:shadow-lg transition flex items-center justify-center gap-2"
                     >
                       <span>楽天トラベルでプラン・空室を見る</span>
@@ -615,6 +619,9 @@ export default function ShodoshimaOnsenWinterFeature() {
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">全国の厳選温泉・旬旅特集まとめを見る</h3>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月小豆島温泉の初冬寒霞渓奇岩絶景とエンジェルロード夕日】海一望露天風呂・小豆島オリーブ牛ステーキ＆冬の讃岐でんぶく会席の宿5選"} url={"https://croud-travel.pages.dev/winter-kagawa-shodoshima-onsen-kankakei-olive-beef-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-kagawa-shodoshima-onsen-kankakei-olive-beef-stay" />
 </div>
         </section>

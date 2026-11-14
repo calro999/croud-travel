@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月鹿児島・妙見温泉】天降川渓流の自噴炭酸泉露天と初冬の静寂・極上鹿児島黒豚しゃぶしゃぶと黒毛和牛を堪能する名宿5選',
     description: '11月から12月にかけて、霧島連山の麓を流れる清流・天降川（あもりがわ）沿いに湯けむりを上げる「妙見温泉」の魅力とおすすめ宿泊施設を詳しくご紹介します。',
     url: 'https://croud-travel.pages.dev/winter-kagoshima-myoken-onsen-amorigawa-black-pork-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -50,12 +51,12 @@ export default function KagoshimaMyokenPage() {
     dateModified: '2026-10-19T12:00:00+09:00',
     author: {
       '@type': 'Organization',
-      name: 'クラドトラベル編集部',
+      name: '旅宿クラウド編集部',
       url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラドトラベル',
+      name: '旅宿クラウド',
       url: 'https://croud-travel.pages.dev',
       logo: {
         '@type': 'ImageObject',
@@ -234,6 +235,9 @@ export default function KagoshimaMyokenPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月鹿児島・妙見温泉】天降川渓流の自噴炭酸泉露天と初冬の静寂・極上鹿児島黒豚しゃぶしゃぶと黒毛和牛を堪能する名宿5選"} url={"https://croud-travel.pages.dev/winter-kagoshima-myoken-onsen-amorigawa-black-pork-stay/"} />
+      </div>
 
       {/* Breadcrumbs */}
       <nav className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-4 text-xs text-stone-500 flex items-center gap-1.5 flex-wrap">
@@ -404,7 +408,7 @@ export default function KagoshimaMyokenPage() {
                       <a
                         href={hotel.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="w-full sm:w-auto inline-flex items-center justify-center gap-2 bg-amber-600 hover:bg-amber-700 text-white text-xs sm:text-sm font-bold px-5 py-2.5 rounded-full transition duration-200 shadow-xs hover:shadow-md shrink-0"
                       >
                         <span>空室・料金プランを確認</span>
@@ -591,6 +595,9 @@ export default function KagoshimaMyokenPage() {
               </p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月鹿児島・妙見温泉】天降川渓流の自噴炭酸泉露天と初冬の静寂・極上鹿児島黒豚しゃぶしゃぶと黒毛和牛を堪能する名宿5選"} url={"https://croud-travel.pages.dev/winter-kagoshima-myoken-onsen-amorigawa-black-pork-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-kagoshima-myoken-onsen-amorigawa-black-pork-stay" />
 </div>
         </section>

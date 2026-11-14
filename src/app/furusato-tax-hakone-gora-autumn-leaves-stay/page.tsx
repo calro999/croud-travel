@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
@@ -5,7 +6,7 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '箱根強羅温泉の登山鉄道紅葉トンネル＆箱根美術館苔庭！白濁にごり湯宿×ふるさと納税厳選ガイド神奈川',
   description: '11月上旬〜下旬に箱根山が錦秋に染まる首都圏屈指の温泉リゾート「箱根強羅温泉」。箱根登山鉄道の紅葉トンネルや箱根美術館の深紅の苔庭散策と、大涌谷源泉の濃厚なにごり湯露天風呂を誇る「のうのう箱根」「瑞の香り」「箱根強羅 白檀」で特選相模牛や小田原鮮魚会席を堪能。ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。',
-  keywords: ["2026年最新秋旅", "神奈川", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
+  keywords: ["2026年末・冬休み対応", "神奈川", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-hakone-gora-autumn-leaves-stay/"
   },
@@ -38,7 +39,7 @@ const HOTEL_DATA = {
   hakone_gora_mizunokaori: {
     name: '箱根強羅温泉　瑞の香り',
     no: 158515,
-    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F138119%2F138119.html',
+    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F158515%2F158515.html',
     planUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F158515%2F158515.html%26f_flg%3DPLAN',
     reviewUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D158515',
     img: 'https://img.travel.rakuten.co.jp/share/HOTEL/158515/158515.jpg',
@@ -53,7 +54,7 @@ const HOTEL_DATA = {
   hakone_gora_byakudan: {
     name: '箱根強羅　白檀',
     no: 153496,
-    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F158515%2F158515.html',
+    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F153496%2F153496.html',
     planUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F153496%2F153496.html%26f_flg%3DPLAN',
     reviewUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D153496',
     img: 'https://img.travel.rakuten.co.jp/share/HOTEL/153496/153496.jpg',
@@ -72,7 +73,7 @@ export default function FeatureArticlePage() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "箱根強羅温泉の登山鉄道紅葉トンネル＆箱根美術館苔庭！白濁にごり湯宿×ふるさと納税完全ガイド【2026年最新秋旅】神奈川",
+    "headline": "箱根強羅温泉の登山鉄道紅葉トンネル＆箱根美術館苔庭！白濁にごり湯宿×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】神奈川",
     "description": "11月上旬〜下旬に箱根山が錦秋に染まる首都圏屈指の温泉リゾート「箱根強羅温泉」。箱根登山鉄道の紅葉トンネルや箱根美術館の深紅の苔庭散策と、大涌谷源泉の濃厚なにごり湯露天風呂を誇る「のうのう箱根」「瑞の香り」「箱根強羅 白檀」で特選相模牛や小田原鮮魚会席を堪能。ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。",
     "url": "https://croud-travel.pages.dev/furusato-tax-hakone-gora-autumn-leaves-stay/",
     "publisher": {
@@ -86,7 +87,7 @@ export default function FeatureArticlePage() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "箱根強羅温泉の登山鉄道紅葉トンネル＆箱根美術館苔庭！白濁にごり湯宿×ふるさと納税完全ガイド【2026年最新秋旅】神奈川", "item": "https://croud-travel.pages.dev/furusato-tax-hakone-gora-autumn-leaves-stay/" }
+      { "@type": "ListItem", "position": 2, "name": "箱根強羅温泉の登山鉄道紅葉トンネル＆箱根美術館苔庭！白濁にごり湯宿×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】神奈川", "item": "https://croud-travel.pages.dev/furusato-tax-hakone-gora-autumn-leaves-stay/" }
     ]
   };
 
@@ -111,7 +112,7 @@ export default function FeatureArticlePage() {
       <header className="bg-gradient-to-br from-amber-950 via-stone-900 to-red-950 text-white py-14 md:py-20 px-4 mb-10 shadow-lg">
         <div className="max-w-5xl mx-auto text-center">
           <div className="inline-flex items-center gap-2 bg-white/20 backdrop-blur-md px-4 py-1.5 rounded-full text-xs md:text-sm font-semibold mb-5 text-amber-200">
-            <span>🍁 10月・11月限定 秋旅特集</span>
+            <span>🍁 12/31締切 年末駆け込み＆冬休み対応</span>
             <span>•</span>
             <span>楽天ふるさと納税トラベルクーポン対応</span>
           </div>
@@ -121,6 +122,9 @@ export default function FeatureArticlePage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"箱根強羅温泉の登山鉄道紅葉トンネル＆箱根美術館苔庭！白濁にごり湯宿×ふるさと納税厳選ガイド神奈川"} url={"https://croud-travel.pages.dev/furusato-tax-hakone-gora-autumn-leaves-stay/"} />
+      </div>
 
       <div className="max-w-5xl mx-auto px-4 grid grid-cols-1 lg:grid-cols-3 gap-8">
         {/* メインコンテンツ */}
@@ -132,11 +136,11 @@ export default function FeatureArticlePage() {
               神奈川県・箱根山の中腹に位置する強羅温泉は、明治時代から政財界人や文人に愛されてきた高級温泉保養地。秋には箱根登山鉄道やケーブルカー沿線が鮮やかな紅葉のトンネルとなり、日本庭園と約130種類の苔が広がる「箱根美術館」の紅葉は圧巻の美しさ。大涌谷から引き湯した白濁の硫黄泉や自家源泉の露天風呂に浸かり、小田原漁港直送の地魚や相模牛の懐石料理を堪能できます。
             </p>
             <div className="bg-amber-50/80 rounded-xl p-5 border border-amber-200/80">
-              <h3 className="font-bold text-amber-950 text-sm md:text-base mb-2 flex items-center gap-2">10月〜11月の旅を満喫する3大ポイント</h3>
+              <h3 className="font-bold text-amber-950 text-sm md:text-base mb-2 flex items-center gap-2">年末〜冬休み・来春の旅を満喫する3大ポイント</h3>
               <ul className="text-xs md:text-sm text-amber-900 space-y-2 list-disc list-inside">
-                <li><strong>見頃の紅葉パノラマ：</strong>標高や日当たりで刻一刻と変化するグラデーションを鑑賞（箱根強羅温泉の登山鉄道紅葉トンネル＆箱根美術館苔庭）</li>
-                <li><strong>極上の温泉と湯巡り：</strong>朝夕の冷え込む秋風の中で入る露天風呂は格別の贅沢（箱根強羅温泉の登山鉄道紅葉トンネル＆箱根美術館苔庭）</li>
-                <li><strong>控除上限内なら自己負担実質2,000円（最大30%クーポン還元）：</strong>楽天ふるさと納税トラベルクーポンで賢く予約（箱根強羅温泉の登山鉄道紅葉トンネル＆箱根美術館苔庭）</li>
+                <li><strong>見頃の紅葉パノラマ：</strong>標高や日当たりで刻一刻と変化するグラデーションを鑑賞</li>
+                <li><strong>極上の温泉と湯巡り：</strong>朝夕の冷え込む秋風の中で入る露天風呂は格別の贅沢</li>
+                <li><strong>控除上限内なら自己負担実質2,000円（最大30%クーポン還元）：</strong>楽天ふるさと納税トラベルクーポンで賢く予約</li>
               </ul>
             </div>
           </section>
@@ -185,7 +189,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.hakone_gora_nounou.planUrl || HOTEL_DATA.hakone_gora_nounou.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-3.5 px-6 rounded-xl text-center shadow-md transition-all text-sm md:text-base flex items-center justify-center gap-2"
               >
                 <span>プラン一覧・空室確認（楽天トラベル）</span>
@@ -194,7 +198,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.hakone_gora_nounou.reviewUrl || HOTEL_DATA.hakone_gora_nounou.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="bg-stone-100 hover:bg-stone-200 text-stone-700 font-bold py-3.5 px-5 rounded-xl text-center border border-stone-300 text-sm transition-all"
               >
                 口コミを見る
@@ -246,7 +250,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.hakone_gora_mizunokaori.planUrl || HOTEL_DATA.hakone_gora_mizunokaori.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-3.5 px-6 rounded-xl text-center shadow-md transition-all text-sm md:text-base flex items-center justify-center gap-2"
               >
                 <span>プラン一覧・空室確認（楽天トラベル）</span>
@@ -255,7 +259,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.hakone_gora_mizunokaori.reviewUrl || HOTEL_DATA.hakone_gora_mizunokaori.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="bg-stone-100 hover:bg-stone-200 text-stone-700 font-bold py-3.5 px-5 rounded-xl text-center border border-stone-300 text-sm transition-all"
               >
                 口コミを見る
@@ -307,7 +311,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.hakone_gora_byakudan.planUrl || HOTEL_DATA.hakone_gora_byakudan.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-3.5 px-6 rounded-xl text-center shadow-md transition-all text-sm md:text-base flex items-center justify-center gap-2"
               >
                 <span>プラン一覧・空室確認（楽天トラベル）</span>
@@ -316,7 +320,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.hakone_gora_byakudan.reviewUrl || HOTEL_DATA.hakone_gora_byakudan.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="bg-stone-100 hover:bg-stone-200 text-stone-700 font-bold py-3.5 px-5 rounded-xl text-center border border-stone-300 text-sm transition-all"
               >
                 口コミを見る
@@ -357,19 +361,19 @@ export default function FeatureArticlePage() {
             <h3 className="font-bold text-stone-900 mb-4 pb-2 border-b border-stone-200 flex items-center gap-2">この特集で紹介した宿</h3>
             <ul className="space-y-4 text-xs md:text-sm">
               <li>
-                <a href={HOTEL_DATA.hakone_gora_nounou.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
+                <a href={HOTEL_DATA.hakone_gora_nounou.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
                   <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.hakone_gora_nounou.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.hakone_gora_nounou.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
-                <a href={HOTEL_DATA.hakone_gora_mizunokaori.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
+                <a href={HOTEL_DATA.hakone_gora_mizunokaori.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
                   <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.hakone_gora_mizunokaori.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.hakone_gora_mizunokaori.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
-                <a href={HOTEL_DATA.hakone_gora_byakudan.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
+                <a href={HOTEL_DATA.hakone_gora_byakudan.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
                   <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.hakone_gora_byakudan.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.hakone_gora_byakudan.rating} | 楽天トラベルで詳細確認</div>
                 </a>
@@ -531,6 +535,9 @@ export default function FeatureArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"箱根強羅温泉の登山鉄道紅葉トンネル＆箱根美術館苔庭！白濁にごり湯宿×ふるさと納税厳選ガイド神奈川"} url={"https://croud-travel.pages.dev/furusato-tax-hakone-gora-autumn-leaves-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-hakone-gora-autumn-leaves-stay" />
 </div>
         </section>

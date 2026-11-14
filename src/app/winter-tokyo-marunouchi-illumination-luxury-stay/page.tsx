@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             11月中旬から有楽町〜大手町を結ぶ丸の内仲通りが約120万球のシャンパンゴールドに輝く「丸の内イルミネーション」！東京駅の歴史的赤レンガ駅舎や皇居の緑を望むラグジュアリーホテルで過ごす特別なクリスマスステイ。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月！丸の内シャンパンゴールド夜景】大手町・銀座の煌めきと極上クラブラウンジ宿5選"} url={"https://croud-travel.pages.dev/winter-tokyo-marunouchi-illumination-luxury-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -517,6 +521,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月！丸の内シャンパンゴールド夜景】大手町・銀座の煌めきと極上クラブラウンジ宿5選"} url={"https://croud-travel.pages.dev/winter-tokyo-marunouchi-illumination-luxury-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-tokyo-marunouchi-illumination-luxury-stay" />
 </div>
         </section>

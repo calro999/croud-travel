@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             ブナやカエデの原生林を縫うように流れる「奥入瀬渓流（おいらせけいりゅう）」。岩を覆う鮮やかな苔と、激しく水しぶきを上げる滝の数々。十和田湖の深い青と、満点の星空、名湯に癒やされるネイチャーステイ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"青森・十和田湖＆奥入瀬渓流：苔むす清流・銚子大滝＆青森りんご極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/aomori-oirase-towada-nature-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"青森・十和田湖＆奥入瀬渓流：苔むす清流・銚子大滝＆青森りんご極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/aomori-oirase-towada-nature-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="aomori-oirase-towada-nature-stay" />
 </div>
   );

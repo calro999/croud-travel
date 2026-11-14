@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -14,7 +15,7 @@ export const metadata: Metadata = {
     title: "乳頭温泉郷をふるさと納税でお得に旅する！日本屈指の乳白色秘湯＆田沢湖畔ステイ！湯治宿ガイド",
     description: '十和田八幡平国立公園の深山に湧く日本屈指の秘湯・秋田県乳頭温泉郷＆田沢湖を楽天ふるさと納税でお得に巡る！二大名湯を引くブナの原生林宿「休暇村 乳頭温泉郷」、田沢湖畔の高原リゾート「田沢湖レイクリゾート」、清流貸切露天風呂と手打ち十割そばの「駒ヶ岳温泉」を徹底比較。山の芋鍋や仙北市トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-nyuto-onsen-secret-milky-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -28,12 +29,12 @@ export default function FurusatoArticlePage() {
     description: '十和田八幡平国立公園の深山に湧く日本屈指の秘湯・秋田県乳頭温泉郷＆田沢湖を楽天ふるさと納税でお得に巡る！二大名湯を引くブナの原生林宿「休暇村 乳頭温泉郷」、田沢湖畔の高原リゾート「田沢湖レイクリゾート」、清流貸切露天風呂と手打ち十割そばの「駒ヶ岳温泉」を徹底比較。山の芋鍋や仙北市トラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル 観光・ふるさと納税調査班',
+      name: '旅宿クラウド 観光・ふるさと納税調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -80,6 +81,9 @@ export default function FurusatoArticlePage() {
           十和田八幡平国立公園の深山に湧く日本屈指の秘湯・秋田県乳頭温泉郷＆田沢湖を楽天ふるさと納税でお得に巡る！二大名湯を引くブナの原生林宿「休暇村 乳頭温泉郷」、田沢湖畔の高原リゾート「田沢湖レイクリゾート」、清流貸切露天風呂と手打ち十割そばの「駒ヶ岳温泉」を徹底比較。山の芋鍋や仙北市トラベルクーポン活用術を網羅。
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"乳頭温泉郷をふるさと納税でお得に旅する！日本屈指の乳白色秘湯＆田沢湖畔ステイ！湯治宿ガイド"} url={"https://croud-travel.pages.dev/furusato-tax-nyuto-onsen-secret-milky-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
@@ -360,7 +364,7 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 乳頭温泉郷・田沢湖＆角館武家屋敷ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">乳頭温泉郷・田沢湖＆角館武家屋敷ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
@@ -586,6 +590,9 @@ export default function FurusatoArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"乳頭温泉郷をふるさと納税でお得に旅する！日本屈指の乳白色秘湯＆田沢湖畔ステイ！湯治宿ガイド"} url={"https://croud-travel.pages.dev/furusato-tax-nyuto-onsen-secret-milky-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-nyuto-onsen-secret-milky-stay" />
 </div>
         </section>

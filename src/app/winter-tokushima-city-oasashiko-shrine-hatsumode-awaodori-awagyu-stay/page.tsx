@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -290,6 +291,9 @@ export default function TokushimaCityWinterPage() {
             </p>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月徳島】大麻比古神社の大初詣＆眉山の冬夜景パノラマ！本場「阿波尾鶏」水炊き鍋と阿波牛名宿5選"} url={"https://croud-travel.pages.dev/winter-tokushima-city-oasashiko-shrine-hatsumode-awaodori-awagyu-stay/"} />
+      </div>
 
         {/* Article Summary Box */}
         <section className="max-w-5xl mx-auto px-4 -mt-8 relative z-20">
@@ -436,7 +440,7 @@ export default function TokushimaCityWinterPage() {
                       <a 
                         href={hotel.url} 
                         target="_blank" 
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-1.5 bg-indigo-800 hover:bg-indigo-900 text-white font-bold text-xs md:text-sm px-4 py-2.5 rounded-xl transition shadow-sm flex-shrink-0 ml-3"
                       >
                         <span>プラン詳細・予約</span>
@@ -573,6 +577,9 @@ export default function TokushimaCityWinterPage() {
           </section>
         </main>
       
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月徳島】大麻比古神社の大初詣＆眉山の冬夜景パノラマ！本場「阿波尾鶏」水炊き鍋と阿波牛名宿5選"} url={"https://croud-travel.pages.dev/winter-tokushima-city-oasashiko-shrine-hatsumode-awaodori-awagyu-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-tokushima-city-oasashiko-shrine-hatsumode-awaodori-awagyu-stay" />
 </div>
     </>

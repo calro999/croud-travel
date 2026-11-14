@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -14,7 +15,7 @@ export const metadata: Metadata = {
     title: '草津温泉をふるさと納税でお得に旅する！湯畑徒歩圏内の老舗名宿特集！源泉かけ流しと名湯巡り厳選ガイド｜望雲・ホテル一井・奈良屋',
     description: '日本三名泉の筆頭・群馬県草津温泉を楽天ふるさと納税でお得に贅沢ステイ！創業慶長四年・二つの源泉を引く「望雲」、湯畑が目の前の絶景老舗「ホテル一井」、湯守が丹精込めて仕込む極上の白旗源泉「奈良屋」を徹底比較。草津町トラベルクーポンの賢い活用法を完全網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-kusatsu-onsen-yubatake-heritage-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -28,12 +29,12 @@ export default function FurusatoArticlePage() {
     description: '日本三名泉の筆頭・群馬県草津温泉を楽天ふるさと納税でお得に贅沢ステイ！創業慶長四年・二つの源泉を引く「望雲」、湯畑が目の前の絶景老舗「ホテル一井」、湯守が丹精込めて仕込む極上の白旗源泉「奈良屋」を徹底比較。草津町トラベルクーポンの賢い活用法を完全網羅。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル 観光・ふるさと納税調査班',
+      name: '旅宿クラウド 観光・ふるさと納税調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -80,6 +81,9 @@ export default function FurusatoArticlePage() {
           日本三名泉の筆頭・群馬県草津温泉を楽天ふるさと納税でお得に贅沢ステイ！創業慶長四年・二つの源泉を引く「望雲」、湯畑が目の前の絶景老舗「ホテル一井」、湯守が丹精込めて仕込む極上の白旗源泉「奈良屋」を徹底比較。草津町トラベルクーポンの賢い活用法を完全網羅。
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"草津温泉をふるさと納税でお得に旅する！湯畑徒歩圏内の老舗名宿特集！源泉かけ流しと名湯巡り厳選ガイド"} url={"https://croud-travel.pages.dev/furusato-tax-kusatsu-onsen-yubatake-heritage-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
@@ -360,7 +364,7 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 草津温泉街・湯畑周辺の散策＆名所めぐりガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">草津温泉街・湯畑周辺の散策＆名所めぐりガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
@@ -586,6 +590,9 @@ export default function FurusatoArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"草津温泉をふるさと納税でお得に旅する！湯畑徒歩圏内の老舗名宿特集！源泉かけ流しと名湯巡り厳選ガイド"} url={"https://croud-travel.pages.dev/furusato-tax-kusatsu-onsen-yubatake-heritage-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-kusatsu-onsen-yubatake-heritage-stay" />
 </div>
         </section>

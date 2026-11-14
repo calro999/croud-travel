@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -226,6 +227,9 @@ export default function Page() {
             </p>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"古代環濠の灯火・吉野ヶ里光の響と冬の初摘み有明海苔：2026-2027年冬の佐賀・神埼＆佐賀城下"} url={"https://croud-travel.pages.dev/winter-saga-yoshinogari-hikarinohibiki-ariake-nori-sagagyu-onsen-stay/"} />
+      </div>
 
         {/* リード文セクション */}
         <section className="max-w-4xl mx-auto px-4 -mt-10 relative z-10 mb-12">
@@ -742,6 +746,10 @@ export default function Page() {
             </div>
           </div>
         </section>
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"古代環濠の灯火・吉野ヶ里光の響と冬の初摘み有明海苔：2026-2027年冬の佐賀・神埼＆佐賀城下"} url={"https://croud-travel.pages.dev/winter-saga-yoshinogari-hikarinohibiki-ariake-nori-sagagyu-onsen-stay/"} />
+      </div>
       </main>
     </>
   );

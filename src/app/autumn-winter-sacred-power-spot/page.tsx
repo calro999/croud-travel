@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -113,6 +114,9 @@ export default function SeasonalFeaturePage() {
             澄み渡る神聖な空気に包まれ、日頃の雑踏から離れて自分自身と向き合うリトリート。歴史ある寺院宿坊での朝勤行や護摩焚き体験、神話の息づく古社参拝と美肌温泉で心身を清める極上の旅へ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"心洗われる神域：開運パワースポット＆歴史の宿坊・温泉宿 厳選ガイド"} url={"https://croud-travel.pages.dev/autumn-winter-sacred-power-spot/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function SeasonalFeaturePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"心洗われる神域：開運パワースポット＆歴史の宿坊・温泉宿 厳選ガイド"} url={"https://croud-travel.pages.dev/autumn-winter-sacred-power-spot/"} />
+      </div>
       <HubRelatedPosts currentSlug="autumn-winter-sacred-power-spot" />
 </div>
   );

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -107,6 +108,9 @@ export default function MicroTouristHubPage() {
             標高1977m、日本百名山の一つにして急峻な岩壁が迫る「谷川岳」。ロープウェイで登る天神平からの雲上パノラマと、日本三大岩場「一ノ倉沢」の圧倒的な絶壁美。利根川の最上流部に点在する「みなかみ十八湯」の中でも、巨石を配した野趣あふれる大露天風呂で世界的に有名な「宝川温泉」。激流ラフティングから静寂の雪見露天まで、五感で自然を体感するみなかみステイへご案内します。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"群馬・みなかみ＆谷川岳：一ノ倉沢・宝川温泉大露天＆利根川宿 厳選ガイド"} url={"https://croud-travel.pages.dev/gunma-minakami-tanigawadake-onsen-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"群馬・みなかみ＆谷川岳：一ノ倉沢・宝川温泉大露天＆利根川宿 厳選ガイド"} url={"https://croud-travel.pages.dev/gunma-minakami-tanigawadake-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="gunma-minakami-tanigawadake-onsen-stay" />
 </div>
   );

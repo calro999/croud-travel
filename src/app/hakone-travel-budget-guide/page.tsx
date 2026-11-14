@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -75,6 +76,9 @@ export default function HakoneBudgetGuidePage() {
             新宿からのロマンスカー代、大涌谷の黒たまご、彫刻の森美術館の入場料から、強羅や仙石原の温泉旅館の相場まで。リアルな出費を包み隠さず計算します。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"箱根旅行 費用：日帰り・1泊2日それぞれいくら？フリーパス活用の交通費＆温泉旅館の宿泊費シミュレーション"} url={"https://croud-travel.pages.dev/hakone-travel-budget-guide/"} />
+      </div>
       </section>
 
       {/* 箱根フリーパス検証セクション */}
@@ -430,6 +434,9 @@ export default function HakoneBudgetGuidePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"箱根旅行 費用：日帰り・1泊2日それぞれいくら？フリーパス活用の交通費＆温泉旅館の宿泊費シミュレーション"} url={"https://croud-travel.pages.dev/hakone-travel-budget-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="hakone-travel-budget-guide" />
 </div>
   );

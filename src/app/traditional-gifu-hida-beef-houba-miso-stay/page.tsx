@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             香ばしい自家製味噌の香りが食欲をそそる名物「飛騨牛の朴葉味噌焼き」と、とろける極上すき焼き！日本三名泉・下呂温泉の滑らかな美肌湯や飛騨高山の古い町並み散策を満喫できる最高峰の美食旅館を厳選。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"A5飛騨牛朴葉味噌焼き＆すき焼き：高山・下呂温泉の香ばしい郷土美食と日本三名泉宿5選"} url={"https://croud-travel.pages.dev/traditional-gifu-hida-beef-houba-miso-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"A5飛騨牛朴葉味噌焼き＆すき焼き：高山・下呂温泉の香ばしい郷土美食と日本三名泉宿5選"} url={"https://croud-travel.pages.dev/traditional-gifu-hida-beef-houba-miso-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="traditional-gifu-hida-beef-houba-miso-stay" />
 </div>
         </section>

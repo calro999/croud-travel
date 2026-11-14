@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -169,6 +170,9 @@ export default function HighwayBusArticlePage() {
             JR特急「ソニック」「ゆふいんの森」だと博多〜別府・由布院は片道約5,000円〜6,000円。一方、西鉄高速バス「とよのくに号」「ゆふいん号」なら片道約2,800円〜3,250円（往復割でさらにお得）！天神・博多・福岡空港から乗り換えなしで温泉街へ直行。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"福岡・博多〜別府・由布院：特急ゆふいんの森 vs 高速バス徹底比較！料金半額＆湯布院・別府地獄めぐり1泊2日モデルコース"} url={"https://croud-travel.pages.dev/fukuoka-beppu-yufuin-bus-vs-train-guide/"} />
       </div>
 
       {/* 📊 交通手段・料金・所要時間の徹底比較テーブル */}
@@ -432,6 +436,9 @@ export default function HighwayBusArticlePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"福岡・博多〜別府・由布院：特急ゆふいんの森 vs 高速バス徹底比較！料金半額＆湯布院・別府地獄めぐり1泊2日モデルコース"} url={"https://croud-travel.pages.dev/fukuoka-beppu-yufuin-bus-vs-train-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="fukuoka-beppu-yufuin-bus-vs-train-guide" />
 </div>
   );

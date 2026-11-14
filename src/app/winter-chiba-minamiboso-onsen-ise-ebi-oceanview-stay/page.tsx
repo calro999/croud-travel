@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月千葉・南房総温泉郷の温暖避寒旅と旬の伊勢海老・房州地魚】太平洋パノラマ絶景露天＆貸切風呂の宿5選',
     description: '11月から12月にかけて、東京湾アクアラインで都心からわずか90分で訪れることができる房総半島南部「南房総温泉郷（鴨川・小湊・千倉・館山・白浜）」の魅力とおすすめ宿泊施設を詳しくご紹介します。',
     url: 'https://croud-travel.pages.dev/winter-chiba-minamiboso-onsen-ise-ebi-oceanview-stay/',
-    siteName: 'クラドトラベル (Croud Travel)',
+    siteName: '旅宿クラウド (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -287,6 +288,9 @@ export default function ChibaMinamibosoWinterFeature() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月千葉・南房総温泉郷の温暖避寒旅と旬の伊勢海老・房州地魚】太平洋パノラマ絶景露天＆貸切風呂の宿5選"} url={"https://croud-travel.pages.dev/winter-chiba-minamiboso-onsen-ise-ebi-oceanview-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-10 space-y-12">
@@ -492,7 +496,7 @@ export default function ChibaMinamibosoWinterFeature() {
                     <a
                       href={h.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="w-full sm:w-auto inline-flex items-center justify-center gap-2 bg-amber-700 hover:bg-amber-800 text-white font-bold text-sm px-6 py-3 rounded-2xl shadow-sm hover:shadow transition group flex-shrink-0"
                     >
                       <span>楽天トラベルでプランを見る</span>
@@ -611,6 +615,9 @@ export default function ChibaMinamibosoWinterFeature() {
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">冬に食べたい極上牡蠣＆海鮮グルメ温泉旅館ランキング</h3>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月千葉・南房総温泉郷の温暖避寒旅と旬の伊勢海老・房州地魚】太平洋パノラマ絶景露天＆貸切風呂の宿5選"} url={"https://croud-travel.pages.dev/winter-chiba-minamiboso-onsen-ise-ebi-oceanview-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-chiba-minamiboso-onsen-ise-ebi-oceanview-stay" />
 </div>
         </section>

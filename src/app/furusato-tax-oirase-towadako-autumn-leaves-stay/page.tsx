@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -7,7 +8,7 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '奥入瀬渓流の黄金トンネル紅葉＆十和田湖畔の絶景名湯リゾート・青森短角牛会席｜ふるさと納税で泊まれる名宿ガイド',
   description: '10月中旬〜10月下旬に見頃を迎える奥入瀬渓流の奇跡の紅葉と十和田湖の絶景パノラマ。清流沿いの温泉宿や湖畔リゾートで、源泉かけ流しの名湯と青森短角牛・十和田湖ひめます料理をふるさと納税で堪能する秋旅特集。',
-  keywords: ["奥入瀬渓流の黄金トンネル紅葉", "十和田湖畔の絶景名湯リゾート", "青森短角牛会席", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル"],
+  keywords: ["奥入瀬渓流の黄金トンネル紅葉", "十和田湖畔の絶景名湯リゾート", "青森短角牛会席", "旅宿クラウドふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-oirase-towadako-autumn-leaves-stay/",
   },
@@ -15,7 +16,7 @@ export const metadata: Metadata = {
     title: '奥入瀬渓流の黄金トンネル紅葉＆十和田湖畔の絶景名湯リゾート・青森短角牛会席｜ふるさと納税で泊まれる名宿ガイド',
     description: '10月中旬〜10月下旬に見頃を迎える奥入瀬渓流の奇跡の紅葉と十和田湖の絶景パノラマ。清流沿いの温泉宿や湖畔リゾートで、源泉かけ流しの名湯と青森短角牛・十和田湖ひめます料理をふるさと納税で堪能する秋旅特集。',
     url: 'https://croud-travel.pages.dev/furusato-tax-oirase-towadako-autumn-leaves-stay/',
-    siteName: 'クラウドトラベル (croud-travel.pages.dev)',
+    siteName: '旅宿クラウド (croud-travel.pages.dev)',
     type: 'article',
     locale: 'ja_JP',
   },
@@ -29,11 +30,11 @@ export default function Page() {
     "description": "10月中旬〜10月下旬に見頃を迎える奥入瀬渓流の奇跡の紅葉と十和田湖の絶景パノラマ。清流沿いの温泉宿や湖畔リゾートで、源泉かけ流しの名湯と青森短角牛・十和田湖ひめます料理をふるさと納税で堪能する秋旅特集。",
     "author": {
       "@type": "Organization",
-      "name": "クラウドトラベル編集部"
+      "name": "旅宿クラウド編集部"
     },
     "publisher": {
       "@type": "Organization",
-      "name": "クラウドトラベル",
+      "name": "旅宿クラウド",
       "logo": {
         "@type": "ImageObject",
         "url": "https://croud-travel.pages.dev/logo.png"
@@ -112,12 +113,15 @@ export default function Page() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"奥入瀬渓流の黄金トンネル紅葉＆十和田湖畔の絶景名湯リゾート・青森短角牛会席"} url={"https://croud-travel.pages.dev/furusato-tax-oirase-towadako-autumn-leaves-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"奥入瀬渓流の黄金トンネル紅葉＆十和田湖畔の絶景名湯リゾート・青森短角牛会席｜ふるさと納税で泊まれる名宿ガイド | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-oirase-towadako-autumn-leaves-stay/"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"奥入瀬渓流の黄金トンネル紅葉＆十和田湖畔の絶景名湯リゾート・青森短角牛会席｜ふるさと納税で泊まれる名宿ガイド | 旅宿クラウドふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-oirase-towadako-autumn-leaves-stay/"}]}) }}
       />
         {/* Intro Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 mb-12">
@@ -196,7 +200,7 @@ export default function Page() {
 
           <div className="bg-stone-50 rounded-xl p-5 border border-stone-200 mb-6 space-y-4">
             <div>
-              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5"><span>️</span> 料理のこだわり・秋の旬会席</h5>
+              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">料理のこだわり・秋の旬会席</h5>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 青森名物「十和田バラ焼き」、せんべい汁、青森県産米まっしぐら、地元契約農家の有機野菜サラダバー（朝食無料）
               </p>
@@ -261,7 +265,7 @@ export default function Page() {
 
           <div className="bg-stone-50 rounded-xl p-5 border border-stone-200 mb-6 space-y-4">
             <div>
-              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5"><span>️</span> 料理のこだわり・秋の旬会席</h5>
+              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">料理のこだわり・秋の旬会席</h5>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 青森短角牛のロースト、奥入瀬イワナのアクアパッツァ、十和田湖ひめますのカルパッチョ、八甲田山麓の採れたてキノコパスタ
               </p>
@@ -326,7 +330,7 @@ export default function Page() {
 
           <div className="bg-stone-50 rounded-xl p-5 border border-stone-200 mb-6 space-y-4">
             <div>
-              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5"><span>️</span> 料理のこだわり・秋の旬会席</h5>
+              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">料理のこだわり・秋の旬会席</h5>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 倉石牛（青森黒毛和牛）の陶板焼き、十和田湖ひめますのお造り・塩焼き、青森名物せんべい汁鍋、地場キノコと山菜の小鉢
               </p>
@@ -377,7 +381,7 @@ export default function Page() {
           <div className="bg-amber-950/60 p-4 rounded-xl border border-amber-500/30 text-xs sm:text-sm text-amber-100 flex items-start gap-2">
             <span>ℹ️</span>
             <span>
-              <strong>ポイント還元の二重取り：</strong>楽天カード決済や「お買い物マラソン」「0と5のつく日」を併用すると、寄付額に対して高還元率で楽天ポイントも獲得でき、さらにお得になります。
+              <strong>年末駆け込み＆先々の旅行予約に対応：</strong>2026年分の寄附控除枠は12月31日まで。返礼品の宿泊クーポンは有効期限が最長3年間と長く、予約済みの宿泊に「あとから割引適用」することも可能です。
             </span>
           </div>
         </section>
@@ -507,6 +511,9 @@ export default function Page() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"奥入瀬渓流の黄金トンネル紅葉＆十和田湖畔の絶景名湯リゾート・青森短角牛会席"} url={"https://croud-travel.pages.dev/furusato-tax-oirase-towadako-autumn-leaves-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-oirase-towadako-autumn-leaves-stay" />
 </div>
   );

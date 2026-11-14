@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
@@ -36,7 +37,7 @@ export default function Page() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "元華族・旧財閥別邸＆皇室御用達ゆかりの宿完全ガイド【名園と貴族のサロン】 | クラウドトラベル",
+    "headline": "元華族・旧財閥別邸＆皇室御用達ゆかりの宿完全ガイド【名園と貴族のサロン】 | 旅宿クラウド",
     "description": "箱根強羅花壇（旧閑院宮別邸）、京都南禅寺界隈の旧財閥別邸、中禅寺湖畔の皇室・大使館ゆかりの宿など、日本の政財界VIPや旧華族が愛した名園と隠れ家リゾートを特集。",
     "url": "https://croud-travel.pages.dev/former-aristocrat-zaibatsu-imperial-villa-resort-stay/",
     "publisher": {
@@ -50,7 +51,7 @@ export default function Page() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "元華族・旧財閥別邸＆皇室御用達ゆかりの宿完全ガイド【名園と貴族のサロン】 | クラウドトラベル", "item": "https://croud-travel.pages.dev/former-aristocrat-zaibatsu-imperial-villa-resort-stay/" }
+      { "@type": "ListItem", "position": 2, "name": "元華族・旧財閥別邸＆皇室御用達ゆかりの宿完全ガイド【名園と貴族のサロン】 | 旅宿クラウド", "item": "https://croud-travel.pages.dev/former-aristocrat-zaibatsu-imperial-villa-resort-stay/" }
     ]
   };
 
@@ -81,6 +82,9 @@ export default function Page() {
             明治・大正・昭和にかけて、旧皇族や華族、三菱・三井・住友などの旧財閥当主たちが箱根や京都、日光などの風光明媚な景勝地に築いた至高の別邸群。広大な日本庭園の借景、贅を尽くした建築素材、プライベートな社交場として愛された格式と静寂が、現代の最高峰ラグジュアリー旅館・ホテルとして受け継がれています。名園を愛でながら、日本最高峰のおもてなしと料理を堪能する特別な滞在をお届けします。
           </p>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"元華族・旧財閥別邸＆皇室御用達ゆかりの宿厳選ガイド「名園と貴族のサロン」"} url={"https://croud-travel.pages.dev/former-aristocrat-zaibatsu-imperial-villa-resort-stay/"} />
+      </div>
 
         {/* メインコンテンツセクション */}
         
@@ -308,8 +312,7 @@ export default function Page() {
 
         {/* よくある質問 FAQ */}
         <section className="mb-16 bg-white rounded-2xl shadow-sm border border-stone-200/80 p-6 md:p-8">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2"><span className="w-2 h-7 bg-amber-700 rounded-full inline-block"></span>
-            よくある質問・歴史建築宿の楽しみ方</h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">よくある質問・歴史建築宿の楽しみ方</h2>
           <div className="space-y-4">
             
             <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
@@ -500,6 +503,9 @@ export default function Page() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"元華族・旧財閥別邸＆皇室御用達ゆかりの宿厳選ガイド「名園と貴族のサロン」"} url={"https://croud-travel.pages.dev/former-aristocrat-zaibatsu-imperial-villa-resort-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="former-aristocrat-zaibatsu-imperial-villa-resort-stay" />
 </div>
         </section>

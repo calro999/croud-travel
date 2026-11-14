@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
@@ -5,7 +6,7 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '芭蕉が愛した名湯！加賀・山中温泉の鶴仙渓紅葉＆あやとり橋散策と温泉宿×ふるさと納税厳選ガイド石川',
   description: '11月上旬〜11月下旬に見頃を迎える加賀温泉郷「山中温泉・鶴仙渓（かくせんけい）」。あやとり橋やこおろぎ橋を包む錦秋渓谷、鶴仙渓川床で味わう道場六三郎レシピのスイーツ、開湯1300年の名湯宿「かがり吉祥亭」「吉祥やまなか」「白鷺湯たわらや」で11月解禁の加能ガニ・香箱ガニや能登牛を堪能。ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。',
-  keywords: ["芭蕉が愛した名湯！加賀", "山中温泉の鶴仙渓紅葉", "2026年最新秋旅", "石川", "温泉宿", "宿泊予約", "楽天トラベル"],
+  keywords: ["芭蕉が愛した名湯！加賀", "山中温泉の鶴仙渓紅葉", "2026年末・冬休み対応", "石川", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-yamanaka-kakusenkei-autumn-leaves-stay/"
   },
@@ -24,7 +25,7 @@ export default function FeatureArticlePage() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "芭蕉が愛した名湯！加賀・山中温泉の鶴仙渓紅葉＆あやとり橋散策と温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】石川",
+    "headline": "芭蕉が愛した名湯！加賀・山中温泉の鶴仙渓紅葉＆あやとり橋散策と温泉宿×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】石川",
     "description": "11月上旬〜11月下旬に見頃を迎える加賀温泉郷「山中温泉・鶴仙渓（かくせんけい）」。あやとり橋やこおろぎ橋を包む錦秋渓谷、鶴仙渓川床で味わう道場六三郎レシピのスイーツ、開湯1300年の名湯宿「かがり吉祥亭」「吉祥やまなか」「白鷺湯たわらや」で11月解禁の加能ガニ・香箱ガニや能登牛を堪能。ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。",
     "url": "https://croud-travel.pages.dev/furusato-tax-yamanaka-kakusenkei-autumn-leaves-stay/",
     "publisher": {
@@ -38,7 +39,7 @@ export default function FeatureArticlePage() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "芭蕉が愛した名湯！加賀・山中温泉の鶴仙渓紅葉＆あやとり橋散策と温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】石川", "item": "https://croud-travel.pages.dev/furusato-tax-yamanaka-kakusenkei-autumn-leaves-stay/" }
+      { "@type": "ListItem", "position": 2, "name": "芭蕉が愛した名湯！加賀・山中温泉の鶴仙渓紅葉＆あやとり橋散策と温泉宿×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】石川", "item": "https://croud-travel.pages.dev/furusato-tax-yamanaka-kakusenkei-autumn-leaves-stay/" }
     ]
   };
 
@@ -84,6 +85,9 @@ export default function FeatureArticlePage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"芭蕉が愛した名湯！加賀・山中温泉の鶴仙渓紅葉＆あやとり橋散策と温泉宿×ふるさと納税厳選ガイド石川"} url={"https://croud-travel.pages.dev/furusato-tax-yamanaka-kakusenkei-autumn-leaves-stay/"} />
+      </div>
 
       {/* イントロダクション */}
       <section className="max-w-5xl mx-auto px-4 sm:px-6 mb-12">
@@ -507,6 +511,9 @@ export default function FeatureArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"芭蕉が愛した名湯！加賀・山中温泉の鶴仙渓紅葉＆あやとり橋散策と温泉宿×ふるさと納税厳選ガイド石川"} url={"https://croud-travel.pages.dev/furusato-tax-yamanaka-kakusenkei-autumn-leaves-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-yamanaka-kakusenkei-autumn-leaves-stay" />
 </div>
         </section>

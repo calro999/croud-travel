@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -107,6 +108,9 @@ export default function MicroTouristHubPage() {
             伊豆急行線の車窓から海と温泉櫓（やぐら）の湯けむりが見えてくる東伊豆の名湯「熱川温泉」。約100度の高温泉が自噴し、波の音が間近に迫る絶景の波打ち際露天風呂。すぐ隣の港町・稲取では、日帰り一本釣りで水揚げされる極上のブランド魚「稲取キンメ」の濃厚な煮付け。伊豆大島を正面に望む相模湾パノラマと、昭和レトロな温泉情緒に浸る東伊豆ステイへご案内します。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"静岡・熱川＆稲取：湯けむり露天・ブランド稲取キンメ宿 厳選ガイド"} url={"https://croud-travel.pages.dev/shizuoka-atagawa-inatori-kinmedai-hotspring-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"静岡・熱川＆稲取：湯けむり露天・ブランド稲取キンメ宿 厳選ガイド"} url={"https://croud-travel.pages.dev/shizuoka-atagawa-inatori-kinmedai-hotspring-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="shizuoka-atagawa-inatori-kinmedai-hotspring-stay" />
 </div>
   );

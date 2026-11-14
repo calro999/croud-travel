@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -78,6 +79,9 @@ export default function KanazawaVsKyotoPage() {
             今回は「食・美・湯・金」の4つの軸で徹底比較します。
           </p>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"金沢 vs 京都 どっちが面白い？：食べ歩き・美術館・温泉・費用で古都対決"} url={"https://croud-travel.pages.dev/kanazawa-vs-kyoto-comparison/"} />
+      </div>
 
         <div className="space-y-16">
           {/* 【食】 */}
@@ -474,6 +478,9 @@ export default function KanazawaVsKyotoPage() {
             </div>
           </div></section>
 
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"金沢 vs 京都 どっちが面白い？：食べ歩き・美術館・温泉・費用で古都対決"} url={"https://croud-travel.pages.dev/kanazawa-vs-kyoto-comparison/"} />
+      </div>
       <HubRelatedPosts currentSlug="kanazawa-vs-kyoto-comparison" />
 </div>
   );

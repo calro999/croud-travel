@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             標高353mの古城山山頂に広がる石垣遺構「国史跡・天空の城 竹田城跡」。秋の早朝、濃密な朝霧に包まれて雲海に浮かぶ幻想の姿。戦国時代から昭和まで稼働した「生野銀山」の地下鉱山探検。日本三大和牛のルーツ但馬牛と日本三大葱・岩津ねぎを味わう旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"兵庫・竹田城跡＆朝来・生野銀山：雲海に浮かぶ天空の城・生野鉱山坑道＆但馬牛宿 厳選ガイド"} url={"https://croud-travel.pages.dev/hyogo-takeda-castle-asago-ikuno-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -392,6 +396,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"兵庫・竹田城跡＆朝来・生野銀山：雲海に浮かぶ天空の城・生野鉱山坑道＆但馬牛宿 厳選ガイド"} url={"https://croud-travel.pages.dev/hyogo-takeda-castle-asago-ikuno-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="hyogo-takeda-castle-asago-ikuno-stay" />
 </div>
   );

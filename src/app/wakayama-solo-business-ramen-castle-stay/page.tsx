@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -13,7 +14,7 @@ export const metadata: Metadata = {
     title: '和歌山出張・ひとり旅：天然温泉紀州の湯・和歌山城パノラマ・濃厚豚骨醤油中華そば！城下町でととのう快適出張宿 厳選3選',
     description: '関西南部の拠点・和歌山市での出張や一人旅に！自家源泉天然温泉と夜鳴きそばが揃う「ドーミーインPREMIUM和歌山」、和歌山城の夜景を望むハイクラスな「ダイワロイネットホテル和歌山」、JR和歌山駅直結の「ホテルグランヴィア和歌山」を徹底比較。',
     url: 'https://croud-travel.pages.dev/wakayama-solo-business-ramen-castle-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -27,12 +28,12 @@ export default function ArticlePage() {
     description: '関西南部の拠点・和歌山市での出張や一人旅に！自家源泉天然温泉と夜鳴きそばが揃う「ドーミーインPREMIUM和歌山」、和歌山城の夜景を望むハイクラスな「ダイワロイネットホテル和歌山」、JR和歌山駅直結の「ホテルグランヴィア和歌山」を徹底比較。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル ひとり旅・出張調査班',
+      name: '旅宿クラウド ひとり旅・出張調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -76,7 +77,7 @@ export default function ArticlePage() {
         <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">「和歌山出張・ひとり旅」天然温泉紀州の湯・和歌山城パノラマ・濃厚豚骨醤油中華そば！城下町でととのう快適出張宿 厳選3選</h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.12 更新</time>
-          <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>
+          <span>執筆：旅宿クラウド ひとり旅・出張調査班</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式API提携</span>
         </div>
 
@@ -93,6 +94,9 @@ export default function ArticlePage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"和歌山出張・ひとり旅：天然温泉紀州の湯・和歌山城パノラマ・濃厚豚骨醤油中華そば！城下町でととのう快適出張宿 厳選3選"} url={"https://croud-travel.pages.dev/wakayama-solo-business-ramen-castle-stay/"} />
+      </div>
 
       {/* 目次インデックス */}
       <section className="max-w-4xl mx-auto px-4 sm:px-6 mb-12">
@@ -463,6 +467,9 @@ export default function ArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"和歌山出張・ひとり旅：天然温泉紀州の湯・和歌山城パノラマ・濃厚豚骨醤油中華そば！城下町でととのう快適出張宿 厳選3選"} url={"https://croud-travel.pages.dev/wakayama-solo-business-ramen-castle-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="wakayama-solo-business-ramen-castle-stay" />
 </div>
         </section>

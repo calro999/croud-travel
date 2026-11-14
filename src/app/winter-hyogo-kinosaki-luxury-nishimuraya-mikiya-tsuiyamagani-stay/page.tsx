@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
@@ -111,6 +112,9 @@ export default function Page() {
             </p>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【雪の柳並木と最高峰・青タグ津居山ガニ解禁】2026-2027年11-1月冬の兵庫・城崎温泉！創業160年「西村屋本館」＆「三木屋」・活松葉ガニフルコースと外湯めぐり名宿5選"} url={"https://croud-travel.pages.dev/winter-hyogo-kinosaki-luxury-nishimuraya-mikiya-tsuiyamagani-stay/"} />
+      </div>
 
         <div className="max-w-4xl mx-auto px-4 mt-10 space-y-12">
           {/* 導入部 */}
@@ -225,8 +229,7 @@ export default function Page() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント</h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>江戸安政年間の創業以来、日本の伝統と美意識を守り続ける城崎温泉を象徴する最高峰の老舗名門旅館です。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>美しい平田雅哉設計の数寄屋建築と、四季折々に表情を変える日本庭園。お部屋に一歩足を踏み入れれば格別の静寂に包まれます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>冬の夕食は選りすぐりの活津居山ガニを贅沢に使ったフルコース。料理人が丹精込めて焼き上げる香ばしい蟹や甲羅酒は至福の極みです。</span></li>
                 </ul>
@@ -290,8 +293,7 @@ export default function Page() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント</h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>西村屋の伝統を受け継ぎながら、現代の快適性を融合させた五万坪の広大な森林庭園に囲まれたリゾート旅館です。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>露天風呂付き大浴場やジャグジー、趣の異なる3つのプライベートスパ（有料貸切露天風呂）など充実の温泉施設を備えます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>冬は名物・松葉ガニ料理と世界に誇る但馬牛の炭火焼きを心ゆくまで堪能。上質でゆったりとした大人の休日が叶います。</span></li>
                 </ul>
@@ -355,8 +357,7 @@ export default function Page() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント</h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>創業三百年の歴史を誇り、文豪・志賀直哉が滞在し名作『城の崎にて』を執筆したことで全国に名を知られる文化財の宿です。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>手入れの行き届いた約三百坪の日本庭園を臨む数寄屋造りの客室。ブックラウンジなど現代の洗練が心地よく調和しています。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>夕食は津居山ガニをはじめとする日本海の冬の海の幸や最高級但馬牛を贅沢に仕立てた季節会席。歴史の温もりに浸る滞在が楽しめます。</span></li>
                 </ul>
@@ -420,8 +421,7 @@ export default function Page() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント</h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>温泉街の喧騒から少し離れた閑静な地に佇み、四百坪の美しい日本庭園を囲むように配された本格数寄屋造りの宿です。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>全室がお部屋食に対応しており、周りを気にせずプライベートな空間でゆったりと食事と会話を楽しむことができます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>冬はタグ付き津居山ガニや但馬牛を使った贅沢な会席料理。檜香る内湯や露天風呂で良質な城崎の名湯を満喫できます。</span></li>
                 </ul>
@@ -485,8 +485,7 @@ export default function Page() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント</h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>大谿川のほとりに佇む、全室和モダンのスタイリッシュで落ち着きのある大人の隠れ家的な人気宿です。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>館内には趣の異なる3つの貸切風呂（木・岩・陶）があり、空いていれば予約不要で何度でも無料で利用できます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>レストランでいただく冬の蟹会席は、作家物の器に美しく盛り付けられた目にも鮮やかな逸品。但馬牛との組み合わせも絶品です。</span></li>
                 </ul>
@@ -660,6 +659,10 @@ export default function Page() {
             <p>※城崎温泉の松葉ガニ・津居山ガニ会席プランは漁の解禁（11月上旬〜3月末）に合わせた限定提供となります。人気宿の露天風呂付き客室や特選ガニプランは早期に満室となるため、楽天トラベルでの事前確認を推奨します。</p>
           </footer>
         </div>
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【雪の柳並木と最高峰・青タグ津居山ガニ解禁】2026-2027年11-1月冬の兵庫・城崎温泉！創業160年「西村屋本館」＆「三木屋」・活松葉ガニフルコースと外湯めぐり名宿5選"} url={"https://croud-travel.pages.dev/winter-hyogo-kinosaki-luxury-nishimuraya-mikiya-tsuiyamagani-stay/"} />
+      </div>
       </article>
     </>
   );

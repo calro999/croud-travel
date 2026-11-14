@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -164,6 +165,9 @@ export default function HighwayBusArticlePage() {
             新幹線＋特急南風（岡山乗り換え）だと大阪〜高知は約11,500円（約3時間30分）。一方、直行高速バス「よさこい号」なら梅田・三宮から乗り換えゼロ・片道約3,500円〜6,000円（約4時間45分・夜行便あり）！名物ひろめ市場での昼飲みと太平洋の絶景を満喫する土佐旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"大阪・神戸〜高知：高速バス「よさこい号」vs 特急南風徹底比較"} url={"https://croud-travel.pages.dev/osaka-kochi-bus-vs-train-guide/"} />
       </div>
 
       {/* 📊 交通手段・料金・所要時間の徹底比較テーブル */}
@@ -427,6 +431,9 @@ export default function HighwayBusArticlePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"大阪・神戸〜高知：高速バス「よさこい号」vs 特急南風徹底比較"} url={"https://croud-travel.pages.dev/osaka-kochi-bus-vs-train-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="osaka-kochi-bus-vs-train-guide" />
 </div>
   );

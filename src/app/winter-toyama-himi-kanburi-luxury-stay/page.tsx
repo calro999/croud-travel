@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             富山湾の冬の訪れを告げる「ひみ寒ぶり宣言」！丸々と太り極上の脂を蓄えた天然寒ブリの刺身、とろけるブリしゃぶ、香ばしいカマ焼き、そして海越しに雪化粧の立山連峰を望む奇跡のパノラマ温泉宿。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11月下旬宣言！富山湾の王者・氷見寒ブリ】極上ブリしゃぶと立山連峰望む絶景温泉宿5選"} url={"https://croud-travel.pages.dev/winter-toyama-himi-kanburi-luxury-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -578,6 +582,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11月下旬宣言！富山湾の王者・氷見寒ブリ】極上ブリしゃぶと立山連峰望む絶景温泉宿5選"} url={"https://croud-travel.pages.dev/winter-toyama-himi-kanburi-luxury-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-toyama-himi-kanburi-luxury-stay" />
 </div>
         </section>

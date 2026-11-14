@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             11月6日のカニ漁解禁とともに訪れる冬の至福！福井県が誇る黄色いタグ付き「越前がに」や、京都・丹後半島の幻の「間人（たいざ）ガニ」を、刺身・焼き・茹で・カニ味噌甲羅焼きのフルコースで堪能する冬の贅沢温泉旅。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11月解禁！越前ガニ＆間人ガニ】黄色いタグ付き最高峰ブランド蟹を味わう名湯宿5選"} url={"https://croud-travel.pages.dev/winter-echizen-crab-taiza-luxury-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -500,7 +504,7 @@ export default function FeaturePage() {
                 <span className="inline-block text-[10px] font-bold px-2 py-0.5 rounded bg-amber-100 text-amber-800 mb-2">
                   厳選おすすめ特集
                 </span>
-                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">【全室離れの隠れ家×ふるさと納税】誰にも会わずに過ごす極上のおこもり客室露天風呂宿完全ガイド | クラウドトラベル</h3>
+                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">【全室離れの隠れ家×ふるさと納税】誰にも会わずに過ごす極上のおこもり客室露天風呂宿完全ガイド | 旅宿クラウド</h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
                 特集を見る →
@@ -578,6 +582,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11月解禁！越前ガニ＆間人ガニ】黄色いタグ付き最高峰ブランド蟹を味わう名湯宿5選"} url={"https://croud-travel.pages.dev/winter-echizen-crab-taiza-luxury-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-echizen-crab-taiza-luxury-stay" />
 </div>
         </section>

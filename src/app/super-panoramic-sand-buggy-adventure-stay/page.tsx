@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             雄大な砂丘を四輪駆動サンドバギーやファットバイクで疾走する爽快アクティビティ！日本海の絶景と砂の芸術を体感した後は、展望露天風呂と松葉ガニ・日本海の海の幸を堪能できる人気リゾートを厳選。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"砂丘サンドバギー激走：鳥取砂丘・南紀白浜の爽快アクティビティ＆海鮮温泉リゾート宿5選"} url={"https://croud-travel.pages.dev/super-panoramic-sand-buggy-adventure-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"砂丘サンドバギー激走：鳥取砂丘・南紀白浜の爽快アクティビティ＆海鮮温泉リゾート宿5選"} url={"https://croud-travel.pages.dev/super-panoramic-sand-buggy-adventure-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="super-panoramic-sand-buggy-adventure-stay" />
 </div>
         </section>

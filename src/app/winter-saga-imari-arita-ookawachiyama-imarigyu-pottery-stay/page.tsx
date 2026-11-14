@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
@@ -15,7 +16,7 @@ export const metadata: Metadata = {
     title: '秘窯の里大川内山と最高峰伊万里牛：2026-2027年冬の佐賀・伊万里＆有田！名窯巡りと美食名宿5選',
     description: '静寂に包まれる鍋島藩窯の里「大川内山」の冬景色と有田・陶山神社の新春初詣！日本屈指の黒毛和牛「伊万里牛」の極上すき焼き・ステーキ、源泉掛け流し温泉で心身を解きほぐす至福の冬旅おすすめ名宿5選。',
     url: 'https://croud-travel.pages.dev/winter-saga-imari-arita-ookawachiyama-imarigyu-pottery-stay/',
-    siteName: 'クラウドトラベル',
+    siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -124,6 +125,9 @@ export default function Page() {
             静寂に包まれる鍋島藩窯の里「大川内山」の冬景色と有田・陶山神社の新春初詣！日本屈指の黒毛和牛「伊万里牛」の極上すき焼き・ステーキ、源泉掛け流し温泉で心身を解きほぐす至福の冬旅おすすめ名宿5選。
           </p>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"秘窯の里大川内山と最高峰伊万里牛：2026-2027年冬の佐賀・伊万里＆有田！名窯巡りと美食名宿5選"} url={"https://croud-travel.pages.dev/winter-saga-imari-arita-ookawachiyama-imarigyu-pottery-stay/"} />
+      </div>
 
         {/* 導入解説セクション */}
         {/* 宿一覧セクション */}
@@ -540,6 +544,10 @@ export default function Page() {
             </div>
           </div>
         </section>
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"秘窯の里大川内山と最高峰伊万里牛：2026-2027年冬の佐賀・伊万里＆有田！名窯巡りと美食名宿5選"} url={"https://croud-travel.pages.dev/winter-saga-imari-arita-ookawachiyama-imarigyu-pottery-stay/"} />
+      </div>
       </main>
     </>
   );

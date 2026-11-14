@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -13,7 +14,7 @@ export const metadata: Metadata = {
     title: '沖縄・那覇ひとり旅＆ワーケーション：オーシャンビュー・絶景露天温泉・国際通り至近！仕事と癒やしを両立するリゾート宿 厳選3選',
     description: '羽田・成田・関空から直行便で約2時間半！沖縄の青い海と島風を感じながら、心豊かに働く＆休む「大人のソロワーケーション」。飛行機が頭上をかすめる絶景天然温泉「琉球温泉 瀬長島ホテル」、国際通りのど真ん中で美濃焼タイルとライブラリーが彩る「JR九州ホテル ブラッサム那覇」、泊港の海を望みアートとハーバービューが融合する「ホテル アンテルーム 那覇」を徹底特集。',
     url: 'https://croud-travel.pages.dev/okinawa-naha-solo-workation-ocean-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -27,12 +28,12 @@ export default function ArticlePage() {
     description: '羽田・成田・関空から直行便で約2時間半！沖縄の青い海と島風を感じながら、心豊かに働く＆休む「大人のソロワーケーション」。飛行機が頭上をかすめる絶景天然温泉「琉球温泉 瀬長島ホテル」、国際通りのど真ん中で美濃焼タイルとライブラリーが彩る「JR九州ホテル ブラッサム那覇」、泊港の海を望みアートとハーバービューが融合する「ホテル アンテルーム 那覇」を徹底特集。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル ひとり旅・出張調査班',
+      name: '旅宿クラウド ひとり旅・出張調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -79,6 +80,9 @@ export default function ArticlePage() {
           羽田・成田・関空から直行便で約2時間半！沖縄の青い海と島風を感じながら、心豊かに働く＆休む「大人のソロワーケーション」。飛行機が頭上をかすめる絶景天然温泉「琉球温泉 瀬長島ホテル」、国際通りのど真ん中で美濃焼タイルとライブラリーが彩る「JR九州ホテル ブラッサム那覇」、泊港の海を望みアートとハーバービューが融合する「ホテル アンテルーム 那覇」を徹底特集。
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"沖縄・那覇ひとり旅＆ワーケーション：オーシャンビュー・絶景露天温泉・国際通り至近！仕事と癒やしを両立するリゾート宿 厳選3選"} url={"https://croud-travel.pages.dev/okinawa-naha-solo-workation-ocean-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
@@ -381,7 +385,7 @@ export default function ArticlePage() {
             href="/"
             className="inline-flex items-center gap-2 text-sm text-stone-600 hover:text-stone-900 font-medium transition-colors"
           >
-            ← クラウドトラベル トップページへ戻る
+            ← 旅宿クラウド トップページへ戻る
           </Link>
         </div>
       </div>
@@ -473,6 +477,9 @@ export default function ArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"沖縄・那覇ひとり旅＆ワーケーション：オーシャンビュー・絶景露天温泉・国際通り至近！仕事と癒やしを両立するリゾート宿 厳選3選"} url={"https://croud-travel.pages.dev/okinawa-naha-solo-workation-ocean-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="okinawa-naha-solo-workation-ocean-stay" />
 </div>
         </section>

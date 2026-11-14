@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
@@ -209,6 +210,9 @@ export default function Page() {
             </p>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"日本最古の神域・三輪明神大神神社新春初詣と山の辺の道：2026-2027年冬の奈良・桜井"} url={"https://croud-travel.pages.dev/winter-nara-sakurai-oomiwa-shrine-hatsumode-miwa-somen-yamatogyu-stay/"} />
+      </div>
 
         {/* メインコンテンツエリア */}
         <div className="max-w-4xl mx-auto px-4 py-12 space-y-16">
@@ -730,6 +734,10 @@ export default function Page() {
             </ul>
           </section>
         </div>
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"日本最古の神域・三輪明神大神神社新春初詣と山の辺の道：2026-2027年冬の奈良・桜井"} url={"https://croud-travel.pages.dev/winter-nara-sakurai-oomiwa-shrine-hatsumode-miwa-somen-yamatogyu-stay/"} />
+      </div>
       </article>
     </>
   );

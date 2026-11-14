@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
@@ -15,7 +16,7 @@ export const metadata: Metadata = {
     title: '藍商のうだつの町並みと阿波尾鶏鍋：2026-2027年冬の徳島・美馬！吉野川展望温泉と老舗名宿5選',
     description: '重伝建の白壁と装飾瓦が白銀に映える「脇町うだつの町並み」の冬風情！徳島が誇る極上地鶏「阿波尾鶏」の水炊きや冬の美馬そば、吉野川の清流を見下ろす天然温泉でぬくもる心安らぐ冬の歴史旅名宿5選。',
     url: 'https://croud-travel.pages.dev/winter-tokushima-mima-udatsu-historic-awao-dori-onsen-stay/',
-    siteName: 'クラウドトラベル',
+    siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -124,6 +125,9 @@ export default function Page() {
             重伝建の白壁と装飾瓦が白銀に映える「脇町うだつの町並み」の冬風情！徳島が誇る極上地鶏「阿波尾鶏」の水炊きや冬の美馬そば、吉野川の清流を見下ろす天然温泉でぬくもる心安らぐ冬の歴史旅名宿5選。
           </p>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"藍商のうだつの町並みと阿波尾鶏鍋：2026-2027年冬の徳島・美馬！吉野川展望温泉と老舗名宿5選"} url={"https://croud-travel.pages.dev/winter-tokushima-mima-udatsu-historic-awao-dori-onsen-stay/"} />
+      </div>
 
         {/* 導入解説セクション */}
         {/* 宿一覧セクション */}
@@ -543,6 +547,10 @@ export default function Page() {
             </div>
           </div>
         </section>
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"藍商のうだつの町並みと阿波尾鶏鍋：2026-2027年冬の徳島・美馬！吉野川展望温泉と老舗名宿5選"} url={"https://croud-travel.pages.dev/winter-tokushima-mima-udatsu-historic-awao-dori-onsen-stay/"} />
+      </div>
       </main>
     </>
   );

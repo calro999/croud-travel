@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -192,6 +193,9 @@ export default function SilverWeekGlampingHotspringOnsenSpaPage() {
           </div>
         </div>
       </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"源泉かけ流し温泉付きグランピング：キャンプ飯×名湯の極み！名門温泉地直結の露天風呂リゾート"} url={"https://croud-travel.pages.dev/silver-week-glamping-hotspring-onsen-spa-guide/"} />
+      </div>
 
       {/* 楽天トラベルスペシャルクーポンバナー */}
       <SpecialCouponBanner variant="prominent" />
@@ -355,7 +359,7 @@ export default function SilverWeekGlampingHotspringOnsenSpaPage() {
 
       {/* 内部リンク・名湯＆紅葉温泉ガイド */}
       <section className="bg-amber-50/50 border border-amber-200 rounded-3xl p-6 sm:p-8 space-y-4">
-        <h3 className="text-base font-bold text-stone-900 flex items-center gap-2"><span>️</span> あわせて読みたい秋の温泉名所ガイド</h3>
+        <h3 className="text-base font-bold text-stone-900 flex items-center gap-2">あわせて読みたい秋の温泉名所ガイド</h3>
         <p className="text-xs text-stone-600">
           全国屈指の名湯巡りや紅葉ライトアップと組み合わせた秋の温泉旅行プラン。
         </p>
@@ -398,6 +402,9 @@ export default function SilverWeekGlampingHotspringOnsenSpaPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"源泉かけ流し温泉付きグランピング：キャンプ飯×名湯の極み！名門温泉地直結の露天風呂リゾート"} url={"https://croud-travel.pages.dev/silver-week-glamping-hotspring-onsen-spa-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="silver-week-glamping-hotspring-onsen-spa-guide" />
 </div>
   );

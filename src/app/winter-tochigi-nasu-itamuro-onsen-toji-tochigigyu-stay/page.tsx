@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
     title: '【11・12月那須】開湯1000年「下野の薬湯」板室温泉・名物立ち湯と極上那須黒毛和牛＆初雪の那須連山を望む隠れ宿5選',
     description: '11月中旬から12月の初冬、雄大な茶臼岳をはじめとする那須連山が白銀の初雪に覆われ、高原全体が静謐な冬の静けさに包まれる季節。',
     url: 'https://croud-travel.pages.dev/winter-tochigi-nasu-itamuro-onsen-toji-tochigigyu-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -48,7 +49,7 @@ export default function TochigiNasuItamuroWinterPage() {
         "isPartOf": {
           "@type": "WebSite",
           "@id": "https://croud-travel.pages.dev/#website",
-          "name": "クラドトラベル",
+          "name": "旅宿クラウド",
           "url": "https://croud-travel.pages.dev/"
         },
         "headline": "【11・12月那須】開湯1000年「下野の薬湯」板室温泉・名物立ち湯と極上那須黒毛和牛＆初雪の那須連山を望む隠れ宿5選",
@@ -59,7 +60,7 @@ export default function TochigiNasuItamuroWinterPage() {
         "mainEntityOfPage": "https://croud-travel.pages.dev/winter-tochigi-nasu-itamuro-onsen-toji-tochigigyu-stay/",
         "publisher": {
           "@type": "Organization",
-          "name": "クラドトラベル編集部",
+          "name": "旅宿クラウド編集部",
           "url": "https://croud-travel.pages.dev/"
         }
       },
@@ -374,6 +375,9 @@ export default function TochigiNasuItamuroWinterPage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月那須】開湯1000年「下野の薬湯」板室温泉・名物立ち湯と極上那須黒毛和牛＆初雪の那須連山を望む隠れ宿5選"} url={"https://croud-travel.pages.dev/winter-tochigi-nasu-itamuro-onsen-toji-tochigigyu-stay/"} />
+      </div>
 
       {/* Main Content Container */}
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-12">
@@ -491,7 +495,7 @@ export default function TochigiNasuItamuroWinterPage() {
                       <a 
                         href={hotel.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl bg-gradient-to-r from-emerald-700 to-teal-700 text-white font-bold text-xs sm:text-sm hover:from-emerald-800 hover:to-teal-800 transition-all shadow-xs hover:shadow-md"
                       >
                         楽天トラベルでプラン詳細を見る
@@ -680,6 +684,9 @@ export default function TochigiNasuItamuroWinterPage() {
               <p className="font-bold text-stone-800 line-clamp-2">白銀の湯ノ湖と濃厚なエメラルド白濁硫黄泉・極上の冬雪見風呂</p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月那須】開湯1000年「下野の薬湯」板室温泉・名物立ち湯と極上那須黒毛和牛＆初雪の那須連山を望む隠れ宿5選"} url={"https://croud-travel.pages.dev/winter-tochigi-nasu-itamuro-onsen-toji-tochigigyu-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-tochigi-nasu-itamuro-onsen-toji-tochigigyu-stay" />
 </div>
         </section>

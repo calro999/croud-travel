@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             街の至る所から立ち上る湯けむり。日本一の温泉湧出量と源泉数を誇る「おんせん県おおいた・別府」。コバルトブルーの海地獄、真っ赤な血の池地獄。地熱と温泉の圧倒的パワーに癒やされる旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"大分・別府八湯＆別府地獄めぐり：海地獄・血の池地獄＆地獄蒸し極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/oita-beppu-hell-hotspring-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"大分・別府八湯＆別府地獄めぐり：海地獄・血の池地獄＆地獄蒸し極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/oita-beppu-hell-hotspring-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="oita-beppu-hell-hotspring-stay" />
 </div>
   );

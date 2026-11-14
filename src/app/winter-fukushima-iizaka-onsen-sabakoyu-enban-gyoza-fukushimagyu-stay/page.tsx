@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Image from 'next/image';
@@ -17,7 +18,7 @@ export const metadata: Metadata = {
     description: '奥州三名湯の歴史を刻む福島の奥座敷・飯坂温泉！松尾芭蕉も浸かった日本最古級の木造共同浴場「鯖湖湯」をはじめとする熱湯共同浴場めぐりで、冬の寒気を吹き飛ばす芯からの温まり。摺上川の渓谷美を望む露天風呂と、名店が競い合う香ばしい「名物円盤餃子」、極上福島牛すき焼きを堪能する初冬の厳選名宿5選。',
     url: 'https://croud-travel.pages.dev/winter-fukushima-iizaka-onsen-sabakoyu-enban-gyoza-fukushimagyu-stay/',
     type: 'article',
-    siteName: 'クラウドトラベル',
+    siteName: '旅宿クラウド',
   },
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-fukushima-iizaka-onsen-sabakoyu-enban-gyoza-fukushimagyu-stay/',
@@ -115,6 +116,9 @@ export default function WinterFeaturePage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【奥州三名湯・飯坂温泉の熱湯共同浴場と名物円盤餃子】2026-2027年11-12月初冬の福島・飯坂"} url={"https://croud-travel.pages.dev/winter-fukushima-iizaka-onsen-sabakoyu-enban-gyoza-fukushimagyu-stay/"} />
+      </div>
 
       {/* メインコンテンツ */}
       <main className="max-w-4xl mx-auto px-4 py-10 space-y-12">
@@ -565,6 +569,10 @@ export default function WinterFeaturePage() {
           </div>
         </section>
 
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【奥州三名湯・飯坂温泉の熱湯共同浴場と名物円盤餃子】2026-2027年11-12月初冬の福島・飯坂"} url={"https://croud-travel.pages.dev/winter-fukushima-iizaka-onsen-sabakoyu-enban-gyoza-fukushimagyu-stay/"} />
+      </div>
       </main>
     </div>
   );

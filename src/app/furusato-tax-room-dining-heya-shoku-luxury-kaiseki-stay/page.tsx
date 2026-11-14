@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import FurusatoStepSection from "@/app/components/FurusatoStepSection";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
@@ -96,6 +97,9 @@ export default function FurusatoRoomDiningHeyaShokuStayPage() {
             </Link>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"お部屋食でゆったり寛ぐ極上会席料理＆老舗名門温泉旅館×ふるさと納税厳選ガイド城崎・有馬・草津"} url={"https://croud-travel.pages.dev/furusato-tax-room-dining-heya-shoku-luxury-kaiseki-stay/"} />
+      </div>
 
         {/* 3つの醍醐味セクション */}
         <section className="mb-16">
@@ -517,6 +521,9 @@ export default function FurusatoRoomDiningHeyaShokuStayPage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"お部屋食でゆったり寛ぐ極上会席料理＆老舗名門温泉旅館×ふるさと納税厳選ガイド城崎・有馬・草津"} url={"https://croud-travel.pages.dev/furusato-tax-room-dining-heya-shoku-luxury-kaiseki-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-room-dining-heya-shoku-luxury-kaiseki-stay" />
 </div>
         </section>

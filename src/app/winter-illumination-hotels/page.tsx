@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -113,6 +114,9 @@ export default function SeasonalFeaturePage() {
             街中が幻想的な光に包まれる冬。クリスマスデートや家族での特別な旅行に、ホテルのお部屋やレストランからイルミネーションを一望できる極上の夜景ステイをご紹介します。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"冬の夜景：イルミネーション＆クリスマス絶景ホテル 厳選ガイド"} url={"https://croud-travel.pages.dev/winter-illumination-hotels/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function SeasonalFeaturePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"冬の夜景：イルミネーション＆クリスマス絶景ホテル 厳選ガイド"} url={"https://croud-travel.pages.dev/winter-illumination-hotels/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-illumination-hotels" />
 </div>
   );

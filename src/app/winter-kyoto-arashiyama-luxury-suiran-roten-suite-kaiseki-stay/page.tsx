@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Image from 'next/image';
@@ -17,7 +18,7 @@ export const metadata: Metadata = {
     description: '紅葉の喧騒が落ち着き、凛とした初冬の静寂が包み込む京都・嵐山。保津川の清流沿いに佇む世界的ラグジュアリーホテル「翠嵐 ラグジュアリーコレクションホテル 京都」をはじめ、嵐山温泉の肌触り滑らかな湯を客室露天風呂で愉しむ最高峰の宿。渡月橋や竹林の小径の静かな朝散策と、伝統の技が光る繊細な京懐石・丹波牛会席。日本の美意識の粋を極めた大人の記念日ステイ厳選5選。',
     url: 'https://croud-travel.pages.dev/winter-kyoto-arashiyama-luxury-suiran-roten-suite-kaiseki-stay/',
     type: 'article',
-    siteName: 'クラウドトラベル',
+    siteName: '旅宿クラウド',
   },
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-kyoto-arashiyama-luxury-suiran-roten-suite-kaiseki-stay/',
@@ -115,6 +116,9 @@ export default function UltraLuxuryWinterFeaturePage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【保津川渓流沿いの歴史美と嵐山温泉露天付きプライベートスイート】2026-2027年11-12月初冬の京都・嵐山"} url={"https://croud-travel.pages.dev/winter-kyoto-arashiyama-luxury-suiran-roten-suite-kaiseki-stay/"} />
+      </div>
 
       {/* メインコンテンツ */}
       <main className="max-w-4xl mx-auto px-4 py-10 space-y-12">
@@ -566,6 +570,10 @@ export default function UltraLuxuryWinterFeaturePage() {
           </div>
         </section>
 
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【保津川渓流沿いの歴史美と嵐山温泉露天付きプライベートスイート】2026-2027年11-12月初冬の京都・嵐山"} url={"https://croud-travel.pages.dev/winter-kyoto-arashiyama-luxury-suiran-roten-suite-kaiseki-stay/"} />
+      </div>
       </main>
     </div>
   );

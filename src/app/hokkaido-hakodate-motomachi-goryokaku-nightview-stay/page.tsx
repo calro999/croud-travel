@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -107,6 +108,9 @@ export default function MicroTouristHubPage() {
             津軽海峡と函館湾に挟まれた独特の扇状地形が織りなす「函館山からの100万ドルの夜景」。幕末の歴史が息づく星形要塞「五稜郭」の桜と新緑、元町坂道の洋館教会群、そして函館朝市でピチピチ跳ねる活イカやイクラ。名湯・湯の川温泉の海を望む露天風呂と日本屈指の朝食バイキングを満喫する極上の函館ステイへご案内します。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"北海道・函館＆五稜郭：世界三大夜景・星形城郭＆朝市海鮮宿 厳選ガイド"} url={"https://croud-travel.pages.dev/hokkaido-hakodate-motomachi-goryokaku-nightview-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"北海道・函館＆五稜郭：世界三大夜景・星形城郭＆朝市海鮮宿 厳選ガイド"} url={"https://croud-travel.pages.dev/hokkaido-hakodate-motomachi-goryokaku-nightview-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="hokkaido-hakodate-motomachi-goryokaku-nightview-stay" />
 </div>
   );

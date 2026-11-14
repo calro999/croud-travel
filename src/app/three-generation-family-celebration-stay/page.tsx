@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function TargetAudienceHubPage() {
             おじいちゃん・おばあちゃんからお孫さんまで笑顔があふれる三世代旅行！車椅子でも安心の段差なしフラット設計、ゆったり寛げる二間続きの広々和洋室、お祝いのちゃんちゃんこや記念写真付きプランで一生の思い出を。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"三世代旅行＆還暦・長寿祝い温泉宿：バリアフリー・個室宴会＆二間続き客室 厳選ガイド"} url={"https://croud-travel.pages.dev/three-generation-family-celebration-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function TargetAudienceHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"三世代旅行＆還暦・長寿祝い温泉宿：バリアフリー・個室宴会＆二間続き客室 厳選ガイド"} url={"https://croud-travel.pages.dev/three-generation-family-celebration-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="three-generation-family-celebration-stay" />
 </div>
   );

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -171,6 +172,9 @@ export default function SilverWeekGlampingHokkaidoPage() {
             <span className="flex items-center gap-1.5">✓ 十勝若牛・道産ラム・天然温泉付きリゾート</span>
           </div>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"北海道シルバーウィーク グランピング：札幌・富良野・トマム！秋晴れの爽快リゾートヴィラ"} url={"https://croud-travel.pages.dev/silver-week-glamping-hokkaido-sapporo-furano-guide/"} />
+      </div>
       </section>
 
       {/* 楽天トラベルスペシャルクーポンバナー */}
@@ -354,7 +358,7 @@ export default function SilverWeekGlampingHokkaidoPage() {
 
       {/* 内部リンク・関連旅行ガイド */}
       <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-8 space-y-4 border border-slate-800">
-        <h3 className="text-base font-bold text-white flex items-center gap-2"><span>️</span> 北海道旅行の費用計画＆モデルコースガイド</h3>
+        <h3 className="text-base font-bold text-white flex items-center gap-2">北海道旅行の費用計画＆モデルコースガイド</h3>
         <p className="text-xs text-slate-300">
           レンタカー代や飛行機代を含めた予算シミュレーションと、大自然・観光地を効率よく巡るファミリー向けモデルコースをチェック。
         </p>
@@ -397,6 +401,9 @@ export default function SilverWeekGlampingHokkaidoPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"北海道シルバーウィーク グランピング：札幌・富良野・トマム！秋晴れの爽快リゾートヴィラ"} url={"https://croud-travel.pages.dev/silver-week-glamping-hokkaido-sapporo-furano-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="silver-week-glamping-hokkaido-sapporo-furano-guide" />
 </div>
   );

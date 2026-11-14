@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             若手クリエイターにも大人気のモダンな伝統陶磁器「波佐見焼（はさみやき）」！洗練された器に美しく盛り付けられた創作フレンチや長崎和牛、そして嬉野・雲仙の名湯に心癒やされるスタイリッシュな温泉旅。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"波佐見焼のモダン器美学：お洒落なうつわで味わう長崎創作フレンチ＆嬉野・雲仙温泉宿5選"} url={"https://croud-travel.pages.dev/traditional-nagasaki-hasami-yaki-porcelain-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"波佐見焼のモダン器美学：お洒落なうつわで味わう長崎創作フレンチ＆嬉野・雲仙温泉宿5選"} url={"https://croud-travel.pages.dev/traditional-nagasaki-hasami-yaki-porcelain-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="traditional-nagasaki-hasami-yaki-porcelain-stay" />
 </div>
         </section>

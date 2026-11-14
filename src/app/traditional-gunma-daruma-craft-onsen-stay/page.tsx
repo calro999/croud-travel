@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -199,6 +200,9 @@ export default function FeatureDetailPage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"福を呼ぶ伝統工芸体験！高崎だるま絵付け＆伊香保石段街・黄金の湯の名旅館5選"} url={"https://croud-travel.pages.dev/traditional-gunma-daruma-craft-onsen-stay/"} />
+      </div>
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
@@ -864,6 +868,9 @@ export default function FeatureDetailPage() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"福を呼ぶ伝統工芸体験！高崎だるま絵付け＆伊香保石段街・黄金の湯の名旅館5選"} url={"https://croud-travel.pages.dev/traditional-gunma-daruma-craft-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="traditional-gunma-daruma-craft-onsen-stay" />
 </div>
   );

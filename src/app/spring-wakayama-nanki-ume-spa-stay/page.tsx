@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             ふっくらジューシーな最高級「紀州南高梅」を使った特製デザートや、数十種類の梅酒を飲み比べる梅酒BAR！太平洋を望む南紀白浜温泉の名湯と、クエや伊勢海老の海鮮会席を満喫する贅沢ステイ。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"南高梅スイーツ＆梅酒BAR：紀州特産南高梅のフルコースと白浜名湯！和歌山・南紀白浜の癒やし宿5選"} url={"https://croud-travel.pages.dev/spring-wakayama-nanki-ume-spa-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"南高梅スイーツ＆梅酒BAR：紀州特産南高梅のフルコースと白浜名湯！和歌山・南紀白浜の癒やし宿5選"} url={"https://croud-travel.pages.dev/spring-wakayama-nanki-ume-spa-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="spring-wakayama-nanki-ume-spa-stay" />
 </div>
         </section>

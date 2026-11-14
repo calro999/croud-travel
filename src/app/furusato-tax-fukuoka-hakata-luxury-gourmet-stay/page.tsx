@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -14,7 +15,7 @@ export const metadata: Metadata = {
     title: "福岡・博多をふるさと納税でお得に旅する！駅直結ラグジュアリー＆天然温泉スパ！もつ鍋・水炊き美食特集",
     description: 'アジアのリーダー都市・九州最大の美食シティ福岡県福岡市を楽天ふるさと納税でお得に贅沢ステイ！JR博多駅直結・屋上温泉スパ＆アウトドアプールの「都ホテル 博多」、キャナルシティ直結の国際的ラグジュアリー「グランドハイアット福岡」、博多湾オーシャンビューの「ヒルトン福岡シーホーク」を徹底比較。福岡市トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-fukuoka-hakata-luxury-gourmet-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -28,12 +29,12 @@ export default function FurusatoArticlePage() {
     description: 'アジアのリーダー都市・九州最大の美食シティ福岡県福岡市を楽天ふるさと納税でお得に贅沢ステイ！JR博多駅直結・屋上温泉スパ＆アウトドアプールの「都ホテル 博多」、キャナルシティ直結の国際的ラグジュアリー「グランドハイアット福岡」、博多湾オーシャンビューの「ヒルトン福岡シーホーク」を徹底比較。福岡市トラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル 観光・ふるさと納税調査班',
+      name: '旅宿クラウド 観光・ふるさと納税調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -80,6 +81,9 @@ export default function FurusatoArticlePage() {
           アジアのリーダー都市・九州最大の美食シティ福岡県福岡市を楽天ふるさと納税でお得に贅沢ステイ！JR博多駅直結・屋上温泉スパ＆アウトドアプールの「都ホテル 博多」、キャナルシティ直結の国際的ラグジュアリー「グランドハイアット福岡」、博多湾オーシャンビューの「ヒルトン福岡シーホーク」を徹底比較。福岡市トラベルクーポン活用術を網羅。
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"福岡・博多をふるさと納税でお得に旅する！駅直結ラグジュアリー＆天然温泉スパ！もつ鍋・水炊き美食特集"} url={"https://croud-travel.pages.dev/furusato-tax-fukuoka-hakata-luxury-gourmet-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
@@ -360,7 +364,7 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 博多駅・中洲屋台・太宰府天満宮＆大濠公園観光ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">博多駅・中洲屋台・太宰府天満宮＆大濠公園観光ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
@@ -586,6 +590,9 @@ export default function FurusatoArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"福岡・博多をふるさと納税でお得に旅する！駅直結ラグジュアリー＆天然温泉スパ！もつ鍋・水炊き美食特集"} url={"https://croud-travel.pages.dev/furusato-tax-fukuoka-hakata-luxury-gourmet-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-fukuoka-hakata-luxury-gourmet-stay" />
 </div>
         </section>

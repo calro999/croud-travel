@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -197,6 +198,9 @@ export default function FeatureDetailPage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"日本三大秘境のスリルと絶景！祖谷のかずら橋＆断崖ケーブルカー露天の秘境宿5選"} url={"https://croud-travel.pages.dev/super-panoramic-canyon-bridge-walk-stay/"} />
+      </div>
 
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
@@ -857,6 +861,9 @@ export default function FeatureDetailPage() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"日本三大秘境のスリルと絶景！祖谷のかずら橋＆断崖ケーブルカー露天の秘境宿5選"} url={"https://croud-travel.pages.dev/super-panoramic-canyon-bridge-walk-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="super-panoramic-canyon-bridge-walk-stay" />
 </div>
   );

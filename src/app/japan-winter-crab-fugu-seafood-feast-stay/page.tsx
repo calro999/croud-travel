@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function GourmetCuisineHubPage() {
             冬の訪れとともに解禁される日本の至高の海の幸！黄色や青のタグが輝く「松葉ガニ・越前ガニ」の茹で・焼き・カニ刺し。透き通る芸術品「下関とらふぐ」、脂の乗った「氷見・伊根の寒ブリしゃぶ」。冬の贅沢を極める温泉旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"冬の四大味覚極上宿：松葉ガニ・越前ガニ・下関とらふぐ・寒ブリ 厳選ガイド"} url={"https://croud-travel.pages.dev/japan-winter-crab-fugu-seafood-feast-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function GourmetCuisineHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"冬の四大味覚極上宿：松葉ガニ・越前ガニ・下関とらふぐ・寒ブリ 厳選ガイド"} url={"https://croud-travel.pages.dev/japan-winter-crab-fugu-seafood-feast-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="japan-winter-crab-fugu-seafood-feast-stay" />
 </div>
   );

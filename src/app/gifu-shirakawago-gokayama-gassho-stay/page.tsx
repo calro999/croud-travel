@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             豪雪地帯に生まれた急勾配の茅葺き屋根「世界遺産・白川郷合掌造り集落」。荻町城跡展望台から見下ろす田園とおとぎ話のような家並み。合掌造り民家に実際に泊まる貴重な体験。名物飛騨牛の朴葉味噌焼きと素朴な郷土料理を味わう旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"岐阜・白川郷＆五箇山：世界遺産合掌造り集落・荻町展望台＆飛騨牛・すったて汁宿 厳選ガイド"} url={"https://croud-travel.pages.dev/gifu-shirakawago-gokayama-gassho-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"岐阜・白川郷＆五箇山：世界遺産合掌造り集落・荻町展望台＆飛騨牛・すったて汁宿 厳選ガイド"} url={"https://croud-travel.pages.dev/gifu-shirakawago-gokayama-gassho-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="gifu-shirakawago-gokayama-gassho-stay" />
 </div>
   );

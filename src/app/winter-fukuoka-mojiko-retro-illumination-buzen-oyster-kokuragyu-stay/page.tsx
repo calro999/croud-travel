@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -241,6 +242,9 @@ export default function FukuokaMojikoKokuraPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月福岡】門司港レトロ浪漫灯彩イルミネーション＆関門海峡！旬の「豊前海一粒牡蠣」と元祖焼きカレー・小倉牛を堪能する名宿5選"} url={"https://croud-travel.pages.dev/winter-fukuoka-mojiko-retro-illumination-buzen-oyster-kokuragyu-stay/"} />
+      </div>
 
       {/* Main Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
@@ -458,7 +462,7 @@ export default function FukuokaMojikoKokuraPage() {
                       <a
                         href={h.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl bg-gradient-to-r from-amber-600 to-indigo-600 text-white font-bold text-sm shadow hover:from-amber-700 hover:to-indigo-700 transition-all"
                       >
                         <span>楽天トラベルでプランを見る</span>
@@ -598,6 +602,9 @@ export default function FukuokaMojikoKokuraPage() {
               <Compass className="w-4 h-4" />
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月福岡】門司港レトロ浪漫灯彩イルミネーション＆関門海峡！旬の「豊前海一粒牡蠣」と元祖焼きカレー・小倉牛を堪能する名宿5選"} url={"https://croud-travel.pages.dev/winter-fukuoka-mojiko-retro-illumination-buzen-oyster-kokuragyu-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-fukuoka-mojiko-retro-illumination-buzen-oyster-kokuragyu-stay" />
 </div>
         </section>

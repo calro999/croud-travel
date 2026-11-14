@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -172,6 +173,9 @@ export default function HighwayBusArticlePage() {
             JR特急「スーパーはくと」だと大阪〜鳥取は約7,500円、大阪〜出雲市（岡山経由やくも）は約11,000円。一方、直行高速バスなら大阪・神戸から鳥取片道約3,200円〜、松江・出雲片道約4,500円〜！山陰の海の幸、松葉ガニ、宍道湖の夕日、玉造温泉の美肌の湯を満喫する旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"大阪・神戸〜鳥取・松江・出雲：高速バス vs 特急スーパーはくと徹底比較！料金半額＆縁結び出雲大社・鳥取砂丘1泊2日モデルコース"} url={"https://croud-travel.pages.dev/osaka-tottori-matsue-bus-vs-train-guide/"} />
       </div>
 
       {/* 📊 交通手段・料金・所要時間の徹底比較テーブル */}
@@ -435,6 +439,9 @@ export default function HighwayBusArticlePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"大阪・神戸〜鳥取・松江・出雲：高速バス vs 特急スーパーはくと徹底比較！料金半額＆縁結び出雲大社・鳥取砂丘1泊2日モデルコース"} url={"https://croud-travel.pages.dev/osaka-tottori-matsue-bus-vs-train-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="osaka-tottori-matsue-bus-vs-train-guide" />
 </div>
   );

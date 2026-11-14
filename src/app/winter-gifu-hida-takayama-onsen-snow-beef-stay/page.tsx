@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
     title: '【11・12・1月飛騨高山】白銀の古い町並み雪景色と飛騨高山温泉・極上A5飛騨牛すき焼き＆冬限定「しぼりたて新酒」酒蔵めぐりを堪能する名宿5選',
     description: '11月から1月、小京都と称される岐阜県・飛騨高山は、江戸の面影を色濃く残す「古い町並み（さんまち通り）」や朱塗りの中橋。',
     url: 'https://croud-travel.pages.dev/winter-gifu-hida-takayama-onsen-snow-beef-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     images: [
       {
         url: 'https://img.travel.rakuten.co.jp/share/HOTEL/8327/8327.jpg',
@@ -49,12 +50,12 @@ export default function GifuHidaTakayamaWinterPage() {
     dateModified: '',
     author: {
       '@type': 'Organization',
-      name: 'クラドトラベル編集部',
+      name: '旅宿クラウド編集部',
       url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png'
@@ -293,6 +294,9 @@ export default function GifuHidaTakayamaWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月飛騨高山】白銀の古い町並み雪景色と飛騨高山温泉・極上A5飛騨牛すき焼き＆冬限定「しぼりたて新酒」酒蔵めぐりを堪能する名宿5選"} url={"https://croud-travel.pages.dev/winter-gifu-hida-takayama-onsen-snow-beef-stay/"} />
+      </div>
 
       {/* Main Content Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 pt-12 space-y-16">
@@ -432,7 +436,7 @@ export default function GifuHidaTakayamaWinterPage() {
                     <a 
                       href={hotel.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="w-full inline-flex items-center justify-center gap-2 bg-gradient-to-r from-amber-700 to-amber-900 hover:from-amber-800 hover:to-amber-950 text-white font-bold py-3.5 px-6 rounded-2xl shadow-sm hover:shadow transition text-sm tracking-wide"
                     >
                       <span>楽天トラベルで空室・冬限定プランを見る</span>
@@ -614,6 +618,9 @@ export default function GifuHidaTakayamaWinterPage() {
               <p className="font-bold text-stone-800 line-clamp-2">国宝松本城の白銀雪景色と浅間温泉の美肌湯・信州牛すき焼きの宿</p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月飛騨高山】白銀の古い町並み雪景色と飛騨高山温泉・極上A5飛騨牛すき焼き＆冬限定「しぼりたて新酒」酒蔵めぐりを堪能する名宿5選"} url={"https://croud-travel.pages.dev/winter-gifu-hida-takayama-onsen-snow-beef-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-gifu-hida-takayama-onsen-snow-beef-stay" />
 </div>
         </section>

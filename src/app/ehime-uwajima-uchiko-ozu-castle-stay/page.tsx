@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
@@ -65,6 +66,9 @@ export default function Page() {
             <span className="flex items-center gap-1">✅ 楽天トラベルリアルタイム空室連携</span>
           </div>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"愛媛・宇和島＆内子・大洲：現存天守・鯛めし＆白壁町並み・大洲城宿 厳選ガイド"} url={"https://croud-travel.pages.dev/ehime-uwajima-uchiko-ozu-castle-stay/"} />
       </div>
 
       {/* メインコンテンツ */}
@@ -869,6 +873,9 @@ export default function Page() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"愛媛・宇和島＆内子・大洲：現存天守・鯛めし＆白壁町並み・大洲城宿 厳選ガイド"} url={"https://croud-travel.pages.dev/ehime-uwajima-uchiko-ozu-castle-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="ehime-uwajima-uchiko-ozu-castle-stay" />
 </div>
   );

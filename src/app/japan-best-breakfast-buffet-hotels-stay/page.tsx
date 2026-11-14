@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function GourmetCuisineHubPage() {
             朝起きるのが楽しみになる日本一の朝食体験！器からこぼれるほど乗せられる「いくらかけ放題勝手丼」、芳醇なバターが香る焼きたてクロワッサン、シェフ特製のふわとろオムレツ。朝食を目的に泊まりたい全国の憧れホテルへ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"朝食の美味しいホテル日本一：いくら盛り放題・勝手丼＆焼きたてクロワッサン 厳選ガイド"} url={"https://croud-travel.pages.dev/japan-best-breakfast-buffet-hotels-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆おすすめ宿 */}
@@ -231,6 +235,9 @@ export default function GourmetCuisineHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"朝食の美味しいホテル日本一：いくら盛り放題・勝手丼＆焼きたてクロワッサン 厳選ガイド"} url={"https://croud-travel.pages.dev/japan-best-breakfast-buffet-hotels-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="japan-best-breakfast-buffet-hotels-stay" />
 </div>
   );

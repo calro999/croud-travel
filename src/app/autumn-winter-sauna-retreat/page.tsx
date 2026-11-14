@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -113,6 +114,9 @@ export default function SeasonalFeaturePage() {
             澄み渡る秋風やキリリと冷えた冬の空気の中で行う「外気浴」は、サウナ愛好家にとって至高の体験。薪ストーブの芳しい香り、天然地下水かけ流しの水風呂、富士山や湖を望む絶景サウナリゾートへ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【ととのう極上旅】絶景サウナ＆天然水風呂の温泉宿 完全ガイド"} url={"https://croud-travel.pages.dev/autumn-winter-sauna-retreat/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function SeasonalFeaturePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【ととのう極上旅】絶景サウナ＆天然水風呂の温泉宿 完全ガイド"} url={"https://croud-travel.pages.dev/autumn-winter-sauna-retreat/"} />
+      </div>
       <HubRelatedPosts currentSlug="autumn-winter-sauna-retreat" />
 </div>
   );

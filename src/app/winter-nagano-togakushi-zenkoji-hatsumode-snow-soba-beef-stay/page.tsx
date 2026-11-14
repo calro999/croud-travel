@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
     title: '【11・12・1月長野】白銀の戸隠神社・奥社杉並木と冬の戸隠新そば＆国宝善光寺「お朝事」初詣・信州牛を堪能する名宿5選',
     description: '11月から1月、信州の冬は静謐と祈りに満ちた神聖な季節を迎えます。樹齢400年を超える杉並木が一面の雪化粧に包まれる日本屈指の聖地「戸隠神社。',
     url: 'https://croud-travel.pages.dev/winter-nagano-togakushi-zenkoji-hatsumode-snow-soba-beef-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     images: [
       {
         url: 'https://img.travel.rakuten.co.jp/share/HOTEL/2571/2571.jpg',
@@ -49,12 +50,12 @@ export default function NaganoTogakushiZenkojiWinterPage() {
     dateModified: '',
     author: {
       '@type': 'Organization',
-      name: 'クラドトラベル編集部',
+      name: '旅宿クラウド編集部',
       url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラドトラベル',
+      name: '旅宿クラウド',
       url: 'https://croud-travel.pages.dev',
       logo: {
         '@type': 'ImageObject',
@@ -294,6 +295,9 @@ export default function NaganoTogakushiZenkojiWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月長野】白銀の戸隠神社・奥社杉並木と冬の戸隠新そば＆国宝善光寺「お朝事」初詣・信州牛を堪能する名宿5選"} url={"https://croud-travel.pages.dev/winter-nagano-togakushi-zenkoji-hatsumode-snow-soba-beef-stay/"} />
+      </div>
 
       {/* Main Content Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 pt-12 space-y-16">
@@ -518,7 +522,7 @@ export default function NaganoTogakushiZenkojiWinterPage() {
                       <a
                         href={h.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-2 bg-emerald-800 hover:bg-emerald-900 text-white font-bold text-xs sm:text-sm px-5 py-3 rounded-xl shadow-xs transition-colors"
                       >
                         楽天トラベルで空室・プランを見る
@@ -662,6 +666,9 @@ export default function NaganoTogakushiZenkojiWinterPage() {
               </span>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月長野】白銀の戸隠神社・奥社杉並木と冬の戸隠新そば＆国宝善光寺「お朝事」初詣・信州牛を堪能する名宿5選"} url={"https://croud-travel.pages.dev/winter-nagano-togakushi-zenkoji-hatsumode-snow-soba-beef-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-nagano-togakushi-zenkoji-hatsumode-snow-soba-beef-stay" />
 </div>
         </section>

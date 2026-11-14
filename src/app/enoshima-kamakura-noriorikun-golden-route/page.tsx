@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -208,6 +209,9 @@ export default function EnoshimaKamakuraNoriorikunPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"江ノ電1日乗車券のりおりくん完全攻略：800円で元を取るモデルコース＆海沿い途中下車の旅"} url={"https://croud-travel.pages.dev/enoshima-kamakura-noriorikun-golden-route/"} />
+      </div>
 
       {/* 楽天トラベル公式バナー */}
       <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 mt-6">
@@ -595,6 +599,9 @@ export default function EnoshimaKamakuraNoriorikunPage() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"江ノ電1日乗車券のりおりくん完全攻略：800円で元を取るモデルコース＆海沿い途中下車の旅"} url={"https://croud-travel.pages.dev/enoshima-kamakura-noriorikun-golden-route/"} />
+      </div>
       <HubRelatedPosts currentSlug="enoshima-kamakura-noriorikun-golden-route" />
 </div>
   );

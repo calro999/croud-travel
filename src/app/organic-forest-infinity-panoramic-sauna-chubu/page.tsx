@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             雄大な北アルプスの山並みを望む最新薪ストーブサウナ！白樺林に囲まれたウッドデッキでアロマロウリュを楽しみ、雪解け天然水のシングル水風呂と澄み切った高原の空気で異次元のととのい体験。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"信州・白馬アルプス森林サウナ：北アルプス絶景パノラマ＆白樺水風呂の極上リゾート宿5選"} url={"https://croud-travel.pages.dev/organic-forest-infinity-panoramic-sauna-chubu/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"信州・白馬アルプス森林サウナ：北アルプス絶景パノラマ＆白樺水風呂の極上リゾート宿5選"} url={"https://croud-travel.pages.dev/organic-forest-infinity-panoramic-sauna-chubu/"} />
+      </div>
       <HubRelatedPosts currentSlug="organic-forest-infinity-panoramic-sauna-chubu" />
 </div>
         </section>

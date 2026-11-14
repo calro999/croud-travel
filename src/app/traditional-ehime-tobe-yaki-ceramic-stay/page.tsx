@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             白磁に藍色の手描き模様が美しい愛媛の伝統陶磁器「砥部焼（とべやき）」の器で味わう、極上「伊予牛」の陶板焼き会席！日本最古の名湯・道後温泉や奥道後温泉で、伝統工芸と美肌湯に心ほどける大人の温泉旅。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"砥部焼のうつわ美＆伊予牛：白磁の伝統美と道後・奥道後温泉の極上癒やし宿5選"} url={"https://croud-travel.pages.dev/traditional-ehime-tobe-yaki-ceramic-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"砥部焼のうつわ美＆伊予牛：白磁の伝統美と道後・奥道後温泉の極上癒やし宿5選"} url={"https://croud-travel.pages.dev/traditional-ehime-tobe-yaki-ceramic-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="traditional-ehime-tobe-yaki-ceramic-stay" />
 </div>
         </section>

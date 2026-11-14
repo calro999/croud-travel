@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -174,6 +175,9 @@ export default function Page() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"日本三大伝統的町並み＆小江戸・白壁土蔵の重伝建と歴史情緒宿×ふるさと納税厳選ガイド倉敷・川越・竹原"} url={"https://croud-travel.pages.dev/furusato-tax-three-great-traditional-townscapes-stay/"} />
+      </div>
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
@@ -553,6 +557,9 @@ export default function Page() {
         </div>
       </footer>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"日本三大伝統的町並み＆小江戸・白壁土蔵の重伝建と歴史情緒宿×ふるさと納税厳選ガイド倉敷・川越・竹原"} url={"https://croud-travel.pages.dev/furusato-tax-three-great-traditional-townscapes-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-three-great-traditional-townscapes-stay" />
 </div>
   );

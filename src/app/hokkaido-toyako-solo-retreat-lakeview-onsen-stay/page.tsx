@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -12,7 +13,7 @@ export const metadata: Metadata = {
     title: '洞爺湖温泉ひとり旅・湖畔絶景おこもり：インフィニティ露天風呂・ロングラン花火・道産牛フレンチ会席！支笏洞爺国立公園厳選3宿',
     description: 'カルデラ湖の壮大なパノラマと有珠山を望む北海道屈指のリゾート温泉地・洞爺湖！最上階インフィニティ露天とビュッフェが圧巻の「洞爺湖万世閣ホテルレイクサイドテラス」、湖畔真横の静寂と源泉100%掛け流しが自慢の「ホテルグランド トーヤ」、昭和レトロな落ち着きと温泉情緒の「大和旅館アネックス」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/hokkaido-toyako-solo-retreat-lakeview-onsen-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -26,12 +27,12 @@ export default function ArticlePage() {
     description: 'カルデラ湖の壮大なパノラマと有珠山を望む北海道屈指のリゾート温泉地・洞爺湖！最上階インフィニティ露天とビュッフェが圧巻の「洞爺湖万世閣ホテルレイクサイドテラス」、湖畔真横の静寂と源泉100%掛け流しが自慢の「ホテルグランド トーヤ」、昭和レトロな落ち着きと温泉情緒の「大和旅館アネックス」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル ひとり旅・出張調査班',
+      name: '旅宿クラウド ひとり旅・出張調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -91,6 +92,9 @@ export default function ArticlePage() {
             </p>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"洞爺湖温泉ひとり旅・湖畔絶景おこもり：インフィニティ露天風呂・ロングラン花火・道産牛フレンチ会席！支笏洞爺国立公園厳選3宿"} url={"https://croud-travel.pages.dev/hokkaido-toyako-solo-retreat-lakeview-onsen-stay/"} />
+      </div>
 
         {/* 目次 */}
         <section className="bg-white p-5 rounded-2xl border border-stone-200 shadow-sm mb-10">
@@ -148,7 +152,7 @@ export default function ArticlePage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F20613%2F20613.html"
                 target="_blank"
-                rel="noopener noreferrer sponsored"
+                rel="sponsored noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-amber-700 hover:bg-amber-800 text-white text-xs sm:text-sm font-bold px-5 py-2.5 rounded-lg shadow-sm hover:shadow transition"
               >
                 <span>空室状況・最新料金を確認</span>
@@ -203,7 +207,7 @@ export default function ArticlePage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F14467%2F14467.html"
                 target="_blank"
-                rel="noopener noreferrer sponsored"
+                rel="sponsored noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-amber-700 hover:bg-amber-800 text-white text-xs sm:text-sm font-bold px-5 py-2.5 rounded-lg shadow-sm hover:shadow transition"
               >
                 <span>空室状況・最新料金を確認</span>
@@ -258,7 +262,7 @@ export default function ArticlePage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F147105%2F147105.html"
                 target="_blank"
-                rel="noopener noreferrer sponsored"
+                rel="sponsored noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-amber-700 hover:bg-amber-800 text-white text-xs sm:text-sm font-bold px-5 py-2.5 rounded-lg shadow-sm hover:shadow transition"
               >
                 <span>空室状況・最新料金を確認</span>
@@ -318,7 +322,7 @@ export default function ArticlePage() {
           <a
             href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F20613%2F20613.html"
             target="_blank"
-            rel="noopener noreferrer sponsored"
+            rel="sponsored noopener noreferrer"
             className="inline-block bg-amber-600 hover:bg-amber-500 text-white text-sm font-bold px-8 py-3.5 rounded-xl shadow-lg transition"
           >
             一番人気の宿をチェックする（楽天トラベル）
@@ -606,6 +610,9 @@ export default function ArticlePage() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"洞爺湖温泉ひとり旅・湖畔絶景おこもり：インフィニティ露天風呂・ロングラン花火・道産牛フレンチ会席！支笏洞爺国立公園厳選3宿"} url={"https://croud-travel.pages.dev/hokkaido-toyako-solo-retreat-lakeview-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="hokkaido-toyako-solo-retreat-lakeview-onsen-stay" />
 </div>
   );

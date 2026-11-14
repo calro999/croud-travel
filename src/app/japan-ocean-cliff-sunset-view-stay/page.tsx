@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function ScenicViewHubPage() {
             見渡す限りの水平線に沈みゆく黄金の太陽！日本の名勝・断崖絶壁に建つ「絶景オーシャン＆夕陽の宿」。三陸海岸の高さ200mの絶壁、男鹿半島のゴジラ岩、東尋坊の夕暮れ。打ち寄せる波音をBGMに湯船に浸かるドラマチックな休日。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"絶景断崖オーシャン＆夕陽パノラマ宿：三陸・男鹿・越前・室戸岬・天草 厳選ガイド"} url={"https://croud-travel.pages.dev/japan-ocean-cliff-sunset-view-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function ScenicViewHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"絶景断崖オーシャン＆夕陽パノラマ宿：三陸・男鹿・越前・室戸岬・天草 厳選ガイド"} url={"https://croud-travel.pages.dev/japan-ocean-cliff-sunset-view-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="japan-ocean-cliff-sunset-view-stay" />
 </div>
   );

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -203,6 +204,9 @@ export default function TokyoSubwayTicket24hPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"東京メトロ24時間券 活用厳選ガイド：600円で都内観光乗り倒し！元を取るコスパ最強ルート＆駅チカ宿"} url={"https://croud-travel.pages.dev/tokyo-subway-ticket-24h-golden-route/"} />
+      </div>
 
       {/* 楽天トラベル公式スペシャルバナー */}
       <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 mt-6">
@@ -578,6 +582,9 @@ export default function TokyoSubwayTicket24hPage() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"東京メトロ24時間券 活用厳選ガイド：600円で都内観光乗り倒し！元を取るコスパ最強ルート＆駅チカ宿"} url={"https://croud-travel.pages.dev/tokyo-subway-ticket-24h-golden-route/"} />
+      </div>
       <HubRelatedPosts currentSlug="tokyo-subway-ticket-24h-golden-route" />
 </div>
   );

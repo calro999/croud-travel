@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -13,7 +14,7 @@ export const metadata: Metadata = {
     title: '宇都宮出張＆餃子ひとり旅：最上階展望スカイスパ・駅直結・名物餃子食べ比べ！北関東の要所で整う極上ホテル 厳選3選',
     description: '東北・秋田・山形新幹線停車！北関東最大の工業・ビジネス拠点である栃木県宇都宮市。「駅東口直結・最上階スカイスパでととのう新ランドマーク」の「CANDEO HOTELS 宇都宮」、宇都宮駅ビル直結でシモンズベッド完備の「ＪＲ東日本ホテルメッツ 宇都宮」、大谷石ラウンジと広々客室が自慢の「ホテルマイステイズ宇都宮」を徹底特集。',
     url: 'https://croud-travel.pages.dev/utsunomiya-solo-business-gyoza-skyspa-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -27,12 +28,12 @@ export default function ArticlePage() {
     description: '東北・秋田・山形新幹線停車！北関東最大の工業・ビジネス拠点である栃木県宇都宮市。「駅東口直結・最上階スカイスパでととのう新ランドマーク」の「CANDEO HOTELS 宇都宮」、宇都宮駅ビル直結でシモンズベッド完備の「ＪＲ東日本ホテルメッツ 宇都宮」、大谷石ラウンジと広々客室が自慢の「ホテルマイステイズ宇都宮」を徹底特集。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル ひとり旅・出張調査班',
+      name: '旅宿クラウド ひとり旅・出張調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -79,6 +80,9 @@ export default function ArticlePage() {
           東北・秋田・山形新幹線停車！北関東最大の工業・ビジネス拠点である栃木県宇都宮市。「駅東口直結・最上階スカイスパでととのう新ランドマーク」の「CANDEO HOTELS 宇都宮」、宇都宮駅ビル直結でシモンズベッド完備の「ＪＲ東日本ホテルメッツ 宇都宮」、大谷石ラウンジと広々客室が自慢の「ホテルマイステイズ宇都宮」を徹底特集。
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"宇都宮出張＆餃子ひとり旅：最上階展望スカイスパ・駅直結・名物餃子食べ比べ！北関東の要所で整う極上ホテル 厳選3選"} url={"https://croud-travel.pages.dev/utsunomiya-solo-business-gyoza-skyspa-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
@@ -381,7 +385,7 @@ export default function ArticlePage() {
             href="/"
             className="inline-flex items-center gap-2 text-sm text-stone-600 hover:text-stone-900 font-medium transition-colors"
           >
-            ← クラウドトラベル トップページへ戻る
+            ← 旅宿クラウド トップページへ戻る
           </Link>
         </div>
       </div>
@@ -542,6 +546,10 @@ export default function ArticlePage() {
             </div>
           </div></section>
 
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"宇都宮出張＆餃子ひとり旅：最上階展望スカイスパ・駅直結・名物餃子食べ比べ！北関東の要所で整う極上ホテル 厳選3選"} url={"https://croud-travel.pages.dev/utsunomiya-solo-business-gyoza-skyspa-stay/"} />
+      </div>
       </main>
   );
 }

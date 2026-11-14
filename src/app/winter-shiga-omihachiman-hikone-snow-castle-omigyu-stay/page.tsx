@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
     title: '【11・12・1月滋賀】近江八幡水郷雪景色＆国宝・彦根城雪化粧と日本三大和牛「近江牛すき焼き」＆冬の琵琶湖名物・湖畔の絶景名宿5選',
     description: '11月から1月、滋賀県・湖東エリア（近江八幡・彦根）は、白銀に染まる国宝・彦根城天守の荘厳な雪化粧と、八幡堀や水郷の静謐な冬景色に包まれます。',
     url: 'https://croud-travel.pages.dev/winter-shiga-omihachiman-hikone-snow-castle-omigyu-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     images: [
       {
         url: 'https://img.travel.rakuten.co.jp/share/HOTEL/145042/145042.jpg',
@@ -49,12 +50,12 @@ export default function ShigaOmihachimanHikoneWinterPage() {
     dateModified: '',
     author: {
       '@type': 'Organization',
-      name: 'クラドトラベル編集部',
+      name: '旅宿クラウド編集部',
       url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png'
@@ -293,6 +294,9 @@ export default function ShigaOmihachimanHikoneWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月滋賀】近江八幡水郷雪景色＆国宝・彦根城雪化粧と日本三大和牛「近江牛すき焼き」＆冬の琵琶湖名物・湖畔の絶景名宿5選"} url={"https://croud-travel.pages.dev/winter-shiga-omihachiman-hikone-snow-castle-omigyu-stay/"} />
+      </div>
 
       {/* Main Content Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 pt-12 space-y-16">
@@ -432,7 +436,7 @@ export default function ShigaOmihachimanHikoneWinterPage() {
                     <a 
                       href={hotel.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="w-full inline-flex items-center justify-center gap-2 bg-gradient-to-r from-indigo-800 to-slate-900 hover:from-indigo-900 hover:to-black text-white font-bold py-3.5 px-6 rounded-2xl shadow-sm hover:shadow transition text-sm tracking-wide"
                     >
                       <span>楽天トラベルで空室・冬限定プランを見る</span>
@@ -635,6 +639,9 @@ export default function ShigaOmihachimanHikoneWinterPage() {
               <p className="font-bold text-stone-800 line-clamp-2">大峯山の雪景色とノスタルジックな行者参道・本場ぼたん鍋の宿</p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月滋賀】近江八幡水郷雪景色＆国宝・彦根城雪化粧と日本三大和牛「近江牛すき焼き」＆冬の琵琶湖名物・湖畔の絶景名宿5選"} url={"https://croud-travel.pages.dev/winter-shiga-omihachiman-hikone-snow-castle-omigyu-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-shiga-omihachiman-hikone-snow-castle-omigyu-stay" />
 </div>
         </section>

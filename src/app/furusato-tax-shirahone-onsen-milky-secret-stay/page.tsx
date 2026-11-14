@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -14,7 +15,7 @@ export const metadata: Metadata = {
     title: "白骨温泉をふるさと納税でお得に旅する！乳白色のにごり湯秘湯＆信州牛会席！深山幽谷の極上湯治宿ガイド",
     description: '「三日入れば三年風邪をひかない」と謳われる信州屈指の白濁秘湯・長野県白骨温泉を楽天ふるさと納税でお得に巡る！享保年間創業の老舗名門「湯元齋藤旅館」、白樺林に佇む完全貸切野天の宿「小梨の湯 笹屋」、桂の巨木と素朴な温もりの「かつらの湯 丸永旅館」を徹底解説。松本市トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-shirahone-onsen-milky-secret-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -28,12 +29,12 @@ export default function FurusatoArticlePage() {
     description: '「三日入れば三年風邪をひかない」と謳われる信州屈指の白濁秘湯・長野県白骨温泉を楽天ふるさと納税でお得に巡る！享保年間創業の老舗名門「湯元齋藤旅館」、白樺林に佇む完全貸切野天の宿「小梨の湯 笹屋」、桂の巨木と素朴な温もりの「かつらの湯 丸永旅館」を徹底解説。松本市トラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル 観光・ふるさと納税調査班',
+      name: '旅宿クラウド 観光・ふるさと納税調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -80,6 +81,9 @@ export default function FurusatoArticlePage() {
           「三日入れば三年風邪をひかない」と謳われる信州屈指の白濁秘湯・長野県白骨温泉を楽天ふるさと納税でお得に巡る！享保年間創業の老舗名門「湯元齋藤旅館」、白樺林に佇む完全貸切野天の宿「小梨の湯 笹屋」、桂の巨木と素朴な温もりの「かつらの湯 丸永旅館」を徹底解説。松本市トラベルクーポン活用術を網羅。
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"白骨温泉をふるさと納税でお得に旅する！乳白色のにごり湯秘湯＆信州牛会席！深山幽谷の極上湯治宿ガイド"} url={"https://croud-travel.pages.dev/furusato-tax-shirahone-onsen-milky-secret-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
@@ -360,7 +364,7 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 白骨温泉・上高地＆乗鞍高原の大自然巡りガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">白骨温泉・上高地＆乗鞍高原の大自然巡りガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
@@ -403,7 +407,7 @@ export default function FurusatoArticlePage() {
                 Step 1: 楽天ふるさと納税で「長野県松本市」クーポンを獲得
               </span>
               <p className="text-stone-300 text-xs sm:text-sm leading-relaxed">
-                楽天ふるさと納税で松本市を選び、寄付額の30%相当のトラベルクーポンを返礼品として申し込みます。楽天ポイントも通常通り付与されます。
+                楽天ふるさと納税で松本市を選び、寄付額の30%相当のトラベルクーポンを返礼品として申し込みます。クーポンは寄附翌日から最長3年間利用可能です。
               </p>
             </div>
             <div className="bg-stone-900/60 p-4 rounded-2xl border border-amber-500/20 space-y-2">
@@ -586,6 +590,9 @@ export default function FurusatoArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"白骨温泉をふるさと納税でお得に旅する！乳白色のにごり湯秘湯＆信州牛会席！深山幽谷の極上湯治宿ガイド"} url={"https://croud-travel.pages.dev/furusato-tax-shirahone-onsen-milky-secret-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-shirahone-onsen-milky-secret-stay" />
 </div>
         </section>

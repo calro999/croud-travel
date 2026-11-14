@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -243,6 +244,9 @@ export default function FujiClimbingPackingRegretsPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"富士登山で後悔したことワースト5：高山病・下山時の爪割れ・ヘッドライト忘れ！登頂成功の持ち物チェックリスト"} url={"https://croud-travel.pages.dev/fuji-climbing-packing-regrets-worst5-guide/"} />
+      </div>
 
       {/* 目次 & 特集バナー */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-16">
@@ -316,7 +320,7 @@ export default function FujiClimbingPackingRegretsPage() {
                       </p>
                     </div>
                     <div className="bg-emerald-50/70 border border-emerald-200 rounded-2xl p-4">
-                      <h4 className="text-xs font-black text-emerald-800 uppercase tracking-wider flex items-center gap-1.5 mb-2"><span>️</span> 絶対回避のプロのアドバイス</h4>
+                      <h4 className="text-xs font-black text-emerald-800 uppercase tracking-wider flex items-center gap-1.5 mb-2">絶対回避のプロのアドバイス</h4>
                       <ul className="text-xs sm:text-sm text-slate-700 space-y-1.5 list-disc list-inside leading-relaxed">
                         {regret.solution.map((sol, idx) => (
                           <li key={idx}>{sol}</li>
@@ -634,6 +638,9 @@ export default function FujiClimbingPackingRegretsPage() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"富士登山で後悔したことワースト5：高山病・下山時の爪割れ・ヘッドライト忘れ！登頂成功の持ち物チェックリスト"} url={"https://croud-travel.pages.dev/fuji-climbing-packing-regrets-worst5-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="fuji-climbing-packing-regrets-worst5-guide" />
 </div>
   );

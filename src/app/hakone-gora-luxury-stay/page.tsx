@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             標高約500m、豊かな森と澄んだ空気に包まれる箱根の高級別荘地「強羅」。乳白色のにごり湯に浸かり、アートと美食に酔いしれる大人の休日。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【箱根・強羅】大涌谷にごり湯＆美術館めぐり極上宿 完全ガイド"} url={"https://croud-travel.pages.dev/hakone-gora-luxury-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -231,6 +235,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【箱根・強羅】大涌谷にごり湯＆美術館めぐり極上宿 完全ガイド"} url={"https://croud-travel.pages.dev/hakone-gora-luxury-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="hakone-gora-luxury-stay" />
 </div>
   );

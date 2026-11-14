@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
     title: '【11・12・1月広島】冬の瀬戸内「広島牡蠣」焼き牡蠣・土手鍋＆世界遺産・宮島厳島神社の初詣・江田島温泉を巡る厳選名宿5選',
     description: '11月から1月、瀬戸内海・広島湾（廿日市宮島・江田島・広島市街）は、全国屈指のブランドを誇る「広島牡蠣」が最もふっくらと大粒に育ち。',
     url: 'https://croud-travel.pages.dev/winter-hiroshima-miyajima-etajima-oyster-onsen-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     images: [
       {
         url: 'https://img.travel.rakuten.co.jp/share/HOTEL/18848/18848.jpg',
@@ -49,12 +50,12 @@ export default function HiroshimaMiyajimaOysterWinterPage() {
     dateModified: '',
     author: {
       '@type': 'Organization',
-      name: 'クラドトラベル編集部',
+      name: '旅宿クラウド編集部',
       url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png'
@@ -293,6 +294,9 @@ export default function HiroshimaMiyajimaOysterWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月広島】冬の瀬戸内「広島牡蠣」焼き牡蠣・土手鍋＆世界遺産・宮島厳島神社の初詣・江田島温泉を巡る厳選名宿5選"} url={"https://croud-travel.pages.dev/winter-hiroshima-miyajima-etajima-oyster-onsen-stay/"} />
+      </div>
 
       {/* Main Content Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 pt-12 space-y-16">
@@ -432,7 +436,7 @@ export default function HiroshimaMiyajimaOysterWinterPage() {
                     <a 
                       href={hotel.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="w-full inline-flex items-center justify-center gap-2 bg-gradient-to-r from-rose-800 to-slate-900 hover:from-rose-900 hover:to-black text-white font-bold py-3.5 px-6 rounded-2xl shadow-sm hover:shadow transition text-sm tracking-wide"
                     >
                       <span>楽天トラベルで空室・冬限定プランを見る</span>
@@ -614,6 +618,9 @@ export default function HiroshimaMiyajimaOysterWinterPage() {
               <p className="font-bold text-stone-800 line-clamp-2">寒霞渓の冬景色とオリーブ牛ステーキ・瀬戸内海を一望する海辺リゾート</p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月広島】冬の瀬戸内「広島牡蠣」焼き牡蠣・土手鍋＆世界遺産・宮島厳島神社の初詣・江田島温泉を巡る厳選名宿5選"} url={"https://croud-travel.pages.dev/winter-hiroshima-miyajima-etajima-oyster-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-hiroshima-miyajima-etajima-oyster-onsen-stay" />
 </div>
         </section>

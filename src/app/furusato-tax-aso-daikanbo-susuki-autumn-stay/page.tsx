@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
@@ -5,7 +6,7 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '阿蘇・大観峰の黄金ススキ大草原＆秋の雲海パノラマ！阿蘇内牧温泉・あか牛会席宿×ふるさと納税厳選ガイド熊本',
   description: '10月〜11月にカルデラ外輪山一面が黄金色に輝く「熊本・阿蘇大観峰＆ミルクロード」。早朝の幻想的な阿蘇カルデラ雲海と草千里ヶ浜の秋景色、文豪たちに愛された「阿蘇内牧温泉 大観荘」「蘇山郷」「親和苑」で自家源泉掛け流し露天風呂と阿蘇名物・肥後あか牛丼・すき焼きステーキを堪能。ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。',
-  keywords: ["阿蘇", "大観峰の黄金ススキ大草原", "秋の雲海パノラマ！阿蘇内牧温泉", "あか牛会席宿×ふるさと納税", "2026年最新秋旅", "熊本", "温泉宿"],
+  keywords: ["阿蘇", "大観峰の黄金ススキ大草原", "秋の雲海パノラマ！阿蘇内牧温泉", "あか牛会席宿×ふるさと納税", "2026年末・冬休み対応", "熊本", "温泉宿"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-aso-daikanbo-susuki-autumn-stay/"
   },
@@ -38,7 +39,7 @@ const HOTEL_DATA = {
   aso_uchinomaki_sansui: {
     name: '蘇る山と故郷　阿蘇内牧温泉　蘇山郷',
     no: 31687,
-    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F51700%2F51700.html',
+    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31687%2F31687.html',
     planUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31687%2F31687.html%26f_flg%3DPLAN',
     reviewUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D31687',
     img: 'https://img.travel.rakuten.co.jp/share/HOTEL/31687/31687.jpg',
@@ -53,7 +54,7 @@ const HOTEL_DATA = {
   aso_uchinomaki_hoshino: {
     name: '阿蘇内牧温泉　御料理旅館　親和苑',
     no: 38542,
-    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31687%2F31687.html',
+    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38542%2F38542.html',
     planUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38542%2F38542.html%26f_flg%3DPLAN',
     reviewUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D38542',
     img: 'https://img.travel.rakuten.co.jp/share/HOTEL/38542/38542.jpg',
@@ -72,7 +73,7 @@ export default function FeatureArticlePage() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "阿蘇・大観峰の黄金ススキ大草原＆秋の雲海パノラマ！阿蘇内牧温泉・あか牛会席宿×ふるさと納税完全ガイド【2026年最新秋旅】熊本",
+    "headline": "阿蘇・大観峰の黄金ススキ大草原＆秋の雲海パノラマ！阿蘇内牧温泉・あか牛会席宿×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】熊本",
     "description": "10月〜11月にカルデラ外輪山一面が黄金色に輝く「熊本・阿蘇大観峰＆ミルクロード」。早朝の幻想的な阿蘇カルデラ雲海と草千里ヶ浜の秋景色、文豪たちに愛された「阿蘇内牧温泉 大観荘」「蘇山郷」「親和苑」で自家源泉掛け流し露天風呂と阿蘇名物・肥後あか牛丼・すき焼きステーキを堪能。ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。",
     "url": "https://croud-travel.pages.dev/furusato-tax-aso-daikanbo-susuki-autumn-stay/",
     "publisher": {
@@ -86,7 +87,7 @@ export default function FeatureArticlePage() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "阿蘇・大観峰の黄金ススキ大草原＆秋の雲海パノラマ！阿蘇内牧温泉・あか牛会席宿×ふるさと納税完全ガイド【2026年最新秋旅】熊本", "item": "https://croud-travel.pages.dev/furusato-tax-aso-daikanbo-susuki-autumn-stay/" }
+      { "@type": "ListItem", "position": 2, "name": "阿蘇・大観峰の黄金ススキ大草原＆秋の雲海パノラマ！阿蘇内牧温泉・あか牛会席宿×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】熊本", "item": "https://croud-travel.pages.dev/furusato-tax-aso-daikanbo-susuki-autumn-stay/" }
     ]
   };
 
@@ -111,7 +112,7 @@ export default function FeatureArticlePage() {
       <header className="bg-gradient-to-br from-amber-950 via-orange-950 to-stone-900 text-white py-14 md:py-20 px-4 mb-10 shadow-lg">
         <div className="max-w-5xl mx-auto text-center">
           <div className="inline-flex items-center gap-2 bg-white/20 backdrop-blur-md px-4 py-1.5 rounded-full text-xs md:text-sm font-semibold mb-5 text-amber-200">
-            <span>🍁 10月・11月限定 秋旅特集</span>
+            <span>🍁 12/31締切 年末駆け込み＆冬休み対応</span>
             <span>•</span>
             <span>楽天ふるさと納税トラベルクーポン対応</span>
           </div>
@@ -121,6 +122,9 @@ export default function FeatureArticlePage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"阿蘇・大観峰の黄金ススキ大草原＆秋の雲海パノラマ！阿蘇内牧温泉・あか牛会席宿×ふるさと納税厳選ガイド熊本"} url={"https://croud-travel.pages.dev/furusato-tax-aso-daikanbo-susuki-autumn-stay/"} />
+      </div>
 
       <div className="max-w-5xl mx-auto px-4 grid grid-cols-1 lg:grid-cols-3 gap-8">
         {/* メインコンテンツ */}
@@ -132,11 +136,11 @@ export default function FeatureArticlePage() {
               世界最大級のカルデラを誇る熊本県・阿蘇。秋には外輪山最高峰の「大観峰」やミルクロード沿い一面にススキの大草原が広がり、夕陽に照らされて黄金色に輝く景観は圧巻。寒暖差の大きい秋の早朝にはカルデラを埋め尽くす神秘的な雲海が出現します。夏目漱石や与謝野鉄幹・晶子夫妻も訪れた内牧温泉で豊富な源泉に浸かり、赤身肉の旨味が凝縮した「あか牛」の極上会席を満喫できます。
             </p>
             <div className="bg-amber-50/80 rounded-xl p-5 border border-amber-200/80">
-              <h3 className="font-bold text-amber-950 text-sm md:text-base mb-2 flex items-center gap-2">10月〜11月の旅を満喫する3大ポイント</h3>
+              <h3 className="font-bold text-amber-950 text-sm md:text-base mb-2 flex items-center gap-2">年末〜冬休み・来春の旅を満喫する3大ポイント</h3>
               <ul className="text-xs md:text-sm text-amber-900 space-y-2 list-disc list-inside">
-                <li><strong>見頃の紅葉パノラマ：</strong>標高や日当たりで刻一刻と変化するグラデーションを鑑賞（阿蘇・大観峰の黄金ススキ大草原＆秋の雲海パノラマ）</li>
-                <li><strong>極上の温泉と湯巡り：</strong>朝夕の冷え込む秋風の中で入る露天風呂は格別の贅沢（阿蘇・大観峰の黄金ススキ大草原＆秋の雲海パノラマ）</li>
-                <li><strong>控除上限内なら自己負担実質2,000円（最大30%クーポン還元）：</strong>楽天ふるさと納税トラベルクーポンで賢く予約（阿蘇・大観峰の黄金ススキ大草原＆秋の雲海パノラマ）</li>
+                <li><strong>見頃の紅葉パノラマ：</strong>標高や日当たりで刻一刻と変化するグラデーションを鑑賞</li>
+                <li><strong>極上の温泉と湯巡り：</strong>朝夕の冷え込む秋風の中で入る露天風呂は格別の贅沢</li>
+                <li><strong>控除上限内なら自己負担実質2,000円（最大30%クーポン還元）：</strong>楽天ふるさと納税トラベルクーポンで賢く予約</li>
               </ul>
             </div>
           </section>
@@ -185,7 +189,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.aso_uchinomaki_yumeoi.planUrl || HOTEL_DATA.aso_uchinomaki_yumeoi.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-3.5 px-6 rounded-xl text-center shadow-md transition-all text-sm md:text-base flex items-center justify-center gap-2"
               >
                 <span>プラン一覧・空室確認（楽天トラベル）</span>
@@ -194,7 +198,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.aso_uchinomaki_yumeoi.reviewUrl || HOTEL_DATA.aso_uchinomaki_yumeoi.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="bg-stone-100 hover:bg-stone-200 text-stone-700 font-bold py-3.5 px-5 rounded-xl text-center border border-stone-300 text-sm transition-all"
               >
                 口コミを見る
@@ -246,7 +250,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.aso_uchinomaki_sansui.planUrl || HOTEL_DATA.aso_uchinomaki_sansui.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-3.5 px-6 rounded-xl text-center shadow-md transition-all text-sm md:text-base flex items-center justify-center gap-2"
               >
                 <span>プラン一覧・空室確認（楽天トラベル）</span>
@@ -255,7 +259,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.aso_uchinomaki_sansui.reviewUrl || HOTEL_DATA.aso_uchinomaki_sansui.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="bg-stone-100 hover:bg-stone-200 text-stone-700 font-bold py-3.5 px-5 rounded-xl text-center border border-stone-300 text-sm transition-all"
               >
                 口コミを見る
@@ -307,7 +311,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.aso_uchinomaki_hoshino.planUrl || HOTEL_DATA.aso_uchinomaki_hoshino.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-3.5 px-6 rounded-xl text-center shadow-md transition-all text-sm md:text-base flex items-center justify-center gap-2"
               >
                 <span>プラン一覧・空室確認（楽天トラベル）</span>
@@ -316,7 +320,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.aso_uchinomaki_hoshino.reviewUrl || HOTEL_DATA.aso_uchinomaki_hoshino.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="bg-stone-100 hover:bg-stone-200 text-stone-700 font-bold py-3.5 px-5 rounded-xl text-center border border-stone-300 text-sm transition-all"
               >
                 口コミを見る
@@ -357,19 +361,19 @@ export default function FeatureArticlePage() {
             <h3 className="font-bold text-stone-900 mb-4 pb-2 border-b border-stone-200 flex items-center gap-2">この特集で紹介した宿</h3>
             <ul className="space-y-4 text-xs md:text-sm">
               <li>
-                <a href={HOTEL_DATA.aso_uchinomaki_yumeoi.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
+                <a href={HOTEL_DATA.aso_uchinomaki_yumeoi.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
                   <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.aso_uchinomaki_yumeoi.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.aso_uchinomaki_yumeoi.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
-                <a href={HOTEL_DATA.aso_uchinomaki_sansui.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
+                <a href={HOTEL_DATA.aso_uchinomaki_sansui.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
                   <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.aso_uchinomaki_sansui.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.aso_uchinomaki_sansui.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
-                <a href={HOTEL_DATA.aso_uchinomaki_hoshino.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
+                <a href={HOTEL_DATA.aso_uchinomaki_hoshino.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
                   <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.aso_uchinomaki_hoshino.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.aso_uchinomaki_hoshino.rating} | 楽天トラベルで詳細確認</div>
                 </a>
@@ -531,6 +535,9 @@ export default function FeatureArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"阿蘇・大観峰の黄金ススキ大草原＆秋の雲海パノラマ！阿蘇内牧温泉・あか牛会席宿×ふるさと納税厳選ガイド熊本"} url={"https://croud-travel.pages.dev/furusato-tax-aso-daikanbo-susuki-autumn-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-aso-daikanbo-susuki-autumn-stay" />
 </div>
         </section>

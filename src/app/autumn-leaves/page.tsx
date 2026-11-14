@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -133,6 +134,9 @@ export default function AutumnLeavesOnsenPage() {
           </p>
         </div>
       </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【全国】紅葉露天風呂＆絶景温泉旅館ガイド"} url={"https://croud-travel.pages.dev/autumn-leaves/"} />
+      </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
       <div className="space-y-16">
@@ -179,7 +183,7 @@ export default function AutumnLeavesOnsenPage() {
               <div className="space-y-4 pt-4 border-t border-emerald-950/10">
                 <div className="flex items-center justify-between">
                   <div>
-                    <h3 className="text-base font-bold font-journal-serif text-emerald-950 flex items-center gap-2"><span>️</span> <span>{guide.title}周辺の紅葉露天・おすすめ名湯宿</span></h3>
+                    <h3 className="text-base font-bold font-journal-serif text-emerald-950 flex items-center gap-2"><span>{guide.title}周辺の紅葉露天・おすすめ名湯宿</span></h3>
                   </div>
                   <span className="text-xs font-bold text-teal-800 bg-teal-50 border border-teal-200 px-3 py-1 rounded-full">
                     厳選宿
@@ -375,7 +379,7 @@ export default function AutumnLeavesOnsenPage() {
             </div>
           </div>
           <div className="space-y-3 pt-4 border-t border-stone-200">
-            <h3 className="text-base font-bold text-stone-900">️ 合わせて訪れたい日本の代表的観光名所ガイド</h3>
+            <h3 className="text-base font-bold text-stone-900">合わせて訪れたい日本の代表的観光名所ガイド</h3>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
               <h4 className="text-sm font-bold text-stone-900">清水寺</h4>
@@ -397,6 +401,9 @@ export default function AutumnLeavesOnsenPage() {
           </div>
         </section>
 
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【全国】紅葉露天風呂＆絶景温泉旅館ガイド"} url={"https://croud-travel.pages.dev/autumn-leaves/"} />
+      </div>
 <HubRelatedPosts currentSlug="autumn-leaves" />
 </div>
   );

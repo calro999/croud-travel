@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -172,6 +173,9 @@ export default function HighwayBusArticlePage() {
             東海道新幹線なら東京〜熱海わずか約35分（片道約4,270円）。一方、上野東京ライン・東海道線の普通列車グリーン車や直行バスなら片道約1,980円〜2,500円！浮いたお金で熱海プリンや金目鯛の煮付け、相模湾一望の絶景温泉宿に泊まる贅沢な週末旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"東京から熱海・伊豆 安く行く方法：新幹線・特急踊り子・普通電車を徹底比較！温泉1泊2日モデルコース"} url={"https://croud-travel.pages.dev/tokyo-izu-atami-bus-vs-train-guide/"} />
       </div>
 
       {/* 📊 交通手段・料金・所要時間の徹底比較テーブル */}
@@ -435,6 +439,9 @@ export default function HighwayBusArticlePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"東京から熱海・伊豆 安く行く方法：新幹線・特急踊り子・普通電車を徹底比較！温泉1泊2日モデルコース"} url={"https://croud-travel.pages.dev/tokyo-izu-atami-bus-vs-train-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="tokyo-izu-atami-bus-vs-train-guide" />
 </div>
   );

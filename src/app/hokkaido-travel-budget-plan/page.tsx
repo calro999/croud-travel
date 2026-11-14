@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import fs from "fs";
@@ -111,6 +112,9 @@ export default function HokkaidoBudgetGuide() {
             </div>
           </div>
         </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"北海道旅行 予算：2泊3日・3泊4日はいくら必要？レンタカーなしでも回れる費用計画ガイド"} url={"https://croud-travel.pages.dev/hokkaido-travel-budget-plan/"} />
+      </div>
 
         <section className="mb-16">
           <h2 className="text-2xl font-bold text-gray-900 border-b-4 border-blue-200 inline-block mb-8 pb-2">日数別おすすめエリアとモデルコース</h2>
@@ -471,6 +475,9 @@ export default function HokkaidoBudgetGuide() {
             </div>
           </div></section>
 
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"北海道旅行 予算：2泊3日・3泊4日はいくら必要？レンタカーなしでも回れる費用計画ガイド"} url={"https://croud-travel.pages.dev/hokkaido-travel-budget-plan/"} />
+      </div>
       <HubRelatedPosts currentSlug="hokkaido-travel-budget-plan" />
 </div>
   );

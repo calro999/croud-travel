@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -290,6 +291,9 @@ export default function KochiSukumoShimantoWinterPage() {
             </p>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月高知】宿毛湾の奇跡「だるま夕日」と四万十川の冬旅！冬が旬の「宿毛寒ブリ・本マグロ・四万十牛」と太平洋一望のリゾート温泉名宿5選"} url={"https://croud-travel.pages.dev/winter-kochi-sukumo-daruma-sunset-shimanto-stay/"} />
+      </div>
 
         {/* Article Summary Box */}
         <section className="max-w-5xl mx-auto px-4 -mt-8 relative z-20">
@@ -448,7 +452,7 @@ export default function KochiSukumoShimantoWinterPage() {
                         <a
                           href={hotel.url}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="inline-flex items-center gap-2 bg-gradient-to-r from-orange-600 to-rose-600 hover:from-orange-700 hover:to-rose-700 text-white font-bold text-xs md:text-sm px-5 py-2.5 rounded-xl shadow transition-all transform hover:-translate-y-0.5"
                         >
                           <span>空室・料金プランを確認</span>
@@ -612,6 +616,9 @@ export default function KochiSukumoShimantoWinterPage() {
 
         </main>
       
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月高知】宿毛湾の奇跡「だるま夕日」と四万十川の冬旅！冬が旬の「宿毛寒ブリ・本マグロ・四万十牛」と太平洋一望のリゾート温泉名宿5選"} url={"https://croud-travel.pages.dev/winter-kochi-sukumo-daruma-sunset-shimanto-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-kochi-sukumo-daruma-sunset-shimanto-stay" />
 </div>
     </>

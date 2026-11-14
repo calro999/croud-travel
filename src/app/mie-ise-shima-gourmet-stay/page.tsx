@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             日本人の心のふるさと「伊勢神宮」と、リアス海岸の美しい真珠の海「伊勢志摩」。厳かな神域で新年の多幸を祈り、海の王様・伊勢海老と極上温泉に癒やされる特別な旅路。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"三重・伊勢志摩：お伊勢参り＆伊勢海老・的矢かき極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/mie-ise-shima-gourmet-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"三重・伊勢志摩：お伊勢参り＆伊勢海老・的矢かき極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/mie-ise-shima-gourmet-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="mie-ise-shima-gourmet-stay" />
 </div>
   );

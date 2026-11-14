@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -169,6 +170,9 @@ export default function FeaturePage() {
             </div>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【のぼうの城・行田忍城雪景色と足袋蔵の街重伝建】2026-2027年冬の埼玉・行田＆熊谷！行田天然温泉と武州牛・加須手打ちうどん名宿5選"} url={"https://croud-travel.pages.dev/winter-saitama-gyoda-oshi-castle-sakidama-kofun-tabigura-onsen-bushugyu-stay/"} />
+      </div>
 
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 mt-12 space-y-16">
           {/* イントロダクション紀行文 */}
@@ -745,6 +749,10 @@ export default function FeaturePage() {
             </ul>
           </section>
         </div>
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【のぼうの城・行田忍城雪景色と足袋蔵の街重伝建】2026-2027年冬の埼玉・行田＆熊谷！行田天然温泉と武州牛・加須手打ちうどん名宿5選"} url={"https://croud-travel.pages.dev/winter-saitama-gyoda-oshi-castle-sakidama-kofun-tabigura-onsen-bushugyu-stay/"} />
+      </div>
       </article>
     </>
   );

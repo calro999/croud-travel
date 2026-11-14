@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -197,6 +198,9 @@ export default function FeatureDetailPage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"湖上に浮かぶ大鳥居へ！琵琶湖SUP体験＆レイクサイド絶景温泉リゾート5選"} url={"https://croud-travel.pages.dev/super-panoramic-lake-biwa-sup-cruise-stay/"} />
+      </div>
 
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
@@ -856,6 +860,9 @@ export default function FeatureDetailPage() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"湖上に浮かぶ大鳥居へ！琵琶湖SUP体験＆レイクサイド絶景温泉リゾート5選"} url={"https://croud-travel.pages.dev/super-panoramic-lake-biwa-sup-cruise-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="super-panoramic-lake-biwa-sup-cruise-stay" />
 </div>
   );

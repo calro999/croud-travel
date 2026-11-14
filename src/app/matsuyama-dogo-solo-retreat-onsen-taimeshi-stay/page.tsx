@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -13,7 +14,7 @@ export const metadata: Metadata = {
     title: '松山・道後温泉ひとり旅：日本最古の名湯・坊っちゃん湯・松山城・絶品鯛めし！文学と名湯に浸る大人のおこもり宿 厳選3選',
     description: '日本三古湯の一つ・3000年の歴史を誇る愛媛県松山市「道後温泉」！「夏目漱石や皇室を迎えてきた創業390年の名旅館」の「ふなや」、能舞台を備え数寄屋造りの風格が漂う「大和屋本店」、大街道の真ん中で松山城を望む最上階スカイスパ「CANDEO HOTELS 松山大街道」を徹底特集。',
     url: 'https://croud-travel.pages.dev/matsuyama-dogo-solo-retreat-onsen-taimeshi-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -27,12 +28,12 @@ export default function ArticlePage() {
     description: '日本三古湯の一つ・3000年の歴史を誇る愛媛県松山市「道後温泉」！「夏目漱石や皇室を迎えてきた創業390年の名旅館」の「ふなや」、能舞台を備え数寄屋造りの風格が漂う「大和屋本店」、大街道の真ん中で松山城を望む最上階スカイスパ「CANDEO HOTELS 松山大街道」を徹底特集。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル ひとり旅・出張調査班',
+      name: '旅宿クラウド ひとり旅・出張調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -79,6 +80,9 @@ export default function ArticlePage() {
           日本三古湯の一つ・3000年の歴史を誇る愛媛県松山市「道後温泉」！「夏目漱石や皇室を迎えてきた創業390年の名旅館」の「ふなや」、能舞台を備え数寄屋造りの風格が漂う「大和屋本店」、大街道の真ん中で松山城を望む最上階スカイスパ「CANDEO HOTELS 松山大街道」を徹底特集。
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"松山・道後温泉ひとり旅：日本最古の名湯・坊っちゃん湯・松山城・絶品鯛めし！文学と名湯に浸る大人のおこもり宿 厳選3選"} url={"https://croud-travel.pages.dev/matsuyama-dogo-solo-retreat-onsen-taimeshi-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
@@ -381,7 +385,7 @@ export default function ArticlePage() {
             href="/"
             className="inline-flex items-center gap-2 text-sm text-stone-600 hover:text-stone-900 font-medium transition-colors"
           >
-            ← クラウドトラベル トップページへ戻る
+            ← 旅宿クラウド トップページへ戻る
           </Link>
         </div>
       </div>
@@ -473,6 +477,9 @@ export default function ArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"松山・道後温泉ひとり旅：日本最古の名湯・坊っちゃん湯・松山城・絶品鯛めし！文学と名湯に浸る大人のおこもり宿 厳選3選"} url={"https://croud-travel.pages.dev/matsuyama-dogo-solo-retreat-onsen-taimeshi-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="matsuyama-dogo-solo-retreat-onsen-taimeshi-stay" />
 </div>
         </section>

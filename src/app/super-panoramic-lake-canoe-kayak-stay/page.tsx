@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             鏡のように静かな湖面を滑るように進むカヌー＆カヤック体験！富士山を望む本栖湖や日光中禅寺湖、大自然広がる十和田湖など、絶景レイクビューと温泉・サウナで非日常のリフレッシュを叶える宿。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"湖上カヌー＆カヤック冒険：富士五湖・中禅寺湖・十和田湖！水上パノラマと絶景温泉宿5選"} url={"https://croud-travel.pages.dev/super-panoramic-lake-canoe-kayak-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"湖上カヌー＆カヤック冒険：富士五湖・中禅寺湖・十和田湖！水上パノラマと絶景温泉宿5選"} url={"https://croud-travel.pages.dev/super-panoramic-lake-canoe-kayak-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="super-panoramic-lake-canoe-kayak-stay" />
 </div>
         </section>

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Image from 'next/image';
@@ -63,12 +64,14 @@ export default function KamikochiShirahoneAutumnPage() {
             トレッキングの後は、上高地の玄関口に位置する名湯「白骨（しらほね）温泉」へ。「3日入れば3年風邪をひかない」と謳われる弱酸性・硫黄泉の乳白色の湯は、肌触りが柔らかく湯上がりの温まりが格別です。上高地が冬の眠りにつく直前、秋のフィナーレを飾る最高の温泉旅をお楽しみください。
           </p>
         </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"秋の上高地・白骨温泉：カラマツ黄葉と乳白色の秘湯！閉山前に訪れたい絶景名宿5選「2026最新」"} url={"https://croud-travel.pages.dev/autumn-nagano-kamikochi-shirahone-onsen-autumn-hotels-stay/"} />
+      </div>
 
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-amber-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！白骨温泉の厳選秘湯宿5選</h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">楽天トラベル高評価！白骨温泉の厳選秘湯宿5選</h2>
 
           <div className="space-y-8">
 
@@ -467,6 +470,9 @@ export default function KamikochiShirahoneAutumnPage() {
               </div>
             </div>
           </div></section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"秋の上高地・白骨温泉：カラマツ黄葉と乳白色の秘湯！閉山前に訪れたい絶景名宿5選「2026最新」"} url={"https://croud-travel.pages.dev/autumn-nagano-kamikochi-shirahone-onsen-autumn-hotels-stay/"} />
+      </div>
         <div className="max-w-4xl mx-auto px-4 sm:px-6">
           <HubRelatedPosts currentSlug="autumn-nagano-kamikochi-shirahone-onsen-autumn-hotels-stay" />
         </div>

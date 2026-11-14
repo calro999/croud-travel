@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -270,6 +271,9 @@ export default function KinugawaWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月鬼怒川温泉の初冬渓谷美と名湯】雪化粧の奇岩とアルカリ性美肌泉・とちぎ和牛＆日光生ゆば会席の宿5選"} url={"https://croud-travel.pages.dev/winter-tochigi-kinugawa-onsen-valley-snow-stay/"} />
+      </div>
 
       {/* Main Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
@@ -502,7 +506,7 @@ export default function KinugawaWinterPage() {
                       <a
                         href={hotel.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-6 py-3 bg-amber-700 hover:bg-amber-800 text-white font-bold rounded-xl shadow-md transition-all duration-200 text-sm hover:scale-[1.02]"
                       >
                         <span>空室状況・プラン一覧</span>
@@ -667,6 +671,9 @@ export default function KinugawaWinterPage() {
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">季節の厳選温泉・宿特集まとめを見る</h3>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月鬼怒川温泉の初冬渓谷美と名湯】雪化粧の奇岩とアルカリ性美肌泉・とちぎ和牛＆日光生ゆば会席の宿5選"} url={"https://croud-travel.pages.dev/winter-tochigi-kinugawa-onsen-valley-snow-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-tochigi-kinugawa-onsen-valley-snow-stay" />
 </div>
         </section>

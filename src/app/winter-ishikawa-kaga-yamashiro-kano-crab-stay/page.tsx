@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -277,6 +278,9 @@ export default function KagaWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月加賀温泉郷の冬の贅と加能ガニ解禁】山代・山中温泉の歴史名湯と九谷焼で味わう極上ズワイガニ会席の宿5選"} url={"https://croud-travel.pages.dev/winter-ishikawa-kaga-yamashiro-kano-crab-stay/"} />
+      </div>
 
       {/* Main Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
@@ -451,7 +455,7 @@ export default function KagaWinterPage() {
                     <a
                       href={hotel.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-2xl bg-red-800 hover:bg-red-900 text-white font-bold text-sm shadow-md hover:shadow-lg transition-all"
                     >
                       <span>宿泊プラン・空室を確認する</span>
@@ -646,6 +650,9 @@ export default function KagaWinterPage() {
               <h3 className="text-sm font-bold text-stone-900 group-hover:text-red-800 transition line-clamp-2">【会津東山温泉】雪化粧の湯川渓谷露天と会津地鶏・極上馬刺し会席の宿</h3>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月加賀温泉郷の冬の贅と加能ガニ解禁】山代・山中温泉の歴史名湯と九谷焼で味わう極上ズワイガニ会席の宿5選"} url={"https://croud-travel.pages.dev/winter-ishikawa-kaga-yamashiro-kano-crab-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-ishikawa-kaga-yamashiro-kano-crab-stay" />
 </div>
         </section>

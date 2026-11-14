@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -205,6 +206,9 @@ export default function HokkaidoFamilyTripZooNaturePage() {
             </span>
           </div>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"子連れ北海道旅行 2泊3日モデルコース：旭山動物園＆美瑛富良野ドライブ！子供が喜ぶ体験型ホテルガイド"} url={"https://croud-travel.pages.dev/hokkaido-family-trip-zoo-nature-guide/"} />
+      </div>
       </section>
 
       {/* 楽天トラベル クーポンWEEKバナー */}
@@ -212,8 +216,7 @@ export default function HokkaidoFamilyTripZooNaturePage() {
 
       {/* 目次 */}
       <nav className="bg-amber-50/70 border border-amber-200/80 rounded-2xl p-6 shadow-sm">
-        <h2 className="text-base font-black text-amber-950 mb-3 flex items-center gap-2"><span className="w-2.5 h-2.5 rounded-full bg-amber-600"></span>
-          本記事のコンテンツ一覧</h2>
+        <h2 className="text-base font-black text-amber-950 mb-3 flex items-center gap-2">本記事のコンテンツ一覧</h2>
         <ul className="grid grid-cols-1 md:grid-cols-2 gap-2.5 text-sm text-amber-950">
           <li className="flex items-center gap-2">
             <span className="text-amber-600 font-bold">01.</span>
@@ -416,6 +419,9 @@ export default function HokkaidoFamilyTripZooNaturePage() {
         <SpecialCouponBanner variant="prominent" />
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"子連れ北海道旅行 2泊3日モデルコース：旭山動物園＆美瑛富良野ドライブ！子供が喜ぶ体験型ホテルガイド"} url={"https://croud-travel.pages.dev/hokkaido-family-trip-zoo-nature-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="hokkaido-family-trip-zoo-nature-guide" />
 </div>
   );

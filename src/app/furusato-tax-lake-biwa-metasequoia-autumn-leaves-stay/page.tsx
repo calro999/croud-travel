@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import FurusatoStepSection from "@/app/components/FurusatoStepSection";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
@@ -6,9 +7,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '黄金に輝く2.4kmの並木道！マキノ高原メタセコイア並木＆びわ湖おごと温泉名宿×ふるさと納税厳選ガイド滋賀',
   description: '11月下旬〜12月上旬、約500本の巨木がレンガ色・黄金色に染まる日本屈指の並木道「マキノ高原メタセコイア並木」と、びわ湖畔の美肌名湯「おごと温泉」。全室客室露天風呂やレイクビューを誇る「びわこ緑水亭」「びわ湖花街道」「暖灯館 きくのや」。最高峰近江牛会席を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
-  keywords: ["2026年最新秋旅", "滋賀", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
+  keywords: ["2026年末・冬休み対応", "滋賀", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: "https://croud-travel.pages.dev/furusato-tax-lake-biwa-metasequoia-autumn-leaves-stay/"
+    canonical: "https://croud-travel.pages.dev/furusato-tax-shiga-biwako-otsu-ogoto-autumn-stay/"
   },
   openGraph: {
     title: '黄金に輝く2.4kmの並木道！マキノ高原メタセコイア並木＆びわ湖おごと温泉名宿×ふるさと納税厳選ガイド滋賀',
@@ -25,7 +26,7 @@ export default function FurusatoLakeBiwaMetasequoiaAutumnLeavesStayPage() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "黄金に輝く2.4kmの並木道！マキノ高原メタセコイア並木＆びわ湖おごと温泉名宿×ふるさと納税完全ガイド【2026年最新秋旅】滋賀 | 旅宿クラウド",
+    "headline": "黄金に輝く2.4kmの並木道！マキノ高原メタセコイア並木＆びわ湖おごと温泉名宿×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】滋賀 | 旅宿クラウド",
     "description": "11月下旬〜12月上旬、約500本の巨木がレンガ色・黄金色に染まる日本屈指の並木道「マキノ高原メタセコイア並木」と、びわ湖畔の美肌名湯「おごと温泉」。全室客室露天風呂やレイクビューを誇る「びわこ緑水亭」「びわ湖花街道」「暖灯館 きくのや」。最高峰近江牛会席を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。",
     "url": "https://croud-travel.pages.dev/furusato-tax-lake-biwa-metasequoia-autumn-leaves-stay/",
     "publisher": {
@@ -39,7 +40,7 @@ export default function FurusatoLakeBiwaMetasequoiaAutumnLeavesStayPage() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "黄金に輝く2.4kmの並木道！マキノ高原メタセコイア並木＆びわ湖おごと温泉名宿×ふるさと納税完全ガイド【2026年最新秋旅】滋賀 | 旅宿クラウド", "item": "https://croud-travel.pages.dev/furusato-tax-lake-biwa-metasequoia-autumn-leaves-stay/" }
+      { "@type": "ListItem", "position": 2, "name": "黄金に輝く2.4kmの並木道！マキノ高原メタセコイア並木＆びわ湖おごと温泉名宿×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】滋賀 | 旅宿クラウド", "item": "https://croud-travel.pages.dev/furusato-tax-lake-biwa-metasequoia-autumn-leaves-stay/" }
     ]
   };
 
@@ -85,6 +86,9 @@ export default function FurusatoLakeBiwaMetasequoiaAutumnLeavesStayPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"黄金に輝く2.4kmの並木道！マキノ高原メタセコイア並木＆びわ湖おごと温泉名宿×ふるさと納税厳選ガイド滋賀"} url={"https://croud-travel.pages.dev/furusato-tax-lake-biwa-metasequoia-autumn-leaves-stay/"} />
+      </div>
 
       <div className="max-w-5xl mx-auto px-4 sm:px-6 space-y-16">
         {/* リード文セクション */}
@@ -550,6 +554,9 @@ export default function FurusatoLakeBiwaMetasequoiaAutumnLeavesStayPage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"黄金に輝く2.4kmの並木道！マキノ高原メタセコイア並木＆びわ湖おごと温泉名宿×ふるさと納税厳選ガイド滋賀"} url={"https://croud-travel.pages.dev/furusato-tax-lake-biwa-metasequoia-autumn-leaves-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-lake-biwa-metasequoia-autumn-leaves-stay" />
 </div>
         </section>

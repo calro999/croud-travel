@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             真珠養殖発祥の地・英虞湾（あごわん）に浮かぶ賢島。夕暮れに黄金色に染まるリアス海岸の多島美と、各国の首脳を魅了した日本最高峰のラグジュアリーリゾートステイ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"三重・志摩賢島：英虞湾リアス多島美＆志摩観光ホテル・伊勢海老極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/mie-shima-kashikojima-resort-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"三重・志摩賢島：英虞湾リアス多島美＆志摩観光ホテル・伊勢海老極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/mie-shima-kashikojima-resort-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="mie-shima-kashikojima-resort-stay" />
 </div>
   );

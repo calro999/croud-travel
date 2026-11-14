@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -309,6 +310,9 @@ export default function BandaiAtamiWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月磐梯熱海温泉の冬名湯と美肌ぬる湯】萩姫伝説の美人の湯・猪苗代湖白鳥飛来と極上福島牛＆会津新酒の宿5選"} url={"https://croud-travel.pages.dev/winter-fukushima-bandai-atami-onsen-bihada-swan-stay/"} />
+      </div>
 
       {/* Main Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
@@ -521,7 +525,7 @@ export default function BandaiAtamiWinterPage() {
                       <a
                         href={hotel.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-2 px-6 py-3 bg-teal-800 hover:bg-teal-900 text-white text-sm font-bold rounded-xl transition duration-200 shadow-md group"
                       >
                         <span>空室・宿泊プランを確認</span>
@@ -684,6 +688,9 @@ export default function BandaiAtamiWinterPage() {
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">全国の厳選温泉・宿特集まとめを見る</h3>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月磐梯熱海温泉の冬名湯と美肌ぬる湯】萩姫伝説の美人の湯・猪苗代湖白鳥飛来と極上福島牛＆会津新酒の宿5選"} url={"https://croud-travel.pages.dev/winter-fukushima-bandai-atami-onsen-bihada-swan-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-fukushima-bandai-atami-onsen-bihada-swan-stay" />
 </div>
         </section>

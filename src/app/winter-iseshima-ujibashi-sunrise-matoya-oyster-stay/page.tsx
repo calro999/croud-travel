@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -277,6 +278,9 @@ export default function IseshimaWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月伊勢神宮の冬至・年越し参拝】宇治橋の朝日絶景と伊勢志摩の冬の至宝・的矢かき＆伊勢海老宿5選"} url={"https://croud-travel.pages.dev/winter-iseshima-ujibashi-sunrise-matoya-oyster-stay/"} />
+      </div>
 
       {/* Main Content Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
@@ -443,7 +447,7 @@ export default function IseshimaWinterPage() {
                       <a
                         href={hotel.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-6 py-3.5 rounded-xl bg-amber-600 hover:bg-amber-700 text-white font-bold text-sm shadow-sm transition-all hover:scale-[1.02]"
                       >
                         <span>楽天トラベルでプラン・空室を見る</span>
@@ -745,6 +749,9 @@ export default function IseshimaWinterPage() {
               <ChevronRight className="w-4 h-4" />
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月伊勢神宮の冬至・年越し参拝】宇治橋の朝日絶景と伊勢志摩の冬の至宝・的矢かき＆伊勢海老宿5選"} url={"https://croud-travel.pages.dev/winter-iseshima-ujibashi-sunrise-matoya-oyster-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-iseshima-ujibashi-sunrise-matoya-oyster-stay" />
 </div>
         </section>

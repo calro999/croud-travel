@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             香り高く濃厚な本場「宇治抹茶パフェ」「特製抹茶フォンデュ」と、洗練された京懐石！嵐山温泉の湯けむりや竹林の小径、東山の歴史ある町並みを散策し、京都の伝統美と茶の湯文化に癒やされる極上の旅。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"宇治抹茶スイーツ＆京懐石：老舗茶寮の贅沢甘味と嵐山・東山・宇治の風雅名湯宿5選"} url={"https://croud-travel.pages.dev/traditional-kyoto-ujicha-matcha-sweets-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"宇治抹茶スイーツ＆京懐石：老舗茶寮の贅沢甘味と嵐山・東山・宇治の風雅名湯宿5選"} url={"https://croud-travel.pages.dev/traditional-kyoto-ujicha-matcha-sweets-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="traditional-kyoto-ujicha-matcha-sweets-stay" />
 </div>
         </section>

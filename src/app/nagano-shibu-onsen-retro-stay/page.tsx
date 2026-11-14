@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             石畳が敷き詰められたレトロな小径と、下駄の音が心地よく響く「信州渋温泉」。宿泊者限定で鍵が渡される9つの外湯めぐり、木造建築美の極致・金具屋。ノスタルジーに浸る大人の温泉旅路。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"長野・信州渋温泉：九湯めぐり＆金具屋・スノーモンキー極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/nagano-shibu-onsen-retro-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"長野・信州渋温泉：九湯めぐり＆金具屋・スノーモンキー極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/nagano-shibu-onsen-retro-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="nagano-shibu-onsen-retro-stay" />
 </div>
   );

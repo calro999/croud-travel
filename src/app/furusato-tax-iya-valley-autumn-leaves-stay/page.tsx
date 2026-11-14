@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
@@ -5,9 +6,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '祖谷のかずら橋の紅葉絶景＆日本三大秘境・祖谷温泉郷！ケーブルカー露天風呂宿×ふるさと納税厳選ガイド徳島',
   description: '10月下旬〜11月中旬に神秘的なグラデーションに染まる日本三大秘境「徳島・祖谷渓」。スリル満点のかずら橋とV字渓谷の紅葉、谷底へケーブルカーで下る絶景露天風呂「ホテル秘境の湯」「ホテルかずら橋」「ホテル祖谷温泉」で阿波尾鶏や祖谷そば・鮎の塩焼きを堪能。ふるさと納税トラベルクーポンで実質2,000円。',
-  keywords: ["祖谷のかずら橋の紅葉絶景", "日本三大秘境", "2026年最新秋旅", "徳島", "温泉宿", "宿泊予約", "楽天トラベル"],
+  keywords: ["祖谷のかずら橋の紅葉絶景", "日本三大秘境", "2026年末・冬休み対応", "徳島", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: "https://croud-travel.pages.dev/furusato-tax-iya-valley-autumn-leaves-stay/"
+    canonical: "https://croud-travel.pages.dev/furusato-tax-iya-oboke-gorge-autumn-leaves-stay/"
   },
   openGraph: {
     title: '祖谷のかずら橋の紅葉絶景＆日本三大秘境・祖谷温泉郷！ケーブルカー露天風呂宿×ふるさと納税厳選ガイド徳島',
@@ -38,7 +39,7 @@ const HOTEL_DATA = {
   iya_kazurabashi: {
     name: '新祖谷温泉　ホテルかずら橋',
     no: 20228,
-    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F52860%2F52860.html',
+    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F20228%2F20228.html',
     planUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F20228%2F20228.html%26f_flg%3DPLAN',
     reviewUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D20228',
     img: 'https://img.travel.rakuten.co.jp/share/HOTEL/20228/20228.jpg',
@@ -53,7 +54,7 @@ const HOTEL_DATA = {
   iya_hotel_iyaonsen: {
     name: '和の宿　ホテル祖谷温泉',
     no: 13663,
-    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F20228%2F20228.html',
+    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F13663%2F13663.html',
     planUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F13663%2F13663.html%26f_flg%3DPLAN',
     reviewUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D13663',
     img: 'https://img.travel.rakuten.co.jp/share/HOTEL/13663/13663.jpg',
@@ -72,7 +73,7 @@ export default function FeatureArticlePage() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "祖谷のかずら橋の紅葉絶景＆日本三大秘境・祖谷温泉郷！ケーブルカー露天風呂宿×ふるさと納税完全ガイド【2026年最新秋旅】徳島",
+    "headline": "祖谷のかずら橋の紅葉絶景＆日本三大秘境・祖谷温泉郷！ケーブルカー露天風呂宿×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】徳島",
     "description": "10月下旬〜11月中旬に神秘的なグラデーションに染まる日本三大秘境「徳島・祖谷渓」。スリル満点のかずら橋とV字渓谷の紅葉、谷底へケーブルカーで下る絶景露天風呂「ホテル秘境の湯」「ホテルかずら橋」「ホテル祖谷温泉」で阿波尾鶏や祖谷そば・鮎の塩焼きを堪能。ふるさと納税トラベルクーポンで実質2,000円。",
     "url": "https://croud-travel.pages.dev/furusato-tax-iya-valley-autumn-leaves-stay/",
     "publisher": {
@@ -86,7 +87,7 @@ export default function FeatureArticlePage() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "祖谷のかずら橋の紅葉絶景＆日本三大秘境・祖谷温泉郷！ケーブルカー露天風呂宿×ふるさと納税完全ガイド【2026年最新秋旅】徳島", "item": "https://croud-travel.pages.dev/furusato-tax-iya-valley-autumn-leaves-stay/" }
+      { "@type": "ListItem", "position": 2, "name": "祖谷のかずら橋の紅葉絶景＆日本三大秘境・祖谷温泉郷！ケーブルカー露天風呂宿×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】徳島", "item": "https://croud-travel.pages.dev/furusato-tax-iya-valley-autumn-leaves-stay/" }
     ]
   };
 
@@ -111,7 +112,7 @@ export default function FeatureArticlePage() {
       <header className="bg-gradient-to-br from-orange-950 via-amber-950 to-stone-900 text-white py-14 md:py-20 px-4 mb-10 shadow-lg">
         <div className="max-w-5xl mx-auto text-center">
           <div className="inline-flex items-center gap-2 bg-white/20 backdrop-blur-md px-4 py-1.5 rounded-full text-xs md:text-sm font-semibold mb-5 text-amber-200">
-            <span>🍁 10月・11月限定 秋旅特集</span>
+            <span>🍁 12/31締切 年末駆け込み＆冬休み対応</span>
             <span>•</span>
             <span>楽天ふるさと納税トラベルクーポン対応</span>
           </div>
@@ -121,6 +122,9 @@ export default function FeatureArticlePage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"祖谷のかずら橋の紅葉絶景＆日本三大秘境・祖谷温泉郷！ケーブルカー露天風呂宿×ふるさと納税厳選ガイド徳島"} url={"https://croud-travel.pages.dev/furusato-tax-iya-valley-autumn-leaves-stay/"} />
+      </div>
 
       <div className="max-w-5xl mx-auto px-4 grid grid-cols-1 lg:grid-cols-3 gap-8">
         {/* メインコンテンツ */}
@@ -132,11 +136,11 @@ export default function FeatureArticlePage() {
               徳島県西部の山深くに位置する祖谷渓は、平家落人伝説が息づく日本三大秘境のひとつ。深いV字谷を埋め尽くす秋の紅葉は神秘的な美しさを放ち、シラクチカズラで編まれた「祖谷のかずら橋」を一歩渡れば息をのむ絶景が眼下に広がります。谷底に湧くぬる湯の自噴温泉に浸かり、名物の祖谷そばや岩魚の塩焼き、阿波牛の美味に舌鼓を打つ贅沢な滞在が叶います。
             </p>
             <div className="bg-amber-50/80 rounded-xl p-5 border border-amber-200/80">
-              <h3 className="font-bold text-amber-950 text-sm md:text-base mb-2 flex items-center gap-2">10月〜11月の旅を満喫する3大ポイント</h3>
+              <h3 className="font-bold text-amber-950 text-sm md:text-base mb-2 flex items-center gap-2">年末〜冬休み・来春の旅を満喫する3大ポイント</h3>
               <ul className="text-xs md:text-sm text-amber-900 space-y-2 list-disc list-inside">
-                <li><strong>見頃の紅葉パノラマ：</strong>標高や日当たりで刻一刻と変化するグラデーションを鑑賞（祖谷のかずら橋の紅葉絶景＆日本三大秘境・祖谷温泉郷）</li>
-                <li><strong>極上の温泉と湯巡り：</strong>朝夕の冷え込む秋風の中で入る露天風呂は格別の贅沢（祖谷のかずら橋の紅葉絶景＆日本三大秘境・祖谷温泉郷）</li>
-                <li><strong>控除上限内なら自己負担実質2,000円（最大30%クーポン還元）：</strong>楽天ふるさと納税トラベルクーポンで賢く予約（祖谷のかずら橋の紅葉絶景＆日本三大秘境・祖谷温泉郷）</li>
+                <li><strong>見頃の紅葉パノラマ：</strong>標高や日当たりで刻一刻と変化するグラデーションを鑑賞</li>
+                <li><strong>極上の温泉と湯巡り：</strong>朝夕の冷え込む秋風の中で入る露天風呂は格別の贅沢</li>
+                <li><strong>控除上限内なら自己負担実質2,000円（最大30%クーポン還元）：</strong>楽天ふるさと納税トラベルクーポンで賢く予約</li>
               </ul>
             </div>
           </section>
@@ -185,7 +189,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.iya_hikyounoyu.planUrl || HOTEL_DATA.iya_hikyounoyu.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-3.5 px-6 rounded-xl text-center shadow-md transition-all text-sm md:text-base flex items-center justify-center gap-2"
               >
                 <span>プラン一覧・空室確認（楽天トラベル）</span>
@@ -194,7 +198,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.iya_hikyounoyu.reviewUrl || HOTEL_DATA.iya_hikyounoyu.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="bg-stone-100 hover:bg-stone-200 text-stone-700 font-bold py-3.5 px-5 rounded-xl text-center border border-stone-300 text-sm transition-all"
               >
                 口コミを見る
@@ -246,7 +250,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.iya_kazurabashi.planUrl || HOTEL_DATA.iya_kazurabashi.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-3.5 px-6 rounded-xl text-center shadow-md transition-all text-sm md:text-base flex items-center justify-center gap-2"
               >
                 <span>プラン一覧・空室確認（楽天トラベル）</span>
@@ -255,7 +259,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.iya_kazurabashi.reviewUrl || HOTEL_DATA.iya_kazurabashi.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="bg-stone-100 hover:bg-stone-200 text-stone-700 font-bold py-3.5 px-5 rounded-xl text-center border border-stone-300 text-sm transition-all"
               >
                 口コミを見る
@@ -307,7 +311,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.iya_hotel_iyaonsen.planUrl || HOTEL_DATA.iya_hotel_iyaonsen.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-3.5 px-6 rounded-xl text-center shadow-md transition-all text-sm md:text-base flex items-center justify-center gap-2"
               >
                 <span>プラン一覧・空室確認（楽天トラベル）</span>
@@ -316,7 +320,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.iya_hotel_iyaonsen.reviewUrl || HOTEL_DATA.iya_hotel_iyaonsen.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="bg-stone-100 hover:bg-stone-200 text-stone-700 font-bold py-3.5 px-5 rounded-xl text-center border border-stone-300 text-sm transition-all"
               >
                 口コミを見る
@@ -357,19 +361,19 @@ export default function FeatureArticlePage() {
             <h3 className="font-bold text-stone-900 mb-4 pb-2 border-b border-stone-200 flex items-center gap-2">この特集で紹介した宿</h3>
             <ul className="space-y-4 text-xs md:text-sm">
               <li>
-                <a href={HOTEL_DATA.iya_hikyounoyu.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
+                <a href={HOTEL_DATA.iya_hikyounoyu.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
                   <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.iya_hikyounoyu.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.iya_hikyounoyu.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
-                <a href={HOTEL_DATA.iya_kazurabashi.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
+                <a href={HOTEL_DATA.iya_kazurabashi.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
                   <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.iya_kazurabashi.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.iya_kazurabashi.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
-                <a href={HOTEL_DATA.iya_hotel_iyaonsen.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
+                <a href={HOTEL_DATA.iya_hotel_iyaonsen.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
                   <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.iya_hotel_iyaonsen.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.iya_hotel_iyaonsen.rating} | 楽天トラベルで詳細確認</div>
                 </a>
@@ -531,6 +535,9 @@ export default function FeatureArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"祖谷のかずら橋の紅葉絶景＆日本三大秘境・祖谷温泉郷！ケーブルカー露天風呂宿×ふるさと納税厳選ガイド徳島"} url={"https://croud-travel.pages.dev/furusato-tax-iya-valley-autumn-leaves-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-iya-valley-autumn-leaves-stay" />
 </div>
         </section>

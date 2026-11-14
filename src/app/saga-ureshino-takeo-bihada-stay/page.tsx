@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             肌をつるつるに磨き上げる日本三大美肌の湯「嬉野温泉」と、1300年の歴史を誇る「武雄温泉」。温泉水で煮込んでとろとろに溶ける名物「温泉湯どうふ」。辰野金吾設計の朱塗り楼門と極上の嬉野茶に癒やされる旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"佐賀・嬉野温泉＆武雄温泉：日本三大美肌の湯・温泉湯豆腐＆楼門・嬉野茶宿 厳選ガイド"} url={"https://croud-travel.pages.dev/saga-ureshino-takeo-bihada-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -231,6 +235,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"佐賀・嬉野温泉＆武雄温泉：日本三大美肌の湯・温泉湯豆腐＆楼門・嬉野茶宿 厳選ガイド"} url={"https://croud-travel.pages.dev/saga-ureshino-takeo-bihada-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="saga-ureshino-takeo-bihada-stay" />
 </div>
   );

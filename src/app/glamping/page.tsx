@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -137,6 +138,9 @@ export default function GlampingHubPage() {
           </div>
         </div>
       </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"グランピング総合ガイド：目的・エリア・設備・予算・人数別のおすすめ施設と選び方"} url={"https://croud-travel.pages.dev/glamping/"} />
+      </div>
 
       {/* 楽天トラベル クーポン還元訴求バナー */}
       <div className="max-w-5xl mx-auto px-4 -mt-5 relative z-20">
@@ -260,8 +264,7 @@ export default function GlampingHubPage() {
           <div className="bg-white rounded-3xl p-6 md:p-8 shadow-sm border border-slate-200">
             <div className="grid md:grid-cols-3 gap-6">
               <div className="space-y-2.5">
-                <h3 className="font-bold text-slate-800 text-sm flex items-center gap-2"><span className="w-2 h-2 bg-emerald-600 rounded-full"></span>
-                  衣服・寒暖差対策</h3>
+                <h3 className="font-bold text-slate-800 text-sm flex items-center gap-2">衣服・寒暖差対策</h3>
                 <ul className="text-xs text-slate-600 space-y-2">
                   <li className="flex items-start gap-1.5">・<strong>脱ぎ着しやすい上着</strong>（自然豊かな場所は朝晩冷え込む傾向があります）</li>
                   <li className="flex items-start gap-1.5">・<strong>脱ぎ履きしやすい靴やサンダル</strong>（テントやデッキの出入り時に便利です）</li>
@@ -269,8 +272,7 @@ export default function GlampingHubPage() {
                 </ul>
               </div>
               <div className="space-y-2.5">
-                <h3 className="font-bold text-slate-800 text-sm flex items-center gap-2"><span className="w-2 h-2 bg-emerald-600 rounded-full"></span>
-                  衛生・野外対策グッズ</h3>
+                <h3 className="font-bold text-slate-800 text-sm flex items-center gap-2">衛生・野外対策グッズ</h3>
                 <ul className="text-xs text-slate-600 space-y-2">
                   <li className="flex items-start gap-1.5">・<strong>虫除けスプレー・かゆみ止め</strong>（春〜秋の屋外滞在時の備え）</li>
                   <li className="flex items-start gap-1.5">・<strong>日焼け止め・帽子</strong>（屋外テラスや散策時の日差し対策）</li>
@@ -278,8 +280,7 @@ export default function GlampingHubPage() {
                 </ul>
               </div>
               <div className="space-y-2.5">
-                <h3 className="font-bold text-slate-800 text-sm flex items-center gap-2"><span className="w-2 h-2 bg-emerald-600 rounded-full"></span>
-                  快適に過ごすためのアイテム</h3>
+                <h3 className="font-bold text-slate-800 text-sm flex items-center gap-2">快適に過ごすためのアイテム</h3>
                 <ul className="text-xs text-slate-600 space-y-2">
                   <li className="flex items-start gap-1.5">・<strong>モバイルバッテリー</strong>（屋外での写真撮影や動画視聴用）</li>
                   <li className="flex items-start gap-1.5">・<strong>水着・ラッシュガード</strong>（サウナやプール利用が可能な施設の場合）</li>
@@ -408,8 +409,7 @@ export default function GlampingHubPage() {
 
             {/* 2. こだわり設備・体験別 */}
             <div className="bg-white rounded-3xl p-6 md:p-8 shadow-sm border border-slate-200">
-              <h3 className="font-bold text-lg md:text-xl text-slate-900 mb-5 flex items-center gap-2.5"><span className="p-1.5 bg-rose-100 text-rose-800 rounded-lg text-base">️</span>
-                設備や体験から選ぶ</h3>
+              <h3 className="font-bold text-lg md:text-xl text-slate-900 mb-5 flex items-center gap-2.5">設備や体験から選ぶ</h3>
               <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-3.5">
                 <Link href="/silver-week-glamping-private-sauna-guide/" className="p-4 rounded-xl border border-slate-100 hover:border-rose-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
                   <div>
@@ -794,6 +794,9 @@ export default function GlampingHubPage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"グランピング総合ガイド：目的・エリア・設備・予算・人数別のおすすめ施設と選び方"} url={"https://croud-travel.pages.dev/glamping/"} />
+      </div>
       <HubRelatedPosts currentSlug="glamping" />
 </div>
         </section>

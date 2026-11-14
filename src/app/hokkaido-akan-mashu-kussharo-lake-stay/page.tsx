@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             世界屈指の透明度を誇る「摩周湖」と、特別天然記念物マリモが眠る「阿寒湖」、砂を掘れば温泉が湧く「屈斜路湖」。阿寒湖アイヌコタンの伝統舞踊と木彫り文化。川湯温泉の強酸性硫黄泉に浸かり、道東の大自然とオホーツクの海鮮を味わう旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"北海道・阿寒湖＆摩周湖・屈斜路湖：神秘のカルデラ三湖・阿寒アイヌコタン＆まりも・硫黄山温泉宿 厳選ガイド"} url={"https://croud-travel.pages.dev/hokkaido-akan-mashu-kussharo-lake-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -423,6 +427,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"北海道・阿寒湖＆摩周湖・屈斜路湖：神秘のカルデラ三湖・阿寒アイヌコタン＆まりも・硫黄山温泉宿 厳選ガイド"} url={"https://croud-travel.pages.dev/hokkaido-akan-mashu-kussharo-lake-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="hokkaido-akan-mashu-kussharo-lake-stay" />
 </div>
   );

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月長崎・雲仙小浜温泉】橘湾の茜色落日と熱量日本一105℃の源泉・初冬の味覚橘湾冬ワタリガニ＆名物小浜ちゃんぽん・極上雲仙あかね牛を堪能する名宿5選',
     description: '11月中旬から初冬の長崎・島原半島西岸に位置する小浜温泉（おばまおんせん）は、澄み切った冬空の下。',
     url: 'https://croud-travel.pages.dev/winter-nagasaki-obama-onsen-sunset-crab-champon-wagyu-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -49,7 +50,7 @@ export default function NagasakiObamaWinterPage() {
         "isPartOf": {
           "@type": "WebSite",
           "@id": "https://croud-travel.pages.dev/#website",
-          "name": "クラドトラベル",
+          "name": "旅宿クラウド",
           "url": "https://croud-travel.pages.dev/"
         },
         "headline": "【11・12月長崎・雲仙小浜温泉】橘湾の茜色落日と熱量日本一105℃の源泉・初冬の味覚橘湾冬ワタリガニ＆名物小浜ちゃんぽん・極上雲仙あかね牛を堪能する名宿5選",
@@ -60,7 +61,7 @@ export default function NagasakiObamaWinterPage() {
         "mainEntityOfPage": "https://croud-travel.pages.dev/winter-nagasaki-obama-onsen-sunset-crab-champon-wagyu-stay/",
         "publisher": {
           "@type": "Organization",
-          "name": "クラドトラベル編集部",
+          "name": "旅宿クラウド編集部",
           "url": "https://croud-travel.pages.dev/"
         }
       },
@@ -339,6 +340,9 @@ export default function NagasakiObamaWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月長崎・雲仙小浜温泉】橘湾の茜色落日と熱量日本一105℃の源泉・初冬の味覚橘湾冬ワタリガニ＆名物小浜ちゃんぽん・極上雲仙あかね牛を堪能する名宿5選"} url={"https://croud-travel.pages.dev/winter-nagasaki-obama-onsen-sunset-crab-champon-wagyu-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-10 sm:pt-14 space-y-12">
@@ -453,7 +457,7 @@ export default function NagasakiObamaWinterPage() {
                         <a
                           href={hotel.url}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="inline-flex items-center gap-1.5 bg-amber-800 hover:bg-amber-900 text-white text-xs sm:text-sm font-bold px-4 py-2.5 rounded-xl transition shadow-xs"
                         >
                           プラン一覧を見る
@@ -623,6 +627,9 @@ export default function NagasakiObamaWinterPage() {
               </p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月長崎・雲仙小浜温泉】橘湾の茜色落日と熱量日本一105℃の源泉・初冬の味覚橘湾冬ワタリガニ＆名物小浜ちゃんぽん・極上雲仙あかね牛を堪能する名宿5選"} url={"https://croud-travel.pages.dev/winter-nagasaki-obama-onsen-sunset-crab-champon-wagyu-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-nagasaki-obama-onsen-sunset-crab-champon-wagyu-stay" />
 </div>
         </section>

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
@@ -5,7 +6,7 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '八幡平アスピーテラインの紅葉回廊ドライブ＆乳白色の秘湯・松川温泉！露天風呂宿×ふるさと納税厳選ガイド岩手',
   description: '9月下旬〜10月中旬に見頃を迎える東北屈指の山岳紅葉「八幡平アスピーテライン」。標高1,613mの頂上へ続く黄色と赤のパノラマ紅葉ロード、地熱発電の里に湧く青白濁の秘湯「松川温泉 峡雲荘」「松川荘」「八幡平マウンテンホテル」で前沢牛・短角牛や八幡平ポーク・八幡平サーモンを堪能。ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。',
-  keywords: ["乳白色の秘湯", "2026年最新秋旅", "岩手", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
+  keywords: ["乳白色の秘湯", "2026年末・冬休み対応", "岩手", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-hachimantai-aspiteline-autumn-leaves-stay/"
   },
@@ -24,7 +25,7 @@ export default function FeatureArticlePage() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "八幡平アスピーテラインの紅葉回廊ドライブ＆乳白色の秘湯・松川温泉！露天風呂宿×ふるさと納税完全ガイド【2026年最新秋旅】岩手",
+    "headline": "八幡平アスピーテラインの紅葉回廊ドライブ＆乳白色の秘湯・松川温泉！露天風呂宿×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】岩手",
     "description": "9月下旬〜10月中旬に見頃を迎える東北屈指の山岳紅葉「八幡平アスピーテライン」。標高1,613mの頂上へ続く黄色と赤のパノラマ紅葉ロード、地熱発電の里に湧く青白濁の秘湯「松川温泉 峡雲荘」「松川荘」「八幡平マウンテンホテル」で前沢牛・短角牛や八幡平ポーク・八幡平サーモンを堪能。ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。",
     "url": "https://croud-travel.pages.dev/furusato-tax-hachimantai-aspiteline-autumn-leaves-stay/",
     "publisher": {
@@ -38,7 +39,7 @@ export default function FeatureArticlePage() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "八幡平アスピーテラインの紅葉回廊ドライブ＆乳白色の秘湯・松川温泉！露天風呂宿×ふるさと納税完全ガイド【2026年最新秋旅】岩手", "item": "https://croud-travel.pages.dev/furusato-tax-hachimantai-aspiteline-autumn-leaves-stay/" }
+      { "@type": "ListItem", "position": 2, "name": "八幡平アスピーテラインの紅葉回廊ドライブ＆乳白色の秘湯・松川温泉！露天風呂宿×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】岩手", "item": "https://croud-travel.pages.dev/furusato-tax-hachimantai-aspiteline-autumn-leaves-stay/" }
     ]
   };
 
@@ -84,6 +85,9 @@ export default function FeatureArticlePage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"八幡平アスピーテラインの紅葉回廊ドライブ＆乳白色の秘湯・松川温泉！露天風呂宿×ふるさと納税厳選ガイド岩手"} url={"https://croud-travel.pages.dev/furusato-tax-hachimantai-aspiteline-autumn-leaves-stay/"} />
+      </div>
 
       {/* イントロダクション */}
       <section className="max-w-5xl mx-auto px-4 sm:px-6 mb-12">
@@ -507,6 +511,9 @@ export default function FeatureArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"八幡平アスピーテラインの紅葉回廊ドライブ＆乳白色の秘湯・松川温泉！露天風呂宿×ふるさと納税厳選ガイド岩手"} url={"https://croud-travel.pages.dev/furusato-tax-hachimantai-aspiteline-autumn-leaves-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-hachimantai-aspiteline-autumn-leaves-stay" />
 </div>
         </section>

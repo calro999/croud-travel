@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             日本の歴史を動かした黄金の島「佐渡島」。世界遺産に登録された佐渡金山の割戸と、緑に覆われたラピュタのような北沢浮遊選鉱場。小木の海をゆく伝統のたらい舟。日本海の荒波が育む佐渡寒ブリと佐渡牛を味わう離島リゾートへ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"新潟・佐渡島＆相川金山：世界遺産佐渡金山・たらい舟＆尖閣湾・佐渡寒ブリ宿 厳選ガイド"} url={"https://croud-travel.pages.dev/niigata-sado-island-gold-mine-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"新潟・佐渡島＆相川金山：世界遺産佐渡金山・たらい舟＆尖閣湾・佐渡寒ブリ宿 厳選ガイド"} url={"https://croud-travel.pages.dev/niigata-sado-island-gold-mine-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="niigata-sado-island-gold-mine-stay" />
 </div>
   );

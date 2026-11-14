@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -199,6 +200,9 @@ export default function AtamiIzuRainyDayIndoorMuseumSpaPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"熱海 雨の日の観光＆温泉：MOA美術館・起雲閣・昭和レトロ喫茶＆インフィニティ露天風呂"} url={"https://croud-travel.pages.dev/atami-izu-rainy-day-indoor-museum-spa-guide/"} />
+      </div>
 
       {/* 楽天トラベルスペシャルクーポンバナー */}
       <section className="max-w-4xl mx-auto px-4 sm:px-6 -mt-8 relative z-20">
@@ -714,6 +718,9 @@ export default function AtamiIzuRainyDayIndoorMuseumSpaPage() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"熱海 雨の日の観光＆温泉：MOA美術館・起雲閣・昭和レトロ喫茶＆インフィニティ露天風呂"} url={"https://croud-travel.pages.dev/atami-izu-rainy-day-indoor-museum-spa-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="atami-izu-rainy-day-indoor-museum-spa-guide" />
 </div>
   );

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -107,6 +108,9 @@ export default function MicroTouristHubPage() {
             日本海の荒波が削り出した巨大な柱状節理の断崖が1kmにわたって続く世界的景勝地「東尋坊」。夕暮れ時に日本海へと沈む息をのむような夕陽と、明治期より関西の文人墨客に「奥座敷」として愛された名湯「あわら温泉」。冬には福井県が誇る最高峰ブランド・三国港水揚げの「越前ガニ」の贅を味わい尽くす、北陸・福井の極上旅へご案内します。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"福井・東尋坊＆あわら温泉：日本海断崖絶壁・越前ガニ宿 厳選ガイド"} url={"https://croud-travel.pages.dev/fukui-tojinbo-awara-onsen-crab-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"福井・東尋坊＆あわら温泉：日本海断崖絶壁・越前ガニ宿 厳選ガイド"} url={"https://croud-travel.pages.dev/fukui-tojinbo-awara-onsen-crab-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="fukui-tojinbo-awara-onsen-crab-stay" />
 </div>
   );

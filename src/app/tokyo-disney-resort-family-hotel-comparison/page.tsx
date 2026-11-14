@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -194,6 +195,9 @@ export default function DisneyFamilyHotelComparisonPage() {
             </span>
           </div>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"子連れディズニー後泊ホテル比較：舞浜・新浦安・葛西のコスパ宿＆二段ベッド・洗い場付きお風呂完備"} url={"https://croud-travel.pages.dev/tokyo-disney-resort-family-hotel-comparison/"} />
+      </div>
       </section>
 
       {/* 楽天トラベル公式 ファミリー応援クーポンバナー */}
@@ -201,8 +205,7 @@ export default function DisneyFamilyHotelComparisonPage() {
 
       {/* 目次・クイックナビゲーション */}
       <nav className="bg-indigo-50/70 border border-indigo-200/80 rounded-2xl p-6 shadow-sm">
-        <h2 className="text-base font-black text-indigo-950 mb-3 flex items-center gap-2"><span className="w-2.5 h-2.5 rounded-full bg-indigo-600"></span>
-          本記事のポイント・目次</h2>
+        <h2 className="text-base font-black text-indigo-950 mb-3 flex items-center gap-2">本記事のポイント・目次</h2>
         <ul className="grid grid-cols-1 md:grid-cols-2 gap-2.5 text-sm text-indigo-900">
           <li className="flex items-center gap-2">
             <span className="text-indigo-500 font-bold">01.</span>
@@ -441,6 +444,9 @@ export default function DisneyFamilyHotelComparisonPage() {
         <SpecialCouponBanner variant="prominent" />
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"子連れディズニー後泊ホテル比較：舞浜・新浦安・葛西のコスパ宿＆二段ベッド・洗い場付きお風呂完備"} url={"https://croud-travel.pages.dev/tokyo-disney-resort-family-hotel-comparison/"} />
+      </div>
       <HubRelatedPosts currentSlug="tokyo-disney-resort-family-hotel-comparison" />
 </div>
   );

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import fs from "fs";
 import path from "path";
@@ -195,6 +196,9 @@ export default function KanazawaGuidePage() {
           </a>
         </div>
       </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【金沢完全攻略】近江町市場・兼六園・ひがし茶屋街！失敗しない1泊2日モデルコース"} url={"https://croud-travel.pages.dev/kanazawa/"} />
+      </div>
 
       <section id="step1" className="scroll-mt-24 bg-white border border-emerald-950/10 rounded-3xl p-6 md:p-10 shadow-sm space-y-6">
         <div className="space-y-2 border-b border-emerald-950/10 pb-4">
@@ -216,7 +220,7 @@ export default function KanazawaGuidePage() {
           </div>
 
           <div className="p-5 rounded-2xl bg-teal-50/40 border border-teal-900/10 space-y-2">
-            <h3 className="text-sm font-bold text-teal-950 flex items-center gap-1.5"><span>️</span> <span>東京 金沢 飛行機＆アクセス</span></h3>
+            <h3 className="text-sm font-bold text-teal-950 flex items-center gap-1.5"><span>東京 金沢 飛行機＆アクセス</span></h3>
             <p className="text-emerald-950/80 leading-relaxed">
               羽田空港から小松空港まで約1時間。小松空港から金沢駅までは特急リムジンバスで約40分です。
             </p>
@@ -258,7 +262,7 @@ export default function KanazawaGuidePage() {
           </div>
 
           <div className="p-5 rounded-2xl bg-slate-50 border border-slate-200 space-y-2">
-            <h3 className="text-sm font-bold text-slate-900 flex items-center gap-1.5"><span>️</span> <span>金沢 雪・冬 観光（12月〜2月）</span></h3>
+            <h3 className="text-sm font-bold text-slate-900 flex items-center gap-1.5"><span>金沢 雪・冬 観光（12月〜2月）</span></h3>
             <p className="text-emerald-950/80 leading-relaxed">
               兼六園名物「雪吊り」と深々と降る雪景色は冬の金沢の風物詩。解禁されたカニ（加能ガニ・香箱ガニ）やのどぐろが最も美味しい季節です。
             </p>
@@ -540,6 +544,9 @@ export default function KanazawaGuidePage() {
         </div>
       </section>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【金沢完全攻略】近江町市場・兼六園・ひがし茶屋街！失敗しない1泊2日モデルコース"} url={"https://croud-travel.pages.dev/kanazawa/"} />
+      </div>
       <HubRelatedPosts currentSlug="kanazawa" />
 </div>
   );

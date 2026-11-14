@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -236,6 +237,9 @@ export default function TobaOnsenWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月鳥羽温泉郷の旬を迎える伊勢海老と的矢牡蠣】鳥羽湾パノラマ絶景露天風呂・極上松阪牛ステーキ＆答志島トロさわら会席の宿5選"} url={"https://croud-travel.pages.dev/winter-mie-toba-onsen-ise-ebi-matoya-oyster-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 space-y-16">
@@ -385,7 +389,7 @@ export default function TobaOnsenWinterPage() {
                     <a
                       href={h.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center justify-center gap-2 bg-gradient-to-r from-amber-700 to-amber-800 hover:from-amber-800 hover:to-slate-900 text-white text-xs sm:text-sm font-bold px-5 py-2.5 rounded-xl shadow-sm hover:shadow transition-all group/btn"
                     >
                       <span>楽天トラベルで空室・プランを見る</span>
@@ -558,6 +562,9 @@ export default function TobaOnsenWinterPage() {
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">全国の厳選温泉・宿特集まとめを見る</h3>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月鳥羽温泉郷の旬を迎える伊勢海老と的矢牡蠣】鳥羽湾パノラマ絶景露天風呂・極上松阪牛ステーキ＆答志島トロさわら会席の宿5選"} url={"https://croud-travel.pages.dev/winter-mie-toba-onsen-ise-ebi-matoya-oyster-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-mie-toba-onsen-ise-ebi-matoya-oyster-stay" />
 </div>
         </section>

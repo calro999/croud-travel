@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
@@ -111,6 +112,9 @@ export default function Page() {
             </p>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【幻想の浮き舞台雪景色と文化財雪見ろうそく】2026-2027年12-1月真冬の福島・会津芦ノ牧＆東山温泉！「大川荘」＆登録有形文化財「向瀧」・渓谷雪見露天と極上会津馬刺し名宿5選"} url={"https://croud-travel.pages.dev/winter-fukushima-aizu-ashinomaki-higashiyama-luxury-ookawaso-mukaitaki-snow-stay/"} />
+      </div>
 
         <div className="max-w-4xl mx-auto px-4 mt-10 space-y-12">
           {/* 導入部 */}
@@ -225,8 +229,7 @@ export default function Page() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント</h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>大川渓谷の断崖に建ち、吹き抜けロビーに浮かぶ三味線の浮き舞台が幻想的な大人気温泉旅館です。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>棚田のように段々に配された名物露天風呂「四季舞台たな田」や空中露天風呂から、雪化粧の大川渓谷を一望できます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>夕食は会津の郷土料理を取り入れた豪華な会席料理または和洋ビュッフェ。心に響く三味線の音色とおもてなしが魅力です。</span></li>
                 </ul>
@@ -290,8 +293,7 @@ export default function Page() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント</h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>明治初期の木造建築が国の登録有形文化財第1号に指定された、日本屈指の歴史と格式を誇る純和風旅館です。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>冬の夕暮れには中庭の雪の中に約百本の竹筒ろうそくが灯る「雪見ろうそく」が幻想的な美しさを放ちます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>敷地内から自然湧出する3本の自家源泉を完全掛け流し。会津藩の伝統を受け継ぐ手作りの郷土会席料理と地酒に酔いしれます。</span></li>
                 </ul>
@@ -355,8 +357,7 @@ export default function Page() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント</h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>東山温泉の高台に位置し、会津若松市街の夜景や雪景色をパノラマで見渡すタワー館を擁する大型温泉リゾートです。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>宙に浮かぶような開放感を味わえる展望露天風呂「宙の湯（そらのゆ）」で、良質な温泉と絶景のコラボレーションを満喫できます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>夕食は会津の郷土料理やできたてのオープンキッチン料理が並ぶ人気のビュッフェ。家族連れからカップルまで幅広く支持されています。</span></li>
                 </ul>
@@ -420,8 +421,7 @@ export default function Page() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント</h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>湯川の名所「伏見ヶ滝」を目の前に望む絶好のロケーションに建ち、せせらぎと滝の音に包まれる老舗名旅館です。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>能舞台を模した風雅な露天風呂や大浴場から、雪をまとった渓流と滝の絶景を一望。夜のライトアップも幻想的です。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>夕食は会津の伝統料理「小汁（こづゆ）」や会津馬刺し、福島牛を盛り込んだ手作りの会席料理。心温まるもてなしが評判です。</span></li>
                 </ul>
@@ -485,8 +485,7 @@ export default function Page() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント</h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>芦ノ牧温泉の清流・大川を見下ろす高台に建ち、渓谷の自然美を間近に感じる落ち着いた雰囲気の老舗温泉ホテルです。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>豊富な自家源泉を引き入れた総檜風呂や開放的な渓流露天風呂で、湯量豊かな名湯に身を委ねることができます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>夕食は会津の山の幸や川の幸、福島牛を贅沢に盛り込んだ季節の会席料理。広々とした客室で静かな冬のひとときを過ごせます。</span></li>
                 </ul>
@@ -660,6 +659,10 @@ export default function Page() {
             <p>※会津芦ノ牧・東山温泉エリアの冬季宿泊プランや送迎バスの運行スケジュールは積雪状況により変更となる場合があります。冬期はスタッドレスタイヤ必須となりますので最新情報を楽天トラベル各宿ページにてご確認ください。</p>
           </footer>
         </div>
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【幻想の浮き舞台雪景色と文化財雪見ろうそく】2026-2027年12-1月真冬の福島・会津芦ノ牧＆東山温泉！「大川荘」＆登録有形文化財「向瀧」・渓谷雪見露天と極上会津馬刺し名宿5選"} url={"https://croud-travel.pages.dev/winter-fukushima-aizu-ashinomaki-higashiyama-luxury-ookawaso-mukaitaki-snow-stay/"} />
+      </div>
       </article>
     </>
   );

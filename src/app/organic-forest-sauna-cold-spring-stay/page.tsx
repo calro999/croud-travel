@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             パチパチと薪がはぜる音、白樺のアロマロウリュ、そして地下から湧き出るシングル〜15℃の極上天然水風呂！森の外気浴でディープリラックスできる、サウナー絶賛の全国リトリート温泉宿を厳選紹介。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"極上のととのい：森の薪サウナ＆天然冷鉱泉水風呂！大自然の中で深呼吸する森のリトリート宿5選"} url={"https://croud-travel.pages.dev/organic-forest-sauna-cold-spring-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"極上のととのい：森の薪サウナ＆天然冷鉱泉水風呂！大自然の中で深呼吸する森のリトリート宿5選"} url={"https://croud-travel.pages.dev/organic-forest-sauna-cold-spring-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="organic-forest-sauna-cold-spring-stay" />
 </div>
         </section>

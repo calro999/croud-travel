@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -54,6 +55,9 @@ export default function AutumnBudgetKurumeHotelsPage() {
           </p>
         </div>
       </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"久留米：秋月城跡の紅葉黒門＆元祖とんこつ久留米ラーメン！2,000円台〜格安ホテル5選"} url={"https://croud-travel.pages.dev/autumn-budget-fukuoka-kurume-ramen-yakitori-hotels-stay/"} />
+      </div>
 
       {/* イントロダクション */}
       <section className="max-w-4xl mx-auto px-4 py-8">
@@ -465,6 +469,9 @@ export default function AutumnBudgetKurumeHotelsPage() {
               </div>
             </div>
           </div></section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"久留米：秋月城跡の紅葉黒門＆元祖とんこつ久留米ラーメン！2,000円台〜格安ホテル5選"} url={"https://croud-travel.pages.dev/autumn-budget-fukuoka-kurume-ramen-yakitori-hotels-stay/"} />
+      </div>
         <div className="max-w-4xl mx-auto px-4 sm:px-6">
           <HubRelatedPosts currentSlug="autumn-budget-fukuoka-kurume-ramen-yakitori-hotels-stay" />
         </div>

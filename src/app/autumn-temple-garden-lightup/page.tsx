@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -113,6 +114,9 @@ export default function SeasonalFeaturePage() {
             昼間の鮮やかな紅葉とは一変し、漆黒の夜空と鏡のような池の水面に映し出される光の芸術。門前宿や庭園自慢のホテルに宿泊し、夜間特別拝観の感動をそのまま客室へ持ち帰る贅沢な秋の旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"錦秋の光の芸術：紅葉庭園ライトアップ＆夜間特別拝観の宿 厳選ガイド"} url={"https://croud-travel.pages.dev/autumn-temple-garden-lightup/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function SeasonalFeaturePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"錦秋の光の芸術：紅葉庭園ライトアップ＆夜間特別拝観の宿 厳選ガイド"} url={"https://croud-travel.pages.dev/autumn-temple-garden-lightup/"} />
+      </div>
       <HubRelatedPosts currentSlug="autumn-temple-garden-lightup" />
 </div>
   );

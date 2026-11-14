@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -14,7 +15,7 @@ export const metadata: Metadata = {
     title: "伊東温泉をふるさと納税でお得に旅する！相模灘オーシャンビュー＆名物金目鯛・伊勢海老！伊豆の名門宿特集",
     description: '毎分三万リットルの豊富な湧出量を誇る伊豆屈指の温泉郷・静岡県伊東温泉を楽天ふるさと納税でお得に贅沢ステイ！相模湾を見晴らす丘の名門料亭旅館「青山やまと」、名物海底温泉でお魚見学「サンハトヤ」、全室温泉付き客室の和モダン「ラフォーレ伊東温泉 湯の庭」を徹底比較。伊東市トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-ito-onsen-ocean-kinmedai-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -28,12 +29,12 @@ export default function FurusatoArticlePage() {
     description: '毎分三万リットルの豊富な湧出量を誇る伊豆屈指の温泉郷・静岡県伊東温泉を楽天ふるさと納税でお得に贅沢ステイ！相模湾を見晴らす丘の名門料亭旅館「青山やまと」、名物海底温泉でお魚見学「サンハトヤ」、全室温泉付き客室の和モダン「ラフォーレ伊東温泉 湯の庭」を徹底比較。伊東市トラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル 観光・ふるさと納税調査班',
+      name: '旅宿クラウド 観光・ふるさと納税調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -80,6 +81,9 @@ export default function FurusatoArticlePage() {
           毎分三万リットルの豊富な湧出量を誇る伊豆屈指の温泉郷・静岡県伊東温泉を楽天ふるさと納税でお得に贅沢ステイ！相模湾を見晴らす丘の名門料亭旅館「青山やまと」、名物海底温泉でお魚見学「サンハトヤ」、全室温泉付き客室の和モダン「ラフォーレ伊東温泉 湯の庭」を徹底比較。伊東市トラベルクーポン活用術を網羅。
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"伊東温泉をふるさと納税でお得に旅する！相模灘オーシャンビュー＆名物金目鯛・伊勢海老！伊豆の名門宿特集"} url={"https://croud-travel.pages.dev/furusato-tax-ito-onsen-ocean-kinmedai-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
@@ -360,7 +364,7 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 伊東温泉・城ヶ崎海岸＆大室山観光ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">伊東温泉・城ヶ崎海岸＆大室山観光ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
@@ -586,6 +590,9 @@ export default function FurusatoArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"伊東温泉をふるさと納税でお得に旅する！相模灘オーシャンビュー＆名物金目鯛・伊勢海老！伊豆の名門宿特集"} url={"https://croud-travel.pages.dev/furusato-tax-ito-onsen-ocean-kinmedai-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-ito-onsen-ocean-kinmedai-stay" />
 </div>
         </section>

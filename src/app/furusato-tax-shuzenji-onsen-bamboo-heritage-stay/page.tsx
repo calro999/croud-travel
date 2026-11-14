@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -14,7 +15,7 @@ export const metadata: Metadata = {
     title: '修善寺温泉をふるさと納税でお得に旅する！伊豆最古の名湯・竹林の小径散策＆国の登録文化財！歴史名宿特集｜菊屋・新井旅館・宙SORA',
     description: '弘法大師が開いた伊豆最古の名湯・静岡県修善寺温泉を楽天ふるさと納税でお得に満喫！創業四百年・夏目漱石ゆかりの「湯回廊 菊屋」、国の登録有形文化財十五棟を誇る「新井旅館」、一万五千坪の名庭園と展望風呂の「宙 SORA 渡月荘金龍」を徹底比較。伊豆牛会席や伊豆市トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-shuzenji-onsen-bamboo-heritage-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -28,12 +29,12 @@ export default function FurusatoArticlePage() {
     description: '弘法大師が開いた伊豆最古の名湯・静岡県修善寺温泉を楽天ふるさと納税でお得に満喫！創業四百年・夏目漱石ゆかりの「湯回廊 菊屋」、国の登録有形文化財十五棟を誇る「新井旅館」、一万五千坪の名庭園と展望風呂の「宙 SORA 渡月荘金龍」を徹底比較。伊豆牛会席や伊豆市トラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル 観光・ふるさと納税調査班',
+      name: '旅宿クラウド 観光・ふるさと納税調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -80,6 +81,9 @@ export default function FurusatoArticlePage() {
           弘法大師が開いた伊豆最古の名湯・静岡県修善寺温泉を楽天ふるさと納税でお得に満喫！創業四百年・夏目漱石ゆかりの「湯回廊 菊屋」、国の登録有形文化財十五棟を誇る「新井旅館」、一万五千坪の名庭園と展望風呂の「宙 SORA 渡月荘金龍」を徹底比較。伊豆牛会席や伊豆市トラベルクーポン活用術を網羅。
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"修善寺温泉をふるさと納税でお得に旅する！伊豆最古の名湯・竹林の小径散策＆国の登録文化財！歴史名宿特集"} url={"https://croud-travel.pages.dev/furusato-tax-shuzenji-onsen-bamboo-heritage-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
@@ -360,7 +364,7 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 修善寺温泉街・竹林の小径＆修禅寺めぐりガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">修善寺温泉街・竹林の小径＆修禅寺めぐりガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
@@ -586,6 +590,9 @@ export default function FurusatoArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"修善寺温泉をふるさと納税でお得に旅する！伊豆最古の名湯・竹林の小径散策＆国の登録文化財！歴史名宿特集"} url={"https://croud-travel.pages.dev/furusato-tax-shuzenji-onsen-bamboo-heritage-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-shuzenji-onsen-bamboo-heritage-stay" />
 </div>
         </section>

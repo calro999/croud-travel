@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月鞆の浦温泉】瀬戸内海初冬の夕暮れと潮待ちの港情緒・名物寒真鯛の鯛めし＆地魚姿造り・幻の峠下牛と保命酒を味わう名宿5選',
     description: '11月中旬から12月の初冬、瀬戸内海の穏やかな潮風に包まれる広島県福山市・鞆の浦（とものうら）は、一年で最も空気が澄み渡り。',
     url: 'https://croud-travel.pages.dev/winter-hiroshima-tomonoura-onsen-setouchi-taimeshi-taoshitagyu-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -49,7 +50,7 @@ export default function HiroshimaTomonouraWinterPage() {
         "isPartOf": {
           "@type": "WebSite",
           "@id": "https://croud-travel.pages.dev/#website",
-          "name": "クラドトラベル",
+          "name": "旅宿クラウド",
           "url": "https://croud-travel.pages.dev/"
         },
         "headline": "【11・12月鞆の浦温泉】瀬戸内海初冬の夕暮れと潮待ちの港情緒・名物寒真鯛の鯛めし＆地魚姿造り・幻の峠下牛と保命酒を味わう名宿5選",
@@ -60,7 +61,7 @@ export default function HiroshimaTomonouraWinterPage() {
         "mainEntityOfPage": "https://croud-travel.pages.dev/winter-hiroshima-tomonoura-onsen-setouchi-taimeshi-taoshitagyu-stay/",
         "publisher": {
           "@type": "Organization",
-          "name": "クラドトラベル編集部",
+          "name": "旅宿クラウド編集部",
           "url": "https://croud-travel.pages.dev/"
         }
       },
@@ -375,6 +376,9 @@ export default function HiroshimaTomonouraWinterPage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月鞆の浦温泉】瀬戸内海初冬の夕暮れと潮待ちの港情緒・名物寒真鯛の鯛めし＆地魚姿造り・幻の峠下牛と保命酒を味わう名宿5選"} url={"https://croud-travel.pages.dev/winter-hiroshima-tomonoura-onsen-setouchi-taimeshi-taoshitagyu-stay/"} />
+      </div>
 
       {/* Main Content Container */}
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-12">
@@ -487,7 +491,7 @@ export default function HiroshimaTomonouraWinterPage() {
                     <a
                       href={hotel.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-6 py-2.5 bg-indigo-900 hover:bg-indigo-950 text-white text-xs sm:text-sm font-bold rounded-xl transition duration-200 shadow-xs"
                     >
                       <span>楽天トラベルで空室・プランを見る</span>
@@ -681,6 +685,9 @@ export default function HiroshimaTomonouraWinterPage() {
               </p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月鞆の浦温泉】瀬戸内海初冬の夕暮れと潮待ちの港情緒・名物寒真鯛の鯛めし＆地魚姿造り・幻の峠下牛と保命酒を味わう名宿5選"} url={"https://croud-travel.pages.dev/winter-hiroshima-tomonoura-onsen-setouchi-taimeshi-taoshitagyu-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-hiroshima-tomonoura-onsen-setouchi-taimeshi-taoshitagyu-stay" />
 </div>
         </section>

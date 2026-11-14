@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -13,7 +14,7 @@ export const metadata: Metadata = {
     title: 'ライブ・舞台遠征泊：会場徒歩すぐ＆大画面ミラーリング・推し活応援！遠征民のための快適拠点ホテル 厳選3選',
     description: '東京ドーム、Zepp Shinjuku、ぴあアリーナMM・Kアリーナ横浜などでのライブや観劇・フェス遠征を最高の思い出に！ドーム目の前でうちわも入る限定プランがある「東京ドームホテル」、歌舞伎町タワー直結で大画面スピーカー搭載の「HOTEL GROOVE SHINJUKU」、みなとみらいのライブ会場へ徒歩圏の「横浜東急REIホテル」を徹底特集。',
     url: 'https://croud-travel.pages.dev/event-expedition-oshi-live-comfort-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -27,12 +28,12 @@ export default function ArticlePage() {
     description: '東京ドーム、Zepp Shinjuku、ぴあアリーナMM・Kアリーナ横浜などでのライブや観劇・フェス遠征を最高の思い出に！ドーム目の前でうちわも入る限定プランがある「東京ドームホテル」、歌舞伎町タワー直結で大画面スピーカー搭載の「HOTEL GROOVE SHINJUKU」、みなとみらいのライブ会場へ徒歩圏の「横浜東急REIホテル」を徹底特集。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル ひとり旅・ホテル調査班',
+      name: '旅宿クラウド ひとり旅・ホテル調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -79,6 +80,9 @@ export default function ArticlePage() {
           東京ドーム、Zepp Shinjuku、ぴあアリーナMM・Kアリーナ横浜などでのライブや観劇・フェス遠征を最高の思い出に！ドーム目の前でうちわも入る限定プランがある「東京ドームホテル」、歌舞伎町タワー直結で大画面スピーカー搭載の「HOTEL GROOVE SHINJUKU」、みなとみらいのライブ会場へ徒歩圏の「横浜東急REIホテル」を徹底特集。
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"ライブ・舞台遠征泊：会場徒歩すぐ＆大画面ミラーリング・推し活応援！遠征民のための快適拠点ホテル 厳選3選"} url={"https://croud-travel.pages.dev/event-expedition-oshi-live-comfort-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
@@ -381,7 +385,7 @@ export default function ArticlePage() {
             href="/"
             className="inline-flex items-center gap-2 text-sm text-stone-600 hover:text-stone-900 font-medium transition-colors"
           >
-            ← クラウドトラベル トップページへ戻る
+            ← 旅宿クラウド トップページへ戻る
           </Link>
         </div>
       </div>
@@ -473,6 +477,9 @@ export default function ArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"ライブ・舞台遠征泊：会場徒歩すぐ＆大画面ミラーリング・推し活応援！遠征民のための快適拠点ホテル 厳選3選"} url={"https://croud-travel.pages.dev/event-expedition-oshi-live-comfort-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="event-expedition-oshi-live-comfort-stay" />
 </div>
         </section>

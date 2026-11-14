@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             身が引き締まり旨味が凝縮した極上広島牡蠣の焼き・鍋・フライと、ふっくら香ばしい名物あなごめし！世界遺産・厳島神社を望む宮島や瀬戸内海のオーシャンビュー名湯で味わう至福の美食宿を厳選。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"2026最新：ぷりぷり広島牡蠣＆極上あなごめし！宮島・瀬戸内海を一望する絶景美食温泉宿5選"} url={"https://croud-travel.pages.dev/traditional-hiroshima-oyster-anago-gourmet-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"2026最新：ぷりぷり広島牡蠣＆極上あなごめし！宮島・瀬戸内海を一望する絶景美食温泉宿5選"} url={"https://croud-travel.pages.dev/traditional-hiroshima-oyster-anago-gourmet-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="traditional-hiroshima-oyster-anago-gourmet-stay" />
 </div>
         </section>

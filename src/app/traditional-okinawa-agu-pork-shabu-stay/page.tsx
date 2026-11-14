@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -199,6 +200,9 @@ export default function FeatureDetailPage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"旨味と甘み極まる幻の島豚！あぐー豚しゃぶしゃぶ＆美ら海・古宇利島リゾート5選"} url={"https://croud-travel.pages.dev/traditional-okinawa-agu-pork-shabu-stay/"} />
+      </div>
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
@@ -864,6 +868,9 @@ export default function FeatureDetailPage() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"旨味と甘み極まる幻の島豚！あぐー豚しゃぶしゃぶ＆美ら海・古宇利島リゾート5選"} url={"https://croud-travel.pages.dev/traditional-okinawa-agu-pork-shabu-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="traditional-okinawa-agu-pork-shabu-stay" />
 </div>
   );

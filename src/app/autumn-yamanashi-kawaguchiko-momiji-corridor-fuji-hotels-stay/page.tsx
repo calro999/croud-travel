@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Image from 'next/image';
@@ -63,12 +64,14 @@ export default function KawaguchikoAutumnPage() {
             さらに湖畔の北岸エリア（大石公園や産屋ヶ崎）からは、青い湖越しに初冠雪を迎えた富士山と紅葉が一枚の絵画のように収まる絶景ポイントが点在。湖畔の宿で富士山を望む展望温泉に浸かり、甲州ワインやほうとうに舌鼓を打つ極上の秋旅をお楽しみください。
           </p>
         </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"秋の河口湖：もみじ回廊の紅葉まつりと富士山絶景！レイクサイド温泉を満喫するおすすめ名宿5選「2026最新」"} url={"https://croud-travel.pages.dev/autumn-yamanashi-kawaguchiko-momiji-corridor-fuji-hotels-stay/"} />
+      </div>
 
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-amber-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！河口湖・富士山ビュー厳選名宿5選</h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">楽天トラベル高評価！河口湖・富士山ビュー厳選名宿5選</h2>
 
           <div className="space-y-8">
 
@@ -498,6 +501,9 @@ export default function KawaguchikoAutumnPage() {
               </div>
             </div>
           </div></section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"秋の河口湖：もみじ回廊の紅葉まつりと富士山絶景！レイクサイド温泉を満喫するおすすめ名宿5選「2026最新」"} url={"https://croud-travel.pages.dev/autumn-yamanashi-kawaguchiko-momiji-corridor-fuji-hotels-stay/"} />
+      </div>
         <div className="max-w-4xl mx-auto px-4 sm:px-6">
           <HubRelatedPosts currentSlug="autumn-yamanashi-kawaguchiko-momiji-corridor-fuji-hotels-stay" />
         </div>

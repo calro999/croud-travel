@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -69,6 +70,9 @@ export default function FurusatoTaxArticle() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【越後湯沢温泉×ふるさと納税】新幹線直結！川端康成「雪国」の文学名湯＆魚沼産コシヒカリ美食ステイ完全ガイド"} url={"https://croud-travel.pages.dev/furusato-tax-echigo-yuzawa-onsen-snow-country-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 py-10 space-y-12">
         {/* リード文セクション */}
@@ -83,10 +87,10 @@ export default function FurusatoTaxArticle() {
           <div className="bg-amber-50 rounded-2xl p-4 sm:p-5 border border-amber-200/80 text-amber-950 text-xs sm:text-sm space-y-2">
             <h3 className="font-bold text-amber-900 flex items-center gap-2">この記事でわかること</h3>
             <ul className="grid sm:grid-cols-2 gap-2 text-stone-800 list-disc list-inside">
-              <li>ふるさと納税で泊まれる名門宿のリアルな魅力と特徴（越後湯沢温泉をふるさと納税でお得に旅する）</li>
-              <li>楽天トラベルクーポンを使った最大割引予約の手順（越後湯沢温泉をふるさと納税でお得に旅する）</li>
-              <li>失敗しない現地観光モデルルート＆名物グルメ（越後湯沢温泉をふるさと納税でお得に旅する）</li>
-              <li>予約済みでも間に合う「クーポンあとから適用」のやり方（越後湯沢温泉をふるさと納税でお得に旅する）</li>
+              <li>ふるさと納税で泊まれる名門宿のリアルな魅力と特徴</li>
+              <li>楽天トラベルクーポンを使った最大割引予約の手順</li>
+              <li>失敗しない現地観光モデルルート＆名物グルメ</li>
+              <li>予約済みでも間に合う「クーポンあとから適用」のやり方</li>
             </ul>
           </div>
         </section>
@@ -582,6 +586,9 @@ export default function FurusatoTaxArticle() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【越後湯沢温泉×ふるさと納税】新幹線直結！川端康成「雪国」の文学名湯＆魚沼産コシヒカリ美食ステイ完全ガイド"} url={"https://croud-travel.pages.dev/furusato-tax-echigo-yuzawa-onsen-snow-country-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-echigo-yuzawa-onsen-snow-country-stay" />
 </div>
         </section>

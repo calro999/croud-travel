@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             世界に誇る最高峰ブランド牛「神戸ビーフ」と、日本海の冬・春の味覚「香住ガニ（紅ズワイガニ）」！日本三古湯・有馬温泉の金泉・銀泉や城崎温泉の外湯めぐりとともに、兵庫が誇る究極の美食を堪能する極上旅。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"最高峰神戸牛＆香住紅ズワイガニ：有馬・城崎で味わう兵庫二大贅沢グルメと名湯宿5選"} url={"https://croud-travel.pages.dev/spring-hyogo-kobe-beef-tajima-crab-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"最高峰神戸牛＆香住紅ズワイガニ：有馬・城崎で味わう兵庫二大贅沢グルメと名湯宿5選"} url={"https://croud-travel.pages.dev/spring-hyogo-kobe-beef-tajima-crab-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="spring-hyogo-kobe-beef-tajima-crab-stay" />
 </div>
         </section>

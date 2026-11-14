@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             日蓮聖人が開いた祈りの聖山「身延山久遠寺」。春に境内を覆い尽くす樹齢400年の巨木しだれ桜と、287段の石段・菩提梯。川中島の戦いで傷を癒やしたと伝わる武田信玄公の隠し湯「下部温泉」。ぬる湯と熱湯を交互に楽しむ極上の湯治ステイへ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"山梨・身延山＆下部温泉：日蓮宗総本山久遠寺しだれ桜・信玄隠し湯宿 厳選ガイド"} url={"https://croud-travel.pages.dev/yamanashi-minobu-shimobe-onsen-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -392,6 +396,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"山梨・身延山＆下部温泉：日蓮宗総本山久遠寺しだれ桜・信玄隠し湯宿 厳選ガイド"} url={"https://croud-travel.pages.dev/yamanashi-minobu-shimobe-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="yamanashi-minobu-shimobe-onsen-stay" />
 </div>
   );

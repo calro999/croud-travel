@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import FurusatoStepSection from "@/app/components/FurusatoStepSection";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
@@ -85,6 +86,9 @@ export default function FurusatoKoshuWineryHarvestStayPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"11月3日解禁！山梨ヌーボー＆甲州勝沼ワイナリー巡り×石和温泉美食リゾート「ふるさと納税厳選ガイド2026」"} url={"https://croud-travel.pages.dev/furusato-tax-koshu-winery-harvest-autumn-wine-resort-stay/"} />
+      </div>
 
       <div className="max-w-5xl mx-auto px-4 sm:px-6 space-y-16">
         {/* リード文セクション */}
@@ -550,6 +554,9 @@ export default function FurusatoKoshuWineryHarvestStayPage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"11月3日解禁！山梨ヌーボー＆甲州勝沼ワイナリー巡り×石和温泉美食リゾート「ふるさと納税厳選ガイド2026」"} url={"https://croud-travel.pages.dev/furusato-tax-koshu-winery-harvest-autumn-wine-resort-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-koshu-winery-harvest-autumn-wine-resort-stay" />
 </div>
         </section>

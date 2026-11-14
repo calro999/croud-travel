@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function ScenicViewHubPage() {
             湯船に身を沈め、湯けむりの向こうにそびえる雄大な霊峰「富士山」。河口湖の水面に映る「逆さ富士」、芦ノ湖の青い水越しに仰ぐ雪化粧の富士、駿河湾の彼方に浮かぶ夕暮れの富士。日本一の絶景を独占する至福の客室露天風呂へ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"富士山ビュー客室露天風呂の宿：河口湖・箱根・日本平＆霊峰パノラマ 厳選ガイド"} url={"https://croud-travel.pages.dev/japan-fuji-view-private-open-air-bath-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆おすすめ宿 */}
@@ -231,6 +235,9 @@ export default function ScenicViewHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"富士山ビュー客室露天風呂の宿：河口湖・箱根・日本平＆霊峰パノラマ 厳選ガイド"} url={"https://croud-travel.pages.dev/japan-fuji-view-private-open-air-bath-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="japan-fuji-view-private-open-air-bath-stay" />
 </div>
   );

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -113,6 +114,9 @@ export default function SeasonalFeaturePage() {
             暗闇の中にぽうっと灯る数千個のミニかまくらのろうそく、大迫力の巨大雪像や氷の彫刻。厳しい寒さだからこそ生まれる幻想的な白銀のフェスティバルと、湯けむり立ち上る雪見温泉の旅へ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【白銀の祭典】冬の雪まつり＆巨大かまくら温泉旅館 完全ガイド"} url={"https://croud-travel.pages.dev/winter-snow-festival-illumination/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function SeasonalFeaturePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【白銀の祭典】冬の雪まつり＆巨大かまくら温泉旅館 完全ガイド"} url={"https://croud-travel.pages.dev/winter-snow-festival-illumination/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-snow-festival-illumination" />
 </div>
   );

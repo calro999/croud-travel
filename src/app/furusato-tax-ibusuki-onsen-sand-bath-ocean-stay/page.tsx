@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -14,7 +15,7 @@ export const metadata: Metadata = {
     title: "指宿温泉をふるさと納税でお得に旅する！名物天然砂むし温泉＆錦江湾オーシャンビュー！絶景リゾート宿特集",
     description: '世界唯一の天然砂むし温泉と薩摩富士・開聞岳を望む鹿児島県指宿温泉を楽天ふるさと納税でお得に贅沢ステイ！千坪の元禄風呂と砂むし温泉を誇る名門「指宿白水館」、絶景高台オーシャンビューの「指宿ロイヤルホテル」、波打ち際の砂むし温泉完備「指宿シーサイドホテル」を徹底比較。指宿市トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-ibusuki-onsen-sand-bath-ocean-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -28,12 +29,12 @@ export default function FurusatoArticlePage() {
     description: '世界唯一の天然砂むし温泉と薩摩富士・開聞岳を望む鹿児島県指宿温泉を楽天ふるさと納税でお得に贅沢ステイ！千坪の元禄風呂と砂むし温泉を誇る名門「指宿白水館」、絶景高台オーシャンビューの「指宿ロイヤルホテル」、波打ち際の砂むし温泉完備「指宿シーサイドホテル」を徹底比較。指宿市トラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル 観光・ふるさと納税調査班',
+      name: '旅宿クラウド 観光・ふるさと納税調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -80,6 +81,9 @@ export default function FurusatoArticlePage() {
           世界唯一の天然砂むし温泉と薩摩富士・開聞岳を望む鹿児島県指宿温泉を楽天ふるさと納税でお得に贅沢ステイ！千坪の元禄風呂と砂むし温泉を誇る名門「指宿白水館」、絶景高台オーシャンビューの「指宿ロイヤルホテル」、波打ち際の砂むし温泉完備「指宿シーサイドホテル」を徹底比較。指宿市トラベルクーポン活用術を網羅。
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"指宿温泉をふるさと納税でお得に旅する！名物天然砂むし温泉＆錦江湾オーシャンビュー！絶景リゾート宿特集"} url={"https://croud-travel.pages.dev/furusato-tax-ibusuki-onsen-sand-bath-ocean-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
@@ -360,7 +364,7 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 指宿温泉・開聞岳＆砂むし会館「砂楽」観光ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">指宿温泉・開聞岳＆砂むし会館「砂楽」観光ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
@@ -586,6 +590,9 @@ export default function FurusatoArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"指宿温泉をふるさと納税でお得に旅する！名物天然砂むし温泉＆錦江湾オーシャンビュー！絶景リゾート宿特集"} url={"https://croud-travel.pages.dev/furusato-tax-ibusuki-onsen-sand-bath-ocean-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-ibusuki-onsen-sand-bath-ocean-stay" />
 </div>
         </section>

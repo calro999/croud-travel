@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function RailwayActivityHubPage() {
             大海原を滑るように進み、海上の大浴場から水平線を眺める「優雅な長距離フェリー旅」。展望レストランでのバイキングディナー、生演奏ピアノラウンジ、プライベートバルコニー付きスイートルーム。港町の極上海鮮と温泉宿で迎える至福の船旅へ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"優雅な船旅・長距離カーフェリー＆離島航路：太平洋・日本海クルーズ 厳選ガイド"} url={"https://croud-travel.pages.dev/japan-long-cruise-ferry-ocean-journey-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆厳選宿 */}
@@ -454,6 +458,9 @@ export default function RailwayActivityHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"優雅な船旅・長距離カーフェリー＆離島航路：太平洋・日本海クルーズ 厳選ガイド"} url={"https://croud-travel.pages.dev/japan-long-cruise-ferry-ocean-journey-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="japan-long-cruise-ferry-ocean-journey-stay" />
 </div>
   );

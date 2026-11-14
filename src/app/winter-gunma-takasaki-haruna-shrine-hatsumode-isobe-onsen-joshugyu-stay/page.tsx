@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -290,6 +291,9 @@ export default function GunmaTakasakiHarunaWinterPage() {
             </p>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月群馬】奇岩の霊場「榛名神社」新春初詣と温泉記号発祥「磯部温泉」！下仁田ネギ・上州牛すき焼き名宿5選"} url={"https://croud-travel.pages.dev/winter-gunma-takasaki-haruna-shrine-hatsumode-isobe-onsen-joshugyu-stay/"} />
+      </div>
 
         {/* Article Summary Box */}
         <section className="max-w-5xl mx-auto px-4 -mt-8 relative z-20">
@@ -431,7 +435,7 @@ export default function GunmaTakasakiHarunaWinterPage() {
                       <a 
                         href={hotel.url} 
                         target="_blank" 
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-1.5 bg-amber-700 hover:bg-amber-800 text-white font-bold text-xs md:text-sm px-4 py-2.5 rounded-xl transition shadow-sm flex-shrink-0 ml-3"
                       >
                         <span>プラン詳細・予約</span>
@@ -568,6 +572,9 @@ export default function GunmaTakasakiHarunaWinterPage() {
           </section>
         </main>
       
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月群馬】奇岩の霊場「榛名神社」新春初詣と温泉記号発祥「磯部温泉」！下仁田ネギ・上州牛すき焼き名宿5選"} url={"https://croud-travel.pages.dev/winter-gunma-takasaki-haruna-shrine-hatsumode-isobe-onsen-joshugyu-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-gunma-takasaki-haruna-shrine-hatsumode-isobe-onsen-joshugyu-stay" />
 </div>
     </>

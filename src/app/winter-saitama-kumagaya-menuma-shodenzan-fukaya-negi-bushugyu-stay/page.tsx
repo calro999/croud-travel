@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -226,6 +227,9 @@ export default function Page() {
             </p>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"国宝・妻沼聖天山新春初詣と冬の極上深谷ねぎ：2026-2027年冬の埼玉・熊谷＆深谷"} url={"https://croud-travel.pages.dev/winter-saitama-kumagaya-menuma-shodenzan-fukaya-negi-bushugyu-stay/"} />
+      </div>
 
         {/* リード文セクション */}
         <section className="max-w-4xl mx-auto px-4 -mt-10 relative z-10 mb-12">
@@ -742,6 +746,10 @@ export default function Page() {
             </div>
           </div>
         </section>
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"国宝・妻沼聖天山新春初詣と冬の極上深谷ねぎ：2026-2027年冬の埼玉・熊谷＆深谷"} url={"https://croud-travel.pages.dev/winter-saitama-kumagaya-menuma-shodenzan-fukaya-negi-bushugyu-stay/"} />
+      </div>
       </main>
     </>
   );

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             名古屋から約50分、伊勢湾の潮風が心地よい海の特等席「知多半島＆南知多温泉郷」。日本の渚百選「内海千鳥ヶ浜」の白砂青松。高速船で渡るタコの島「日間賀島」。名物たこ飯・冬のとらふぐ、銘柄牛「知多牛」を味わう海辺の旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"愛知・知多半島＆南知多温泉郷：内海千鳥ヶ浜・日間賀島タコふぐ＆知多牛宿 厳選ガイド"} url={"https://croud-travel.pages.dev/aichi-chita-minamichita-himakajima-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"愛知・知多半島＆南知多温泉郷：内海千鳥ヶ浜・日間賀島タコふぐ＆知多牛宿 厳選ガイド"} url={"https://croud-travel.pages.dev/aichi-chita-minamichita-himakajima-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="aichi-chita-minamichita-himakajima-stay" />
 </div>
   );

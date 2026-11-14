@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             青、紫、ピンクと色鮮やかに咲き誇る初夏の紫陽花（あじさい）！客室専用の庭園テラスや露天風呂から、雨露に濡れて美しく輝くあじさいを独占鑑賞できる、風雅で情緒豊かな隠れ宿を厳選紹介。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"あじさい咲き乱れる小径：客室専用デッキから愛でる初夏の紫陽花と美肌名湯宿5選"} url={"https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-hydrangea-deck/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"あじさい咲き乱れる小径：客室専用デッキから愛でる初夏の紫陽花と美肌名湯宿5選"} url={"https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-hydrangea-deck/"} />
+      </div>
       <HubRelatedPosts currentSlug="luxury-private-onsen-with-scenic-hydrangea-deck" />
 </div>
         </section>

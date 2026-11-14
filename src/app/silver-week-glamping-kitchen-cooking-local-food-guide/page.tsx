@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -217,6 +218,9 @@ export default function SilverWeekGlampingKitchenCookingLocalFoodPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"本格キッチン付き！道の駅買い出し料理グランピング：地元高原野菜とご当地肉で楽しむ自炊派ヴィラ"} url={"https://croud-travel.pages.dev/silver-week-glamping-kitchen-cooking-local-food-guide/"} />
+      </div>
 
       {/* 楽天トラベル クーポンバナー */}
       <SpecialCouponBanner />
@@ -427,6 +431,9 @@ export default function SilverWeekGlampingKitchenCookingLocalFoodPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"本格キッチン付き！道の駅買い出し料理グランピング：地元高原野菜とご当地肉で楽しむ自炊派ヴィラ"} url={"https://croud-travel.pages.dev/silver-week-glamping-kitchen-cooking-local-food-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="silver-week-glamping-kitchen-cooking-local-food-guide" />
 </div>
   );

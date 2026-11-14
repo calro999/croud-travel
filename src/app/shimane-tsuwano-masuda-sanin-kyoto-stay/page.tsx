@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             山あいに佇む赤い石州瓦と白壁の城下町「山陰の小京都・津和野」。殿町通りの掘割を悠々と泳ぐ色鮮やかな錦鯉。朱塗りの千本鳥居が連なる太皷谷稲成神社。夜には大迫力の伝統芸能「石見神楽」を鑑賞し、素朴な郷土料理を味わう旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"島根・津和野＆益田：山陰の小京都・掘割の錦鯉＆太皷谷稲成・石見神楽宿 厳選ガイド"} url={"https://croud-travel.pages.dev/shimane-tsuwano-masuda-sanin-kyoto-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -231,6 +235,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"島根・津和野＆益田：山陰の小京都・掘割の錦鯉＆太皷谷稲成・石見神楽宿 厳選ガイド"} url={"https://croud-travel.pages.dev/shimane-tsuwano-masuda-sanin-kyoto-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="shimane-tsuwano-masuda-sanin-kyoto-stay" />
 </div>
   );

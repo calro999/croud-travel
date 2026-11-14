@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -12,7 +13,7 @@ export const metadata: Metadata = {
     title: '小樽運河ひとり旅・レトロ温泉おこもり：ガス灯揺れる石造り倉庫街・自家源泉の湯・極上握り寿司！歴史と硝子の街に癒やされる厳選3宿',
     description: '新千歳空港から快速エアポートで直通約75分！小樽駅徒歩約1分で自家源泉と海鮮丼朝食が自慢の「ドーミーインPREMIUM小樽」、小樽運河の目の前に佇みノスタルジックな明治の風情が薫る「運河の宿 おたる ふる川」、大正ロマン漂う運河沿いの名宿「ホテルソニア小樽」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/otaru-canal-solo-retreat-onsen-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -26,12 +27,12 @@ export default function ArticlePage() {
     description: '新千歳空港から快速エアポートで直通約75分！小樽駅徒歩約1分で自家源泉と海鮮丼朝食が自慢の「ドーミーインPREMIUM小樽」、小樽運河の目の前に佇みノスタルジックな明治の風情が薫る「運河の宿 おたる ふる川」、大正ロマン漂う運河沿いの名宿「ホテルソニア小樽」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル ひとり旅・出張調査班',
+      name: '旅宿クラウド ひとり旅・出張調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -75,7 +76,7 @@ export default function ArticlePage() {
         <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">「小樽運河ひとり旅・レトロ温泉おこもり」ガス灯揺れる石造り倉庫街・自家源泉の湯・極上握り寿司！歴史と硝子の街に癒やされる厳選3宿</h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.13 更新</time>
-          <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>
+          <span>執筆：旅宿クラウド ひとり旅・出張調査班</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式API提携</span>
         </div>
 
@@ -92,6 +93,9 @@ export default function ArticlePage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"小樽運河ひとり旅・レトロ温泉おこもり：ガス灯揺れる石造り倉庫街・自家源泉の湯・極上握り寿司！歴史と硝子の街に癒やされる厳選3宿"} url={"https://croud-travel.pages.dev/otaru-canal-solo-retreat-onsen-stay/"} />
+      </div>
 
       {/* 目次インデックス */}
       <section className="max-w-4xl mx-auto px-4 sm:px-6 mb-12">
@@ -464,6 +468,9 @@ export default function ArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"小樽運河ひとり旅・レトロ温泉おこもり：ガス灯揺れる石造り倉庫街・自家源泉の湯・極上握り寿司！歴史と硝子の街に癒やされる厳選3宿"} url={"https://croud-travel.pages.dev/otaru-canal-solo-retreat-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="otaru-canal-solo-retreat-onsen-stay" />
 </div>
         </section>

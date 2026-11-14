@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -185,6 +186,9 @@ export default function KamakuraTsurugaokaPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【鎌倉・鶴岡八幡宮初詣＆湘南の宝石】冬牡丹咲く古都の祈りと江の島イルミネーション！小町通り冬グルメ＆相模湾絶景宿5選"} url={"https://croud-travel.pages.dev/winter-kanagawa-kamakura-tsurugaoka-hachimangu-hatsumode-enoshima-stay/"} />
+      </div>
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12">
@@ -737,6 +741,10 @@ export default function KamakuraTsurugaokaPage() {
             </Link>
           </div>
         </section>
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【鎌倉・鶴岡八幡宮初詣＆湘南の宝石】冬牡丹咲く古都の祈りと江の島イルミネーション！小町通り冬グルメ＆相模湾絶景宿5選"} url={"https://croud-travel.pages.dev/winter-kanagawa-kamakura-tsurugaoka-hachimangu-hatsumode-enoshima-stay/"} />
+      </div>
       </main>
     </div>
   );

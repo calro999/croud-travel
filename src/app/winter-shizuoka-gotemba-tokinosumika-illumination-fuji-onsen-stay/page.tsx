@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -185,6 +186,9 @@ export default function GotembaTokinosumikaPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【御殿場・時之栖イルミネーション】ひかりのすみか550万球の光の回廊と白銀の富士山！クラフトビール＆天然温泉を満喫する冬の名宿5選"} url={"https://croud-travel.pages.dev/winter-shizuoka-gotemba-tokinosumika-illumination-fuji-onsen-stay/"} />
+      </div>
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12">
@@ -737,6 +741,10 @@ export default function GotembaTokinosumikaPage() {
             </Link>
           </div>
         </section>
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【御殿場・時之栖イルミネーション】ひかりのすみか550万球の光の回廊と白銀の富士山！クラフトビール＆天然温泉を満喫する冬の名宿5選"} url={"https://croud-travel.pages.dev/winter-shizuoka-gotemba-tokinosumika-illumination-fuji-onsen-stay/"} />
+      </div>
       </main>
     </div>
   );

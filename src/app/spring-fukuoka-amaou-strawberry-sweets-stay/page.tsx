@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             「あかい・まるい・おおきい・うまい」最高峰ブランド苺「博多あまおう」を贅沢に使った特製パフェやスイーツ！W美肌の湯として名高い原鶴温泉や小京都・秋月の風情ある名宿で、福岡の美食と美肌湯に癒やされる旅。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"あまおう苺スイーツ＆博多水炊き：福岡特産いちごパフェと原鶴・秋月温泉の美食名湯宿5選"} url={"https://croud-travel.pages.dev/spring-fukuoka-amaou-strawberry-sweets-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"あまおう苺スイーツ＆博多水炊き：福岡特産いちごパフェと原鶴・秋月温泉の美食名湯宿5選"} url={"https://croud-travel.pages.dev/spring-fukuoka-amaou-strawberry-sweets-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="spring-fukuoka-amaou-strawberry-sweets-stay" />
 </div>
         </section>

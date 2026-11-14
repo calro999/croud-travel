@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -169,6 +170,9 @@ export default function FeaturePage() {
             </div>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"薩摩の小京都・知覧武家屋敷庭園と開聞岳絶景：2026-2027年冬の鹿児島・南薩摩＆枕崎"} url={"https://croud-travel.pages.dev/winter-kagoshima-chiran-samurai-makurazaki-katsuo-kaimondake-kurobuta-stay/"} />
+      </div>
 
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 mt-12 space-y-16">
           {/* イントロダクション紀行文 */}
@@ -745,6 +749,10 @@ export default function FeaturePage() {
             </ul>
           </section>
         </div>
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"薩摩の小京都・知覧武家屋敷庭園と開聞岳絶景：2026-2027年冬の鹿児島・南薩摩＆枕崎"} url={"https://croud-travel.pages.dev/winter-kagoshima-chiran-samurai-makurazaki-katsuo-kaimondake-kurobuta-stay/"} />
+      </div>
       </article>
     </>
   );

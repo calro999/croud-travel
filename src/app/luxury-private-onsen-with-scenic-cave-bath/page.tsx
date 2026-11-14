@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             天然の岩壁をくり抜いた洞窟から自噴する神秘の名湯！間接照明に照らされる岩肌と湯けむりが織りなす非日常の幻想美。自然のパワーを肌で感じる、全国屈指の洞窟風呂名宿を厳選してご紹介。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"神秘の洞窟風呂：岩肌に囲まれる非日常空間！源泉湧き出る秘境の名湯隠れ宿5選"} url={"https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-cave-bath/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"神秘の洞窟風呂：岩肌に囲まれる非日常空間！源泉湧き出る秘境の名湯隠れ宿5選"} url={"https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-cave-bath/"} />
+      </div>
       <HubRelatedPosts currentSlug="luxury-private-onsen-with-scenic-cave-bath" />
 </div>
         </section>

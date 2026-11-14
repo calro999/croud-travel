@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -169,6 +170,9 @@ export default function FeaturePage() {
             </div>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"肥前浜宿の酒蔵通り重伝建と日本三大稲荷・祐徳稲荷神社新春初詣：2026-2027年冬の佐賀・鹿島＆嬉野"} url={"https://croud-travel.pages.dev/winter-saga-kashima-hizenhamashuku-yutoku-inari-hatsumode-sagagyu-stay/"} />
+      </div>
 
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 mt-12 space-y-16">
           {/* イントロダクション紀行文 */}
@@ -745,6 +749,10 @@ export default function FeaturePage() {
             </ul>
           </section>
         </div>
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"肥前浜宿の酒蔵通り重伝建と日本三大稲荷・祐徳稲荷神社新春初詣：2026-2027年冬の佐賀・鹿島＆嬉野"} url={"https://croud-travel.pages.dev/winter-saga-kashima-hizenhamashuku-yutoku-inari-hatsumode-sagagyu-stay/"} />
+      </div>
       </article>
     </>
   );

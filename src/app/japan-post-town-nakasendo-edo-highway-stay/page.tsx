@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function HistoryHeritageHubPage() {
             石畳の坂道に並ぶ格子戸の旅籠、軒先に吊るされた行灯の揺らめく灯り。日本で最初に伝統的建造物群保存地区に選定された「妻籠宿」、島崎藤村の故郷「馬籠宿」、日本最長の宿場「奈良井宿」。江戸の旅人気分で浸かる木曽路の旅へ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"中山道・木曽路の宿場町＆旧街道宿：妻籠宿・馬籠宿・奈良井宿・大内宿 厳選ガイド"} url={"https://croud-travel.pages.dev/japan-post-town-nakasendo-edo-highway-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function HistoryHeritageHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"中山道・木曽路の宿場町＆旧街道宿：妻籠宿・馬籠宿・奈良井宿・大内宿 厳選ガイド"} url={"https://croud-travel.pages.dev/japan-post-town-nakasendo-edo-highway-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="japan-post-town-nakasendo-edo-highway-stay" />
 </div>
   );

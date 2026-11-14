@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import FurusatoStepSection from "@/app/components/FurusatoStepSection";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
@@ -96,6 +97,9 @@ export default function FurusatoRound63ArticlePage() {
             </Link>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"日本三大漆器＆漆黒と金蒔絵の雅・作家の器で味わう名旅館宿×ふるさと納税厳選ガイド輪島・会津・山中"} url={"https://croud-travel.pages.dev/furusato-tax-three-great-lacquer-craft-historic-inns-stay/"} />
+      </div>
 
         {/* 3つの魅力・深掘り解説 */}
         <section className="mb-16">
@@ -500,6 +504,9 @@ export default function FurusatoRound63ArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"日本三大漆器＆漆黒と金蒔絵の雅・作家の器で味わう名旅館宿×ふるさと納税厳選ガイド輪島・会津・山中"} url={"https://croud-travel.pages.dev/furusato-tax-three-great-lacquer-craft-historic-inns-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-three-great-lacquer-craft-historic-inns-stay" />
 </div>
         </section>

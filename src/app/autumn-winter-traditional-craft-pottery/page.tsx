@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -113,6 +114,9 @@ export default function SeasonalFeaturePage() {
             手になじむ陶器の質感、鮮やかな色彩の絵付け、何百年も受け継がれてきた職人技。ギャラリーや窯元をのんびり歩いて自分だけの一器と出逢い、夜は美しい器に盛り付けられた郷土会席と温泉に酔いしれる旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【用の美】伝統工芸・陶芸の里めぐり＆美肌温泉旅館 完全ガイド"} url={"https://croud-travel.pages.dev/autumn-winter-traditional-craft-pottery/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function SeasonalFeaturePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【用の美】伝統工芸・陶芸の里めぐり＆美肌温泉旅館 完全ガイド"} url={"https://croud-travel.pages.dev/autumn-winter-traditional-craft-pottery/"} />
+      </div>
       <HubRelatedPosts currentSlug="autumn-winter-traditional-craft-pottery" />
 </div>
   );

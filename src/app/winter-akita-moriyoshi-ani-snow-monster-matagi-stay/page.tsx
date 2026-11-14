@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
     title: '【11・12・1月秋田】日本三大樹氷・森吉山スノーモンスターと秋田内陸線雪景色・比内地鶏きりたんぽ鍋＆マタギの秘湯を巡る名宿5選',
     description: '11月から1月、秋田県北秋田市の秀峰・森吉山（標高1,454m）と阿仁地区は、東北屈指の白銀の世界へと変貌を遂げます。',
     url: 'https://croud-travel.pages.dev/winter-akita-moriyoshi-ani-snow-monster-matagi-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     images: [
       {
         url: 'https://img.travel.rakuten.co.jp/share/HOTEL/43897/43897.jpg',
@@ -48,7 +49,7 @@ export default function AkitaMoriyoshiAniPage() {
         "isPartOf": {
           "@type": "WebSite",
           "@id": "https://croud-travel.pages.dev/#website",
-          "name": "クラドトラベル",
+          "name": "旅宿クラウド",
           "url": "https://croud-travel.pages.dev"
         },
         "headline": "【11・12・1月秋田】日本三大樹氷・森吉山スノーモンスターと秋田内陸線雪景色・比内地鶏きりたんぽ鍋＆マタギの秘湯を巡る名宿5選",
@@ -58,11 +59,11 @@ export default function AkitaMoriyoshiAniPage() {
         "dateModified": "2026-10-18T00:00:00+09:00",
         "author": {
           "@type": "Organization",
-          "name": "クラドトラベル編集部"
+          "name": "旅宿クラウド編集部"
         },
         "publisher": {
           "@type": "Organization",
-          "name": "クラドトラベル",
+          "name": "旅宿クラウド",
           "url": "https://croud-travel.pages.dev",
           "logo": {
             "@type": "ImageObject",
@@ -257,6 +258,9 @@ export default function AkitaMoriyoshiAniPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月秋田】日本三大樹氷・森吉山スノーモンスターと秋田内陸線雪景色・比内地鶏きりたんぽ鍋＆マタギの秘湯を巡る名宿5選"} url={"https://croud-travel.pages.dev/winter-akita-moriyoshi-ani-snow-monster-matagi-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 mt-10 space-y-12">
@@ -363,7 +367,7 @@ export default function AkitaMoriyoshiAniPage() {
                       <a 
                         href={h.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-1.5 bg-blue-600 hover:bg-blue-700 text-white font-bold text-xs px-4 py-2 rounded-xl shadow-xs transition"
                       >
                         楽天トラベルで空室・プランを見る
@@ -560,6 +564,9 @@ export default function AkitaMoriyoshiAniPage() {
               <p className="font-bold text-stone-800 line-clamp-2">幻想の樹氷ライトアップと強酸性美肌硫黄泉・極上山形牛を味わう名宿</p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月秋田】日本三大樹氷・森吉山スノーモンスターと秋田内陸線雪景色・比内地鶏きりたんぽ鍋＆マタギの秘湯を巡る名宿5選"} url={"https://croud-travel.pages.dev/winter-akita-moriyoshi-ani-snow-monster-matagi-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-akita-moriyoshi-ani-snow-monster-matagi-stay" />
 </div>
         </section>

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -197,6 +198,9 @@ export default function SilverWeekGlampingBonfireMarshmallowBarPage() {
           </div>
         </div>
       </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"焚き火BAR＆焼きマシュマロ体験：秋の夜長をウイスキーと楽しむ！大人の焚き火グランピング特集"} url={"https://croud-travel.pages.dev/silver-week-glamping-bonfire-marshmallow-bar-guide/"} />
+      </div>
 
       {/* 楽天トラベルスペシャルクーポンバナー */}
       <SpecialCouponBanner variant="prominent" />
@@ -392,6 +396,9 @@ export default function SilverWeekGlampingBonfireMarshmallowBarPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"焚き火BAR＆焼きマシュマロ体験：秋の夜長をウイスキーと楽しむ！大人の焚き火グランピング特集"} url={"https://croud-travel.pages.dev/silver-week-glamping-bonfire-marshmallow-bar-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="silver-week-glamping-bonfire-marshmallow-bar-guide" />
 </div>
   );

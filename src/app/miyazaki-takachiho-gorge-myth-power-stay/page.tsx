@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -107,6 +108,9 @@ export default function MicroTouristHubPage() {
             日本神話の舞台として古事記や日本書紀に記された神々の降臨の地「高千穂（たかちほ）」。阿蘇の火砕流が削り出だした高さ100mの柱状節理の断崖と、エメラルドグリーンの水面に流れ落ちる名瀑「真名井の滝」。天照大神が隠れた洞窟を祀る天岩戸神社、無数の祈りの積石が並ぶ神秘の「天安河原」。日本古来の信仰と神秘的なエネルギーに包まれる、九州最高峰のパワースポットステイへご案内します。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"宮崎・高千穂峡＆天岩戸：真名井の滝・天安河原＆神話宿 厳選ガイド"} url={"https://croud-travel.pages.dev/miyazaki-takachiho-gorge-myth-power-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"宮崎・高千穂峡＆天岩戸：真名井の滝・天安河原＆神話宿 厳選ガイド"} url={"https://croud-travel.pages.dev/miyazaki-takachiho-gorge-myth-power-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="miyazaki-takachiho-gorge-myth-power-stay" />
 </div>
   );

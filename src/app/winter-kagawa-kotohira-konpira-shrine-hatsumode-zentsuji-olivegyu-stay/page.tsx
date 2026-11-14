@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import Link from 'next/link';
 import type { Metadata } from 'next';
@@ -299,6 +300,9 @@ export default function KagawaKotohiraWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月香川】四国随一の初詣「金刀比羅宮」785段石段と弘法大師誕生の地「善通寺」新春祈願！讃岐オリーブ牛＆こんぴら温泉郷名宿5選"} url={"https://croud-travel.pages.dev/winter-kagawa-kotohira-konpira-shrine-hatsumode-zentsuji-olivegyu-stay/"} />
+      </div>
 
       {/* Summary Box */}
       <section className="max-w-5xl mx-auto px-4 -mt-8 relative z-20">
@@ -463,7 +467,7 @@ export default function KagawaKotohiraWinterPage() {
                     <a
                       href={hotel.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center gap-1.5 px-5 py-2.5 bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-700 hover:to-amber-800 text-white font-bold text-xs md:text-sm rounded-xl shadow-sm transition"
                     >
                       <span>楽天トラベルでプランを見る</span>
@@ -626,6 +630,9 @@ export default function KagawaKotohiraWinterPage() {
               トップページへ戻る
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月香川】四国随一の初詣「金刀比羅宮」785段石段と弘法大師誕生の地「善通寺」新春祈願！讃岐オリーブ牛＆こんぴら温泉郷名宿5選"} url={"https://croud-travel.pages.dev/winter-kagawa-kotohira-konpira-shrine-hatsumode-zentsuji-olivegyu-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-kagawa-kotohira-konpira-shrine-hatsumode-zentsuji-olivegyu-stay" />
 </div>
         </section>

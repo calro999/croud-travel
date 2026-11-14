@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Image from 'next/image';
@@ -63,12 +64,14 @@ export default function KumamotoBudgetAutumnPage() {
             熊本は阿蘇の伏流水に恵まれた日本屈指の「名水の都」。全国のサウナーが巡礼に訪れる「湯らっくす」の阿蘇天然水水風呂や、天然温泉大浴場付きのホテルに宿泊すれば、旅の疲れが吹き飛びます。あか牛丼や馬刺し、濃厚な熊本ラーメンを味わう秋の満喫旅をお楽しみください。
           </p>
         </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"秋の熊本×格安：熊本城の巨大銀杏と阿蘇すすき草原！天然温泉＆サウナ付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」！天然温泉＆サウナ付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」"} url={"https://croud-travel.pages.dev/autumn-budget-kumamoto-castle-ginkgo-onsen-sauna-hotels-stay/"} />
+      </div>
 
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-teal-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！熊本の温泉・サウナ付き格安ホテル5選</h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">楽天トラベル高評価！熊本の温泉・サウナ付き格安ホテル5選</h2>
 
           <div className="space-y-8">
 
@@ -498,6 +501,9 @@ export default function KumamotoBudgetAutumnPage() {
               </div>
             </div>
           </div></section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"秋の熊本×格安：熊本城の巨大銀杏と阿蘇すすき草原！天然温泉＆サウナ付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」！天然温泉＆サウナ付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」"} url={"https://croud-travel.pages.dev/autumn-budget-kumamoto-castle-ginkgo-onsen-sauna-hotels-stay/"} />
+      </div>
         <div className="max-w-4xl mx-auto px-4 sm:px-6">
           <HubRelatedPosts currentSlug="autumn-budget-kumamoto-castle-ginkgo-onsen-sauna-hotels-stay" />
         </div>

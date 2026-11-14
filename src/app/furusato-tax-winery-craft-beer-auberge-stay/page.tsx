@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
@@ -36,7 +37,7 @@ export default function Page() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "【ワイン＆地ビール×ふるさと納税】ぶどう畑を望むワイナリーホテル＆クラフト醸造オーベルジュ旅 | クラウドトラベル",
+    "headline": "【ワイン＆地ビール×ふるさと納税】ぶどう畑を望むワイナリーホテル＆クラフト醸造オーベルジュ旅 | 旅宿クラウド",
     "description": "ワイン愛好家・クラフトビール派必見！山梨・勝沼、北海道・富良野＆余市のぶどう畑を一望するワイナリー併設宿や美食オーベルジュを厳選。テロワールを味わい尽くす大人の美酒ステイをふるさと納税で賢く予約。",
     "url": "https://croud-travel.pages.dev/furusato-tax-winery-craft-beer-auberge-stay/",
     "publisher": {
@@ -50,7 +51,7 @@ export default function Page() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "【ワイン＆地ビール×ふるさと納税】ぶどう畑を望むワイナリーホテル＆クラフト醸造オーベルジュ旅 | クラウドトラベル", "item": "https://croud-travel.pages.dev/furusato-tax-winery-craft-beer-auberge-stay/" }
+      { "@type": "ListItem", "position": 2, "name": "【ワイン＆地ビール×ふるさと納税】ぶどう畑を望むワイナリーホテル＆クラフト醸造オーベルジュ旅 | 旅宿クラウド", "item": "https://croud-travel.pages.dev/furusato-tax-winery-craft-beer-auberge-stay/" }
     ]
   };
 
@@ -97,6 +98,9 @@ export default function Page() {
             </a>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"ワイン＆地ビールをふるさと納税でお得に旅する！ぶどう畑を望むワイナリーホテル＆クラフト醸造オーベルジュ旅"} url={"https://croud-travel.pages.dev/furusato-tax-winery-craft-beer-auberge-stay/"} />
+      </div>
 
         {/* 制度解説・攻略ポイントセクション */}
         <section className="mb-16 bg-white rounded-3xl shadow-sm border border-stone-200/80 p-6 md:p-10">
@@ -393,8 +397,7 @@ export default function Page() {
 
         {/* よくある質問 FAQ */}
         <section className="mb-16 bg-white rounded-3xl shadow-sm border border-stone-200/80 p-6 md:p-10">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2"><span className="w-2.5 h-7 bg-amber-700 rounded-full inline-block"></span>
-            よくある質問・ふるさと納税トラベルクーポンの疑問を解消</h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">よくある質問・ふるさと納税トラベルクーポンの疑問を解消</h2>
           <div className="space-y-4">
             
             <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
@@ -628,6 +631,9 @@ export default function Page() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"ワイン＆地ビールをふるさと納税でお得に旅する！ぶどう畑を望むワイナリーホテル＆クラフト醸造オーベルジュ旅"} url={"https://croud-travel.pages.dev/furusato-tax-winery-craft-beer-auberge-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-winery-craft-beer-auberge-stay" />
 </div>
         </section>

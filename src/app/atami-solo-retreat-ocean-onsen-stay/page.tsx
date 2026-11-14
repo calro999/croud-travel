@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -13,7 +14,7 @@ export const metadata: Metadata = {
     title: '熱海ひとり旅・海望おこもり：相模湾インフィニティ露天・創業200余年の老舗名湯・贅沢海の幸！都心から45分の極上温泉宿 厳選3選',
     description: '東京駅から東海道新幹線でわずか約45分！相模湾のパノラマと夜景を望む「熱海後楽園ホテル」、創業200年超の歴史と名湯・部屋食を誇る名門「古屋旅館」、自家源泉と昭和レトロなもてなしが心地よい「湯宿一番地」を楽天APIデータに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/atami-solo-retreat-ocean-onsen-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -27,12 +28,12 @@ export default function ArticlePage() {
     description: '東京駅から東海道新幹線でわずか約45分！相模湾のパノラマと夜景を望む「熱海後楽園ホテル」、創業200年超の歴史と名湯・部屋食を誇る名門「古屋旅館」、自家源泉と昭和レトロなもてなしが心地よい「湯宿一番地」を楽天APIデータに基づき徹底比較。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル ひとり旅・出張調査班',
+      name: '旅宿クラウド ひとり旅・出張調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -76,7 +77,7 @@ export default function ArticlePage() {
         <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">「熱海ひとり旅・海望おこもり」相模湾インフィニティ露天・創業200余年の老舗名湯・贅沢海の幸！都心から45分の極上温泉宿 厳選3選</h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.12 更新</time>
-          <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>
+          <span>執筆：旅宿クラウド ひとり旅・出張調査班</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式API提携</span>
         </div>
 
@@ -93,6 +94,9 @@ export default function ArticlePage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"熱海ひとり旅・海望おこもり：相模湾インフィニティ露天・創業200余年の老舗名湯・贅沢海の幸！都心から45分の極上温泉宿 厳選3選"} url={"https://croud-travel.pages.dev/atami-solo-retreat-ocean-onsen-stay/"} />
+      </div>
 
       {/* 目次インデックス */}
       <section className="max-w-4xl mx-auto px-4 sm:px-6 mb-12">
@@ -462,6 +466,9 @@ export default function ArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"熱海ひとり旅・海望おこもり：相模湾インフィニティ露天・創業200余年の老舗名湯・贅沢海の幸！都心から45分の極上温泉宿 厳選3選"} url={"https://croud-travel.pages.dev/atami-solo-retreat-ocean-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="atami-solo-retreat-ocean-onsen-stay" />
 </div>
         </section>

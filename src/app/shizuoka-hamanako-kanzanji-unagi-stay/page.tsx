@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             海と淡水が交わる豊かな汽水湖「浜名湖」と、湖畔に湧く名湯「舘山寺（かんざんじ）温泉」。日本唯一の湖上ロープウェイから見下ろす360度大パノラマ。香ばしい煙を上げる本場の「浜名湖うなぎ」と浜松餃子を味わう旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"静岡・浜名湖＆舘山寺温泉：湖畔パノラマ・ロープウェイ＆浜名湖うなぎ宿 厳選ガイド"} url={"https://croud-travel.pages.dev/shizuoka-hamanako-kanzanji-unagi-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -392,6 +396,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"静岡・浜名湖＆舘山寺温泉：湖畔パノラマ・ロープウェイ＆浜名湖うなぎ宿 厳選ガイド"} url={"https://croud-travel.pages.dev/shizuoka-hamanako-kanzanji-unagi-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="shizuoka-hamanako-kanzanji-unagi-stay" />
 </div>
   );

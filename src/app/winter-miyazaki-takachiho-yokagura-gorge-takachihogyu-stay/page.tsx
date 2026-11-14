@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月宮崎・神話の里高千穂の冬の夜神楽と真名井の滝】名物A5高千穂牛ステーキ＆かっぽ鶏・竹筒かっぽ酒を味わうパワースポット名宿5選',
     description: '11月中旬から翌年2月にかけて、日本神話「天孫降臨」の舞台である宮崎県高千穂町での魅力とおすすめ宿泊施設を詳しくご紹介します。',
     url: 'https://croud-travel.pages.dev/winter-miyazaki-takachiho-yokagura-gorge-takachihogyu-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -170,7 +171,7 @@ export default function WinterMiyazakiTakachihoPage() {
         'isPartOf': {
           '@type': 'WebSite',
           '@id': 'https://croud-travel.pages.dev/#website',
-          'name': 'クラドトラベル',
+          'name': '旅宿クラウド',
           'url': 'https://croud-travel.pages.dev/'
         },
         'headline': "【11・12月宮崎・神話の里高千穂の冬の夜神楽と真名井の滝】名物A5高千穂牛ステーキ＆かっぽ鶏・竹筒かっぽ酒を味わうパワースポット名宿5選",
@@ -181,7 +182,7 @@ export default function WinterMiyazakiTakachihoPage() {
         'dateModified': '2026-10-25T00:00:00+09:00',
         'publisher': {
           '@type': 'Organization',
-          'name': 'クラドトラベル編集部',
+          'name': '旅宿クラウド編集部',
           'url': 'https://croud-travel.pages.dev/'
         }
       },
@@ -273,6 +274,9 @@ export default function WinterMiyazakiTakachihoPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月宮崎・神話の里高千穂の冬の夜神楽と真名井の滝】名物A5高千穂牛ステーキ＆かっぽ鶏・竹筒かっぽ酒を味わうパワースポット名宿5選"} url={"https://croud-travel.pages.dev/winter-miyazaki-takachiho-yokagura-gorge-takachihogyu-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
@@ -397,7 +401,7 @@ export default function WinterMiyazakiTakachihoPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug hover:text-emerald-800 transition"><a href={hotel.url} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1.5">
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug hover:text-emerald-800 transition"><a href={hotel.url} target="_blank" rel="sponsored noopener noreferrer" className="inline-flex items-center gap-1.5">
                           {hotel.name}
                           <ExternalLink className="w-4 h-4 text-stone-400 inline" />
                         </a></h3>
@@ -440,7 +444,7 @@ export default function WinterMiyazakiTakachihoPage() {
                       <a
                         href={hotel.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center justify-center w-full sm:w-auto px-6 py-3 rounded-xl bg-gradient-to-r from-emerald-800 to-teal-950 text-white text-xs sm:text-sm font-bold shadow-md hover:from-emerald-900 hover:to-stone-950 hover:shadow-lg transition-all gap-2"
                       >
                         <span>楽天トラベルでプラン・空室・最新料金を見る</span>
@@ -610,6 +614,9 @@ export default function WinterMiyazakiTakachihoPage() {
               </p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月宮崎・神話の里高千穂の冬の夜神楽と真名井の滝】名物A5高千穂牛ステーキ＆かっぽ鶏・竹筒かっぽ酒を味わうパワースポット名宿5選"} url={"https://croud-travel.pages.dev/winter-miyazaki-takachiho-yokagura-gorge-takachihogyu-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-miyazaki-takachiho-yokagura-gorge-takachihogyu-stay" />
 </div>
         </section>

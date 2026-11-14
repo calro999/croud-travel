@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             標高1,269m、天空の湖・中禅寺湖。雄大な男体山が湖面に映り、華厳の滝の大迫力の水しぶきが舞う奥日光。静寂と大自然に抱かれる極上のリゾートステイ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【奥日光・中禅寺湖】華厳の滝＆湖畔リゾート極上宿 完全ガイド"} url={"https://croud-travel.pages.dev/nikko-chuzenji-lake-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【奥日光・中禅寺湖】華厳の滝＆湖畔リゾート極上宿 完全ガイド"} url={"https://croud-travel.pages.dev/nikko-chuzenji-lake-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="nikko-chuzenji-lake-stay" />
 </div>
   );

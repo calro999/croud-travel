@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -7,7 +8,7 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '鹿児島・霧島温泉郷＆霧島神宮！天孫降臨の山紅葉と黒豚・黒毛和牛会席｜ふるさと納税で泊まれる名宿ガイド',
   description: '10月・11月の鹿児島・霧島温泉郷＆霧島神宮を特集。錦江湾と桜島を望む山々の紅葉パノラマ、もくもくと湯煙が立ち上る白濁硫黄泉、本場鹿児島黒豚・黒毛和牛を味わう厳選3宿と楽天ふるさと納税トラベルクーポンの徹底解説。',
-  keywords: ["鹿児島", "霧島温泉郷", "黒毛和牛会席", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル"],
+  keywords: ["鹿児島", "霧島温泉郷", "黒毛和牛会席", "旅宿クラウドふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-kagoshima-kirishima-onsen-autumn-stay/",
   },
@@ -15,7 +16,7 @@ export const metadata: Metadata = {
     title: '鹿児島・霧島温泉郷：天孫降臨の神話の森＆硫黄白濁湯！鹿児島黒豚・黒牛と渓谷絶景の極上宿',
     description: '10月・11月の鹿児島・霧島温泉郷＆霧島神宮を特集。錦江湾と桜島を望む山々の紅葉パノラマ、もくもくと湯煙が立ち上る白濁硫黄泉、本場鹿児島黒豚・黒毛和牛を味わう厳選3宿と楽天ふるさと納税トラベルクーポンの徹底解説。',
     url: 'https://croud-travel.pages.dev/furusato-tax-kagoshima-kirishima-onsen-autumn-stay/',
-    siteName: 'クラウドトラベル (croud-travel.pages.dev)',
+    siteName: '旅宿クラウド (croud-travel.pages.dev)',
     type: 'article',
     locale: 'ja_JP',
   },
@@ -29,11 +30,11 @@ export default function Page() {
     "description": "10月・11月の鹿児島・霧島温泉郷＆霧島神宮を特集。錦江湾と桜島を望む山々の紅葉パノラマ、もくもくと湯煙が立ち上る白濁硫黄泉、本場鹿児島黒豚・黒毛和牛を味わう厳選3宿と楽天ふるさと納税トラベルクーポンの徹底解説。",
     "author": {
       "@type": "Organization",
-      "name": "クラウドトラベル編集部"
+      "name": "旅宿クラウド編集部"
     },
     "publisher": {
       "@type": "Organization",
-      "name": "クラウドトラベル",
+      "name": "旅宿クラウド",
       "logo": {
         "@type": "ImageObject",
         "url": "https://croud-travel.pages.dev/logo.png"
@@ -89,26 +90,11 @@ export default function Page() {
       />
 
       {/* ヘッダーナビゲーション */}
-      <header className="bg-white border-b border-stone-200 sticky top-0 z-50">
-        <div className="max-w-5xl mx-auto px-4 py-3 flex items-center justify-between">
-          <Link href="/" className="text-xl font-bold tracking-tight text-emerald-800 hover:opacity-80 transition">
-            クラウドトラベル
-          </Link>
-          <div className="flex items-center space-x-4 text-xs font-medium text-stone-600">
-            <Link href="/" className="hover:text-emerald-700">トップ</Link>
-            <span>/</span>
-            <Link href="/sitemap/" className="hover:text-emerald-700">特集一覧</Link>
-            <span>/</span>
-            <span className="text-stone-400">秋のふるさと納税特集</span>
-          </div>
-        </div>
-      </header>
-
       {/* ヒーローセクション */}
       <section className="relative bg-stone-900 text-white py-16 px-4 md:py-24">
         <div className="max-w-4xl mx-auto text-center space-y-6">
           <div className="inline-block bg-amber-500 text-stone-950 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
-            10月・11月秋季限定 絶景＆味覚特集
+            年末駆け込み＆冬休み特集 絶景＆味覚特集
           </div>
           <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">「鹿児島・霧島温泉郷」天孫降臨の神話の森＆硫黄白濁湯！鹿児島黒豚・黒牛と渓谷絶景の極上宿</h1>
           <p className="text-sm md:text-base text-stone-300 max-w-2xl mx-auto leading-relaxed">
@@ -117,16 +103,19 @@ export default function Page() {
           <div className="flex flex-wrap justify-center gap-3 pt-2 text-xs text-stone-300">
             <span className="bg-stone-800/80 px-3 py-1 rounded border border-stone-700">エリア: 鹿児島・霧島温泉郷</span>
             <span className="bg-stone-800/80 px-3 py-1 rounded border border-stone-700">見頃: 10月下旬〜11月下旬</span>
-            <span className="bg-stone-800/80 px-3 py-1 rounded border border-stone-700">楽天ポイント還元対応</span>
+            <span className="bg-stone-800/80 px-3 py-1 rounded border border-stone-700">有効期限最長3年・あとから割引対応</span>
           </div>
         </div>
       </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"鹿児島・霧島温泉郷＆霧島神宮！天孫降臨の山紅葉と黒豚・黒毛和牛会席"} url={"https://croud-travel.pages.dev/furusato-tax-kagoshima-kirishima-onsen-autumn-stay/"} />
+      </div>
 
       {/* メインコンテンツ */}
       <main className="max-w-4xl mx-auto px-4 py-12 space-y-12 leading-relaxed">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"鹿児島・霧島温泉郷＆霧島神宮！天孫降臨の山紅葉と黒豚・黒毛和牛会席｜ふるさと納税で泊まれる名宿ガイド | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-kagoshima-kirishima-onsen-autumn-stay/"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"鹿児島・霧島温泉郷＆霧島神宮！天孫降臨の山紅葉と黒豚・黒毛和牛会席｜ふるさと納税で泊まれる名宿ガイド | 旅宿クラウドふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-kagoshima-kirishima-onsen-autumn-stay/"}]}) }}
       />
         {/* イントロダクション */}
         <section className="bg-white p-6 md:p-8 rounded-xl shadow-sm border border-stone-200 space-y-4">
@@ -139,9 +128,9 @@ export default function Page() {
           <div className="bg-amber-50 border border-amber-200 p-4 rounded-lg mt-4">
             <h3 className="font-bold text-amber-900 text-sm mb-1">【秋旅のポイント】ふるさと納税トラベルクーポンの特徴</h3>
             <ul className="list-disc list-inside text-xs md:text-sm text-amber-800 space-y-1">
-              <li>寄付金額に応じた宿泊補助（最大30%相当のクーポン付与）（鹿児島・霧島温泉郷＆霧島神宮）</li>
-              <li>楽天ポイントも通常通り付与（お買い物マラソンやSPUでさらにお得）（鹿児島・霧島温泉郷＆霧島神宮）</li>
-              <li>予約時に即時利用可能で、現地での支払い負担を大幅に軽減（鹿児島・霧島温泉郷＆霧島神宮）</li>
+              <li>寄付金額に応じた宿泊補助（最大30%相当のクーポン付与）</li>
+              <li>有効期限は最長3年間！12月31日までの寄附で冬休み・年末年始・春休みの旅行にも使える</li>
+              <li>予約時に即時利用可能で、現地での支払い負担を大幅に軽減</li>
             </ul>
           </div>
         </section>
@@ -318,7 +307,7 @@ export default function Page() {
 
         {/* 1泊2日おすすめモデルコース */}
         <section className="bg-white p-6 md:p-8 rounded-xl shadow-sm border border-stone-200 space-y-6">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 border-l-4 border-amber-600 pl-3">【秋旅モデルコース】鹿児島・霧島温泉郷を満喫する1泊2日の極上周遊ルート</h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 border-l-4 border-amber-600 pl-3">【おすすめの滞在モデルコース】鹿児島・霧島温泉郷を満喫する1泊2日の極上周遊ルート</h2>
           <div className="space-y-6">
             <div className="border-l-2 border-amber-500 pl-4 space-y-3">
               <h3 className="font-bold text-stone-900 text-base">【1日目】錦秋の絶景巡りと極上温泉チェックイン</h3>
@@ -326,17 +315,17 @@ export default function Page() {
                 <li><span className="font-semibold text-amber-700">10:00</span> - 現地到着後、国宝 霧島神宮（神話の杜と鮮やかな社殿紅葉）を散策。澄んだ秋空と鮮やかな景観を堪能</li>
                 <li><span className="font-semibold text-amber-700">12:30</span> - ご当地名店にて旬の味覚（鹿児島県産黒豚のしゃぶしゃぶ、最高級鹿児島黒牛ステーキ、錦江湾直送のきびなごなど）の贅沢ランチ</li>
                 <li><span className="font-semibold text-amber-700">14:30</span> - 丸尾滝（温泉水が流れ落ちる湯煙の滝）へ移動。午後の柔らかな木漏れ日の中で絶景散策・撮影</li>
-                <li><span className="font-semibold text-amber-700">16:30</span> - 厳選宿へチェックイン。名湯で旅の疲れを心地よく癒やす（鹿児島・霧島温泉郷＆霧島神宮）</li>
-                <li><span className="font-semibold text-amber-700">18:30</span> - 料理長特製の秋会席膳。地酒とともに旬の美味に舌鼓（鹿児島・霧島温泉郷＆霧島神宮）</li>
+                <li><span className="font-semibold text-amber-700">16:30</span> - 厳選宿へチェックイン。名湯で旅の疲れを心地よく癒やす</li>
+                <li><span className="font-semibold text-amber-700">18:30</span> - 料理長特製の秋会席膳。地酒とともに旬の美味に舌鼓</li>
               </ul>
             </div>
             <div className="border-l-2 border-emerald-500 pl-4 space-y-3">
               <h3 className="font-bold text-stone-900 text-base">【2日目】朝の清涼な空気と名所・お土産巡り</h3>
               <ul className="text-sm text-stone-700 space-y-2">
-                <li><span className="font-semibold text-emerald-700">07:30</span> - 朝風呂で爽やかな目覚め＆地場産食材が並ぶ和朝食（鹿児島・霧島温泉郷＆霧島神宮）</li>
+                <li><span className="font-semibold text-emerald-700">07:30</span> - 朝風呂で爽やかな目覚め＆地場産食材が並ぶ和朝食</li>
                 <li><span className="font-semibold text-emerald-700">09:30</span> - チェックアウト後、霧島神話の里公園（桜島と錦江湾の大パノラマ）を訪問</li>
                 <li><span className="font-semibold text-emerald-700">11:30</span> - 高千穂峰・大浪池（秋のトレッキング名所）にてお土産選びと散策</li>
-                <li><span className="font-semibold text-emerald-700">13:30</span> - 旅の締めくくりに地元の名物グルメを堪能し帰路へ（鹿児島・霧島温泉郷＆霧島神宮）</li>
+                <li><span className="font-semibold text-emerald-700">13:30</span> - 旅の締めくくりに地元の名物グルメを堪能し帰路へ</li>
               </ul>
             </div>
           </div>
@@ -347,7 +336,7 @@ export default function Page() {
 
         {/* 関連特集リンク */}
         <section className="bg-amber-50/50 p-6 rounded-xl border border-amber-200 space-y-4">
-          <h2 className="text-lg font-bold text-stone-900">こちらもチェック！秋のふるさと納税特集</h2>
+          <h2 className="text-lg font-bold text-stone-900">こちらもチェック！年末駆け込みふるさと納税特集</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs md:text-sm">
             <Link href="/furusato-tax-niigata-yahiko-iwamuro-autumn-stay/" className="text-emerald-800 hover:underline">
               → 新潟・弥彦神社もみじ谷＆岩室温泉（菊まつり＆のどぐろ）特集
@@ -619,10 +608,13 @@ export default function Page() {
 
       {/* フッター */}
       <footer className="bg-stone-900 text-stone-400 py-8 px-4 text-center text-xs space-y-2 border-t border-stone-800">
-        <p>© 2026 クラウドトラベル All Rights Reserved.</p>
+        <p>© 2026 旅宿クラウド All Rights Reserved.</p>
         <p>※掲載のホテル情報・料金・評価は楽天トラベルAPIより取得した最新データに基づきます。最新の空室状況はリンク先の各プラン詳細をご確認ください。</p>
       </footer>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"鹿児島・霧島温泉郷＆霧島神宮！天孫降臨の山紅葉と黒豚・黒毛和牛会席"} url={"https://croud-travel.pages.dev/furusato-tax-kagoshima-kirishima-onsen-autumn-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-kagoshima-kirishima-onsen-autumn-stay" />
 </div>
   );

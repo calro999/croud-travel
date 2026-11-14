@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -159,6 +160,9 @@ export default function HighwayBusArticlePage() {
             東京から長野・軽井沢へ。北陸新幹線なら軽井沢約60分（片道約6,000円）、長野約85分（片道約8,300円）。高速バスなら軽井沢片道約1,500円〜、長野片道約2,500円〜！浮いた交通費で軽井沢アウトレットの買い物や信州牛ディナーを満喫。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"東京から長野・軽井沢 安く行く方法：新幹線 vs 高速バス徹底比較！片道1,500円〜の1泊2日モデルコース"} url={"https://croud-travel.pages.dev/tokyo-nagano-karuizawa-bus-vs-shinkansen/"} />
       </div>
 
       {/* 📊 交通手段・料金・所要時間の徹底比較テーブル */}
@@ -612,6 +616,9 @@ export default function HighwayBusArticlePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"東京から長野・軽井沢 安く行く方法：新幹線 vs 高速バス徹底比較！片道1,500円〜の1泊2日モデルコース"} url={"https://croud-travel.pages.dev/tokyo-nagano-karuizawa-bus-vs-shinkansen/"} />
+      </div>
       <HubRelatedPosts currentSlug="tokyo-nagano-karuizawa-bus-vs-shinkansen" />
 </div>
   );

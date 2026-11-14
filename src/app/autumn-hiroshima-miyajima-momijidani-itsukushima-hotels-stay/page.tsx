@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Image from 'next/image';
@@ -63,12 +64,14 @@ export default function MiyajimaMomijidaniAutumnPage() {
             日帰りの観光客が多い宮島ですが、本当の魅力を味わうなら**「宮島島内での宿泊」**が断然おすすめ。最終フェリーが出た後の静まり返った夜のライトアップ大鳥居や、朝露に濡れる早朝の嚴島神社参拝は、宿泊者だけの特権です。
           </p>
         </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"秋の宮島：紅葉谷公園の真紅のモミジと世界遺産・嚴島神社！秋の味覚と絶景を愛でるおすすめ名宿5選「2026最新」"} url={"https://croud-travel.pages.dev/autumn-hiroshima-miyajima-momijidani-itsukushima-hotels-stay/"} />
+      </div>
 
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-amber-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！宮島・対岸の厳選名宿5選</h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">楽天トラベル高評価！宮島・対岸の厳選名宿5選</h2>
 
           <div className="space-y-8">
 
@@ -498,6 +501,9 @@ export default function MiyajimaMomijidaniAutumnPage() {
               </div>
             </div>
           </div></section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"秋の宮島：紅葉谷公園の真紅のモミジと世界遺産・嚴島神社！秋の味覚と絶景を愛でるおすすめ名宿5選「2026最新」"} url={"https://croud-travel.pages.dev/autumn-hiroshima-miyajima-momijidani-itsukushima-hotels-stay/"} />
+      </div>
         <div className="max-w-4xl mx-auto px-4 sm:px-6">
           <HubRelatedPosts currentSlug="autumn-hiroshima-miyajima-momijidani-itsukushima-hotels-stay" />
         </div>

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Image from 'next/image';
@@ -63,12 +64,14 @@ export default function IkahoOnsenAutumnPage() {
             また、伊香保には鉄分を豊富に含み茶褐色に濁る古来の名湯「黄金（こがね）の湯」と、近年湧出したメタけい酸を多く含む透明な美肌湯「白銀（しろがね）の湯」という2つの泉質が存在します。石段街で湯の花まんじゅうを食べ歩き、温泉情緒に浸る贅沢な秋のひとときをお過ごしください。
           </p>
         </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"秋の伊香保温泉：河鹿橋の紅葉ライトアップと石段街レトロ散策！黄金の湯を楽しむおすすめ名宿5選「2026最新」"} url={"https://croud-travel.pages.dev/autumn-gunma-ikaho-onsen-kajikabashi-momiji-hotels-stay/"} />
+      </div>
 
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-amber-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！伊香保温泉の厳選宿5選</h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">楽天トラベル高評価！伊香保温泉の厳選宿5選</h2>
 
           <div className="space-y-8">
 
@@ -498,6 +501,9 @@ export default function IkahoOnsenAutumnPage() {
               </div>
             </div>
           </div></section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"秋の伊香保温泉：河鹿橋の紅葉ライトアップと石段街レトロ散策！黄金の湯を楽しむおすすめ名宿5選「2026最新」"} url={"https://croud-travel.pages.dev/autumn-gunma-ikaho-onsen-kajikabashi-momiji-hotels-stay/"} />
+      </div>
         <div className="max-w-4xl mx-auto px-4 sm:px-6">
           <HubRelatedPosts currentSlug="autumn-gunma-ikaho-onsen-kajikabashi-momiji-hotels-stay" />
         </div>

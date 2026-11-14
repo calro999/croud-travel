@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             江戸・明治の風情が残る倉吉白壁土蔵群の伝統織物「倉吉絣」と、品評会日本一に輝いた「鳥取和牛」！世界屈指の高濃度ラジウム温泉として名高い三朝温泉で、免疫力を高める湯治と美食を堪能する極上ステイ。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"倉吉絣と鳥取和牛：白壁土蔵群の伝統美と三朝温泉ラジウム名湯宿5選"} url={"https://croud-travel.pages.dev/traditional-tottori-kurayoshi-kasuri-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"倉吉絣と鳥取和牛：白壁土蔵群の伝統美と三朝温泉ラジウム名湯宿5選"} url={"https://croud-travel.pages.dev/traditional-tottori-kurayoshi-kasuri-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="traditional-tottori-kurayoshi-kasuri-stay" />
 </div>
         </section>

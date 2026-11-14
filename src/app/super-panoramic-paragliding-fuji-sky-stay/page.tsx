@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             霊峰・富士山を真正面に望みながら大空を滑空する感動のタンデムパラグライダー！風に乗って飛ぶ空中散歩を満喫した後は、富士山ビューの展望露天風呂とサウナで極上のととのいを叶える人気リゾートを厳選。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"富士山を望む空中飛行：朝霧高原タンデムパラグライダー＆富士パノラマ温泉宿5選"} url={"https://croud-travel.pages.dev/super-panoramic-paragliding-fuji-sky-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"富士山を望む空中飛行：朝霧高原タンデムパラグライダー＆富士パノラマ温泉宿5選"} url={"https://croud-travel.pages.dev/super-panoramic-paragliding-fuji-sky-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="super-panoramic-paragliding-fuji-sky-stay" />
 </div>
         </section>

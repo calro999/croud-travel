@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -13,7 +14,7 @@ export const metadata: Metadata = {
     title: '青森出張＆港町ひとり旅：青森駅近・のっけ丼・陸奥湾ホタテ・十和田牛！本州最北の拠点で整う極上ホテル 厳選3選',
     description: '本州最北のターミナル・青森県青森市！「新町通り中心・広々バスルームと快適デスク完備」の「ダイワロイネットホテル青森」、アスパム通り沿いでシモンズベッドと青森りんご朝食が自慢の「リッチモンドホテル青森」、ウォーターフロント至近の「ホテルJALシティ青森」を徹底特集。',
     url: 'https://croud-travel.pages.dev/aomori-solo-business-nokkedon-seafood-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -27,12 +28,12 @@ export default function ArticlePage() {
     description: '本州最北のターミナル・青森県青森市！「新町通り中心・広々バスルームと快適デスク完備」の「ダイワロイネットホテル青森」、アスパム通り沿いでシモンズベッドと青森りんご朝食が自慢の「リッチモンドホテル青森」、ウォーターフロント至近の「ホテルJALシティ青森」を徹底特集。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル ひとり旅・出張調査班',
+      name: '旅宿クラウド ひとり旅・出張調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -79,6 +80,9 @@ export default function ArticlePage() {
           本州最北のターミナル・青森県青森市！「新町通り中心・広々バスルームと快適デスク完備」の「ダイワロイネットホテル青森」、アスパム通り沿いでシモンズベッドと青森りんご朝食が自慢の「リッチモンドホテル青森」、ウォーターフロント至近の「ホテルJALシティ青森」を徹底特集。
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"青森出張＆港町ひとり旅：青森駅近・のっけ丼・陸奥湾ホタテ・十和田牛！本州最北の拠点で整う極上ホテル 厳選3選"} url={"https://croud-travel.pages.dev/aomori-solo-business-nokkedon-seafood-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
@@ -381,7 +385,7 @@ export default function ArticlePage() {
             href="/"
             className="inline-flex items-center gap-2 text-sm text-stone-600 hover:text-stone-900 font-medium transition-colors"
           >
-            ← クラウドトラベル トップページへ戻る
+            ← 旅宿クラウド トップページへ戻る
           </Link>
         </div>
       </div>
@@ -454,6 +458,10 @@ export default function ArticlePage() {
           </div>
         </section>
 
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"青森出張＆港町ひとり旅：青森駅近・のっけ丼・陸奥湾ホタテ・十和田牛！本州最北の拠点で整う極上ホテル 厳選3選"} url={"https://croud-travel.pages.dev/aomori-solo-business-nokkedon-seafood-stay/"} />
+      </div>
       </main>
   );
 }

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
@@ -5,7 +6,7 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '黒部峡谷トロッコ電車の紅葉パノラマ＆名湯・宇奈月温泉！峡谷露天風呂宿×ふるさと納税厳選ガイド富山',
   description: '10月中旬〜11月中旬に息をのむ絶景が広がる日本屈指の大峡谷「黒部峡谷」。オープン型トロッコ電車で巡る赤と黄色の断崖絶壁パノラマと、黒部川上流の清流を望む「宇奈月温泉の老舗旅館 延対寺荘」「ホテル黒部」「ＴＯＧＥＮ 黒部」で黒部名水ポークや富山湾の紅ズワイガニ・白えびを堪能。ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。',
-  keywords: ["名湯", "2026年最新秋旅", "富山", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
+  keywords: ["名湯", "2026年末・冬休み対応", "富山", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-unazuki-kurobe-gorge-autumn-leaves-stay/"
   },
@@ -38,7 +39,7 @@ const HOTEL_DATA = {
   unazuki_hotel_kurobe: {
     name: '黒部峡谷・宇奈月温泉　ホテル黒部',
     no: 40625,
-    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4804%2F4804.html',
+    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40625%2F40625.html',
     planUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40625%2F40625.html%26f_flg%3DPLAN',
     reviewUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D40625',
     img: 'https://img.travel.rakuten.co.jp/share/HOTEL/40625/40625.jpg',
@@ -53,7 +54,7 @@ const HOTEL_DATA = {
   unazuki_togen: {
     name: 'ＴＯＧＥＮ　黒部　宇奈月温泉',
     no: 10634,
-    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40625%2F40625.html',
+    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F10634%2F10634.html',
     planUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F10634%2F10634.html%26f_flg%3DPLAN',
     reviewUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D10634',
     img: 'https://img.travel.rakuten.co.jp/share/HOTEL/10634/10634.jpg',
@@ -72,7 +73,7 @@ export default function FeatureArticlePage() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "黒部峡谷トロッコ電車の紅葉パノラマ＆名湯・宇奈月温泉！峡谷露天風呂宿×ふるさと納税完全ガイド【2026年最新秋旅】富山",
+    "headline": "黒部峡谷トロッコ電車の紅葉パノラマ＆名湯・宇奈月温泉！峡谷露天風呂宿×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】富山",
     "description": "10月中旬〜11月中旬に息をのむ絶景が広がる日本屈指の大峡谷「黒部峡谷」。オープン型トロッコ電車で巡る赤と黄色の断崖絶壁パノラマと、黒部川上流の清流を望む「宇奈月温泉の老舗旅館 延対寺荘」「ホテル黒部」「ＴＯＧＥＮ 黒部」で黒部名水ポークや富山湾の紅ズワイガニ・白えびを堪能。ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。",
     "url": "https://croud-travel.pages.dev/furusato-tax-unazuki-kurobe-gorge-autumn-leaves-stay/",
     "publisher": {
@@ -86,7 +87,7 @@ export default function FeatureArticlePage() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "黒部峡谷トロッコ電車の紅葉パノラマ＆名湯・宇奈月温泉！峡谷露天風呂宿×ふるさと納税完全ガイド【2026年最新秋旅】富山", "item": "https://croud-travel.pages.dev/furusato-tax-unazuki-kurobe-gorge-autumn-leaves-stay/" }
+      { "@type": "ListItem", "position": 2, "name": "黒部峡谷トロッコ電車の紅葉パノラマ＆名湯・宇奈月温泉！峡谷露天風呂宿×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】富山", "item": "https://croud-travel.pages.dev/furusato-tax-unazuki-kurobe-gorge-autumn-leaves-stay/" }
     ]
   };
 
@@ -111,7 +112,7 @@ export default function FeatureArticlePage() {
       <header className="bg-gradient-to-br from-emerald-950 via-teal-950 to-stone-900 text-white py-14 md:py-20 px-4 mb-10 shadow-lg">
         <div className="max-w-5xl mx-auto text-center">
           <div className="inline-flex items-center gap-2 bg-white/20 backdrop-blur-md px-4 py-1.5 rounded-full text-xs md:text-sm font-semibold mb-5 text-amber-200">
-            <span>🍁 10月・11月限定 秋旅特集</span>
+            <span>🍁 12/31締切 年末駆け込み＆冬休み対応</span>
             <span>•</span>
             <span>楽天ふるさと納税トラベルクーポン対応</span>
           </div>
@@ -121,6 +122,9 @@ export default function FeatureArticlePage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"黒部峡谷トロッコ電車の紅葉パノラマ＆名湯・宇奈月温泉！峡谷露天風呂宿×ふるさと納税厳選ガイド富山"} url={"https://croud-travel.pages.dev/furusato-tax-unazuki-kurobe-gorge-autumn-leaves-stay/"} />
+      </div>
 
       <div className="max-w-5xl mx-auto px-4 grid grid-cols-1 lg:grid-cols-3 gap-8">
         {/* メインコンテンツ */}
@@ -132,11 +136,11 @@ export default function FeatureArticlePage() {
               富山県黒部市に位置する宇奈月温泉は、日本一のV字峡谷として名高い黒部峡谷の玄関口。10月中旬から11月中旬にかけてトロッコ電車が運行する沿線は、エメラルドグリーンの清流と燃え盛る紅葉のグラデーションに包まれます。無色透明で日本屈指の透明度を誇る温泉で身体の芯から温まり、秋に解禁される富山湾の紅ズワイガニや白えびを贅沢に味わえます。
             </p>
             <div className="bg-amber-50/80 rounded-xl p-5 border border-amber-200/80">
-              <h3 className="font-bold text-amber-950 text-sm md:text-base mb-2 flex items-center gap-2">10月〜11月の旅を満喫する3大ポイント</h3>
+              <h3 className="font-bold text-amber-950 text-sm md:text-base mb-2 flex items-center gap-2">年末〜冬休み・来春の旅を満喫する3大ポイント</h3>
               <ul className="text-xs md:text-sm text-amber-900 space-y-2 list-disc list-inside">
-                <li><strong>見頃の紅葉パノラマ：</strong>標高や日当たりで刻一刻と変化するグラデーションを鑑賞（黒部峡谷トロッコ電車の紅葉パノラマ＆名湯・宇奈月温泉）</li>
-                <li><strong>極上の温泉と湯巡り：</strong>朝夕の冷え込む秋風の中で入る露天風呂は格別の贅沢（黒部峡谷トロッコ電車の紅葉パノラマ＆名湯・宇奈月温泉）</li>
-                <li><strong>控除上限内なら自己負担実質2,000円（最大30%クーポン還元）：</strong>楽天ふるさと納税トラベルクーポンで賢く予約（黒部峡谷トロッコ電車の紅葉パノラマ＆名湯・宇奈月温泉）</li>
+                <li><strong>見頃の紅葉パノラマ：</strong>標高や日当たりで刻一刻と変化するグラデーションを鑑賞</li>
+                <li><strong>極上の温泉と湯巡り：</strong>朝夕の冷え込む秋風の中で入る露天風呂は格別の贅沢</li>
+                <li><strong>控除上限内なら自己負担実質2,000円（最大30%クーポン還元）：</strong>楽天ふるさと納税トラベルクーポンで賢く予約</li>
               </ul>
             </div>
           </section>
@@ -185,7 +189,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.unazuki_entaijisou.planUrl || HOTEL_DATA.unazuki_entaijisou.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-3.5 px-6 rounded-xl text-center shadow-md transition-all text-sm md:text-base flex items-center justify-center gap-2"
               >
                 <span>プラン一覧・空室確認（楽天トラベル）</span>
@@ -194,7 +198,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.unazuki_entaijisou.reviewUrl || HOTEL_DATA.unazuki_entaijisou.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="bg-stone-100 hover:bg-stone-200 text-stone-700 font-bold py-3.5 px-5 rounded-xl text-center border border-stone-300 text-sm transition-all"
               >
                 口コミを見る
@@ -246,7 +250,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.unazuki_hotel_kurobe.planUrl || HOTEL_DATA.unazuki_hotel_kurobe.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-3.5 px-6 rounded-xl text-center shadow-md transition-all text-sm md:text-base flex items-center justify-center gap-2"
               >
                 <span>プラン一覧・空室確認（楽天トラベル）</span>
@@ -255,7 +259,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.unazuki_hotel_kurobe.reviewUrl || HOTEL_DATA.unazuki_hotel_kurobe.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="bg-stone-100 hover:bg-stone-200 text-stone-700 font-bold py-3.5 px-5 rounded-xl text-center border border-stone-300 text-sm transition-all"
               >
                 口コミを見る
@@ -307,7 +311,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.unazuki_togen.planUrl || HOTEL_DATA.unazuki_togen.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-3.5 px-6 rounded-xl text-center shadow-md transition-all text-sm md:text-base flex items-center justify-center gap-2"
               >
                 <span>プラン一覧・空室確認（楽天トラベル）</span>
@@ -316,7 +320,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.unazuki_togen.reviewUrl || HOTEL_DATA.unazuki_togen.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="bg-stone-100 hover:bg-stone-200 text-stone-700 font-bold py-3.5 px-5 rounded-xl text-center border border-stone-300 text-sm transition-all"
               >
                 口コミを見る
@@ -357,19 +361,19 @@ export default function FeatureArticlePage() {
             <h3 className="font-bold text-stone-900 mb-4 pb-2 border-b border-stone-200 flex items-center gap-2">この特集で紹介した宿</h3>
             <ul className="space-y-4 text-xs md:text-sm">
               <li>
-                <a href={HOTEL_DATA.unazuki_entaijisou.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
+                <a href={HOTEL_DATA.unazuki_entaijisou.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
                   <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.unazuki_entaijisou.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.unazuki_entaijisou.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
-                <a href={HOTEL_DATA.unazuki_hotel_kurobe.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
+                <a href={HOTEL_DATA.unazuki_hotel_kurobe.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
                   <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.unazuki_hotel_kurobe.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.unazuki_hotel_kurobe.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
-                <a href={HOTEL_DATA.unazuki_togen.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
+                <a href={HOTEL_DATA.unazuki_togen.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
                   <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.unazuki_togen.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.unazuki_togen.rating} | 楽天トラベルで詳細確認</div>
                 </a>
@@ -531,6 +535,9 @@ export default function FeatureArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"黒部峡谷トロッコ電車の紅葉パノラマ＆名湯・宇奈月温泉！峡谷露天風呂宿×ふるさと納税厳選ガイド富山"} url={"https://croud-travel.pages.dev/furusato-tax-unazuki-kurobe-gorge-autumn-leaves-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-unazuki-kurobe-gorge-autumn-leaves-stay" />
 </div>
         </section>

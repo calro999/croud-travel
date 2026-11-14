@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             『万葉集』に唯一詠われた古湯「湯河原」。千歳川のせせらぎが響く静寂な山あいに、数寄屋造りの名門旅館が佇む。清流沿いのブックリトリートと、相模湾の鮮魚・湯河原みかんに癒やされる大人の隠れ家へ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"神奈川・湯河原温泉：文豪ゆかりの名湯・万葉公園＆相模湾地魚極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/kanagawa-yugawara-onsen-bangei-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"神奈川・湯河原温泉：文豪ゆかりの名湯・万葉公園＆相模湾地魚極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/kanagawa-yugawara-onsen-bangei-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="kanagawa-yugawara-onsen-bangei-stay" />
 </div>
   );

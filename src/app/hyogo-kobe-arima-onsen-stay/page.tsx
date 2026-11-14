@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             豊臣秀吉が愛した日本最古の温泉郷「有馬温泉」。湧出時は透明で空気に触れて赤褐色に輝く濃厚な「金泉」と、気泡が弾ける美肌の「銀泉」。六甲山の1000万ドルの夜景と、世界に誇る神戸牛に舌鼓を打つ極上の休日。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"兵庫・神戸有馬温泉：金泉・銀泉の奇跡の名湯＆六甲山夜景・神戸牛極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/hyogo-kobe-arima-onsen-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -231,6 +235,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"兵庫・神戸有馬温泉：金泉・銀泉の奇跡の名湯＆六甲山夜景・神戸牛極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/hyogo-kobe-arima-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="hyogo-kobe-arima-onsen-stay" />
 </div>
   );

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function StargazingHubPage() {
             街の明かりが無数の宝石のように煌めく「1000万ドルの夜景」。「日本三大夜景」の長崎稲佐山・神戸六甲山・函館山。客室の大きな窓やプライベートバルコニー、さらには湯船に浸かりながら光のパノラマを独占するビューバス。ワイングラスを傾けながら過ごすロマンチックな夜へ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"日本三大夜景＆全室パノラマ夜景ビュー宿：1000万ドルの夜景・特等席 厳選ガイド"} url={"https://croud-travel.pages.dev/japan-top-three-night-view-luxury-panoramic-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆厳選宿 */}
@@ -231,6 +235,9 @@ export default function StargazingHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"日本三大夜景＆全室パノラマ夜景ビュー宿：1000万ドルの夜景・特等席 厳選ガイド"} url={"https://croud-travel.pages.dev/japan-top-three-night-view-luxury-panoramic-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="japan-top-three-night-view-luxury-panoramic-stay" />
 </div>
   );

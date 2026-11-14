@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
@@ -36,7 +37,7 @@ export default function Page() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "【奇跡の名湯×ふるさと納税】強炭酸泉・天然泥湯・日本三大美肌の湯で巡る極上湯治リトリート | クラウドトラベル",
+    "headline": "【奇跡の名湯×ふるさと納税】強炭酸泉・天然泥湯・日本三大美肌の湯で巡る極上湯治リトリート | 旅宿クラウド",
     "description": "炭酸ガスが弾ける大分・長湯温泉、全身を包む鹿児島・霧島の天然泥湯、とろとろ美容液のような佐賀・嬉野温泉。全国屈指の薬湯・美肌湯を楽天ふるさと納税クーポンでお得に楽しむ本格湯治ガイド。",
     "url": "https://croud-travel.pages.dev/furusato-tax-bihada-medicinal-springs-retreat-stay/",
     "publisher": {
@@ -50,7 +51,7 @@ export default function Page() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "【奇跡の名湯×ふるさと納税】強炭酸泉・天然泥湯・日本三大美肌の湯で巡る極上湯治リトリート | クラウドトラベル", "item": "https://croud-travel.pages.dev/furusato-tax-bihada-medicinal-springs-retreat-stay/" }
+      { "@type": "ListItem", "position": 2, "name": "【奇跡の名湯×ふるさと納税】強炭酸泉・天然泥湯・日本三大美肌の湯で巡る極上湯治リトリート | 旅宿クラウド", "item": "https://croud-travel.pages.dev/furusato-tax-bihada-medicinal-springs-retreat-stay/" }
     ]
   };
 
@@ -97,6 +98,9 @@ export default function Page() {
             </a>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"奇跡の名湯をふるさと納税でお得に旅する！強炭酸泉・天然泥湯・日本三大美肌の湯で巡る極上湯治リトリート"} url={"https://croud-travel.pages.dev/furusato-tax-bihada-medicinal-springs-retreat-stay/"} />
+      </div>
 
         {/* 制度解説・攻略ポイントセクション */}
         <section className="mb-16 bg-white rounded-3xl shadow-sm border border-stone-200/80 p-6 md:p-10">
@@ -393,8 +397,7 @@ export default function Page() {
 
         {/* よくある質問 FAQ */}
         <section className="mb-16 bg-white rounded-3xl shadow-sm border border-stone-200/80 p-6 md:p-10">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2"><span className="w-2.5 h-7 bg-amber-700 rounded-full inline-block"></span>
-            よくある質問・ふるさと納税トラベルクーポンの疑問を解消</h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">よくある質問・ふるさと納税トラベルクーポンの疑問を解消</h2>
           <div className="space-y-4">
             
             <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
@@ -628,6 +631,9 @@ export default function Page() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"奇跡の名湯をふるさと納税でお得に旅する！強炭酸泉・天然泥湯・日本三大美肌の湯で巡る極上湯治リトリート"} url={"https://croud-travel.pages.dev/furusato-tax-bihada-medicinal-springs-retreat-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-bihada-medicinal-springs-retreat-stay" />
 </div>
         </section>

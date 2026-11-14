@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -173,6 +174,9 @@ export default function KyotoAutumnLeavesNightLightupPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"京都 紅葉ライトアップ2026おすすめ7選：夜間特別拝観・永観堂・東寺・清水寺＆混雑回避の夜回り宿"} url={"https://croud-travel.pages.dev/kyoto-autumn-leaves-night-lightup-hotel-guide/"} />
+      </div>
 
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 space-y-16">
       <script
@@ -502,6 +506,9 @@ export default function KyotoAutumnLeavesNightLightupPage() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"京都 紅葉ライトアップ2026おすすめ7選：夜間特別拝観・永観堂・東寺・清水寺＆混雑回避の夜回り宿"} url={"https://croud-travel.pages.dev/kyoto-autumn-leaves-night-lightup-hotel-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="kyoto-autumn-leaves-night-lightup-hotel-guide" />
 </div>
   );

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -14,7 +15,7 @@ export const metadata: Metadata = {
     title: '小樽・朝里川温泉をふるさと納税でお得に旅する！小樽運河の情緒＆北の迎賓館！鰊御殿と寿司の街特集｜おたるふる川・宏楽園・銀鱗荘',
     description: 'ガス灯揺れる小樽運河と新鮮な海の幸、歴史的建造物が薫る港町・北海道小樽市を楽天ふるさと納税でお得に贅沢旅！運河の目の前に佇む明治商家風情「運河の宿 おたる ふる川」、広大な日本庭園と露天風呂付き客室の名宿「おたる 宏楽園」、平磯岬の高台に君臨する鰊御殿「料亭湯宿 銀鱗荘」を徹底比較。小樽市トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-otaru-canal-asarigawa-onsen-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -28,12 +29,12 @@ export default function FurusatoArticlePage() {
     description: 'ガス灯揺れる小樽運河と新鮮な海の幸、歴史的建造物が薫る港町・北海道小樽市を楽天ふるさと納税でお得に贅沢旅！運河の目の前に佇む明治商家風情「運河の宿 おたる ふる川」、広大な日本庭園と露天風呂付き客室の名宿「おたる 宏楽園」、平磯岬の高台に君臨する鰊御殿「料亭湯宿 銀鱗荘」を徹底比較。小樽市トラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル 観光・ふるさと納税調査班',
+      name: '旅宿クラウド 観光・ふるさと納税調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -80,6 +81,9 @@ export default function FurusatoArticlePage() {
           ガス灯揺れる小樽運河と新鮮な海の幸、歴史的建造物が薫る港町・北海道小樽市を楽天ふるさと納税でお得に贅沢旅！運河の目の前に佇む明治商家風情「運河の宿 おたる ふる川」、広大な日本庭園と露天風呂付き客室の名宿「おたる 宏楽園」、平磯岬の高台に君臨する鰊御殿「料亭湯宿 銀鱗荘」を徹底比較。小樽市トラベルクーポン活用術を網羅。
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"小樽・朝里川温泉をふるさと納税でお得に旅する！小樽運河の情緒＆北の迎賓館！鰊御殿と寿司の街特集"} url={"https://croud-travel.pages.dev/furusato-tax-otaru-canal-asarigawa-onsen-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
@@ -360,7 +364,7 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 小樽・朝里川温泉・小樽運河＆堺町通り観光ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">小樽・朝里川温泉・小樽運河＆堺町通り観光ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
@@ -586,6 +590,9 @@ export default function FurusatoArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"小樽・朝里川温泉をふるさと納税でお得に旅する！小樽運河の情緒＆北の迎賓館！鰊御殿と寿司の街特集"} url={"https://croud-travel.pages.dev/furusato-tax-otaru-canal-asarigawa-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-otaru-canal-asarigawa-onsen-stay" />
 </div>
         </section>

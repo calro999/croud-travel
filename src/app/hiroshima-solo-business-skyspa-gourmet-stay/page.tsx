@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -13,7 +14,7 @@ export const metadata: Metadata = {
     title: '広島出張＆大人ひとり旅：広島駅直結・最上階スカイスパ・流川お好み焼き！心身をととのえる名ホテル 厳選3選',
     description: '山陽新幹線・広島空港からのアクセス至便な中国地方の要所・広島！「広島駅新幹線口直結の世界的ラグジュアリー」を誇る「シェラトングランドホテル広島」、繁華街八丁堀の真ん中で星空露天風呂とサウナを楽しむ「CANDEO HOTELS 広島八丁堀」、平和大通り近くで天然温泉大浴場が嬉しい「安芸の湯 ドーミーイン広島」を徹底特集。',
     url: 'https://croud-travel.pages.dev/hiroshima-solo-business-skyspa-gourmet-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -27,12 +28,12 @@ export default function ArticlePage() {
     description: '山陽新幹線・広島空港からのアクセス至便な中国地方の要所・広島！「広島駅新幹線口直結の世界的ラグジュアリー」を誇る「シェラトングランドホテル広島」、繁華街八丁堀の真ん中で星空露天風呂とサウナを楽しむ「CANDEO HOTELS 広島八丁堀」、平和大通り近くで天然温泉大浴場が嬉しい「安芸の湯 ドーミーイン広島」を徹底特集。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル ひとり旅・出張調査班',
+      name: '旅宿クラウド ひとり旅・出張調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -79,6 +80,9 @@ export default function ArticlePage() {
           山陽新幹線・広島空港からのアクセス至便な中国地方の要所・広島！「広島駅新幹線口直結の世界的ラグジュアリー」を誇る「シェラトングランドホテル広島」、繁華街八丁堀の真ん中で星空露天風呂とサウナを楽しむ「CANDEO HOTELS 広島八丁堀」、平和大通り近くで天然温泉大浴場が嬉しい「安芸の湯 ドーミーイン広島」を徹底特集。
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"広島出張＆大人ひとり旅：広島駅直結・最上階スカイスパ・流川お好み焼き！心身をととのえる名ホテル 厳選3選"} url={"https://croud-travel.pages.dev/hiroshima-solo-business-skyspa-gourmet-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
@@ -381,7 +385,7 @@ export default function ArticlePage() {
             href="/"
             className="inline-flex items-center gap-2 text-sm text-stone-600 hover:text-stone-900 font-medium transition-colors"
           >
-            ← クラウドトラベル トップページへ戻る
+            ← 旅宿クラウド トップページへ戻る
           </Link>
         </div>
       </div>
@@ -542,6 +546,10 @@ export default function ArticlePage() {
             </div>
           </div></section>
 
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"広島出張＆大人ひとり旅：広島駅直結・最上階スカイスパ・流川お好み焼き！心身をととのえる名ホテル 厳選3選"} url={"https://croud-travel.pages.dev/hiroshima-solo-business-skyspa-gourmet-stay/"} />
+      </div>
       </main>
   );
 }

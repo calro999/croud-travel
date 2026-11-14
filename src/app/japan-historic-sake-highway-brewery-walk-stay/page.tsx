@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function SakeTourismHubPage() {
             軒先に掲げられた青々とした「杉玉」、黒板塀と白壁土蔵、赤レンガの煙突が連なる「酒蔵の町並み」。江戸時代から日本の酒造りを牽引してきた灘五郷、赤瓦の酒蔵が並ぶ西条、十石舟が往く京都伏見。歴史ある酒蔵をそぞろ歩き、名湯の宿で酔いしれる旅へ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"日本銘酒街道・酒蔵の町並み巡り宿：灘・西条・伏見・魚沼・諏訪街道 厳選ガイド"} url={"https://croud-travel.pages.dev/japan-historic-sake-highway-brewery-walk-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆厳選宿 */}
@@ -231,6 +235,9 @@ export default function SakeTourismHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"日本銘酒街道・酒蔵の町並み巡り宿：灘・西条・伏見・魚沼・諏訪街道 厳選ガイド"} url={"https://croud-travel.pages.dev/japan-historic-sake-highway-brewery-walk-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="japan-historic-sake-highway-brewery-walk-stay" />
 </div>
   );

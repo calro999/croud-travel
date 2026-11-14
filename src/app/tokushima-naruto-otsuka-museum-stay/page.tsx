@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             世界の名画1,000余点を陶板で原寸大再現した「大塚国際美術館」と、世界三大潮流が巻き起こす大迫力の「鳴門の渦潮」。鳴門海峡の激流に揉まれて身が引き締まった極上の「鳴門鯛」。青い海を望む絶景オーシャンリゾートへ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"徳島・鳴門＆大塚国際美術館：世界三大潮流・鳴門の渦潮＆陶板名画・鳴門鯛宿 厳選ガイド"} url={"https://croud-travel.pages.dev/tokushima-naruto-otsuka-museum-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -361,6 +365,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"徳島・鳴門＆大塚国際美術館：世界三大潮流・鳴門の渦潮＆陶板名画・鳴門鯛宿 厳選ガイド"} url={"https://croud-travel.pages.dev/tokushima-naruto-otsuka-museum-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="tokushima-naruto-otsuka-museum-stay" />
 </div>
   );

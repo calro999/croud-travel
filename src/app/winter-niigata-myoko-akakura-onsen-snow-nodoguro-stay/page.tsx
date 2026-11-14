@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月新潟・妙高赤倉温泉の初雪妙高山と開湯200年名湯】硫酸塩・炭酸水素塩のダブル美肌露天・冬のどぐろ塩焼き＆新潟和牛会席の宿5選',
     description: '11月から12月にかけて新潟県・妙高山麓は、標高2,454mの日本百名山・妙高山が初雪の白銀に輝き、豪雪地帯ならではの純白の冬景色が広がります。',
     url: 'https://croud-travel.pages.dev/winter-niigata-myoko-akakura-onsen-snow-nodoguro-stay/',
-    siteName: 'クラドトラベル (Croud Travel)',
+    siteName: '旅宿クラウド (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -287,6 +288,9 @@ export default function AkakuraOnsenWinterFeature() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月新潟・妙高赤倉温泉の初雪妙高山と開湯200年名湯】硫酸塩・炭酸水素塩のダブル美肌露天・冬のどぐろ塩焼き＆新潟和牛会席の宿5選"} url={"https://croud-travel.pages.dev/winter-niigata-myoko-akakura-onsen-snow-nodoguro-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-10 space-y-12">
@@ -393,7 +397,7 @@ export default function AkakuraOnsenWinterFeature() {
                           <span className="text-slate-400 font-normal text-xs">({h.reviews}件)</span>
                         </div>
                       </div>
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-teal-800 transition"><a href={h.url} target="_blank" rel="noopener noreferrer">
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-teal-800 transition"><a href={h.url} target="_blank" rel="sponsored noopener noreferrer">
                           {h.name}
                         </a></h3>
                     </div>
@@ -462,7 +466,7 @@ export default function AkakuraOnsenWinterFeature() {
                     <a
                       href={h.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="w-full sm:w-auto px-6 py-3.5 rounded-2xl bg-gradient-to-r from-teal-800 to-teal-900 hover:from-teal-900 hover:to-slate-900 text-white font-bold text-sm shadow-md hover:shadow-lg transition flex items-center justify-center gap-2"
                     >
                       <span>楽天トラベルでプラン・空室を見る</span>
@@ -615,6 +619,9 @@ export default function AkakuraOnsenWinterFeature() {
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">全国の厳選温泉・旬旅特集まとめを見る</h3>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月新潟・妙高赤倉温泉の初雪妙高山と開湯200年名湯】硫酸塩・炭酸水素塩のダブル美肌露天・冬のどぐろ塩焼き＆新潟和牛会席の宿5選"} url={"https://croud-travel.pages.dev/winter-niigata-myoko-akakura-onsen-snow-nodoguro-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-niigata-myoko-akakura-onsen-snow-nodoguro-stay" />
 </div>
         </section>

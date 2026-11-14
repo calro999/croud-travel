@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function WellnessRetreatHubPage() {
             日々の疲れやストレスを手放し、本来の自分を取り戻す「現代版プチ湯治＆ファスティングリトリート」。管理栄養士監修の酵素ジュース断食、滋味あふれる薬膳料理、歴史ある名湯での湯治体験で、体の内側から輝く美と健康を。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"現代版プチ湯治＆ファスティング宿：デトックス・薬膳料理＆温泉リトリート 厳選ガイド"} url={"https://croud-travel.pages.dev/modern-toji-fasting-detox-retreat-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function WellnessRetreatHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"現代版プチ湯治＆ファスティング宿：デトックス・薬膳料理＆温泉リトリート 厳選ガイド"} url={"https://croud-travel.pages.dev/modern-toji-fasting-detox-retreat-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="modern-toji-fasting-detox-retreat-stay" />
 </div>
   );

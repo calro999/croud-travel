@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -117,6 +118,9 @@ export default function KanazawaBudgetGuide() {
           <p className="text-sm text-gray-500 mt-2">※ 上記に「出発地からの交通費」が加算されます。</p>
         </div>
       </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"金沢旅行 費用：1泊2日・2泊3日いくらかかる？交通費・宿泊費・食費の内訳＆節約術"} url={"https://croud-travel.pages.dev/kanazawa-travel-budget-guide/"} />
+      </div>
 
       <section className="mb-10">
         <h2 className="font-journal-serif text-2xl font-semibold text-emerald-800 mb-4">交通費のリアル（東京・大阪・名古屋から）</h2>
@@ -150,7 +154,7 @@ export default function KanazawaBudgetGuide() {
         <h2 className="font-journal-serif text-2xl font-semibold text-emerald-800 mb-4">食費の内訳（私のおすすめ店と金額）</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
           <div className="bg-amber-50 rounded-2xl p-5 border border-amber-100">
-            <h3 className="text-amber-800 font-bold mb-2 text-lg">️ 朝食</h3>
+            <h3 className="text-amber-800 font-bold mb-2 text-lg">朝食</h3>
             <ul className="text-gray-700 space-y-2 text-sm">
               <li>・近江町市場 海鮮丼: <strong>2,200円</strong></li>
               <li>・もりもり寿し: <strong>1,800円</strong></li>
@@ -158,7 +162,7 @@ export default function KanazawaBudgetGuide() {
             <p className="text-xs text-gray-500 mt-2">朝から贅沢に海鮮！近江町市場は外せません。</p>
           </div>
           <div className="bg-amber-50 rounded-2xl p-5 border border-amber-100">
-            <h3 className="text-amber-800 font-bold mb-2 text-lg">️ 昼食</h3>
+            <h3 className="text-amber-800 font-bold mb-2 text-lg">昼食</h3>
             <ul className="text-gray-700 space-y-2 text-sm">
               <li>・ハントンライス: <strong>1,100円</strong></li>
               <li>・金沢カレー: <strong>850円</strong></li>
@@ -435,6 +439,9 @@ export default function KanazawaBudgetGuide() {
             </div>
           </div></section>
 
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"金沢旅行 費用：1泊2日・2泊3日いくらかかる？交通費・宿泊費・食費の内訳＆節約術"} url={"https://croud-travel.pages.dev/kanazawa-travel-budget-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="kanazawa-travel-budget-guide" />
 </div>
   );

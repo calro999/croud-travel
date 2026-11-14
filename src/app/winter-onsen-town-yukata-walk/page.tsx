@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -113,6 +114,9 @@ export default function SeasonalFeaturePage() {
             どこか懐かしい木造旅館、川沿いの柳並木、夜を照らすガス灯や行燈。冬の冷たい空気の中、温かい温泉に何度も浸かり、温泉街の酒蔵やレトロな甘味処を巡る情緒あふれる大人の温泉旅へ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【風情満点】冬の温泉街・浴衣で湯巡り＆街歩き宿 完全ガイド"} url={"https://croud-travel.pages.dev/winter-onsen-town-yukata-walk/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function SeasonalFeaturePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【風情満点】冬の温泉街・浴衣で湯巡り＆街歩き宿 完全ガイド"} url={"https://croud-travel.pages.dev/winter-onsen-town-yukata-walk/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-onsen-town-yukata-walk" />
 </div>
   );

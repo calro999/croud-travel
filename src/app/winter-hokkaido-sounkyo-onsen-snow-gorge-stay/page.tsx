@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月北海道・層雲峡温泉の初冬峡谷美と大雪山雪見露天】名湯硫黄泉＆上川十勝牛・オホーツク冬海鮮会席の宿5選',
     description: '11月から12月にかけて、北海道屋根・大雪山連峰の麓に位置する層雲峡温泉は、巨大な柱状節理の断崖絶壁が白銀に染まり。',
     url: 'https://croud-travel.pages.dev/winter-hokkaido-sounkyo-onsen-snow-gorge-stay/',
-    siteName: 'クラドトラベル (Croud Travel)',
+    siteName: '旅宿クラウド (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -257,6 +258,9 @@ export default function HokkaidoSounkyoWinterFeature() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月北海道・層雲峡温泉の初冬峡谷美と大雪山雪見露天】名湯硫黄泉＆上川十勝牛・オホーツク冬海鮮会席の宿5選"} url={"https://croud-travel.pages.dev/winter-hokkaido-sounkyo-onsen-snow-gorge-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 space-y-16">
@@ -424,7 +428,7 @@ export default function HokkaidoSounkyoWinterFeature() {
                       <a
                         href={h.url}
                         target="_blank"
-                        rel="noopener noreferrer nofollow"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center justify-center gap-2 px-6 py-3.5 rounded-xl bg-cyan-700 hover:bg-cyan-800 text-white font-bold text-sm shadow-md shadow-cyan-900/10 transition duration-200 group"
                       >
                         <span>空室・宿泊プランを確認する</span>
@@ -611,6 +615,9 @@ export default function HokkaidoSounkyoWinterFeature() {
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">樹氷スノーモンスターと強酸性美肌硫黄泉・山形牛すき焼きの宿</h3>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月北海道・層雲峡温泉の初冬峡谷美と大雪山雪見露天】名湯硫黄泉＆上川十勝牛・オホーツク冬海鮮会席の宿5選"} url={"https://croud-travel.pages.dev/winter-hokkaido-sounkyo-onsen-snow-gorge-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-hokkaido-sounkyo-onsen-snow-gorge-stay" />
 </div>
         </section>

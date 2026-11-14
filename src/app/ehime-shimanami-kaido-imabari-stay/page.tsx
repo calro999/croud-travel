@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             瀬戸内海の島々を6つの橋で結ぶ海の道「しまなみ海道」。世界初の三連吊橋「来島海峡大橋」と青い海。隈研吾設計の「亀老山展望公園」から望む夕日の多島美。身が引き締まった名物「来島鯛」と今治タオルの心地よさに包まれる旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"愛媛・しまなみ海道＆今治：来島海峡大橋・多島美サイクリング＆来島鯛極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/ehime-shimanami-kaido-imabari-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"愛媛・しまなみ海道＆今治：来島海峡大橋・多島美サイクリング＆来島鯛極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/ehime-shimanami-kaido-imabari-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="ehime-shimanami-kaido-imabari-stay" />
 </div>
   );

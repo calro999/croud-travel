@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -107,6 +108,9 @@ export default function MicroTouristHubPage() {
             都心から東京湾アクアラインで気軽に行ける温暖な海洋リゾート「南房総・鴨川・勝浦」。太平洋の雄大な大海原をバックに豪快な水しぶきを上げる「鴨川シーワールド」のシャチ。四百年以上の歴史を誇る「勝浦朝市」の活気と、ピリ辛が癖になる勝浦タンタンメン。そして外房の荒波で育った脂の乗った「地金目鯛」や伊勢海老・アワビの贅沢海鮮会席を堪能する房総ステイへご案内します。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"千葉・鴨川＆勝浦：シャチ・四百年朝市＆地金目鯛宿 厳選ガイド"} url={"https://croud-travel.pages.dev/chiba-kamogawa-katsuura-boso-seafood-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"千葉・鴨川＆勝浦：シャチ・四百年朝市＆地金目鯛宿 厳選ガイド"} url={"https://croud-travel.pages.dev/chiba-kamogawa-katsuura-boso-seafood-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="chiba-kamogawa-katsuura-boso-seafood-stay" />
 </div>
   );

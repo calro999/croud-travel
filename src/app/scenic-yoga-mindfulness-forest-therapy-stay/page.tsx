@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function WellnessRetreatHubPage() {
             澄み渡る朝の空気の中で、深く息を吸い込む心地よさ「絶景ヨガ＆マインドフルネス宿」。朝露輝く森のテラスでのサンライズヨガ、満天の星の下でのメディテーション。認定セラピストによる森林浴と、体に染み渡るオーガニック朝食へ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"絶景ヨガ＆マインドフルネス宿：朝霧テラス・森林セラピー＆オーガニック美肌スパ 厳選ガイド"} url={"https://croud-travel.pages.dev/scenic-yoga-mindfulness-forest-therapy-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆おすすめ宿 */}
@@ -231,6 +235,9 @@ export default function WellnessRetreatHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"絶景ヨガ＆マインドフルネス宿：朝霧テラス・森林セラピー＆オーガニック美肌スパ 厳選ガイド"} url={"https://croud-travel.pages.dev/scenic-yoga-mindfulness-forest-therapy-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="scenic-yoga-mindfulness-forest-therapy-stay" />
 </div>
   );

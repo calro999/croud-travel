@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             きめ細やかなサシの上州牛と、熱を通すと甘くとろける下仁田ねぎの黄金コンビ！名湯・草津温泉や伊香保、四万温泉で、職人特製の割り下で味わう至高のすき焼き会席と美肌の湯を堪能する極上ステイ。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"上州牛すき焼き＆下仁田ねぎ：群馬名物とろける極上すき焼き会席！草津・伊香保・四万の名湯宿5選"} url={"https://croud-travel.pages.dev/traditional-gunma-joshu-beef-sukiyaki-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"上州牛すき焼き＆下仁田ねぎ：群馬名物とろける極上すき焼き会席！草津・伊香保・四万の名湯宿5選"} url={"https://croud-travel.pages.dev/traditional-gunma-joshu-beef-sukiyaki-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="traditional-gunma-joshu-beef-sukiyaki-stay" />
 </div>
         </section>

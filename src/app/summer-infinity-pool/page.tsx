@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -113,6 +114,9 @@ export default function SeasonalFeaturePage() {
             どこまでも続く青い空と水平線。水面に身を委ねて夕日を眺めるインフィニティプールは夏の最高のご褒美。子連れファミリー歓迎の大型プールから大人のプライベートヴィラまで厳選紹介。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"夏休み・リゾート：絶景インフィニティプール＆オーシャンビュー宿ガイド"} url={"https://croud-travel.pages.dev/summer-infinity-pool/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function SeasonalFeaturePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"夏休み・リゾート：絶景インフィニティプール＆オーシャンビュー宿ガイド"} url={"https://croud-travel.pages.dev/summer-infinity-pool/"} />
+      </div>
       <HubRelatedPosts currentSlug="summer-infinity-pool" />
 </div>
   );

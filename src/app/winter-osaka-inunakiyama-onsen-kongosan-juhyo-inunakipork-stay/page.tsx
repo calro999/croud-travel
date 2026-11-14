@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
@@ -15,7 +16,7 @@ export const metadata: Metadata = {
     title: '静寂の渓谷露天と金剛山樹氷：2026-2027年冬の大阪・犬鳴山温泉！犬鳴ポークと名湯宿5選',
     description: '都心から約50分で辿り着く大阪随一の秘境「犬鳴山温泉」と金剛山の幻想的な冬の樹氷！修験道の歴史薫る渓流露天風呂、ブランド豚「犬鳴ポーク」のしゃぶしゃぶや冬のぼたん鍋を堪能する大人の冬籠もり名宿5選。',
     url: 'https://croud-travel.pages.dev/winter-osaka-inunakiyama-onsen-kongosan-juhyo-inunakipork-stay/',
-    siteName: 'クラウドトラベル',
+    siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -124,6 +125,9 @@ export default function Page() {
             都心から約50分で辿り着く大阪随一の秘境「犬鳴山温泉」と金剛山の幻想的な冬の樹氷！修験道の歴史薫る渓流露天風呂、ブランド豚「犬鳴ポーク」のしゃぶしゃぶや冬のぼたん鍋を堪能する大人の冬籠もり名宿5選。
           </p>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"静寂の渓谷露天と金剛山樹氷：2026-2027年冬の大阪・犬鳴山温泉！犬鳴ポークと名湯宿5選"} url={"https://croud-travel.pages.dev/winter-osaka-inunakiyama-onsen-kongosan-juhyo-inunakipork-stay/"} />
+      </div>
 
         {/* 導入解説セクション */}
         {/* 宿一覧セクション */}
@@ -546,6 +550,10 @@ export default function Page() {
             </div>
           </div>
         </section>
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"静寂の渓谷露天と金剛山樹氷：2026-2027年冬の大阪・犬鳴山温泉！犬鳴ポークと名湯宿5選"} url={"https://croud-travel.pages.dev/winter-osaka-inunakiyama-onsen-kongosan-juhyo-inunakipork-stay/"} />
+      </div>
       </main>
     </>
   );

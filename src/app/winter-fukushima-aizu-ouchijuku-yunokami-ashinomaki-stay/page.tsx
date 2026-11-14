@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
     title: '【11・12・1月福島】白銀の茅葺き宿場町・大内宿の雪景色と名物「一本ねぎそば」＆阿賀川渓谷雪見露天風呂・会津馬刺し名宿5選',
     description: '11月下旬から1月、会津盆地に雪が降り積もると、江戸時代の面影を今に留める国の重要伝統的建造物群保存地区「大内宿（おおうちじゅく）」の魅力とおすすめ宿泊施設を詳しくご紹介します。',
     url: 'https://croud-travel.pages.dev/winter-fukushima-aizu-ouchijuku-yunokami-ashinomaki-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     images: [
       {
         url: 'https://img.travel.rakuten.co.jp/share/HOTEL/12682/12682.jpg',
@@ -49,12 +50,12 @@ export default function FukushimaAizuOuchijukuWinterPage() {
     dateModified: '',
     author: {
       '@type': 'Organization',
-      name: 'クラドトラベル編集部',
+      name: '旅宿クラウド編集部',
       url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラドトラベル',
+      name: '旅宿クラウド',
       url: 'https://croud-travel.pages.dev',
       logo: {
         '@type': 'ImageObject',
@@ -294,6 +295,9 @@ export default function FukushimaAizuOuchijukuWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月福島】白銀の茅葺き宿場町・大内宿の雪景色と名物「一本ねぎそば」＆阿賀川渓谷雪見露天風呂・会津馬刺し名宿5選"} url={"https://croud-travel.pages.dev/winter-fukushima-aizu-ouchijuku-yunokami-ashinomaki-stay/"} />
+      </div>
 
       {/* Main Content Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 pt-12 space-y-16">
@@ -518,7 +522,7 @@ export default function FukushimaAizuOuchijukuWinterPage() {
                       <a
                         href={h.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-2 bg-orange-900 hover:bg-orange-950 text-white font-bold text-xs sm:text-sm px-5 py-3 rounded-xl shadow-xs transition-colors"
                       >
                         楽天トラベルで空室・プランを見る
@@ -662,6 +666,9 @@ export default function FukushimaAizuOuchijukuWinterPage() {
               </span>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月福島】白銀の茅葺き宿場町・大内宿の雪景色と名物「一本ねぎそば」＆阿賀川渓谷雪見露天風呂・会津馬刺し名宿5選"} url={"https://croud-travel.pages.dev/winter-fukushima-aizu-ouchijuku-yunokami-ashinomaki-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-fukushima-aizu-ouchijuku-yunokami-ashinomaki-stay" />
 </div>
         </section>

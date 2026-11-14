@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -13,7 +14,7 @@ export const metadata: Metadata = {
     title: '札幌ひとり旅・ご褒美泊：登別カルルス温泉直送・本格ロウリュサウナ・シメパフェ巡り！大人のリフレッシュ宿 厳選3選',
     description: '「北の大地で美味いものを食べ、静かに雪や緑を眺めながら温泉に浸かりたい」。一人旅や出張で訪れる大人の札幌ステイへ。大通公園近くで登別カルルス温泉を引く和の旅館「ONSEN RYOKAN 由縁 札幌」、北海道庁旧本庁舎（赤れんが）を望む優雅な「ソラリア西鉄ホテル札幌」、ススキノ至近でセルフロウリュサウナが自慢の「天然温泉 プレミアホテル-CABIN-札幌」を徹底特集。',
     url: 'https://croud-travel.pages.dev/sapporo-solo-onsen-sauna-gourmet-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -27,12 +28,12 @@ export default function ArticlePage() {
     description: '「北の大地で美味いものを食べ、静かに雪や緑を眺めながら温泉に浸かりたい」。一人旅や出張で訪れる大人の札幌ステイへ。大通公園近くで登別カルルス温泉を引く和の旅館「ONSEN RYOKAN 由縁 札幌」、北海道庁旧本庁舎（赤れんが）を望む優雅な「ソラリア西鉄ホテル札幌」、ススキノ至近でセルフロウリュサウナが自慢の「天然温泉 プレミアホテル-CABIN-札幌」を徹底特集。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル ひとり旅・ホテル調査班',
+      name: '旅宿クラウド ひとり旅・ホテル調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -79,6 +80,9 @@ export default function ArticlePage() {
           「北の大地で美味いものを食べ、静かに雪や緑を眺めながら温泉に浸かりたい」。一人旅や出張で訪れる大人の札幌ステイへ。大通公園近くで登別カルルス温泉を引く和の旅館「ONSEN RYOKAN 由縁 札幌」、北海道庁旧本庁舎（赤れんが）を望む優雅な「ソラリア西鉄ホテル札幌」、ススキノ至近でセルフロウリュサウナが自慢の「天然温泉 プレミアホテル-CABIN-札幌」を徹底特集。
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"札幌ひとり旅・ご褒美泊：登別カルルス温泉直送・本格ロウリュサウナ・シメパフェ巡り！大人のリフレッシュ宿 厳選3選"} url={"https://croud-travel.pages.dev/sapporo-solo-onsen-sauna-gourmet-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
@@ -381,7 +385,7 @@ export default function ArticlePage() {
             href="/"
             className="inline-flex items-center gap-2 text-sm text-stone-600 hover:text-stone-900 font-medium transition-colors"
           >
-            ← クラウドトラベル トップページへ戻る
+            ← 旅宿クラウド トップページへ戻る
           </Link>
         </div>
       </div>
@@ -454,6 +458,10 @@ export default function ArticlePage() {
           </div>
         </section>
 
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"札幌ひとり旅・ご褒美泊：登別カルルス温泉直送・本格ロウリュサウナ・シメパフェ巡り！大人のリフレッシュ宿 厳選3選"} url={"https://croud-travel.pages.dev/sapporo-solo-onsen-sauna-gourmet-stay/"} />
+      </div>
       </main>
   );
 }

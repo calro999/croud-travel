@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -264,6 +265,9 @@ export default function YamagataSakataTsuruokaPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月山形】酒田＆鶴岡・羽黒山！出羽三山神社の雪の初詣と山居倉庫雪景色・冬の日本海名物「寒鱈どんがら汁」＆名湯5選"} url={"https://croud-travel.pages.dev/winter-yamagata-sakata-tsuruoka-hagurosan-kandara-stay/"} />
+      </div>
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
@@ -367,7 +371,7 @@ export default function YamagataSakataTsuruokaPage() {
                     <a
                       href={hotel.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-xl bg-gradient-to-r from-sky-600 to-sky-700 text-white font-bold text-xs md:text-sm hover:from-sky-700 hover:to-sky-800 shadow-sm hover:shadow transition"
                     >
                       楽天トラベルで空室・プラン詳細を見る
@@ -524,6 +528,9 @@ export default function YamagataSakataTsuruokaPage() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月山形】酒田＆鶴岡・羽黒山！出羽三山神社の雪の初詣と山居倉庫雪景色・冬の日本海名物「寒鱈どんがら汁」＆名湯5選"} url={"https://croud-travel.pages.dev/winter-yamagata-sakata-tsuruoka-hagurosan-kandara-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-yamagata-sakata-tsuruoka-hagurosan-kandara-stay" />
 </div>
   );

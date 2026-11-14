@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             すべての黒毛和牛のルーツ「但馬牛」の極上サーロインステーキと、春の味覚「香住ガニ」！柳並木が美しい城崎温泉の外湯めぐり（七湯）を浴衣と下駄で楽しみ、関西最高峰の美食と温泉情緒に浸る贅沢ステイ。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"但馬牛ステーキ＆香住ガニ：兵庫・城崎温泉の七湯めぐりと極上グルメ宿5選"} url={"https://croud-travel.pages.dev/spring-hyogo-tajima-beef-crab-spa-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"但馬牛ステーキ＆香住ガニ：兵庫・城崎温泉の七湯めぐりと極上グルメ宿5選"} url={"https://croud-travel.pages.dev/spring-hyogo-tajima-beef-crab-spa-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="spring-hyogo-tajima-beef-crab-spa-stay" />
 </div>
         </section>

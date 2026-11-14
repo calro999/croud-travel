@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import FurusatoStepSection from "@/app/components/FurusatoStepSection";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
@@ -96,6 +97,9 @@ export default function FurusatoSandBathSunamushiStayPage() {
             </Link>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"天然砂むし温泉＆海辺の名湯で極上デトックス！名門湯宿×ふるさと納税厳選ガイド指宿・別府"} url={"https://croud-travel.pages.dev/furusato-tax-sand-bath-sunamushi-detox-onsen-stay/"} />
+      </div>
 
         {/* 3つの醍醐味セクション */}
         <section className="mb-16">
@@ -518,6 +522,9 @@ export default function FurusatoSandBathSunamushiStayPage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"天然砂むし温泉＆海辺の名湯で極上デトックス！名門湯宿×ふるさと納税厳選ガイド指宿・別府"} url={"https://croud-travel.pages.dev/furusato-tax-sand-bath-sunamushi-detox-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-sand-bath-sunamushi-detox-onsen-stay" />
 </div>
         </section>

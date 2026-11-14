@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -164,6 +165,9 @@ export default function HighwayBusArticlePage() {
             上越新幹線なら東京〜新潟最速約1時間30分・片道約10,760円（往復約21,520円）。高速バスなら関越自動車道経由で片道約2,500円〜5,000円！往復で1万円以上浮くため、ピアBandaiでの新鮮な海鮮丼、ぽんしゅ館での越後地酒利き酒、日本海一望の天然温泉ホテルを贅沢に楽しめます。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"東京〜新潟：新幹線 vs 高速バス徹底比較！片道2,500円〜行く日本酒・極上寿司・ぽんしゅ館1泊2日モデルコース"} url={"https://croud-travel.pages.dev/tokyo-niigata-bus-vs-shinkansen-guide/"} />
       </div>
 
       {/* 📊 交通手段・料金・所要時間の徹底比較テーブル */}
@@ -427,6 +431,9 @@ export default function HighwayBusArticlePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"東京〜新潟：新幹線 vs 高速バス徹底比較！片道2,500円〜行く日本酒・極上寿司・ぽんしゅ館1泊2日モデルコース"} url={"https://croud-travel.pages.dev/tokyo-niigata-bus-vs-shinkansen-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="tokyo-niigata-bus-vs-shinkansen-guide" />
 </div>
   );

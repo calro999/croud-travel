@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Image from 'next/image';
@@ -110,6 +111,9 @@ export default function Page() {
             沿道には屋台やキッチンカーも並び、仙台名物のずんだシェイクやホットチョコレートを手に持ちながらそぞろ歩くのが地元の定番スタイル。寒さ対策として手袋・マフラーに加え、使い捨てカイロは必携だ。
           </p>
         </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"冬の仙台市内・光のページェント厳選ガイド"} url={"https://croud-travel.pages.dev/winter-miyagi-sendai-city-hikarino-pageant-zundamochi-sendaigyu-kaki-stay/"} />
+      </div>
 
         <section className="mb-10">
           <h2 className="text-xl font-bold mb-4 border-l-4 border-blue-500 pl-3">瑞鳳殿——伊達政宗公が眠る桃山建築の荘厳な初詣</h2>
@@ -149,7 +153,7 @@ export default function Page() {
           <div className="space-y-8">
             
             <div className="border rounded-lg overflow-hidden shadow-sm">
-              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F107740%2F107740.html" target="_blank" rel="noopener noreferrer sponsored">
+              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F107740%2F107740.html" target="_blank" rel="sponsored noopener noreferrer">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/107740/107740.jpg"
                   alt="ウェスティンホテル仙台の外観"
@@ -160,7 +164,7 @@ export default function Page() {
                 />
               </a>
               <div className="p-4">
-                <h3 className="text-lg font-bold mb-1"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F107740%2F107740.html" target="_blank" rel="noopener noreferrer sponsored" className="hover:underline text-blue-700">
+                <h3 className="text-lg font-bold mb-1"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F107740%2F107740.html" target="_blank" rel="sponsored noopener noreferrer" className="hover:underline text-blue-700">
                     ウェスティンホテル仙台
                   </a></h3>
                 <p className="text-sm text-gray-500 mb-2">📍 仙台市青葉区一番町1-9-1 ｜ 最寄り：仙台駅 ｜ ⭐ 4.47 ｜ 1泊〜¥17,710〜</p>
@@ -168,7 +172,7 @@ export default function Page() {
                 <a
                   href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F107740%2F107740.html"
                   target="_blank"
-                  rel="noopener noreferrer sponsored"
+                  rel="sponsored noopener noreferrer"
                   className="inline-block bg-red-500 hover:bg-red-600 text-white text-sm font-bold py-2 px-5 rounded"
                 >
                   楽天トラベルで空室を確認
@@ -176,7 +180,7 @@ export default function Page() {
               </div>
             </div>
             <div className="border rounded-lg overflow-hidden shadow-sm">
-              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F389%2F389.html" target="_blank" rel="noopener noreferrer sponsored">
+              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F389%2F389.html" target="_blank" rel="sponsored noopener noreferrer">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/389/389.jpg"
                   alt="ホテルメトロポリタン仙台の外観"
@@ -187,7 +191,7 @@ export default function Page() {
                 />
               </a>
               <div className="p-4">
-                <h3 className="text-lg font-bold mb-1"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F389%2F389.html" target="_blank" rel="noopener noreferrer sponsored" className="hover:underline text-blue-700">
+                <h3 className="text-lg font-bold mb-1"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F389%2F389.html" target="_blank" rel="sponsored noopener noreferrer" className="hover:underline text-blue-700">
                     ホテルメトロポリタン仙台
                   </a></h3>
                 <p className="text-sm text-gray-500 mb-2">📍 仙台市青葉区中央1-1-1 ｜ 最寄り：仙台駅 ｜ ⭐ 4.43 ｜ 1泊〜¥7,250〜</p>
@@ -195,7 +199,7 @@ export default function Page() {
                 <a
                   href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F389%2F389.html"
                   target="_blank"
-                  rel="noopener noreferrer sponsored"
+                  rel="sponsored noopener noreferrer"
                   className="inline-block bg-red-500 hover:bg-red-600 text-white text-sm font-bold py-2 px-5 rounded"
                 >
                   楽天トラベルで空室を確認
@@ -203,7 +207,7 @@ export default function Page() {
               </div>
             </div>
             <div className="border rounded-lg overflow-hidden shadow-sm">
-              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1665%2F1665.html" target="_blank" rel="noopener noreferrer sponsored">
+              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1665%2F1665.html" target="_blank" rel="sponsored noopener noreferrer">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/1665/1665.jpg"
                   alt="ホテルＪＡＬシティ仙台の外観"
@@ -214,7 +218,7 @@ export default function Page() {
                 />
               </a>
               <div className="p-4">
-                <h3 className="text-lg font-bold mb-1"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1665%2F1665.html" target="_blank" rel="noopener noreferrer sponsored" className="hover:underline text-blue-700">
+                <h3 className="text-lg font-bold mb-1"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1665%2F1665.html" target="_blank" rel="sponsored noopener noreferrer" className="hover:underline text-blue-700">
                     ホテルＪＡＬシティ仙台
                   </a></h3>
                 <p className="text-sm text-gray-500 mb-2">📍 仙台市青葉区花京院1-2-12 ｜ 最寄り：仙台駅 ｜ ⭐ 4.21 ｜ 1泊〜¥4,950〜</p>
@@ -222,7 +226,7 @@ export default function Page() {
                 <a
                   href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1665%2F1665.html"
                   target="_blank"
-                  rel="noopener noreferrer sponsored"
+                  rel="sponsored noopener noreferrer"
                   className="inline-block bg-red-500 hover:bg-red-600 text-white text-sm font-bold py-2 px-5 rounded"
                 >
                   楽天トラベルで空室を確認
@@ -230,7 +234,7 @@ export default function Page() {
               </div>
             </div>
             <div className="border rounded-lg overflow-hidden shadow-sm">
-              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F912%2F912.html" target="_blank" rel="noopener noreferrer sponsored">
+              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F912%2F912.html" target="_blank" rel="sponsored noopener noreferrer">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/912/912.jpg"
                   alt="仙台国際ホテルの外観"
@@ -241,7 +245,7 @@ export default function Page() {
                 />
               </a>
               <div className="p-4">
-                <h3 className="text-lg font-bold mb-1"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F912%2F912.html" target="_blank" rel="noopener noreferrer sponsored" className="hover:underline text-blue-700">
+                <h3 className="text-lg font-bold mb-1"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F912%2F912.html" target="_blank" rel="sponsored noopener noreferrer" className="hover:underline text-blue-700">
                     仙台国際ホテル
                   </a></h3>
                 <p className="text-sm text-gray-500 mb-2">📍 仙台市青葉区中央4-6-1 ｜ 最寄り：仙台駅 ｜ ⭐ 4.15 ｜ 1泊〜¥5,400〜</p>
@@ -249,7 +253,7 @@ export default function Page() {
                 <a
                   href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F912%2F912.html"
                   target="_blank"
-                  rel="noopener noreferrer sponsored"
+                  rel="sponsored noopener noreferrer"
                   className="inline-block bg-red-500 hover:bg-red-600 text-white text-sm font-bold py-2 px-5 rounded"
                 >
                   楽天トラベルで空室を確認
@@ -257,7 +261,7 @@ export default function Page() {
               </div>
             </div>
             <div className="border rounded-lg overflow-hidden shadow-sm">
-              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F57055%2F57055.html" target="_blank" rel="noopener noreferrer sponsored">
+              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F57055%2F57055.html" target="_blank" rel="sponsored noopener noreferrer">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/57055/57055.jpg"
                   alt="天然温泉 萩の湯 ドーミーイン仙台駅前の外観"
@@ -268,7 +272,7 @@ export default function Page() {
                 />
               </a>
               <div className="p-4">
-                <h3 className="text-lg font-bold mb-1"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F57055%2F57055.html" target="_blank" rel="noopener noreferrer sponsored" className="hover:underline text-blue-700">
+                <h3 className="text-lg font-bold mb-1"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F57055%2F57055.html" target="_blank" rel="sponsored noopener noreferrer" className="hover:underline text-blue-700">
                     天然温泉 萩の湯 ドーミーイン仙台駅前
                   </a></h3>
                 <p className="text-sm text-gray-500 mb-2">📍 仙台市青葉区本町1-5-38 ｜ 最寄り：仙台駅 ｜ ⭐ 4.19 ｜ 1泊〜¥6,780〜</p>
@@ -276,7 +280,7 @@ export default function Page() {
                 <a
                   href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F57055%2F57055.html"
                   target="_blank"
-                  rel="noopener noreferrer sponsored"
+                  rel="sponsored noopener noreferrer"
                   className="inline-block bg-red-500 hover:bg-red-600 text-white text-sm font-bold py-2 px-5 rounded"
                 >
                   楽天トラベルで空室を確認
@@ -306,6 +310,9 @@ export default function Page() {
               </details>
             ))}
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"冬の仙台市内・光のページェント厳選ガイド"} url={"https://croud-travel.pages.dev/winter-miyagi-sendai-city-hikarino-pageant-zundamochi-sendaigyu-kaki-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-miyagi-sendai-city-hikarino-pageant-zundamochi-sendaigyu-kaki-stay" />
 </div>
         </section>

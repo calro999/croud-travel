@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -290,6 +291,9 @@ export default function SaitamaNagatoroWinterPage() {
             </p>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【12・1月埼玉】長瀞＆秩父・宝登山！冬の風物詩「長瀞こたつ舟下り」と早咲き満開「宝登山ロウバイ園」・宝登山神社初詣＆名物「秩父豚みそ丼・武州和牛」名宿5選"} url={"https://croud-travel.pages.dev/winter-saitama-nagatoro-hodosan-roubai-kotatsubune-stay/"} />
+      </div>
 
         {/* Article Summary Box */}
         <section className="max-w-5xl mx-auto px-4 -mt-8 relative z-20">
@@ -450,7 +454,7 @@ export default function SaitamaNagatoroWinterPage() {
                       <a
                         href={hotel.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center justify-center gap-2 bg-gradient-to-r from-red-600 to-rose-600 hover:from-red-700 hover:to-rose-700 text-white font-bold text-sm md:text-base px-6 py-3 rounded-xl shadow-md hover:shadow-lg transition-all transform hover:-translate-y-0.5"
                       >
                         <span>楽天トラベルでプラン・空室を確認</span>
@@ -589,6 +593,9 @@ export default function SaitamaNagatoroWinterPage() {
 
         </main>
       
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【12・1月埼玉】長瀞＆秩父・宝登山！冬の風物詩「長瀞こたつ舟下り」と早咲き満開「宝登山ロウバイ園」・宝登山神社初詣＆名物「秩父豚みそ丼・武州和牛」名宿5選"} url={"https://croud-travel.pages.dev/winter-saitama-nagatoro-hodosan-roubai-kotatsubune-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-saitama-nagatoro-hodosan-roubai-kotatsubune-stay" />
 </div>
     </>

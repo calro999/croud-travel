@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
     title: '【11・12・1月北海道】氷の街トマム「アイスヴィレッジ」と白銀の富良野・極上富良野和牛＆濃厚ふらのチーズフォンデュを堪能する冬リゾート名宿5選',
     description: '11月下旬から1月、北海道の中央に位置するトマムと富良野は、氷点下20度〜30度にも達する極寒が生み出す世界屈指のパウダースノーと。',
     url: 'https://croud-travel.pages.dev/winter-hokkaido-tomamu-furano-ice-village-wagyu-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     images: [
       {
         url: 'https://img.travel.rakuten.co.jp/share/HOTEL/30110/30110.jpg',
@@ -49,12 +50,12 @@ export default function HokkaidoTomamuFuranoWinterPage() {
     dateModified: '',
     author: {
       '@type': 'Organization',
-      name: 'クラドトラベル編集部',
+      name: '旅宿クラウド編集部',
       url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png'
@@ -293,6 +294,9 @@ export default function HokkaidoTomamuFuranoWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月北海道】氷の街トマム「アイスヴィレッジ」と白銀の富良野・極上富良野和牛＆濃厚ふらのチーズフォンデュを堪能する冬リゾート名宿5選"} url={"https://croud-travel.pages.dev/winter-hokkaido-tomamu-furano-ice-village-wagyu-stay/"} />
+      </div>
 
       {/* Main Content Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 pt-12 space-y-16">
@@ -432,7 +436,7 @@ export default function HokkaidoTomamuFuranoWinterPage() {
                     <a 
                       href={hotel.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="w-full inline-flex items-center justify-center gap-2 bg-gradient-to-r from-indigo-700 to-indigo-900 hover:from-indigo-800 hover:to-indigo-950 text-white font-bold py-3.5 px-6 rounded-2xl shadow-sm hover:shadow transition text-sm tracking-wide"
                     >
                       <span>楽天トラベルで空室・冬限定プランを見る</span>
@@ -614,6 +618,9 @@ export default function HokkaidoTomamuFuranoWinterPage() {
               <p className="font-bold text-stone-800 line-clamp-2">函館山雪夜景と津軽海峡の漁火を望む湯の川温泉・活イカ＆戸井マグロ</p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月北海道】氷の街トマム「アイスヴィレッジ」と白銀の富良野・極上富良野和牛＆濃厚ふらのチーズフォンデュを堪能する冬リゾート名宿5選"} url={"https://croud-travel.pages.dev/winter-hokkaido-tomamu-furano-ice-village-wagyu-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-hokkaido-tomamu-furano-ice-village-wagyu-stay" />
 </div>
         </section>

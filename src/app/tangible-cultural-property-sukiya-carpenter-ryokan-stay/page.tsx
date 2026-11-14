@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
@@ -36,7 +37,7 @@ export default function Page() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "登録有形文化財・宮大工建築の数寄屋旅館完全ガイド【釘を使わぬ木造美と温泉】 | クラウドトラベル",
+    "headline": "登録有形文化財・宮大工建築の数寄屋旅館完全ガイド【釘を使わぬ木造美と温泉】 | 旅宿クラウド",
     "description": "伊豆修善寺の新井旅館、法師温泉長寿館、有馬温泉陶泉御所坊など、国の登録有形文化財に指定された宮大工建築・数寄屋造りの名旅館を特集。日本の木造伝統美と湯巡り。",
     "url": "https://croud-travel.pages.dev/tangible-cultural-property-sukiya-carpenter-ryokan-stay/",
     "publisher": {
@@ -50,7 +51,7 @@ export default function Page() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "登録有形文化財・宮大工建築の数寄屋旅館完全ガイド【釘を使わぬ木造美と温泉】 | クラウドトラベル", "item": "https://croud-travel.pages.dev/tangible-cultural-property-sukiya-carpenter-ryokan-stay/" }
+      { "@type": "ListItem", "position": 2, "name": "登録有形文化財・宮大工建築の数寄屋旅館完全ガイド【釘を使わぬ木造美と温泉】 | 旅宿クラウド", "item": "https://croud-travel.pages.dev/tangible-cultural-property-sukiya-carpenter-ryokan-stay/" }
     ]
   };
 
@@ -81,6 +82,9 @@ export default function Page() {
             日本の風土と豊かな木材、そして熟練の宮大工の手仕事によって生み出された数寄屋造りの名旅館。透かし彫りの欄間、銘木の床柱、川のせせらぎや日本庭園と一体化する回廊など、建物そのものが国の登録有形文化財に指定されている奇跡の空間です。川音や庭の風情に耳を澄ませ、木造建築特有の柔らかな温もりと名湯に身を委ねる、日本文化の真髄に触れる旅へ誘います。
           </p>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"登録有形文化財・宮大工建築の数寄屋旅館厳選ガイド「釘を使わぬ木造美と温泉」"} url={"https://croud-travel.pages.dev/tangible-cultural-property-sukiya-carpenter-ryokan-stay/"} />
+      </div>
 
         {/* メインコンテンツセクション */}
         
@@ -308,8 +312,7 @@ export default function Page() {
 
         {/* よくある質問 FAQ */}
         <section className="mb-16 bg-white rounded-2xl shadow-sm border border-stone-200/80 p-6 md:p-8">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2"><span className="w-2 h-7 bg-amber-700 rounded-full inline-block"></span>
-            よくある質問・歴史建築宿の楽しみ方</h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">よくある質問・歴史建築宿の楽しみ方</h2>
           <div className="space-y-4">
             
             <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
@@ -500,6 +503,9 @@ export default function Page() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"登録有形文化財・宮大工建築の数寄屋旅館厳選ガイド「釘を使わぬ木造美と温泉」"} url={"https://croud-travel.pages.dev/tangible-cultural-property-sukiya-carpenter-ryokan-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="tangible-cultural-property-sukiya-carpenter-ryokan-stay" />
 </div>
         </section>

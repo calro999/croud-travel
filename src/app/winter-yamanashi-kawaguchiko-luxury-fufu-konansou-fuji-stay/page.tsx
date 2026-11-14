@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
@@ -108,6 +109,9 @@ export default function LuxuryStayPage() {
             </p>
           </div>
         </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【雄大な冬富士と全室富士山ビュー客室露天風呂】2026-2027年11-12月初冬の山梨・富士河口湖！「ふふ 河口湖」＆「うぶや」・澄み渡る冠雪富士と甲州牛懐石名宿5選"} url={"https://croud-travel.pages.dev/winter-yamanashi-kawaguchiko-luxury-fufu-konansou-fuji-stay/"} />
+      </div>
 
         <div className="max-w-5xl mx-auto px-4 mt-12 space-y-16">
           <section className="bg-white p-6 md:p-10 rounded-2xl border border-slate-200/80 shadow-md">
@@ -228,8 +232,7 @@ export default function LuxuryStayPage() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント</h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>富士山の麓、河口湖を望む静かな森の中に佇むスモールラグジュアリーリゾート。全客室がスイート仕様で富士山を正面に望みます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>すべての客室に天然温泉の露天風呂とバイオエタノール暖炉を完備。木の温もりと心地よい炎に包まれる至福の冬ごもりが叶います。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>夕食は富士山の溶岩石や薪の香りを生かした独創的な日本料理。山梨の恵みと甲州牛、厳選されたワインのマリアージュは感動の極みです。</span></li>
                 </ul>
@@ -293,8 +296,7 @@ export default function LuxuryStayPage() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント</h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>河口湖の温泉街中心に位置し、きめ細やかなおもてなしと充実した湯処で高い評価を獲得し続ける老舗高級温泉旅館です。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>屋上には富士山と湖を360度パノラマで望む足湯テラス「フットスパ 湖嶺」を完備。客室専用露天風呂付き客室も多彩に揃います。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>夕食はお部屋食または個室ダイニングでいただく季節の特選会席。柔らかくとろける甲州牛や旬の美味をプライベートに堪能できます。</span></li>
                 </ul>
@@ -358,8 +360,7 @@ export default function LuxuryStayPage() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント</h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>河口湖の北東岸、富士山と湖を正面に望む絶好のロケーションに建つ大人のための温泉旅館です。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>屋上露天風呂「富士見の湯」からは遮るもののない雄大な雪富士が広がり、湯船と湖が一体となるかのような開放感を味わえます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>夕食は料理長が腕を振るう旬彩会席。甲州牛の陶板焼きやすき焼きなど、山梨の恵みを五感で楽しむ贅沢なディナーが好評です。</span></li>
                 </ul>
@@ -423,8 +424,7 @@ export default function LuxuryStayPage() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント</h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>河口湖の北岸、産屋ヶ崎の奥に位置し、すべての客室と露天風呂から富士山と湖がシンメトリーに美しく望める絶景自慢の宿です。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>初冬の澄んだ大気のもと、露天風呂から眺める夕暮れの紅富士や朝の逆さ富士は言葉を失うほどの美しさです。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>夕食は山梨の豊かな山の幸・川の幸を彩り豊かに盛り込んだ和食会席。丁寧なサービスと温かなおもてなしが心地よい滞在を約束します。</span></li>
                 </ul>
@@ -488,8 +488,7 @@ export default function LuxuryStayPage() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント</h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>全室に富士山と湖を望むバルコニーテラスを備えたスタイリッシュなモダンリゾートホテルです。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>最上階のグランドスパ「月」「星」は、湖の上に浮かんでいるかのようなインフィニティ露天風呂。雪化粧の富士山を正面に湯浴みできます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>夕食はシェフが目の前で焼き上げる鉄板焼きコースまたは創作フレンチ。カジュアルでありながら洗練された大人のリゾートステイを楽しめます。</span></li>
                 </ul>
@@ -622,6 +621,10 @@ export default function LuxuryStayPage() {
             </ul>
           </section>
         </div>
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【雄大な冬富士と全室富士山ビュー客室露天風呂】2026-2027年11-12月初冬の山梨・富士河口湖！「ふふ 河口湖」＆「うぶや」・澄み渡る冠雪富士と甲州牛懐石名宿5選"} url={"https://croud-travel.pages.dev/winter-yamanashi-kawaguchiko-luxury-fufu-konansou-fuji-stay/"} />
+      </div>
       </div>
     </>
   );

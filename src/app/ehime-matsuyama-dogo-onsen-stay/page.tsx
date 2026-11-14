@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             3000年の歴史を刻む日本最古の温泉「道後」。夏目漱石の小説『坊っちゃん』の舞台となった道後温泉本館の木造建築。からくり時計の音色を聞き、瀬戸内の鯛めしと滑らかな美肌湯に癒やされる旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"愛媛・道後温泉：本館・飛鳥乃湯泉＆坊っちゃん文学・鯛めし極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/ehime-matsuyama-dogo-onsen-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"愛媛・道後温泉：本館・飛鳥乃湯泉＆坊っちゃん文学・鯛めし極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/ehime-matsuyama-dogo-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="ehime-matsuyama-dogo-onsen-stay" />
 </div>
   );

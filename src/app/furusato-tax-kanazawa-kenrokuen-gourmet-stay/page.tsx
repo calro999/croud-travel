@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -14,7 +15,7 @@ export const metadata: Metadata = {
     title: "金沢をふるさと納税でお得に旅する！兼六園の美景＆近江町市場の海の幸！加賀百万石の名門ホテル特集",
     description: '北陸新幹線で東京から最速約2時間15分！加賀百万石の城下町・石川県金沢市を楽天ふるさと納税でお得に贅沢ステイ。金沢駅東口直結のランドマーク「ホテル日航金沢」、兼六園すぐ隣で天然温泉が湧くクラシック宿「金沢白鳥路 ホテル山楽」、近江町市場徒歩すぐの中庭庭園ホテル「THE HOTEL SANRAKU KANAZAWA」を徹底比較。金沢市トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-kanazawa-kenrokuen-gourmet-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -28,12 +29,12 @@ export default function FurusatoArticlePage() {
     description: '北陸新幹線で東京から最速約2時間15分！加賀百万石の城下町・石川県金沢市を楽天ふるさと納税でお得に贅沢ステイ。金沢駅東口直結のランドマーク「ホテル日航金沢」、兼六園すぐ隣で天然温泉が湧くクラシック宿「金沢白鳥路 ホテル山楽」、近江町市場徒歩すぐの中庭庭園ホテル「THE HOTEL SANRAKU KANAZAWA」を徹底比較。金沢市トラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル 観光・ふるさと納税調査班',
+      name: '旅宿クラウド 観光・ふるさと納税調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -80,6 +81,9 @@ export default function FurusatoArticlePage() {
           北陸新幹線で東京から最速約2時間15分！加賀百万石の城下町・石川県金沢市を楽天ふるさと納税でお得に贅沢ステイ。金沢駅東口直結のランドマーク「ホテル日航金沢」、兼六園すぐ隣で天然温泉が湧くクラシック宿「金沢白鳥路 ホテル山楽」、近江町市場徒歩すぐの中庭庭園ホテル「THE HOTEL SANRAKU KANAZAWA」を徹底比較。金沢市トラベルクーポン活用術を網羅。
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"金沢をふるさと納税でお得に旅する！兼六園の美景＆近江町市場の海の幸！加賀百万石の名門ホテル特集"} url={"https://croud-travel.pages.dev/furusato-tax-kanazawa-kenrokuen-gourmet-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
@@ -360,7 +364,7 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 兼六園・金沢城公園＆ひがし茶屋街・近江町市場観光ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">兼六園・金沢城公園＆ひがし茶屋街・近江町市場観光ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
@@ -586,6 +590,9 @@ export default function FurusatoArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"金沢をふるさと納税でお得に旅する！兼六園の美景＆近江町市場の海の幸！加賀百万石の名門ホテル特集"} url={"https://croud-travel.pages.dev/furusato-tax-kanazawa-kenrokuen-gourmet-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-kanazawa-kenrokuen-gourmet-stay" />
 </div>
         </section>

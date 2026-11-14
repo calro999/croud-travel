@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -107,6 +108,9 @@ export default function MicroTouristHubPage() {
             室町時代の儒学者・万里集九や江戸幕府の儒官・林羅山によって「日本三名泉」と称えられた天下の名湯「下呂温泉」。pH9を超えるアルカリ性単純温泉は、浸かった瞬間に肌がツルツルになる天然の石鹸のような美肌効果を誇ります。飛騨川のせせらぎ、湯けむり立ち上る足湯巡り、そして舌の上でとろける飛騨牛の贅を味わう至高の岐阜ステイへご案内します。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"岐阜・下呂温泉＆馬瀬川：日本三名泉美肌の湯・飛騨牛宿 厳選ガイド"} url={"https://croud-travel.pages.dev/gifu-gero-onsen-hida-river-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"岐阜・下呂温泉＆馬瀬川：日本三名泉美肌の湯・飛騨牛宿 厳選ガイド"} url={"https://croud-travel.pages.dev/gifu-gero-onsen-hida-river-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="gifu-gero-onsen-hida-river-stay" />
 </div>
   );

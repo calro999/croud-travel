@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Image from 'next/image';
@@ -63,12 +64,14 @@ export default function KyotoArashiyamaAutumnPage() {
             例年11月中旬から12月上旬にかけてピークを迎える嵐山は国内外から大勢の観光客が訪れます。そこで最大の秘訣は**「嵐山エリアに前泊すること」**。早朝7時台の渡月橋や竹林の小径は日中の混雑が嘘のように静まり返り、息を呑むほど神聖な錦秋の景色を独り占めできます。
           </p>
         </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"秋の京都：嵐山・嵯峨野の錦秋渡月橋と保津川下り！紅葉名所を満喫するおすすめ温泉・極上宿5選「2026最新」"} url={"https://croud-travel.pages.dev/autumn-kyoto-arashiyama-sagano-momiji-onsen-hotels-stay/"} />
+      </div>
 
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-amber-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！嵐山・嵯峨野の厳選宿5選</h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">楽天トラベル高評価！嵐山・嵯峨野の厳選宿5選</h2>
 
           <div className="space-y-8">
 
@@ -498,6 +501,9 @@ export default function KyotoArashiyamaAutumnPage() {
               </div>
             </div>
           </div></section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"秋の京都：嵐山・嵯峨野の錦秋渡月橋と保津川下り！紅葉名所を満喫するおすすめ温泉・極上宿5選「2026最新」"} url={"https://croud-travel.pages.dev/autumn-kyoto-arashiyama-sagano-momiji-onsen-hotels-stay/"} />
+      </div>
         <div className="max-w-4xl mx-auto px-4 sm:px-6">
           <HubRelatedPosts currentSlug="autumn-kyoto-arashiyama-sagano-momiji-onsen-hotels-stay" />
         </div>

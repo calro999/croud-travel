@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             11月中旬〜12月上旬にかけてクライマックスを迎える京都の紅葉！真っ赤なモミジの絨毯が広がる散り紅葉や、寺院の幻想的な夜間特別拝観ライトアップを楽しみ、嵐山温泉の湯と冬の京懐石に寛ぐ極上旅。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11月下旬の晩秋紅葉ライトアップ】散り紅葉の名庭園と嵐山・東山・貴船の風雅名宿5選"} url={"https://croud-travel.pages.dev/late-autumn-kyoto-momiji-lightup-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -463,8 +467,8 @@ export default function FeaturePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 嵐山（阪急）駅へ到着。阪急嵐山線「嵐山駅」より徒歩１分でスムーズに移動。</li>
                 <li>・<strong className="text-stone-800">15:30〜</strong> 「京都 嵐山温泉 花伝抄」にチェックイン。渡月橋まで徒歩約5分！目の前の阪急嵐山駅より京都の中心街まですぐ！天然温泉と5つの貸切風呂を満喫。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 本格サウナと天然温泉のととのい体験で夕暮れの贅沢な湯浴み時間をゆったり過ごす。（下旬の晩秋紅葉ライトアップの晩秋・初冬温泉ガイド！）</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 特選ブランド牛と地場産品を味わう夕食。地元の恵みを五感で味わう至福のディナー。（下旬の晩秋紅葉ライトアップの晩秋・初冬温泉ガイド！）</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 本格サウナと天然温泉のととのい体験で夕暮れの贅沢な湯浴み時間をゆったり過ごす。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 特選ブランド牛と地場産品を味わう夕食。地元の恵みを五感で味わう至福のディナー。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -473,10 +477,10 @@ export default function FeaturePage() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の澄み渡る空気のなか目覚めの朝風呂。清々しい風を感じる至福のひととき。（下旬の晩秋紅葉ライトアップの晩秋・初冬温泉ガイド！）</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 宿自慢の朝食でエネルギーチャージ。地元食材の優しい味わいを堪能。（下旬の晩秋紅葉ライトアップの晩秋・初冬温泉ガイド！）</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の澄み渡る空気のなか目覚めの朝風呂。清々しい風を感じる至福のひととき。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 宿自慢の朝食でエネルギーチャージ。地元食材の優しい味わいを堪能。</li>
                 <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後、近隣の名所や「京都 嵐山温泉 渡月亭」周辺の景勝地へ立ち寄り。</li>
-                <li>・<strong className="text-stone-800">12:30〜</strong> ご当地グルメのランチとお土産選びを楽しみ、大満足で家路へ。（下旬の晩秋紅葉ライトアップの晩秋・初冬温泉ガイド！）</li>
+                <li>・<strong className="text-stone-800">12:30〜</strong> ご当地グルメのランチとお土産選びを楽しみ、大満足で家路へ。</li>
               </ul>
             </div>
           </div>
@@ -578,6 +582,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11月下旬の晩秋紅葉ライトアップ】散り紅葉の名庭園と嵐山・東山・貴船の風雅名宿5選"} url={"https://croud-travel.pages.dev/late-autumn-kyoto-momiji-lightup-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="late-autumn-kyoto-momiji-lightup-stay" />
 </div>
         </section>

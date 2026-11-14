@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -14,7 +15,7 @@ export const metadata: Metadata = {
     title: "浅草・スカイツリーをふるさと納税でお得に旅する！雷門の情緒＆大迫力のタワービュー！下町名湯＆最新ホテル特集",
     description: '江戸情緒と最先端のタワーが交差する東京屈指の観光地・東京都台東区「浅草」を楽天ふるさと納税でお得に満喫！東京スカイツリーと浅草寺を一望する「浅草ビューホテル アネックス 六区」、雷門徒歩2分の洗練デザイナーズ「THE GATE HOTEL 雷門 by HULIC」、全館畳敷き＆黒湯天然温泉の「天然温泉 凌雲の湯 御宿 野乃 浅草」を徹底比較。台東区トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-tokyo-asakusa-skytree-view-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -28,12 +29,12 @@ export default function FurusatoArticlePage() {
     description: '江戸情緒と最先端のタワーが交差する東京屈指の観光地・東京都台東区「浅草」を楽天ふるさと納税でお得に満喫！東京スカイツリーと浅草寺を一望する「浅草ビューホテル アネックス 六区」、雷門徒歩2分の洗練デザイナーズ「THE GATE HOTEL 雷門 by HULIC」、全館畳敷き＆黒湯天然温泉の「天然温泉 凌雲の湯 御宿 野乃 浅草」を徹底比較。台東区トラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル 観光・ふるさと納税調査班',
+      name: '旅宿クラウド 観光・ふるさと納税調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -80,6 +81,9 @@ export default function FurusatoArticlePage() {
           江戸情緒と最先端のタワーが交差する東京屈指の観光地・東京都台東区「浅草」を楽天ふるさと納税でお得に満喫！東京スカイツリーと浅草寺を一望する「浅草ビューホテル アネックス 六区」、雷門徒歩2分の洗練デザイナーズ「THE GATE HOTEL 雷門 by HULIC」、全館畳敷き＆黒湯天然温泉の「天然温泉 凌雲の湯 御宿 野乃 浅草」を徹底比較。台東区トラベルクーポン活用術を網羅。
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"浅草・スカイツリーをふるさと納税でお得に旅する！雷門の情緒＆大迫力のタワービュー！下町名湯＆最新ホテル特集"} url={"https://croud-travel.pages.dev/furusato-tax-tokyo-asakusa-skytree-view-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
@@ -360,7 +364,7 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 浅草寺・仲見世通り＆かっぱ橋道具街・隅田公園観光ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">浅草寺・仲見世通り＆かっぱ橋道具街・隅田公園観光ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
@@ -586,6 +590,9 @@ export default function FurusatoArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"浅草・スカイツリーをふるさと納税でお得に旅する！雷門の情緒＆大迫力のタワービュー！下町名湯＆最新ホテル特集"} url={"https://croud-travel.pages.dev/furusato-tax-tokyo-asakusa-skytree-view-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-tokyo-asakusa-skytree-view-stay" />
 </div>
         </section>

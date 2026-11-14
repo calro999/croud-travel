@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import FurusatoStepSection from "@/app/components/FurusatoStepSection";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
@@ -96,6 +97,9 @@ export default function FurusatoNightSkyBarLoungeStayPage() {
             </Link>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"地上数十階から望む宝石の夜景パノラマ＆天空スカイバー・クラブラウンジ名門ホテル×ふるさと納税厳選ガイド横浜・長崎・大阪"} url={"https://croud-travel.pages.dev/furusato-tax-night-sky-cocktail-bar-lounge-hotel-stay/"} />
+      </div>
 
         {/* 3つの醍醐味セクション */}
         <section className="mb-16">
@@ -517,6 +521,9 @@ export default function FurusatoNightSkyBarLoungeStayPage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"地上数十階から望む宝石の夜景パノラマ＆天空スカイバー・クラブラウンジ名門ホテル×ふるさと納税厳選ガイド横浜・長崎・大阪"} url={"https://croud-travel.pages.dev/furusato-tax-night-sky-cocktail-bar-lounge-hotel-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-night-sky-cocktail-bar-lounge-hotel-stay" />
 </div>
         </section>

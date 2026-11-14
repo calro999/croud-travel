@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
@@ -5,7 +6,7 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '神話の郷・高千穂峡の真名井の滝紅葉ボート＆夜神楽！高千穂牛と極上隠れ宿×ふるさと納税厳選ガイド宮崎',
   description: '11月上旬〜11月下旬に見頃を迎える天孫降臨の地「高千穂峡（たかちほきょう）」。阿蘇溶岩の柱状節理と名瀑「真名井の滝」を水面から見上げる貸しボート紅葉散策、高千穂神社の夜神楽、名宿「離れの宿 神隠れ」「旅館 神仙」「ホテル高千穂」で日本一の栄冠に輝いた高千穂牛やかっぽ酒を堪能。楽天ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。',
-  keywords: ["神話の郷", "高千穂峡の真名井の滝紅葉ボート", "2026年最新秋旅", "宮崎", "温泉宿", "宿泊予約", "楽天トラベル"],
+  keywords: ["神話の郷", "高千穂峡の真名井の滝紅葉ボート", "2026年末・冬休み対応", "宮崎", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-takachiho-autumn-leaves-stay/"
   },
@@ -24,7 +25,7 @@ export default function FeatureArticlePage() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "神話の郷・高千穂峡の真名井の滝紅葉ボート＆夜神楽！高千穂牛と極上隠れ宿×ふるさと納税完全ガイド【2026年最新秋旅】宮崎",
+    "headline": "神話の郷・高千穂峡の真名井の滝紅葉ボート＆夜神楽！高千穂牛と極上隠れ宿×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】宮崎",
     "description": "11月上旬〜11月下旬に見頃を迎える天孫降臨の地「高千穂峡（たかちほきょう）」。阿蘇溶岩の柱状節理と名瀑「真名井の滝」を水面から見上げる貸しボート紅葉散策、高千穂神社の夜神楽、名宿「離れの宿 神隠れ」「旅館 神仙」「ホテル高千穂」で日本一の栄冠に輝いた高千穂牛やかっぽ酒を堪能。楽天ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。",
     "url": "https://croud-travel.pages.dev/furusato-tax-takachiho-autumn-leaves-stay/",
     "publisher": {
@@ -38,7 +39,7 @@ export default function FeatureArticlePage() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "神話の郷・高千穂峡の真名井の滝紅葉ボート＆夜神楽！高千穂牛と極上隠れ宿×ふるさと納税完全ガイド【2026年最新秋旅】宮崎", "item": "https://croud-travel.pages.dev/furusato-tax-takachiho-autumn-leaves-stay/" }
+      { "@type": "ListItem", "position": 2, "name": "神話の郷・高千穂峡の真名井の滝紅葉ボート＆夜神楽！高千穂牛と極上隠れ宿×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】宮崎", "item": "https://croud-travel.pages.dev/furusato-tax-takachiho-autumn-leaves-stay/" }
     ]
   };
 
@@ -84,6 +85,9 @@ export default function FeatureArticlePage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"神話の郷・高千穂峡の真名井の滝紅葉ボート＆夜神楽！高千穂牛と極上隠れ宿×ふるさと納税厳選ガイド宮崎"} url={"https://croud-travel.pages.dev/furusato-tax-takachiho-autumn-leaves-stay/"} />
+      </div>
 
       {/* イントロダクション */}
       <section className="max-w-5xl mx-auto px-4 sm:px-6 mb-12">
@@ -507,6 +511,9 @@ export default function FeatureArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"神話の郷・高千穂峡の真名井の滝紅葉ボート＆夜神楽！高千穂牛と極上隠れ宿×ふるさと納税厳選ガイド宮崎"} url={"https://croud-travel.pages.dev/furusato-tax-takachiho-autumn-leaves-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-takachiho-autumn-leaves-stay" />
 </div>
         </section>

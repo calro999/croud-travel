@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -113,6 +114,9 @@ export default function SeasonalFeaturePage() {
             名画や現代アートの世界に一日中浸り、夜は静かにアートブックを開く贅沢。美しい建築、庭園、美食ディナーと温泉を兼ね備えた、知的好奇心を満たす大人の文化リゾートへ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【芸術の秋】名作アート鑑賞＆美術館リゾートホテル 完全ガイド"} url={"https://croud-travel.pages.dev/autumn-art-museum-retreat/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function SeasonalFeaturePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【芸術の秋】名作アート鑑賞＆美術館リゾートホテル 完全ガイド"} url={"https://croud-travel.pages.dev/autumn-art-museum-retreat/"} />
+      </div>
       <HubRelatedPosts currentSlug="autumn-art-museum-retreat" />
 </div>
   );

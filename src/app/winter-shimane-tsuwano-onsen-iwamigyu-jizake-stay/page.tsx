@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
     title: '【11・12月山陰】山陰の小京都・津和野の冬情緒と冬の新酒蔵開き・幻の石見牛＆津和野温泉の静謐な湯浴みを堪能する名宿5選',
     description: '11月から12月の初冬、石州瓦の赤茶色の屋根と白い漆喰壁が美しいコントラストを描く島根県津和野町の魅力とおすすめ宿泊施設を詳しくご紹介します。',
     url: 'https://croud-travel.pages.dev/winter-shimane-tsuwano-onsen-iwamigyu-jizake-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -48,7 +49,7 @@ export default function ShimaneTsuwanoOnsenWinterPage() {
         "isPartOf": {
           "@type": "WebSite",
           "@id": "https://croud-travel.pages.dev/#website",
-          "name": "クラドトラベル",
+          "name": "旅宿クラウド",
           "url": "https://croud-travel.pages.dev/"
         },
         "headline": "【11・12月山陰】山陰の小京都・津和野の冬情緒と冬の新酒蔵開き・幻の石見牛＆津和野温泉の静謐な湯浴みを堪能する名宿5選",
@@ -59,7 +60,7 @@ export default function ShimaneTsuwanoOnsenWinterPage() {
         "mainEntityOfPage": "https://croud-travel.pages.dev/winter-shimane-tsuwano-onsen-iwamigyu-jizake-stay/",
         "publisher": {
           "@type": "Organization",
-          "name": "クラドトラベル編集部",
+          "name": "旅宿クラウド編集部",
           "url": "https://croud-travel.pages.dev/"
         }
       },
@@ -374,6 +375,9 @@ export default function ShimaneTsuwanoOnsenWinterPage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月山陰】山陰の小京都・津和野の冬情緒と冬の新酒蔵開き・幻の石見牛＆津和野温泉の静謐な湯浴みを堪能する名宿5選"} url={"https://croud-travel.pages.dev/winter-shimane-tsuwano-onsen-iwamigyu-jizake-stay/"} />
+      </div>
 
       {/* Main Content Container */}
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-12">
@@ -491,7 +495,7 @@ export default function ShimaneTsuwanoOnsenWinterPage() {
                       <a 
                         href={hotel.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl bg-gradient-to-r from-red-700 to-amber-800 text-white font-bold text-xs sm:text-sm hover:from-red-800 hover:to-amber-900 transition-all shadow-xs hover:shadow-md"
                       >
                         楽天トラベルでプラン詳細を見る
@@ -684,6 +688,9 @@ export default function ShimaneTsuwanoOnsenWinterPage() {
               <p className="font-bold text-stone-800 line-clamp-2">白狐伝説の名湯足湯めぐりと冬の本場とらふぐ・長州黒かしわ会席</p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月山陰】山陰の小京都・津和野の冬情緒と冬の新酒蔵開き・幻の石見牛＆津和野温泉の静謐な湯浴みを堪能する名宿5選"} url={"https://croud-travel.pages.dev/winter-shimane-tsuwano-onsen-iwamigyu-jizake-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-shimane-tsuwano-onsen-iwamigyu-jizake-stay" />
 </div>
         </section>

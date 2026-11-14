@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Image from 'next/image';
@@ -63,12 +64,14 @@ export default function HakoneSengokuharaAutumnPage() {
             仙石原エリアの魅力は絶景だけでなく、大涌谷から引湯された名物の「乳白色の酸性硫酸塩泉（にごり湯）」。冷えた身体を芯までぽかぽかに温めてくれる極上の泉質と、箱根ガラスの森美術館やポーラ美術館などのアートスポット巡りを組み合わせた大人の贅沢ステイが叶います。
           </p>
         </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"秋の箱根：仙石原すすき草原の黄金絨毯と強羅温泉にごり湯！秋絶景を愛でるおすすめ名宿5選「2026最新」"} url={"https://croud-travel.pages.dev/autumn-kanagawa-hakone-sengokuhara-susuki-onsen-hotels-stay/"} />
+      </div>
 
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-amber-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！仙石原・強羅温泉の厳選宿5選</h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">楽天トラベル高評価！仙石原・強羅温泉の厳選宿5選</h2>
 
           <div className="space-y-8">
 
@@ -498,6 +501,9 @@ export default function HakoneSengokuharaAutumnPage() {
               </div>
             </div>
           </div></section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"秋の箱根：仙石原すすき草原の黄金絨毯と強羅温泉にごり湯！秋絶景を愛でるおすすめ名宿5選「2026最新」"} url={"https://croud-travel.pages.dev/autumn-kanagawa-hakone-sengokuhara-susuki-onsen-hotels-stay/"} />
+      </div>
         <div className="max-w-4xl mx-auto px-4 sm:px-6">
           <HubRelatedPosts currentSlug="autumn-kanagawa-hakone-sengokuhara-susuki-onsen-hotels-stay" />
         </div>

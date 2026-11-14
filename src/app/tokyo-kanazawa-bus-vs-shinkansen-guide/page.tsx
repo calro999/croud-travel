@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -177,6 +178,9 @@ export default function HighwayBusArticlePage() {
             北陸新幹線延伸で身近になった金沢。新幹線なら最速2時間30分・片道約14,380円、高速バスなら最速約7時間半・片道約3,500円〜！移動費を1万円以上節約して、近江町市場の海鮮丼やひがし茶屋街のカフェ、駅前天然温泉ホテルをランクアップするスマートな金沢旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"東京から金沢 安く行く方法：新幹線と高速バスどっち？料金・時間比較＆1泊2日モデルコース"} url={"https://croud-travel.pages.dev/tokyo-kanazawa-bus-vs-shinkansen-guide/"} />
       </div>
 
       {/* 📊 交通手段・料金・所要時間の徹底比較テーブル */}
@@ -440,6 +444,9 @@ export default function HighwayBusArticlePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"東京から金沢 安く行く方法：新幹線と高速バスどっち？料金・時間比較＆1泊2日モデルコース"} url={"https://croud-travel.pages.dev/tokyo-kanazawa-bus-vs-shinkansen-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="tokyo-kanazawa-bus-vs-shinkansen-guide" />
 </div>
   );

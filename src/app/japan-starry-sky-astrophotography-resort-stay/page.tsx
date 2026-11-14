@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function ScenicViewHubPage() {
             人工の光が届かない満天のプラネタリウム「星降る宿」。環境省認定日本一の星空・阿智村ナイトツアー、八ヶ岳野辺山高原の巨大電波望遠鏡、南十字星が輝く八重山諸島。天の川を眺めながら湯船に浸かる神秘の夜へ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"満天の星空＆星空案内人の宿：阿智村・野辺山・石垣島＆星空露天風呂 厳選ガイド"} url={"https://croud-travel.pages.dev/japan-starry-sky-astrophotography-resort-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function ScenicViewHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"満天の星空＆星空案内人の宿：阿智村・野辺山・石垣島＆星空露天風呂 厳選ガイド"} url={"https://croud-travel.pages.dev/japan-starry-sky-astrophotography-resort-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="japan-starry-sky-astrophotography-resort-stay" />
 </div>
   );

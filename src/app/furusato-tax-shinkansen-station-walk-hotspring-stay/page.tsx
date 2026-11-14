@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
@@ -36,7 +37,7 @@ export default function Page() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "【車なし・雪道運転不要】新幹線駅直結＆駅徒歩圏内の名湯温泉旅館ふるさと納税ガイド | クラウドトラベル",
+    "headline": "【車なし・雪道運転不要】新幹線駅直結＆駅徒歩圏内の名湯温泉旅館ふるさと納税ガイド | 旅宿クラウド",
     "description": "レンタカー不要・冬の雪道運転が不安なシニアも安心！新幹線改札から徒歩すぐ、または無料送迎付きの越後湯沢・熱海・加賀温泉の名宿を厳選。手ぶらでスマートに行ける名湯ふるさと納税旅。",
     "url": "https://croud-travel.pages.dev/furusato-tax-shinkansen-station-walk-hotspring-stay/",
     "publisher": {
@@ -50,7 +51,7 @@ export default function Page() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "【車なし・雪道運転不要】新幹線駅直結＆駅徒歩圏内の名湯温泉旅館ふるさと納税ガイド | クラウドトラベル", "item": "https://croud-travel.pages.dev/furusato-tax-shinkansen-station-walk-hotspring-stay/" }
+      { "@type": "ListItem", "position": 2, "name": "【車なし・雪道運転不要】新幹線駅直結＆駅徒歩圏内の名湯温泉旅館ふるさと納税ガイド | 旅宿クラウド", "item": "https://croud-travel.pages.dev/furusato-tax-shinkansen-station-walk-hotspring-stay/" }
     ]
   };
 
@@ -97,6 +98,9 @@ export default function Page() {
             </a>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"車なし・雪道運転不要：新幹線駅直結＆駅徒歩圏内の名湯温泉旅館ふるさと納税ガイド"} url={"https://croud-travel.pages.dev/furusato-tax-shinkansen-station-walk-hotspring-stay/"} />
+      </div>
 
         {/* 制度解説・攻略ポイントセクション */}
         <section className="mb-16 bg-white rounded-3xl shadow-sm border border-stone-200/80 p-6 md:p-10">
@@ -393,8 +397,7 @@ export default function Page() {
 
         {/* よくある質問 FAQ */}
         <section className="mb-16 bg-white rounded-3xl shadow-sm border border-stone-200/80 p-6 md:p-10">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2"><span className="w-2.5 h-7 bg-amber-700 rounded-full inline-block"></span>
-            よくある質問・ふるさと納税トラベルクーポンの疑問を解消</h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">よくある質問・ふるさと納税トラベルクーポンの疑問を解消</h2>
           <div className="space-y-4">
             
             <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
@@ -628,6 +631,9 @@ export default function Page() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"車なし・雪道運転不要：新幹線駅直結＆駅徒歩圏内の名湯温泉旅館ふるさと納税ガイド"} url={"https://croud-travel.pages.dev/furusato-tax-shinkansen-station-walk-hotspring-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-shinkansen-station-walk-hotspring-stay" />
 </div>
         </section>

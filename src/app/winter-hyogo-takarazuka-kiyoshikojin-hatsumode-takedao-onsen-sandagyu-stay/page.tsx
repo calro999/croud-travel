@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import Link from 'next/link';
 import type { Metadata } from 'next';
@@ -299,6 +300,9 @@ export default function HyogoTakarazukaWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月兵庫】宝塚大劇場冬公演と「清荒神清澄寺」新春初詣！武田尾温泉の秘湯雪見露天＆極上「三田牛」厳選名宿5選"} url={"https://croud-travel.pages.dev/winter-hyogo-takarazuka-kiyoshikojin-hatsumode-takedao-onsen-sandagyu-stay/"} />
+      </div>
 
       {/* Summary Box */}
       <section className="max-w-5xl mx-auto px-4 -mt-8 relative z-20">
@@ -487,7 +491,7 @@ export default function HyogoTakarazukaWinterPage() {
                       <a 
                         href={hotel.url} 
                         target="_blank" 
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="w-full bg-gradient-to-r from-rose-600 to-red-600 hover:from-rose-500 hover:to-red-500 text-white font-bold py-3 px-4 rounded-xl text-center block transition shadow-lg shadow-rose-900/30 text-sm"
                       >
                         楽天トラベルで空室・プランを見る <ExternalLink className="w-4 h-4 inline-block ml-1" />
@@ -530,7 +534,7 @@ export default function HyogoTakarazukaWinterPage() {
                       <a 
                         href={hotel.url} 
                         target="_blank" 
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="w-full bg-gradient-to-r from-rose-600 to-red-600 hover:from-rose-500 hover:to-red-500 text-white font-bold py-3 px-4 rounded-xl text-center block transition shadow-lg shadow-rose-900/30 text-sm"
                       >
                         楽天トラベルで空室・プランを見る <ExternalLink className="w-4 h-4 inline-block ml-1" />
@@ -622,6 +626,9 @@ export default function HyogoTakarazukaWinterPage() {
             <Link href="/posts/" className="hover:text-rose-600 underline">記事一覧カタログ</Link>
           </div>
         
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月兵庫】宝塚大劇場冬公演と「清荒神清澄寺」新春初詣！武田尾温泉の秘湯雪見露天＆極上「三田牛」厳選名宿5選"} url={"https://croud-travel.pages.dev/winter-hyogo-takarazuka-kiyoshikojin-hatsumode-takedao-onsen-sandagyu-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-hyogo-takarazuka-kiyoshikojin-hatsumode-takedao-onsen-sandagyu-stay" />
 </div>
       </section>

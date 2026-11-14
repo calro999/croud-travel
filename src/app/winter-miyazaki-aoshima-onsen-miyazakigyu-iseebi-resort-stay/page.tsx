@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月宮崎・青島温泉の南国温暖避寒と鬼の洗濯板絶景】最高峰宮崎牛・日向灘伊勢海老＆美肌炭酸泉リゾートの宿5選',
     description: '11月から12月にかけて、日南海岸の玄関口に位置する宮崎・青島温泉は、本州が本格的な冬の寒気に包まれるなか。',
     url: 'https://croud-travel.pages.dev/winter-miyazaki-aoshima-onsen-miyazakigyu-iseebi-resort-stay/',
-    siteName: 'クラドトラベル (Croud Travel)',
+    siteName: '旅宿クラウド (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -257,6 +258,9 @@ export default function MiyazakiAoshimaWinterFeature() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月宮崎・青島温泉の南国温暖避寒と鬼の洗濯板絶景】最高峰宮崎牛・日向灘伊勢海老＆美肌炭酸泉リゾートの宿5選"} url={"https://croud-travel.pages.dev/winter-miyazaki-aoshima-onsen-miyazakigyu-iseebi-resort-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 space-y-16">
@@ -421,7 +425,7 @@ export default function MiyazakiAoshimaWinterFeature() {
                       <a
                         href={h.url}
                         target="_blank"
-                        rel="noopener noreferrer nofollow"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center justify-center gap-2 px-6 py-3.5 rounded-xl bg-amber-600 hover:bg-amber-700 text-white font-bold text-sm shadow-md shadow-amber-900/10 transition duration-200 group"
                       >
                         <span>空室・宿泊プランを確認する</span>
@@ -608,6 +612,9 @@ export default function MiyazakiAoshimaWinterFeature() {
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">温暖避寒旅と旬の房州伊勢海老・太平洋パノラマ露天の宿</h3>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月宮崎・青島温泉の南国温暖避寒と鬼の洗濯板絶景】最高峰宮崎牛・日向灘伊勢海老＆美肌炭酸泉リゾートの宿5選"} url={"https://croud-travel.pages.dev/winter-miyazaki-aoshima-onsen-miyazakigyu-iseebi-resort-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-miyazaki-aoshima-onsen-miyazakigyu-iseebi-resort-stay" />
 </div>
         </section>

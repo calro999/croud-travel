@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
@@ -5,7 +6,7 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '11月解禁！兵庫香住の松葉ガニ＆幻の香住ガニ！日本海の絶景温泉宿×ふるさと納税厳選ガイド兵庫',
   description: '秋の香住といえば関西唯一の水揚げを誇る紅ズワイ「香住ガニ」と、11月6日解禁の本場「松葉ガニ」！茹でガニ・カニ刺し・焼きガニ・カニ鍋を味わい尽くす贅沢プラン、香住温泉の名宿「さだ助」「甲羅戯」「小宿 梅乃家」で日本海の夕景と名湯を満喫。楽天ふるさと納税で実質2,000円で泊まる冬先取りカニ旅ガイド。',
-  keywords: ["11月解禁！兵庫香住の松葉ガニ", "2026年最新秋旅", "兵庫", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
+  keywords: ["11月解禁！兵庫香住の松葉ガニ", "2026年末・冬休み対応", "兵庫", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-kasumi-matsuba-crab-stay/"
   },
@@ -24,7 +25,7 @@ export default function FeatureArticlePage() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "11月解禁！兵庫香住の松葉ガニ＆幻の香住ガニ！日本海の絶景温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】兵庫",
+    "headline": "11月解禁！兵庫香住の松葉ガニ＆幻の香住ガニ！日本海の絶景温泉宿×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】兵庫",
     "description": "秋の香住といえば関西唯一の水揚げを誇る紅ズワイ「香住ガニ」と、11月6日解禁の本場「松葉ガニ」！茹でガニ・カニ刺し・焼きガニ・カニ鍋を味わい尽くす贅沢プラン、香住温泉の名宿「さだ助」「甲羅戯」「小宿 梅乃家」で日本海の夕景と名湯を満喫。楽天ふるさと納税で実質2,000円で泊まる冬先取りカニ旅ガイド。",
     "url": "https://croud-travel.pages.dev/furusato-tax-kasumi-matsuba-crab-stay/",
     "publisher": {
@@ -38,7 +39,7 @@ export default function FeatureArticlePage() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "11月解禁！兵庫香住の松葉ガニ＆幻の香住ガニ！日本海の絶景温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】兵庫", "item": "https://croud-travel.pages.dev/furusato-tax-kasumi-matsuba-crab-stay/" }
+      { "@type": "ListItem", "position": 2, "name": "11月解禁！兵庫香住の松葉ガニ＆幻の香住ガニ！日本海の絶景温泉宿×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】兵庫", "item": "https://croud-travel.pages.dev/furusato-tax-kasumi-matsuba-crab-stay/" }
     ]
   };
 
@@ -84,6 +85,9 @@ export default function FeatureArticlePage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"11月解禁！兵庫香住の松葉ガニ＆幻の香住ガニ！日本海の絶景温泉宿×ふるさと納税厳選ガイド兵庫"} url={"https://croud-travel.pages.dev/furusato-tax-kasumi-matsuba-crab-stay/"} />
+      </div>
 
       {/* イントロダクション */}
       <section className="max-w-5xl mx-auto px-4 sm:px-6 mb-12">
@@ -507,6 +511,9 @@ export default function FeatureArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"11月解禁！兵庫香住の松葉ガニ＆幻の香住ガニ！日本海の絶景温泉宿×ふるさと納税厳選ガイド兵庫"} url={"https://croud-travel.pages.dev/furusato-tax-kasumi-matsuba-crab-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-kasumi-matsuba-crab-stay" />
 </div>
         </section>

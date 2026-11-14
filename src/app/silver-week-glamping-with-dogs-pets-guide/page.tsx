@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -155,6 +156,9 @@ export default function SilverWeekGlampingWithDogsPetsPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"愛犬と泊まるシルバーウィーク グランピング：プライベートドッグラン付き＆ノーリードOKの極上ヴィラ"} url={"https://croud-travel.pages.dev/silver-week-glamping-with-dogs-pets-guide/"} />
+      </div>
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-16">
@@ -627,6 +631,9 @@ export default function SilverWeekGlampingWithDogsPetsPage() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"愛犬と泊まるシルバーウィーク グランピング：プライベートドッグラン付き＆ノーリードOKの極上ヴィラ"} url={"https://croud-travel.pages.dev/silver-week-glamping-with-dogs-pets-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="silver-week-glamping-with-dogs-pets-guide" />
 </div>
   );

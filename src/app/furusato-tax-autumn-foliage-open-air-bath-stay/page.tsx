@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import FurusatoStepSection from "@/app/components/FurusatoStepSection";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
@@ -96,6 +97,9 @@ export default function FurusatoAutumnFoliageOpenAirStayPage() {
             </Link>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"赤や黄金の山並みを愛でる絶景紅葉露天風呂名旅館×ふるさと納税厳選ガイド日光中禅寺湖・京都嵐山・箱根小涌谷"} url={"https://croud-travel.pages.dev/furusato-tax-autumn-foliage-open-air-bath-stay/"} />
+      </div>
 
         {/* 3つの醍醐味セクション */}
         <section className="mb-16">
@@ -517,6 +521,9 @@ export default function FurusatoAutumnFoliageOpenAirStayPage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"赤や黄金の山並みを愛でる絶景紅葉露天風呂名旅館×ふるさと納税厳選ガイド日光中禅寺湖・京都嵐山・箱根小涌谷"} url={"https://croud-travel.pages.dev/furusato-tax-autumn-foliage-open-air-bath-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-autumn-foliage-open-air-bath-stay" />
 </div>
         </section>

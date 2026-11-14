@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             11月から収穫最盛期を迎え、12月冬至の風物詩となる「ゆず湯」！日本一の生産量を誇る高知・北川村や物部川水系の爽やかなゆずを浮かべた天然温泉と、脂がのった極上の戻りカツオ塩たたきを堪能する温もり旅。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月ゆず湯＆冬至の香り】日本一の高知ゆず温泉と戻りカツオ塩たたき宿5選"} url={"https://croud-travel.pages.dev/winter-kochi-yuzu-hotspring-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -402,8 +406,8 @@ export default function FeaturePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 高知駅へ到着。高知自動車道高知ＩＣより２０分／ＪＲ土讃線高知駅下車徒歩約10分でスムーズに移動。</li>
                 <li>・<strong className="text-stone-800">15:30〜</strong> 「Ｔａｂｉｓｔ 割烹旅館 おおりや 高知」にチェックイン。高知の旬がふんだんに味わえる 本格割烹 ＆高知市はここだけ ペットと一緒に泊まれるお宿を満喫。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 本格サウナと天然温泉のととのい体験で夕暮れの贅沢な湯浴み時間をゆったり過ごす。（ゆず湯＆冬至の香りの冬旅・名湯美食ガイド！）</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 特選ブランド牛と地場産品を味わう夕食。地元の恵みを五感で味わう至福のディナー。（ゆず湯＆冬至の香りの冬旅・名湯美食ガイド！）</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 本格サウナと天然温泉のととのい体験で夕暮れの贅沢な湯浴み時間をゆったり過ごす。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 特選ブランド牛と地場産品を味わう夕食。地元の恵みを五感で味わう至福のディナー。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -412,10 +416,10 @@ export default function FeaturePage() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の澄み渡る空気のなか目覚めの朝風呂。清々しい風を感じる至福のひととき。（ゆず湯＆冬至の香りの冬旅・名湯美食ガイド！）</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 宿自慢の朝食でエネルギーチャージ。地元食材の優しい味わいを堪能。（ゆず湯＆冬至の香りの冬旅・名湯美食ガイド！）</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の澄み渡る空気のなか目覚めの朝風呂。清々しい風を感じる至福のひととき。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 宿自慢の朝食でエネルギーチャージ。地元食材の優しい味わいを堪能。</li>
                 <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後、近隣の名所や「高知城下の天然温泉 三翠園」周辺の景勝地へ立ち寄り。</li>
-                <li>・<strong className="text-stone-800">12:30〜</strong> ご当地グルメのランチとお土産選びを楽しみ、大満足で家路へ。（ゆず湯＆冬至の香りの冬旅・名湯美食ガイド！）</li>
+                <li>・<strong className="text-stone-800">12:30〜</strong> ご当地グルメのランチとお土産選びを楽しみ、大満足で家路へ。</li>
               </ul>
             </div>
           </div>
@@ -517,6 +521,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月ゆず湯＆冬至の香り】日本一の高知ゆず温泉と戻りカツオ塩たたき宿5選"} url={"https://croud-travel.pages.dev/winter-kochi-yuzu-hotspring-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-kochi-yuzu-hotspring-stay" />
 </div>
         </section>

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -7,7 +8,7 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '城崎温泉の秋の七湯めぐりと11月解禁「津居山かに（松葉がに）」！柳並木と但馬牛を味わう極上温泉旅｜ふるさと納税で泊まれる名宿ガイド',
   description: '10月・11月の兵庫・城崎温泉特集！大谿川沿いの柳並木と浴衣での七湯外湯めぐり、11月6日解禁の青タグ付き最高峰「津居山かに（松葉がに）」、幻の但馬牛ステーキをふるさと納税トラベルで味わい尽くす贅沢プラン。',
-  keywords: ["クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
+  keywords: ["旅宿クラウドふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-kinosaki-tsuiyama-crab-autumn-stay/",
   },
@@ -15,7 +16,7 @@ export const metadata: Metadata = {
     title: '城崎温泉の秋の七湯めぐりと11月解禁「津居山かに（松葉がに）」！柳並木と但馬牛を味わう極上温泉旅｜ふるさと納税で泊まれる名宿ガイド',
     description: '10月・11月の兵庫・城崎温泉特集！大谿川沿いの柳並木と浴衣での七湯外湯めぐり、11月6日解禁の青タグ付き最高峰「津居山かに（松葉がに）」、幻の但馬牛ステーキをふるさと納税トラベルで味わい尽くす贅沢プラン。',
     url: 'https://croud-travel.pages.dev/furusato-tax-kinosaki-tsuiyama-crab-autumn-stay/',
-    siteName: 'クラウドトラベル (croud-travel.pages.dev)',
+    siteName: '旅宿クラウド (croud-travel.pages.dev)',
     type: 'article',
     locale: 'ja_JP',
   },
@@ -29,11 +30,11 @@ export default function Page() {
     "description": "10月・11月の兵庫・城崎温泉特集！大谿川沿いの柳並木と浴衣での七湯外湯めぐり、11月6日解禁の青タグ付き最高峰「津居山かに（松葉がに）」、幻の但馬牛ステーキをふるさと納税トラベルで味わい尽くす贅沢プラン。",
     "author": {
       "@type": "Organization",
-      "name": "クラウドトラベル編集部"
+      "name": "旅宿クラウド編集部"
     },
     "publisher": {
       "@type": "Organization",
-      "name": "クラウドトラベル",
+      "name": "旅宿クラウド",
       "logo": {
         "@type": "ImageObject",
         "url": "https://croud-travel.pages.dev/logo.png"
@@ -112,6 +113,9 @@ export default function Page() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"城崎温泉の秋の七湯めぐりと11月解禁「津居山かに（松葉がに）」！柳並木と但馬牛を味わう極上温泉旅"} url={"https://croud-travel.pages.dev/furusato-tax-kinosaki-tsuiyama-crab-autumn-stay/"} />
+      </div>
 
       {/* Breadcrumb */}
       <nav className="bg-stone-100 border-b border-stone-200 py-3 px-4 sm:px-6 lg:px-8 text-xs text-stone-600">
@@ -128,7 +132,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"城崎温泉の秋の七湯めぐりと11月解禁「津居山かに（松葉がに）」！柳並木と但馬牛を味わう極上温泉旅｜ふるさと納税で泊まれる名宿ガイド | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-kinosaki-tsuiyama-crab-autumn-stay/"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"城崎温泉の秋の七湯めぐりと11月解禁「津居山かに（松葉がに）」！柳並木と但馬牛を味わう極上温泉旅｜ふるさと納税で泊まれる名宿ガイド | 旅宿クラウドふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-kinosaki-tsuiyama-crab-autumn-stay/"}]}) }}
       />
 
         {/* Introduction */}
@@ -155,8 +159,7 @@ export default function Page() {
 
         {/* Area Highlights & Model Course */}
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-stone-200/80">
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-3 border-b border-stone-200 pb-4"><span className="text-2xl">️</span>
-            秋の豊岡・城崎温泉・津居山港を満喫する1泊2日モデルコース</h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-3 border-b border-stone-200 pb-4">秋の豊岡・城崎温泉・津居山港を満喫する1泊2日モデルコース</h2>
           <div className="space-y-6">
             <div className="border-l-2 border-amber-400 pl-4 sm:pl-6 space-y-6">
               <div>
@@ -371,8 +374,7 @@ export default function Page() {
                 <div className="text-stone-500 text-xs">楽天トラベルで対象宿の予約時にクーポンを適用して割引完了</div>
               </div>
             </div>
-            <p className="text-xs sm:text-sm text-stone-600">※楽天スーパーSALEやお買い物マラソン等の買いまわりイベント期間中に寄附を行うと、楽天ポイント還元率が大幅にアップしてさらにお得です。
-            </p>
+            <p className="text-xs sm:text-sm text-stone-600">※2026年分のふるさと納税寄附期限は12月31日までです。返礼品の楽天トラベルクーポンは有効期限が最長3年間あるため、年末年始や来春の旅行にも余裕を持って活用いただけます。</p>
           </div>
         </section>
 
@@ -566,10 +568,13 @@ export default function Page() {
             <Link href="/features/" className="hover:text-white">特集一覧</Link>
             <Link href="/privacy/" className="hover:text-white">プライバシーポリシー</Link>
           </div>
-          <p>© 2026 クラウドトラベル (croud-travel.pages.dev) All Rights Reserved.</p>
+          <p>© 2026 旅宿クラウド (croud-travel.pages.dev) All Rights Reserved.</p>
         </div>
       </footer>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"城崎温泉の秋の七湯めぐりと11月解禁「津居山かに（松葉がに）」！柳並木と但馬牛を味わう極上温泉旅"} url={"https://croud-travel.pages.dev/furusato-tax-kinosaki-tsuiyama-crab-autumn-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-kinosaki-tsuiyama-crab-autumn-stay" />
 </div>
   );

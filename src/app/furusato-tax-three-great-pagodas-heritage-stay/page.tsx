@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -162,6 +163,9 @@ export default function Page() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"日本三大五重塔＆天を衝く木造美・国宝の塔と古都・門前名宿×ふるさと納税厳選ガイド法隆寺・東寺・羽黒山"} url={"https://croud-travel.pages.dev/furusato-tax-three-great-pagodas-heritage-stay/"} />
+      </div>
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
@@ -651,6 +655,9 @@ export default function Page() {
         <p>© 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の楽天トラベル公式APIに基づきます。</p>
       </footer>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"日本三大五重塔＆天を衝く木造美・国宝の塔と古都・門前名宿×ふるさと納税厳選ガイド法隆寺・東寺・羽黒山"} url={"https://croud-travel.pages.dev/furusato-tax-three-great-pagodas-heritage-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-three-great-pagodas-heritage-stay" />
 </div>
   );

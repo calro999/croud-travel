@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -277,6 +278,9 @@ export default function NyutoWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月乳頭温泉郷の白銀秘湯めぐり】ブナ原生林の雪見露天風呂と本場きりたんぽ鍋の宿5選"} url={"https://croud-travel.pages.dev/winter-akita-nyuto-onsen-yukimi-kiritanpo-stay/"} />
+      </div>
 
       {/* Main Content Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
@@ -455,7 +459,7 @@ export default function NyutoWinterPage() {
                     <a
                       href={hotel.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-6 py-3 rounded-xl bg-emerald-800 hover:bg-emerald-900 text-white font-bold text-sm shadow-md hover:shadow-lg transition-all"
                     >
                       <span>楽天トラベルでプラン・空室を見る</span>
@@ -798,6 +802,9 @@ export default function NyutoWinterPage() {
               <Link href="/prefectures/fukushima/" className="px-3 py-1.5 bg-stone-100 hover:bg-emerald-100 text-stone-700 hover:text-emerald-900 rounded-lg transition-colors font-medium">福島県の宿一覧</Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月乳頭温泉郷の白銀秘湯めぐり】ブナ原生林の雪見露天風呂と本場きりたんぽ鍋の宿5選"} url={"https://croud-travel.pages.dev/winter-akita-nyuto-onsen-yukimi-kiritanpo-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-akita-nyuto-onsen-yukimi-kiritanpo-stay" />
 </div>
         </section>

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -183,6 +184,9 @@ export default function KanazawaTripPackingRegretsWorst5Page() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"金沢旅行で後悔したことワースト5：月曜定休トラップ＆21美予約忘れ！海鮮丼行列を回避する持ち物＆知恵袋"} url={"https://croud-travel.pages.dev/kanazawa-trip-packing-regrets-worst5-guide/"} />
+      </div>
 
       {/* 楽天トラベルクーポンプロモーション */}
       <section className="max-w-4xl mx-auto px-4 -mt-10 relative z-20">
@@ -469,6 +473,9 @@ export default function KanazawaTripPackingRegretsWorst5Page() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"金沢旅行で後悔したことワースト5：月曜定休トラップ＆21美予約忘れ！海鮮丼行列を回避する持ち物＆知恵袋"} url={"https://croud-travel.pages.dev/kanazawa-trip-packing-regrets-worst5-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="kanazawa-trip-packing-regrets-worst5-guide" />
 </div>
         </section>

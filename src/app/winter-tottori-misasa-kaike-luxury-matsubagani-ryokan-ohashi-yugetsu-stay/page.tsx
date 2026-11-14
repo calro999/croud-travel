@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
@@ -111,6 +112,9 @@ export default function Page() {
             </p>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【奇跡の自噴ラジウム温泉と日本海インフィニティ露天】2026-2027年11-1月冬の鳥取・三朝＆皆生温泉！国登録有形文化財「旅館 大橋」＆「皆生 游月」・鳥取松葉ガニと鳥取和牛名宿5選"} url={"https://croud-travel.pages.dev/winter-tottori-misasa-kaike-luxury-matsubagani-ryokan-ohashi-yugetsu-stay/"} />
+      </div>
 
         <div className="max-w-4xl mx-auto px-4 mt-10 space-y-12">
           {/* 導入部 */}
@@ -225,8 +229,7 @@ export default function Page() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント</h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>昭和7年創業、本館や離れのほぼすべてが国の登録有形文化財に指定された名門旅館。宮大工の精緻な木造建築美が息づきます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>名物「巌窟の湯」は三朝川の川床の岩間から温泉が自噴する奇跡の湯船。空気に触れずに湧き出る生まれたての名湯を満喫できます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>「現代の名工」に選ばれた料理長が手掛ける極上の会席料理。冬は活松葉ガニや鳥取和牛を素材の持ち味を極限まで引き出して提供します。</span></li>
                 </ul>
@@ -290,8 +293,7 @@ export default function Page() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント</h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>2019年開業、全室が日本海を一望する温泉露天風呂付きのラグジュアリーリゾートホテルです。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>最上階のインフィニティ露天風呂からは、水平線と湯船が一体化する息を呑む絶景。朝陽や夕暮れの海景に包まれます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>夕食は境港直送の活松葉ガニや鳥取和牛をふんだんに取り入れた和洋創作コース。洗練されたモダンな空間で贅沢な美食を堪能できます。</span></li>
                 </ul>
@@ -355,8 +357,7 @@ export default function Page() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント</h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>創業明治元年の歴史を誇り、与謝野晶子や島崎藤村ら多くの文豪が愛逗留した三朝温泉を代表する名門旅館です。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>千数百坪の敷地に配された回遊式大庭園風呂「山の湯・里の湯」には多彩な湯船が点在。三朝随一のラジウム湯めぐりが楽しめます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>冬は鳥取松葉ガニを贅沢に使った焼き蟹、蟹刺し、蟹すき鍋会席。伝統のおもてなしと手入れの行き届いた日本庭園が迎えてくれます。</span></li>
                 </ul>
@@ -420,8 +421,7 @@ export default function Page() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント</h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>皆生海岸の波打ち際に佇み、客室や露天風呂から白砂青松の海岸美と日本海のパノラマを一望する高級和風旅館です。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>敷地内から湧き出る豊富な自家源泉「宝生の泉」を使用。肌を滑らかにする海のミネラル温泉をゆったりと満喫できます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>冬の味覚の王様・松葉ガニを中心に、日本海近海で獲れた新鮮な魚介と鳥取和牛を贅沢に盛り込んだ極上会席が自慢です。</span></li>
                 </ul>
@@ -485,8 +485,7 @@ export default function Page() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント</h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>広大な千坪の日本庭園に包まれ、三朝温泉屈指の湯量を誇る自家源泉を惜しみなく注ぎ込む人気の老舗温泉旅館です。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>庭園と調和した野趣あふれる大露天風呂や、バラを浮かべた女性限定風呂など多彩な湯浴みで心身を解きほぐせます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>夕食は山陰の冬の恵みである松葉ガニや鳥取県産黒毛和牛を使った贅沢な会席コース。心温まる細やかなおもてなしが評判です。</span></li>
                 </ul>
@@ -660,6 +659,10 @@ export default function Page() {
             <p>※三朝温泉・皆生温泉の松葉ガニプランは冬期限定の提供です。天候や海上のシケにより活ガニの仕入れが制限される場合があるため、最新のプラン詳細は楽天トラベル各宿ページをご確認ください。</p>
           </footer>
         </div>
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【奇跡の自噴ラジウム温泉と日本海インフィニティ露天】2026-2027年11-1月冬の鳥取・三朝＆皆生温泉！国登録有形文化財「旅館 大橋」＆「皆生 游月」・鳥取松葉ガニと鳥取和牛名宿5選"} url={"https://croud-travel.pages.dev/winter-tottori-misasa-kaike-luxury-matsubagani-ryokan-ohashi-yugetsu-stay/"} />
+      </div>
       </article>
     </>
   );

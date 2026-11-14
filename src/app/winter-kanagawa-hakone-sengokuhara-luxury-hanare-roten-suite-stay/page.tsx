@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Image from 'next/image';
@@ -17,7 +18,7 @@ export const metadata: Metadata = {
     description: '初冬の静寂に包まれる箱根・仙石原！黄金色に輝くすすき草原のフィナーレと、大涌谷から引湯する濃厚な乳白色の硫黄泉。全室に専用露天風呂を備えた大人の極上離れやスイートルームで、人目を気にせず名湯を独り占め。きめ細やかなサシの相州牛や駿河湾・相模湾の冬の味覚を散りばめた本格懐石料理に舌鼓を打つ、憧れの記念日ラグジュアリーステイ厳選5選。',
     url: 'https://croud-travel.pages.dev/winter-kanagawa-hakone-sengokuhara-luxury-hanare-roten-suite-stay/',
     type: 'article',
-    siteName: 'クラウドトラベル',
+    siteName: '旅宿クラウド',
   },
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-kanagawa-hakone-sengokuhara-luxury-hanare-roten-suite-stay/',
@@ -115,6 +116,9 @@ export default function LuxuryWinterFeaturePage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【全室露天風呂付き極上離れと白濁硫黄泉】2026-2027年11-12月初冬の箱根・仙石原"} url={"https://croud-travel.pages.dev/winter-kanagawa-hakone-sengokuhara-luxury-hanare-roten-suite-stay/"} />
+      </div>
 
       {/* メインコンテンツ */}
       <main className="max-w-4xl mx-auto px-4 py-10 space-y-12">
@@ -565,6 +569,10 @@ export default function LuxuryWinterFeaturePage() {
           </div>
         </section>
 
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【全室露天風呂付き極上離れと白濁硫黄泉】2026-2027年11-12月初冬の箱根・仙石原"} url={"https://croud-travel.pages.dev/winter-kanagawa-hakone-sengokuhara-luxury-hanare-roten-suite-stay/"} />
+      </div>
       </main>
     </div>
   );

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -201,6 +202,9 @@ export default function SilverWeekGlampingTohokuPage() {
           </div>
         </div>
       </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"東北シルバーウィーク グランピング：宮城・福島・秋田の雄大な自然＆紅葉先取りステイ"} url={"https://croud-travel.pages.dev/silver-week-glamping-tohoku-sendai-fukushima-guide/"} />
+      </div>
 
       {/* 楽天トラベルスペシャルクーポンバナー */}
       <SpecialCouponBanner variant="prominent" />
@@ -424,6 +428,9 @@ export default function SilverWeekGlampingTohokuPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"東北シルバーウィーク グランピング：宮城・福島・秋田の雄大な自然＆紅葉先取りステイ"} url={"https://croud-travel.pages.dev/silver-week-glamping-tohoku-sendai-fukushima-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="silver-week-glamping-tohoku-sendai-fukushima-guide" />
 </div>
   );

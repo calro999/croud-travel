@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import FurusatoStepSection from "@/app/components/FurusatoStepSection";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
@@ -96,6 +97,9 @@ export default function FurusatoShinshuSobaKaisekiStayPage() {
             </Link>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"名水が育む挽きたて・打ちたて・茹でたて！信州手打ち蕎麦会席＆山里温泉名旅館×ふるさと納税厳選ガイド戸隠・安曇野・浅間温泉"} url={"https://croud-travel.pages.dev/furusato-tax-shinshu-soba-kaiseki-luxury-ryokan-stay/"} />
+      </div>
 
         {/* 3つの醍醐味セクション */}
         <section className="mb-16">
@@ -517,6 +521,9 @@ export default function FurusatoShinshuSobaKaisekiStayPage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"名水が育む挽きたて・打ちたて・茹でたて！信州手打ち蕎麦会席＆山里温泉名旅館×ふるさと納税厳選ガイド戸隠・安曇野・浅間温泉"} url={"https://croud-travel.pages.dev/furusato-tax-shinshu-soba-kaiseki-luxury-ryokan-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-shinshu-soba-kaiseki-luxury-ryokan-stay" />
 </div>
         </section>

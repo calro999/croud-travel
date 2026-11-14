@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -138,6 +139,9 @@ export default function KyotoTempleWalkingShoesGuidePage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"京都寺社巡り 靴と服装の失敗談まとめ：1日2万歩で足崩壊＆靴の脱ぎ履き地獄を回避するスマート参拝術"} url={"https://croud-travel.pages.dev/kyoto-temple-walking-shoes-outfit-mistakes-guide/"} />
+      </div>
 
       {/* メインコンテンツ */}
       <main className="max-w-4xl mx-auto px-4 sm:px-6 pt-12 space-y-16">
@@ -493,6 +497,9 @@ export default function KyotoTempleWalkingShoesGuidePage() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"京都寺社巡り 靴と服装の失敗談まとめ：1日2万歩で足崩壊＆靴の脱ぎ履き地獄を回避するスマート参拝術"} url={"https://croud-travel.pages.dev/kyoto-temple-walking-shoes-outfit-mistakes-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="kyoto-temple-walking-shoes-outfit-mistakes-guide" />
 </div>
   );

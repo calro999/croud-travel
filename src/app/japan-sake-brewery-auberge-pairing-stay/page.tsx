@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function SakeTourismHubPage() {
             酒造りの歴史と息吹が息づく酒蔵の敷地で目覚める「酒蔵オーベルジュ」。熟練の杜氏が丹精込めて醸した限定酒や搾りたて生酒を、料理長が腕を振るう一皿一皿に合わせて味わうペアリングディナー。芳醇な吟醸香と伝統の木造建築に抱かれる大人の極上ステイへ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"酒蔵オーベルジュ＆日本酒ペアリング宿：蔵元直営・極上和食マリアージュ 厳選ガイド"} url={"https://croud-travel.pages.dev/japan-sake-brewery-auberge-pairing-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆厳選宿 */}
@@ -231,6 +235,9 @@ export default function SakeTourismHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"酒蔵オーベルジュ＆日本酒ペアリング宿：蔵元直営・極上和食マリアージュ 厳選ガイド"} url={"https://croud-travel.pages.dev/japan-sake-brewery-auberge-pairing-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="japan-sake-brewery-auberge-pairing-stay" />
 </div>
   );

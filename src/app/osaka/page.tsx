@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import fs from "fs";
 import path from "path";
@@ -114,6 +115,9 @@ export default function OsakaHubPage() {
           食い倒れの街・大阪。「1泊2日モデルコースは？」「USJオフィシャルホテルの選び方は？」「梅田となんば、泊まるならどっち？」を縦掘りし、おすすめの宿泊施設情報で繋ぐ総合ガイド。
         </p>
       </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"大阪観光 完全計画ガイド 2026：1泊2日・2泊3日モデルコース＆梅田・なんば・USJ・道頓堀グルメ・おすすめホテル"} url={"https://croud-travel.pages.dev/osaka/"} />
+      </div>
 
       {/* 梅田・なんば・USJの公式おすすめホテル */}
       {osakaData.station_hotel && (
@@ -377,6 +381,9 @@ export default function OsakaHubPage() {
         </section>
       )}
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"大阪観光 完全計画ガイド 2026：1泊2日・2泊3日モデルコース＆梅田・なんば・USJ・道頓堀グルメ・おすすめホテル"} url={"https://croud-travel.pages.dev/osaka/"} />
+      </div>
       <HubRelatedPosts currentSlug="osaka" />
 </div>
   );

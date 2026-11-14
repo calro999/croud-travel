@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -169,6 +170,9 @@ export default function HighwayBusArticlePage() {
             東北新幹線「はやぶさ」なら東京〜仙台最速1時間30分・片道約11,410円。高速バスなら片道約2,500円〜7,000円！往復で1万5,000円以上浮くため、本場の極厚牛たん定食を堪能し、松島湾の絶景や秋保・作並の名湯に泊まる大満足の週末旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"東京から仙台 安く行く方法：新幹線 vs 高速バス徹底比較！牛たん・松島1泊2日モデルコース「2026最新」"} url={"https://croud-travel.pages.dev/tokyo-sendai-bus-vs-shinkansen-guide/"} />
       </div>
 
       {/* 📊 交通手段・料金・所要時間の徹底比較テーブル */}
@@ -432,6 +436,9 @@ export default function HighwayBusArticlePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"東京から仙台 安く行く方法：新幹線 vs 高速バス徹底比較！牛たん・松島1泊2日モデルコース「2026最新」"} url={"https://croud-travel.pages.dev/tokyo-sendai-bus-vs-shinkansen-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="tokyo-sendai-bus-vs-shinkansen-guide" />
 </div>
   );

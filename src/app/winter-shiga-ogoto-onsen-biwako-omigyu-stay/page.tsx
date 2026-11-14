@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月滋賀・おごと温泉の初冬びわ湖景観と開湯千二百年美肌霊泉】比叡山初雪・特選近江牛＆冬限定真鴨鍋会席の宿5選',
     description: '11月から12月にかけて、京都駅からJR湖西線でわずか20分という好立地にありながら、雄大な琵琶湖の湖畔に静かに佇む「おごと温泉（雄琴温泉）」。',
     url: 'https://croud-travel.pages.dev/winter-shiga-ogoto-onsen-biwako-omigyu-stay/',
-    siteName: 'クラドトラベル (Croud Travel)',
+    siteName: '旅宿クラウド (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -287,6 +288,9 @@ export default function ShigaOgotoWinterFeature() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月滋賀・おごと温泉の初冬びわ湖景観と開湯千二百年美肌霊泉】比叡山初雪・特選近江牛＆冬限定真鴨鍋会席の宿5選"} url={"https://croud-travel.pages.dev/winter-shiga-ogoto-onsen-biwako-omigyu-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-10 space-y-12">
@@ -495,7 +499,7 @@ export default function ShigaOgotoWinterFeature() {
                     <a
                       href={h.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="w-full sm:w-auto inline-flex items-center justify-center gap-2 bg-emerald-700 hover:bg-emerald-800 text-white font-bold text-sm px-6 py-3 rounded-2xl shadow-sm hover:shadow transition group flex-shrink-0"
                     >
                       <span>楽天トラベルでプランを見る</span>
@@ -614,6 +618,9 @@ export default function ShigaOgotoWinterFeature() {
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">冬に身体の芯から温まる全国の絶品鍋＆里山ジビエ温泉旅館ランキング</h3>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月滋賀・おごと温泉の初冬びわ湖景観と開湯千二百年美肌霊泉】比叡山初雪・特選近江牛＆冬限定真鴨鍋会席の宿5選"} url={"https://croud-travel.pages.dev/winter-shiga-ogoto-onsen-biwako-omigyu-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-shiga-ogoto-onsen-biwako-omigyu-stay" />
 </div>
         </section>

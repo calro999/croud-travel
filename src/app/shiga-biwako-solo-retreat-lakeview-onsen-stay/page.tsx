@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -13,7 +14,7 @@ export const metadata: Metadata = {
     title: '琵琶湖ひとり旅・絶景おこもり：全室レイクビュー・天然温泉るりの湯・近江牛会席！日本最大の湖に癒やされる極上リゾート宿 厳選3選',
     description: '京都駅からJR新快速でわずか約9〜20分！「全室バルコニー付きレイクビュー＆天然温泉大浴場」を誇る「琵琶湖ホテル」、丹下健三設計の38階超高層パノラマタワー「びわ湖大津プリンスホテル」、客室露天風呂と湖畔の朝夕部屋食が自慢の「おごと温泉 びわこ緑水亭」を徹底特集。',
     url: 'https://croud-travel.pages.dev/shiga-biwako-solo-retreat-lakeview-onsen-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -27,12 +28,12 @@ export default function ArticlePage() {
     description: '京都駅からJR新快速でわずか約9〜20分！「全室バルコニー付きレイクビュー＆天然温泉大浴場」を誇る「琵琶湖ホテル」、丹下健三設計の38階超高層パノラマタワー「びわ湖大津プリンスホテル」、客室露天風呂と湖畔の朝夕部屋食が自慢の「おごと温泉 びわこ緑水亭」を徹底特集。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル ひとり旅・出張調査班',
+      name: '旅宿クラウド ひとり旅・出張調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -79,6 +80,9 @@ export default function ArticlePage() {
           京都駅からJR新快速でわずか約9〜20分！「全室バルコニー付きレイクビュー＆天然温泉大浴場」を誇る「琵琶湖ホテル」、丹下健三設計の38階超高層パノラマタワー「びわ湖大津プリンスホテル」、客室露天風呂と湖畔の朝夕部屋食が自慢の「おごと温泉 びわこ緑水亭」を徹底特集。
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"琵琶湖ひとり旅・絶景おこもり：全室レイクビュー・天然温泉るりの湯・近江牛会席！日本最大の湖に癒やされる極上リゾート宿 厳選3選"} url={"https://croud-travel.pages.dev/shiga-biwako-solo-retreat-lakeview-onsen-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
@@ -381,7 +385,7 @@ export default function ArticlePage() {
             href="/"
             className="inline-flex items-center gap-2 text-sm text-stone-600 hover:text-stone-900 font-medium transition-colors"
           >
-            ← クラウドトラベル トップページへ戻る
+            ← 旅宿クラウド トップページへ戻る
           </Link>
         </div>
       </div>
@@ -473,6 +477,9 @@ export default function ArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"琵琶湖ひとり旅・絶景おこもり：全室レイクビュー・天然温泉るりの湯・近江牛会席！日本最大の湖に癒やされる極上リゾート宿 厳選3選"} url={"https://croud-travel.pages.dev/shiga-biwako-solo-retreat-lakeview-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="shiga-biwako-solo-retreat-lakeview-onsen-stay" />
 </div>
         </section>

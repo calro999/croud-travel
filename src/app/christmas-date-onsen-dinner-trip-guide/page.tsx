@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -164,6 +165,9 @@ export default function ChristmasDateOnsenDinnerTripGuidePage() {
             </span>
           </div>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"クリスマスお泊まりデートおすすめ：イルミネーション×温泉×極上ディナーで過ごす冬の記念日旅"} url={"https://croud-travel.pages.dev/christmas-date-onsen-dinner-trip-guide/"} />
+      </div>
       </section>
 
       {/* 楽天トラベル クーポンバナー */}
@@ -171,7 +175,7 @@ export default function ChristmasDateOnsenDinnerTripGuidePage() {
 
       {/* ナビゲーションメニュー */}
       <nav aria-label="目次ナビゲーション" className="bg-gradient-to-r from-indigo-50 via-slate-50 to-white rounded-2xl p-6 border border-indigo-200 shadow-sm">
-        <h2 className="text-lg font-black text-indigo-950 mb-3 flex items-center gap-2"><span>️</span> このガイドの目次</h2>
+        <h2 className="text-lg font-black text-indigo-950 mb-3 flex items-center gap-2">このガイドの目次</h2>
         <ul className="grid sm:grid-cols-2 gap-2.5 text-xs md:text-sm text-indigo-900 font-bold">
           <li>
             <a href="#style-choice" className="hover:text-indigo-600 flex items-center gap-1.5 transition">
@@ -427,6 +431,9 @@ export default function ChristmasDateOnsenDinnerTripGuidePage() {
         </div>
       </section>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"クリスマスお泊まりデートおすすめ：イルミネーション×温泉×極上ディナーで過ごす冬の記念日旅"} url={"https://croud-travel.pages.dev/christmas-date-onsen-dinner-trip-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="christmas-date-onsen-dinner-trip-guide" />
 </div>
   );

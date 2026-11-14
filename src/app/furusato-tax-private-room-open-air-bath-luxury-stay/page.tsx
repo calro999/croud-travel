@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import FurusatoStepSection from "@/app/components/FurusatoStepSection";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
@@ -96,6 +97,9 @@ export default function FurusatoPrivateRoomOpenAirStayPage() {
             </Link>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"客室露天風呂付き客室で過ごす大人のプライベート温泉ステイ名旅館×ふるさと納税厳選ガイド修善寺・箱根・京都嵐山"} url={"https://croud-travel.pages.dev/furusato-tax-private-room-open-air-bath-luxury-stay/"} />
+      </div>
 
         {/* 3つの醍醐味セクション */}
         <section className="mb-16">
@@ -516,6 +520,9 @@ export default function FurusatoPrivateRoomOpenAirStayPage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"客室露天風呂付き客室で過ごす大人のプライベート温泉ステイ名旅館×ふるさと納税厳選ガイド修善寺・箱根・京都嵐山"} url={"https://croud-travel.pages.dev/furusato-tax-private-room-open-air-bath-luxury-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-private-room-open-air-bath-luxury-stay" />
 </div>
         </section>

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import fs from "fs";
 import path from "path";
@@ -77,6 +78,9 @@ export default function WinterTravelSpecialPage() {
           </Link>
         </div>
       </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"全国の冬の絶景温泉＆冬の美食満喫特集まとめ 500選"} url={"https://croud-travel.pages.dev/winter-travel-special/"} />
+      </div>
 
       {/* 目的別＆エリア別インタラクティブ絞り込みナビゲーション */}
       <WinterSpecialHubClient posts={winterPostsData} />
@@ -96,6 +100,38 @@ export default function WinterTravelSpecialPage() {
             className="inline-block px-8 py-3.5 bg-amber-400 hover:bg-amber-300 text-amber-950 text-xs md:text-sm font-black rounded-2xl shadow-lg transition"
           >
             秋の味覚特集まとめを見る 🍁 →
+          </Link>
+        </div>
+      </section>
+
+      {/* 2026-2027年冬の主力キラー記事4選 */}
+      <section className="bg-gradient-to-br from-slate-900 via-sky-950 to-indigo-950 rounded-3xl p-6 md:p-8 text-white shadow-xl border border-sky-500/30 space-y-5 my-8">
+        <div className="flex flex-wrap items-center justify-between gap-2 border-b border-white/10 pb-3">
+          <div>
+            <span className="inline-block text-[10px] font-black tracking-widest uppercase bg-sky-500/20 text-sky-200 px-3 py-0.5 rounded-full border border-sky-400/30">WINTER KILLER GUIDES 2026-2027</span>
+            <h2 className="text-lg md:text-2xl font-black mt-1.5 font-journal-serif">今冬すぐ使える！冬の定番＆推し活遠征・徹底比較ガイド4選</h2>
+          </div>
+        </div>
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+          <Link href="/posts/winter-newyear-countdown-anaba-onsen-hotels-guide/" className="p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-amber-400/40 transition block space-y-1.5">
+            <span className="text-[10px] font-bold text-amber-300">年末年始・穴場20選</span>
+            <h3 className="text-sm font-black leading-snug">年末年始・年越しカウントダウン穴場温泉宿20選</h3>
+            <p className="text-[11px] text-sky-100/80 line-clamp-2">静かな秘湯や離れ宿で人混みを避けて迎えるお正月ステイ比較</p>
+          </Link>
+          <Link href="/posts/winter-yukimi-rotenburo-train-access-onsen-hotels-guide/" className="p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-sky-400/40 transition block space-y-1.5">
+            <span className="text-[10px] font-bold text-sky-300">電車・雪道運転不要16選</span>
+            <h3 className="text-sm font-black leading-snug">車なしOK！電車で行ける雪見露天風呂の温泉宿16選</h3>
+            <p className="text-[11px] text-sky-100/80 line-clamp-2">新幹線＆無料送迎バス完備で初心者も安心の雪景色温泉</p>
+          </Link>
+          <Link href="/posts/furusato-tax-yearend-rush-rakuten-travel-coupon-guide/" className="p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-emerald-400/40 transition block space-y-1.5">
+            <span className="text-[10px] font-bold text-emerald-300">12月31日締切・駆け込み</span>
+            <h3 className="text-sm font-black leading-snug">ふるさと納税×楽天トラベル宿泊クーポン名宿20選</h3>
+            <p className="text-[11px] text-sky-100/80 line-clamp-2">年内の控除枠で憧れの名湯を確保する具体手順と人気宿</p>
+          </Link>
+          <Link href="/posts/national-arena-dome-oshikatsu-live-hotels-guide/" className="p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-rose-400/40 transition block space-y-1.5">
+            <span className="text-[10px] font-bold text-rose-300">全国全45会場・推し活遠征</span>
+            <h3 className="text-sm font-black leading-snug">全国ドーム＆アリーナ推し活遠征ホテル完全ガイド</h3>
+            <p className="text-[11px] text-sky-100/80 line-clamp-2">価格帯別4〜5選×全国45会場で冬ライブ遠征の宿を網羅</p>
           </Link>
         </div>
       </section>
@@ -195,7 +231,7 @@ export default function WinterTravelSpecialPage() {
             </div>
           </div>
           <div className="space-y-3 pt-4 border-t border-stone-200">
-            <h3 className="text-base font-bold text-stone-900">️ 合わせて訪れたい日本の代表的観光名所ガイド</h3>
+            <h3 className="text-base font-bold text-stone-900">合わせて訪れたい日本の代表的観光名所ガイド</h3>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
               <h4 className="text-sm font-bold text-stone-900">清水寺</h4>
@@ -217,6 +253,10 @@ export default function WinterTravelSpecialPage() {
           </div>
         </section>
 
-</div>
+
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"全国の冬の絶景温泉＆冬の美食満喫特集まとめ 500選"} url={"https://croud-travel.pages.dev/winter-travel-special/"} />
+      </div>
+      </div>
   );
 }

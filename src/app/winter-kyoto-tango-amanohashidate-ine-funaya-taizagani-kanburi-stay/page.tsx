@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import Link from 'next/link';
 import type { Metadata } from 'next';
@@ -299,6 +300,9 @@ export default function KyotoTangoWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月京都】「天橋立」幻雪の飛龍観と伊根の舟屋雪景色！元伊勢籠神社初詣＆幻の「間人ガニ」・伊根寒ブリ名宿5選"} url={"https://croud-travel.pages.dev/winter-kyoto-tango-amanohashidate-ine-funaya-taizagani-kanburi-stay/"} />
+      </div>
 
       {/* Summary Box */}
       <section className="max-w-5xl mx-auto px-4 -mt-8 relative z-20">
@@ -504,7 +508,7 @@ export default function KyotoTangoWinterPage() {
                         <a 
                           href={hotel.url} 
                           target="_blank" 
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="inline-flex items-center gap-1.5 px-5 py-2.5 bg-blue-900 hover:bg-blue-800 text-white font-bold text-xs rounded-xl shadow transition"
                         >
                           <span>宿泊プラン・空室を確認</span>
@@ -669,6 +673,9 @@ export default function KyotoTangoWinterPage() {
               トップページへ戻る
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月京都】「天橋立」幻雪の飛龍観と伊根の舟屋雪景色！元伊勢籠神社初詣＆幻の「間人ガニ」・伊根寒ブリ名宿5選"} url={"https://croud-travel.pages.dev/winter-kyoto-tango-amanohashidate-ine-funaya-taizagani-kanburi-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-kyoto-tango-amanohashidate-ine-funaya-taizagani-kanburi-stay" />
 </div>
         </section>

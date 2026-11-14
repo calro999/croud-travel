@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -113,6 +114,9 @@ export default function SeasonalFeaturePage() {
             ロシアのアムール川から南下し、海一面を真っ白に埋め尽くす大自然のスペクタクル「流氷」。砕氷船から眺める大迫力の流氷原、オホーツクの海鮮バイキング、流氷を望む展望露天風呂へ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"冬のオホーツク：流氷クルーズ＆知床世界遺産ホテル 厳選ガイド"} url={"https://croud-travel.pages.dev/winter-snow-drift-ice-cruise/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function SeasonalFeaturePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"冬のオホーツク：流氷クルーズ＆知床世界遺産ホテル 厳選ガイド"} url={"https://croud-travel.pages.dev/winter-snow-drift-ice-cruise/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-snow-drift-ice-cruise" />
 </div>
   );

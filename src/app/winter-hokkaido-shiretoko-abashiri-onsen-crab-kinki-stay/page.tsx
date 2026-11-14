@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
     title: '【11・12・1月北海道】知床ウトロ＆網走の冬絶景とオホーツク海鮮・極上知床牛＆冬タラバ・毛ガニ・高級魚めんめ湯煮を堪能する名宿5選',
     description: '11月から1月、世界自然遺産・知床ウトロとオホーツクの要衝・網走は、白銀に染まる知床連峰と凛と澄み渡るオホーツクブルーの海原が織りなす荘厳な。',
     url: 'https://croud-travel.pages.dev/winter-hokkaido-shiretoko-abashiri-onsen-crab-kinki-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     images: [
       {
         url: 'https://img.travel.rakuten.co.jp/share/HOTEL/8312/8312.jpg',
@@ -49,12 +50,12 @@ export default function HokkaidoShiretokoAbashiriWinterPage() {
     dateModified: '',
     author: {
       '@type': 'Organization',
-      name: 'クラドトラベル編集部',
+      name: '旅宿クラウド編集部',
       url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png'
@@ -293,6 +294,9 @@ export default function HokkaidoShiretokoAbashiriWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月北海道】知床ウトロ＆網走の冬絶景とオホーツク海鮮・極上知床牛＆冬タラバ・毛ガニ・高級魚めんめ湯煮を堪能する名宿5選"} url={"https://croud-travel.pages.dev/winter-hokkaido-shiretoko-abashiri-onsen-crab-kinki-stay/"} />
+      </div>
 
       {/* Main Content Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 pt-12 space-y-16">
@@ -432,7 +436,7 @@ export default function HokkaidoShiretokoAbashiriWinterPage() {
                     <a 
                       href={hotel.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="w-full inline-flex items-center justify-center gap-2 bg-gradient-to-r from-sky-800 to-slate-900 hover:from-sky-900 hover:to-black text-white font-bold py-3.5 px-6 rounded-2xl shadow-sm hover:shadow transition text-sm tracking-wide"
                     >
                       <span>楽天トラベルで空室・冬限定プランを見る</span>
@@ -614,6 +618,9 @@ export default function HokkaidoShiretokoAbashiriWinterPage() {
               <p className="font-bold text-stone-800 line-clamp-2">白煙上げる冬の地獄谷と9種の泉質・北海タラバガニと名湯を堪能する名宿</p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月北海道】知床ウトロ＆網走の冬絶景とオホーツク海鮮・極上知床牛＆冬タラバ・毛ガニ・高級魚めんめ湯煮を堪能する名宿5選"} url={"https://croud-travel.pages.dev/winter-hokkaido-shiretoko-abashiri-onsen-crab-kinki-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-hokkaido-shiretoko-abashiri-onsen-crab-kinki-stay" />
 </div>
         </section>

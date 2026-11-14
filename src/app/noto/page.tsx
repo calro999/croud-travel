@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import fs from "fs";
 import path from "path";
@@ -192,6 +193,9 @@ export default function NotoGuidePage() {
           </a>
         </div>
       </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"能登旅行 完全計画ガイド：1泊2日・2泊3日モデルコース＆和倉温泉・白米千枚田・能登島・能登丼・絶景宿おすすめ"} url={"https://croud-travel.pages.dev/noto/"} />
+      </div>
 
       <section id="step1" className="scroll-mt-24 bg-white border border-emerald-950/10 rounded-3xl p-6 md:p-10 shadow-sm space-y-6">
         <div className="space-y-2 border-b border-emerald-950/10 pb-4">
@@ -213,7 +217,7 @@ export default function NotoGuidePage() {
           </div>
 
           <div className="p-5 rounded-2xl bg-teal-50/40 border border-teal-900/10 space-y-2">
-            <h3 className="text-sm font-bold text-teal-950 flex items-center gap-1.5"><span>️</span> <span>のと里山空港（羽田から直行便）</span></h3>
+            <h3 className="text-sm font-bold text-teal-950 flex items-center gap-1.5"><span>のと里山空港（羽田から直行便）</span></h3>
             <p className="text-emerald-950/80 leading-relaxed">
               羽田空港から「のと里山空港」まで約1時間。空港から輪島や和倉温泉までは予約制「ふるさとタクシー（1人1,000円〜2,000円程度）」が利用でき非常に便利です。
             </p>
@@ -248,7 +252,7 @@ export default function NotoGuidePage() {
           </div>
 
           <div className="p-5 rounded-2xl bg-amber-50/40 border border-amber-950/5 space-y-2">
-            <h3 className="text-sm font-bold text-amber-950 flex items-center gap-1.5"><span>️</span> <span>和倉温泉（開湯1200年の海の温泉）</span></h3>
+            <h3 className="text-sm font-bold text-amber-950 flex items-center gap-1.5"><span>和倉温泉（開湯1200年の海の温泉）</span></h3>
             <p className="text-emerald-950/80 leading-relaxed">
               七尾湾を望む名湯。海から湧き出る豊富な塩分を含んだ温泉は保温・美肌効果抜群。「加賀屋」をはじめ日本最高峰のおもてなし宿が集結しています。
             </p>
@@ -536,6 +540,9 @@ export default function NotoGuidePage() {
         </div>
       </section>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"能登旅行 完全計画ガイド：1泊2日・2泊3日モデルコース＆和倉温泉・白米千枚田・能登島・能登丼・絶景宿おすすめ"} url={"https://croud-travel.pages.dev/noto/"} />
+      </div>
       <HubRelatedPosts currentSlug="noto" />
 </div>
   );

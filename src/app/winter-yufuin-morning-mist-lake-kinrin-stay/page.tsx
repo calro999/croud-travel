@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             秋から初冬の早朝にだけ現れる金鱗湖の神秘的な「朝霧（湯気霧）」！湖底から温泉が湧き出ることで生まれる幻想的な霧の風景と、雄大な由布岳を望む離れ客室専用露天風呂で誰にも邪魔されない極上ステイ。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月幻想の朝霧！由布院金鱗湖＆由布岳】湯けむり包む由布院温泉の離れ客室露天宿5選"} url={"https://croud-travel.pages.dev/winter-yufuin-morning-mist-lake-kinrin-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -578,6 +582,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月幻想の朝霧！由布院金鱗湖＆由布岳】湯けむり包む由布院温泉の離れ客室露天宿5選"} url={"https://croud-travel.pages.dev/winter-yufuin-morning-mist-lake-kinrin-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-yufuin-morning-mist-lake-kinrin-stay" />
 </div>
         </section>

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -76,6 +77,9 @@ export default function YufuinVsBeppuPage() {
             「どっちに泊まるべき？」と悩むあなたのために、泉質から宿のタイプ、グルメ、費用まで徹底比較しました。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"由布院 vs 別府 どっちに泊まる？：温泉の泉質・宿のタイプ・観光スポット・費用を完全比較"} url={"https://croud-travel.pages.dev/yufuin-vs-beppu-which-stay/"} />
+      </div>
       </section>
 
       <section className="px-4">
@@ -467,6 +471,9 @@ export default function YufuinVsBeppuPage() {
             </div>
           </div></section>
 
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"由布院 vs 別府 どっちに泊まる？：温泉の泉質・宿のタイプ・観光スポット・費用を完全比較"} url={"https://croud-travel.pages.dev/yufuin-vs-beppu-which-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="yufuin-vs-beppu-which-stay" />
 </div>
   );

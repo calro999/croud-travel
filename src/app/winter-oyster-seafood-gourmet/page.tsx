@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -113,6 +114,9 @@ export default function SeasonalFeaturePage() {
             ぷりぷりと大粒でクリーミーな冬の牡蠣。炭火で香ばしく焼き上げる殻付き焼き牡蠣、熱々のカキフライ、濃厚な牡蠣鍋や牡蠣ご飯。海の恵みと極上の温泉に癒やされる冬の美食ステイへ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【冬の海のミルク】極上牡蠣＆冬海鮮づくし温泉旅館 完全ガイド"} url={"https://croud-travel.pages.dev/winter-oyster-seafood-gourmet/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function SeasonalFeaturePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【冬の海のミルク】極上牡蠣＆冬海鮮づくし温泉旅館 完全ガイド"} url={"https://croud-travel.pages.dev/winter-oyster-seafood-gourmet/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-oyster-seafood-gourmet" />
 </div>
   );

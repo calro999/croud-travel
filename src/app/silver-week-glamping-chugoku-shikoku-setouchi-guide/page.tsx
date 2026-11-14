@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -171,6 +172,9 @@ export default function SilverWeekGlampingSetouchiPage() {
             <span className="flex items-center gap-1.5">✓ 海を臨む天然温泉露天風呂＆愛犬同伴OK客室</span>
           </div>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"瀬戸内・中四国シルバーウィーク グランピング：しまなみ海道の多島美＆オリーブ牛BBQ"} url={"https://croud-travel.pages.dev/silver-week-glamping-chugoku-shikoku-setouchi-guide/"} />
+      </div>
       </section>
 
       {/* 楽天トラベルスペシャルクーポンバナー */}
@@ -397,6 +401,9 @@ export default function SilverWeekGlampingSetouchiPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"瀬戸内・中四国シルバーウィーク グランピング：しまなみ海道の多島美＆オリーブ牛BBQ"} url={"https://croud-travel.pages.dev/silver-week-glamping-chugoku-shikoku-setouchi-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="silver-week-glamping-chugoku-shikoku-setouchi-guide" />
 </div>
   );

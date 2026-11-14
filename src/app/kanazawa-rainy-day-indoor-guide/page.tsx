@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -192,6 +193,9 @@ export default function KanazawaRainyDayIndoorGuidePage() {
           </div>
         </div>
       </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"金沢 雨の日の観光モデルコース：「弁当忘れても傘忘れるな」の街！21世紀美術館・ひがし茶屋街カフェ・金箔貼り体験"} url={"https://croud-travel.pages.dev/kanazawa-rainy-day-indoor-guide/"} />
+      </div>
 
       {/* 楽天トラベルクーポンプロモーション */}
       <section className="max-w-5xl mx-auto px-4 -mt-8 relative z-20">
@@ -467,6 +471,9 @@ export default function KanazawaRainyDayIndoorGuidePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"金沢 雨の日の観光モデルコース：「弁当忘れても傘忘れるな」の街！21世紀美術館・ひがし茶屋街カフェ・金箔貼り体験"} url={"https://croud-travel.pages.dev/kanazawa-rainy-day-indoor-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="kanazawa-rainy-day-indoor-guide" />
 </div>
         </section>

@@ -78,6 +78,25 @@ export default async function FeaturesPage() {
       {/* 🎁 楽天トラベル公式 お得キャンペーンバナー */}
       <SpecialCouponBanner />
 
+      {/* ❄️ 冬の絶景・美食温泉宿 特設まとめバナー */}
+      <section className="bg-gradient-to-r from-slate-900 via-sky-950 to-indigo-950 rounded-3xl p-6 md:p-8 text-white shadow-lg flex flex-col md:flex-row items-center justify-between gap-6 border border-sky-500/20">
+        <div className="space-y-2">
+          <span className="inline-block text-[10px] font-black tracking-wider bg-sky-500/20 text-sky-200 border border-sky-400/30 px-3 py-0.5 rounded-full uppercase">
+            2026-2027 冬旅・年末年始 超特別企画
+          </span>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif">【2026-2027年最新】全国ドーム推し活遠征・年末年始穴場温泉・雪見露天・ふるさと納税特集</h2>
+          <p className="text-sky-100 text-xs md:text-sm max-w-2xl leading-relaxed">
+            全国ドーム・アリーナ45会場別の推し活ホテル徹底比較、年末年始カウントダウン穴場温泉宿20選、電車で行ける雪見露天風呂16選、12月31日締切ふるさと納税宿泊クーポン完全攻略まで今冬注目の決定版記事を一挙公開。
+          </p>
+        </div>
+        <Link
+          href="/winter-travel-special/"
+          className="w-full md:w-auto px-8 py-4 bg-sky-400 text-sky-950 hover:bg-sky-300 font-black text-xs md:text-sm rounded-2xl shadow-md transition text-center whitespace-nowrap"
+        >
+          冬の厳選特集まとめを見る →
+        </Link>
+      </section>
+
       {/* 🍁 秋の行楽・美食温泉宿35選 特設まとめバナー */}
       <section className="bg-gradient-to-r from-amber-600 via-orange-600 to-amber-700 rounded-3xl p-6 md:p-8 text-white shadow-lg flex flex-col items-center justify-between gap-6">
         <div className="space-y-2">
@@ -97,26 +116,7 @@ export default async function FeaturesPage() {
         </Link>
       </section>
 
-      {/* ❄️ 冬の絶景・美食温泉宿 特設まとめバナー */}
-      <section className="bg-gradient-to-r from-slate-900 via-sky-950 to-indigo-950 rounded-3xl p-6 md:p-8 text-white shadow-lg flex flex-col md:flex-row items-center justify-between gap-6 border border-sky-500/20">
-        <div className="space-y-2">
-          <span className="inline-block text-[10px] font-black tracking-wider bg-sky-500/20 text-sky-200 border border-sky-400/30 px-3 py-0.5 rounded-full uppercase">
-            冬の超特別企画 ❄️
-          </span>
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif">【2026-2027年最新】全国の冬の絶景温泉＆冬の美食満喫特集 500選 まとめ</h2>
-          <p className="text-sky-100 text-xs md:text-sm max-w-2xl leading-relaxed">
-            松葉ガニ・越前ガニ、下関とらふぐ、雪見露天風呂、新春開運初詣、きらめく冬イルミネーションまで！全国エリア別の厳選特集記事500選を一挙公開。
-          </p>
-        </div>
-        <Link
-          href="/winter-travel-special/"
-          className="w-full md:w-auto px-8 py-4 bg-sky-400 text-sky-950 hover:bg-sky-300 font-black text-xs md:text-sm rounded-2xl shadow-md transition text-center whitespace-nowrap"
-        >
-          冬の厳選特集まとめを見る →
-        </Link>
-      </section>
-
-            {/* 🔥 2026-2027年最重要メガヒット特集（全国キラー決定版ガイドTOP7） */}
+            {/* 🔥 2026-2027年最重要メガヒット特集（全国キラー決定版ガイドTOP10） */}
       <section className="p-6 md:p-8 rounded-3xl bg-gradient-to-r from-stone-950 via-teal-950 to-stone-900 text-white shadow-xl border-2 border-amber-500/30 space-y-5">
         <div className="flex flex-wrap items-center justify-between gap-3 border-b border-white/10 pb-4">
           <div>
@@ -129,10 +129,53 @@ export default async function FeaturesPage() {
         </div>
 
         <p className="text-xs md:text-sm text-stone-300 leading-relaxed max-w-4xl">
-          当サイトが総力を結集して執筆した1万文字超の徹底比較バイブル。温泉ランキング、オールインクルーシブ、サウナシュラン、初詣、ふるさと納税、本場カニまで必見です。
+          当サイトが総力を結集して執筆した徹底比較バイブル。全国ドーム＆アリーナ推し活ホテル、年末年始の穴場名湯、電車で行ける雪見露天、12月駆け込みふるさと納税、オールインクルーシブまで必見です。
         </p>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3.5 pt-1">
+          <Link
+            href="/posts/national-arena-dome-oshikatsu-live-hotels-guide/"
+            className="p-4 rounded-2xl bg-white/15 hover:bg-white/25 border-2 border-rose-400/50 hover:border-rose-300 transition block group space-y-1.5 shadow-sm"
+          >
+            <span className="text-[10px] font-extrabold text-rose-200 bg-rose-950/90 px-2 py-0.5 rounded inline-block">
+              推し活遠征・全国45会場
+            </span>
+            <h3 className="text-xs md:text-sm font-bold text-white group-hover:text-rose-200 transition line-clamp-2">全国ドーム・アリーナ推し活ライブ遠征ホテル完全ガイド｜格安〜ご褒美まで価格帯別厳選</h3>
+            <p className="text-[10px] text-stone-300 line-clamp-1">駅近・深夜帰宅・荷物を預けられる主要全45会場近くの宿を網羅</p>
+          </Link>
+
+          <Link
+            href="/posts/winter-newyear-countdown-anaba-onsen-hotels-guide/"
+            className="p-4 rounded-2xl bg-white/15 hover:bg-white/25 border border-amber-400/50 hover:border-amber-300 transition block group space-y-1.5 shadow-sm"
+          >
+            <span className="text-[10px] font-extrabold text-amber-200 bg-amber-950/90 px-2 py-0.5 rounded inline-block">
+              年末年始・まだ間に合う穴場20選
+            </span>
+            <h3 className="text-xs md:text-sm font-bold text-white group-hover:text-amber-200 transition line-clamp-2">【2026-2027年末年始】まだ間に合う年越しカウントダウン穴場温泉宿＆隠れ家20選</h3>
+            <p className="text-[10px] text-stone-300 line-clamp-1">混雑回避で静かに過ごす年越し・お正月特別プラン＆直前空室攻略</p>
+          </Link>
+
+          <Link
+            href="/posts/winter-yukimi-rotenburo-train-access-onsen-hotels-guide/"
+            className="p-4 rounded-2xl bg-white/15 hover:bg-white/25 border border-sky-400/50 hover:border-sky-300 transition block group space-y-1.5 shadow-sm"
+          >
+            <span className="text-[10px] font-extrabold text-sky-200 bg-sky-950/90 px-2 py-0.5 rounded inline-block">
+              雪道運転なし・駅送迎あり16選
+            </span>
+            <h3 className="text-xs md:text-sm font-bold text-white group-hover:text-sky-200 transition line-clamp-2">【車なしOK】電車・新幹線＆無料送迎で行ける雪見露天風呂の温泉宿16選</h3>
+            <p className="text-[10px] text-stone-300 line-clamp-1">越後湯沢・奥飛騨・山形銀山＆蔵王・乳頭・加賀など雪景色名湯</p>
+          </Link>
+
+          <Link
+            href="/posts/furusato-tax-yearend-rush-rakuten-travel-coupon-guide/"
+            className="p-4 rounded-2xl bg-white/15 hover:bg-white/25 border border-emerald-400/50 hover:border-emerald-300 transition block group space-y-1.5 shadow-sm"
+          >
+            <span className="text-[10px] font-extrabold text-emerald-200 bg-emerald-950/90 px-2 py-0.5 rounded inline-block">
+              12月31日締切・年末駆け込み寄付
+            </span>
+            <h3 className="text-xs md:text-sm font-bold text-white group-hover:text-emerald-200 transition line-clamp-2">【12月駆け込み完全攻略】ふるさと納税×楽天トラベル宿泊クーポン高級温泉宿20選</h3>
+            <p className="text-[10px] text-stone-300 line-clamp-1">寄付後即発券・あとから割引適用＆有効期限最長3年の宿を一挙比較</p>
+          </Link>
           <Link
             href="/posts/winter-tokyo-omotesando-illumination-jingu-christmas-luxury-hotels-guide/"
             className="p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-amber-400/30 hover:border-amber-400 transition block group space-y-1.5 shadow-sm"

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function HeritageOnsenHubPage() {
             日本の美意識と宮大工の匠の技が息づく「登録有形文化財の宿」。明治・大正・昭和の文豪や皇族が愛した伝統木造建築、釘を使わない数寄屋造り、磨き抜かれた艶やかな廊下。時を超えて受け継がれる極上のおもてなしへ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"登録有形文化財・名建築の宿：宮大工の木造建築・文豪が愛した老舗旅館 厳選ガイド"} url={"https://croud-travel.pages.dev/heritage-cultural-wooden-ryokan/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function HeritageOnsenHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"登録有形文化財・名建築の宿：宮大工の木造建築・文豪が愛した老舗旅館 厳選ガイド"} url={"https://croud-travel.pages.dev/heritage-cultural-wooden-ryokan/"} />
+      </div>
       <HubRelatedPosts currentSlug="heritage-cultural-wooden-ryokan" />
 </div>
   );

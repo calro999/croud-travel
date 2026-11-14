@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -174,6 +175,9 @@ export default function TokyoBirthdaySurpriseHotelPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"彼女の誕生日サプライズホテル東京おすすめ5選：夜景ビュー・ホールケーキ＆バルーン装飾確約プラン"} url={"https://croud-travel.pages.dev/tokyo-birthday-surprise-luxury-hotel-guide/"} />
+      </div>
 
       {/* メインコンテンツ */}
       <main className="max-w-4xl mx-auto px-4 py-10 space-y-12">
@@ -676,6 +680,9 @@ export default function TokyoBirthdaySurpriseHotelPage() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"彼女の誕生日サプライズホテル東京おすすめ5選：夜景ビュー・ホールケーキ＆バルーン装飾確約プラン"} url={"https://croud-travel.pages.dev/tokyo-birthday-surprise-luxury-hotel-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="tokyo-birthday-surprise-luxury-hotel-guide" />
 </div>
   );

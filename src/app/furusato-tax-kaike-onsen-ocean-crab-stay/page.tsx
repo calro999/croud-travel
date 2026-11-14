@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -14,7 +15,7 @@ export const metadata: Metadata = {
     title: '皆生温泉をふるさと納税でお得に旅する！日本海の絶景オーシャンビュー＆境港直送松葉ガニ！米子名門宿ガイド｜皆生つるや・華水亭・白扇',
     description: '日本海と白砂青松の弓ヶ浜を望む山陰屈指の美肌リゾート・鳥取県皆生温泉を楽天ふるさと納税でお得に満喫！数寄屋造りの名門老舗「皆生つるや」、全室海一望のパノラマ露天風呂「華水亭」、全室展望ジャグジー付き「湯喜望 白扇」を徹底比較。松葉ガニや鳥取和牛会席、米子市トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-kaike-onsen-ocean-crab-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -28,12 +29,12 @@ export default function FurusatoArticlePage() {
     description: '日本海と白砂青松の弓ヶ浜を望む山陰屈指の美肌リゾート・鳥取県皆生温泉を楽天ふるさと納税でお得に満喫！数寄屋造りの名門老舗「皆生つるや」、全室海一望のパノラマ露天風呂「華水亭」、全室展望ジャグジー付き「湯喜望 白扇」を徹底比較。松葉ガニや鳥取和牛会席、米子市トラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル 観光・ふるさと納税調査班',
+      name: '旅宿クラウド 観光・ふるさと納税調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -80,6 +81,9 @@ export default function FurusatoArticlePage() {
           日本海と白砂青松の弓ヶ浜を望む山陰屈指の美肌リゾート・鳥取県皆生温泉を楽天ふるさと納税でお得に満喫！数寄屋造りの名門老舗「皆生つるや」、全室海一望のパノラマ露天風呂「華水亭」、全室展望ジャグジー付き「湯喜望 白扇」を徹底比較。松葉ガニや鳥取和牛会席、米子市トラベルクーポン活用術を網羅。
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"皆生温泉をふるさと納税でお得に旅する！日本海の絶景オーシャンビュー＆境港直送松葉ガニ！米子名門宿ガイド"} url={"https://croud-travel.pages.dev/furusato-tax-kaike-onsen-ocean-crab-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
@@ -360,7 +364,7 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 皆生温泉・境港水木しげるロード＆名峰大山ドライブガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">皆生温泉・境港水木しげるロード＆名峰大山ドライブガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
@@ -586,6 +590,9 @@ export default function FurusatoArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"皆生温泉をふるさと納税でお得に旅する！日本海の絶景オーシャンビュー＆境港直送松葉ガニ！米子名門宿ガイド"} url={"https://croud-travel.pages.dev/furusato-tax-kaike-onsen-ocean-crab-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-kaike-onsen-ocean-crab-stay" />
 </div>
         </section>

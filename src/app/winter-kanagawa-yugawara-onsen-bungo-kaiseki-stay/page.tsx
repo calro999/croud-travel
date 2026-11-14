@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -296,6 +297,9 @@ export default function YugawaraWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月湯河原温泉の名湯と奥湯河原晩秋紅葉】文豪が愛した万葉の隠れ家・相模湾の伊勢海老＆地魚会席の宿5選"} url={"https://croud-travel.pages.dev/winter-kanagawa-yugawara-onsen-bungo-kaiseki-stay/"} />
+      </div>
 
       {/* Main Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
@@ -509,7 +513,7 @@ export default function YugawaraWinterPage() {
                       <a
                         href={h.url}
                         target="_blank"
-                        rel="noopener noreferrer nofollow"
+                        rel="sponsored noopener noreferrer"
                         className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-6 py-3 rounded-xl bg-orange-700 hover:bg-orange-800 text-white text-xs sm:text-sm font-bold shadow-md hover:shadow-lg transition-all duration-200"
                       >
                         <span>空室・料金プランを確認</span>
@@ -709,6 +713,9 @@ export default function YugawaraWinterPage() {
               </p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月湯河原温泉の名湯と奥湯河原晩秋紅葉】文豪が愛した万葉の隠れ家・相模湾の伊勢海老＆地魚会席の宿5選"} url={"https://croud-travel.pages.dev/winter-kanagawa-yugawara-onsen-bungo-kaiseki-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-kanagawa-yugawara-onsen-bungo-kaiseki-stay" />
 </div>
         </section>

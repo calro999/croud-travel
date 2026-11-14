@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -257,6 +258,9 @@ export default function HyogoTanbaSasayamaPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月兵庫】冬本番！丹波篠山の本場「ぼたん鍋」発祥の味＆雪化粧の篠山城下町・丹波篠山牛を堪能する名宿5選"} url={"https://croud-travel.pages.dev/winter-hyogo-tanba-sasayama-botannabe-castle-stay/"} />
+      </div>
 
       {/* Main Content Area */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
@@ -487,7 +491,7 @@ export default function HyogoTanbaSasayamaPage() {
                     <a 
                       href={hotel.url} 
                       target="_blank" 
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-xl bg-gradient-to-r from-rose-600 to-rose-700 hover:from-rose-700 hover:to-rose-800 text-white font-bold text-xs sm:text-sm shadow-md shadow-rose-600/20 hover:shadow-lg transition-all w-full sm:w-auto"
                     >
                       <span>冬の人気宿は早い者勝ち ▶ 空室を確認する</span>
@@ -630,6 +634,9 @@ export default function HyogoTanbaSasayamaPage() {
               </span>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月兵庫】冬本番！丹波篠山の本場「ぼたん鍋」発祥の味＆雪化粧の篠山城下町・丹波篠山牛を堪能する名宿5選"} url={"https://croud-travel.pages.dev/winter-hyogo-tanba-sasayama-botannabe-castle-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-hyogo-tanba-sasayama-botannabe-castle-stay" />
 </div>
         </section>

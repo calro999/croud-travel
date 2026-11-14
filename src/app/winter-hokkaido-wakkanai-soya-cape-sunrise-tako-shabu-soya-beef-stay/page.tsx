@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import Link from 'next/link';
 import type { Metadata } from 'next';
@@ -299,6 +300,9 @@ export default function HokkaidoWakkanaiWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月北海道】日本最北端「宗谷岬」冬の初日の出と氷門の詩情！極上「宗谷黒牛」＆名物タコしゃぶ・稚内天然温泉名宿5選"} url={"https://croud-travel.pages.dev/winter-hokkaido-wakkanai-soya-cape-sunrise-tako-shabu-soya-beef-stay/"} />
+      </div>
 
       {/* Summary Box */}
       <section className="max-w-5xl mx-auto px-4 -mt-8 relative z-20">
@@ -490,7 +494,7 @@ export default function HokkaidoWakkanaiWinterPage() {
                       <a 
                         href={hotel.url} 
                         target="_blank" 
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="w-full bg-gradient-to-r from-cyan-600 to-blue-600 hover:from-cyan-500 hover:to-blue-500 text-white font-bold py-3 px-4 rounded-xl text-center block transition shadow-lg shadow-cyan-900/30 text-sm"
                       >
                         楽天トラベルで空室・プランを見る <ExternalLink className="w-4 h-4 inline-block ml-1" />
@@ -533,7 +537,7 @@ export default function HokkaidoWakkanaiWinterPage() {
                       <a 
                         href={hotel.url} 
                         target="_blank" 
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="w-full bg-gradient-to-r from-cyan-600 to-blue-600 hover:from-cyan-500 hover:to-blue-500 text-white font-bold py-3 px-4 rounded-xl text-center block transition shadow-lg shadow-cyan-900/30 text-sm"
                       >
                         楽天トラベルで空室・プランを見る <ExternalLink className="w-4 h-4 inline-block ml-1" />
@@ -625,6 +629,9 @@ export default function HokkaidoWakkanaiWinterPage() {
             <Link href="/posts/" className="hover:text-cyan-600 underline">記事一覧カタログ</Link>
           </div>
         
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月北海道】日本最北端「宗谷岬」冬の初日の出と氷門の詩情！極上「宗谷黒牛」＆名物タコしゃぶ・稚内天然温泉名宿5選"} url={"https://croud-travel.pages.dev/winter-hokkaido-wakkanai-soya-cape-sunrise-tako-shabu-soya-beef-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-hokkaido-wakkanai-soya-cape-sunrise-tako-shabu-soya-beef-stay" />
 </div>
       </section>

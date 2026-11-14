@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import Link from 'next/link';
 import type { Metadata } from 'next';
@@ -16,7 +17,7 @@ export const metadata: Metadata = {
     title: '【11・12・1月大阪】勝ち運の寺「勝尾寺」新春初詣と勝ちダルマ祈願！白銀の「箕面大滝」氷紋と名物もみじ天ぷら・箕面温泉＆北摂厳選名宿5選',
     description: '大阪都心から電車で約30分の北摂に位置する箕面。11〜1月は晩秋の紅葉から冬の雪化粧へと移ろい。',
     url: 'https://croud-travel.pages.dev/winter-osaka-minoh-katsuoji-daruma-hatsumode-waterfall-onsen-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
     images: [{
@@ -45,11 +46,11 @@ export default function OsakaMinohWinterFeaturePage() {
     "dateModified": "2026-10-25T06:00:00+09:00",
     "author": {
       "@type": "Organization",
-      "name": "クラドトラベル編集部 温泉・神社仏閣取材班"
+      "name": "旅宿クラウド編集部 温泉・神社仏閣取材班"
     },
     "publisher": {
       "@type": "Organization",
-      "name": "クラドトラベル",
+      "name": "旅宿クラウド",
       "logo": {
         "@type": "ImageObject",
         "url": "https://croud-travel.pages.dev/logo.png"
@@ -306,6 +307,9 @@ export default function OsakaMinohWinterFeaturePage() {
             </div>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月大阪】勝ち運の寺「勝尾寺」新春初詣と勝ちダルマ祈願！白銀の「箕面大滝」氷紋と名物もみじ天ぷら・箕面温泉＆北摂厳選名宿5選"} url={"https://croud-travel.pages.dev/winter-osaka-minoh-katsuoji-daruma-hatsumode-waterfall-onsen-stay/"} />
+      </div>
 
         {/* Main Content Area */}
         <main className="max-w-4xl mx-auto px-4 sm:px-6 py-12">
@@ -438,7 +442,7 @@ export default function OsakaMinohWinterFeaturePage() {
                       <a
                         href={h.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-1.5 px-4 py-2 bg-rose-600 hover:bg-rose-700 text-white rounded-lg text-xs font-bold transition shadow-sm"
                       >
                         楽天トラベルでプラン・空室を確認
@@ -574,7 +578,11 @@ export default function OsakaMinohWinterFeaturePage() {
             </div>
           </section>
 
-        </main>
+        
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月大阪】勝ち運の寺「勝尾寺」新春初詣と勝ちダルマ祈願！白銀の「箕面大滝」氷紋と名物もみじ天ぷら・箕面温泉＆北摂厳選名宿5選"} url={"https://croud-travel.pages.dev/winter-osaka-minoh-katsuoji-daruma-hatsumode-waterfall-onsen-stay/"} />
+      </div>
+      </main>
       </article>
     </>
   );

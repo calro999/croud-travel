@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -107,6 +108,9 @@ export default function MicroTouristHubPage() {
             もうもうと立ち上る白煙と煮えたぎる熱湯が圧倒的な迫力を放つ「登別地獄谷」。9種類もの異なる泉質が湧き出る日本有数の名湯から、半年間にわたり毎晩夜空を彩る「洞爺湖ロングラン花火大会」の絶景レイクビューへ。大地の鼓動を肌で感じる有珠山ジオパークのダイナミズムと、極上のいで湯と北海道の美食に癒される至高のステイへご案内します。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"北海道・洞爺湖＆登別：地獄谷・洞爺湖花火＆絶景温泉宿 厳選ガイド"} url={"https://croud-travel.pages.dev/hokkaido-toya-noboribetsu-jigokudani-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"北海道・洞爺湖＆登別：地獄谷・洞爺湖花火＆絶景温泉宿 厳選ガイド"} url={"https://croud-travel.pages.dev/hokkaido-toya-noboribetsu-jigokudani-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="hokkaido-toya-noboribetsu-jigokudani-stay" />
 </div>
   );

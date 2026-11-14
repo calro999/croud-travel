@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月広島・宮島温泉の世界遺産初冬絶景と旬解禁広島カキづくし会席】厳島神社大鳥居一望＆瀬戸内海オーシャンビュー露天の宿5選',
     description: '11月から12月にかけて、日本三景の一つにして世界遺産の島・宮島（厳島）は、紅葉谷の燃えるような紅葉が落ち着きを取り戻し。',
     url: 'https://croud-travel.pages.dev/winter-hiroshima-miyajima-onsen-kaki-oyster-seto-stay/',
-    siteName: 'クラドトラベル (Croud Travel)',
+    siteName: '旅宿クラウド (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -257,6 +258,9 @@ export default function HiroshimaMiyajimaWinterFeature() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月広島・宮島温泉の世界遺産初冬絶景と旬解禁広島カキづくし会席】厳島神社大鳥居一望＆瀬戸内海オーシャンビュー露天の宿5選"} url={"https://croud-travel.pages.dev/winter-hiroshima-miyajima-onsen-kaki-oyster-seto-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 space-y-16">
@@ -384,7 +388,7 @@ export default function HiroshimaMiyajimaWinterFeature() {
                     <a
                       href={h.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center gap-2 px-6 py-3 rounded-2xl bg-gradient-to-r from-red-600 to-red-700 text-white font-bold text-sm shadow-md hover:from-red-700 hover:to-red-800 transition-all"
                     >
                       楽天トラベルでプランを見る
@@ -598,6 +602,9 @@ export default function HiroshimaMiyajimaWinterFeature() {
               <p className="text-slate-300 text-[11px] line-clamp-2">渦潮が巻く鳴門海峡のパノラマ露天と脂の乗った寒鯛会席。</p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月広島・宮島温泉の世界遺産初冬絶景と旬解禁広島カキづくし会席】厳島神社大鳥居一望＆瀬戸内海オーシャンビュー露天の宿5選"} url={"https://croud-travel.pages.dev/winter-hiroshima-miyajima-onsen-kaki-oyster-seto-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-hiroshima-miyajima-onsen-kaki-oyster-seto-stay" />
 </div>
         </section>

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -12,7 +13,7 @@ export const metadata: Metadata = {
     title: '道後温泉ひとり旅・日本最古の名湯おこもり：道後温泉本館・美人の湯・愛媛鯛めし！松山城下町と文学の香りに浸る厳選3宿',
     description: '日本最古の歴史を誇る名湯・道後！道後公園隣接でリーズナブルに天然温泉を楽しめる「にぎたつ会館」、明治レトロな洋館風ロビーと大浴場が人気の老舗「ホテル椿館」、全室客室露天風呂付きで極上のプライベートステイが叶う「八千代」を徹底比較。',
     url: 'https://croud-travel.pages.dev/ehime-dogo-solo-retreat-onsen-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -26,12 +27,12 @@ export default function ArticlePage() {
     description: '日本最古の歴史を誇る名湯・道後！道後公園隣接でリーズナブルに天然温泉を楽しめる「にぎたつ会館」、明治レトロな洋館風ロビーと大浴場が人気の老舗「ホテル椿館」、全室客室露天風呂付きで極上のプライベートステイが叶う「八千代」を徹底比較。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル ひとり旅・出張調査班',
+      name: '旅宿クラウド ひとり旅・出張調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -91,6 +92,9 @@ export default function ArticlePage() {
             </p>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"道後温泉ひとり旅・日本最古の名湯おこもり：道後温泉本館・美人の湯・愛媛鯛めし！松山城下町と文学の香りに浸る厳選3宿"} url={"https://croud-travel.pages.dev/ehime-dogo-solo-retreat-onsen-stay/"} />
+      </div>
 
         {/* 目次 */}
         <section className="bg-white p-5 rounded-2xl border border-stone-200 shadow-sm mb-10">
@@ -147,7 +151,7 @@ export default function ArticlePage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F15880%2F15880.html"
                 target="_blank"
-                rel="noopener noreferrer sponsored"
+                rel="sponsored noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-amber-700 hover:bg-amber-800 text-white text-xs sm:text-sm font-bold px-5 py-2.5 rounded-lg shadow-sm hover:shadow transition"
               >
                 <span>空室状況・最新料金を確認</span>
@@ -200,7 +204,7 @@ export default function ArticlePage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F13653%2F13653.html"
                 target="_blank"
-                rel="noopener noreferrer sponsored"
+                rel="sponsored noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-amber-700 hover:bg-amber-800 text-white text-xs sm:text-sm font-bold px-5 py-2.5 rounded-lg shadow-sm hover:shadow transition"
               >
                 <span>空室状況・最新料金を確認</span>
@@ -254,7 +258,7 @@ export default function ArticlePage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F166206%2F166206.html"
                 target="_blank"
-                rel="noopener noreferrer sponsored"
+                rel="sponsored noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-amber-700 hover:bg-amber-800 text-white text-xs sm:text-sm font-bold px-5 py-2.5 rounded-lg shadow-sm hover:shadow transition"
               >
                 <span>空室状況・最新料金を確認</span>
@@ -314,7 +318,7 @@ export default function ArticlePage() {
           <a
             href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F15880%2F15880.html"
             target="_blank"
-            rel="noopener noreferrer sponsored"
+            rel="sponsored noopener noreferrer"
             className="inline-block bg-amber-600 hover:bg-amber-500 text-white text-sm font-bold px-8 py-3.5 rounded-xl shadow-lg transition"
           >
             一番人気の宿をチェックする（楽天トラベル）
@@ -479,6 +483,9 @@ export default function ArticlePage() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"道後温泉ひとり旅・日本最古の名湯おこもり：道後温泉本館・美人の湯・愛媛鯛めし！松山城下町と文学の香りに浸る厳選3宿"} url={"https://croud-travel.pages.dev/ehime-dogo-solo-retreat-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="ehime-dogo-solo-retreat-onsen-stay" />
 </div>
   );

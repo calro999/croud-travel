@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -113,6 +114,9 @@ export default function SeasonalFeaturePage() {
             湿度が低くチリの少ない冬の夜空は、夏以上に花火が鮮明に輝く絶好の季節。雪山や湖畔を鮮やかに染める大輪の華を、温かい温泉露天風呂やお部屋の特等席から眺めるロマンチックな冬の夜。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【夜空の芸術】冬の雪上花火＆湖畔温泉ホテル 完全ガイド"} url={"https://croud-travel.pages.dev/winter-snow-fireworks-festivals/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function SeasonalFeaturePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【夜空の芸術】冬の雪上花火＆湖畔温泉ホテル 完全ガイド"} url={"https://croud-travel.pages.dev/winter-snow-fireworks-festivals/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-snow-fireworks-festivals" />
 </div>
   );

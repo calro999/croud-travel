@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
@@ -5,7 +6,7 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '世界遺産・高野山の壇上伽藍紅葉ライトアップ＆奥之院参拝！宿坊精進料理×ふるさと納税厳選ガイド和歌山',
   description: '10月下旬〜11月中旬に開創1200年の聖地が深紅に染まる世界遺産「和歌山・高野山」。蛇腹路の紅葉トンネルや壇上伽藍の幻想的なライトアップ、由緒ある宿坊寺院「西門院」「無量光院」「高野山温泉 福智院」で朝のお勤め・瞑想体験や伝統の美精進料理・天然温泉を堪能。ふるさと納税トラベルクーポンで実質2,000円。',
-  keywords: ["世界遺産", "2026年最新秋旅", "和歌山", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
+  keywords: ["世界遺産", "2026年末・冬休み対応", "和歌山", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-koyasan-autumn-leaves-shukubo-stay/"
   },
@@ -38,7 +39,7 @@ const HOTEL_DATA = {
   koyasan_muryokoin: {
     name: '高野山　宿坊　無量光院',
     no: 187093,
-    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F105973%2F105973.html',
+    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F187093%2F187093.html',
     planUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F187093%2F187093.html%26f_flg%3DPLAN',
     reviewUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D187093',
     img: 'https://img.travel.rakuten.co.jp/share/HOTEL/187093/187093.jpg',
@@ -53,7 +54,7 @@ const HOTEL_DATA = {
   koyasan_fukuchiin: {
     name: '高野山温泉　福智院',
     no: 8108,
-    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F187093%2F187093.html',
+    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8108%2F8108.html',
     planUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8108%2F8108.html%26f_flg%3DPLAN',
     reviewUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D8108',
     img: 'https://img.travel.rakuten.co.jp/share/HOTEL/8108/8108.jpg',
@@ -72,7 +73,7 @@ export default function FeatureArticlePage() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "世界遺産・高野山の壇上伽藍紅葉ライトアップ＆奥之院参拝！宿坊精進料理×ふるさと納税完全ガイド【2026年最新秋旅】和歌山",
+    "headline": "世界遺産・高野山の壇上伽藍紅葉ライトアップ＆奥之院参拝！宿坊精進料理×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】和歌山",
     "description": "10月下旬〜11月中旬に開創1200年の聖地が深紅に染まる世界遺産「和歌山・高野山」。蛇腹路の紅葉トンネルや壇上伽藍の幻想的なライトアップ、由緒ある宿坊寺院「西門院」「無量光院」「高野山温泉 福智院」で朝のお勤め・瞑想体験や伝統の美精進料理・天然温泉を堪能。ふるさと納税トラベルクーポンで実質2,000円。",
     "url": "https://croud-travel.pages.dev/furusato-tax-koyasan-autumn-leaves-shukubo-stay/",
     "publisher": {
@@ -86,7 +87,7 @@ export default function FeatureArticlePage() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "世界遺産・高野山の壇上伽藍紅葉ライトアップ＆奥之院参拝！宿坊精進料理×ふるさと納税完全ガイド【2026年最新秋旅】和歌山", "item": "https://croud-travel.pages.dev/furusato-tax-koyasan-autumn-leaves-shukubo-stay/" }
+      { "@type": "ListItem", "position": 2, "name": "世界遺産・高野山の壇上伽藍紅葉ライトアップ＆奥之院参拝！宿坊精進料理×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】和歌山", "item": "https://croud-travel.pages.dev/furusato-tax-koyasan-autumn-leaves-shukubo-stay/" }
     ]
   };
 
@@ -111,7 +112,7 @@ export default function FeatureArticlePage() {
       <header className="bg-gradient-to-br from-stone-900 via-amber-950 to-stone-950 text-white py-14 md:py-20 px-4 mb-10 shadow-lg">
         <div className="max-w-5xl mx-auto text-center">
           <div className="inline-flex items-center gap-2 bg-white/20 backdrop-blur-md px-4 py-1.5 rounded-full text-xs md:text-sm font-semibold mb-5 text-amber-200">
-            <span>🍁 10月・11月限定 秋旅特集</span>
+            <span>🍁 12/31締切 年末駆け込み＆冬休み対応</span>
             <span>•</span>
             <span>楽天ふるさと納税トラベルクーポン対応</span>
           </div>
@@ -121,6 +122,9 @@ export default function FeatureArticlePage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"世界遺産・高野山の壇上伽藍紅葉ライトアップ＆奥之院参拝！宿坊精進料理×ふるさと納税厳選ガイド和歌山"} url={"https://croud-travel.pages.dev/furusato-tax-koyasan-autumn-leaves-shukubo-stay/"} />
+      </div>
 
       <div className="max-w-5xl mx-auto px-4 grid grid-cols-1 lg:grid-cols-3 gap-8">
         {/* メインコンテンツ */}
@@ -132,11 +136,11 @@ export default function FeatureArticlePage() {
               標高約800mの山上盆地に広がる高野山は、弘法大師空海が開創した真言密教の聖地。標高が高いため関西で最も早く紅葉が見頃を迎え、金剛峯寺から壇上伽藍へと続く「蛇腹路（じゃばらみち）」は燃え盛るようなモミジのトンネルとなります。重要文化財の日本庭園を持つ宿坊寺院に宿泊し、心洗われる朝のお勤めや阿字観瞑想、職人技が光る伝統の精進料理を心ゆくまで味わえます。
             </p>
             <div className="bg-amber-50/80 rounded-xl p-5 border border-amber-200/80">
-              <h3 className="font-bold text-amber-950 text-sm md:text-base mb-2 flex items-center gap-2">10月〜11月の旅を満喫する3大ポイント</h3>
+              <h3 className="font-bold text-amber-950 text-sm md:text-base mb-2 flex items-center gap-2">年末〜冬休み・来春の旅を満喫する3大ポイント</h3>
               <ul className="text-xs md:text-sm text-amber-900 space-y-2 list-disc list-inside">
-                <li><strong>見頃の紅葉パノラマ：</strong>標高や日当たりで刻一刻と変化するグラデーションを鑑賞（世界遺産・高野山の壇上伽藍紅葉ライトアップ＆奥之院参）</li>
-                <li><strong>極上の温泉と湯巡り：</strong>朝夕の冷え込む秋風の中で入る露天風呂は格別の贅沢（世界遺産・高野山の壇上伽藍紅葉ライトアップ＆奥之院参）</li>
-                <li><strong>控除上限内なら自己負担実質2,000円（最大30%クーポン還元）：</strong>楽天ふるさと納税トラベルクーポンで賢く予約（世界遺産・高野山の壇上伽藍紅葉ライトアップ＆奥之院参）</li>
+                <li><strong>見頃の紅葉パノラマ：</strong>標高や日当たりで刻一刻と変化するグラデーションを鑑賞</li>
+                <li><strong>極上の温泉と湯巡り：</strong>朝夕の冷え込む秋風の中で入る露天風呂は格別の贅沢</li>
+                <li><strong>控除上限内なら自己負担実質2,000円（最大30%クーポン還元）：</strong>楽天ふるさと納税トラベルクーポンで賢く予約</li>
               </ul>
             </div>
           </section>
@@ -185,7 +189,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.koyasan_saimonin.planUrl || HOTEL_DATA.koyasan_saimonin.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-3.5 px-6 rounded-xl text-center shadow-md transition-all text-sm md:text-base flex items-center justify-center gap-2"
               >
                 <span>プラン一覧・空室確認（楽天トラベル）</span>
@@ -194,7 +198,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.koyasan_saimonin.reviewUrl || HOTEL_DATA.koyasan_saimonin.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="bg-stone-100 hover:bg-stone-200 text-stone-700 font-bold py-3.5 px-5 rounded-xl text-center border border-stone-300 text-sm transition-all"
               >
                 口コミを見る
@@ -246,7 +250,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.koyasan_muryokoin.planUrl || HOTEL_DATA.koyasan_muryokoin.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-3.5 px-6 rounded-xl text-center shadow-md transition-all text-sm md:text-base flex items-center justify-center gap-2"
               >
                 <span>プラン一覧・空室確認（楽天トラベル）</span>
@@ -255,7 +259,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.koyasan_muryokoin.reviewUrl || HOTEL_DATA.koyasan_muryokoin.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="bg-stone-100 hover:bg-stone-200 text-stone-700 font-bold py-3.5 px-5 rounded-xl text-center border border-stone-300 text-sm transition-all"
               >
                 口コミを見る
@@ -307,7 +311,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.koyasan_fukuchiin.planUrl || HOTEL_DATA.koyasan_fukuchiin.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-3.5 px-6 rounded-xl text-center shadow-md transition-all text-sm md:text-base flex items-center justify-center gap-2"
               >
                 <span>プラン一覧・空室確認（楽天トラベル）</span>
@@ -316,7 +320,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.koyasan_fukuchiin.reviewUrl || HOTEL_DATA.koyasan_fukuchiin.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="bg-stone-100 hover:bg-stone-200 text-stone-700 font-bold py-3.5 px-5 rounded-xl text-center border border-stone-300 text-sm transition-all"
               >
                 口コミを見る
@@ -357,19 +361,19 @@ export default function FeatureArticlePage() {
             <h3 className="font-bold text-stone-900 mb-4 pb-2 border-b border-stone-200 flex items-center gap-2">この特集で紹介した宿</h3>
             <ul className="space-y-4 text-xs md:text-sm">
               <li>
-                <a href={HOTEL_DATA.koyasan_saimonin.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
+                <a href={HOTEL_DATA.koyasan_saimonin.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
                   <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.koyasan_saimonin.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.koyasan_saimonin.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
-                <a href={HOTEL_DATA.koyasan_muryokoin.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
+                <a href={HOTEL_DATA.koyasan_muryokoin.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
                   <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.koyasan_muryokoin.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.koyasan_muryokoin.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
-                <a href={HOTEL_DATA.koyasan_fukuchiin.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
+                <a href={HOTEL_DATA.koyasan_fukuchiin.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
                   <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.koyasan_fukuchiin.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.koyasan_fukuchiin.rating} | 楽天トラベルで詳細確認</div>
                 </a>
@@ -531,6 +535,9 @@ export default function FeatureArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"世界遺産・高野山の壇上伽藍紅葉ライトアップ＆奥之院参拝！宿坊精進料理×ふるさと納税厳選ガイド和歌山"} url={"https://croud-travel.pages.dev/furusato-tax-koyasan-autumn-leaves-shukubo-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-koyasan-autumn-leaves-shukubo-stay" />
 </div>
         </section>

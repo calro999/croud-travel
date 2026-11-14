@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -290,6 +291,9 @@ export default function ShigaOmihachimanWinterPage() {
             </p>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月滋賀】近江八幡＆安土・東近江！雪化粧の水郷めぐり・八幡堀冬情趣と「日牟禮八幡宮」初詣・日本三大和牛「近江牛」極上すき焼き＆琵琶湖東岸名宿5選"} url={"https://croud-travel.pages.dev/winter-shiga-omihachiman-hachimanbori-himure-omigyu-stay/"} />
+      </div>
 
         {/* Article Summary Box */}
         <section className="max-w-5xl mx-auto px-4 -mt-8 relative z-20">
@@ -450,7 +454,7 @@ export default function ShigaOmihachimanWinterPage() {
                       <a
                         href={hotel.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center justify-center gap-2 bg-gradient-to-r from-red-600 to-rose-600 hover:from-red-700 hover:to-rose-700 text-white font-bold text-sm md:text-base px-6 py-3 rounded-xl shadow-md hover:shadow-lg transition-all transform hover:-translate-y-0.5"
                       >
                         <span>楽天トラベルでプラン・空室を確認</span>
@@ -588,6 +592,9 @@ export default function ShigaOmihachimanWinterPage() {
 
         </main>
       
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月滋賀】近江八幡＆安土・東近江！雪化粧の水郷めぐり・八幡堀冬情趣と「日牟禮八幡宮」初詣・日本三大和牛「近江牛」極上すき焼き＆琵琶湖東岸名宿5選"} url={"https://croud-travel.pages.dev/winter-shiga-omihachiman-hachimanbori-himure-omigyu-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-shiga-omihachiman-hachimanbori-himure-omigyu-stay" />
 </div>
     </>

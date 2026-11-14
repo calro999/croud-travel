@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -75,6 +76,9 @@ export default function KusatsuBudgetGuidePage() {
             「草津って遠いし高そう…」と思っていませんか？実は東京から直行バスを使えば驚くほどリーズナブル。湯畑周辺の宿泊費から、湯もみショー、温泉まんじゅう食べ歩きまで全費用を公開します。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"草津温泉旅行 費用：1泊2日いくらかかる？東京からの交通費＆湯畑周辺の宿泊費を完全計算"} url={"https://croud-travel.pages.dev/kusatsu-onsen-travel-budget-guide/"} />
+      </div>
       </section>
 
       {/* 予算証明プラン */}
@@ -452,6 +456,9 @@ export default function KusatsuBudgetGuidePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"草津温泉旅行 費用：1泊2日いくらかかる？東京からの交通費＆湯畑周辺の宿泊費を完全計算"} url={"https://croud-travel.pages.dev/kusatsu-onsen-travel-budget-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="kusatsu-onsen-travel-budget-guide" />
 </div>
   );

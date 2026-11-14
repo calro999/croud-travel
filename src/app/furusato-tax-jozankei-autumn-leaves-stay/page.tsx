@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
@@ -5,7 +6,7 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '札幌の奥座敷・定山渓温泉の錦秋渓谷紅葉！豊平峡ダム＆二見吊橋と名湯宿×ふるさと納税厳選ガイド北海道',
   description: '10月上旬〜10月下旬に見頃を迎える北海道屈指の紅葉名所「定山渓温泉」と「豊平峡ダム」。二見吊橋から望む渓谷美と定山渓ネイチャールミナリエ、名宿「ぬくもりの宿 ふる川」「章月グランドホテル」「翠蝶館」で道産ブランド牛や秋鮭・いくらを堪能。楽天ふるさと納税で実質2,000円で泊まる極上の秋旅ガイド。',
-  keywords: ["札幌の奥座敷", "二見吊橋と名湯宿×ふるさと納税", "2026年最新秋旅", "北海道", "温泉宿", "宿泊予約", "楽天トラベル"],
+  keywords: ["札幌の奥座敷", "二見吊橋と名湯宿×ふるさと納税", "2026年末・冬休み対応", "北海道", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-jozankei-autumn-leaves-stay/"
   },
@@ -24,7 +25,7 @@ export default function FeatureArticlePage() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "札幌の奥座敷・定山渓温泉の錦秋渓谷紅葉！豊平峡ダム＆二見吊橋と名湯宿×ふるさと納税完全ガイド【2026年最新秋旅】北海道",
+    "headline": "札幌の奥座敷・定山渓温泉の錦秋渓谷紅葉！豊平峡ダム＆二見吊橋と名湯宿×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】北海道",
     "description": "10月上旬〜10月下旬に見頃を迎える北海道屈指の紅葉名所「定山渓温泉」と「豊平峡ダム」。二見吊橋から望む渓谷美と定山渓ネイチャールミナリエ、名宿「ぬくもりの宿 ふる川」「章月グランドホテル」「翠蝶館」で道産ブランド牛や秋鮭・いくらを堪能。楽天ふるさと納税で実質2,000円で泊まる極上の秋旅ガイド。",
     "url": "https://croud-travel.pages.dev/furusato-tax-jozankei-autumn-leaves-stay/",
     "publisher": {
@@ -38,7 +39,7 @@ export default function FeatureArticlePage() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "札幌の奥座敷・定山渓温泉の錦秋渓谷紅葉！豊平峡ダム＆二見吊橋と名湯宿×ふるさと納税完全ガイド【2026年最新秋旅】北海道", "item": "https://croud-travel.pages.dev/furusato-tax-jozankei-autumn-leaves-stay/" }
+      { "@type": "ListItem", "position": 2, "name": "札幌の奥座敷・定山渓温泉の錦秋渓谷紅葉！豊平峡ダム＆二見吊橋と名湯宿×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】北海道", "item": "https://croud-travel.pages.dev/furusato-tax-jozankei-autumn-leaves-stay/" }
     ]
   };
 
@@ -84,6 +85,9 @@ export default function FeatureArticlePage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"札幌の奥座敷・定山渓温泉の錦秋渓谷紅葉！豊平峡ダム＆二見吊橋と名湯宿×ふるさと納税厳選ガイド北海道"} url={"https://croud-travel.pages.dev/furusato-tax-jozankei-autumn-leaves-stay/"} />
+      </div>
 
       {/* イントロダクション */}
       <section className="max-w-5xl mx-auto px-4 sm:px-6 mb-12">
@@ -507,6 +511,9 @@ export default function FeatureArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"札幌の奥座敷・定山渓温泉の錦秋渓谷紅葉！豊平峡ダム＆二見吊橋と名湯宿×ふるさと納税厳選ガイド北海道"} url={"https://croud-travel.pages.dev/furusato-tax-jozankei-autumn-leaves-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-jozankei-autumn-leaves-stay" />
 </div>
         </section>

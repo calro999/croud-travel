@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -172,6 +173,9 @@ export default function HighwayBusArticlePage() {
             JR特急あずさなら新宿〜松本約2時間30分・片道約6,620円（往復約13,240円）。中央高速バスなら片道約2,500円〜4,000円！料金は電車の約3分の1。上高地直行の夜行・昼行バス「さわやか信州号」なら乗り換えゼロで河童橋の目の前まで行ける大人気ルート。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"東京・新宿〜松本・上高地：特急あずさ vs 直行高速バス徹底比較！片道2,500円〜行く国宝松本城＆上高地1泊2日モデルコース"} url={"https://croud-travel.pages.dev/tokyo-matsumoto-kamikochi-bus-vs-train-guide/"} />
       </div>
 
       {/* 📊 交通手段・料金・所要時間の徹底比較テーブル */}
@@ -435,6 +439,9 @@ export default function HighwayBusArticlePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"東京・新宿〜松本・上高地：特急あずさ vs 直行高速バス徹底比較！片道2,500円〜行く国宝松本城＆上高地1泊2日モデルコース"} url={"https://croud-travel.pages.dev/tokyo-matsumoto-kamikochi-bus-vs-train-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="tokyo-matsumoto-kamikochi-bus-vs-train-guide" />
 </div>
   );

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             世界自然遺産「知床」。冬にはオホーツク海を真っ白に埋め尽くす神秘の流氷群。原生林に抱かれた知床五湖と、エゾシカやヒグマが暮らす手つかずの大自然。オホーツク海に沈む夕日を眺め、極上の海の幸を味わう旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"北海道・世界遺産知床ウトロ：オホーツク流氷・知床五湖＆エゾシカ海鮮極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/hokkaido-shiretoko-utoro-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -423,6 +427,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"北海道・世界遺産知床ウトロ：オホーツク流氷・知床五湖＆エゾシカ海鮮極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/hokkaido-shiretoko-utoro-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="hokkaido-shiretoko-utoro-stay" />
 </div>
   );

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -164,6 +165,9 @@ export default function HighwayBusArticlePage() {
             北陸新幹線敦賀延伸により、名古屋〜金沢の「特急しらさぎ」は敦賀駅での新幹線乗り換えが必要になり片道約8,000円。一方、直行高速バスなら名神・北陸道経由で乗り換えゼロ・片道約3,000円〜！圧倒的な手軽さとコスパで楽しむ金沢旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"名古屋から金沢 安く行く方法：特急しらさぎ vs 直行高速バス徹底比較！乗り換えなし1泊2日モデルコース"} url={"https://croud-travel.pages.dev/nagoya-kanazawa-bus-vs-train-guide/"} />
       </div>
 
       {/* 📊 交通手段・料金・所要時間の徹底比較テーブル */}
@@ -427,6 +431,9 @@ export default function HighwayBusArticlePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"名古屋から金沢 安く行く方法：特急しらさぎ vs 直行高速バス徹底比較！乗り換えなし1泊2日モデルコース"} url={"https://croud-travel.pages.dev/nagoya-kanazawa-bus-vs-train-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="nagoya-kanazawa-bus-vs-train-guide" />
 </div>
   );

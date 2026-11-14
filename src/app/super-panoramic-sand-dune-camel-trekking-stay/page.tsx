@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             鳥取砂丘でらくだに乗って砂の丘を巡る異国情緒あふれるトレッキング体験！砂丘の美しい夕日と風紋を堪能した後は、弓ヶ浜のパノラマ海景を望む皆生温泉の塩化物泉と日本海の活魚会席に舌鼓。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"らくだライド＆砂丘夕日：エキゾチックな砂丘体験と三朝・皆生温泉の海鮮美食宿5選"} url={"https://croud-travel.pages.dev/super-panoramic-sand-dune-camel-trekking-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"らくだライド＆砂丘夕日：エキゾチックな砂丘体験と三朝・皆生温泉の海鮮美食宿5選"} url={"https://croud-travel.pages.dev/super-panoramic-sand-dune-camel-trekking-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="super-panoramic-sand-dune-camel-trekking-stay" />
 </div>
         </section>

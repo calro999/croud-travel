@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -14,7 +15,7 @@ export const metadata: Metadata = {
     title: '鬼怒川温泉をふるさと納税でお得に旅する！空中庭園露天風呂＆渓谷美の特等席！名門老舗リゾート特集｜あさや・鬼怒川金谷ホテル・七重八重',
     description: '首都圏からのアクセス抜群・渓谷の美湯・栃木県鬼怒川温泉を楽天ふるさと納税でお得に満喫！創業百三十年・空中庭園露天風呂と豪華ビュッフェの「あさや」、日本最古のリゾートを受け継ぐ最高峰「鬼怒川金谷ホテル」、全室渓谷ビューの隠れ宿「七重八重」を徹底比較。日光市トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-kinugawa-onsen-valley-luxury-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -28,12 +29,12 @@ export default function FurusatoArticlePage() {
     description: '首都圏からのアクセス抜群・渓谷の美湯・栃木県鬼怒川温泉を楽天ふるさと納税でお得に満喫！創業百三十年・空中庭園露天風呂と豪華ビュッフェの「あさや」、日本最古のリゾートを受け継ぐ最高峰「鬼怒川金谷ホテル」、全室渓谷ビューの隠れ宿「七重八重」を徹底比較。日光市トラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル 観光・ふるさと納税調査班',
+      name: '旅宿クラウド 観光・ふるさと納税調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -80,6 +81,9 @@ export default function FurusatoArticlePage() {
           首都圏からのアクセス抜群・渓谷の美湯・栃木県鬼怒川温泉を楽天ふるさと納税でお得に満喫！創業百三十年・空中庭園露天風呂と豪華ビュッフェの「あさや」、日本最古のリゾートを受け継ぐ最高峰「鬼怒川金谷ホテル」、全室渓谷ビューの隠れ宿「七重八重」を徹底比較。日光市トラベルクーポン活用術を網羅。
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"鬼怒川温泉をふるさと納税でお得に旅する！空中庭園露天風呂＆渓谷美の特等席！名門老舗リゾート特集"} url={"https://croud-travel.pages.dev/furusato-tax-kinugawa-onsen-valley-luxury-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
@@ -360,7 +364,7 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 鬼怒川温泉・ライン下り＆東武ワールドスクウェア観光ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">鬼怒川温泉・ライン下り＆東武ワールドスクウェア観光ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
@@ -586,6 +590,9 @@ export default function FurusatoArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"鬼怒川温泉をふるさと納税でお得に旅する！空中庭園露天風呂＆渓谷美の特等席！名門老舗リゾート特集"} url={"https://croud-travel.pages.dev/furusato-tax-kinugawa-onsen-valley-luxury-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-kinugawa-onsen-valley-luxury-stay" />
 </div>
         </section>

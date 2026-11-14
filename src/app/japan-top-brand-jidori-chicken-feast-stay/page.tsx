@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function GourmetCuisineHubPage() {
             噛むほどに溢れ出す濃厚な旨味と抜群の歯ごたえ！日本三大地鶏「比内地鶏」「名古屋コーチン」「さつま地鶏」そして出荷量日本一の「阿波尾鶏」。炭火でじっくり焼き上げる香ばしい焼き鳥や、伝統の郷土鍋に舌鼓を打つ美食の旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"日本三大地鶏＆銘柄鶏の宿：比内地鶏・名古屋コーチン・さつま地鶏・阿波尾鶏 厳選ガイド"} url={"https://croud-travel.pages.dev/japan-top-brand-jidori-chicken-feast-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function GourmetCuisineHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"日本三大地鶏＆銘柄鶏の宿：比内地鶏・名古屋コーチン・さつま地鶏・阿波尾鶏 厳選ガイド"} url={"https://croud-travel.pages.dev/japan-top-brand-jidori-chicken-feast-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="japan-top-brand-jidori-chicken-feast-stay" />
 </div>
   );

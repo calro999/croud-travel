@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function ScenicViewHubPage() {
             朝起きると、そこは一面の白い雲の海「雲海リゾート」。ゴンドラで登るトマムの雲海テラス、北アルプスに沈む夕陽と雲海を望むSORA terrace、朝霧に浮かぶ天空の城・竹田城跡。雲を見下ろしながら浸かる天空露天風呂へ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"雲海テラス＆天空インフィニティ温泉宿：トマム・竜王・秩父・竹田城 厳選ガイド"} url={"https://croud-travel.pages.dev/japan-sea-of-clouds-terrace-infinity-onsen-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆おすすめ宿 */}
@@ -231,6 +235,9 @@ export default function ScenicViewHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"雲海テラス＆天空インフィニティ温泉宿：トマム・竜王・秩父・竹田城 厳選ガイド"} url={"https://croud-travel.pages.dev/japan-sea-of-clouds-terrace-infinity-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="japan-sea-of-clouds-terrace-infinity-onsen-stay" />
 </div>
   );

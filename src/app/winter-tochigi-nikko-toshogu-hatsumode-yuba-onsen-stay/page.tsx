@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -254,6 +255,9 @@ export default function TochigiNikkoToshoguPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月日光】世界遺産・日光東照宮の静謐な冬参拝＆新春初詣と名物「日光湯波会席」・とちぎ和牛を堪能する名宿5選"} url={"https://croud-travel.pages.dev/winter-tochigi-nikko-toshogu-hatsumode-yuba-onsen-stay/"} />
+      </div>
 
       {/* Main Content Area */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
@@ -429,7 +433,7 @@ export default function TochigiNikkoToshoguPage() {
                     <h3 className="text-xl sm:text-2xl font-bold text-stone-900 group"><a 
                         href={hotel.url} 
                         target="_blank" 
-                        rel="noopener noreferrer" 
+                        rel="sponsored noopener noreferrer" 
                         className="hover:text-amber-700 transition-colors inline-flex items-center gap-2"
                       >
                         {hotel.name}
@@ -500,7 +504,7 @@ export default function TochigiNikkoToshoguPage() {
                     <a
                       href={hotel.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="block w-full sm:w-auto text-center px-6 py-3.5 rounded-xl bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-700 hover:to-amber-800 text-white font-bold text-xs sm:text-sm shadow-md transition-all duration-200"
                     >
                       楽天トラベルで空室・冬の宿泊プランを確認する
@@ -642,6 +646,9 @@ export default function TochigiNikkoToshoguPage() {
               </span>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月日光】世界遺産・日光東照宮の静謐な冬参拝＆新春初詣と名物「日光湯波会席」・とちぎ和牛を堪能する名宿5選"} url={"https://croud-travel.pages.dev/winter-tochigi-nikko-toshogu-hatsumode-yuba-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-tochigi-nikko-toshogu-hatsumode-yuba-onsen-stay" />
 </div>
         </section>

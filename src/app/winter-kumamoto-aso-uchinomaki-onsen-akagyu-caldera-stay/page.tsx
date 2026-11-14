@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月熊本・阿蘇内牧温泉の初冬阿蘇五岳絶景と名物あか牛】名湯掛け流し湯巡り＆極上あか牛溶岩焼きと特選馬刺しを味わう厳選宿5選',
     description: '11月から12月にかけて、世界最大級のカルデラに抱かれた熊本県「阿蘇内牧（うちのまき）温泉」の魅力とおすすめ宿泊施設を詳しくご紹介します。',
     url: 'https://croud-travel.pages.dev/winter-kumamoto-aso-uchinomaki-onsen-akagyu-caldera-stay/',
-    siteName: 'クラドトラベル (Croud Travel)',
+    siteName: '旅宿クラウド (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -257,6 +258,9 @@ export default function KumamotoAsoUchinomakiWinterFeature() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月熊本・阿蘇内牧温泉の初冬阿蘇五岳絶景と名物あか牛】名湯掛け流し湯巡り＆極上あか牛溶岩焼きと特選馬刺しを味わう厳選宿5選"} url={"https://croud-travel.pages.dev/winter-kumamoto-aso-uchinomaki-onsen-akagyu-caldera-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 space-y-16">
@@ -377,7 +381,7 @@ export default function KumamotoAsoUchinomakiWinterFeature() {
                       </div>
                     </div>
 
-                    <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-rose-700 transition-colors"><a href={h.url} target="_blank" rel="noopener noreferrer">
+                    <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-rose-700 transition-colors"><a href={h.url} target="_blank" rel="sponsored noopener noreferrer">
                         {h.name}
                       </a></h3>
 
@@ -415,7 +419,7 @@ export default function KumamotoAsoUchinomakiWinterFeature() {
                     <a
                       href={h.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-2xl bg-rose-600 hover:bg-rose-700 text-white font-bold text-sm shadow-sm hover:shadow transition-all"
                     >
                       楽天トラベルで空室・プランを見る
@@ -637,6 +641,9 @@ export default function KumamotoAsoUchinomakiWinterFeature() {
               <p className="text-slate-300 text-[11px] line-clamp-2">弱アルカリ性と硫黄泉のダブル美肌効果と博多和牛すき焼き。</p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月熊本・阿蘇内牧温泉の初冬阿蘇五岳絶景と名物あか牛】名湯掛け流し湯巡り＆極上あか牛溶岩焼きと特選馬刺しを味わう厳選宿5選"} url={"https://croud-travel.pages.dev/winter-kumamoto-aso-uchinomaki-onsen-akagyu-caldera-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-kumamoto-aso-uchinomaki-onsen-akagyu-caldera-stay" />
 </div>
         </section>

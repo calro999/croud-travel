@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             黄色い皮と白皮の甘みが絶妙な宮崎特産「日向夏（ひゅうがなつ）」の特製パフェと、日本一の栄冠に輝く「宮崎牛」！青島神社や鬼の洗濯板を望む青島温泉のトロトロ美肌湯で、南国の光と風を感じる癒やしステイ。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"宮崎日向夏スイーツ＆宮崎牛：爽やか柑橘と南国リゾート青島温泉の美食名湯宿5選"} url={"https://croud-travel.pages.dev/spring-miyazaki-hyuganatsu-citrus-spa-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"宮崎日向夏スイーツ＆宮崎牛：爽やか柑橘と南国リゾート青島温泉の美食名湯宿5選"} url={"https://croud-travel.pages.dev/spring-miyazaki-hyuganatsu-citrus-spa-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="spring-miyazaki-hyuganatsu-citrus-spa-stay" />
 </div>
         </section>

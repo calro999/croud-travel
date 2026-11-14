@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -309,6 +310,9 @@ export default function HimiOnsenWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月富山氷見温泉郷のひみ寒ぶりと雪化粧立山連峰】海越しの白銀絶景露天風呂・極上氷見牛＆寒ブリづくし会席の宿5選"} url={"https://croud-travel.pages.dev/winter-toyama-himi-onsen-kanburi-tateyama-himi-beef-stay/"} />
+      </div>
 
       {/* Main Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
@@ -478,7 +482,7 @@ export default function HimiOnsenWinterPage() {
                 <div className="p-6 sm:p-8 w-full flex flex-col justify-between space-y-5">
                   <div className="space-y-3">
                     <div className="space-y-1">
-                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-cyan-800 transition"><a href={hotel.url} target="_blank" rel="noopener noreferrer">
+                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-cyan-800 transition"><a href={hotel.url} target="_blank" rel="sponsored noopener noreferrer">
                           {hotel.name}
                         </a></h3>
                       <p className="text-xs text-slate-500 flex items-center gap-1.5">
@@ -519,7 +523,7 @@ export default function HimiOnsenWinterPage() {
                     <a
                       href={hotel.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl bg-cyan-900 hover:bg-cyan-800 text-white text-xs sm:text-sm font-bold shadow transition group w-full sm:w-auto justify-center"
                     >
                       <span>空室・宿泊プランを確認</span>
@@ -692,6 +696,9 @@ export default function HimiOnsenWinterPage() {
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">全国の厳選温泉・宿特集まとめを見る</h3>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月富山氷見温泉郷のひみ寒ぶりと雪化粧立山連峰】海越しの白銀絶景露天風呂・極上氷見牛＆寒ブリづくし会席の宿5選"} url={"https://croud-travel.pages.dev/winter-toyama-himi-onsen-kanburi-tateyama-himi-beef-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-toyama-himi-onsen-kanburi-tateyama-himi-beef-stay" />
 </div>
         </section>

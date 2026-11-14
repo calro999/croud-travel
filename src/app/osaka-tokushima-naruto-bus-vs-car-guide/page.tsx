@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -164,6 +165,9 @@ export default function HighwayBusArticlePage() {
             電車だと岡山経由で大回りになる徳島・鳴門へは、大阪・神戸からの直行高速バスが最速＆最安！梅田・三宮から鳴門公園口・大塚国際美術館まで片道約2,500円〜3,500円・約1時間45分〜2時間。明石海峡大橋を渡る絶景オーシャンビューの旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"大阪・神戸〜徳島・鳴門：高速バスが圧倒的に便利！料金・時間比較＆大塚国際美術館・鳴門の渦潮1泊2日モデルコース"} url={"https://croud-travel.pages.dev/osaka-tokushima-naruto-bus-vs-car-guide/"} />
       </div>
 
       {/* 📊 交通手段・料金・所要時間の徹底比較テーブル */}
@@ -427,6 +431,9 @@ export default function HighwayBusArticlePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"大阪・神戸〜徳島・鳴門：高速バスが圧倒的に便利！料金・時間比較＆大塚国際美術館・鳴門の渦潮1泊2日モデルコース"} url={"https://croud-travel.pages.dev/osaka-tokushima-naruto-bus-vs-car-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="osaka-tokushima-naruto-bus-vs-car-guide" />
 </div>
   );

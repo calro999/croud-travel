@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             日本に存在する10種類の泉質のうち、なんと8種類が集まる奇跡の温泉郷「鳴子温泉郷」。深さ100mの大渓谷が錦秋に染まる「鳴子峡」と大深沢橋の絶景。カランコロンと下駄の音が響くこけしの温泉街。熱々のみたらし餡が絡む名物栗だんごを味わう旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"宮城・鳴子温泉郷＆鳴子峡：日本屈指の多彩な泉質・紅葉深雪橋＆栗だんご宿 厳選ガイド"} url={"https://croud-travel.pages.dev/miyagi-naruko-onsen-gorge-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"宮城・鳴子温泉郷＆鳴子峡：日本屈指の多彩な泉質・紅葉深雪橋＆栗だんご宿 厳選ガイド"} url={"https://croud-travel.pages.dev/miyagi-naruko-onsen-gorge-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="miyagi-naruko-onsen-gorge-stay" />
 </div>
   );

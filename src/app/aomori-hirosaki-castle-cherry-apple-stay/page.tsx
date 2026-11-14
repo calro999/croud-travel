@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -107,6 +108,9 @@ export default function MicroTouristHubPage() {
             春、お堀一面がピンクの花びらの絨毯で埋め尽くされる奇跡の絶景「弘前公園の花筏（はないかだ）」。重要文化財の現存天守を彩る約2600本の桜の古木。弘前アップルパイの香ばしい香り、明治期に外国人教師を迎えて建てられたモダンな洋館群、そして力強く魂を揺さぶる「津軽三味線」の生演奏。津軽富士・岩木山の麓で文化と美食に浸る弘前ステイへご案内します。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【青森・弘前】弘前城桜・津軽りんご＆三味線宿 完全ガイド"} url={"https://croud-travel.pages.dev/aomori-hirosaki-castle-cherry-apple-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【青森・弘前】弘前城桜・津軽りんご＆三味線宿 完全ガイド"} url={"https://croud-travel.pages.dev/aomori-hirosaki-castle-cherry-apple-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="aomori-hirosaki-castle-cherry-apple-stay" />
 </div>
   );

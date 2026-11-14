@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             開放感あふれる大型ドームテント、プライベートなテントサウナ＆セルフロウリュ、そして夜空に輝く満天の星！天然温泉の大浴場も併設された、贅沢で快適な最新アウトドアリゾートを厳選紹介。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"星空ドームテント×テントサウナ：大自然に包まれる贅沢グランピング＆自家源泉温泉宿5選"} url={"https://croud-travel.pages.dev/organic-forest-dome-tent-glamping-sauna-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"星空ドームテント×テントサウナ：大自然に包まれる贅沢グランピング＆自家源泉温泉宿5選"} url={"https://croud-travel.pages.dev/organic-forest-dome-tent-glamping-sauna-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="organic-forest-dome-tent-glamping-sauna-stay" />
 </div>
         </section>

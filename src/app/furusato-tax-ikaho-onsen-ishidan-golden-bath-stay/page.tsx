@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -14,7 +15,7 @@ export const metadata: Metadata = {
     title: '伊香保温泉をふるさと納税でお得に旅する！石段街の風情＆名湯「黄金の湯・白銀の湯」！老舗温泉宿特集｜福一・森秋旅館・千明仁泉亭',
     description: '365段の石段街が有名な名湯・群馬県伊香保温泉を楽天ふるさと納税でお得に満喫！創業440年の最高峰老舗「福一」、石段街徒歩1分・黄金の湯掛け流しの「森秋旅館」、文豪徳富蘆花ゆかりの源泉宿「千明仁泉亭」を徹底比較。上州牛会席や渋川市トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-ikaho-onsen-ishidan-golden-bath-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -28,12 +29,12 @@ export default function FurusatoArticlePage() {
     description: '365段の石段街が有名な名湯・群馬県伊香保温泉を楽天ふるさと納税でお得に満喫！創業440年の最高峰老舗「福一」、石段街徒歩1分・黄金の湯掛け流しの「森秋旅館」、文豪徳富蘆花ゆかりの源泉宿「千明仁泉亭」を徹底比較。上州牛会席や渋川市トラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル 観光・ふるさと納税調査班',
+      name: '旅宿クラウド 観光・ふるさと納税調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -80,6 +81,9 @@ export default function FurusatoArticlePage() {
           365段の石段街が有名な名湯・群馬県伊香保温泉を楽天ふるさと納税でお得に満喫！創業440年の最高峰老舗「福一」、石段街徒歩1分・黄金の湯掛け流しの「森秋旅館」、文豪徳富蘆花ゆかりの源泉宿「千明仁泉亭」を徹底比較。上州牛会席や渋川市トラベルクーポン活用術を網羅。
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"伊香保温泉をふるさと納税でお得に旅する！石段街の風情＆名湯「黄金の湯・白銀の湯」！老舗温泉宿特集"} url={"https://croud-travel.pages.dev/furusato-tax-ikaho-onsen-ishidan-golden-bath-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
@@ -360,7 +364,7 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 伊香保温泉街・石段街散策＆水沢うどん街ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">伊香保温泉街・石段街散策＆水沢うどん街ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
@@ -586,6 +590,9 @@ export default function FurusatoArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"伊香保温泉をふるさと納税でお得に旅する！石段街の風情＆名湯「黄金の湯・白銀の湯」！老舗温泉宿特集"} url={"https://croud-travel.pages.dev/furusato-tax-ikaho-onsen-ishidan-golden-bath-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-ikaho-onsen-ishidan-golden-bath-stay" />
 </div>
         </section>

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             波静かな湖面に鏡のように映り込む霊峰富士の「逆さ富士」。四季折々の花々と青い湖水が織りなす圧倒的な美景。客室露天風呂から雪化粧した富士山を独占し、名物ほうとうと甲州牛に舌鼓を打つ休日。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"山梨・富士五湖＆河口湖：逆さ富士・富士急ハイランド＆ほうとう極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/yamanashi-fujigoko-kawaguchiko-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"山梨・富士五湖＆河口湖：逆さ富士・富士急ハイランド＆ほうとう極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/yamanashi-fujigoko-kawaguchiko-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="yamanashi-fujigoko-kawaguchiko-stay" />
 </div>
   );

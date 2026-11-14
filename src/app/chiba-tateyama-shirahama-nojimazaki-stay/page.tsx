@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             どこまでも青い太平洋と黒潮の温暖な気候「南房総・館山＆白浜」。房総半島最南端にそびえる白亜の「野島埼灯台」。夕陽と富士山を同時に望む絶景ラバーズベンチ。冬から春に咲き乱れる菜の花とポピー。獲れたての房総伊勢海老とアワビを味わうシーサイドの旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"千葉・館山＆白浜・野島崎：房総最南端白亜の灯台・フラワーライン＆伊勢海老宿 厳選ガイド"} url={"https://croud-travel.pages.dev/chiba-tateyama-shirahama-nojimazaki-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"千葉・館山＆白浜・野島崎：房総最南端白亜の灯台・フラワーライン＆伊勢海老宿 厳選ガイド"} url={"https://croud-travel.pages.dev/chiba-tateyama-shirahama-nojimazaki-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="chiba-tateyama-shirahama-nojimazaki-stay" />
 </div>
   );

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -186,6 +187,9 @@ export default function HakoneCoupleAnniversaryGuidePage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"箱根カップル温泉旅行 1泊2日モデルコース：客室露天風呂・フレンチ懐石ディナー＆記念日サプライズ宿"} url={"https://croud-travel.pages.dev/hakone-couple-1night2days-anniversary-guide/"} />
+      </div>
 
       {/* メインコンテンツエリア */}
       <main className="max-w-4xl mx-auto px-4 py-10 space-y-12">
@@ -542,6 +546,9 @@ export default function HakoneCoupleAnniversaryGuidePage() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"箱根カップル温泉旅行 1泊2日モデルコース：客室露天風呂・フレンチ懐石ディナー＆記念日サプライズ宿"} url={"https://croud-travel.pages.dev/hakone-couple-1night2days-anniversary-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="hakone-couple-1night2days-anniversary-guide" />
 </div>
   );

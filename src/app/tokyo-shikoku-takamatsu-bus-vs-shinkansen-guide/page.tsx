@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -182,6 +183,9 @@ export default function HighwayBusArticlePage() {
             新幹線だと岡山乗り換えで東京〜高松片道約18,000円（往復約36,000円）。夜行高速バスなら片道約5,000円〜9,500円！往復で2万円以上浮くため、早朝6時から営業する讃岐うどんの名店を3軒はしごし、特別名勝「栗林公園」や琴平温泉の露天風呂を満喫できます。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"東京〜高松・香川：寝台特急サンライズ vs 新幹線 vs 夜行バス徹底比較"} url={"https://croud-travel.pages.dev/tokyo-shikoku-takamatsu-bus-vs-shinkansen-guide/"} />
       </div>
 
       {/* 📊 交通手段・料金・所要時間の徹底比較テーブル */}
@@ -445,6 +449,9 @@ export default function HighwayBusArticlePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"東京〜高松・香川：寝台特急サンライズ vs 新幹線 vs 夜行バス徹底比較"} url={"https://croud-travel.pages.dev/tokyo-shikoku-takamatsu-bus-vs-shinkansen-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="tokyo-shikoku-takamatsu-bus-vs-shinkansen-guide" />
 </div>
   );

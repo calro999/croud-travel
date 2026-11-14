@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import FurusatoStepSection from "@/app/components/FurusatoStepSection";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
@@ -6,7 +7,7 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '神話の渓谷を彩る真名井の滝と紅葉！国見ヶ丘雲海・天岩戸神社＆高千穂名宿×ふるさと納税厳選ガイド宮崎',
   description: '11月上旬〜下旬に見頃を迎える日本屈指のパワースポット「高千穂峡（真名井の滝）」。貸しボートから見上げる紅葉の柱状節理と、国見ヶ丘の奇跡の雲海、夜神楽が奉納される天岩戸神社！「旅館 神仙」「旅館 大和屋」「今国旅館」。日本一の高千穂牛を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
-  keywords: ["天岩戸神社", "高千穂名宿×ふるさと納税", "2026年最新秋旅", "宮崎", "旅宿クラウド", "温泉宿", "宿泊予約"],
+  keywords: ["天岩戸神社", "高千穂名宿×ふるさと納税", "2026年末・冬休み対応", "宮崎", "旅宿クラウド", "温泉宿", "宿泊予約"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-takachiho-autumn-leaves-gorge-stay/"
   },
@@ -25,7 +26,7 @@ export default function FurusatoTakachihoAutumnLeavesGorgeStayPage() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "神話の渓谷を彩る真名井の滝と紅葉！国見ヶ丘雲海・天岩戸神社＆高千穂名宿×ふるさと納税完全ガイド【2026年最新秋旅】宮崎 | 旅宿クラウド",
+    "headline": "神話の渓谷を彩る真名井の滝と紅葉！国見ヶ丘雲海・天岩戸神社＆高千穂名宿×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】宮崎 | 旅宿クラウド",
     "description": "11月上旬〜下旬に見頃を迎える日本屈指のパワースポット「高千穂峡（真名井の滝）」。貸しボートから見上げる紅葉の柱状節理と、国見ヶ丘の奇跡の雲海、夜神楽が奉納される天岩戸神社！「旅館 神仙」「旅館 大和屋」「今国旅館」。日本一の高千穂牛を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。",
     "url": "https://croud-travel.pages.dev/furusato-tax-takachiho-autumn-leaves-gorge-stay/",
     "publisher": {
@@ -39,7 +40,7 @@ export default function FurusatoTakachihoAutumnLeavesGorgeStayPage() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "神話の渓谷を彩る真名井の滝と紅葉！国見ヶ丘雲海・天岩戸神社＆高千穂名宿×ふるさと納税完全ガイド【2026年最新秋旅】宮崎 | 旅宿クラウド", "item": "https://croud-travel.pages.dev/furusato-tax-takachiho-autumn-leaves-gorge-stay/" }
+      { "@type": "ListItem", "position": 2, "name": "神話の渓谷を彩る真名井の滝と紅葉！国見ヶ丘雲海・天岩戸神社＆高千穂名宿×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】宮崎 | 旅宿クラウド", "item": "https://croud-travel.pages.dev/furusato-tax-takachiho-autumn-leaves-gorge-stay/" }
     ]
   };
 
@@ -85,6 +86,9 @@ export default function FurusatoTakachihoAutumnLeavesGorgeStayPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"神話の渓谷を彩る真名井の滝と紅葉！国見ヶ丘雲海・天岩戸神社＆高千穂名宿×ふるさと納税厳選ガイド宮崎"} url={"https://croud-travel.pages.dev/furusato-tax-takachiho-autumn-leaves-gorge-stay/"} />
+      </div>
 
       <div className="max-w-5xl mx-auto px-4 sm:px-6 space-y-16">
         {/* リード文セクション */}
@@ -550,6 +554,9 @@ export default function FurusatoTakachihoAutumnLeavesGorgeStayPage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"神話の渓谷を彩る真名井の滝と紅葉！国見ヶ丘雲海・天岩戸神社＆高千穂名宿×ふるさと納税厳選ガイド宮崎"} url={"https://croud-travel.pages.dev/furusato-tax-takachiho-autumn-leaves-gorge-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-takachiho-autumn-leaves-gorge-stay" />
 </div>
         </section>

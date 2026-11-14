@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -277,6 +278,9 @@ export default function GeroWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月下呂温泉の冬花火ミュージカル】日本三名泉の美肌湯ととろける飛騨牛会席宿5選"} url={"https://croud-travel.pages.dev/winter-gifu-gero-onsen-fireworks-hida-beef-stay/"} />
+      </div>
 
       {/* Main Content Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
@@ -455,7 +459,7 @@ export default function GeroWinterPage() {
                     <a
                       href={hotel.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-6 py-3 rounded-xl bg-amber-800 hover:bg-amber-900 text-white font-bold text-sm shadow-md hover:shadow-lg transition-all"
                     >
                       <span>楽天トラベルでプラン・空室を見る</span>
@@ -798,6 +802,9 @@ export default function GeroWinterPage() {
               <Link href="/prefectures/ishikawa/" className="px-3 py-1.5 bg-stone-100 hover:bg-amber-100 text-stone-700 hover:text-amber-900 rounded-lg transition-colors font-medium">石川県の宿一覧</Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月下呂温泉の冬花火ミュージカル】日本三名泉の美肌湯ととろける飛騨牛会席宿5選"} url={"https://croud-travel.pages.dev/winter-gifu-gero-onsen-fireworks-hida-beef-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-gifu-gero-onsen-fireworks-hida-beef-stay" />
 </div>
         </section>

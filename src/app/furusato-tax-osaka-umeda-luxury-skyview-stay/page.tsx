@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -14,7 +15,7 @@ export const metadata: Metadata = {
     title: "大阪・梅田をふるさと納税でお得に旅する！JR大阪駅直結＆地上摩天楼夜景！天下の台所美食特集",
     description: '西日本最大のメガターミナル・大阪府大阪市北区「梅田（キタ）」を楽天ふるさと納税でお得に贅沢ステイ！18世紀英国貴族の邸宅の風格「ザ・リッツ・カールトン大阪」、グランフロント大阪直結のスタイリッシュ「インターコンチネンタルホテル大阪」、駅前ランドマーク「ヒルトン大阪」を徹底比較。大阪市ふるさと納税トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-osaka-umeda-luxury-skyview-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -28,12 +29,12 @@ export default function FurusatoArticlePage() {
     description: '西日本最大のメガターミナル・大阪府大阪市北区「梅田（キタ）」を楽天ふるさと納税でお得に贅沢ステイ！18世紀英国貴族の邸宅の風格「ザ・リッツ・カールトン大阪」、グランフロント大阪直結のスタイリッシュ「インターコンチネンタルホテル大阪」、駅前ランドマーク「ヒルトン大阪」を徹底比較。大阪市ふるさと納税トラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル 観光・ふるさと納税調査班',
+      name: '旅宿クラウド 観光・ふるさと納税調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -80,6 +81,9 @@ export default function FurusatoArticlePage() {
           西日本最大のメガターミナル・大阪府大阪市北区「梅田（キタ）」を楽天ふるさと納税でお得に贅沢ステイ！18世紀英国貴族の邸宅の風格「ザ・リッツ・カールトン大阪」、グランフロント大阪直結のスタイリッシュ「インターコンチネンタルホテル大阪」、駅前ランドマーク「ヒルトン大阪」を徹底比較。大阪市ふるさと納税トラベルクーポン活用術を網羅。
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"大阪・梅田をふるさと納税でお得に旅する！JR大阪駅直結＆地上摩天楼夜景！天下の台所美食特集"} url={"https://croud-travel.pages.dev/furusato-tax-osaka-umeda-luxury-skyview-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
@@ -360,7 +364,7 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> グランフロント大阪・うめきた公園＆梅田スカイビル・空中庭園展望台観光ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">グランフロント大阪・うめきた公園＆梅田スカイビル・空中庭園展望台観光ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
@@ -586,6 +590,9 @@ export default function FurusatoArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"大阪・梅田をふるさと納税でお得に旅する！JR大阪駅直結＆地上摩天楼夜景！天下の台所美食特集"} url={"https://croud-travel.pages.dev/furusato-tax-osaka-umeda-luxury-skyview-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-osaka-umeda-luxury-skyview-stay" />
 </div>
         </section>

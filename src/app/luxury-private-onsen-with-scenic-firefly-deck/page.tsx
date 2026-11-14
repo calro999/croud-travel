@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             初夏の夜、静寂な清流沿いのプライベートデッキや客室露天風呂から、淡く光りながら舞い飛ぶ天然のゲンジボタルを鑑賞。喧騒を離れ、自然の光と水のせせらぎに包まれる風雅な温泉旅館を厳選紹介。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"初夏の幻想蛍夜：客室露天・専用テラスから舞う蛍を鑑賞！清流沿いの隠れ家名湯宿5選"} url={"https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-firefly-deck/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"初夏の幻想蛍夜：客室露天・専用テラスから舞う蛍を鑑賞！清流沿いの隠れ家名湯宿5選"} url={"https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-firefly-deck/"} />
+      </div>
       <HubRelatedPosts currentSlug="luxury-private-onsen-with-scenic-firefly-deck" />
 </div>
         </section>

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             江ノ電がコトコト走る相模湾沿い。由緒ある古社寺の静寂と、夕日に染まる富士山と江の島シーキャンドル。都心から1時間で出逢える極上の湘南リゾートステイ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"古都鎌倉＆湘南江の島：鶴岡八幡宮・江ノ電・富士夕景ホテル 厳選ガイド"} url={"https://croud-travel.pages.dev/kanagawa-kamakura-shonan-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"古都鎌倉＆湘南江の島：鶴岡八幡宮・江ノ電・富士夕景ホテル 厳選ガイド"} url={"https://croud-travel.pages.dev/kanagawa-kamakura-shonan-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="kanagawa-kamakura-shonan-stay" />
 </div>
   );

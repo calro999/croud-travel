@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月佐賀・唐津呼子温泉の冬の玄界灘と呼子活イカ】極上佐賀牛ステーキ＆唐津城パノラマ・唐津焼の器で味わう海辺美食名宿5選',
     description: '11月から12月にかけて、佐賀県北西部に位置する城下町・唐津と港町・呼子は、玄界灘の冬の荒波が育む極上の海の幸と。',
     url: 'https://croud-travel.pages.dev/winter-saga-karatsu-onsen-yobuko-ika-sagagyu-genkai-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -170,7 +171,7 @@ export default function WinterSagaKaratsuPage() {
         'isPartOf': {
           '@type': 'WebSite',
           '@id': 'https://croud-travel.pages.dev/#website',
-          'name': 'クラドトラベル',
+          'name': '旅宿クラウド',
           'url': 'https://croud-travel.pages.dev/'
         },
         'headline': "【11・12月佐賀・唐津呼子温泉の冬の玄界灘と呼子活イカ】極上佐賀牛ステーキ＆唐津城パノラマ・唐津焼の器で味わう海辺美食名宿5選",
@@ -181,7 +182,7 @@ export default function WinterSagaKaratsuPage() {
         'dateModified': '2026-10-25T00:00:00+09:00',
         'publisher': {
           '@type': 'Organization',
-          'name': 'クラドトラベル編集部',
+          'name': '旅宿クラウド編集部',
           'url': 'https://croud-travel.pages.dev/'
         }
       },
@@ -273,6 +274,9 @@ export default function WinterSagaKaratsuPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月佐賀・唐津呼子温泉の冬の玄界灘と呼子活イカ】極上佐賀牛ステーキ＆唐津城パノラマ・唐津焼の器で味わう海辺美食名宿5選"} url={"https://croud-travel.pages.dev/winter-saga-karatsu-onsen-yobuko-ika-sagagyu-genkai-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
@@ -397,7 +401,7 @@ export default function WinterSagaKaratsuPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug hover:text-blue-800 transition"><a href={hotel.url} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1.5">
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug hover:text-blue-800 transition"><a href={hotel.url} target="_blank" rel="sponsored noopener noreferrer" className="inline-flex items-center gap-1.5">
                           {hotel.name}
                           <ExternalLink className="w-4 h-4 text-slate-400 inline" />
                         </a></h3>
@@ -440,7 +444,7 @@ export default function WinterSagaKaratsuPage() {
                       <a
                         href={hotel.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center justify-center w-full sm:w-auto px-6 py-3 rounded-xl bg-gradient-to-r from-blue-700 to-indigo-900 text-white text-xs sm:text-sm font-bold shadow-md hover:from-blue-800 hover:to-indigo-950 hover:shadow-lg transition-all gap-2"
                       >
                         <span>楽天トラベルでプラン・空室・最新料金を見る</span>
@@ -610,6 +614,9 @@ export default function WinterSagaKaratsuPage() {
               </p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月佐賀・唐津呼子温泉の冬の玄界灘と呼子活イカ】極上佐賀牛ステーキ＆唐津城パノラマ・唐津焼の器で味わう海辺美食名宿5選"} url={"https://croud-travel.pages.dev/winter-saga-karatsu-onsen-yobuko-ika-sagagyu-genkai-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-saga-karatsu-onsen-yobuko-ika-sagagyu-genkai-stay" />
 </div>
         </section>

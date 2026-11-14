@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             有馬・草津と並び称される日本三名泉「下呂温泉」。pH9.2を誇る天然の石鹸のようなとろりとした美肌湯。飛騨川のせせらぎを聞きながら歩く温泉街の足湯めぐりと、飛騨牛朴葉味噌焼きの香ばしい香りに包まれる休日。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"岐阜・下呂温泉：日本三名泉・美肌の湯＆飛騨牛トマト丼・温泉街湯めぐり 厳選ガイド"} url={"https://croud-travel.pages.dev/gifu-gero-onsen-heritage-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"岐阜・下呂温泉：日本三名泉・美肌の湯＆飛騨牛トマト丼・温泉街湯めぐり 厳選ガイド"} url={"https://croud-travel.pages.dev/gifu-gero-onsen-heritage-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="gifu-gero-onsen-heritage-stay" />
 </div>
   );

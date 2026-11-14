@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月熊本・杖立温泉＆わいた温泉郷】初冬に立ち上る湯けむりと元祖むし湯・名物地獄蒸しと極上肥後あか牛を堪能する名宿5選',
     description: '11月中旬から阿蘇・小国郷の山峡に冷涼な冬の気配が満ち、杖立川の川面から幾筋もの真っ白な湯けむりがダイナミックに立ち上る熊本県・杖立温泉（つ。',
     url: 'https://croud-travel.pages.dev/winter-kumamoto-tsuetate-waita-onsen-steaming-higogyu-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -49,7 +50,7 @@ export default function KumamotoTsuetateWaitaPage() {
         "isPartOf": {
           "@type": "WebSite",
           "@id": "https://croud-travel.pages.dev/#website",
-          "name": "クラドトラベル",
+          "name": "旅宿クラウド",
           "url": "https://croud-travel.pages.dev/"
         },
         "headline": "【11・12月熊本・杖立温泉＆わいた温泉郷】初冬に立ち上る湯けむりと元祖むし湯・名物地獄蒸しと極上肥後あか牛を堪能する名宿5選",
@@ -60,7 +61,7 @@ export default function KumamotoTsuetateWaitaPage() {
         "mainEntityOfPage": "https://croud-travel.pages.dev/winter-kumamoto-tsuetate-waita-onsen-steaming-higogyu-stay/",
         "publisher": {
           "@type": "Organization",
-          "name": "クラドトラベル編集部",
+          "name": "旅宿クラウド編集部",
           "url": "https://croud-travel.pages.dev/"
         }
       },
@@ -348,6 +349,9 @@ export default function KumamotoTsuetateWaitaPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月熊本・杖立温泉＆わいた温泉郷】初冬に立ち上る湯けむりと元祖むし湯・名物地獄蒸しと極上肥後あか牛を堪能する名宿5選"} url={"https://croud-travel.pages.dev/winter-kumamoto-tsuetate-waita-onsen-steaming-higogyu-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-10 sm:pt-14 space-y-12">
@@ -460,7 +464,7 @@ export default function KumamotoTsuetateWaitaPage() {
                         <a
                           href={hotel.url}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="inline-flex items-center gap-1.5 bg-amber-800 hover:bg-amber-900 text-white text-xs sm:text-sm font-bold px-4 py-2.5 rounded-xl transition shadow-xs"
                         >
                           プラン一覧を見る
@@ -647,6 +651,9 @@ export default function KumamotoTsuetateWaitaPage() {
               </p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月熊本・杖立温泉＆わいた温泉郷】初冬に立ち上る湯けむりと元祖むし湯・名物地獄蒸しと極上肥後あか牛を堪能する名宿5選"} url={"https://croud-travel.pages.dev/winter-kumamoto-tsuetate-waita-onsen-steaming-higogyu-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-kumamoto-tsuetate-waita-onsen-steaming-higogyu-stay" />
 </div>
         </section>

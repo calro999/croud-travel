@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -12,7 +13,7 @@ export const metadata: Metadata = {
     title: '雲仙温泉ひとり旅・雲仙地獄白濁おこもり：日本最初の国立公園・硫黄香る乳白色露天・島原半島美食！島原の歴史薫る高原リトリート厳選3宿',
     description: '日本最初の国立公園に指定された高原温泉郷・雲仙！民芸調の温もりと自家源泉かけ流し露天風呂が評判の「民芸モダンの宿 雲仙福田屋」、アットホームなもてなしと良質な硫黄泉が愛される「民宿 関荘」、湯守の温かみと温泉三昧が叶う「民宿 雲仙」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/nagasaki-unzen-solo-retreat-onsen-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -26,12 +27,12 @@ export default function ArticlePage() {
     description: '日本最初の国立公園に指定された高原温泉郷・雲仙！民芸調の温もりと自家源泉かけ流し露天風呂が評判の「民芸モダンの宿 雲仙福田屋」、アットホームなもてなしと良質な硫黄泉が愛される「民宿 関荘」、湯守の温かみと温泉三昧が叶う「民宿 雲仙」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル ひとり旅・出張調査班',
+      name: '旅宿クラウド ひとり旅・出張調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -91,6 +92,9 @@ export default function ArticlePage() {
             </p>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"雲仙温泉ひとり旅・雲仙地獄白濁おこもり：日本最初の国立公園・硫黄香る乳白色露天・島原半島美食！島原の歴史薫る高原リトリート厳選3宿"} url={"https://croud-travel.pages.dev/nagasaki-unzen-solo-retreat-onsen-stay/"} />
+      </div>
 
         {/* 目次 */}
         <section className="bg-white p-5 rounded-2xl border border-stone-200 shadow-sm mb-10">
@@ -147,7 +151,7 @@ export default function ArticlePage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F6194%2F6194.html"
                 target="_blank"
-                rel="noopener noreferrer sponsored"
+                rel="sponsored noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-amber-700 hover:bg-amber-800 text-white text-xs sm:text-sm font-bold px-5 py-2.5 rounded-lg shadow-sm hover:shadow transition"
               >
                 <span>空室状況・最新料金を確認</span>
@@ -201,7 +205,7 @@ export default function ArticlePage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F139757%2F139757.html"
                 target="_blank"
-                rel="noopener noreferrer sponsored"
+                rel="sponsored noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-amber-700 hover:bg-amber-800 text-white text-xs sm:text-sm font-bold px-5 py-2.5 rounded-lg shadow-sm hover:shadow transition"
               >
                 <span>空室状況・最新料金を確認</span>
@@ -254,7 +258,7 @@ export default function ArticlePage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F30046%2F30046.html"
                 target="_blank"
-                rel="noopener noreferrer sponsored"
+                rel="sponsored noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-amber-700 hover:bg-amber-800 text-white text-xs sm:text-sm font-bold px-5 py-2.5 rounded-lg shadow-sm hover:shadow transition"
               >
                 <span>空室状況・最新料金を確認</span>
@@ -314,7 +318,7 @@ export default function ArticlePage() {
           <a
             href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F6194%2F6194.html"
             target="_blank"
-            rel="noopener noreferrer sponsored"
+            rel="sponsored noopener noreferrer"
             className="inline-block bg-amber-600 hover:bg-amber-500 text-white text-sm font-bold px-8 py-3.5 rounded-xl shadow-lg transition"
           >
             一番人気の宿をチェックする（楽天トラベル）
@@ -540,6 +544,9 @@ export default function ArticlePage() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"雲仙温泉ひとり旅・雲仙地獄白濁おこもり：日本最初の国立公園・硫黄香る乳白色露天・島原半島美食！島原の歴史薫る高原リトリート厳選3宿"} url={"https://croud-travel.pages.dev/nagasaki-unzen-solo-retreat-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="nagasaki-unzen-solo-retreat-onsen-stay" />
 </div>
   );

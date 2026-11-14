@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             風味豊かな採れたて枝豆を丁寧につぶした名物「ずんだ餅」「ずんだパフェ」と、三陸沖の極上海鮮！開湯1500年の秋保温泉や絶景の松島湾を望む温泉宿で、宮城の伝統スイーツと名湯に癒やされる旅。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"仙台ずんだスイーツ＆三陸海鮮：香り高い枝豆スイーツと秋保・作並・松島の名湯宿5選"} url={"https://croud-travel.pages.dev/traditional-miyagi-sendai-zunda-sweets-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"仙台ずんだスイーツ＆三陸海鮮：香り高い枝豆スイーツと秋保・作並・松島の名湯宿5選"} url={"https://croud-travel.pages.dev/traditional-miyagi-sendai-zunda-sweets-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="traditional-miyagi-sendai-zunda-sweets-stay" />
 </div>
         </section>

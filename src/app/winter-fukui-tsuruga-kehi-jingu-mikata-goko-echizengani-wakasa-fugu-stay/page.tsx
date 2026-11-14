@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import Link from 'next/link';
 import type { Metadata } from 'next';
@@ -299,6 +300,9 @@ export default function FukuiTsurugaWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月福井】北陸道総鎮守「氣比神宮」新春初詣と三方五湖の冬静寂！黄色タグ「越前がに」・「若狭ふぐ」極上会席＆敦賀名宿5選"} url={"https://croud-travel.pages.dev/winter-fukui-tsuruga-kehi-jingu-mikata-goko-echizengani-wakasa-fugu-stay/"} />
+      </div>
 
       {/* Summary Box */}
       <section className="max-w-5xl mx-auto px-4 -mt-8 relative z-20">
@@ -504,7 +508,7 @@ export default function FukuiTsurugaWinterPage() {
                         <a 
                           href={hotel.url} 
                           target="_blank" 
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="inline-flex items-center gap-1.5 px-5 py-2.5 bg-indigo-900 hover:bg-indigo-800 text-white font-bold text-xs rounded-xl shadow transition"
                         >
                           <span>宿泊プラン・空室を確認</span>
@@ -665,6 +669,9 @@ export default function FukuiTsurugaWinterPage() {
               トップページへ戻る
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月福井】北陸道総鎮守「氣比神宮」新春初詣と三方五湖の冬静寂！黄色タグ「越前がに」・「若狭ふぐ」極上会席＆敦賀名宿5選"} url={"https://croud-travel.pages.dev/winter-fukui-tsuruga-kehi-jingu-mikata-goko-echizengani-wakasa-fugu-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-fukui-tsuruga-kehi-jingu-mikata-goko-echizengani-wakasa-fugu-stay" />
 </div>
         </section>

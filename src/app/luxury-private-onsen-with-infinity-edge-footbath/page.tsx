@@ -209,7 +209,7 @@ export default function Page() {
 
                   <div className="w-full flex flex-col justify-between space-y-4">
                     <div className="space-y-2">
-                      <h3 className="text-lg md:text-xl font-bold font-journal-serif text-emerald-950 leading-snug"><a href={hotel.affiliateUrl} target="_blank" rel="noopener noreferrer nofollow" className="hover:text-emerald-700">
+                      <h3 className="text-lg md:text-xl font-bold font-journal-serif text-emerald-950 leading-snug"><a href={hotel.affiliateUrl} target="_blank" rel="sponsored noopener noreferrer" className="hover:text-emerald-700">
                           {hotel.hotelName}
                         </a></h3>
                       <p className="text-xs text-stone-500">
@@ -235,7 +235,7 @@ export default function Page() {
                         <a
                           href={hotel.planListUrl || hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer nofollow"
+                          rel="sponsored noopener noreferrer"
                           className="flex items-center justify-center py-2.5 px-4 bg-rose-600 hover:bg-rose-700 text-white font-bold text-xs rounded-xl shadow-sm transition"
                         >
                           空室・プラン確認 ❯
@@ -243,7 +243,7 @@ export default function Page() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer nofollow"
+                          rel="sponsored noopener noreferrer"
                           className="flex items-center justify-center py-2.5 px-4 bg-emerald-900 hover:bg-emerald-800 text-white font-bold text-xs rounded-xl shadow-sm transition"
                         >
                           写真・詳細を見る

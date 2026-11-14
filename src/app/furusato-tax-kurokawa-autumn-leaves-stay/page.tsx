@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
@@ -5,7 +6,7 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '阿蘇・黒川温泉の渓流紅葉と入湯手形めぐり！田の原川沿いの風情ある名宿×ふるさと納税厳選ガイド熊本',
   description: '10月下旬〜11月中旬に山里全体が秋色に包まれる九州屈指の人気温泉郷「黒川温泉」。田の原川沿いの雑木林紅葉と情緒ある杉皮屋根の街並み、名物「入湯手形」でめぐる野趣あふれる露天風呂、名宿「山河」「新明館」「美里」であか牛ステーキや肥後馬刺しを堪能。楽天ふるさと納税で実質2,000円で泊まる極上里山ステイ。',
-  keywords: ["阿蘇", "2026年最新秋旅", "熊本", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
+  keywords: ["阿蘇", "2026年末・冬休み対応", "熊本", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-kurokawa-autumn-leaves-stay/"
   },
@@ -24,7 +25,7 @@ export default function FeatureArticlePage() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "阿蘇・黒川温泉の渓流紅葉と入湯手形めぐり！田の原川沿いの風情ある名宿×ふるさと納税完全ガイド【2026年最新秋旅】熊本",
+    "headline": "阿蘇・黒川温泉の渓流紅葉と入湯手形めぐり！田の原川沿いの風情ある名宿×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】熊本",
     "description": "10月下旬〜11月中旬に山里全体が秋色に包まれる九州屈指の人気温泉郷「黒川温泉」。田の原川沿いの雑木林紅葉と情緒ある杉皮屋根の街並み、名物「入湯手形」でめぐる野趣あふれる露天風呂、名宿「山河」「新明館」「美里」であか牛ステーキや肥後馬刺しを堪能。楽天ふるさと納税で実質2,000円で泊まる極上里山ステイ。",
     "url": "https://croud-travel.pages.dev/furusato-tax-kurokawa-autumn-leaves-stay/",
     "publisher": {
@@ -38,7 +39,7 @@ export default function FeatureArticlePage() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "阿蘇・黒川温泉の渓流紅葉と入湯手形めぐり！田の原川沿いの風情ある名宿×ふるさと納税完全ガイド【2026年最新秋旅】熊本", "item": "https://croud-travel.pages.dev/furusato-tax-kurokawa-autumn-leaves-stay/" }
+      { "@type": "ListItem", "position": 2, "name": "阿蘇・黒川温泉の渓流紅葉と入湯手形めぐり！田の原川沿いの風情ある名宿×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】熊本", "item": "https://croud-travel.pages.dev/furusato-tax-kurokawa-autumn-leaves-stay/" }
     ]
   };
 
@@ -84,6 +85,9 @@ export default function FeatureArticlePage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"阿蘇・黒川温泉の渓流紅葉と入湯手形めぐり！田の原川沿いの風情ある名宿×ふるさと納税厳選ガイド熊本"} url={"https://croud-travel.pages.dev/furusato-tax-kurokawa-autumn-leaves-stay/"} />
+      </div>
 
       {/* イントロダクション */}
       <section className="max-w-5xl mx-auto px-4 sm:px-6 mb-12">
@@ -507,6 +511,9 @@ export default function FeatureArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"阿蘇・黒川温泉の渓流紅葉と入湯手形めぐり！田の原川沿いの風情ある名宿×ふるさと納税厳選ガイド熊本"} url={"https://croud-travel.pages.dev/furusato-tax-kurokawa-autumn-leaves-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-kurokawa-autumn-leaves-stay" />
 </div>
         </section>

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             12月上旬からスキー場が続々オープン！世界中のスキーヤー・スノーボーダーが憧れる最高峰の粉雪「JAPOW（ジャパン・パウダー）」を体験し、羊蹄山（蝦夷富士）を一望するインフィニティ温泉露天風呂と国際色豊かな極上リゾート。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【12月オープン！ニセコ極上パウダースノー】世界が称賛するJAPOWと羊蹄山ビュー宿5選"} url={"https://croud-travel.pages.dev/winter-niseko-powder-snow-ski-resort-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -578,6 +582,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【12月オープン！ニセコ極上パウダースノー】世界が称賛するJAPOWと羊蹄山ビュー宿5選"} url={"https://croud-travel.pages.dev/winter-niseko-powder-snow-ski-resort-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-niseko-powder-snow-ski-resort-stay" />
 </div>
         </section>

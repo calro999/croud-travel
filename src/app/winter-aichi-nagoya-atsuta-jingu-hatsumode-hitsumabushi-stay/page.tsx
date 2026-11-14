@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -257,6 +258,9 @@ export default function AichiNagoyaAtsutaPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月愛知】三種の神器を祀る「熱田神宮」新春初詣＆名物「本場ひつまぶし」・極上名古屋コーチン鍋を味わう名宿5選"} url={"https://croud-travel.pages.dev/winter-aichi-nagoya-atsuta-jingu-hatsumode-hitsumabushi-stay/"} />
+      </div>
 
       {/* Main Content Area */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
@@ -487,7 +491,7 @@ export default function AichiNagoyaAtsutaPage() {
                     <a 
                       href={hotel.url} 
                       target="_blank" 
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-xl bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-700 hover:to-amber-800 text-white font-bold text-xs sm:text-sm shadow-md shadow-amber-600/20 hover:shadow-lg transition-all w-full sm:w-auto"
                     >
                       <span>年末年始は争奪戦 ▶ 空室を確認する</span>
@@ -630,6 +634,9 @@ export default function AichiNagoyaAtsutaPage() {
               </span>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月愛知】三種の神器を祀る「熱田神宮」新春初詣＆名物「本場ひつまぶし」・極上名古屋コーチン鍋を味わう名宿5選"} url={"https://croud-travel.pages.dev/winter-aichi-nagoya-atsuta-jingu-hatsumode-hitsumabushi-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-aichi-nagoya-atsuta-jingu-hatsumode-hitsumabushi-stay" />
 </div>
         </section>

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月秋田・男鹿温泉郷の初冬名物ハタハタと豪快石焼き鍋】なまはげ伝承の里・日本海荒波雪見露天＆海水の温まり湯の宿5選',
     description: '11月から12月にかけて日本海に突き出た秋田県・男鹿半島は、初冬の雷鳴とともに大群で沿岸に押し寄せる秋田の県魚「ハタハタ（雷魚）」の漁獲シー。',
     url: 'https://croud-travel.pages.dev/winter-akita-oga-onsen-ishiyaki-namahage-snow-stay/',
-    siteName: 'クラドトラベル (Croud Travel)',
+    siteName: '旅宿クラウド (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -287,6 +288,9 @@ export default function OgaOnsenWinterFeature() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月秋田・男鹿温泉郷の初冬名物ハタハタと豪快石焼き鍋】なまはげ伝承の里・日本海荒波雪見露天＆海水の温まり湯の宿5選"} url={"https://croud-travel.pages.dev/winter-akita-oga-onsen-ishiyaki-namahage-snow-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-10 space-y-12">
@@ -492,7 +496,7 @@ export default function OgaOnsenWinterFeature() {
                     <a
                       href={h.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="w-full sm:w-auto inline-flex items-center justify-center gap-2 bg-red-700 hover:bg-red-800 text-white font-bold text-sm px-6 py-3 rounded-2xl shadow-sm hover:shadow transition group flex-shrink-0"
                     >
                       <span>楽天トラベルでプランを見る</span>
@@ -611,6 +615,9 @@ export default function OgaOnsenWinterFeature() {
               <h3 className="text-sm font-bold group-hover:text-red-200 transition">湯川渓谷の雪見露天と会津藩士ゆかりの歴史・会津牛郷土料理の宿</h3>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月秋田・男鹿温泉郷の初冬名物ハタハタと豪快石焼き鍋】なまはげ伝承の里・日本海荒波雪見露天＆海水の温まり湯の宿5選"} url={"https://croud-travel.pages.dev/winter-akita-oga-onsen-ishiyaki-namahage-snow-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-akita-oga-onsen-ishiyaki-namahage-snow-stay" />
 </div>
         </section>

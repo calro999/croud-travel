@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             満開の桜並木や庭園のしだれ桜を客室露天風呂から独り占め！湯面に浮かぶ桜の花びらと心地よい春風に包まれながら、誰にも気兼ねなく花見酒と旬の春会席を楽しめる贅沢な隠れ宿。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"客室専用お花見露天風呂：舞い散る桜を湯船から独占！春限定の極上プライベート温泉宿5選"} url={"https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-cherry-blossom-deck/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"客室専用お花見露天風呂：舞い散る桜を湯船から独占！春限定の極上プライベート温泉宿5選"} url={"https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-cherry-blossom-deck/"} />
+      </div>
       <HubRelatedPosts currentSlug="luxury-private-onsen-with-scenic-cherry-blossom-deck" />
 </div>
         </section>

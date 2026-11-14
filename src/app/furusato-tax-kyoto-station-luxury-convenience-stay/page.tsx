@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -14,7 +15,7 @@ export const metadata: Metadata = {
     title: "京都駅直結をふるさと納税でお得に旅する！新幹線直結＆抜群のアクセス！古都観光の特等席名門ホテル特集",
     description: '新幹線を降りたらすぐチェックイン！京都観光・出張の最強拠点・京都府京都市「京都駅周辺」を楽天ふるさと納税でお得に贅沢ステイ。JR京都駅烏丸口直結のランドマーク「ホテルグランヴィア京都」、現代の茶室をテーマにした癒やしの館「ザ・サウザンド京都」、京都唯一の回転展望レストランを擁する「リーガロイヤルホテル京都」を徹底比較。京都市トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-kyoto-station-luxury-convenience-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -28,12 +29,12 @@ export default function FurusatoArticlePage() {
     description: '新幹線を降りたらすぐチェックイン！京都観光・出張の最強拠点・京都府京都市「京都駅周辺」を楽天ふるさと納税でお得に贅沢ステイ。JR京都駅烏丸口直結のランドマーク「ホテルグランヴィア京都」、現代の茶室をテーマにした癒やしの館「ザ・サウザンド京都」、京都唯一の回転展望レストランを擁する「リーガロイヤルホテル京都」を徹底比較。京都市トラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル 観光・ふるさと納税調査班',
+      name: '旅宿クラウド 観光・ふるさと納税調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -80,6 +81,9 @@ export default function FurusatoArticlePage() {
           新幹線を降りたらすぐチェックイン！京都観光・出張の最強拠点・京都府京都市「京都駅周辺」を楽天ふるさと納税でお得に贅沢ステイ。JR京都駅烏丸口直結のランドマーク「ホテルグランヴィア京都」、現代の茶室をテーマにした癒やしの館「ザ・サウザンド京都」、京都唯一の回転展望レストランを擁する「リーガロイヤルホテル京都」を徹底比較。京都市トラベルクーポン活用術を網羅。
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"京都駅直結をふるさと納税でお得に旅する！新幹線直結＆抜群のアクセス！古都観光の特等席名門ホテル特集"} url={"https://croud-travel.pages.dev/furusato-tax-kyoto-station-luxury-convenience-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
@@ -360,7 +364,7 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 京都駅ビル・東寺五重塔＆東本願寺・渉成園観光ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">京都駅ビル・東寺五重塔＆東本願寺・渉成園観光ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
@@ -586,6 +590,9 @@ export default function FurusatoArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"京都駅直結をふるさと納税でお得に旅する！新幹線直結＆抜群のアクセス！古都観光の特等席名門ホテル特集"} url={"https://croud-travel.pages.dev/furusato-tax-kyoto-station-luxury-convenience-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-kyoto-station-luxury-convenience-stay" />
 </div>
         </section>

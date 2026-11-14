@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             近未来的な球体パノラマドームサウナと、天然湧水がオーバーフローするインフィニティ水風呂！木々のざわめきと小鳥の声をBGMに、建築美と大自然が融合した最高峰のデザイナーズスパリゾートを厳選紹介。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"球体ドームサウナ＆湧水インフィニティ：森の静寂に溶け込むデザイナーズサウナ宿5選"} url={"https://croud-travel.pages.dev/organic-forest-infinity-dome-sauna-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"球体ドームサウナ＆湧水インフィニティ：森の静寂に溶け込むデザイナーズサウナ宿5選"} url={"https://croud-travel.pages.dev/organic-forest-infinity-dome-sauna-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="organic-forest-infinity-dome-sauna-stay" />
 </div>
         </section>

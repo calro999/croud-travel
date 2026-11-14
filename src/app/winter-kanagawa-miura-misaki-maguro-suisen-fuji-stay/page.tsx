@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
     title: '【11・12・1月神奈川】冬の三浦半島・城ヶ島30万本の水仙まつりと富士山絶景・名物三崎まぐろ尽くし＆朝獲れ地魚を味わう三浦名宿5選',
     description: '11月から1月、三浦半島最南端の城ヶ島や三浦海岸は、冬の澄み渡る青空の下で相模湾越しに純白の富士山が鮮やかに浮かび上がる絶景の季節を迎えます。',
     url: 'https://croud-travel.pages.dev/winter-kanagawa-miura-misaki-maguro-suisen-fuji-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     images: [
       {
         url: 'https://img.travel.rakuten.co.jp/share/HOTEL/13569/13569.jpg',
@@ -49,12 +50,12 @@ export default function KanagawaMiuraMisakiWinterPage() {
     dateModified: '',
     author: {
       '@type': 'Organization',
-      name: 'クラドトラベル編集部',
+      name: '旅宿クラウド編集部',
       url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png'
@@ -293,6 +294,9 @@ export default function KanagawaMiuraMisakiWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月神奈川】冬の三浦半島・城ヶ島30万本の水仙まつりと富士山絶景・名物三崎まぐろ尽くし＆朝獲れ地魚を味わう三浦名宿5選"} url={"https://croud-travel.pages.dev/winter-kanagawa-miura-misaki-maguro-suisen-fuji-stay/"} />
+      </div>
 
       {/* Main Content Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 pt-12 space-y-16">
@@ -501,7 +505,7 @@ export default function KanagawaMiuraMisakiWinterPage() {
                       <a 
                         href={h.url} 
                         target="_blank" 
-                        rel="noopener noreferrer" 
+                        rel="sponsored noopener noreferrer" 
                         className="w-full sm:w-auto inline-flex items-center justify-center gap-2 bg-gradient-to-r from-sky-800 to-slate-900 hover:from-sky-900 hover:to-slate-950 text-white font-bold px-6 py-3.5 rounded-xl shadow-md transition-all text-sm group"
                       >
                         <span>楽天トラベルで空室・プランを見る</span>
@@ -670,6 +674,9 @@ export default function KanagawaMiuraMisakiWinterPage() {
               </span>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月神奈川】冬の三浦半島・城ヶ島30万本の水仙まつりと富士山絶景・名物三崎まぐろ尽くし＆朝獲れ地魚を味わう三浦名宿5選"} url={"https://croud-travel.pages.dev/winter-kanagawa-miura-misaki-maguro-suisen-fuji-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-kanagawa-miura-misaki-maguro-suisen-fuji-stay" />
 </div>
         </section>

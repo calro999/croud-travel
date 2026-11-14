@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月栃木・日光湯西川温泉の初雪渓谷美と平家落人伝説】名物囲炉裏会席・平家狩場焼＆とちぎ和牛・源泉かけ流し雪見露天名宿5選',
     description: '11月から12月にかけて、栃木県日光市の深山幽谷に抱かれた「湯西川温泉」は、広葉樹の紅葉が散り落ちるとともに白銀の初雪が舞い始め。',
     url: 'https://croud-travel.pages.dev/winter-tochigi-yunishigawa-onsen-heike-irori-snow-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -170,7 +171,7 @@ export default function WinterTochigiYunishigawaPage() {
         'isPartOf': {
           '@type': 'WebSite',
           '@id': 'https://croud-travel.pages.dev/#website',
-          'name': 'クラドトラベル',
+          'name': '旅宿クラウド',
           'url': 'https://croud-travel.pages.dev/'
         },
         'headline': "【11・12月栃木・日光湯西川温泉の初雪渓谷美と平家落人伝説】名物囲炉裏会席・平家狩場焼＆とちぎ和牛・源泉かけ流し雪見露天名宿5選",
@@ -181,7 +182,7 @@ export default function WinterTochigiYunishigawaPage() {
         'dateModified': '2026-10-25T00:00:00+09:00',
         'publisher': {
           '@type': 'Organization',
-          'name': 'クラドトラベル編集部',
+          'name': '旅宿クラウド編集部',
           'url': 'https://croud-travel.pages.dev/'
         }
       },
@@ -273,6 +274,9 @@ export default function WinterTochigiYunishigawaPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月栃木・日光湯西川温泉の初雪渓谷美と平家落人伝説】名物囲炉裏会席・平家狩場焼＆とちぎ和牛・源泉かけ流し雪見露天名宿5選"} url={"https://croud-travel.pages.dev/winter-tochigi-yunishigawa-onsen-heike-irori-snow-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
@@ -397,7 +401,7 @@ export default function WinterTochigiYunishigawaPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug hover:text-amber-800 transition"><a href={hotel.url} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1.5">
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug hover:text-amber-800 transition"><a href={hotel.url} target="_blank" rel="sponsored noopener noreferrer" className="inline-flex items-center gap-1.5">
                           {hotel.name}
                           <ExternalLink className="w-4 h-4 text-stone-400 inline" />
                         </a></h3>
@@ -440,7 +444,7 @@ export default function WinterTochigiYunishigawaPage() {
                       <a
                         href={hotel.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center justify-center w-full sm:w-auto px-6 py-3 rounded-xl bg-gradient-to-r from-amber-700 to-amber-900 text-white text-xs sm:text-sm font-bold shadow-md hover:from-amber-800 hover:to-amber-950 hover:shadow-lg transition-all gap-2"
                       >
                         <span>楽天トラベルでプラン・空室・最新料金を見る</span>
@@ -610,6 +614,9 @@ export default function WinterTochigiYunishigawaPage() {
               </p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月栃木・日光湯西川温泉の初雪渓谷美と平家落人伝説】名物囲炉裏会席・平家狩場焼＆とちぎ和牛・源泉かけ流し雪見露天名宿5選"} url={"https://croud-travel.pages.dev/winter-tochigi-yunishigawa-onsen-heike-irori-snow-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-tochigi-yunishigawa-onsen-heike-irori-snow-stay" />
 </div>
         </section>

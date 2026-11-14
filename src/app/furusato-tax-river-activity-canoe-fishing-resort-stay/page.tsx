@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
@@ -67,7 +68,7 @@ export default function FurusatoFeaturePage() {
             <a
               href={officialFurusatoAffUrl}
               target="_blank"
-              rel="noopener noreferrer"
+              rel="sponsored noopener noreferrer"
               className="inline-flex items-center justify-center gap-2 px-8 py-4 rounded-2xl bg-gradient-to-r from-amber-500 to-orange-500 hover:from-amber-400 hover:to-orange-400 text-stone-950 font-black text-base shadow-xl shadow-amber-500/20 hover:scale-[1.02] active:scale-[0.98] transition-all"
             >
               <span>楽天ふるさと納税 宿泊クーポンを獲得する</span>
@@ -76,6 +77,9 @@ export default function FurusatoFeaturePage() {
           </div>
         </div>
       </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"清流アクティビティ＆リバービュー温泉宿×ふるさと納税厳選ガイド長良川・四万十川・保津川の舟旅"} url={"https://croud-travel.pages.dev/furusato-tax-river-activity-canoe-fishing-resort-stay/"} />
+      </div>
 
       {/* メリット3選 */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto border-b border-stone-800">
@@ -562,12 +566,12 @@ export default function FurusatoFeaturePage() {
         <div className="p-8 sm:p-10 rounded-3xl bg-gradient-to-r from-amber-600/30 via-orange-600/20 to-stone-900 border border-amber-500/40 text-center relative overflow-hidden">
           <div className="relative z-10">
             <h2 className="text-2xl sm:text-3xl font-black text-amber-100 mb-4">ふるさと納税の宿泊クーポンでお得に極上の旅へ</h2>
-            <p className="text-sm sm:text-base text-stone-300 max-w-2xl mx-auto mb-6 leading-relaxed">寄附上限額の範囲内なら、控除上限内であれば実質自己負担2,000円（寄付額の最大30%クーポン還元）で憧れの特等席宿やリゾートに宿泊可能。楽天ポイント還元も併用して、賢く贅沢なひとときをお過ごしください。
+            <p className="text-sm sm:text-base text-stone-300 max-w-2xl mx-auto mb-6 leading-relaxed">寄附上限額の範囲内なら、控除上限内であれば実質自己負担2,000円（寄付額の最大30%クーポン還元）で憧れの特等席宿やリゾートに宿泊可能。有効期限最長3年のクーポンを活用して、賢く贅沢なひとときをお過ごしください。
             </p>
             <a
               href={officialFurusatoAffUrl}
               target="_blank"
-              rel="noopener noreferrer"
+              rel="sponsored noopener noreferrer"
               className="inline-flex items-center justify-center gap-2 px-8 py-4 rounded-2xl bg-gradient-to-r from-amber-500 to-orange-500 hover:from-amber-400 hover:to-orange-400 text-stone-950 font-black text-base shadow-xl shadow-amber-500/20 hover:scale-[1.02] active:scale-[0.98] transition-all"
             >
               <span>楽天ふるさと納税 宿泊クーポンを獲得する</span>
@@ -627,6 +631,9 @@ export default function FurusatoFeaturePage() {
         </div>
       </section>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"清流アクティビティ＆リバービュー温泉宿×ふるさと納税厳選ガイド長良川・四万十川・保津川の舟旅"} url={"https://croud-travel.pages.dev/furusato-tax-river-activity-canoe-fishing-resort-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-river-activity-canoe-fishing-resort-stay" />
 </div>
   );

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             11月下旬から開幕する本場ドイツの雰囲気を再現した「横浜赤レンガ倉庫クリスマスマーケット」！巨大モミの木ツリーやイルミネーションを鑑賞し、みなとみらいの煌めく夜景を一望する高層階バルコニー付きホテルで過ごす特別な夜。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月！横浜みなとみらいクリスマス夜景】赤レンガ倉庫マーケットとベイビュー宿5選"} url={"https://croud-travel.pages.dev/winter-yokohama-minatomirai-christmas-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -396,7 +400,7 @@ export default function FeaturePage() {
                 <span className="inline-block text-[10px] font-bold px-2 py-0.5 rounded bg-amber-100 text-amber-800 mb-2">
                   厳選おすすめ特集
                 </span>
-                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">武家屋敷＆サムライ・甲冑・刀剣体験宿完全ガイド【会津・角館・知覧歴史旅】 | クラウドトラベル</h3>
+                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">武家屋敷＆サムライ・甲冑・刀剣体験宿完全ガイド【会津・角館・知覧歴史旅】 | 旅宿クラウド</h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
                 特集を見る →
@@ -500,7 +504,7 @@ export default function FeaturePage() {
                 <span className="inline-block text-[10px] font-bold px-2 py-0.5 rounded bg-amber-100 text-amber-800 mb-2">
                   厳選おすすめ特集
                 </span>
-                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">尾道・千光寺山の紅葉坂道としまなみ海道！瀬戸内海の多島美温泉・秋の地魚＆レモンポークを味わう広島旅 | クラウドトラベルふるさと納税</h3>
+                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">尾道・千光寺山の紅葉坂道としまなみ海道！瀬戸内海の多島美温泉・秋の地魚＆レモンポークを味わう広島旅 | 旅宿クラウドふるさと納税</h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
                 特集を見る →
@@ -578,6 +582,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月！横浜みなとみらいクリスマス夜景】赤レンガ倉庫マーケットとベイビュー宿5選"} url={"https://croud-travel.pages.dev/winter-yokohama-minatomirai-christmas-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-yokohama-minatomirai-christmas-stay" />
 </div>
         </section>

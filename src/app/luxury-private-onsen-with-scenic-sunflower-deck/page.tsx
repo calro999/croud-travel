@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             青空の下に広がる何十万本もの満開のひまわり畑！客室専用ウッドデッキや展望露天風呂から黄色い花の絨毯を一望できる、開放感と元気に満ちた全国屈指のフラワーカーペット温泉宿を厳選紹介。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"黄色い絨毯ひまわり畑：客室テラスから望む一面のひまわりと絶景露天風呂！夏秋のパノラマ宿5選"} url={"https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-sunflower-deck/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"黄色い絨毯ひまわり畑：客室テラスから望む一面のひまわりと絶景露天風呂！夏秋のパノラマ宿5選"} url={"https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-sunflower-deck/"} />
+      </div>
       <HubRelatedPosts currentSlug="luxury-private-onsen-with-scenic-sunflower-deck" />
 </div>
         </section>

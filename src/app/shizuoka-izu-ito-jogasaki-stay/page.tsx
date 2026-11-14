@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             毎分3万リットル以上の豊富な湧出量を誇る歴史の温泉地「伊東温泉」。溶岩が削り出した断崖絶壁と海にかかる「城ヶ崎海岸・門脇つり橋」。抹茶碗を伏せたような美しい山容の「大室山」と、伊豆近海の伊勢海老・地魚に癒やされる旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"静岡・伊豆伊東＆城ヶ崎海岸：門脇つり橋・大室山リフト＆東海館・地魚海鮮宿 厳選ガイド"} url={"https://croud-travel.pages.dev/shizuoka-izu-ito-jogasaki-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"静岡・伊豆伊東＆城ヶ崎海岸：門脇つり橋・大室山リフト＆東海館・地魚海鮮宿 厳選ガイド"} url={"https://croud-travel.pages.dev/shizuoka-izu-ito-jogasaki-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="shizuoka-izu-ito-jogasaki-stay" />
 </div>
   );

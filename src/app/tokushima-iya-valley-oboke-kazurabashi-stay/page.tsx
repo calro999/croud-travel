@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             平家落人伝説が息づく日本三大秘境「徳島・祖谷渓＆大歩危峡」。シラクチカズラで編まれたスリル満点の「祖谷のかずら橋」。200mの断崖を見下ろす小便小僧。専用ケーブルカーで渓谷底へ下る秘境の露天風呂と、素朴な祖谷そばを味わう旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"徳島・祖谷渓＆大歩危・かずら橋：日本三大秘境・スリルのかずら橋＆大歩危峡舟下り・祖谷そば宿 厳選ガイド"} url={"https://croud-travel.pages.dev/tokushima-iya-valley-oboke-kazurabashi-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -392,6 +396,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"徳島・祖谷渓＆大歩危・かずら橋：日本三大秘境・スリルのかずら橋＆大歩危峡舟下り・祖谷そば宿 厳選ガイド"} url={"https://croud-travel.pages.dev/tokushima-iya-valley-oboke-kazurabashi-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="tokushima-iya-valley-oboke-kazurabashi-stay" />
 </div>
   );

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -169,6 +170,9 @@ export default function IzuOceanViewCoupleAnniversaryGuidePage() {
             </span>
           </div>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"熱海・伊豆 カップル客室露天風呂宿おすすめ：相模湾一望オーシャンビュー＆記念日ディナーの隠れ家"} url={"https://croud-travel.pages.dev/izu-ocean-view-couple-anniversary-guide/"} />
+      </div>
       </section>
 
       {/* 楽天トラベル クーポンバナー */}
@@ -437,6 +441,9 @@ export default function IzuOceanViewCoupleAnniversaryGuidePage() {
         </div>
       </section>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"熱海・伊豆 カップル客室露天風呂宿おすすめ：相模湾一望オーシャンビュー＆記念日ディナーの隠れ家"} url={"https://croud-travel.pages.dev/izu-ocean-view-couple-anniversary-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="izu-ocean-view-couple-anniversary-guide" />
 </div>
   );

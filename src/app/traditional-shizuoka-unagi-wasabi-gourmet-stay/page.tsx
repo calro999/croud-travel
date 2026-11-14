@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -128,6 +129,9 @@ export default function FeaturePage() {
             天城連山の清流が育む香り高い伊豆本わさびと、職人が秘伝のタレでふっくら香ばしく焼き上げる名物うなぎ！文学と歴史の薫る修善寺温泉や中伊豆で、名水美食と風雅な温泉に心癒やされる贅沢ステイ。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"極上うなぎ炭火焼き＆生わさび丼：静岡・伊豆修善寺の名水美食と名湯宿5選"} url={"https://croud-travel.pages.dev/traditional-shizuoka-unagi-wasabi-gourmet-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -420,6 +424,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"極上うなぎ炭火焼き＆生わさび丼：静岡・伊豆修善寺の名水美食と名湯宿5選"} url={"https://croud-travel.pages.dev/traditional-shizuoka-unagi-wasabi-gourmet-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="traditional-shizuoka-unagi-wasabi-gourmet-stay" />
 </div>
         </section>

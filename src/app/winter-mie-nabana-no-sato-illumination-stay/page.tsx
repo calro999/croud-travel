@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             日本最大級のスケールを誇る「なばなの里イルミネーション」！長さ200メートルの光のトンネルや水上イルミネーションを鑑賞し、開湯1300年の名湯・湯の山温泉の美肌湯や伊勢湾の海の幸に寛ぐ極上旅。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月！なばなの里イルミネーション】光のトンネルと湯の山温泉・長島リゾート宿5選"} url={"https://croud-travel.pages.dev/winter-mie-nabana-no-sato-illumination-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -578,6 +582,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月！なばなの里イルミネーション】光のトンネルと湯の山温泉・長島リゾート宿5選"} url={"https://croud-travel.pages.dev/winter-mie-nabana-no-sato-illumination-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-mie-nabana-no-sato-illumination-stay" />
 </div>
         </section>

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -172,6 +173,9 @@ export default function HighwayBusArticlePage() {
             山陽新幹線なら新大阪〜博多最速2時間28分・片道約15,600円（往復約31,200円）。夜行高速バスなら片道約3,000円〜！往復で2万円以上浮くため、中洲や天神の屋台はしご酒、名店もつ鍋、博多明太子のお土産を思い切り堪能できます。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"大阪から福岡・博多 安く行く方法：新幹線 vs 夜行バス徹底比較！中洲屋台・もつ鍋1泊2日モデルコース"} url={"https://croud-travel.pages.dev/osaka-fukuoka-bus-vs-shinkansen-guide/"} />
       </div>
 
       {/* 📊 交通手段・料金・所要時間の徹底比較テーブル */}
@@ -563,6 +567,9 @@ export default function HighwayBusArticlePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"大阪から福岡・博多 安く行く方法：新幹線 vs 夜行バス徹底比較！中洲屋台・もつ鍋1泊2日モデルコース"} url={"https://croud-travel.pages.dev/osaka-fukuoka-bus-vs-shinkansen-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="osaka-fukuoka-bus-vs-shinkansen-guide" />
 </div>
   );

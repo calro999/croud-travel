@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -163,6 +164,9 @@ export default function YamanashiGrapeBusTourPage() {
             </a>
           </div>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"山梨 シャインマスカット狩り 日帰りバスツアー2026：巨峰食べ放題＆勝沼ワイナリー・温泉付き最安比較"} url={"https://croud-travel.pages.dev/yamanashi-grape-bus-tour-daytrip-guide/"} />
+      </div>
       </section>
 
       {/* 内部リンクカード */}
@@ -409,6 +413,9 @@ export default function YamanashiGrapeBusTourPage() {
         </ul>
       </section>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"山梨 シャインマスカット狩り 日帰りバスツアー2026：巨峰食べ放題＆勝沼ワイナリー・温泉付き最安比較"} url={"https://croud-travel.pages.dev/yamanashi-grape-bus-tour-daytrip-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="yamanashi-grape-bus-tour-daytrip-guide" />
 </div>
   );

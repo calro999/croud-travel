@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -191,6 +192,9 @@ export default function SilverWeekGlampingStargazingAstronomyPage() {
             <span className="flex items-center gap-1.5">🔥 満天の星の下で愉しむ焚き火カフェ</span>
           </div>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"星空が綺麗すぎるグランピング2026：天の川が見える標高1,000mの高原！天体望遠鏡＆焚き火シネマ"} url={"https://croud-travel.pages.dev/silver-week-glamping-stargazing-astronomy-guide/"} />
+      </div>
       </section>
 
       {/* 楽天トラベルスペシャルクーポンバナー */}
@@ -402,6 +406,9 @@ export default function SilverWeekGlampingStargazingAstronomyPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"星空が綺麗すぎるグランピング2026：天の川が見える標高1,000mの高原！天体望遠鏡＆焚き火シネマ"} url={"https://croud-travel.pages.dev/silver-week-glamping-stargazing-astronomy-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="silver-week-glamping-stargazing-astronomy-guide" />
 </div>
   );

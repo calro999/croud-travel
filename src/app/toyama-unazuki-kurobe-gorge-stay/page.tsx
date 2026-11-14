@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             日本一深いV字峡谷「黒部峡谷」の玄関口に湧く「宇奈月温泉」。トロッコ電車に揺られて大自然の秘境へ。黒部川のエメラルドグリーンを眺め、富山湾の宝石・白えびと美肌の湯に酔いしれる旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"富山・黒部宇奈月温泉：トロッコ電車・黒部峡谷断崖美＆富山湾の幸極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/toyama-unazuki-kurobe-gorge-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"富山・黒部宇奈月温泉：トロッコ電車・黒部峡谷断崖美＆富山湾の幸極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/toyama-unazuki-kurobe-gorge-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="toyama-unazuki-kurobe-gorge-stay" />
 </div>
   );

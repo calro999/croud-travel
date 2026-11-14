@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from "react";
 import Link from "next/link";
@@ -164,6 +165,9 @@ export default function FeaturePage() {
             </div>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"霧島連山樹氷と西郷隆盛癒やしの白鳥温泉：2026-2027年冬の宮崎・えびの＆小林！最高峰宮崎牛名宿5選"} url={"https://croud-travel.pages.dev/winter-miyazaki-ebino-plateau-shiratori-onsen-miyazakigyu-stay/"} />
+      </div>
 
         {/* なぜこの冬訪れるべきか */}
         <section className="max-w-4xl mx-auto px-4 mb-10">
@@ -585,6 +589,10 @@ export default function FeaturePage() {
             </div>
           </div>
         </section>
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"霧島連山樹氷と西郷隆盛癒やしの白鳥温泉：2026-2027年冬の宮崎・えびの＆小林！最高峰宮崎牛名宿5選"} url={"https://croud-travel.pages.dev/winter-miyazaki-ebino-plateau-shiratori-onsen-miyazakigyu-stay/"} />
+      </div>
       </main>
     </>
   );

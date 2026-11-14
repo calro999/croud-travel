@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -113,6 +114,9 @@ export default function SeasonalFeaturePage() {
             新米で仕込んだ出来立ての新酒や、ひと夏寝かせてまろやかになった秋の「ひやおろし」。歴史ある白壁の酒蔵通りを歩き、夜は厳選された銘酒と郷土料理のマリアージュに酔いしれる大人の旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"新酒の季節：日本酒酒蔵めぐり＆地酒飲み比べ温泉宿 厳選ガイド"} url={"https://croud-travel.pages.dev/autumn-winter-brewery-sake-tour/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -463,6 +467,9 @@ export default function SeasonalFeaturePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"新酒の季節：日本酒酒蔵めぐり＆地酒飲み比べ温泉宿 厳選ガイド"} url={"https://croud-travel.pages.dev/autumn-winter-brewery-sake-tour/"} />
+      </div>
       <HubRelatedPosts currentSlug="autumn-winter-brewery-sake-tour" />
 </div>
   );

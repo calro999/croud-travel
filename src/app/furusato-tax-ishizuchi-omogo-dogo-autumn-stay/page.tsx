@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
@@ -5,7 +6,7 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '西日本最高峰・石鎚山＆面河渓エメラルド紅葉！道後温泉本館湯守り宿×ふるさと納税厳選ガイド愛媛',
   description: '10月上旬〜11月中旬に西日本最高峰（標高1,982m）から麓の面河渓へと下りてくる「愛媛・石鎚山紅葉」。石鎚スカイラインの絶景ドライブや面河渓の清流散策と、日本最古の湯「道後温泉 旅亭 うめ乃や」「道後グランドホテル」「ふなや」で瀬戸内の天然鯛めしや伊予牛・愛媛みかん会席を堪能。ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。',
-  keywords: ["西日本最高峰", "石鎚山", "2026年最新秋旅", "愛媛", "温泉宿", "宿泊予約", "楽天トラベル"],
+  keywords: ["西日本最高峰", "石鎚山", "2026年末・冬休み対応", "愛媛", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-ishizuchi-omogo-dogo-autumn-stay/"
   },
@@ -38,7 +39,7 @@ const HOTEL_DATA = {
   dogo_chaharu: {
     name: '道後温泉　道後グランドホテル',
     no: 6001,
-    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F145017%2F145017.html',
+    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F6001%2F6001.html',
     planUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F6001%2F6001.html%26f_flg%3DPLAN',
     reviewUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D6001',
     img: 'https://img.travel.rakuten.co.jp/share/HOTEL/6001/6001.jpg',
@@ -53,7 +54,7 @@ const HOTEL_DATA = {
   dogo_kowakuen: {
     name: '道後温泉　ふなや',
     no: 11332,
-    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F6001%2F6001.html',
+    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F11332%2F11332.html',
     planUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F11332%2F11332.html%26f_flg%3DPLAN',
     reviewUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D11332',
     img: 'https://img.travel.rakuten.co.jp/share/HOTEL/11332/11332.jpg',
@@ -72,7 +73,7 @@ export default function FeatureArticlePage() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "西日本最高峰・石鎚山＆面河渓エメラルド紅葉！道後温泉本館湯守り宿×ふるさと納税完全ガイド【2026年最新秋旅】愛媛",
+    "headline": "西日本最高峰・石鎚山＆面河渓エメラルド紅葉！道後温泉本館湯守り宿×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】愛媛",
     "description": "10月上旬〜11月中旬に西日本最高峰（標高1,982m）から麓の面河渓へと下りてくる「愛媛・石鎚山紅葉」。石鎚スカイラインの絶景ドライブや面河渓の清流散策と、日本最古の湯「道後温泉 旅亭 うめ乃や」「道後グランドホテル」「ふなや」で瀬戸内の天然鯛めしや伊予牛・愛媛みかん会席を堪能。ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。",
     "url": "https://croud-travel.pages.dev/furusato-tax-ishizuchi-omogo-dogo-autumn-stay/",
     "publisher": {
@@ -86,7 +87,7 @@ export default function FeatureArticlePage() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "西日本最高峰・石鎚山＆面河渓エメラルド紅葉！道後温泉本館湯守り宿×ふるさと納税完全ガイド【2026年最新秋旅】愛媛", "item": "https://croud-travel.pages.dev/furusato-tax-ishizuchi-omogo-dogo-autumn-stay/" }
+      { "@type": "ListItem", "position": 2, "name": "西日本最高峰・石鎚山＆面河渓エメラルド紅葉！道後温泉本館湯守り宿×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】愛媛", "item": "https://croud-travel.pages.dev/furusato-tax-ishizuchi-omogo-dogo-autumn-stay/" }
     ]
   };
 
@@ -111,7 +112,7 @@ export default function FeatureArticlePage() {
       <header className="bg-gradient-to-br from-orange-950 via-amber-950 to-stone-900 text-white py-14 md:py-20 px-4 mb-10 shadow-lg">
         <div className="max-w-5xl mx-auto text-center">
           <div className="inline-flex items-center gap-2 bg-white/20 backdrop-blur-md px-4 py-1.5 rounded-full text-xs md:text-sm font-semibold mb-5 text-amber-200">
-            <span>🍁 10月・11月限定 秋旅特集</span>
+            <span>🍁 12/31締切 年末駆け込み＆冬休み対応</span>
             <span>•</span>
             <span>楽天ふるさと納税トラベルクーポン対応</span>
           </div>
@@ -121,6 +122,9 @@ export default function FeatureArticlePage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"西日本最高峰・石鎚山＆面河渓エメラルド紅葉！道後温泉本館湯守り宿×ふるさと納税厳選ガイド愛媛"} url={"https://croud-travel.pages.dev/furusato-tax-ishizuchi-omogo-dogo-autumn-stay/"} />
+      </div>
 
       <div className="max-w-5xl mx-auto px-4 grid grid-cols-1 lg:grid-cols-3 gap-8">
         {/* メインコンテンツ */}
@@ -132,11 +136,11 @@ export default function FeatureArticlePage() {
               愛媛県にそびえる西日本最高峰・霊峰「石鎚山（1,982m）」は、山頂付近からブナやカエデが色づき始め、麓の「面河渓（おもごけい）」へと1ヶ月以上かけて紅葉が下りてくる西日本屈指の名所。エメラルドグリーンの清流と白い岩肌を彩る紅葉を堪能した後は、3000年の歴史を誇る道後温泉へ。重要文化財の道後温泉本館の風情に浸りつつ、愛媛名物の天然真鯛を使った鯛めしや伊予牛を味わえます。
             </p>
             <div className="bg-amber-50/80 rounded-xl p-5 border border-amber-200/80">
-              <h3 className="font-bold text-amber-950 text-sm md:text-base mb-2 flex items-center gap-2">10月〜11月の旅を満喫する3大ポイント</h3>
+              <h3 className="font-bold text-amber-950 text-sm md:text-base mb-2 flex items-center gap-2">年末〜冬休み・来春の旅を満喫する3大ポイント</h3>
               <ul className="text-xs md:text-sm text-amber-900 space-y-2 list-disc list-inside">
-                <li><strong>見頃の紅葉パノラマ：</strong>標高や日当たりで刻一刻と変化するグラデーションを鑑賞（西日本最高峰・石鎚山＆面河渓エメラルド紅葉）</li>
-                <li><strong>極上の温泉と湯巡り：</strong>朝夕の冷え込む秋風の中で入る露天風呂は格別の贅沢（西日本最高峰・石鎚山＆面河渓エメラルド紅葉）</li>
-                <li><strong>控除上限内なら自己負担実質2,000円（最大30%クーポン還元）：</strong>楽天ふるさと納税トラベルクーポンで賢く予約（西日本最高峰・石鎚山＆面河渓エメラルド紅葉）</li>
+                <li><strong>見頃の紅葉パノラマ：</strong>標高や日当たりで刻一刻と変化するグラデーションを鑑賞</li>
+                <li><strong>極上の温泉と湯巡り：</strong>朝夕の冷え込む秋風の中で入る露天風呂は格別の贅沢</li>
+                <li><strong>控除上限内なら自己負担実質2,000円（最大30%クーポン還元）：</strong>楽天ふるさと納税トラベルクーポンで賢く予約</li>
               </ul>
             </div>
           </section>
@@ -185,7 +189,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.dogo_funaya.planUrl || HOTEL_DATA.dogo_funaya.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-3.5 px-6 rounded-xl text-center shadow-md transition-all text-sm md:text-base flex items-center justify-center gap-2"
               >
                 <span>プラン一覧・空室確認（楽天トラベル）</span>
@@ -194,7 +198,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.dogo_funaya.reviewUrl || HOTEL_DATA.dogo_funaya.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="bg-stone-100 hover:bg-stone-200 text-stone-700 font-bold py-3.5 px-5 rounded-xl text-center border border-stone-300 text-sm transition-all"
               >
                 口コミを見る
@@ -246,7 +250,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.dogo_chaharu.planUrl || HOTEL_DATA.dogo_chaharu.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-3.5 px-6 rounded-xl text-center shadow-md transition-all text-sm md:text-base flex items-center justify-center gap-2"
               >
                 <span>プラン一覧・空室確認（楽天トラベル）</span>
@@ -255,7 +259,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.dogo_chaharu.reviewUrl || HOTEL_DATA.dogo_chaharu.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="bg-stone-100 hover:bg-stone-200 text-stone-700 font-bold py-3.5 px-5 rounded-xl text-center border border-stone-300 text-sm transition-all"
               >
                 口コミを見る
@@ -307,7 +311,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.dogo_kowakuen.planUrl || HOTEL_DATA.dogo_kowakuen.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-3.5 px-6 rounded-xl text-center shadow-md transition-all text-sm md:text-base flex items-center justify-center gap-2"
               >
                 <span>プラン一覧・空室確認（楽天トラベル）</span>
@@ -316,7 +320,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.dogo_kowakuen.reviewUrl || HOTEL_DATA.dogo_kowakuen.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="bg-stone-100 hover:bg-stone-200 text-stone-700 font-bold py-3.5 px-5 rounded-xl text-center border border-stone-300 text-sm transition-all"
               >
                 口コミを見る
@@ -357,19 +361,19 @@ export default function FeatureArticlePage() {
             <h3 className="font-bold text-stone-900 mb-4 pb-2 border-b border-stone-200 flex items-center gap-2">この特集で紹介した宿</h3>
             <ul className="space-y-4 text-xs md:text-sm">
               <li>
-                <a href={HOTEL_DATA.dogo_funaya.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
+                <a href={HOTEL_DATA.dogo_funaya.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
                   <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.dogo_funaya.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.dogo_funaya.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
-                <a href={HOTEL_DATA.dogo_chaharu.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
+                <a href={HOTEL_DATA.dogo_chaharu.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
                   <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.dogo_chaharu.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.dogo_chaharu.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
-                <a href={HOTEL_DATA.dogo_kowakuen.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
+                <a href={HOTEL_DATA.dogo_kowakuen.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
                   <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.dogo_kowakuen.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.dogo_kowakuen.rating} | 楽天トラベルで詳細確認</div>
                 </a>
@@ -531,6 +535,9 @@ export default function FeatureArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"西日本最高峰・石鎚山＆面河渓エメラルド紅葉！道後温泉本館湯守り宿×ふるさと納税厳選ガイド愛媛"} url={"https://croud-travel.pages.dev/furusato-tax-ishizuchi-omogo-dogo-autumn-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-ishizuchi-omogo-dogo-autumn-stay" />
 </div>
         </section>

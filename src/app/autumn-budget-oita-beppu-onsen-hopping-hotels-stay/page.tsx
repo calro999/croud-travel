@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Image from 'next/image';
@@ -63,12 +64,14 @@ export default function BeppuBudgetAutumnPage() {
             夕食は宿に縛られず、温泉の蒸気で野菜や海鮮を一気に蒸し上げる「地獄蒸し料理」や、名物とり天、大分豊後牛の居酒屋などを自由に巡るのがツウの楽しみ方。秋の心地よい海風を感じながらの温泉ステイをお楽しみください。
           </p>
         </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"秋の別府温泉×格安：地獄めぐりと鶴見岳紅葉！源泉かけ流し1泊3,000円台〜のコスパ最強おすすめ宿5選「2026最新」"} url={"https://croud-travel.pages.dev/autumn-budget-oita-beppu-onsen-hopping-hotels-stay/"} />
+      </div>
 
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-teal-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！別府温泉の格安名宿5選</h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">楽天トラベル高評価！別府温泉の格安名宿5選</h2>
 
           <div className="space-y-8">
 
@@ -498,6 +501,9 @@ export default function BeppuBudgetAutumnPage() {
               </div>
             </div>
           </div></section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"秋の別府温泉×格安：地獄めぐりと鶴見岳紅葉！源泉かけ流し1泊3,000円台〜のコスパ最強おすすめ宿5選「2026最新」"} url={"https://croud-travel.pages.dev/autumn-budget-oita-beppu-onsen-hopping-hotels-stay/"} />
+      </div>
         <div className="max-w-4xl mx-auto px-4 sm:px-6">
           <HubRelatedPosts currentSlug="autumn-budget-oita-beppu-onsen-hopping-hotels-stay" />
         </div>

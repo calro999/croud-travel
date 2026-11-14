@@ -264,6 +264,23 @@ export default function FurusatoPage() {
         </div>
       </section>
 
+      {/* 年末駆け込みふるさと納税キラー特集への特設誘導 */}
+      <section className="bg-gradient-to-r from-amber-50 via-orange-50 to-amber-50 border-2 border-amber-300 rounded-3xl p-6 md:p-8 shadow-sm flex flex-col md:flex-row items-center justify-between gap-5">
+        <div className="space-y-1.5">
+          <span className="inline-block px-3 py-0.5 rounded-full bg-amber-600 text-white text-[11px] font-black tracking-wider">12月31日締切・年末駆け込み特集</span>
+          <h2 className="text-lg md:text-xl font-black text-amber-950 font-journal-serif">ふるさと納税の駆け込み寄付×楽天トラベル宿泊クーポン対象 高級温泉宿20選</h2>
+          <p className="text-xs md:text-sm text-amber-900/80 leading-relaxed">
+            年内最後の控除枠を旅行で賢く消化したい方向けに、楽天トラベル公式データから厳選した「あとから割引適用OK・有効期限3年」の対象温泉宿20軒と自治体別攻略法を総まとめしました。
+          </p>
+        </div>
+        <Link
+          href="/posts/furusato-tax-yearend-rush-rakuten-travel-coupon-guide/"
+          className="w-full md:w-auto px-6 py-3.5 rounded-2xl bg-amber-700 hover:bg-amber-800 text-white font-black text-xs md:text-sm shadow-md transition whitespace-nowrap text-center"
+        >
+          対象温泉宿20選を見る →
+        </Link>
+      </section>
+
       {/* 3つの圧倒的メリット */}
       <section className="grid grid-cols-1 md:grid-cols-3 gap-6">
         <div className="bg-white rounded-2xl p-6 border border-amber-500/20 shadow-sm space-y-3">

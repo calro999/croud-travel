@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -277,6 +278,9 @@ export default function HuistenboschChristmasPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月長崎ハウステンボス】日本一1300万球「光の街のクリスマス」とヨーロッパ風リゾート宿5選"} url={"https://croud-travel.pages.dev/winter-nagasaki-huistenbosch-christmas-lights-stay/"} />
+      </div>
 
       {/* Main Content Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
@@ -443,7 +447,7 @@ export default function HuistenboschChristmasPage() {
                       <a
                         href={hotel.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-6 py-3.5 rounded-xl bg-indigo-600 hover:bg-indigo-700 text-white font-bold text-sm shadow-sm transition-all hover:scale-[1.02]"
                       >
                         <span>楽天トラベルでプラン・空室を見る</span>
@@ -749,6 +753,9 @@ export default function HuistenboschChristmasPage() {
               <ChevronRight className="w-4 h-4" />
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月長崎ハウステンボス】日本一1300万球「光の街のクリスマス」とヨーロッパ風リゾート宿5選"} url={"https://croud-travel.pages.dev/winter-nagasaki-huistenbosch-christmas-lights-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-nagasaki-huistenbosch-christmas-lights-stay" />
 </div>
         </section>

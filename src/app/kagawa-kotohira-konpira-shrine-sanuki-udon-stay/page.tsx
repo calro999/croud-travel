@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -107,6 +108,9 @@ export default function MicroTouristHubPage() {
             古くから「一生に一度はこんぴら参り」と庶民の憧れを集めた海の神様「金刀比羅宮」。門前町から本宮まで785段、奥社まで1368段の石段を登り切った先に広がる讃岐平野と讃岐富士の絶景パノラマ。江戸時代の天保6年に建てられた日本最古の芝居小屋「金丸座」、本場の打ちたて讃岐うどん、そして石段登りの疲れを癒す「こんぴら温泉」のまろやかな名湯に浸かる香川・琴平ステイへご案内します。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"香川・琴平＆こんぴら温泉：金刀比羅宮・讃岐うどん＆名湯宿 厳選ガイド"} url={"https://croud-travel.pages.dev/kagawa-kotohira-konpira-shrine-sanuki-udon-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"香川・琴平＆こんぴら温泉：金刀比羅宮・讃岐うどん＆名湯宿 厳選ガイド"} url={"https://croud-travel.pages.dev/kagawa-kotohira-konpira-shrine-sanuki-udon-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="kagawa-kotohira-konpira-shrine-sanuki-udon-stay" />
 </div>
   );

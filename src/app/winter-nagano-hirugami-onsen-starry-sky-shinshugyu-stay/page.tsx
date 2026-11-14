@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
     title: '【11・12・1月長野】日本一の星空ナイトツアーとpH9.7強アルカリ美肌の湯・極上南信州牛＆信州サーモンを味わう昼神温泉名宿5選',
     description: '11月から1月、南信州の澄んだ大気と日本アルプスの山々に抱かれた長野県阿智村「昼神温泉」は、一年で最も夜空の輝きが増す奇跡の天体観測シーズンを迎えます。',
     url: 'https://croud-travel.pages.dev/winter-nagano-hirugami-onsen-starry-sky-shinshugyu-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -56,12 +57,12 @@ export default function NaganoHirugamiOnsenWinterPage() {
         "dateModified": "2026-10-18T00:00:00+09:00",
         "author": {
           "@type": "Organization",
-          "name": "クラドトラベル 星空・美肌温泉取材班",
+          "name": "旅宿クラウド 星空・美肌温泉取材班",
           "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
-          "name": "クラドトラベル",
+          "name": "旅宿クラウド",
           "url": "https://croud-travel.pages.dev",
           "logo": {
             "@type": "ImageObject",
@@ -256,6 +257,9 @@ export default function NaganoHirugamiOnsenWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月長野】日本一の星空ナイトツアーとpH9.7強アルカリ美肌の湯・極上南信州牛＆信州サーモンを味わう昼神温泉名宿5選"} url={"https://croud-travel.pages.dev/winter-nagano-hirugami-onsen-starry-sky-shinshugyu-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 mt-10 space-y-12">
@@ -361,7 +365,7 @@ export default function NaganoHirugamiOnsenWinterPage() {
                       <a 
                         href={h.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-1.5 bg-indigo-600 hover:bg-indigo-700 text-white font-bold text-xs px-4 py-2 rounded-xl shadow-xs transition"
                       >
                         楽天トラベルで空室・プランを見る
@@ -554,6 +558,9 @@ export default function NaganoHirugamiOnsenWinterPage() {
               <p className="font-bold text-stone-800 line-clamp-2">天下三名泉のとろとろ美肌湯と極上飛騨牛・冬の花火物語を巡る名宿</p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月長野】日本一の星空ナイトツアーとpH9.7強アルカリ美肌の湯・極上南信州牛＆信州サーモンを味わう昼神温泉名宿5選"} url={"https://croud-travel.pages.dev/winter-nagano-hirugami-onsen-starry-sky-shinshugyu-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-nagano-hirugami-onsen-starry-sky-shinshugyu-stay" />
 </div>
         </section>

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function HeritageOnsenHubPage() {
             築100年を超える豪農の屋敷や町家を贅沢に独占する「古民家一棟貸し」。太い梁と漆喰壁が包み込む歴史空間に、最新の快適設備とプライベート蔵サウナを完備。囲炉裏を囲んで炭火焼きを味わい、星空の下でととのう究極の休日。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"古民家一棟貸し・蔵サウナの宿：築100年再生邸宅・プライベート薪サウナ 厳選ガイド"} url={"https://croud-travel.pages.dev/kominka-villa-kura-sauna-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function HeritageOnsenHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"古民家一棟貸し・蔵サウナの宿：築100年再生邸宅・プライベート薪サウナ 厳選ガイド"} url={"https://croud-travel.pages.dev/kominka-villa-kura-sauna-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="kominka-villa-kura-sauna-stay" />
 </div>
   );

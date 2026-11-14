@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -184,6 +185,9 @@ export default function HakoneAutumnLeavesHotspringGuidePage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"箱根 紅葉露天風呂＆ライトアップ2026：箱根登山鉄道・強羅公園・美術館の紅葉巡り＆にごり湯旅館"} url={"https://croud-travel.pages.dev/hakone-autumn-leaves-lightup-hotspring-guide/"} />
+      </div>
 
       {/* メインエリア */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
@@ -537,6 +541,9 @@ export default function HakoneAutumnLeavesHotspringGuidePage() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"箱根 紅葉露天風呂＆ライトアップ2026：箱根登山鉄道・強羅公園・美術館の紅葉巡り＆にごり湯旅館"} url={"https://croud-travel.pages.dev/hakone-autumn-leaves-lightup-hotspring-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="hakone-autumn-leaves-lightup-hotspring-guide" />
 </div>
   );

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             12月中旬から奥秩父の渓谷に姿を現す天然の氷の芸術「三十槌の氷柱（みそつちのつらら）」！夜の幻想的なライトアップ鑑賞と、秩父温泉の柔らかな美肌湯、名物・豚みそ漬け焼きや手打ち蕎麦を堪能する冬旅。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【12月開幕！三十槌の氷柱＆秩父温泉】大自然の氷のアートと秩父名物グルメ宿5選"} url={"https://croud-travel.pages.dev/winter-chichibu-icicle-misotsuchi-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -354,7 +358,7 @@ export default function FeaturePage() {
                 <span className="inline-block text-[10px] font-bold px-2 py-0.5 rounded bg-amber-100 text-amber-800 mb-2">
                   厳選おすすめ特集
                 </span>
-                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">上高地・河童橋の黄金カラマツ紅葉と梓川清流＆「３日入れば３年風邪ひかぬ」白骨温泉・信州牛 | クラウドトラベルふるさと納税</h3>
+                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">上高地・河童橋の黄金カラマツ紅葉と梓川清流＆「３日入れば３年風邪ひかぬ」白骨温泉・信州牛 | 旅宿クラウドふるさと納税</h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
                 特集を見る →
@@ -368,7 +372,7 @@ export default function FeaturePage() {
                 <span className="inline-block text-[10px] font-bold px-2 py-0.5 rounded bg-amber-100 text-amber-800 mb-2">
                   厳選おすすめ特集
                 </span>
-                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">那智の滝と熊野古道の秋紅葉！南紀勝浦温泉の海辺洞窟露天風呂・生まぐろ＆熊野牛を味わう聖地紀州旅 | クラウドトラベルふるさと納税</h3>
+                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">那智の滝と熊野古道の秋紅葉！南紀勝浦温泉の海辺洞窟露天風呂・生まぐろ＆熊野牛を味わう聖地紀州旅 | 旅宿クラウドふるさと納税</h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
                 特集を見る →
@@ -382,7 +386,7 @@ export default function FeaturePage() {
                 <span className="inline-block text-[10px] font-bold px-2 py-0.5 rounded bg-amber-100 text-amber-800 mb-2">
                   厳選おすすめ特集
                 </span>
-                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">下呂温泉の紅葉合掌村と飛騨金山巨石群！日本三名泉の美肌湯と極上飛騨牛すき焼きを味わう秋旅 | クラウドトラベルふるさと納税</h3>
+                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">下呂温泉の紅葉合掌村と飛騨金山巨石群！日本三名泉の美肌湯と極上飛騨牛すき焼きを味わう秋旅 | 旅宿クラウドふるさと納税</h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
                 特集を見る →
@@ -578,6 +582,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【12月開幕！三十槌の氷柱＆秩父温泉】大自然の氷のアートと秩父名物グルメ宿5選"} url={"https://croud-travel.pages.dev/winter-chichibu-icicle-misotsuchi-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-chichibu-icicle-misotsuchi-stay" />
 </div>
         </section>

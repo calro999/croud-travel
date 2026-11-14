@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -254,6 +255,9 @@ export default function FukuokaDazaifuFutsukaichiPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月福岡】学問の神様・太宰府天満宮の合格祈願＆新春200万人初詣と名物「梅ヶ枝餅」・万葉の古湯二日市温泉と博多和牛の名宿5選"} url={"https://croud-travel.pages.dev/winter-fukuoka-dazaifu-tenmangu-hatsumode-futsukaichi-beef-stay/"} />
+      </div>
 
       {/* Main Content Area */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
@@ -429,7 +433,7 @@ export default function FukuokaDazaifuFutsukaichiPage() {
                     <h3 className="text-xl sm:text-2xl font-bold text-stone-900 group"><a 
                         href={hotel.url} 
                         target="_blank" 
-                        rel="noopener noreferrer" 
+                        rel="sponsored noopener noreferrer" 
                         className="hover:text-indigo-700 transition-colors inline-flex items-center gap-2"
                       >
                         {hotel.name}
@@ -500,7 +504,7 @@ export default function FukuokaDazaifuFutsukaichiPage() {
                     <a
                       href={hotel.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="block w-full sm:w-auto text-center px-6 py-3.5 rounded-xl bg-gradient-to-r from-indigo-600 to-indigo-700 hover:from-indigo-700 hover:to-indigo-800 text-white font-bold text-xs sm:text-sm shadow-md transition-all duration-200"
                     >
                       楽天トラベルで空室・冬の宿泊プランを確認する
@@ -642,6 +646,9 @@ export default function FukuokaDazaifuFutsukaichiPage() {
               </span>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月福岡】学問の神様・太宰府天満宮の合格祈願＆新春200万人初詣と名物「梅ヶ枝餅」・万葉の古湯二日市温泉と博多和牛の名宿5選"} url={"https://croud-travel.pages.dev/winter-fukuoka-dazaifu-tenmangu-hatsumode-futsukaichi-beef-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-fukuoka-dazaifu-tenmangu-hatsumode-futsukaichi-beef-stay" />
 </div>
         </section>

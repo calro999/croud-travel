@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -277,6 +278,9 @@ export default function DogoWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月道後温泉の冬情緒と瀬戸内美味】日本最古の名湯と極上真鯛鯛めし・伊予牛会席の名宿5選"} url={"https://croud-travel.pages.dev/winter-ehime-dogo-onsen-taimeshi-heritage-stay/"} />
+      </div>
 
       {/* Main Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
@@ -463,7 +467,7 @@ export default function DogoWinterPage() {
                     <a
                       href={hotel.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-6 py-3.5 rounded-2xl bg-gradient-to-r from-orange-800 to-orange-950 hover:from-orange-900 hover:to-stone-950 text-white font-bold text-sm shadow-md hover:shadow-lg transition-all transform hover:-translate-y-0.5"
                     >
                       <span>楽天トラベルでプラン・空室を見る</span>
@@ -671,6 +675,9 @@ export default function DogoWinterPage() {
               <h3 className="text-sm font-bold text-stone-900 group-hover:text-orange-800 transition line-clamp-2">【三朝温泉】世界屈指の高濃度ラジウム泉とブランド松葉ガニづくし会席</h3>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月道後温泉の冬情緒と瀬戸内美味】日本最古の名湯と極上真鯛鯛めし・伊予牛会席の名宿5選"} url={"https://croud-travel.pages.dev/winter-ehime-dogo-onsen-taimeshi-heritage-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-ehime-dogo-onsen-taimeshi-heritage-stay" />
 </div>
         </section>

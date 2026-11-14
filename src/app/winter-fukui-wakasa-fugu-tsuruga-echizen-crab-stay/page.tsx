@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
     title: '【11・12・1月福井】冬の若狭湾「若狭ふぐ」てっさ・てっちり＆敦賀港越前がに・三方五湖寒うなぎ・海絶景温泉を満喫する名宿5選',
     description: '11月から1月、北陸新幹線延伸でアクセスが格段に向上した福井県・若狭湾（敦賀・美浜・若狭三方五湖・小浜）の魅力とおすすめ宿泊施設を詳しくご紹介します。',
     url: 'https://croud-travel.pages.dev/winter-fukui-wakasa-fugu-tsuruga-echizen-crab-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     images: [
       {
         url: 'https://img.travel.rakuten.co.jp/share/HOTEL/72715/72715.jpg',
@@ -49,12 +50,12 @@ export default function FukuiWakasaFuguWinterPage() {
     dateModified: '',
     author: {
       '@type': 'Organization',
-      name: 'クラドトラベル編集部',
+      name: '旅宿クラウド編集部',
       url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png'
@@ -293,6 +294,9 @@ export default function FukuiWakasaFuguWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月福井】冬の若狭湾「若狭ふぐ」てっさ・てっちり＆敦賀港越前がに・三方五湖寒うなぎ・海絶景温泉を満喫する名宿5選"} url={"https://croud-travel.pages.dev/winter-fukui-wakasa-fugu-tsuruga-echizen-crab-stay/"} />
+      </div>
 
       {/* Main Content Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 pt-12 space-y-16">
@@ -432,7 +436,7 @@ export default function FukuiWakasaFuguWinterPage() {
                     <a 
                       href={hotel.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="w-full inline-flex items-center justify-center gap-2 bg-gradient-to-r from-teal-800 to-slate-900 hover:from-teal-900 hover:to-black text-white font-bold py-3.5 px-6 rounded-2xl shadow-sm hover:shadow transition text-sm tracking-wide"
                     >
                       <span>楽天トラベルで空室・冬限定プランを見る</span>
@@ -614,6 +618,9 @@ export default function FukuiWakasaFuguWinterPage() {
               <p className="font-bold text-stone-800 line-clamp-2">日本三景天橋立の冬絶景と幻の間人ガニ・松葉ガニを味わう海絶景宿</p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月福井】冬の若狭湾「若狭ふぐ」てっさ・てっちり＆敦賀港越前がに・三方五湖寒うなぎ・海絶景温泉を満喫する名宿5選"} url={"https://croud-travel.pages.dev/winter-fukui-wakasa-fugu-tsuruga-echizen-crab-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-fukui-wakasa-fugu-tsuruga-echizen-crab-stay" />
 </div>
         </section>

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             八百万の神々が集う聖地「出雲大社」。参拝後は『出雲国風土記』に「一度洗えば容貌美麗になり、再び浴すれば万病治る」と記された神の湯「玉造温泉」へ。美肌温泉と山陰の幸に癒やされる縁結びの旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"島根・出雲大社＆玉造温泉：神話と縁結び・日本最古の美肌温泉宿 厳選ガイド"} url={"https://croud-travel.pages.dev/shimane-izumo-tamatsukuri-onsen-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -231,6 +235,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"島根・出雲大社＆玉造温泉：神話と縁結び・日本最古の美肌温泉宿 厳選ガイド"} url={"https://croud-travel.pages.dev/shimane-izumo-tamatsukuri-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="shimane-izumo-tamatsukuri-onsen-stay" />
 </div>
   );

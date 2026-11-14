@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
     title: '【11・12・1月三重】伊勢神宮新春初詣とおかげ横丁・五十鈴川の朝霧と神域参拝・冬の極上伊勢海老＆松阪牛会席を味わう伊勢名宿5選',
     description: '11月から1月、日本人の心の故郷・伊勢神宮（内宮・外宮）は凛とした神聖な冬の静寂に包まれます。五十鈴川に立ち込める幻想的な朝霧。',
     url: 'https://croud-travel.pages.dev/winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     images: [
       {
         url: 'https://img.travel.rakuten.co.jp/share/HOTEL/142809/142809.jpg',
@@ -49,12 +50,12 @@ export default function MieIseJinguWinterPage() {
     dateModified: '',
     author: {
       '@type': 'Organization',
-      name: 'クラドトラベル編集部',
+      name: '旅宿クラウド編集部',
       url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png'
@@ -293,6 +294,9 @@ export default function MieIseJinguWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月三重】伊勢神宮新春初詣とおかげ横丁・五十鈴川の朝霧と神域参拝・冬の極上伊勢海老＆松阪牛会席を味わう伊勢名宿5選"} url={"https://croud-travel.pages.dev/winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay/"} />
+      </div>
 
       {/* Main Content Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 pt-12 space-y-16">
@@ -501,7 +505,7 @@ export default function MieIseJinguWinterPage() {
                       <a 
                         href={h.url} 
                         target="_blank" 
-                        rel="noopener noreferrer" 
+                        rel="sponsored noopener noreferrer" 
                         className="w-full sm:w-auto inline-flex items-center justify-center gap-2 bg-gradient-to-r from-amber-700 to-amber-900 hover:from-amber-800 hover:to-stone-950 text-white font-bold px-6 py-3.5 rounded-xl shadow-md transition-all text-sm group"
                       >
                         <span>楽天トラベルで空室・プランを見る</span>
@@ -670,6 +674,9 @@ export default function MieIseJinguWinterPage() {
               </span>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月三重】伊勢神宮新春初詣とおかげ横丁・五十鈴川の朝霧と神域参拝・冬の極上伊勢海老＆松阪牛会席を味わう伊勢名宿5選"} url={"https://croud-travel.pages.dev/winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay" />
 </div>
         </section>

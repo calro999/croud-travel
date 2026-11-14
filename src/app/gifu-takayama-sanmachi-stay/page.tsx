@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             出格子の町家と用水路が続く「飛騨の小京都・高山」。朝の宮川沿いで地元のおばあちゃんと会話を楽しむ朝市、芳ばしい香りの飛騨牛串焼き。歴史と木の温もりに包まれる名宿へ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"岐阜・飛騨高山：古い町並・宮川朝市＆飛騨牛尽くし極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/gifu-takayama-sanmachi-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -231,6 +235,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"岐阜・飛騨高山：古い町並・宮川朝市＆飛騨牛尽くし極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/gifu-takayama-sanmachi-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="gifu-takayama-sanmachi-stay" />
 </div>
   );

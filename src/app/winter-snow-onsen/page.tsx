@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -113,6 +114,9 @@ export default function SeasonalFeaturePage() {
             しんしんと降り積もる雪の中、立ち上る湯けむりと温かい湯船。大正ロマンの木造旅館街から大自然の秘湯まで、冬だからこそ訪れたい日本の白銀絶景温泉宿をご紹介します。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【冬の秘湯】白銀の雪見露天風呂＆絶景名湯旅館 完全ガイド"} url={"https://croud-travel.pages.dev/winter-snow-onsen/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function SeasonalFeaturePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【冬の秘湯】白銀の雪見露天風呂＆絶景名湯旅館 完全ガイド"} url={"https://croud-travel.pages.dev/winter-snow-onsen/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-snow-onsen" />
 </div>
   );

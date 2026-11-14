@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function ThemeParkActivityHubPage() {
             FUJIYAMA・ド・ドドンパ・ええじゃないかで絶叫し、富士山麓の湖で風を切る！「富士急ハイランド＆富士五湖アクティビティ宿」。開園前優先入園特典付きオフィシャルホテル。湖畔でのカヌー・SUPや森のグランピングで大自然を満喫する休日へ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"富士急ハイランド＆富士五湖アクティビティ宿：絶叫アトラクション＆グランピング 厳選ガイド"} url={"https://croud-travel.pages.dev/fuji-q-highland-fujigoko-activity-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆おすすめ宿 */}
@@ -231,6 +235,9 @@ export default function ThemeParkActivityHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"富士急ハイランド＆富士五湖アクティビティ宿：絶叫アトラクション＆グランピング 厳選ガイド"} url={"https://croud-travel.pages.dev/fuji-q-highland-fujigoko-activity-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="fuji-q-highland-fujigoko-activity-stay" />
 </div>
   );

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -240,6 +241,9 @@ export default function GifuGujoHachimanPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月岐阜】奥美濃の小京都・郡上八幡城雪景色＆宗祇水！名物鶏ちゃんと極上飛騨牛すき焼きを味わう名宿5選"} url={"https://croud-travel.pages.dev/winter-gifu-gujo-hachiman-snow-castle-hidagyu-keichan-stay/"} />
+      </div>
 
       {/* Main Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
@@ -457,7 +461,7 @@ export default function GifuGujoHachimanPage() {
                       <a
                         href={h.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl bg-gradient-to-r from-teal-600 to-indigo-600 text-white font-bold text-sm shadow hover:from-teal-700 hover:to-indigo-700 transition-all"
                       >
                         <span>楽天トラベルでプランを見る</span>
@@ -596,6 +600,9 @@ export default function GifuGujoHachimanPage() {
               <Compass className="w-4 h-4" />
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月岐阜】奥美濃の小京都・郡上八幡城雪景色＆宗祇水！名物鶏ちゃんと極上飛騨牛すき焼きを味わう名宿5選"} url={"https://croud-travel.pages.dev/winter-gifu-gujo-hachiman-snow-castle-hidagyu-keichan-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-gifu-gujo-hachiman-snow-castle-hidagyu-keichan-stay" />
 </div>
         </section>

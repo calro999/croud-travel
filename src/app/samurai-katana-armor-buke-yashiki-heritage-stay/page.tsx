@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
@@ -36,7 +37,7 @@ export default function Page() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "武家屋敷＆サムライ・甲冑・刀剣体験宿完全ガイド【会津・角館・知覧歴史旅】 | クラウドトラベル",
+    "headline": "武家屋敷＆サムライ・甲冑・刀剣体験宿完全ガイド【会津・角館・知覧歴史旅】 | 旅宿クラウド",
     "description": "白虎隊の歴史息づく会津若松、みちのくの小京都・角館の黒板塀武家屋敷、薩摩武士の面影を残す知覧武家屋敷庭園を特集。陣羽織・甲冑着付けや居合道体験、武家屋敷を再生した登録文化財宿を徹底解説。",
     "url": "https://croud-travel.pages.dev/samurai-katana-armor-buke-yashiki-heritage-stay/",
     "publisher": {
@@ -50,7 +51,7 @@ export default function Page() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "武家屋敷＆サムライ・甲冑・刀剣体験宿完全ガイド【会津・角館・知覧歴史旅】 | クラウドトラベル", "item": "https://croud-travel.pages.dev/samurai-katana-armor-buke-yashiki-heritage-stay/" }
+      { "@type": "ListItem", "position": 2, "name": "武家屋敷＆サムライ・甲冑・刀剣体験宿完全ガイド【会津・角館・知覧歴史旅】 | 旅宿クラウド", "item": "https://croud-travel.pages.dev/samurai-katana-armor-buke-yashiki-heritage-stay/" }
     ]
   };
 
@@ -81,6 +82,9 @@ export default function Page() {
             重厚な長屋門、美しく手入れされた枯山水庭園、刀傷の残る柱。会津藩士の義の心、角館の枝垂れ桜と黒板塀、そして薩摩武士の美意識が息づく知覧。当時の武家屋敷そのものや蔵をリノベーションした歴史的建造物の宿に泊まり、本物の甲冑着付けや居合切り体験、武家伝統の会席料理を味わう、侍の美学に浸るヘリテージステイへご案内します。
           </p>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"武家屋敷＆サムライ・甲冑・刀剣体験宿厳選ガイド「会津・角館・知覧歴史旅」"} url={"https://croud-travel.pages.dev/samurai-katana-armor-buke-yashiki-heritage-stay/"} />
+      </div>
 
         {/* メインコンテンツセクション */}
         
@@ -308,8 +312,7 @@ export default function Page() {
 
         {/* よくある質問 FAQ */}
         <section className="mb-16 bg-white rounded-2xl shadow-sm border border-stone-200/80 p-6 md:p-8">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2"><span className="w-2 h-7 bg-amber-700 rounded-full inline-block"></span>
-            よくある質問・伝統文化体験＆宿坊の楽しみ方</h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">よくある質問・伝統文化体験＆宿坊の楽しみ方</h2>
           <div className="space-y-4">
             
             <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
@@ -500,6 +503,9 @@ export default function Page() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"武家屋敷＆サムライ・甲冑・刀剣体験宿厳選ガイド「会津・角館・知覧歴史旅」"} url={"https://croud-travel.pages.dev/samurai-katana-armor-buke-yashiki-heritage-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="samurai-katana-armor-buke-yashiki-heritage-stay" />
 </div>
         </section>

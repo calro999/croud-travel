@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function TargetAudienceHubPage() {
             日常の忙しさを忘れて自分を解き放つ大人の女子旅！ウェルカムスイーツとアフタヌーンティーで迎えられ、極上のアロマスパで至福のデトックス。Refaドライヤーや高級アメニティが揃う洗練された美の隠れ家へ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"大人の女子旅・ご褒美温泉：極上スパエステ・アフタヌーンティー＆美肌宿 厳選ガイド"} url={"https://croud-travel.pages.dev/girls-trip-spa-afternoontea-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function TargetAudienceHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"大人の女子旅・ご褒美温泉：極上スパエステ・アフタヌーンティー＆美肌宿 厳選ガイド"} url={"https://croud-travel.pages.dev/girls-trip-spa-afternoontea-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="girls-trip-spa-afternoontea-stay" />
 </div>
   );

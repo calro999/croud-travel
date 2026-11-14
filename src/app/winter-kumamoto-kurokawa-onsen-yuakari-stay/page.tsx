@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -277,6 +278,9 @@ export default function KurokawaWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月黒川温泉の湯あかりと秘湯情緒】竹灯籠が彩る渓流露天風呂と阿蘇あか牛・肥後会席の名宿5選"} url={"https://croud-travel.pages.dev/winter-kumamoto-kurokawa-onsen-yuakari-stay/"} />
+      </div>
 
       {/* Main Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
@@ -451,7 +455,7 @@ export default function KurokawaWinterPage() {
                     <a
                       href={hotel.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-2xl bg-emerald-800 hover:bg-emerald-900 text-white font-bold text-sm shadow-md hover:shadow-lg transition-all"
                     >
                       <span>宿泊プラン・空室を確認する</span>
@@ -657,6 +661,9 @@ export default function KurokawaWinterPage() {
               <h3 className="text-sm font-bold text-stone-900 group-hover:text-emerald-800 transition line-clamp-2">【下呂温泉】冬花火ミュージカルと日本三名泉美肌湯・飛騨牛会席</h3>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月黒川温泉の湯あかりと秘湯情緒】竹灯籠が彩る渓流露天風呂と阿蘇あか牛・肥後会席の名宿5選"} url={"https://croud-travel.pages.dev/winter-kumamoto-kurokawa-onsen-yuakari-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-kumamoto-kurokawa-onsen-yuakari-stay" />
 </div>
         </section>

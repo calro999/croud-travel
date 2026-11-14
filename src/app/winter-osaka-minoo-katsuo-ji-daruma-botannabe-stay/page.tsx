@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -290,6 +291,9 @@ export default function OsakaMinooWinterPage() {
             </p>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月大阪】箕面＆能勢・池田！日本の滝百選「箕面大滝」の冬情趣と勝運の寺「勝尾寺」初詣・冬の極上味覚「能勢の天然猪鍋（ぼたん鍋）」＆箕面温泉名宿5選"} url={"https://croud-travel.pages.dev/winter-osaka-minoo-katsuo-ji-daruma-botannabe-stay/"} />
+      </div>
 
         {/* Article Summary Box */}
         <section className="max-w-5xl mx-auto px-4 -mt-8 relative z-20">
@@ -450,7 +454,7 @@ export default function OsakaMinooWinterPage() {
                       <a
                         href={hotel.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center justify-center gap-2 bg-gradient-to-r from-red-600 to-rose-600 hover:from-red-700 hover:to-rose-700 text-white font-bold text-sm md:text-base px-6 py-3 rounded-xl shadow-md hover:shadow-lg transition-all transform hover:-translate-y-0.5"
                       >
                         <span>楽天トラベルでプラン・空室を確認</span>
@@ -587,6 +591,9 @@ export default function OsakaMinooWinterPage() {
 
         </main>
       
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月大阪】箕面＆能勢・池田！日本の滝百選「箕面大滝」の冬情趣と勝運の寺「勝尾寺」初詣・冬の極上味覚「能勢の天然猪鍋（ぼたん鍋）」＆箕面温泉名宿5選"} url={"https://croud-travel.pages.dev/winter-osaka-minoo-katsuo-ji-daruma-botannabe-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-osaka-minoo-katsuo-ji-daruma-botannabe-stay" />
 </div>
     </>

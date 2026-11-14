@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -113,6 +114,9 @@ export default function SeasonalFeaturePage() {
             時が止まったかのように凍りつく巨大な滝「氷瀑（ひょうばく）」。スノーシューを履いて白銀の森を踏みしめ、大自然の神秘に出逢う感動のアクティビティ。探検の後は源泉かけ流しの温泉で体を温める極上の冬旅へ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【冬の自然探検】白銀の氷瀑＆スノーシュートレッキング宿 完全ガイド"} url={"https://croud-travel.pages.dev/winter-snowshoe-frozen-waterfall/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function SeasonalFeaturePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【冬の自然探検】白銀の氷瀑＆スノーシュートレッキング宿 完全ガイド"} url={"https://croud-travel.pages.dev/winter-snowshoe-frozen-waterfall/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-snowshoe-frozen-waterfall" />
 </div>
   );

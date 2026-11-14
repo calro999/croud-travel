@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
     title: '11・12・1月千葉：房総伊勢海老！名宿5選',
     description: '11月から1月、南房総・外房鴨川は温暖な黒潮の影響を受け、真冬でも穏やかな気候の中で冬の海絶景を満喫できる関東随一の避寒地です。',
     url: 'https://croud-travel.pages.dev/winter-chiba-kamogawa-seaworld-kominato-kinmedai-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     images: [
       {
         url: 'https://img.travel.rakuten.co.jp/share/HOTEL/51733/51733.jpg',
@@ -49,12 +50,12 @@ export default function ChibaKamogawaKominatoWinterPage() {
     dateModified: '',
     author: {
       '@type': 'Organization',
-      name: 'クラドトラベル編集部',
+      name: '旅宿クラウド編集部',
       url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png'
@@ -293,6 +294,9 @@ export default function ChibaKamogawaKominatoWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月千葉】冬の鴨川シーワールドシャチパフォーマンスと小湊鯛の浦温泉・外房寒金目鯛煮付け＆房総伊勢海老を堪能する絶景名宿5選"} url={"https://croud-travel.pages.dev/winter-chiba-kamogawa-seaworld-kominato-kinmedai-stay/"} />
+      </div>
 
       {/* Main Content Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 pt-12 space-y-16">
@@ -501,7 +505,7 @@ export default function ChibaKamogawaKominatoWinterPage() {
                       <a 
                         href={h.url} 
                         target="_blank" 
-                        rel="noopener noreferrer" 
+                        rel="sponsored noopener noreferrer" 
                         className="w-full sm:w-auto inline-flex items-center justify-center gap-2 bg-gradient-to-r from-blue-800 to-slate-900 hover:from-blue-900 hover:to-slate-950 text-white font-bold px-6 py-3.5 rounded-xl shadow-md transition-all text-sm group"
                       >
                         <span>楽天トラベルで空室・プランを見る</span>
@@ -670,6 +674,9 @@ export default function ChibaKamogawaKominatoWinterPage() {
               </span>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月千葉】冬の鴨川シーワールドシャチパフォーマンスと小湊鯛の浦温泉・外房寒金目鯛煮付け＆房総伊勢海老を堪能する絶景名宿5選"} url={"https://croud-travel.pages.dev/winter-chiba-kamogawa-seaworld-kominato-kinmedai-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-chiba-kamogawa-seaworld-kominato-kinmedai-stay" />
 </div>
         </section>

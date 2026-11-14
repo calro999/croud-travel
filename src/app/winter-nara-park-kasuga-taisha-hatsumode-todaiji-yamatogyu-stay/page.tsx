@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -267,6 +268,9 @@ export default function NaraParkKasugaWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月奈良】春日大社新春開運初詣＆東大寺大仏殿冬景色！大和牛すき焼きと古都の静謐に寛ぐ厳選宿5選"} url={"https://croud-travel.pages.dev/winter-nara-park-kasuga-taisha-hatsumode-todaiji-yamatogyu-stay/"} />
+      </div>
 
       {/* Navigation Breadcrumbs */}
       <nav aria-label="パンくずリスト" className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-4 text-xs text-slate-500">
@@ -360,7 +364,7 @@ export default function NaraParkKasugaWinterPage() {
                     </div>
 
                     <div>
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-emerald-600 transition"><a href={hotel.url} target="_blank" rel="noopener noreferrer nofollow" className="flex items-center gap-2 group">
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-emerald-600 transition"><a href={hotel.url} target="_blank" rel="sponsored noopener noreferrer" className="flex items-center gap-2 group">
                           <span>{hotel.name}</span>
                           <ExternalLink className="w-4 h-4 opacity-50 group-hover:opacity-100 shrink-0" />
                         </a></h3>
@@ -403,7 +407,7 @@ export default function NaraParkKasugaWinterPage() {
                     <a
                       href={hotel.url}
                       target="_blank"
-                      rel="noopener noreferrer nofollow"
+                      rel="sponsored noopener noreferrer"
                       className="w-full inline-flex items-center justify-center gap-2 px-6 py-3.5 rounded-xl bg-gradient-to-r from-emerald-600 via-teal-700 to-indigo-700 hover:from-emerald-700 hover:to-indigo-800 text-white font-bold text-sm shadow-sm hover:shadow transition"
                     >
                       <span>楽天トラベルで空室・宿泊プランを確認する</span>
@@ -608,6 +612,9 @@ export default function NaraParkKasugaWinterPage() {
               <span className="text-[11px] text-emerald-700 font-medium mt-2 flex items-center gap-1">全特集一覧へ戻る →</span>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月奈良】春日大社新春開運初詣＆東大寺大仏殿冬景色！大和牛すき焼きと古都の静謐に寛ぐ厳選宿5選"} url={"https://croud-travel.pages.dev/winter-nara-park-kasuga-taisha-hatsumode-todaiji-yamatogyu-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-nara-park-kasuga-taisha-hatsumode-todaiji-yamatogyu-stay" />
 </div>
         </section>

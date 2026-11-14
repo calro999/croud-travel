@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import FurusatoStepSection from "@/app/components/FurusatoStepSection";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
@@ -96,6 +97,9 @@ export default function FurusatoOnsenSteamHealingStayPage() {
             </Link>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"湯煙たなびく温泉街・名物地獄蒸し＆天然砂むし極上湯治宿×ふるさと納税厳選ガイド別府鉄輪・指宿・雲仙"} url={"https://croud-travel.pages.dev/furusato-tax-onsen-steam-natural-hotspring-healing-stay/"} />
+      </div>
 
         {/* 3つの醍醐味セクション */}
         <section className="mb-16">
@@ -517,6 +521,9 @@ export default function FurusatoOnsenSteamHealingStayPage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"湯煙たなびく温泉街・名物地獄蒸し＆天然砂むし極上湯治宿×ふるさと納税厳選ガイド別府鉄輪・指宿・雲仙"} url={"https://croud-travel.pages.dev/furusato-tax-onsen-steam-natural-hotspring-healing-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-onsen-steam-natural-hotspring-healing-stay" />
 </div>
         </section>

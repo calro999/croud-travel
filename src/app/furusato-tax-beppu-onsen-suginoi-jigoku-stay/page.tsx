@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -14,7 +15,7 @@ export const metadata: Metadata = {
     title: '別府温泉をふるさと納税でお得に旅する！湧出量日本一・別府地獄めぐり＆メガリゾート！名宿特集｜杉乃井ホテル・潮騒の宿晴海・山荘神和苑',
     description: '日本一の湧出量を誇る温泉パラダイス・大分県別府温泉郷を楽天ふるさと納税でお得に贅沢ステイ！五段の棚田露天風呂「棚湯」が話題のメガリゾート「杉乃井ホテル」、全室客室露天風呂付きオーシャンリゾート「潮騒の宿 晴海」、鉄輪の高台に佇む能舞台の格式名門「山荘 神和苑」を徹底比較。別府市トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-beppu-onsen-suginoi-jigoku-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -28,12 +29,12 @@ export default function FurusatoArticlePage() {
     description: '日本一の湧出量を誇る温泉パラダイス・大分県別府温泉郷を楽天ふるさと納税でお得に贅沢ステイ！五段の棚田露天風呂「棚湯」が話題のメガリゾート「杉乃井ホテル」、全室客室露天風呂付きオーシャンリゾート「潮騒の宿 晴海」、鉄輪の高台に佇む能舞台の格式名門「山荘 神和苑」を徹底比較。別府市トラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル 観光・ふるさと納税調査班',
+      name: '旅宿クラウド 観光・ふるさと納税調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -80,6 +81,9 @@ export default function FurusatoArticlePage() {
           日本一の湧出量を誇る温泉パラダイス・大分県別府温泉郷を楽天ふるさと納税でお得に贅沢ステイ！五段の棚田露天風呂「棚湯」が話題のメガリゾート「杉乃井ホテル」、全室客室露天風呂付きオーシャンリゾート「潮騒の宿 晴海」、鉄輪の高台に佇む能舞台の格式名門「山荘 神和苑」を徹底比較。別府市トラベルクーポン活用術を網羅。
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"別府温泉をふるさと納税でお得に旅する！湧出量日本一・別府地獄めぐり＆メガリゾート！名宿特集"} url={"https://croud-travel.pages.dev/furusato-tax-beppu-onsen-suginoi-jigoku-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
@@ -360,7 +364,7 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 別府温泉郷・地獄めぐり＆鉄輪湯けむり展望台ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">別府温泉郷・地獄めぐり＆鉄輪湯けむり展望台ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
@@ -586,6 +590,9 @@ export default function FurusatoArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"別府温泉をふるさと納税でお得に旅する！湧出量日本一・別府地獄めぐり＆メガリゾート！名宿特集"} url={"https://croud-travel.pages.dev/furusato-tax-beppu-onsen-suginoi-jigoku-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-beppu-onsen-suginoi-jigoku-stay" />
 </div>
         </section>

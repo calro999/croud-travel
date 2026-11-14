@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -274,6 +275,9 @@ export default function HakoneFreepassBreakEvenRoutePage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"箱根フリーパスは本当に元が取れる？：徹底検証！通常運賃との差額シミュレーション＆1泊2日黄金ルート"} url={"https://croud-travel.pages.dev/hakone-freepass-break-even-model-route/"} />
+      </div>
 
       {/* 楽天トラベル公式スペシャルバナー */}
       <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 mt-6">
@@ -615,6 +619,9 @@ export default function HakoneFreepassBreakEvenRoutePage() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"箱根フリーパスは本当に元が取れる？：徹底検証！通常運賃との差額シミュレーション＆1泊2日黄金ルート"} url={"https://croud-travel.pages.dev/hakone-freepass-break-even-model-route/"} />
+      </div>
       <HubRelatedPosts currentSlug="hakone-freepass-break-even-model-route" />
 </div>
   );

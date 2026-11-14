@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月北海道・小樽の青の運河イルミネーションと朝里川雪見露天】小樽前浜極上寿司＆道産牛会席を味わう冬の運河・温泉名宿5選',
     description: '11月から12月にかけて、小樽は初雪が舞い散る運河沿いに約1万個の青色LEDが輝く冬の風物詩「小樽ゆき物語・青の運河」が開幕し。',
     url: 'https://croud-travel.pages.dev/winter-hokkaido-otaru-canal-illumination-sushi-asarigawa-stay/',
-    siteName: 'クラドトラベル (Croud Travel)',
+    siteName: '旅宿クラウド (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -164,7 +165,7 @@ export default function WinterHokkaidoOtaruPage() {
         'isPartOf': {
           '@type': 'WebSite',
           '@id': 'https://croud-travel.pages.dev/#website',
-          'name': 'クラドトラベル',
+          'name': '旅宿クラウド',
           'url': 'https://croud-travel.pages.dev/'
         },
         'headline': "【11・12月北海道・小樽の青の運河イルミネーションと朝里川雪見露天】小樽前浜極上寿司＆道産牛会席を味わう冬の運河・温泉名宿5選",
@@ -175,7 +176,7 @@ export default function WinterHokkaidoOtaruPage() {
         'dateModified': '2026-10-25T00:00:00+09:00',
         'publisher': {
           '@type': 'Organization',
-          'name': 'クラドトラベル編集部',
+          'name': '旅宿クラウド編集部',
           'url': 'https://croud-travel.pages.dev/'
         }
       },
@@ -245,6 +246,9 @@ export default function WinterHokkaidoOtaruPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月北海道・小樽の青の運河イルミネーションと朝里川雪見露天】小樽前浜極上寿司＆道産牛会席を味わう冬の運河・温泉名宿5選"} url={"https://croud-travel.pages.dev/winter-hokkaido-otaru-canal-illumination-sushi-asarigawa-stay/"} />
+      </div>
 
       {/* Main Content Area */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
@@ -396,7 +400,7 @@ export default function WinterHokkaidoOtaruPage() {
                     <a
                       href={h.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center justify-center gap-2 w-full sm:w-auto px-6 py-3 rounded-xl bg-teal-800 hover:bg-teal-900 text-white text-sm font-bold shadow-sm hover:shadow transition duration-200"
                     >
                       <span>楽天トラベルでプラン・空室を確認</span>
@@ -600,6 +604,9 @@ export default function WinterHokkaidoOtaruPage() {
               </p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月北海道・小樽の青の運河イルミネーションと朝里川雪見露天】小樽前浜極上寿司＆道産牛会席を味わう冬の運河・温泉名宿5選"} url={"https://croud-travel.pages.dev/winter-hokkaido-otaru-canal-illumination-sushi-asarigawa-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-hokkaido-otaru-canal-illumination-sushi-asarigawa-stay" />
 </div>
         </section>

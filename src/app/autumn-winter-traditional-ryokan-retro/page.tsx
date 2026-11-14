@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -113,6 +114,9 @@ export default function SeasonalFeaturePage() {
             飴色に磨かれた木の廊下、精緻な組子細工の障子、職人の技が光る格天井。どこか懐かしく温かい大正ロマンの風情に包まれ、何代にもわたって受け継がれてきた名湯とおもてなしに浸る特別な旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"大正ロマンの宿：文化財建築美と木造意匠！老舗名門旅館 厳選ガイド"} url={"https://croud-travel.pages.dev/autumn-winter-traditional-ryokan-retro/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -463,6 +467,9 @@ export default function SeasonalFeaturePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"大正ロマンの宿：文化財建築美と木造意匠！老舗名門旅館 厳選ガイド"} url={"https://croud-travel.pages.dev/autumn-winter-traditional-ryokan-retro/"} />
+      </div>
       <HubRelatedPosts currentSlug="autumn-winter-traditional-ryokan-retro" />
 </div>
   );

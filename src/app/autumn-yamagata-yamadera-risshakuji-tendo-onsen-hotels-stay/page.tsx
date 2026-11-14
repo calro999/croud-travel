@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Image from 'next/image';
@@ -63,12 +64,14 @@ export default function YamaderaTendoAutumnPage() {
             山寺参拝後の宿泊拠点として最適なのが、車や電車ですぐの「天童温泉」。弱アルカリ性の肌に優しい硫酸塩泉は運動後の筋肉疲労を解きほぐすのにぴったり。山形牛のステーキや芋煮、新米つや姫など山形ならではの秋の美食が待っています。
           </p>
         </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"秋の山形：山寺（立石寺）の奇岩絶壁紅葉クライミングと天童温泉！美食と名湯を楽しむおすすめ旅館5選「2026最新」"} url={"https://croud-travel.pages.dev/autumn-yamagata-yamadera-risshakuji-tendo-onsen-hotels-stay/"} />
+      </div>
 
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-amber-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！天童温泉の厳選名旅館5選</h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">楽天トラベル高評価！天童温泉の厳選名旅館5選</h2>
 
           <div className="space-y-8">
 
@@ -498,6 +501,9 @@ export default function YamaderaTendoAutumnPage() {
               </div>
             </div>
           </div></section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"秋の山形：山寺（立石寺）の奇岩絶壁紅葉クライミングと天童温泉！美食と名湯を楽しむおすすめ旅館5選「2026最新」"} url={"https://croud-travel.pages.dev/autumn-yamagata-yamadera-risshakuji-tendo-onsen-hotels-stay/"} />
+      </div>
         <div className="max-w-4xl mx-auto px-4 sm:px-6">
           <HubRelatedPosts currentSlug="autumn-yamagata-yamadera-risshakuji-tendo-onsen-hotels-stay" />
         </div>

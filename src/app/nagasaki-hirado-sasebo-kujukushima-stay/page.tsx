@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             南蛮貿易と潜伏キリシタンの歴史が息づく城下町「平戸」と、208の島々が浮かぶ絶景「九十九島・佐世保」。生月島の断崖絶壁を走るサンセットウェイ。平戸港水揚げの極上「天然ヒラメ」と佐世保のレモンステーキを味わう西端の旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"長崎・平戸＆佐世保・九十九島：世界遺産キリシタン史跡・平戸城＆九十九島遊覧・ヒラメ宿 厳選ガイド"} url={"https://croud-travel.pages.dev/nagasaki-hirado-sasebo-kujukushima-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"長崎・平戸＆佐世保・九十九島：世界遺産キリシタン史跡・平戸城＆九十九島遊覧・ヒラメ宿 厳選ガイド"} url={"https://croud-travel.pages.dev/nagasaki-hirado-sasebo-kujukushima-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="nagasaki-hirado-sasebo-kujukushima-stay" />
 </div>
   );

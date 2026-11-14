@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function StargazingHubPage() {
             標高1,500mを超える高山温泉郷。明かりが届かない大自然の露天風呂で、湯船に仰向けに寝そべる「寝湯（ねゆ）」。頭上には手を伸ばせば届きそうな満天の星空と、湯面きらめく逆さ星屑。温かな湯に包まれながら宇宙と一体になる究極のリラクゼーションへ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"満天の星空露天風呂＆寝湯インフィニティ宿：天然プラネタリウム温泉 厳選ガイド"} url={"https://croud-travel.pages.dev/infinity-open-air-bath-starry-sky-sleeping-onsen-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆厳選宿 */}
@@ -454,6 +458,9 @@ export default function StargazingHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"満天の星空露天風呂＆寝湯インフィニティ宿：天然プラネタリウム温泉 厳選ガイド"} url={"https://croud-travel.pages.dev/infinity-open-air-bath-starry-sky-sleeping-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="infinity-open-air-bath-starry-sky-sleeping-onsen-stay" />
 </div>
   );

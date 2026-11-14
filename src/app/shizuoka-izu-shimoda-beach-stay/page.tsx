@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             本州屈指の透明度を誇るエメラルドグリーンの海「伊豆下田」。白砂が輝く白浜海岸と、黒船来航の歴史が薫るペリーロード。日本一の水揚げ量を誇る極上の「金目鯛の姿煮」と、海に沈む夕日を眺めるリゾートステイ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"静岡・伊豆下田＆白浜海岸：エメラルドの海・白浜大浜＆金目鯛水揚げ日本一宿 厳選ガイド"} url={"https://croud-travel.pages.dev/shizuoka-izu-shimoda-beach-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -392,6 +396,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"静岡・伊豆下田＆白浜海岸：エメラルドの海・白浜大浜＆金目鯛水揚げ日本一宿 厳選ガイド"} url={"https://croud-travel.pages.dev/shizuoka-izu-shimoda-beach-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="shizuoka-izu-shimoda-beach-stay" />
 </div>
   );

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function StargazingHubPage() {
             部屋の照明を落とした瞬間、天井や壁一面に広がる数万個の恒星。「客室プラネタリウム＆ホームシアター完備ホテル」。ベッドに寝転んだまま、二人きりで満天の星空やヒーリング音楽に包まれる至福。天候に左右されず、いつでも満天の星空デートが叶う非日常の隠れ家へ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"プラネタリウム＆大画面シアタールーム完備宿：部屋ごもり・星空上映 厳選ガイド"} url={"https://croud-travel.pages.dev/planetarium-private-cinema-theater-room-hotel-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆厳選宿 */}
@@ -231,6 +235,9 @@ export default function StargazingHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"プラネタリウム＆大画面シアタールーム完備宿：部屋ごもり・星空上映 厳選ガイド"} url={"https://croud-travel.pages.dev/planetarium-private-cinema-theater-room-hotel-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="planetarium-private-cinema-theater-room-hotel-stay" />
 </div>
   );

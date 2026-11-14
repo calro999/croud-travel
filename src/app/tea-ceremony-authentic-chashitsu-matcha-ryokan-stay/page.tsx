@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
@@ -36,7 +37,7 @@ export default function Page() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "茶道・本格茶室＆抹茶体験宿完全ガイド【京都・金沢・宇治数寄屋ステイ】 | クラウドトラベル",
+    "headline": "茶道・本格茶室＆抹茶体験宿完全ガイド【京都・金沢・宇治数寄屋ステイ】 | 旅宿クラウド",
     "description": "数寄屋造りの名門旅館に備えられた本格茶室、裏千家・表千家の点前体験、加賀百万石の茶の湯文化、宇治の茶畑を望むティーリゾートを特集。一期一会の精神と極上和菓子を味わう大人の旅。",
     "url": "https://croud-travel.pages.dev/tea-ceremony-authentic-chashitsu-matcha-ryokan-stay/",
     "publisher": {
@@ -50,7 +51,7 @@ export default function Page() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "茶道・本格茶室＆抹茶体験宿完全ガイド【京都・金沢・宇治数寄屋ステイ】 | クラウドトラベル", "item": "https://croud-travel.pages.dev/tea-ceremony-authentic-chashitsu-matcha-ryokan-stay/" }
+      { "@type": "ListItem", "position": 2, "name": "茶道・本格茶室＆抹茶体験宿完全ガイド【京都・金沢・宇治数寄屋ステイ】 | 旅宿クラウド", "item": "https://croud-travel.pages.dev/tea-ceremony-authentic-chashitsu-matcha-ryokan-stay/" }
     ]
   };
 
@@ -81,6 +82,9 @@ export default function Page() {
             千利休が大成した「侘び茶」の精神。頭を下げて躙口（にじりぐち）をくぐれば、そこは世俗の身分や日常の喧騒を忘れ、亭主と客人が心を通わせるわずか四畳半の小宇宙。季節の花と掛け軸、釜の湯が沸く松風の音、抹茶の鮮やかな緑と芳醇な香り。日本の伝統建築美と茶の湯のおもてなしが息づく、選りすぐりの数寄屋旅館とティーリゾートへご案内します。
           </p>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"茶道・本格茶室＆抹茶体験宿厳選ガイド「京都・金沢・宇治数寄屋ステイ」"} url={"https://croud-travel.pages.dev/tea-ceremony-authentic-chashitsu-matcha-ryokan-stay/"} />
+      </div>
 
         {/* メインコンテンツセクション */}
         
@@ -308,8 +312,7 @@ export default function Page() {
 
         {/* よくある質問 FAQ */}
         <section className="mb-16 bg-white rounded-2xl shadow-sm border border-stone-200/80 p-6 md:p-8">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2"><span className="w-2 h-7 bg-amber-700 rounded-full inline-block"></span>
-            よくある質問・伝統文化体験＆宿坊の楽しみ方</h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">よくある質問・伝統文化体験＆宿坊の楽しみ方</h2>
           <div className="space-y-4">
             
             <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
@@ -500,6 +503,9 @@ export default function Page() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"茶道・本格茶室＆抹茶体験宿厳選ガイド「京都・金沢・宇治数寄屋ステイ」"} url={"https://croud-travel.pages.dev/tea-ceremony-authentic-chashitsu-matcha-ryokan-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="tea-ceremony-authentic-chashitsu-matcha-ryokan-stay" />
 </div>
         </section>

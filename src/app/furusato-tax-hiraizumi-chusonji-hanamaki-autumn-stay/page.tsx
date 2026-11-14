@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
@@ -5,9 +6,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '世界遺産・平泉中尊寺の月見坂紅葉＆花巻温泉郷の名湯！佳松園・藤三旅館・廣美亭×ふるさと納税厳選ガイド岩手',
   description: '10月下旬〜11月上旬に見頃を迎える世界遺産・平泉「中尊寺」「毛越寺」の紅葉！月見坂を覆うもみじのトンネルと金色堂、宮沢賢治ゆかりの花巻温泉郷「佳松園」「鉛温泉 藤三旅館」「廣美亭」で白猿の湯や前沢牛会席を堪能。楽天ふるさと納税トラベルクーポンで実質2,000円で泊まる岩手秋旅ガイド。',
-  keywords: ["世界遺産", "平泉中尊寺の月見坂紅葉", "花巻温泉郷の名湯！佳松園", "藤三旅館", "廣美亭×ふるさと納税", "2026年最新秋旅", "岩手"],
+  keywords: ["世界遺産", "平泉中尊寺の月見坂紅葉", "花巻温泉郷の名湯！佳松園", "藤三旅館", "廣美亭×ふるさと納税", "2026年末・冬休み対応", "岩手"],
   alternates: {
-    canonical: "https://croud-travel.pages.dev/furusato-tax-hiraizumi-chusonji-hanamaki-autumn-stay/"
+    canonical: "https://croud-travel.pages.dev/furusato-tax-iwate-hanamaki-tsunagi-autumn-stay/"
   },
   openGraph: {
     title: '世界遺産・平泉中尊寺の月見坂紅葉＆花巻温泉郷の名湯！佳松園・藤三旅館・廣美亭×ふるさと納税厳選ガイド岩手',
@@ -24,7 +25,7 @@ export default function FeatureArticlePage() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "世界遺産・平泉中尊寺の月見坂紅葉＆花巻温泉郷の名湯！佳松園・藤三旅館・廣美亭×ふるさと納税完全ガイド【2026年最新秋旅】岩手",
+    "headline": "世界遺産・平泉中尊寺の月見坂紅葉＆花巻温泉郷の名湯！佳松園・藤三旅館・廣美亭×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】岩手",
     "description": "10月下旬〜11月上旬に見頃を迎える世界遺産・平泉「中尊寺」「毛越寺」の紅葉！月見坂を覆うもみじのトンネルと金色堂、宮沢賢治ゆかりの花巻温泉郷「佳松園」「鉛温泉 藤三旅館」「廣美亭」で白猿の湯や前沢牛会席を堪能。楽天ふるさと納税トラベルクーポンで実質2,000円で泊まる岩手秋旅ガイド。",
     "url": "https://croud-travel.pages.dev/furusato-tax-hiraizumi-chusonji-hanamaki-autumn-stay/",
     "publisher": {
@@ -38,7 +39,7 @@ export default function FeatureArticlePage() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "世界遺産・平泉中尊寺の月見坂紅葉＆花巻温泉郷の名湯！佳松園・藤三旅館・廣美亭×ふるさと納税完全ガイド【2026年最新秋旅】岩手", "item": "https://croud-travel.pages.dev/furusato-tax-hiraizumi-chusonji-hanamaki-autumn-stay/" }
+      { "@type": "ListItem", "position": 2, "name": "世界遺産・平泉中尊寺の月見坂紅葉＆花巻温泉郷の名湯！佳松園・藤三旅館・廣美亭×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】岩手", "item": "https://croud-travel.pages.dev/furusato-tax-hiraizumi-chusonji-hanamaki-autumn-stay/" }
     ]
   };
 
@@ -84,6 +85,9 @@ export default function FeatureArticlePage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"世界遺産・平泉中尊寺の月見坂紅葉＆花巻温泉郷の名湯！佳松園・藤三旅館・廣美亭×ふるさと納税厳選ガイド岩手"} url={"https://croud-travel.pages.dev/furusato-tax-hiraizumi-chusonji-hanamaki-autumn-stay/"} />
+      </div>
 
       {/* イントロダクション */}
       <section className="max-w-5xl mx-auto px-4 sm:px-6 mb-12">
@@ -507,6 +511,9 @@ export default function FeatureArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"世界遺産・平泉中尊寺の月見坂紅葉＆花巻温泉郷の名湯！佳松園・藤三旅館・廣美亭×ふるさと納税厳選ガイド岩手"} url={"https://croud-travel.pages.dev/furusato-tax-hiraizumi-chusonji-hanamaki-autumn-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-hiraizumi-chusonji-hanamaki-autumn-stay" />
 </div>
         </section>

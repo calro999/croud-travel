@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -7,7 +8,7 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '黒部峡谷トロッコ電車の大パノラマ紅葉＆日本屈指の透明度「宇奈月温泉」・富山湾の紅ズワイガニ｜ふるさと納税で泊まれる名宿ガイド',
   description: '10月下旬〜11月中旬にV字峡谷が深紅と黄金に染まる黒部峡谷トロッコ電車。黒部川の清流を望む宇奈月温泉で、美肌の透明名湯と富山湾直送の紅ズワイガニ・白えび・富山牛をふるさと納税でお得に満喫する完全ガイド。',
-  keywords: ["日本屈指の透明度「宇奈月温泉」", "富山湾の紅ズワイガニ", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
+  keywords: ["日本屈指の透明度「宇奈月温泉」", "富山湾の紅ズワイガニ", "旅宿クラウドふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-unazuki-kurobe-gorge-autumn-stay/",
   },
@@ -15,7 +16,7 @@ export const metadata: Metadata = {
     title: '黒部峡谷トロッコ電車の大パノラマ紅葉＆日本屈指の透明度「宇奈月温泉」・富山湾の紅ズワイガニ｜ふるさと納税で泊まれる名宿ガイド',
     description: '10月下旬〜11月中旬にV字峡谷が深紅と黄金に染まる黒部峡谷トロッコ電車。黒部川の清流を望む宇奈月温泉で、美肌の透明名湯と富山湾直送の紅ズワイガニ・白えび・富山牛をふるさと納税でお得に満喫する完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-unazuki-kurobe-gorge-autumn-stay/',
-    siteName: 'クラウドトラベル (croud-travel.pages.dev)',
+    siteName: '旅宿クラウド (croud-travel.pages.dev)',
     type: 'article',
     locale: 'ja_JP',
   },
@@ -29,11 +30,11 @@ export default function Page() {
     "description": "10月下旬〜11月中旬にV字峡谷が深紅と黄金に染まる黒部峡谷トロッコ電車。黒部川の清流を望む宇奈月温泉で、美肌の透明名湯と富山湾直送の紅ズワイガニ・白えび・富山牛をふるさと納税でお得に満喫する完全ガイド。",
     "author": {
       "@type": "Organization",
-      "name": "クラウドトラベル編集部"
+      "name": "旅宿クラウド編集部"
     },
     "publisher": {
       "@type": "Organization",
-      "name": "クラウドトラベル",
+      "name": "旅宿クラウド",
       "logo": {
         "@type": "ImageObject",
         "url": "https://croud-travel.pages.dev/logo.png"
@@ -112,12 +113,15 @@ export default function Page() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"黒部峡谷トロッコ電車の大パノラマ紅葉＆日本屈指の透明度「宇奈月温泉」・富山湾の紅ズワイガニ"} url={"https://croud-travel.pages.dev/furusato-tax-unazuki-kurobe-gorge-autumn-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"黒部峡谷トロッコ電車の大パノラマ紅葉＆日本屈指の透明度「宇奈月温泉」・富山湾の紅ズワイガニ｜ふるさと納税で泊まれる名宿ガイド | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-unazuki-kurobe-gorge-autumn-stay/"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"黒部峡谷トロッコ電車の大パノラマ紅葉＆日本屈指の透明度「宇奈月温泉」・富山湾の紅ズワイガニ｜ふるさと納税で泊まれる名宿ガイド | 旅宿クラウドふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-unazuki-kurobe-gorge-autumn-stay/"}]}) }}
       />
         {/* Intro Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 mb-12">
@@ -195,7 +199,7 @@ export default function Page() {
 
           <div className="bg-stone-50 rounded-xl p-5 border border-stone-200 mb-6 space-y-4">
             <div>
-              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5"><span>️</span> 料理のこだわり・秋の旬会席</h5>
+              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">料理のこだわり・秋の旬会席</h5>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 富山湾直送「活紅ズワイガニ会席」、白えびのお造り・かき揚げ、富山牛のステーキ、黒部名水ポーク鍋、富山湾の旬魚姿造り
               </p>
@@ -260,7 +264,7 @@ export default function Page() {
 
           <div className="bg-stone-50 rounded-xl p-5 border border-stone-200 mb-6 space-y-4">
             <div>
-              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5"><span>️</span> 料理のこだわり・秋の旬会席</h5>
+              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">料理のこだわり・秋の旬会席</h5>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 料理長厳選・極上紅ズワイガニ姿茹で、白えび・寒ブリ・ノドグロの贅沢お造り、富山牛の陶板焼き、名水仕込みのコシヒカリ
               </p>
@@ -325,7 +329,7 @@ export default function Page() {
 
           <div className="bg-stone-50 rounded-xl p-5 border border-stone-200 mb-6 space-y-4">
             <div>
-              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5"><span>️</span> 料理のこだわり・秋の旬会席</h5>
+              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">料理のこだわり・秋の旬会席</h5>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 延対寺伝統の越中会席。富山湾紅ズワイガニ、名物「白えび御膳」、厳選とやま和牛、富山湾深層水仕込みの旬魚
               </p>
@@ -376,7 +380,7 @@ export default function Page() {
           <div className="bg-amber-950/60 p-4 rounded-xl border border-amber-500/30 text-xs sm:text-sm text-amber-100 flex items-start gap-2">
             <span>ℹ️</span>
             <span>
-              <strong>ポイント還元の二重取り：</strong>楽天カード決済や「お買い物マラソン」「0と5のつく日」を併用すると、寄付額に対して高還元率で楽天ポイントも獲得でき、さらにお得になります。
+              <strong>年末駆け込み＆先々の旅行予約に対応：</strong>2026年分の寄附控除枠は12月31日まで。返礼品の宿泊クーポンは有効期限が最長3年間と長く、予約済みの宿泊に「あとから割引適用」することも可能です。
             </span>
           </div>
         </section>
@@ -506,6 +510,9 @@ export default function Page() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"黒部峡谷トロッコ電車の大パノラマ紅葉＆日本屈指の透明度「宇奈月温泉」・富山湾の紅ズワイガニ"} url={"https://croud-travel.pages.dev/furusato-tax-unazuki-kurobe-gorge-autumn-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-unazuki-kurobe-gorge-autumn-stay" />
 </div>
   );

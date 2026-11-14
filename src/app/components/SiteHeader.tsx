@@ -23,7 +23,7 @@ export default function SiteHeader() {
         </div>
 
         {/* PC表示メニューバー（右上横並び） */}
-        <nav className="hidden md:flex items-center gap-4 lg:gap-5 text-xs font-bold text-teal-900/80">
+        <nav className="hidden md:flex items-center gap-3 lg:gap-4 text-xs font-bold text-teal-900/80 whitespace-nowrap">
           <Link href="/" className="hover:text-amber-700 transition">ホーム</Link>
           <span className="text-emerald-950/20">/</span>
           <Link href="/ranking/" className="text-amber-700 hover:text-amber-600 transition font-black">
@@ -32,6 +32,18 @@ export default function SiteHeader() {
           <span className="text-emerald-950/20">/</span>
           <Link href="/features/" className="text-teal-800 hover:text-teal-600 transition font-black">
             特集・まとめ
+          </Link>
+          <span className="text-emerald-950/20">/</span>
+          <Link href="/posts/winter-newyear-countdown-anaba-onsen-hotels-guide/" className="text-rose-700 hover:text-rose-600 transition font-black">
+            年末年始・冬旅
+          </Link>
+          <span className="text-emerald-950/20">/</span>
+          <Link href="/posts/furusato-tax-yearend-rush-rakuten-travel-coupon-guide/" className="text-amber-800 hover:text-amber-600 transition font-black">
+            ふるさと納税
+          </Link>
+          <span className="text-emerald-950/20">/</span>
+          <Link href="/posts/national-arena-dome-oshikatsu-live-hotels-guide/" className="text-pink-700 hover:text-pink-600 transition font-black">
+            推し活遠征
           </Link>
           <span className="text-emerald-950/20">/</span>
           <Link href="/prefectures/" className="hover:text-amber-700 transition">
@@ -108,11 +120,25 @@ export default function SiteHeader() {
               <span>47都道府県</span>
             </Link>
             <Link
-              href="/winter-travel-special/"
+              href="/posts/winter-newyear-countdown-anaba-onsen-hotels-guide/"
               onClick={() => setMenuOpen(false)}
-              className="p-2.5 rounded-xl bg-sky-50 text-sky-900 hover:bg-sky-100 flex items-center gap-2"
+              className="p-2.5 rounded-xl bg-rose-50 text-rose-900 hover:bg-rose-100 flex items-center gap-2 font-black"
             >
-              <span>冬温泉＆カニ特集</span>
+              <span>年末年始・年越し穴場宿</span>
+            </Link>
+            <Link
+              href="/posts/winter-yukimi-rotenburo-train-access-onsen-hotels-guide/"
+              onClick={() => setMenuOpen(false)}
+              className="p-2.5 rounded-xl bg-sky-50 text-sky-900 hover:bg-sky-100 flex items-center gap-2 font-black"
+            >
+              <span>電車で行く雪見露天</span>
+            </Link>
+            <Link
+              href="/posts/national-arena-dome-oshikatsu-live-hotels-guide/"
+              onClick={() => setMenuOpen(false)}
+              className="p-2.5 rounded-xl bg-pink-50 text-pink-900 hover:bg-pink-100 flex items-center gap-2 font-black"
+            >
+              <span>全国15会場 推し活遠征</span>
             </Link>
             <Link
               href="/campaigns/"
@@ -122,11 +148,18 @@ export default function SiteHeader() {
               <span>お得キャンペーン</span>
             </Link>
             <Link
+              href="/posts/furusato-tax-yearend-rush-rakuten-travel-coupon-guide/"
+              onClick={() => setMenuOpen(false)}
+              className="p-2.5 rounded-xl bg-amber-50 text-amber-950 hover:bg-amber-100 flex items-center gap-2 font-black"
+            >
+              <span>ふるさと納税12/31駆け込み</span>
+            </Link>
+            <Link
               href="/furusato/"
               onClick={() => setMenuOpen(false)}
               className="p-2.5 rounded-xl bg-rose-50 text-rose-900 hover:bg-rose-100 flex items-center gap-2"
             >
-              <span>ふるさと納税</span>
+              <span>ふるさと納税一覧</span>
             </Link>
             <div className="p-2.5 rounded-xl bg-teal-50 flex items-center">
               <BookmarksModal />

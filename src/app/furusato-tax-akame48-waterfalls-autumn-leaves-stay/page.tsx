@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
@@ -5,7 +6,7 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '赤目四十八滝の渓谷もみじハイキング＆竹あかりライトアップ！赤目温泉名宿×ふるさと納税厳選ガイド三重',
   description: '11月上旬〜11月下旬に見頃を迎える「赤目四十八滝（あかめしじゅうはちたき）」。名瀑「赤目五瀑」を彩るモミジと苔むした岩肌の渓谷美、幻想的な「竹あかり」ナイトウォーク、忍者の隠れ宿「対泉閣」「山水園」「滝本屋」で伊賀牛すき焼きや旬の松茸・山里会席を堪能。楽天ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。',
-  keywords: ["2026年最新秋旅", "三重", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
+  keywords: ["2026年末・冬休み対応", "三重", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-akame48-waterfalls-autumn-leaves-stay/"
   },
@@ -24,7 +25,7 @@ export default function FeatureArticlePage() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "赤目四十八滝の渓谷もみじハイキング＆竹あかりライトアップ！赤目温泉名宿×ふるさと納税完全ガイド【2026年最新秋旅】三重",
+    "headline": "赤目四十八滝の渓谷もみじハイキング＆竹あかりライトアップ！赤目温泉名宿×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】三重",
     "description": "11月上旬〜11月下旬に見頃を迎える「赤目四十八滝（あかめしじゅうはちたき）」。名瀑「赤目五瀑」を彩るモミジと苔むした岩肌の渓谷美、幻想的な「竹あかり」ナイトウォーク、忍者の隠れ宿「対泉閣」「山水園」「滝本屋」で伊賀牛すき焼きや旬の松茸・山里会席を堪能。楽天ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。",
     "url": "https://croud-travel.pages.dev/furusato-tax-akame48-waterfalls-autumn-leaves-stay/",
     "publisher": {
@@ -38,7 +39,7 @@ export default function FeatureArticlePage() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "赤目四十八滝の渓谷もみじハイキング＆竹あかりライトアップ！赤目温泉名宿×ふるさと納税完全ガイド【2026年最新秋旅】三重", "item": "https://croud-travel.pages.dev/furusato-tax-akame48-waterfalls-autumn-leaves-stay/" }
+      { "@type": "ListItem", "position": 2, "name": "赤目四十八滝の渓谷もみじハイキング＆竹あかりライトアップ！赤目温泉名宿×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】三重", "item": "https://croud-travel.pages.dev/furusato-tax-akame48-waterfalls-autumn-leaves-stay/" }
     ]
   };
 
@@ -84,6 +85,9 @@ export default function FeatureArticlePage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"赤目四十八滝の渓谷もみじハイキング＆竹あかりライトアップ！赤目温泉名宿×ふるさと納税厳選ガイド三重"} url={"https://croud-travel.pages.dev/furusato-tax-akame48-waterfalls-autumn-leaves-stay/"} />
+      </div>
 
       {/* イントロダクション */}
       <section className="max-w-5xl mx-auto px-4 sm:px-6 mb-12">
@@ -507,6 +511,9 @@ export default function FeatureArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"赤目四十八滝の渓谷もみじハイキング＆竹あかりライトアップ！赤目温泉名宿×ふるさと納税厳選ガイド三重"} url={"https://croud-travel.pages.dev/furusato-tax-akame48-waterfalls-autumn-leaves-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-akame48-waterfalls-autumn-leaves-stay" />
 </div>
         </section>

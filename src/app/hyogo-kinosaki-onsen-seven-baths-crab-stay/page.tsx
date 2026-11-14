@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             開湯1300年、志賀直哉の『城の崎にて』でも名高い名湯「城崎温泉」。大谿川（おおたにがわ）にかかる太鼓橋と柳並木、色浴衣と下駄を鳴らして巡る個性豊かな「七つの外湯」。そして冬の日本海がもたらす最高峰の味覚・津居山港直送の「本松葉ガニ」。情緒と美食が極まる関西屈指の名湯ステイへご案内します。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"兵庫・城崎温泉＆円山川：七つの外湯めぐり・浴衣柳並木＆松葉ガニ宿 厳選ガイド"} url={"https://croud-travel.pages.dev/hyogo-kinosaki-onsen-seven-baths-crab-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -460,6 +464,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"兵庫・城崎温泉＆円山川：七つの外湯めぐり・浴衣柳並木＆松葉ガニ宿 厳選ガイド"} url={"https://croud-travel.pages.dev/hyogo-kinosaki-onsen-seven-baths-crab-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="hyogo-kinosaki-onsen-seven-baths-crab-stay" />
 </div>
   );

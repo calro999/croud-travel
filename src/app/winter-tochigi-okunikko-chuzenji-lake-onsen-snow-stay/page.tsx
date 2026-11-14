@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -236,6 +237,9 @@ export default function OkunikkoChuzenjiWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月奥日光中禅寺温泉の初冬中禅寺湖と男体山雪絶景】乳白色硫黄泉露天風呂・極上とちぎ和牛＆日光湯波会席の宿5選"} url={"https://croud-travel.pages.dev/winter-tochigi-okunikko-chuzenji-lake-onsen-snow-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 space-y-16">
@@ -392,7 +396,7 @@ export default function OkunikkoChuzenjiWinterPage() {
                       <a
                         href={h.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-6 py-3 rounded-xl bg-teal-700 hover:bg-teal-800 text-white font-bold text-sm shadow-sm transition-colors duration-200"
                       >
                         <span>空室・料金プランを確認</span>
@@ -580,6 +584,9 @@ export default function OkunikkoChuzenjiWinterPage() {
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">全国の厳選温泉・旬旅特集まとめを見る</h3>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月奥日光中禅寺温泉の初冬中禅寺湖と男体山雪絶景】乳白色硫黄泉露天風呂・極上とちぎ和牛＆日光湯波会席の宿5選"} url={"https://croud-travel.pages.dev/winter-tochigi-okunikko-chuzenji-lake-onsen-snow-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-tochigi-okunikko-chuzenji-lake-onsen-snow-stay" />
 </div>
         </section>

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -12,7 +13,7 @@ export const metadata: Metadata = {
     title: '長野駅前出張・天然温泉サウナ：北陸新幹線・善光寺門前町・天然温泉善光の湯！信州の山並みを仰ぐ厳選3宿',
     description: '北陸新幹線「かがやき」で東京から約1時間20分！長野駅善光寺口すぐで最上階天然温泉＆本格サウナ・信州そば朝食を誇る「ドーミーイン長野」、東口至近で手頃に天然温泉大浴場とサウナを楽しめる「ホテルリブマックスPREMIUM長野駅前」、白馬直送天然温泉の「アイランドホテル」を徹底比較。',
     url: 'https://croud-travel.pages.dev/nagano-station-solo-business-onsen-sauna-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -26,12 +27,12 @@ export default function ArticlePage() {
     description: '北陸新幹線「かがやき」で東京から約1時間20分！長野駅善光寺口すぐで最上階天然温泉＆本格サウナ・信州そば朝食を誇る「ドーミーイン長野」、東口至近で手頃に天然温泉大浴場とサウナを楽しめる「ホテルリブマックスPREMIUM長野駅前」、白馬直送天然温泉の「アイランドホテル」を徹底比較。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル ひとり旅・出張調査班',
+      name: '旅宿クラウド ひとり旅・出張調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -91,6 +92,9 @@ export default function ArticlePage() {
             </p>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"長野駅前出張・天然温泉サウナ：北陸新幹線・善光寺門前町・天然温泉善光の湯！信州の山並みを仰ぐ厳選3宿"} url={"https://croud-travel.pages.dev/nagano-station-solo-business-onsen-sauna-stay/"} />
+      </div>
 
         {/* 目次 */}
         <section className="bg-white p-5 rounded-2xl border border-stone-200 shadow-sm mb-10">
@@ -147,7 +151,7 @@ export default function ArticlePage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F153266%2F153266.html"
                 target="_blank"
-                rel="noopener noreferrer sponsored"
+                rel="sponsored noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-amber-700 hover:bg-amber-800 text-white text-xs sm:text-sm font-bold px-5 py-2.5 rounded-lg shadow-sm hover:shadow transition"
               >
                 <span>空室状況・最新料金を確認</span>
@@ -200,7 +204,7 @@ export default function ArticlePage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F181252%2F181252.html"
                 target="_blank"
-                rel="noopener noreferrer sponsored"
+                rel="sponsored noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-amber-700 hover:bg-amber-800 text-white text-xs sm:text-sm font-bold px-5 py-2.5 rounded-lg shadow-sm hover:shadow transition"
               >
                 <span>空室状況・最新料金を確認</span>
@@ -253,7 +257,7 @@ export default function ArticlePage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F11084%2F11084.html"
                 target="_blank"
-                rel="noopener noreferrer sponsored"
+                rel="sponsored noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-amber-700 hover:bg-amber-800 text-white text-xs sm:text-sm font-bold px-5 py-2.5 rounded-lg shadow-sm hover:shadow transition"
               >
                 <span>空室状況・最新料金を確認</span>
@@ -313,7 +317,7 @@ export default function ArticlePage() {
           <a
             href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F153266%2F153266.html"
             target="_blank"
-            rel="noopener noreferrer sponsored"
+            rel="sponsored noopener noreferrer"
             className="inline-block bg-amber-600 hover:bg-amber-500 text-white text-sm font-bold px-8 py-3.5 rounded-xl shadow-lg transition"
           >
             一番人気の宿をチェックする（楽天トラベル）
@@ -601,6 +605,9 @@ export default function ArticlePage() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"長野駅前出張・天然温泉サウナ：北陸新幹線・善光寺門前町・天然温泉善光の湯！信州の山並みを仰ぐ厳選3宿"} url={"https://croud-travel.pages.dev/nagano-station-solo-business-onsen-sauna-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="nagano-station-solo-business-onsen-sauna-stay" />
 </div>
   );

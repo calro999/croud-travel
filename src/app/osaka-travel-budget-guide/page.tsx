@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -75,6 +76,9 @@ export default function OsakaTravelBudgetPage() {
             USJに行くか行かないかで、大阪旅行の予算はガラッと変わります。今回は交通費・ホテル代・食い倒れグルメの具体的な金額を出して、2パターンのリアルな予算書を大公開します！
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"大阪旅行 費用：1泊2日・2泊3日の総額はいくら？USJ込みの予算＆道頓堀グルメ食費シミュレーション"} url={"https://croud-travel.pages.dev/osaka-travel-budget-guide/"} />
       </div>
 
       {/* Intro text */}
@@ -460,6 +464,9 @@ export default function OsakaTravelBudgetPage() {
         </Link>
       </section>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"大阪旅行 費用：1泊2日・2泊3日の総額はいくら？USJ込みの予算＆道頓堀グルメ食費シミュレーション"} url={"https://croud-travel.pages.dev/osaka-travel-budget-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="osaka-travel-budget-guide" />
 </div>
   );

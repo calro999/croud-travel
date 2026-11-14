@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function StargazingHubPage() {
             漆黒の夜空を貫く満天の天の川。ホテルの屋上や専用ドームに設置された本格的な大型天体望遠鏡。「星空案内人（星ソムリエ）」のわかりやすくロマンチックな星座解説を聞きながら、肉眼では見えない土星の輪や木星の縞模様、月面のクレーターを覗き込む感動の宇宙体験ステイへ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"天体望遠鏡ドーム＆星空案内人（星ソムリエ）常駐宿：本格天体観測 厳選ガイド"} url={"https://croud-travel.pages.dev/astronomical-observatory-stargazing-guide-resort-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆厳選宿 */}
@@ -454,6 +458,9 @@ export default function StargazingHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"天体望遠鏡ドーム＆星空案内人（星ソムリエ）常駐宿：本格天体観測 厳選ガイド"} url={"https://croud-travel.pages.dev/astronomical-observatory-stargazing-guide-resort-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="astronomical-observatory-stargazing-guide-resort-stay" />
 </div>
   );

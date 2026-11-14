@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import FurusatoStepSection from "@/app/components/FurusatoStepSection";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
@@ -96,6 +97,9 @@ export default function FurusatoTraditionalUnagiEelStayPage() {
             </Link>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"名産地で味わう極上うなぎ会席＆蒲焼・ひつまぶし名湯宿×ふるさと納税厳選ガイド浜名湖・三島・柳川"} url={"https://croud-travel.pages.dev/furusato-tax-traditional-unagi-eel-gourmet-stay/"} />
+      </div>
 
         {/* 3つの醍醐味セクション */}
         <section className="mb-16">
@@ -518,6 +522,9 @@ export default function FurusatoTraditionalUnagiEelStayPage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"名産地で味わう極上うなぎ会席＆蒲焼・ひつまぶし名湯宿×ふるさと納税厳選ガイド浜名湖・三島・柳川"} url={"https://croud-travel.pages.dev/furusato-tax-traditional-unagi-eel-gourmet-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-traditional-unagi-eel-gourmet-stay" />
 </div>
         </section>

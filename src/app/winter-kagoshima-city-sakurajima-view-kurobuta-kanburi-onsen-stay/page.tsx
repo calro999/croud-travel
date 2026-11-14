@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -262,6 +263,9 @@ export default function KagoshimaCityWinterFeaturePage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月鹿児島市】冬の桜島絶景＆照国神社新春初詣！本場黒豚しゃぶしゃぶと錦江湾寒ブリ・展望温泉名宿5選"} url={"https://croud-travel.pages.dev/winter-kagoshima-city-sakurajima-view-kurobuta-kanburi-onsen-stay/"} />
+      </div>
 
       {/* Navigation Breadcrumbs */}
       <nav aria-label="パンくずリスト" className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-4 text-xs text-slate-500">
@@ -462,7 +466,7 @@ export default function KagoshimaCityWinterFeaturePage() {
                 {/* Hotel Information */}
                 <div className="md:w-7/12 flex flex-col justify-between space-y-4">
                   <div>
-                    <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-rose-700 transition"><a href={hotel.url} target="_blank" rel="noopener noreferrer">
+                    <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-rose-700 transition"><a href={hotel.url} target="_blank" rel="sponsored noopener noreferrer">
                         {hotel.name}
                       </a></h3>
 
@@ -502,7 +506,7 @@ export default function KagoshimaCityWinterFeaturePage() {
                     <a 
                       href={hotel.url} 
                       target="_blank" 
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center gap-2 bg-gradient-to-r from-rose-600 to-amber-600 hover:from-rose-700 hover:to-amber-700 text-white font-bold px-6 py-3 rounded-2xl text-xs sm:text-sm shadow-md shadow-rose-600/20 transition-all hover:shadow-lg"
                     >
                       <span>楽天トラベルで空室・プランを見る</span>
@@ -586,6 +590,9 @@ export default function KagoshimaCityWinterFeaturePage() {
               <span className="text-rose-200 text-xs font-normal mt-1">11・12・1月の厳選記事を多数掲載</span>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月鹿児島市】冬の桜島絶景＆照国神社新春初詣！本場黒豚しゃぶしゃぶと錦江湾寒ブリ・展望温泉名宿5選"} url={"https://croud-travel.pages.dev/winter-kagoshima-city-sakurajima-view-kurobuta-kanburi-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-kagoshima-city-sakurajima-view-kurobuta-kanburi-onsen-stay" />
 </div>
         </section>

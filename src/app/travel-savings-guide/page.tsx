@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
@@ -102,6 +103,9 @@ export default function TravelSavingsGuide() {
             特に「知っている人だけが得をしている」のが、このページで一番伝えたい方法——ふるさと納税を旅行に使うテクニック。年間の控除上限額内であれば自己負担2,000円で、寄付額の最大30%がそのまま宿泊クーポンに変わるこの仕組み、まだ使っていないなら確実に損をしています。
           </p>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"旅行費を最大30%安くする裏ワザ7選"} url={"https://croud-travel.pages.dev/travel-savings-guide/"} />
+      </div>
 
         {/* 目次 */}
         <nav className="bg-white rounded-2xl shadow-sm border border-stone-200/80 p-6 mb-12">
@@ -2990,9 +2994,7 @@ export default function TravelSavingsGuide() {
             {/* 👨‍👩‍👧 旅行スタイル別 */}
             <section className="bg-white rounded-2xl shadow-sm border border-stone-200/80 overflow-hidden">
               <div className="bg-gradient-to-r from-stone-50 to-amber-50/50 px-6 py-4 border-b border-stone-200/60">
-                <h3 className="text-lg font-bold text-stone-800 flex items-center gap-2"><span className="text-xl">‍‍</span>
-                  旅行スタイル別
-                  <span className="text-xs font-normal text-stone-400 ml-1">(6件)</span></h3>
+                <h3 className="text-lg font-bold text-stone-800 flex items-center gap-2">旅行スタイル別 <span className="text-xs font-normal text-stone-400 ml-1">(6件)</span></h3>
                 <p className="text-xs text-stone-500 mt-1">家族旅行・赤ちゃん連れ・3世代・ソロ・カップル・グランピング・宿坊——あなたの旅に合う1軒</p>
               </div>
               <ul className="p-4 grid gap-0.5 sm:grid-cols-2">
@@ -3193,6 +3195,9 @@ export default function TravelSavingsGuide() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"旅行費を最大30%安くする裏ワザ7選"} url={"https://croud-travel.pages.dev/travel-savings-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="travel-savings-guide" />
 </div>
         </section>

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -202,6 +203,9 @@ export default function NikkoAutumnLeavesGuidePage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"日光・いろは坂 紅葉2026見頃完全マップ：大渋滞回避の時間帯・中禅寺湖ライトアップ＆奥日光硫黄泉の宿"} url={"https://croud-travel.pages.dev/nikko-autumn-leaves-lightup-guide/"} />
+      </div>
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
@@ -581,6 +585,9 @@ export default function NikkoAutumnLeavesGuidePage() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"日光・いろは坂 紅葉2026見頃完全マップ：大渋滞回避の時間帯・中禅寺湖ライトアップ＆奥日光硫黄泉の宿"} url={"https://croud-travel.pages.dev/nikko-autumn-leaves-lightup-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="nikko-autumn-leaves-lightup-guide" />
 </div>
   );

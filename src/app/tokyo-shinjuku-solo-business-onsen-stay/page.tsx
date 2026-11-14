@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -12,7 +13,7 @@ export const metadata: Metadata = {
     title: '新宿出張・大浴場スパステイ：高層ビル夜景・都心展望スパ・新宿御苑！世界最大のターミナルを制する厳選3宿',
     description: 'JR・私鉄各線が乗り入れる世界最大の乗降客数を誇る新宿駅！高層ビル街でハイクラスな滞在と快適デスクを誇る「ダイワロイネットホテル西新宿 PREMIER」、新宿御苑前駅すぐで人工温泉大浴殿を完備した「アパホテル〈新宿御苑前〉」、展望プールと露天風呂付き大浴場を備える「アパホテル＆リゾート〈西新宿五丁目駅前タワー〉」を徹底比較。',
     url: 'https://croud-travel.pages.dev/tokyo-shinjuku-solo-business-onsen-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -26,12 +27,12 @@ export default function ArticlePage() {
     description: 'JR・私鉄各線が乗り入れる世界最大の乗降客数を誇る新宿駅！高層ビル街でハイクラスな滞在と快適デスクを誇る「ダイワロイネットホテル西新宿 PREMIER」、新宿御苑前駅すぐで人工温泉大浴殿を完備した「アパホテル〈新宿御苑前〉」、展望プールと露天風呂付き大浴場を備える「アパホテル＆リゾート〈西新宿五丁目駅前タワー〉」を徹底比較。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル ひとり旅・出張調査班',
+      name: '旅宿クラウド ひとり旅・出張調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -75,7 +76,7 @@ export default function ArticlePage() {
         <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">「新宿出張・大浴場スパステイ」高層ビル夜景・都心展望スパ・新宿御苑！世界最大のターミナルを制する厳選3宿</h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.13 更新</time>
-          <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>
+          <span>執筆：旅宿クラウド ひとり旅・出張調査班</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式API提携</span>
         </div>
 
@@ -92,6 +93,9 @@ export default function ArticlePage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"新宿出張・大浴場スパステイ：高層ビル夜景・都心展望スパ・新宿御苑！世界最大のターミナルを制する厳選3宿"} url={"https://croud-travel.pages.dev/tokyo-shinjuku-solo-business-onsen-stay/"} />
+      </div>
 
       {/* 目次インデックス */}
       <section className="max-w-4xl mx-auto px-4 sm:px-6 mb-12">
@@ -437,6 +441,9 @@ export default function ArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"新宿出張・大浴場スパステイ：高層ビル夜景・都心展望スパ・新宿御苑！世界最大のターミナルを制する厳選3宿"} url={"https://croud-travel.pages.dev/tokyo-shinjuku-solo-business-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="tokyo-shinjuku-solo-business-onsen-stay" />
 </div>
         </section>

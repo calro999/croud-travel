@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -54,6 +55,9 @@ export default function AutumnBudgetMatsuyamaHotelsPage() {
           </p>
         </div>
       </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"松山：松山城の紅葉絵巻と本場宇和島鯛めし！3,000円台〜格安ホテル5選"} url={"https://croud-travel.pages.dev/autumn-budget-ehime-matsuyama-castle-momiji-taimeshi-hotels-stay/"} />
+      </div>
 
       {/* イントロダクション */}
       <section className="max-w-4xl mx-auto px-4 py-8">
@@ -465,6 +469,9 @@ export default function AutumnBudgetMatsuyamaHotelsPage() {
               </div>
             </div>
           </div></section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"松山：松山城の紅葉絵巻と本場宇和島鯛めし！3,000円台〜格安ホテル5選"} url={"https://croud-travel.pages.dev/autumn-budget-ehime-matsuyama-castle-momiji-taimeshi-hotels-stay/"} />
+      </div>
         <div className="max-w-4xl mx-auto px-4 sm:px-6">
           <HubRelatedPosts currentSlug="autumn-budget-ehime-matsuyama-castle-momiji-taimeshi-hotels-stay" />
         </div>

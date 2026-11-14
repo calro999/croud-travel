@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             米どころ庄内平野と日本海の豊かな恵みが交差する「酒田＆鶴岡」。北前船交易で栄えた酒田の山居倉庫と舞娘茶屋。修験道の聖地・出羽三山羽黒山の杉並木。日本海に沈む夕陽を望む海辺の温泉宿と、山形牛・庄内豚を味わう美食の旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"山形・酒田＆鶴岡・羽黒山・庄内：山居倉庫・出羽三山＆クラゲ水族館・庄内豚宿 厳選ガイド"} url={"https://croud-travel.pages.dev/yamagata-sakata-tsuruoka-shonai-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -423,6 +427,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"山形・酒田＆鶴岡・羽黒山・庄内：山居倉庫・出羽三山＆クラゲ水族館・庄内豚宿 厳選ガイド"} url={"https://croud-travel.pages.dev/yamagata-sakata-tsuruoka-shonai-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="yamagata-sakata-tsuruoka-shonai-stay" />
 </div>
   );

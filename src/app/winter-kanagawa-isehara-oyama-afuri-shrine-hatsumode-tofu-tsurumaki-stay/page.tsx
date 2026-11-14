@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import Link from 'next/link';
 import type { Metadata } from 'next';
@@ -299,6 +300,9 @@ export default function KanagawaOyamaWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月神奈川】「大山阿夫利神社」新春初詣と相模湾冬パノラマ！名水大山豆腐料理＆名湯「鶴巻・七沢温泉」厳選名宿5選"} url={"https://croud-travel.pages.dev/winter-kanagawa-isehara-oyama-afuri-shrine-hatsumode-tofu-tsurumaki-stay/"} />
+      </div>
 
       {/* Summary Box */}
       <section className="max-w-5xl mx-auto px-4 -mt-8 relative z-20">
@@ -490,7 +494,7 @@ export default function KanagawaOyamaWinterPage() {
                       <a 
                         href={hotel.url} 
                         target="_blank" 
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="w-full bg-gradient-to-r from-teal-600 to-emerald-600 hover:from-teal-500 hover:to-emerald-500 text-white font-bold py-3 px-4 rounded-xl text-center block transition shadow-lg shadow-teal-900/30 text-sm"
                       >
                         楽天トラベルで空室・プランを見る <ExternalLink className="w-4 h-4 inline-block ml-1" />
@@ -533,7 +537,7 @@ export default function KanagawaOyamaWinterPage() {
                       <a 
                         href={hotel.url} 
                         target="_blank" 
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="w-full bg-gradient-to-r from-teal-600 to-emerald-600 hover:from-teal-500 hover:to-emerald-500 text-white font-bold py-3 px-4 rounded-xl text-center block transition shadow-lg shadow-teal-900/30 text-sm"
                       >
                         楽天トラベルで空室・プランを見る <ExternalLink className="w-4 h-4 inline-block ml-1" />
@@ -625,6 +629,9 @@ export default function KanagawaOyamaWinterPage() {
             <Link href="/posts/" className="hover:text-teal-600 underline">記事一覧カタログ</Link>
           </div>
         
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月神奈川】「大山阿夫利神社」新春初詣と相模湾冬パノラマ！名水大山豆腐料理＆名湯「鶴巻・七沢温泉」厳選名宿5選"} url={"https://croud-travel.pages.dev/winter-kanagawa-isehara-oyama-afuri-shrine-hatsumode-tofu-tsurumaki-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-kanagawa-isehara-oyama-afuri-shrine-hatsumode-tofu-tsurumaki-stay" />
 </div>
       </section>

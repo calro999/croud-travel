@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
     title: '【11・12・1月京都】白銀の貴船神社・積雪日限定ライトアップと冬の京都奥座敷・極上天然猪肉ぼたん鍋＆京都牛を愉しむ静寂の名宿5選',
     description: '11月から1月、京都市街地の喧騒から離れた京都洛北の奥座敷「貴船・鞍馬」は、凛とした冬の澄んだ空気と幽玄の白銀世界に包まれます。',
     url: 'https://croud-travel.pages.dev/winter-kyoto-kifune-kurama-snow-lightup-botannabe-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     images: [
       {
         url: 'https://img.travel.rakuten.co.jp/share/HOTEL/67265/67265.jpg',
@@ -48,7 +49,7 @@ export default function KyotoKifuneKuramaPage() {
         "isPartOf": {
           "@type": "WebSite",
           "@id": "https://croud-travel.pages.dev/#website",
-          "name": "クラドトラベル",
+          "name": "旅宿クラウド",
           "url": "https://croud-travel.pages.dev"
         },
         "headline": "【11・12・1月京都】白銀の貴船神社・積雪日限定ライトアップと冬の京都奥座敷・極上天然猪肉ぼたん鍋＆京都牛を愉しむ静寂の名宿5選",
@@ -58,11 +59,11 @@ export default function KyotoKifuneKuramaPage() {
         "dateModified": "2026-10-18T00:00:00+09:00",
         "author": {
           "@type": "Organization",
-          "name": "クラドトラベル編集部"
+          "name": "旅宿クラウド編集部"
         },
         "publisher": {
           "@type": "Organization",
-          "name": "クラドトラベル",
+          "name": "旅宿クラウド",
           "url": "https://croud-travel.pages.dev",
           "logo": {
             "@type": "ImageObject",
@@ -257,6 +258,9 @@ export default function KyotoKifuneKuramaPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月京都】白銀の貴船神社・積雪日限定ライトアップと冬の京都奥座敷・極上天然猪肉ぼたん鍋＆京都牛を愉しむ静寂の名宿5選"} url={"https://croud-travel.pages.dev/winter-kyoto-kifune-kurama-snow-lightup-botannabe-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 mt-10 space-y-12">
@@ -363,7 +367,7 @@ export default function KyotoKifuneKuramaPage() {
                       <a 
                         href={h.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-1.5 bg-rose-600 hover:bg-rose-700 text-white font-bold text-xs px-4 py-2 rounded-xl shadow-xs transition"
                       >
                         楽天トラベルで空室・プランを見る
@@ -560,6 +564,9 @@ export default function KyotoKifuneKuramaPage() {
               <p className="font-bold text-stone-800 line-clamp-2">比叡山麓の美肌名湯と琵琶湖ビュー・極上近江牛しゃぶしゃぶを堪能する名宿</p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月京都】白銀の貴船神社・積雪日限定ライトアップと冬の京都奥座敷・極上天然猪肉ぼたん鍋＆京都牛を愉しむ静寂の名宿5選"} url={"https://croud-travel.pages.dev/winter-kyoto-kifune-kurama-snow-lightup-botannabe-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-kyoto-kifune-kurama-snow-lightup-botannabe-stay" />
 </div>
         </section>

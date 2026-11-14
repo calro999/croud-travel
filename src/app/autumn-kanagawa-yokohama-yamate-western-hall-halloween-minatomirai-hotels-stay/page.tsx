@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import Link from 'next/link';
 import type { Metadata } from 'next';
@@ -16,7 +17,7 @@ export const metadata: Metadata = {
     title: "秋の横浜山手西洋館ハロウィーン：歴史ある洋館7館の本格装飾と山手ハロウィーンウォーク",
     description: "横浜開港の歴史息づく山手の丘に佇む異人館街「山手西洋館」。10月下旬には「エリスマン邸」「ベーリック・ホール」「外交官の家」など国指定重要文化財を含む西洋館7館が、フラワーアーティストやコーディネーターによる洗練された本格ハロウィーン装飾で彩られます。スタンプラリーや仮装パレードが賑わう「山手ハロウィーンウォーク」、港の見える丘公園の秋バラ、元町ショッピングストリートのカフェ巡り。夜はみなとみらいの煌めく大観覧車とベイブリッジの夜景を望み、歴史あるクラシックホテルやハイクオリティタワーホテル厳選5選を徹底特集。",
     url: 'https://croud-travel.pages.dev/autumn-kanagawa-yokohama-yamate-western-hall-halloween-minatomirai-hotels-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
     images: [{
@@ -45,11 +46,11 @@ export default function YokohamaHalloweenFeaturePage() {
     "dateModified": "2026-10-25T10:00:00+09:00",
     "author": {
       "@type": "Organization",
-      "name": "クラドトラベル編集部 横浜クラシック・ベイサイド取材班"
+      "name": "旅宿クラウド編集部 横浜クラシック・ベイサイド取材班"
     },
     "publisher": {
       "@type": "Organization",
-      "name": "クラドトラベル",
+      "name": "旅宿クラウド",
       "logo": {
         "@type": "ImageObject",
         "url": "https://croud-travel.pages.dev/logo.png"
@@ -287,6 +288,9 @@ export default function YokohamaHalloweenFeaturePage() {
             </div>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"秋の横浜山手西洋館ハロウィーン：歴史ある洋館7館の本格装飾と山手ハロウィーンウォーク"} url={"https://croud-travel.pages.dev/autumn-kanagawa-yokohama-yamate-western-hall-halloween-minatomirai-hotels-stay/"} />
+      </div>
 
         {/* Main Content Area */}
         <main className="max-w-4xl mx-auto px-4 sm:px-6 py-12">
@@ -426,7 +430,7 @@ export default function YokohamaHalloweenFeaturePage() {
                       <a
                         href={h.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center justify-center w-full sm:w-auto gap-2 px-6 py-3 rounded-lg bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs sm:text-sm shadow-sm transition"
                       >
                         <span>楽天トラベルでプラン・空室を確認</span>
@@ -566,12 +570,16 @@ export default function YokohamaHalloweenFeaturePage() {
                 高尾山薬王院初詣＆とろろそば特集
               </Link>
               <Link href="/" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">
-                クラドトラベル トップページ
+                旅宿クラウド トップページ
               </Link>
             </div>
           </section>
 
-        </main>
+        
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"秋の横浜山手西洋館ハロウィーン：歴史ある洋館7館の本格装飾と山手ハロウィーンウォーク"} url={"https://croud-travel.pages.dev/autumn-kanagawa-yokohama-yamate-western-hall-halloween-minatomirai-hotels-stay/"} />
+      </div>
+      </main>
       </article>
     </>
   );

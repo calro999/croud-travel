@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -196,6 +197,9 @@ export default function SilverWeekGlampingSoloStayRetreatPage() {
             <span className="flex items-center gap-1.5">☕ 静寂の森で味わうハンドドリップ珈琲と読書</span>
           </div>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"おひとり様歓迎 ソログランピング：1人泊プラン確約！静寂の森で読書・サウナ・焚き火を楽しむ秋リトリート"} url={"https://croud-travel.pages.dev/silver-week-glamping-solo-stay-retreat-guide/"} />
+      </div>
       </section>
 
       {/* 楽天トラベルスペシャルクーポンバナー */}
@@ -407,6 +411,9 @@ export default function SilverWeekGlampingSoloStayRetreatPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"おひとり様歓迎 ソログランピング：1人泊プラン確約！静寂の森で読書・サウナ・焚き火を楽しむ秋リトリート"} url={"https://croud-travel.pages.dev/silver-week-glamping-solo-stay-retreat-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="silver-week-glamping-solo-stay-retreat-guide" />
 </div>
   );

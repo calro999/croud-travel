@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -308,6 +309,9 @@ export default function KirishimaWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月霧島温泉郷の冬パノラマと坂本龍馬ゆかりの名湯】湯煙立ち上る霧島連山と乳白色泥湯・鹿児島黒豚しゃぶしゃぶ＆黒毛和牛の宿5選"} url={"https://croud-travel.pages.dev/winter-kagoshima-kirishima-onsen-ryoma-black-pork-stay/"} />
+      </div>
 
       {/* Main Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
@@ -525,7 +529,7 @@ export default function KirishimaWinterPage() {
                       <a
                         href={hotel.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-6 py-3 rounded-xl bg-rose-800 hover:bg-rose-900 text-white font-bold text-sm shadow-md transition-all duration-200 group"
                       >
                         <span>プラン一覧・空室確認</span>
@@ -695,6 +699,9 @@ export default function KirishimaWinterPage() {
               <h3 className="text-sm font-bold group-hover:text-rose-200 transition">全国の厳選温泉・宿特集まとめを見る</h3>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月霧島温泉郷の冬パノラマと坂本龍馬ゆかりの名湯】湯煙立ち上る霧島連山と乳白色泥湯・鹿児島黒豚しゃぶしゃぶ＆黒毛和牛の宿5選"} url={"https://croud-travel.pages.dev/winter-kagoshima-kirishima-onsen-ryoma-black-pork-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-kagoshima-kirishima-onsen-ryoma-black-pork-stay" />
 </div>
         </section>

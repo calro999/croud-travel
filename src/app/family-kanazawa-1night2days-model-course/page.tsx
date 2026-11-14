@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -210,6 +211,9 @@ export default function FamilyKanazawaModelCoursePage() {
             </span>
           </div>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"子連れ金沢旅行 1泊2日モデルコース：ベビーカーOKスポット＆キッズ歓迎・和室ホテルの安心プラン"} url={"https://croud-travel.pages.dev/family-kanazawa-1night2days-model-course/"} />
+      </div>
       </section>
 
       {/* 楽天トラベル公式 ファミリー応援クーポンバナー */}
@@ -218,8 +222,7 @@ export default function FamilyKanazawaModelCoursePage() {
       {/* 内部リンク・関連ガイドナビゲーション */}
       <nav className="bg-emerald-50/80 border border-emerald-200/90 rounded-2xl p-6 shadow-sm">
         <div className="flex items-center justify-between mb-3">
-          <h2 className="text-sm md:text-base font-black text-emerald-950 flex items-center gap-2"><span className="w-2.5 h-2.5 rounded-full bg-emerald-600"></span>
-            金沢旅行の交通・予算ガイド（あわせて読みたい）</h2>
+          <h2 className="text-sm md:text-base font-black text-emerald-950 flex items-center gap-2">金沢旅行の交通・予算ガイド（あわせて読みたい）</h2>
           <span className="text-[10px] text-emerald-700 bg-emerald-100/70 font-bold px-2 py-0.5 rounded">
             計画お役立ちリンク
           </span>
@@ -470,6 +473,9 @@ export default function FamilyKanazawaModelCoursePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"子連れ金沢旅行 1泊2日モデルコース：ベビーカーOKスポット＆キッズ歓迎・和室ホテルの安心プラン"} url={"https://croud-travel.pages.dev/family-kanazawa-1night2days-model-course/"} />
+      </div>
       <HubRelatedPosts currentSlug="family-kanazawa-1night2days-model-course" />
 </div>
   );

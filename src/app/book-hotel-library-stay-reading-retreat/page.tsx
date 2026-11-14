@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function WomenSoloRetreatHubPage() {
             コーヒーを片手にページをめくり、活字の海に溺れる「読書＆ブックホテル」。壁一面に本が並ぶライブラリーラウンジ。客室に持ち込んで朝まで読書に浸る贅沢。温泉で目を休め、美味しい食事と本の世界に包まれる至福のおこもりステイへ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"週末おこもり・読書＆ブックホテル：数万冊の本に囲まれるライブラリー宿 厳選ガイド"} url={"https://croud-travel.pages.dev/book-hotel-library-stay-reading-retreat/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆厳選宿 */}
@@ -454,6 +458,9 @@ export default function WomenSoloRetreatHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"週末おこもり・読書＆ブックホテル：数万冊の本に囲まれるライブラリー宿 厳選ガイド"} url={"https://croud-travel.pages.dev/book-hotel-library-stay-reading-retreat/"} />
+      </div>
       <HubRelatedPosts currentSlug="book-hotel-library-stay-reading-retreat" />
 </div>
   );

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             ニニギノミコトが天孫降臨した神話の聖地「霧島」。朱塗りの極彩色が美しい国宝「霧島神宮」。坂本龍馬と妻おりょうが日本最初の新婚旅行で訪れた名湯「霧島温泉郷」。湯けむり立ち上る露天風呂と、極上かごしま黒豚を堪能する旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"鹿児島・霧島温泉郷＆霧島神宮：天孫降臨・国宝霧島神宮＆泥湯・黒豚しゃぶ宿 厳選ガイド"} url={"https://croud-travel.pages.dev/kagoshima-kirishima-jingu-onsen-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -231,6 +235,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"鹿児島・霧島温泉郷＆霧島神宮：天孫降臨・国宝霧島神宮＆泥湯・黒豚しゃぶ宿 厳選ガイド"} url={"https://croud-travel.pages.dev/kagoshima-kirishima-jingu-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="kagoshima-kirishima-jingu-onsen-stay" />
 </div>
   );

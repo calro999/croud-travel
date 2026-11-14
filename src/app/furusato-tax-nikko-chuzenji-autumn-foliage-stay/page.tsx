@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import FurusatoStepSection from "@/app/components/FurusatoStepSection";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
@@ -6,7 +7,7 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '湖面に映える錦秋の男体山！日光中禅寺湖・いろは坂＆奥日光にごり湯温泉宿×ふるさと納税厳選ガイド',
   description: '10月中旬〜11月上旬に見頃を迎える関東屈指の紅葉名所「日光・中禅寺湖・いろは坂・華厳の滝」。湖畔のクラシックリゾートや乳白色硫黄泉の湯元温泉宿「ホテル花庵」「中禅寺金谷ホテル」「湯元板屋」。とちぎ和牛と湯波会席を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
-  keywords: ["いろは坂", "2026年最新秋旅", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
+  keywords: ["いろは坂", "2026年末・冬休み対応", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-nikko-chuzenji-autumn-foliage-stay/"
   },
@@ -25,7 +26,7 @@ export default function FurusatoNikkoChuzenjiAutumnFoliageStayPage() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "湖面に映える錦秋の男体山！日光中禅寺湖・いろは坂＆奥日光にごり湯温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】 | 旅宿クラウド",
+    "headline": "湖面に映える錦秋の男体山！日光中禅寺湖・いろは坂＆奥日光にごり湯温泉宿×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】 | 旅宿クラウド",
     "description": "10月中旬〜11月上旬に見頃を迎える関東屈指の紅葉名所「日光・中禅寺湖・いろは坂・華厳の滝」。湖畔のクラシックリゾートや乳白色硫黄泉の湯元温泉宿「ホテル花庵」「中禅寺金谷ホテル」「湯元板屋」。とちぎ和牛と湯波会席を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。",
     "url": "https://croud-travel.pages.dev/furusato-tax-nikko-chuzenji-autumn-foliage-stay/",
     "publisher": {
@@ -39,7 +40,7 @@ export default function FurusatoNikkoChuzenjiAutumnFoliageStayPage() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "湖面に映える錦秋の男体山！日光中禅寺湖・いろは坂＆奥日光にごり湯温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】 | 旅宿クラウド", "item": "https://croud-travel.pages.dev/furusato-tax-nikko-chuzenji-autumn-foliage-stay/" }
+      { "@type": "ListItem", "position": 2, "name": "湖面に映える錦秋の男体山！日光中禅寺湖・いろは坂＆奥日光にごり湯温泉宿×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】 | 旅宿クラウド", "item": "https://croud-travel.pages.dev/furusato-tax-nikko-chuzenji-autumn-foliage-stay/" }
     ]
   };
 
@@ -85,6 +86,9 @@ export default function FurusatoNikkoChuzenjiAutumnFoliageStayPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"湖面に映える錦秋の男体山！日光中禅寺湖・いろは坂＆奥日光にごり湯温泉宿×ふるさと納税厳選ガイド"} url={"https://croud-travel.pages.dev/furusato-tax-nikko-chuzenji-autumn-foliage-stay/"} />
+      </div>
 
       <div className="max-w-5xl mx-auto px-4 sm:px-6 space-y-16">
         {/* リード文セクション */}
@@ -550,6 +554,9 @@ export default function FurusatoNikkoChuzenjiAutumnFoliageStayPage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"湖面に映える錦秋の男体山！日光中禅寺湖・いろは坂＆奥日光にごり湯温泉宿×ふるさと納税厳選ガイド"} url={"https://croud-travel.pages.dev/furusato-tax-nikko-chuzenji-autumn-foliage-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-nikko-chuzenji-autumn-foliage-stay" />
 </div>
         </section>

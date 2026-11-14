@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function PetDogResortHubPage() {
             旅行中もずっと一緒、食事の時間も離れない！「愛犬同伴お部屋食＆愛犬用フルコース宿」。お部屋食または愛犬同伴専用ダイニング。獣医師監修の厳選鹿肉や温野菜プレート。愛犬の誕生日や記念日を祝う特製ドッグケーキ付きプランへ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"愛犬同伴OK・お部屋食＆愛犬用特製フルコース宿：無添加ごちそう＆記念日 厳選ガイド"} url={"https://croud-travel.pages.dev/dog-room-dining-special-course-hotel-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆厳選宿 */}
@@ -454,6 +458,9 @@ export default function PetDogResortHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"愛犬同伴OK・お部屋食＆愛犬用特製フルコース宿：無添加ごちそう＆記念日 厳選ガイド"} url={"https://croud-travel.pages.dev/dog-room-dining-special-course-hotel-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="dog-room-dining-special-course-hotel-stay" />
 </div>
   );

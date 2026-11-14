@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function LuxuryPremiumHubPage() {
             穏やかな波を切り進む専用クルーザーでチェックイン。世界最高峰のリゾートブランド「アマン」が手掛けたアマネム、瀬戸内海に浮かぶ動くラグジュアリーホテル「ガンツウ」、アートと建築が共鳴する直島ベネッセハウス。非日常の極致へ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"プライベートクルーズ＆離島ラグジュアリーリゾート：瀬戸内・伊勢志摩・八重山 厳選ガイド"} url={"https://croud-travel.pages.dev/japan-luxury-island-resort-charter-cruise-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆厳選宿 */}
@@ -423,6 +427,9 @@ export default function LuxuryPremiumHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"プライベートクルーズ＆離島ラグジュアリーリゾート：瀬戸内・伊勢志摩・八重山 厳選ガイド"} url={"https://croud-travel.pages.dev/japan-luxury-island-resort-charter-cruise-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="japan-luxury-island-resort-charter-cruise-stay" />
 </div>
   );

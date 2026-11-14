@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -13,7 +14,7 @@ export const metadata: Metadata = {
     title: '伊東温泉ひとり旅・海望おこもり：相模灘オーシャンビュー・金目鯛会席・7本の自家源泉！東京から特急で叶う極上湯治リトリート 厳選3選',
     description: '東京駅から特急踊り子で直通約1時間40分！高台から相模湾の青い海を望む展望露天風呂が魅力の「伊東ホテルジュラク」、数寄屋造りの静謐な空間で本格部屋食を堪能できる名門「青山やまと」、豊富な自家源泉とバイキングが人気の「ホテルラヴィエ川良」を徹底比較。',
     url: 'https://croud-travel.pages.dev/ito-onsen-solo-retreat-ocean-seafood-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -27,12 +28,12 @@ export default function ArticlePage() {
     description: '東京駅から特急踊り子で直通約1時間40分！高台から相模湾の青い海を望む展望露天風呂が魅力の「伊東ホテルジュラク」、数寄屋造りの静謐な空間で本格部屋食を堪能できる名門「青山やまと」、豊富な自家源泉とバイキングが人気の「ホテルラヴィエ川良」を徹底比較。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル ひとり旅・出張調査班',
+      name: '旅宿クラウド ひとり旅・出張調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -76,7 +77,7 @@ export default function ArticlePage() {
         <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">「伊東温泉ひとり旅・海望おこもり」相模灘オーシャンビュー・金目鯛会席・7本の自家源泉！東京から特急で叶う極上湯治リトリート 厳選3選</h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.12 更新</time>
-          <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>
+          <span>執筆：旅宿クラウド ひとり旅・出張調査班</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式API提携</span>
         </div>
 
@@ -93,6 +94,9 @@ export default function ArticlePage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"伊東温泉ひとり旅・海望おこもり：相模灘オーシャンビュー・金目鯛会席・7本の自家源泉！東京から特急で叶う極上湯治リトリート 厳選3選"} url={"https://croud-travel.pages.dev/ito-onsen-solo-retreat-ocean-seafood-stay/"} />
+      </div>
 
       {/* 目次インデックス */}
       <section className="max-w-4xl mx-auto px-4 sm:px-6 mb-12">
@@ -463,6 +467,9 @@ export default function ArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"伊東温泉ひとり旅・海望おこもり：相模灘オーシャンビュー・金目鯛会席・7本の自家源泉！東京から特急で叶う極上湯治リトリート 厳選3選"} url={"https://croud-travel.pages.dev/ito-onsen-solo-retreat-ocean-seafood-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="ito-onsen-solo-retreat-ocean-seafood-stay" />
 </div>
         </section>

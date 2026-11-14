@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             山頂・離島を除き本州で一番早く朝日が昇る岬「犬吠埼」と、太平洋の白波が打ち寄せる「九十九里浜」。白亜の犬吠埼灯台と高さ50mの断崖「屏風ヶ浦」。銚子電鉄に揺られながら、黄金色に輝く「銚子つりきんめ」と天然温泉を味わう旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"千葉・銚子＆九十九里・犬吠埼：本州一早い日の出・犬吠埼灯台＆銚子電鉄・金目鯛宿 厳選ガイド"} url={"https://croud-travel.pages.dev/chiba-choshi-kujukuri-inubosaki-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -392,6 +396,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"千葉・銚子＆九十九里・犬吠埼：本州一早い日の出・犬吠埼灯台＆銚子電鉄・金目鯛宿 厳選ガイド"} url={"https://croud-travel.pages.dev/chiba-choshi-kujukuri-inubosaki-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="chiba-choshi-kujukuri-inubosaki-stay" />
 </div>
   );

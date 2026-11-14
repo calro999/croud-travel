@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             400年以上の歴史を誇る会津の伝統工芸「会津漆器」！漆のしっとりとした手触りと上品な艶をたたえる器で味わう福島牛や会津郷土料理、そして竹久夢二や与謝野晶子も愛した東山温泉の名湯に浸かる風雅な旅。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"会津漆器の艶やかな器と郷土会席：伝統美学！東山温泉・芦ノ牧温泉の歴史名湯宿5選"} url={"https://croud-travel.pages.dev/traditional-fukushima-aizu-urushi-craft-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"会津漆器の艶やかな器と郷土会席：伝統美学！東山温泉・芦ノ牧温泉の歴史名湯宿5選"} url={"https://croud-travel.pages.dev/traditional-fukushima-aizu-urushi-craft-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="traditional-fukushima-aizu-urushi-craft-stay" />
 </div>
         </section>

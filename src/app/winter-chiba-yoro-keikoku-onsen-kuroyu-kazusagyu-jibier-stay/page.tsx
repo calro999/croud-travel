@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
     title: '【11・12月養老渓谷温泉郷】本州一遅い初冬の紅葉ライトアップと美肌黒湯天然温泉・房総かずさ和牛＆天然猪ジビエ鍋を堪能する名宿5選',
     description: '11月下旬から12月上旬にかけて「本州で最も遅い紅葉」のクライマックスを迎える千葉県・房総半島の養老渓谷温泉郷。',
     url: 'https://croud-travel.pages.dev/winter-chiba-yoro-keikoku-onsen-kuroyu-kazusagyu-jibier-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -48,7 +49,7 @@ export default function ChibaYoroKeikokuWinterPage() {
         "isPartOf": {
           "@type": "WebSite",
           "@id": "https://croud-travel.pages.dev/#website",
-          "name": "クラドトラベル",
+          "name": "旅宿クラウド",
           "url": "https://croud-travel.pages.dev/"
         },
         "headline": "【11・12月養老渓谷温泉郷】本州一遅い初冬の紅葉ライトアップと美肌黒湯天然温泉・房総かずさ和牛＆天然猪ジビエ鍋を堪能する名宿5選",
@@ -59,7 +60,7 @@ export default function ChibaYoroKeikokuWinterPage() {
         "mainEntityOfPage": "https://croud-travel.pages.dev/winter-chiba-yoro-keikoku-onsen-kuroyu-kazusagyu-jibier-stay/",
         "publisher": {
           "@type": "Organization",
-          "name": "クラドトラベル編集部",
+          "name": "旅宿クラウド編集部",
           "url": "https://croud-travel.pages.dev/"
         }
       },
@@ -374,6 +375,9 @@ export default function ChibaYoroKeikokuWinterPage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月養老渓谷温泉郷】本州一遅い初冬の紅葉ライトアップと美肌黒湯天然温泉・房総かずさ和牛＆天然猪ジビエ鍋を堪能する名宿5選"} url={"https://croud-travel.pages.dev/winter-chiba-yoro-keikoku-onsen-kuroyu-kazusagyu-jibier-stay/"} />
+      </div>
 
       {/* Main Content Container */}
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-12">
@@ -482,7 +486,7 @@ export default function ChibaYoroKeikokuWinterPage() {
                     <a
                       href={hotel.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center justify-center gap-1.5 px-5 py-2.5 bg-amber-700 hover:bg-amber-800 text-white text-xs sm:text-sm font-bold rounded-xl transition shadow-xs"
                     >
                       <span>楽天トラベルで空室・プランを見る</span>
@@ -748,6 +752,9 @@ export default function ChibaYoroKeikokuWinterPage() {
               <span className="text-[11px] text-stone-500">11月・12月おすすめの厳選特集</span>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月養老渓谷温泉郷】本州一遅い初冬の紅葉ライトアップと美肌黒湯天然温泉・房総かずさ和牛＆天然猪ジビエ鍋を堪能する名宿5選"} url={"https://croud-travel.pages.dev/winter-chiba-yoro-keikoku-onsen-kuroyu-kazusagyu-jibier-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-chiba-yoro-keikoku-onsen-kuroyu-kazusagyu-jibier-stay" />
 </div>
         </section>

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月北海道・十勝川温泉の初冬白鳥飛来と美肌遺産モール温泉】極上十勝牛ステーキ＆十勝野チーズ会席を愉しむ名宿5選',
     description: '11月から12月にかけて、広大な十勝平野に位置する十勝川温泉は、シベリアから優雅なオオハクチョウが越冬のために飛来し。',
     url: 'https://croud-travel.pages.dev/winter-hokkaido-tokachigawa-onsen-moor-swan-tokachi-beef-stay/',
-    siteName: 'クラドトラベル (Croud Travel)',
+    siteName: '旅宿クラウド (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -257,6 +258,9 @@ export default function HokkaidoTokachigawaWinterFeature() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月北海道・十勝川温泉の初冬白鳥飛来と美肌遺産モール温泉】極上十勝牛ステーキ＆十勝野チーズ会席を愉しむ名宿5選"} url={"https://croud-travel.pages.dev/winter-hokkaido-tokachigawa-onsen-moor-swan-tokachi-beef-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 space-y-16">
@@ -377,7 +381,7 @@ export default function HokkaidoTokachigawaWinterFeature() {
                       </div>
                     </div>
 
-                    <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-amber-700 transition-colors"><a href={h.url} target="_blank" rel="noopener noreferrer">
+                    <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-amber-700 transition-colors"><a href={h.url} target="_blank" rel="sponsored noopener noreferrer">
                         {h.name}
                       </a></h3>
 
@@ -415,7 +419,7 @@ export default function HokkaidoTokachigawaWinterFeature() {
                     <a
                       href={h.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-2xl bg-amber-600 hover:bg-amber-700 text-white font-bold text-sm shadow-sm hover:shadow transition-all"
                     >
                       楽天トラベルで空室・プランを見る
@@ -637,6 +641,9 @@ export default function HokkaidoTokachigawaWinterFeature() {
               <p className="text-slate-300 text-[11px] line-clamp-2">ブナの原生林に抱かれた乳白色の秘湯と秋田郷土料理のぬくもり。</p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月北海道・十勝川温泉の初冬白鳥飛来と美肌遺産モール温泉】極上十勝牛ステーキ＆十勝野チーズ会席を愉しむ名宿5選"} url={"https://croud-travel.pages.dev/winter-hokkaido-tokachigawa-onsen-moor-swan-tokachi-beef-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-hokkaido-tokachigawa-onsen-moor-swan-tokachi-beef-stay" />
 </div>
         </section>

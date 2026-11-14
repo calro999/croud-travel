@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
@@ -65,6 +66,9 @@ export default function Page() {
             <span className="flex items-center gap-1">✅ 楽天トラベルリアルタイム空室連携</span>
           </div>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"長崎・雲仙＆島原城：雲仙地獄・名水湧水武家屋敷＆小浜夕日温泉宿 厳選ガイド"} url={"https://croud-travel.pages.dev/nagasaki-unzen-shimabara-castle-volcano-stay/"} />
       </div>
 
       {/* メインコンテンツ */}
@@ -649,6 +653,9 @@ export default function Page() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"長崎・雲仙＆島原城：雲仙地獄・名水湧水武家屋敷＆小浜夕日温泉宿 厳選ガイド"} url={"https://croud-travel.pages.dev/nagasaki-unzen-shimabara-castle-volcano-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="nagasaki-unzen-shimabara-castle-volcano-stay" />
 </div>
   );

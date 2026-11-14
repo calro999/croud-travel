@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -99,11 +100,14 @@ export default function ThemeParkActivityHubPage() {
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
             DISNEY RESORT HOTEL GUIDE
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「東京ディズニーリゾート®提携ホテル」オフィシャル＆パートナーホテル・無料シャトル宿 厳選ガイド</h1>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">「東京ディズニーリゾート提携ホテル」オフィシャル＆パートナーホテル・無料シャトル宿 厳選ガイド</h1>
           <p className="text-xs md:text-sm text-amber-100/90 leading-relaxed">
             開園から閉園まで時間を気にせず夢の世界に浸る「東京ディズニーリゾート®提携ホテル」。パーク内・舞浜エリアのオフィシャルホテルや新浦安のパートナーホテル。無料シャトルバス、ホテル内ショップ、疲れた体を癒やす展望大浴場へ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"東京ディズニーリゾート®提携ホテル：オフィシャル＆パートナーホテル・無料シャトル宿 厳選ガイド"} url={"https://croud-travel.pages.dev/tokyo-disney-resort-partner-official-hotel-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆おすすめ宿 */}
@@ -226,7 +230,7 @@ export default function ThemeParkActivityHubPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">東京ディズニーリゾート®提携ホテル：オフィシャル＆パートナーホテル・無料シャトル宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">東京ディズニーリゾート提携ホテル：オフィシャル＆パートナーホテル・無料シャトル宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「東京ディズニーリゾート®提携ホテル：オフィシャル＆パートナーホテル・無料シャトル宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -305,7 +309,7 @@ export default function ThemeParkActivityHubPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">「東京ディズニーリゾート®提携ホテル」掲載宿の所在地・アクセス・特徴データ一覧</h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">「東京ディズニーリゾート提携ホテル」掲載宿の所在地・アクセス・特徴データ一覧</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>
@@ -454,6 +458,9 @@ export default function ThemeParkActivityHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"東京ディズニーリゾート®提携ホテル：オフィシャル＆パートナーホテル・無料シャトル宿 厳選ガイド"} url={"https://croud-travel.pages.dev/tokyo-disney-resort-partner-official-hotel-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="tokyo-disney-resort-partner-official-hotel-stay" />
 </div>
   );

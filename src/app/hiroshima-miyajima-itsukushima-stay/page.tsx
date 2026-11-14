@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             潮の満ち引きで海に浮かぶ世界遺産「嚴島神社」。宮島に宿泊した人だけが出逢える、観光客が去った後の静寂な夜のライトアップと神聖な早朝参拝。名物あなごめしと宮島温泉に癒やされる特別な島時間。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"広島・宮島＆嚴島神社：海に浮かぶ大鳥居・弥山＆牡蠣・穴子飯宿 厳選ガイド"} url={"https://croud-travel.pages.dev/hiroshima-miyajima-itsukushima-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"広島・宮島＆嚴島神社：海に浮かぶ大鳥居・弥山＆牡蠣・穴子飯宿 厳選ガイド"} url={"https://croud-travel.pages.dev/hiroshima-miyajima-itsukushima-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="hiroshima-miyajima-itsukushima-stay" />
 </div>
   );

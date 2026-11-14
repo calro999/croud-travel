@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             パリッと弾けるジューシーな岡山県産シャインマスカットや清水白桃の特製スイーツ！美肌の湯として名高い美作三湯（湯原・奥津・湯郷温泉）で、極上のフルーツと名湯に心ほどける温泉旅をご提案。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"フルーツ王国岡山：シャインマスカット贅沢パフェ＆美作三湯！湯原・奥津・湯郷の美食温泉宿5選"} url={"https://croud-travel.pages.dev/spring-okayama-muscat-sweets-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"フルーツ王国岡山：シャインマスカット贅沢パフェ＆美作三湯！湯原・奥津・湯郷の美食温泉宿5選"} url={"https://croud-travel.pages.dev/spring-okayama-muscat-sweets-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="spring-okayama-muscat-sweets-stay" />
 </div>
         </section>

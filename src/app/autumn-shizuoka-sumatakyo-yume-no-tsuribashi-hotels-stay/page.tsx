@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Image from 'next/image';
@@ -63,12 +64,14 @@ export default function SumatakyoAutumnPage() {
             散策後は、寸又峡温泉や大井川流域の川根温泉へ。肌にまとわりつくようなとろみのある硫黄泉は「美女づくりの湯」として親しまれ、湯上がり後の肌がしっとりすべすべになると評判です。川根本町の特産である川根茶や山菜・川魚料理とともに、秘境の安らぎを満喫してください。
           </p>
         </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"秋の寸又峡：夢の吊橋のエメラルド湖水と鮮烈な紅葉！美女づくりの湯を満喫するおすすめ秘境宿5選「2026最新」"} url={"https://croud-travel.pages.dev/autumn-shizuoka-sumatakyo-yume-no-tsuribashi-hotels-stay/"} />
+      </div>
 
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-amber-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！寸又峡・川根温泉の厳選宿5選</h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">楽天トラベル高評価！寸又峡・川根温泉の厳選宿5選</h2>
 
           <div className="space-y-8">
 
@@ -436,6 +439,9 @@ export default function SumatakyoAutumnPage() {
               </div>
             </div>
           </div></section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"秋の寸又峡：夢の吊橋のエメラルド湖水と鮮烈な紅葉！美女づくりの湯を満喫するおすすめ秘境宿5選「2026最新」"} url={"https://croud-travel.pages.dev/autumn-shizuoka-sumatakyo-yume-no-tsuribashi-hotels-stay/"} />
+      </div>
         <div className="max-w-4xl mx-auto px-4 sm:px-6">
           <HubRelatedPosts currentSlug="autumn-shizuoka-sumatakyo-yume-no-tsuribashi-hotels-stay" />
         </div>

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import FurusatoStepSection from "@/app/components/FurusatoStepSection";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
@@ -96,6 +97,9 @@ export default function FurusatoKanrekiCelebrationStayPage() {
             </Link>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"還暦・古希・長寿祝い＆親孝行温泉旅に選ぶ極上名旅館×ふるさと納税厳選ガイド有馬・金沢湯涌・淡路島"} url={"https://croud-travel.pages.dev/furusato-tax-kanreki-celebration-oyakoukou-onsen-stay/"} />
+      </div>
 
         {/* 3つの醍醐味セクション */}
         <section className="mb-16">
@@ -518,6 +522,9 @@ export default function FurusatoKanrekiCelebrationStayPage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"還暦・古希・長寿祝い＆親孝行温泉旅に選ぶ極上名旅館×ふるさと納税厳選ガイド有馬・金沢湯涌・淡路島"} url={"https://croud-travel.pages.dev/furusato-tax-kanreki-celebration-oyakoukou-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-kanreki-celebration-oyakoukou-onsen-stay" />
 </div>
         </section>

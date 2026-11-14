@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Image from 'next/image';
@@ -17,7 +18,7 @@ export const metadata: Metadata = {
     description: '日本三古湯・三名泉の筆頭に君臨する兵庫県・有馬温泉。鉄分と塩分を豊富に含み赤褐色に輝く「金泉」と、炭酸とラドンを含む無色透明の「銀泉」というふたつの奇跡の湯を擁する聖地。ミシュランガイドに掲載され、一流の料亭旅館として名高い「欽山」や、大人の静寂を約束する「中の坊 瑞苑」など、全室スイートや専用露天風呂付き客室で過ごす最高峰の滞在。世界最高峰ブランド「神戸牛」の炭火焼きステーキや伝統会席を堪能する極上名宿5選。',
     url: 'https://croud-travel.pages.dev/winter-hyogo-arima-onsen-luxury-kinzan-gold-silver-kobe-beef-stay/',
     type: 'article',
-    siteName: 'クラウドトラベル',
+    siteName: '旅宿クラウド',
   },
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-hyogo-arima-onsen-luxury-kinzan-gold-silver-kobe-beef-stay/',
@@ -115,6 +116,9 @@ export default function LuxuryWinterFeaturePage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【日本最古の名湯・金湯銀湯を客室露天で独り占め】2026-2027年11-12月初冬の兵庫・有馬温泉"} url={"https://croud-travel.pages.dev/winter-hyogo-arima-onsen-luxury-kinzan-gold-silver-kobe-beef-stay/"} />
+      </div>
 
       {/* メインコンテンツ */}
       <main className="max-w-4xl mx-auto px-4 py-10 space-y-12">
@@ -566,6 +570,10 @@ export default function LuxuryWinterFeaturePage() {
           </div>
         </section>
 
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【日本最古の名湯・金湯銀湯を客室露天で独り占め】2026-2027年11-12月初冬の兵庫・有馬温泉"} url={"https://croud-travel.pages.dev/winter-hyogo-arima-onsen-luxury-kinzan-gold-silver-kobe-beef-stay/"} />
+      </div>
       </main>
     </div>
   );

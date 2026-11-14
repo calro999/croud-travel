@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import fs from "fs";
 import path from "path";
@@ -133,6 +134,9 @@ export default function OkinawaHubPage() {
           エメラルドグリーンの海と琉球文化が息づく沖縄。「2泊3日の効率的な回り方は？」「ビーチリゾートホテルの選び方は？」「子連れプールや雨の日スポットは？」を徹底深掘りし、おすすめの宿泊施設情報で繋ぐ総合ガイド。
         </p>
       </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"沖縄旅行 完全計画ガイド 2026：2泊3日・3泊4日モデルコース＆那覇・恩納村・美ら海水族館・ビーチリゾートホテル・レンタカー"} url={"https://croud-travel.pages.dev/okinawa/"} />
+      </div>
 
       {/* モデルコースセクション */}
       <section className="bg-white border border-cyan-950/10 rounded-3xl p-6 md:p-10 shadow-sm space-y-6">
@@ -435,6 +439,9 @@ export default function OkinawaHubPage() {
         </div>
       </section>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"沖縄旅行 完全計画ガイド 2026：2泊3日・3泊4日モデルコース＆那覇・恩納村・美ら海水族館・ビーチリゾートホテル・レンタカー"} url={"https://croud-travel.pages.dev/okinawa/"} />
+      </div>
       <HubRelatedPosts currentSlug="okinawa" />
 </div>
   );

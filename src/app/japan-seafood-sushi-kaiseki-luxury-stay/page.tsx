@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function GourmetCuisineHubPage() {
             目の前の海から揚がったばかりの命をいただく贅沢！全国屈指の漁港から毎朝届くピチピチの地魚、豪華絢爛な大漁舟盛り、カウンターで板前が握る出来立て寿司会席。波音を聞きながら海の幸を食べ尽くす至福の海辺ステイへ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"極上海鮮寿司＆舟盛り名宿：朝獲れ地魚・一本釣り鮮魚＆板前握り寿司 厳選ガイド"} url={"https://croud-travel.pages.dev/japan-seafood-sushi-kaiseki-luxury-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆おすすめ宿 */}
@@ -231,6 +235,9 @@ export default function GourmetCuisineHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"極上海鮮寿司＆舟盛り名宿：朝獲れ地魚・一本釣り鮮魚＆板前握り寿司 厳選ガイド"} url={"https://croud-travel.pages.dev/japan-seafood-sushi-kaiseki-luxury-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="japan-seafood-sushi-kaiseki-luxury-stay" />
 </div>
   );

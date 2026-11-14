@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import Link from 'next/link';
 import type { Metadata } from 'next';
@@ -16,7 +17,7 @@ export const metadata: Metadata = {
     title: '【11・12・1月島根】山陰の小京都「津和野」雪化粧の殿町通りとなまこ壁・朱塗りの千本鳥居「太皷谷稲成神社」新春初詣！日本五大稲荷・冬の伝統熱々郷土料理「うずめ飯」＆幻の石見和牛厳選名宿5選',
     description: '周囲を山々に囲まれた山陰の小京都・島根県津和野。11〜1月は雪化粧した武家屋敷の白壁となまこ壁。',
     url: 'https://croud-travel.pages.dev/winter-shimane-tsuwano-taikodani-inari-hatsumode-uzumemeshi-iwamigyu-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
     images: [{
@@ -45,11 +46,11 @@ export default function ShimaneTsuwanoWinterFeaturePage() {
     "dateModified": "2026-10-25T09:00:00+09:00",
     "author": {
       "@type": "Organization",
-      "name": "クラドトラベル編集部 温泉・神社仏閣取材班"
+      "name": "旅宿クラウド編集部 温泉・神社仏閣取材班"
     },
     "publisher": {
       "@type": "Organization",
-      "name": "クラドトラベル",
+      "name": "旅宿クラウド",
       "logo": {
         "@type": "ImageObject",
         "url": "https://croud-travel.pages.dev/logo.png"
@@ -308,6 +309,9 @@ export default function ShimaneTsuwanoWinterFeaturePage() {
             </div>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月島根】山陰の小京都「津和野」雪化粧の殿町通りとなまこ壁・朱塗りの千本鳥居「太皷谷稲成神社」新春初詣！日本五大稲荷・冬の伝統熱々郷土料理「うずめ飯」＆幻の石見和牛厳選名宿5選"} url={"https://croud-travel.pages.dev/winter-shimane-tsuwano-taikodani-inari-hatsumode-uzumemeshi-iwamigyu-stay/"} />
+      </div>
 
         {/* Main Content Area */}
         <main className="max-w-4xl mx-auto px-4 sm:px-6 py-12">
@@ -437,7 +441,7 @@ export default function ShimaneTsuwanoWinterFeaturePage() {
                       <a
                         href={h.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center justify-center w-full sm:w-auto gap-2 px-6 py-3 rounded-lg bg-red-600 hover:bg-red-700 text-white font-bold text-xs sm:text-sm shadow-sm transition"
                       >
                         <span>楽天トラベルでプラン・空室を確認</span>
@@ -586,12 +590,16 @@ export default function ShimaneTsuwanoWinterFeaturePage() {
                 島根県の旅行ガイド・宿一覧
               </Link>
               <Link href="/" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">
-                クラドトラベル トップページ
+                旅宿クラウド トップページ
               </Link>
             </div>
           </section>
 
-        </main>
+        
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月島根】山陰の小京都「津和野」雪化粧の殿町通りとなまこ壁・朱塗りの千本鳥居「太皷谷稲成神社」新春初詣！日本五大稲荷・冬の伝統熱々郷土料理「うずめ飯」＆幻の石見和牛厳選名宿5選"} url={"https://croud-travel.pages.dev/winter-shimane-tsuwano-taikodani-inari-hatsumode-uzumemeshi-iwamigyu-stay/"} />
+      </div>
+      </main>
       </article>
     </>
   );

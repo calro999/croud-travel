@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Image from 'next/image';
@@ -17,7 +18,7 @@ export const metadata: Metadata = {
     description: '11月中旬に待望の漁解禁を迎える播磨灘の極上ブランド「室津牡蠣（むろつがき）」！加熱しても身が縮まず、濃厚な甘みと弾力を誇る焼き牡蠣・牡蠣鍋を本場で味わう至福の初冬旅。「播磨の小京都」龍野の風情ある武家屋敷・白壁の町並み散策と、干潟が茜色に染まる新舞子海岸のサンセット。瀬戸内海を一望するパノラマ露天風呂に癒やされる厳選名宿5選。',
     url: 'https://croud-travel.pages.dev/winter-hyogo-tatsuno-murotsu-oyster-shinmaiko-sunset-aioi-onsen-stay/',
     type: 'article',
-    siteName: 'クラウドトラベル',
+    siteName: '旅宿クラウド',
   },
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-hyogo-tatsuno-murotsu-oyster-shinmaiko-sunset-aioi-onsen-stay/',
@@ -115,6 +116,9 @@ export default function WinterFeaturePage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【播磨灘の初冬の味覚・室津牡蠣解禁と小京都たつの白壁散策】2026-2027年11-12月の兵庫・西播磨"} url={"https://croud-travel.pages.dev/winter-hyogo-tatsuno-murotsu-oyster-shinmaiko-sunset-aioi-onsen-stay/"} />
+      </div>
 
       {/* メインコンテンツ */}
       <main className="max-w-4xl mx-auto px-4 py-10 space-y-12">
@@ -565,6 +569,10 @@ export default function WinterFeaturePage() {
           </div>
         </section>
 
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【播磨灘の初冬の味覚・室津牡蠣解禁と小京都たつの白壁散策】2026-2027年11-12月の兵庫・西播磨"} url={"https://croud-travel.pages.dev/winter-hyogo-tatsuno-murotsu-oyster-shinmaiko-sunset-aioi-onsen-stay/"} />
+      </div>
       </main>
     </div>
   );

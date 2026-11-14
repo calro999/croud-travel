@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import fs from "fs";
 import path from "path";
@@ -114,6 +115,9 @@ export default function TokyoHubPage() {
           世界を魅了する大都市・東京。「1泊2日で効率よく回るには？」「東京駅・新宿・渋谷のホテル選びは？」「夜景や朝食がすごいホテルは？」を縦掘りし、おすすめの宿泊施設情報で繋ぐ総合ガイド。
         </p>
       </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"東京観光 完全計画ガイド 2026：1泊2日・2泊3日モデルコース＆東京駅・新宿・渋谷・浅草・夜景ホテル・朝食ビュッフェ"} url={"https://croud-travel.pages.dev/tokyo/"} />
+      </div>
 
       {/* 東京駅・新宿・渋谷の公式おすすめホテル */}
       {tokyoData.station_hotel && (
@@ -377,6 +381,9 @@ export default function TokyoHubPage() {
         </section>
       )}
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"東京観光 完全計画ガイド 2026：1泊2日・2泊3日モデルコース＆東京駅・新宿・渋谷・浅草・夜景ホテル・朝食ビュッフェ"} url={"https://croud-travel.pages.dev/tokyo/"} />
+      </div>
       <HubRelatedPosts currentSlug="tokyo" />
 </div>
   );

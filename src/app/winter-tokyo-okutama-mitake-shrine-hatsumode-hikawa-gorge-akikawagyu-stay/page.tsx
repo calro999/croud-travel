@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import Link from 'next/link';
 import type { Metadata } from 'next';
@@ -299,6 +300,9 @@ export default function TokyoOkutamaWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月東京】天空の古社「武蔵御嶽神社」新春初詣と氷川渓谷の冬静寂！奥多摩わさび＆幻の極上「秋川牛」会席と清流名湯宿5選"} url={"https://croud-travel.pages.dev/winter-tokyo-okutama-mitake-shrine-hatsumode-hikawa-gorge-akikawagyu-stay/"} />
+      </div>
 
       {/* Summary Box */}
       <section className="max-w-5xl mx-auto px-4 -mt-8 relative z-20">
@@ -463,7 +467,7 @@ export default function TokyoOkutamaWinterPage() {
                     <a
                       href={hotel.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center gap-1.5 px-5 py-2.5 bg-gradient-to-r from-emerald-600 to-emerald-700 hover:from-emerald-700 hover:to-emerald-800 text-white font-bold text-xs md:text-sm rounded-xl shadow-sm transition"
                     >
                       <span>楽天トラベルでプランを見る</span>
@@ -626,6 +630,9 @@ export default function TokyoOkutamaWinterPage() {
               トップページへ戻る
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月東京】天空の古社「武蔵御嶽神社」新春初詣と氷川渓谷の冬静寂！奥多摩わさび＆幻の極上「秋川牛」会席と清流名湯宿5選"} url={"https://croud-travel.pages.dev/winter-tokyo-okutama-mitake-shrine-hatsumode-hikawa-gorge-akikawagyu-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-tokyo-okutama-mitake-shrine-hatsumode-hikawa-gorge-akikawagyu-stay" />
 </div>
         </section>

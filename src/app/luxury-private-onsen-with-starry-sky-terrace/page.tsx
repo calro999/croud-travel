@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             日本一の星空と称される長野県阿智村や八ヶ岳の高原リゾート。客室専用の星空テラスや寝湯露天風呂から、誰にも邪魔されず夜空いっぱいに広がる天の川を鑑賞できるロマンチックな隠れ宿を厳選。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"満天の星降る夜：客室専用星空テラス＆寝湯露天風呂！阿智村・八ヶ岳の夜空独占温泉宿5選"} url={"https://croud-travel.pages.dev/luxury-private-onsen-with-starry-sky-terrace/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"満天の星降る夜：客室専用星空テラス＆寝湯露天風呂！阿智村・八ヶ岳の夜空独占温泉宿5選"} url={"https://croud-travel.pages.dev/luxury-private-onsen-with-starry-sky-terrace/"} />
+      </div>
       <HubRelatedPosts currentSlug="luxury-private-onsen-with-starry-sky-terrace" />
 </div>
         </section>

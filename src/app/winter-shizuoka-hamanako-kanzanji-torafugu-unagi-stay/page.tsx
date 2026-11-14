@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
     title: '【11・12・1月静岡】冬限定「遠州灘天然とらふぐ」＆脂の乗る冬の浜名湖うなぎ・牡蠣カバ丼・三ヶ日みかん風呂とレイクビュー名宿5選',
     description: '11月から1月、静岡県・浜名湖＆舘山寺（かんざんじ）温泉は、遠州灘の荒波が育む幻の「天然とらふぐ」と、冬眠前に脂が極限まで乗る名物「浜名湖うなぎ」。',
     url: 'https://croud-travel.pages.dev/winter-shizuoka-hamanako-kanzanji-torafugu-unagi-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     images: [
       {
         url: 'https://img.travel.rakuten.co.jp/share/HOTEL/3112/3112.jpg',
@@ -49,12 +50,12 @@ export default function ShizuokaHamanakoKanzanjiWinterPage() {
     dateModified: '',
     author: {
       '@type': 'Organization',
-      name: 'クラドトラベル編集部',
+      name: '旅宿クラウド編集部',
       url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png'
@@ -293,6 +294,9 @@ export default function ShizuokaHamanakoKanzanjiWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月静岡】冬限定「遠州灘天然とらふぐ」＆脂の乗る冬の浜名湖うなぎ・牡蠣カバ丼・三ヶ日みかん風呂とレイクビュー名宿5選"} url={"https://croud-travel.pages.dev/winter-shizuoka-hamanako-kanzanji-torafugu-unagi-stay/"} />
+      </div>
 
       {/* Main Content Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 pt-12 space-y-16">
@@ -432,7 +436,7 @@ export default function ShizuokaHamanakoKanzanjiWinterPage() {
                     <a 
                       href={hotel.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="w-full inline-flex items-center justify-center gap-2 bg-gradient-to-r from-amber-700 to-amber-950 hover:from-amber-800 hover:to-black text-white font-bold py-3.5 px-6 rounded-2xl shadow-sm hover:shadow transition text-sm tracking-wide"
                     >
                       <span>楽天トラベルで空室・冬限定プランを見る</span>
@@ -614,6 +618,9 @@ export default function ShizuokaHamanakoKanzanjiWinterPage() {
               <p className="font-bold text-stone-800 line-clamp-2">冬の熱海海上花火大会と金目鯛煮付け・相模湾を一望する老舗温泉宿</p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月静岡】冬限定「遠州灘天然とらふぐ」＆脂の乗る冬の浜名湖うなぎ・牡蠣カバ丼・三ヶ日みかん風呂とレイクビュー名宿5選"} url={"https://croud-travel.pages.dev/winter-shizuoka-hamanako-kanzanji-torafugu-unagi-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-shizuoka-hamanako-kanzanji-torafugu-unagi-stay" />
 </div>
         </section>

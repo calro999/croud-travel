@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Image from 'next/image';
@@ -63,12 +64,14 @@ export default function OsakaBudgetAutumnPage() {
             観光やUSJ、お笑いライブを思い切り満喫した後は、都心に湧く本格天然温泉へ。1泊3,000円〜6,000円台というリーズナブルな価格ながら、露天風呂やサウナを備えた高スペック宿で旅の疲れを完全にリセットできます。
           </p>
         </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"秋の大阪×格安：御堂筋の黄金イチョウ並木と道頓堀グルメ！天然温泉＆大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」！天然温泉＆大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」"} url={"https://croud-travel.pages.dev/autumn-budget-osaka-midosuji-ichou-onsen-hotels-stay/"} />
+      </div>
 
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-teal-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！大阪の天然温泉付き格安ホテル5選</h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">楽天トラベル高評価！大阪の天然温泉付き格安ホテル5選</h2>
 
           <div className="space-y-8">
 
@@ -498,6 +501,9 @@ export default function OsakaBudgetAutumnPage() {
               </div>
             </div>
           </div></section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"秋の大阪×格安：御堂筋の黄金イチョウ並木と道頓堀グルメ！天然温泉＆大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」！天然温泉＆大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」"} url={"https://croud-travel.pages.dev/autumn-budget-osaka-midosuji-ichou-onsen-hotels-stay/"} />
+      </div>
         <div className="max-w-4xl mx-auto px-4 sm:px-6">
           <HubRelatedPosts currentSlug="autumn-budget-osaka-midosuji-ichou-onsen-hotels-stay" />
         </div>

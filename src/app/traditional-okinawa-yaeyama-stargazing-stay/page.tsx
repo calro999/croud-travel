@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             国内初の星空保護区に認定された八重山諸島の圧倒的な星空！全室プライベートプールやテラスを備えたリゾートヴィラから、天の川や南十字星を独占鑑賞できる極上のアイランドステイ。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"日本屈指の満天星空＆南十字星：石垣・西表・小浜島！大自然とプライベートヴィラ極上宿5選"} url={"https://croud-travel.pages.dev/traditional-okinawa-yaeyama-stargazing-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"日本屈指の満天星空＆南十字星：石垣・西表・小浜島！大自然とプライベートヴィラ極上宿5選"} url={"https://croud-travel.pages.dev/traditional-okinawa-yaeyama-stargazing-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="traditional-okinawa-yaeyama-stargazing-stay" />
 </div>
         </section>

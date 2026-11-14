@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             世界中から観光客が訪れる冬の世界的名所「地獄谷野猿公苑のスノーモンキー」！雪のなかで気持ちよさそうに天然温泉に浸かる猿たちを観察し、石畳の風情ある渋温泉街で厄除け「九湯めぐり」を楽しむ冬の信州旅。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【12月開幕！地獄谷スノーモンキー＆渋温泉郷】温泉に入る猿鑑賞と九湯めぐりレトロ宿5選"} url={"https://croud-travel.pages.dev/winter-nagano-jigokudani-snow-monkey-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -542,7 +546,7 @@ export default function FeaturePage() {
                 <span className="inline-block text-[10px] font-bold px-2 py-0.5 rounded bg-amber-100 text-amber-800 mb-2">
                   厳選おすすめ特集
                 </span>
-                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">【古民家再生・町家オーベルジュ×ふるさと納税】築100年の土蔵・重伝建商家に泊まる文化財ステイ完全ガイド | クラウドトラベル</h3>
+                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">【古民家再生・町家オーベルジュ×ふるさと納税】築100年の土蔵・重伝建商家に泊まる文化財ステイ完全ガイド | 旅宿クラウド</h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
                 特集を見る →
@@ -578,6 +582,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【12月開幕！地獄谷スノーモンキー＆渋温泉郷】温泉に入る猿鑑賞と九湯めぐりレトロ宿5選"} url={"https://croud-travel.pages.dev/winter-nagano-jigokudani-snow-monkey-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-nagano-jigokudani-snow-monkey-stay" />
 </div>
         </section>

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月福岡・水郷柳川の冬の風物詩「こたつ舟」川下り】名物元祖うなぎのせいろ蒸し＆博多和牛会席を味わう城下町・掘割温泉名宿5選',
     description: '11月から12月にかけて、北原白秋の故郷として知られる水郷・福岡県柳川は、どんこ舟に温かい火鉢やこたつを乗せた冬の風物詩「こたつ舟」が運航を開始し。',
     url: 'https://croud-travel.pages.dev/winter-fukuoka-yanagawa-onsen-kotatsubune-unagi-seiromushi-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -170,7 +171,7 @@ export default function WinterFukuokaYanagawaPage() {
         'isPartOf': {
           '@type': 'WebSite',
           '@id': 'https://croud-travel.pages.dev/#website',
-          'name': 'クラドトラベル',
+          'name': '旅宿クラウド',
           'url': 'https://croud-travel.pages.dev/'
         },
         'headline': "【11・12月福岡・水郷柳川の冬の風物詩「こたつ舟」川下り】名物元祖うなぎのせいろ蒸し＆博多和牛会席を味わう城下町・掘割温泉名宿5選",
@@ -181,7 +182,7 @@ export default function WinterFukuokaYanagawaPage() {
         'dateModified': '2026-10-25T00:00:00+09:00',
         'publisher': {
           '@type': 'Organization',
-          'name': 'クラドトラベル編集部',
+          'name': '旅宿クラウド編集部',
           'url': 'https://croud-travel.pages.dev/'
         }
       },
@@ -273,6 +274,9 @@ export default function WinterFukuokaYanagawaPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月福岡・水郷柳川の冬の風物詩「こたつ舟」川下り】名物元祖うなぎのせいろ蒸し＆博多和牛会席を味わう城下町・掘割温泉名宿5選"} url={"https://croud-travel.pages.dev/winter-fukuoka-yanagawa-onsen-kotatsubune-unagi-seiromushi-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
@@ -452,7 +456,7 @@ export default function WinterFukuokaYanagawaPage() {
                       <a
                         href={hotel.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-2 bg-gradient-to-r from-teal-700 to-teal-800 hover:from-teal-800 hover:to-teal-900 text-white font-bold text-sm px-6 py-3 rounded-xl shadow-md hover:shadow-lg transition transform hover:-translate-y-0.5"
                       >
                         <span>空室・料金プランを確認</span>
@@ -622,6 +626,9 @@ export default function WinterFukuokaYanagawaPage() {
               </p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月福岡・水郷柳川の冬の風物詩「こたつ舟」川下り】名物元祖うなぎのせいろ蒸し＆博多和牛会席を味わう城下町・掘割温泉名宿5選"} url={"https://croud-travel.pages.dev/winter-fukuoka-yanagawa-onsen-kotatsubune-unagi-seiromushi-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-fukuoka-yanagawa-onsen-kotatsubune-unagi-seiromushi-stay" />
 </div>
         </section>

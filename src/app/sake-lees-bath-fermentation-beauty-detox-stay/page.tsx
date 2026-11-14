@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function SakeTourismHubPage() {
             「酒造りに携わる杜氏の手は、なぜ白くすべすべなのか」。その秘密は、米と糀が醸し出す天然アミノ酸とコウジ酸。湯船にたっぷりと注がれる純米酒や、酒粕を溶かしたミルキーな酒粕風呂。身体の芯から温まり、発酵美食で体内から美しく整うデトックスステイへ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"酒粕風呂・日本酒風呂＆発酵美肌デトックス宿：杜氏の手の白さ・糀スパ 厳選ガイド"} url={"https://croud-travel.pages.dev/sake-lees-bath-fermentation-beauty-detox-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆厳選宿 */}
@@ -231,6 +235,9 @@ export default function SakeTourismHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"酒粕風呂・日本酒風呂＆発酵美肌デトックス宿：杜氏の手の白さ・糀スパ 厳選ガイド"} url={"https://croud-travel.pages.dev/sake-lees-bath-fermentation-beauty-detox-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="sake-lees-bath-fermentation-beauty-detox-stay" />
 </div>
   );

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function ThemeParkActivityHubPage() {
             ゲートをくぐればすぐそこは熱狂のエンターテインメント！ユニバーサル・スタジオ・ジャパン（USJ）のオフィシャルホテル。パークまで徒歩1〜3分の抜群のロケーション。人気キャラクターのコンセプトルームや夜景スパで余韻に浸る旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"ユニバーサル・スタジオ・ジャパン（USJ）公認ホテル：オフィシャルホテル＆駅直結宿 厳選ガイド"} url={"https://croud-travel.pages.dev/usj-partner-official-hotel-osaka-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆おすすめ宿 */}
@@ -231,6 +235,9 @@ export default function ThemeParkActivityHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"ユニバーサル・スタジオ・ジャパン（USJ）公認ホテル：オフィシャルホテル＆駅直結宿 厳選ガイド"} url={"https://croud-travel.pages.dev/usj-partner-official-hotel-osaka-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="usj-partner-official-hotel-osaka-stay" />
 </div>
   );

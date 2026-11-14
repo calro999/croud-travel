@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
@@ -36,7 +37,7 @@ export default function Page() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "本格バレルサウナ＆薪ストーブ宿完全ガイド【大自然森林浴と湖畔ダイブ】 | クラウドトラベル",
+    "headline": "本格バレルサウナ＆薪ストーブ宿完全ガイド【大自然森林浴と湖畔ダイブ】 | 旅宿クラウド",
     "description": "本格バレルサウナ、薪ストーブの柔らかい熱、セルフロウリュ、湖畔ダイブや清流クールダウンが叶う大自然サウナリゾートを特集。森林外気浴で極上のディープリラックスへ。",
     "url": "https://croud-travel.pages.dev/barrel-sauna-wood-stove-nature-totonoi-resort-stay/",
     "publisher": {
@@ -50,7 +51,7 @@ export default function Page() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "本格バレルサウナ＆薪ストーブ宿完全ガイド【大自然森林浴と湖畔ダイブ】 | クラウドトラベル", "item": "https://croud-travel.pages.dev/barrel-sauna-wood-stove-nature-totonoi-resort-stay/" }
+      { "@type": "ListItem", "position": 2, "name": "本格バレルサウナ＆薪ストーブ宿完全ガイド【大自然森林浴と湖畔ダイブ】 | 旅宿クラウド", "item": "https://croud-travel.pages.dev/barrel-sauna-wood-stove-nature-totonoi-resort-stay/" }
     ]
   };
 
@@ -81,6 +82,9 @@ export default function Page() {
             円筒形の樽型構造が生み出す熱対流と、パチパチとはぜる薪ストーブの柔らかな熱。天然木の香りに包まれながらセルフロウリュを楽しんだ後は、目の前の湖や清流へダイブ、あるいは原生林を渡る風を肌で感じる外気浴デッキへ。現代の喧騒から完全に解き放たれ、五感が研ぎ澄まされる至福のネイチャーサウナ体験をお届けします。
           </p>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"本格バレルサウナ＆薪ストーブ宿厳選ガイド「大自然森林浴と湖畔ダイブ」"} url={"https://croud-travel.pages.dev/barrel-sauna-wood-stove-nature-totonoi-resort-stay/"} />
+      </div>
 
         {/* メインコンテンツセクション */}
         
@@ -308,8 +312,7 @@ export default function Page() {
 
         {/* よくある質問 FAQ */}
         <section className="mb-16 bg-white rounded-2xl shadow-sm border border-emerald-900/10 p-6 md:p-8">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2"><span className="w-2 h-7 bg-emerald-700 rounded-full inline-block"></span>
-            よくある質問・サウナリゾートの楽しみ方</h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">よくある質問・サウナリゾートの楽しみ方</h2>
           <div className="space-y-4">
             
             <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
@@ -500,6 +503,9 @@ export default function Page() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"本格バレルサウナ＆薪ストーブ宿厳選ガイド「大自然森林浴と湖畔ダイブ」"} url={"https://croud-travel.pages.dev/barrel-sauna-wood-stove-nature-totonoi-resort-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="barrel-sauna-wood-stove-nature-totonoi-resort-stay" />
 </div>
         </section>

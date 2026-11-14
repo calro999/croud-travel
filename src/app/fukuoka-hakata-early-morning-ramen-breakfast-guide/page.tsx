@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -179,6 +180,9 @@ export default function FukuokaHakataEarlyMorningGuidePage() {
           </div>
         </div>
       </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"博多・天神 早朝から食べられる長浜ラーメン＆朝食ビュッフェ：朝6時台オープンの市場めし完全版"} url={"https://croud-travel.pages.dev/fukuoka-hakata-early-morning-ramen-breakfast-guide/"} />
+      </div>
 
       {/* Main Container */}
       <div className="max-w-4xl mx-auto px-4 sm:px-6 mt-8 space-y-12">
@@ -451,6 +455,9 @@ export default function FukuokaHakataEarlyMorningGuidePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"博多・天神 早朝から食べられる長浜ラーメン＆朝食ビュッフェ：朝6時台オープンの市場めし完全版"} url={"https://croud-travel.pages.dev/fukuoka-hakata-early-morning-ramen-breakfast-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="fukuoka-hakata-early-morning-ramen-breakfast-guide" />
 </div>
         </section>

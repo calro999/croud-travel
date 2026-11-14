@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             重厚で美しい伝統工芸「南部鉄器」の鍋でいただく最高峰ブランド牛「前沢牛」すき焼きと、本場盛岡冷麺！宮沢賢治ゆかりの花巻温泉郷や繋温泉で、東北の豊かな文化と名湯露天風呂に癒やされる旅。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"盛岡冷麺＆前沢牛・花巻温泉郷：南部鉄器の器美学と岩手最高峰の美食名湯宿5選"} url={"https://croud-travel.pages.dev/traditional-iwate-morioka-reimen-nanbu-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"盛岡冷麺＆前沢牛・花巻温泉郷：南部鉄器の器美学と岩手最高峰の美食名湯宿5選"} url={"https://croud-travel.pages.dev/traditional-iwate-morioka-reimen-nanbu-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="traditional-iwate-morioka-reimen-nanbu-stay" />
 </div>
         </section>

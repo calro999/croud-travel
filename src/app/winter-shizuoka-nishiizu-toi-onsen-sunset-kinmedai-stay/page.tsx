@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
     title: '【11・12・1月静岡】西伊豆・土肥温泉の黄金夕日富士と極上寒金目鯛姿煮＆伊勢海老・日本一早咲きの土肥桜露天を巡る名宿5選',
     description: '11月から1月、温暖な黒潮が洗う西伊豆最古の名湯「土肥（とい）温泉」は、駿河湾の彼方に雪化粧した富士山を望む絶景と。',
     url: 'https://croud-travel.pages.dev/winter-shizuoka-nishiizu-toi-onsen-sunset-kinmedai-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -56,12 +57,12 @@ export default function ShizuokaNishiizuToiOnsenWinterPage() {
         "dateModified": "2026-10-18T00:00:00+09:00",
         "author": {
           "@type": "Organization",
-          "name": "クラドトラベル 絶景・美食温泉取材班",
+          "name": "旅宿クラウド 絶景・美食温泉取材班",
           "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
-          "name": "クラドトラベル",
+          "name": "旅宿クラウド",
           "url": "https://croud-travel.pages.dev",
           "logo": {
             "@type": "ImageObject",
@@ -256,6 +257,9 @@ export default function ShizuokaNishiizuToiOnsenWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月静岡】西伊豆・土肥温泉の黄金夕日富士と極上寒金目鯛姿煮＆伊勢海老・日本一早咲きの土肥桜露天を巡る名宿5選"} url={"https://croud-travel.pages.dev/winter-shizuoka-nishiizu-toi-onsen-sunset-kinmedai-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 mt-10 space-y-12">
@@ -361,7 +365,7 @@ export default function ShizuokaNishiizuToiOnsenWinterPage() {
                       <a 
                         href={h.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-1.5 bg-orange-600 hover:bg-orange-700 text-white font-bold text-xs px-4 py-2 rounded-xl shadow-xs transition"
                       >
                         楽天トラベルで空室・プランを見る
@@ -550,6 +554,9 @@ export default function ShizuokaNishiizuToiOnsenWinterPage() {
               <p className="font-bold text-stone-800 line-clamp-2">伊良湖天然とらふぐと新源泉美肌湯・渥美牛＆夕日パノラマ名宿</p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月静岡】西伊豆・土肥温泉の黄金夕日富士と極上寒金目鯛姿煮＆伊勢海老・日本一早咲きの土肥桜露天を巡る名宿5選"} url={"https://croud-travel.pages.dev/winter-shizuoka-nishiizu-toi-onsen-sunset-kinmedai-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-shizuoka-nishiizu-toi-onsen-sunset-kinmedai-stay" />
 </div>
         </section>

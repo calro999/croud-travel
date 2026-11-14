@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -98,6 +99,9 @@ export default function KoyasanPassPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"高野山・世界遺産きっぷ完全攻略：南海電鉄＋高野山内バス乗り放題でいくら浮く？宿坊ステイ＆金剛峯寺"} url={"https://croud-travel.pages.dev/koyasan-world-heritage-ticket-guide/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
@@ -717,6 +721,9 @@ export default function KoyasanPassPage() {
         </div>
       </footer>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"高野山・世界遺産きっぷ完全攻略：南海電鉄＋高野山内バス乗り放題でいくら浮く？宿坊ステイ＆金剛峯寺"} url={"https://croud-travel.pages.dev/koyasan-world-heritage-ticket-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="koyasan-world-heritage-ticket-guide" />
 </div>
   );

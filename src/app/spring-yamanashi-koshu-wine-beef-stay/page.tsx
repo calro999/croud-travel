@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             ワインの搾りかすを食べて育った柔らかくジューシーな「甲州ワインビーフ」と、世界が認める日本ワイン「甲州」の贅沢マリアージュ！首都圏からアクセスの良い石和温泉で、美食と美肌湯に酔いしれる週末旅。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"甲州ワインビーフ＆勝沼ワイナリー：芳醇ワインペアリングと石和温泉の美食宿5選"} url={"https://croud-travel.pages.dev/spring-yamanashi-koshu-wine-beef-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"甲州ワインビーフ＆勝沼ワイナリー：芳醇ワインペアリングと石和温泉の美食宿5選"} url={"https://croud-travel.pages.dev/spring-yamanashi-koshu-wine-beef-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="spring-yamanashi-koshu-wine-beef-stay" />
 </div>
         </section>

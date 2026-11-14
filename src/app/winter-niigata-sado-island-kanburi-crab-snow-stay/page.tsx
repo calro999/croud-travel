@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
     title: '【11・12・1月佐渡】冬の王者「佐渡寒ブリ」と活本ズワイガニ・雪化粧の佐渡金山＆日本海絶景の佐渡温泉を堪能する名宿5選',
     description: '11月から1月、日本海に浮かぶ新潟県・佐渡島は、冬の味覚の王者が勢揃いする一年で最も贅沢なグルメシーズンを迎えます。',
     url: 'https://croud-travel.pages.dev/winter-niigata-sado-island-kanburi-crab-snow-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     images: [
       {
         url: 'https://img.travel.rakuten.co.jp/share/HOTEL/6196/6196.jpg',
@@ -48,7 +49,7 @@ export default function NiigataSadoIslandPage() {
         "isPartOf": {
           "@type": "WebSite",
           "@id": "https://croud-travel.pages.dev/#website",
-          "name": "クラドトラベル",
+          "name": "旅宿クラウド",
           "url": "https://croud-travel.pages.dev"
         },
         "headline": "【11・12・1月佐渡】冬の王者「佐渡寒ブリ」と活本ズワイガニ・雪化粧の佐渡金山＆日本海絶景の佐渡温泉を堪能する名宿5選",
@@ -58,11 +59,11 @@ export default function NiigataSadoIslandPage() {
         "dateModified": "2026-10-18T00:00:00+09:00",
         "author": {
           "@type": "Organization",
-          "name": "クラドトラベル編集部"
+          "name": "旅宿クラウド編集部"
         },
         "publisher": {
           "@type": "Organization",
-          "name": "クラドトラベル",
+          "name": "旅宿クラウド",
           "url": "https://croud-travel.pages.dev",
           "logo": {
             "@type": "ImageObject",
@@ -257,6 +258,9 @@ export default function NiigataSadoIslandPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月佐渡】冬の王者「佐渡寒ブリ」と活本ズワイガニ・雪化粧の佐渡金山＆日本海絶景の佐渡温泉を堪能する名宿5選"} url={"https://croud-travel.pages.dev/winter-niigata-sado-island-kanburi-crab-snow-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 mt-10 space-y-12">
@@ -363,7 +367,7 @@ export default function NiigataSadoIslandPage() {
                       <a 
                         href={h.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-1.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs px-4 py-2 rounded-xl shadow-xs transition"
                       >
                         楽天トラベルで空室・プランを見る
@@ -560,6 +564,9 @@ export default function NiigataSadoIslandPage() {
               <p className="font-bold text-stone-800 line-clamp-2">日本海の夕日絶景露天風呂と村上伝統鮭料理・極上村上牛を味わう名宿</p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月佐渡】冬の王者「佐渡寒ブリ」と活本ズワイガニ・雪化粧の佐渡金山＆日本海絶景の佐渡温泉を堪能する名宿5選"} url={"https://croud-travel.pages.dev/winter-niigata-sado-island-kanburi-crab-snow-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-niigata-sado-island-kanburi-crab-snow-stay" />
 </div>
         </section>

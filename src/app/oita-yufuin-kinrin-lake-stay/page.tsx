@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             豊後富士と称される美しい「由布岳」の麓。温泉と冷泉が同時に湧き出る神秘の「金鱗湖」に立ち上る朝霧。大人の上質な隠れ家旅館が点在する日本屈指の温泉リゾートへ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"大分・由布院：金鱗湖・湯の坪街道＆由布岳パノラマ極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/oita-yufuin-kinrin-lake-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -231,6 +235,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"大分・由布院：金鱗湖・湯の坪街道＆由布岳パノラマ極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/oita-yufuin-kinrin-lake-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="oita-yufuin-kinrin-lake-stay" />
 </div>
   );

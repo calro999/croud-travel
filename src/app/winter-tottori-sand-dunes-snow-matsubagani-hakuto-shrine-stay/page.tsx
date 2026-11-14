@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -185,6 +186,9 @@ export default function TottoriSandDunesPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【冬の鳥取砂丘＆白兎神社初詣】雪砂丘と神秘の風紋！因幡の白兎縁結び＆本場松葉ガニ・鳥取温泉を味わい尽くす厳選宿5選"} url={"https://croud-travel.pages.dev/winter-tottori-sand-dunes-snow-matsubagani-hakuto-shrine-stay/"} />
+      </div>
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12">
@@ -737,6 +741,10 @@ export default function TottoriSandDunesPage() {
             </Link>
           </div>
         </section>
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【冬の鳥取砂丘＆白兎神社初詣】雪砂丘と神秘の風紋！因幡の白兎縁結び＆本場松葉ガニ・鳥取温泉を味わい尽くす厳選宿5選"} url={"https://croud-travel.pages.dev/winter-tottori-sand-dunes-snow-matsubagani-hakuto-shrine-stay/"} />
+      </div>
       </main>
     </div>
   );

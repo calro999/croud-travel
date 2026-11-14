@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             風にそよぐ笹の音と幽玄なライトアップに包まれる竹林露天風呂。客室専用ウッドデッキや離れの露天風呂から美しい竹林庭園を独占できる、贅沢で静寂に満ちた隠れ宿を厳選紹介。大人の極上休日を。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"竹林の静寂美：夜のライトアップとプライベート竹林露天！京都・伊豆の風雅な離れ隠れ宿5選"} url={"https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-bamboo-deck/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"竹林の静寂美：夜のライトアップとプライベート竹林露天！京都・伊豆の風雅な離れ隠れ宿5選"} url={"https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-bamboo-deck/"} />
+      </div>
       <HubRelatedPosts currentSlug="luxury-private-onsen-with-scenic-bamboo-deck" />
 </div>
         </section>

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -176,6 +177,9 @@ export default function OkinawaRainyDayIndoorAquariumCraftGuidePage() {
           </div>
         </div>
       </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"沖縄 雨の日の観光厳選ガイド：美ら海水族館・DMMかりゆし・やちむん通り陶芸体験＆屋内プール付きホテル"} url={"https://croud-travel.pages.dev/okinawa-rainy-day-indoor-aquarium-craft-guide/"} />
+      </div>
 
       {/* 楽天トラベルクーポンプロモーション */}
       <section className="max-w-5xl mx-auto px-4 -mt-8 relative z-20">
@@ -330,7 +334,7 @@ export default function OkinawaRainyDayIndoorAquariumCraftGuidePage() {
 
         {/* セクション4：沖縄の雨天ドライブ注意点＆快適テク */}
         <section className="bg-gradient-to-r from-cyan-900 to-slate-900 text-white rounded-3xl p-6 sm:p-8 shadow-lg">
-          <h2 className="text-xl sm:text-2xl font-bold mb-4 flex items-center gap-2"><span>️</span> 沖縄の雨・スコール時レンタカードライブの必須知識</h2>
+          <h2 className="text-xl sm:text-2xl font-bold mb-4 flex items-center gap-2">沖縄の雨・スコール時レンタカードライブの必須知識</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-5 text-xs sm:text-sm text-slate-300">
             <div className="p-4 bg-slate-800/80 rounded-2xl border border-cyan-800/50">
               <strong className="text-cyan-300 block mb-1 text-sm">① 琉球石灰岩のアスファルトは超滑る！</strong>
@@ -449,6 +453,9 @@ export default function OkinawaRainyDayIndoorAquariumCraftGuidePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"沖縄 雨の日の観光厳選ガイド：美ら海水族館・DMMかりゆし・やちむん通り陶芸体験＆屋内プール付きホテル"} url={"https://croud-travel.pages.dev/okinawa-rainy-day-indoor-aquarium-craft-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="okinawa-rainy-day-indoor-aquarium-craft-guide" />
 </div>
         </section>

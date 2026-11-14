@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import Link from 'next/link';
 import type { Metadata } from 'next';
@@ -299,6 +300,9 @@ export default function GunmaKiryuWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月群馬】織物の都・桐生新町と床もみじの名刹「宝徳寺」新春初詣！冬の熱々「幅広ひもかわうどん」＆上州牛・両毛名宿5選"} url={"https://croud-travel.pages.dev/winter-gunma-kiryu-houtokuji-hatsumode-himokawa-udon-joshugyu-stay/"} />
+      </div>
 
       {/* Summary Box */}
       <section className="max-w-5xl mx-auto px-4 -mt-8 relative z-20">
@@ -492,7 +496,7 @@ export default function GunmaKiryuWinterPage() {
                         </span>
                       </div>
 
-                      <h3 className="text-xl md:text-2xl font-black text-slate-900 hover:text-indigo-800 transition"><a href={hotel.url} target="_blank" rel="noopener noreferrer">
+                      <h3 className="text-xl md:text-2xl font-black text-slate-900 hover:text-indigo-800 transition"><a href={hotel.url} target="_blank" rel="sponsored noopener noreferrer">
                           {hotel.name}
                         </a></h3>
 
@@ -538,7 +542,7 @@ export default function GunmaKiryuWinterPage() {
                       <a 
                         href={hotel.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-2 px-6 py-3 bg-gradient-to-r from-red-600 to-rose-600 hover:from-red-700 hover:to-rose-700 text-white font-black text-xs md:text-sm rounded-xl shadow-md hover:shadow-lg transition transform active:scale-95"
                       >
                         <span>プラン詳細・空室確認</span>
@@ -647,6 +651,9 @@ export default function GunmaKiryuWinterPage() {
               トップページへ戻る
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月群馬】織物の都・桐生新町と床もみじの名刹「宝徳寺」新春初詣！冬の熱々「幅広ひもかわうどん」＆上州牛・両毛名宿5選"} url={"https://croud-travel.pages.dev/winter-gunma-kiryu-houtokuji-hatsumode-himokawa-udon-joshugyu-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-gunma-kiryu-houtokuji-hatsumode-himokawa-udon-joshugyu-stay" />
 </div>
         </section>

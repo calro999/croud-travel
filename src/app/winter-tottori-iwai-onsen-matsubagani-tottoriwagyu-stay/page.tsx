@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
     title: '【11・12月山陰】11月解禁の本場鳥取松葉ガニと山陰最古1300年の名湯「湯かむり」・鳥取和牛＆世界ジオパーク浦富海岸を巡る名宿5選',
     description: '毎年11月6日、日本海の荒波が冬の始まりを告げると同時に、山陰の海岸線は歓喜に包まれます。冬の味覚の絶対王者「松葉ガニ（ズワイガニの雄）」の。',
     url: 'https://croud-travel.pages.dev/winter-tottori-iwai-onsen-matsubagani-tottoriwagyu-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -48,7 +49,7 @@ export default function TottoriIwaiUradomeWinterPage() {
         "isPartOf": {
           "@type": "WebSite",
           "@id": "https://croud-travel.pages.dev/#website",
-          "name": "クラドトラベル",
+          "name": "旅宿クラウド",
           "url": "https://croud-travel.pages.dev/"
         },
         "headline": "【11・12月山陰】11月解禁の本場鳥取松葉ガニと山陰最古1300年の名湯「湯かむり」・鳥取和牛＆世界ジオパーク浦富海岸を巡る名宿5選",
@@ -59,7 +60,7 @@ export default function TottoriIwaiUradomeWinterPage() {
         "mainEntityOfPage": "https://croud-travel.pages.dev/winter-tottori-iwai-onsen-matsubagani-tottoriwagyu-stay/",
         "publisher": {
           "@type": "Organization",
-          "name": "クラドトラベル編集部",
+          "name": "旅宿クラウド編集部",
           "url": "https://croud-travel.pages.dev/"
         }
       },
@@ -374,6 +375,9 @@ export default function TottoriIwaiUradomeWinterPage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月山陰】11月解禁の本場鳥取松葉ガニと山陰最古1300年の名湯「湯かむり」・鳥取和牛＆世界ジオパーク浦富海岸を巡る名宿5選"} url={"https://croud-travel.pages.dev/winter-tottori-iwai-onsen-matsubagani-tottoriwagyu-stay/"} />
+      </div>
 
       {/* Main Content Container */}
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-12">
@@ -495,7 +499,7 @@ export default function TottoriIwaiUradomeWinterPage() {
                     <a
                       href={hotel.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center gap-2 bg-gradient-to-r from-sky-800 to-blue-900 hover:from-sky-900 hover:to-blue-950 text-white font-bold text-xs sm:text-sm px-6 py-3 rounded-2xl shadow-xs hover:shadow-md transition duration-200"
                     >
                       <span>楽天トラベルでプラン詳細・空室確認</span>
@@ -683,6 +687,9 @@ export default function TottoriIwaiUradomeWinterPage() {
               <p className="font-bold text-stone-800 line-clamp-2">最高級柴山ゴールド松葉ガニと香住温泉・日本海冬美食名宿</p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月山陰】11月解禁の本場鳥取松葉ガニと山陰最古1300年の名湯「湯かむり」・鳥取和牛＆世界ジオパーク浦富海岸を巡る名宿5選"} url={"https://croud-travel.pages.dev/winter-tottori-iwai-onsen-matsubagani-tottoriwagyu-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-tottori-iwai-onsen-matsubagani-tottoriwagyu-stay" />
 </div>
         </section>

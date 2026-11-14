@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -14,7 +15,7 @@ export const metadata: Metadata = {
     title: '有馬温泉をふるさと納税でお得に旅する！金泉・銀泉のダブル湯巡り＆極上神戸牛！老舗名門宿特集｜兵衛向陽閣・欽山・中の坊瑞苑',
     description: '日本三古湯・三名泉の誉れ高き名湯・兵庫県有馬温泉を楽天ふるさと納税でお得に贅沢ステイ！創業七百年の伝統を誇る「兵衛向陽閣」、ミシュラン掲載の大人の料亭旅館「欽山」、十三歳未満お断りの至高のおこもり宿「中の坊 瑞苑」を徹底比較。神戸牛会席や神戸市トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-arima-onsen-gold-silver-kobe-beef-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -28,12 +29,12 @@ export default function FurusatoArticlePage() {
     description: '日本三古湯・三名泉の誉れ高き名湯・兵庫県有馬温泉を楽天ふるさと納税でお得に贅沢ステイ！創業七百年の伝統を誇る「兵衛向陽閣」、ミシュラン掲載の大人の料亭旅館「欽山」、十三歳未満お断りの至高のおこもり宿「中の坊 瑞苑」を徹底比較。神戸牛会席や神戸市トラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル 観光・ふるさと納税調査班',
+      name: '旅宿クラウド 観光・ふるさと納税調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -80,6 +81,9 @@ export default function FurusatoArticlePage() {
           日本三古湯・三名泉の誉れ高き名湯・兵庫県有馬温泉を楽天ふるさと納税でお得に贅沢ステイ！創業七百年の伝統を誇る「兵衛向陽閣」、ミシュラン掲載の大人の料亭旅館「欽山」、十三歳未満お断りの至高のおこもり宿「中の坊 瑞苑」を徹底比較。神戸牛会席や神戸市トラベルクーポン活用術を網羅。
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"有馬温泉をふるさと納税でお得に旅する！金泉・銀泉のダブル湯巡り＆極上神戸牛！老舗名門宿特集"} url={"https://croud-travel.pages.dev/furusato-tax-arima-onsen-gold-silver-kobe-beef-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
@@ -360,7 +364,7 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 有馬温泉街・湯本坂散策＆六甲山アクティビティガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">有馬温泉街・湯本坂散策＆六甲山アクティビティガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
@@ -403,7 +407,7 @@ export default function FurusatoArticlePage() {
                 Step 1: 楽天ふるさと納税で「兵庫県神戸市」クーポンを獲得
               </span>
               <p className="text-stone-300 text-xs sm:text-sm leading-relaxed">
-                楽天ふるさと納税で神戸市を選び、寄付額の30%相当となるトラベルクーポンを返礼品として申し込みます。楽天ポイントも通常通り付与されます。
+                楽天ふるさと納税で神戸市を選び、寄付額の30%相当となるトラベルクーポンを返礼品として申し込みます。クーポンは寄附翌日から最長3年間利用可能です。
               </p>
             </div>
             <div className="bg-stone-900/60 p-4 rounded-2xl border border-amber-500/20 space-y-2">
@@ -586,6 +590,9 @@ export default function FurusatoArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"有馬温泉をふるさと納税でお得に旅する！金泉・銀泉のダブル湯巡り＆極上神戸牛！老舗名門宿特集"} url={"https://croud-travel.pages.dev/furusato-tax-arima-onsen-gold-silver-kobe-beef-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-arima-onsen-gold-silver-kobe-beef-stay" />
 </div>
         </section>

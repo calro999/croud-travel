@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -164,6 +165,9 @@ export default function HighwayBusArticlePage() {
             東海道新幹線なら東京〜名古屋約1時間35分・片道約11,300円。一方、高速バスなら東名・新東名高速経由で片道約2,000円〜5,000円！新幹線の半額以下で移動し、浮いたお金で本場「あつた蓬莱軒のひつまぶし」や名駅タワーホテルを楽しむ贅沢旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"東京〜名古屋：新幹線 vs 高速バス徹底比較！片道2,000円〜行く名古屋めし爆食1泊2日モデルコース"} url={"https://croud-travel.pages.dev/tokyo-nagoya-bus-vs-shinkansen-guide/"} />
       </div>
 
       {/* 📊 交通手段・料金・所要時間の徹底比較テーブル */}
@@ -555,6 +559,9 @@ export default function HighwayBusArticlePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"東京〜名古屋：新幹線 vs 高速バス徹底比較！片道2,000円〜行く名古屋めし爆食1泊2日モデルコース"} url={"https://croud-travel.pages.dev/tokyo-nagoya-bus-vs-shinkansen-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="tokyo-nagoya-bus-vs-shinkansen-guide" />
 </div>
   );

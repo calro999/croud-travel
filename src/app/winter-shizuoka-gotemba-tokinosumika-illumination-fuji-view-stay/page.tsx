@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -258,6 +259,9 @@ export default function ShizuokaGotembaWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月静岡】御殿場＆裾野！時之栖イルミ＆アウトレットと冬の富士山展望露天風呂名宿5選"} url={"https://croud-travel.pages.dev/winter-shizuoka-gotemba-tokinosumika-illumination-fuji-view-stay/"} />
+      </div>
 
       {/* Main Content Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 pt-12 space-y-16">
@@ -403,7 +407,7 @@ export default function ShizuokaGotembaWinterPage() {
                       <a 
                         href={h.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center justify-center gap-2 w-full py-3.5 px-6 rounded-xl bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-500 hover:to-indigo-500 text-white font-bold text-sm shadow-sm hover:shadow transition-all text-center"
                       >
                         <span>楽天トラベルで空室・宿泊プランを確認</span>
@@ -598,6 +602,9 @@ export default function ShizuokaGotembaWinterPage() {
         <p>© 2026 地域の宿探訪 - 日本の四季と極上ホテル・旅館を巡る旅</p>
       </footer>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月静岡】御殿場＆裾野！時之栖イルミ＆アウトレットと冬の富士山展望露天風呂名宿5選"} url={"https://croud-travel.pages.dev/winter-shizuoka-gotemba-tokinosumika-illumination-fuji-view-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-shizuoka-gotemba-tokinosumika-illumination-fuji-view-stay" />
 </div>
   );

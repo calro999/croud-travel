@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             11月から本格シーズンを迎える日本三景・松島の冬の名物「松島かき」！大粒で濃厚なクリーミーさを誇る生牡蠣、香ばしい焼き牡蠣、熱々の牡蠣鍋と、松島湾に昇る絶景の朝日を望む展望露天風呂を堪能する宮城の冬旅。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11月解禁！松島・三陸の極上生牡蠣＆焼き牡蠣】日本三景パノラマと海の幸会席名湯宿5選"} url={"https://croud-travel.pages.dev/winter-miyagi-matsushima-oyster-hotspring-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -528,7 +532,7 @@ export default function FeaturePage() {
                 <span className="inline-block text-[10px] font-bold px-2 py-0.5 rounded bg-amber-100 text-amber-800 mb-2">
                   厳選おすすめ特集
                 </span>
-                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">岐阜・東濃 恵那峡の奇岩紅葉クルーズ＆中津川！栗きんとん発祥の地と恵那峡温泉・飛騨牛 | クラウドトラベルふるさと納税</h3>
+                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">岐阜・東濃 恵那峡の奇岩紅葉クルーズ＆中津川！栗きんとん発祥の地と恵那峡温泉・飛騨牛 | 旅宿クラウドふるさと納税</h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
                 特集を見る →
@@ -578,6 +582,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11月解禁！松島・三陸の極上生牡蠣＆焼き牡蠣】日本三景パノラマと海の幸会席名湯宿5選"} url={"https://croud-travel.pages.dev/winter-miyagi-matsushima-oyster-hotspring-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-miyagi-matsushima-oyster-hotspring-stay" />
 </div>
         </section>

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -207,6 +208,9 @@ export default function AwajiIslandCarFreePage() {
             </a>
           </div>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"淡路島 車なし観光ガイド：高速バス＆無料シャトルで回る！ニジゲンノモリ・西海岸カフェ・洲本温泉"} url={"https://croud-travel.pages.dev/awaji-island-car-free-bus-trip-guide/"} />
+      </div>
       </div>
 
       <div className="max-w-5xl mx-auto px-4 mt-8 space-y-12">
@@ -466,6 +470,9 @@ export default function AwajiIslandCarFreePage() {
         </div>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"淡路島 車なし観光ガイド：高速バス＆無料シャトルで回る！ニジゲンノモリ・西海岸カフェ・洲本温泉"} url={"https://croud-travel.pages.dev/awaji-island-car-free-bus-trip-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="awaji-island-car-free-bus-trip-guide" />
 </div>
   );

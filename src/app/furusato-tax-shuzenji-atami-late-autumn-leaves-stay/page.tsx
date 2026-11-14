@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import FurusatoStepSection from "@/app/components/FurusatoStepSection";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
@@ -6,7 +7,7 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '日本一遅い紅葉を愛でる！伊豆修善寺竹林の小径＆熱海梅園もみじまつり名門旅館×ふるさと納税厳選ガイド静岡',
   description: '11月中旬〜12月上旬に見頃を迎える「日本一遅い紅葉名所」伊豆修善寺温泉（竹林の小径・修禅寺庭園）＆熱海梅園もみじまつり！国の登録有形文化財「新井旅館」、円をテーマにした寛ぎ宿「〇久旅館」、本格料亭旅館「柳生の庄」。伊豆の金目鯛と天城軍鶏を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
-  keywords: ["2026年最新秋旅", "静岡", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
+  keywords: ["2026年末・冬休み対応", "静岡", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-shuzenji-atami-late-autumn-leaves-stay/"
   },
@@ -25,7 +26,7 @@ export default function FurusatoShuzenjiAtamiLateAutumnLeavesStayPage() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "日本一遅い紅葉を愛でる！伊豆修善寺竹林の小径＆熱海梅園もみじまつり名門旅館×ふるさと納税完全ガイド【2026年最新秋旅】静岡 | 旅宿クラウド",
+    "headline": "日本一遅い紅葉を愛でる！伊豆修善寺竹林の小径＆熱海梅園もみじまつり名門旅館×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】静岡 | 旅宿クラウド",
     "description": "11月中旬〜12月上旬に見頃を迎える「日本一遅い紅葉名所」伊豆修善寺温泉（竹林の小径・修禅寺庭園）＆熱海梅園もみじまつり！国の登録有形文化財「新井旅館」、円をテーマにした寛ぎ宿「〇久旅館」、本格料亭旅館「柳生の庄」。伊豆の金目鯛と天城軍鶏を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。",
     "url": "https://croud-travel.pages.dev/furusato-tax-shuzenji-atami-late-autumn-leaves-stay/",
     "publisher": {
@@ -39,7 +40,7 @@ export default function FurusatoShuzenjiAtamiLateAutumnLeavesStayPage() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "日本一遅い紅葉を愛でる！伊豆修善寺竹林の小径＆熱海梅園もみじまつり名門旅館×ふるさと納税完全ガイド【2026年最新秋旅】静岡 | 旅宿クラウド", "item": "https://croud-travel.pages.dev/furusato-tax-shuzenji-atami-late-autumn-leaves-stay/" }
+      { "@type": "ListItem", "position": 2, "name": "日本一遅い紅葉を愛でる！伊豆修善寺竹林の小径＆熱海梅園もみじまつり名門旅館×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】静岡 | 旅宿クラウド", "item": "https://croud-travel.pages.dev/furusato-tax-shuzenji-atami-late-autumn-leaves-stay/" }
     ]
   };
 
@@ -85,6 +86,9 @@ export default function FurusatoShuzenjiAtamiLateAutumnLeavesStayPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"日本一遅い紅葉を愛でる！伊豆修善寺竹林の小径＆熱海梅園もみじまつり名門旅館×ふるさと納税厳選ガイド静岡"} url={"https://croud-travel.pages.dev/furusato-tax-shuzenji-atami-late-autumn-leaves-stay/"} />
+      </div>
 
       <div className="max-w-5xl mx-auto px-4 sm:px-6 space-y-16">
         {/* リード文セクション */}
@@ -550,6 +554,9 @@ export default function FurusatoShuzenjiAtamiLateAutumnLeavesStayPage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"日本一遅い紅葉を愛でる！伊豆修善寺竹林の小径＆熱海梅園もみじまつり名門旅館×ふるさと納税厳選ガイド静岡"} url={"https://croud-travel.pages.dev/furusato-tax-shuzenji-atami-late-autumn-leaves-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-shuzenji-atami-late-autumn-leaves-stay" />
 </div>
         </section>

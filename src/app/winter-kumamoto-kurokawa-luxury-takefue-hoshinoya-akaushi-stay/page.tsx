@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
@@ -108,6 +109,9 @@ export default function LuxuryStayPage() {
             </p>
           </div>
         </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【阿蘇の静寂と湯煙に抱かれる極上隠れ宿離れ】2026-2027年11-12月初冬の熊本・黒川温泉＆瀬の本！「深山山荘」＆「山あいの宿 山みず木」・初冬の静寂と阿蘇あか牛懐石名宿5選"} url={"https://croud-travel.pages.dev/winter-kumamoto-kurokawa-luxury-takefue-hoshinoya-akaushi-stay/"} />
+      </div>
 
         <div className="max-w-5xl mx-auto px-4 mt-12 space-y-16">
           <section className="bg-white p-6 md:p-10 rounded-2xl border border-slate-200/80 shadow-md">
@@ -228,8 +232,7 @@ export default function LuxuryStayPage() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント</h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>山あいの宿 山みず木の別邸として誕生した最高峰の全室離れ宿。約4,000坪の敷地にプライベートな集落のように離れが点在します。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>すべての客室に内湯または専用露天風呂を完備。敷地内のプライベートダイニング「みやま」で誰にも邪魔されない美食の時間を過ごせます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>夕食は厳選された阿蘇あか牛のステーキや旬の郷土料理をモダンに昇華させた会席コース。洗練されたおもてなしが至福の安らぎをもたらします。</span></li>
                 </ul>
@@ -293,8 +296,7 @@ export default function LuxuryStayPage() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント</h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>黒川温泉の中心部にありながら、木々に囲まれ静寂が支配する隠れ宿。茅葺きや古木を活かした温もりあふれる空間が広がります。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>趣の異なる貸切露天風呂が点在し、湯の花が舞う源泉掛け流しの名湯を満喫。静かに流れる時間に身を委ねることができます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>夕食は地元熊本の契約農家から届く冬野菜やあか牛を盛り込んだ創作会席。心温まる細やかな接客がリピーターを魅了し続けます。</span></li>
                 </ul>
@@ -358,8 +360,7 @@ export default function LuxuryStayPage() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント</h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>奥黒川の清流沿いに佇み、川のせせらぎを間近に感じる名物露天風呂「幽谷の湯」「破線の湯」で全国にその名を知られる名宿です。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>裸足で歩く心地よい館内と、純和風の落ち着いた客室。自然の音だけに包まれる贅沢なひとときを過ごせます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>夕食は阿蘇の山の幸と熊本の厳選素材を贅沢に仕立てた旬彩会席。季節の恵みを丁寧に味わう贅沢な晩餐が旅の夜を彩ります。</span></li>
                 </ul>
@@ -423,8 +424,7 @@ export default function LuxuryStayPage() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント</h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>創業300年を超える歴史を誇る黒川温泉最古の湯宿。重厚な梁や柱が醸し出すレトロで趣深い佇まいが魅力です。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>田の原川沿いに湧く良質な自家源泉は古くから名湯として愛され、歴史ある湯船でじっくりと芯まで温まることができます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>夕食は無農薬野菜や肥後あか牛、馬刺しを盛り込んだ滋味豊かな会席料理。素朴でありながら極上の味わいが旅情を深めます。</span></li>
                 </ul>
@@ -488,8 +488,7 @@ export default function LuxuryStayPage() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント</h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>やまなみハイウェイ沿い、阿蘇くじゅう国立公園の大草原に建つ高原リゾートホテルです。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>遮るもののない大パノラマ露天風呂「絶景鼻の湯」からは、昼は阿蘇五岳、夜は降るような満天の星を一望できます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>夕食は熊本の旬を彩る和洋創作バイキングまたは会席料理。黒川温泉街への無料シャトルバスも運行し、観光の拠点に最適です。</span></li>
                 </ul>
@@ -622,6 +621,10 @@ export default function LuxuryStayPage() {
             </ul>
           </section>
         </div>
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【阿蘇の静寂と湯煙に抱かれる極上隠れ宿離れ】2026-2027年11-12月初冬の熊本・黒川温泉＆瀬の本！「深山山荘」＆「山あいの宿 山みず木」・初冬の静寂と阿蘇あか牛懐石名宿5選"} url={"https://croud-travel.pages.dev/winter-kumamoto-kurokawa-luxury-takefue-hoshinoya-akaushi-stay/"} />
+      </div>
       </div>
     </>
   );

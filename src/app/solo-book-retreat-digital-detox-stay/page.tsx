@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -13,7 +14,7 @@ export const metadata: Metadata = {
     title: '読書・デジタルデトックス泊：本の世界に没頭するライブラリーホテル＆文豪ゆかりの名湯おこもり宿 厳選3選',
     description: 'スマートフォンを置いて、物語や思索の旅へ出かけよう。何千冊もの蔵書に囲まれる「芝パークホテル」、夏目漱石や島崎藤村が逗留した文化財の宿「湯河原温泉 源泉 上野屋」、志賀直哉が名作『城の崎にて』を執筆した日本旅館の最高峰「城崎温泉 西村屋本館」を徹底特集。心静かに活字と温泉に浸る大人のソロリトリート。',
     url: 'https://croud-travel.pages.dev/solo-book-retreat-digital-detox-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -27,12 +28,12 @@ export default function ArticlePage() {
     description: 'スマートフォンを置いて、物語や思索の旅へ出かけよう。何千冊もの蔵書に囲まれる「芝パークホテル」、夏目漱石や島崎藤村が逗留した文化財の宿「湯河原温泉 源泉 上野屋」、志賀直哉が名作『城の崎にて』を執筆した日本旅館の最高峰「城崎温泉 西村屋本館」を徹底特集。心静かに活字と温泉に浸る大人のソロリトリート。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル ひとり旅・ホテル調査班',
+      name: '旅宿クラウド ひとり旅・ホテル調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -79,6 +80,9 @@ export default function ArticlePage() {
           スマートフォンを置いて、物語や思索の旅へ出かけよう。何千冊もの蔵書に囲まれる「芝パークホテル」、夏目漱石や島崎藤村が逗留した文化財の宿「湯河原温泉 源泉 上野屋」、志賀直哉が名作『城の崎にて』を執筆した日本旅館の最高峰「城崎温泉 西村屋本館」を徹底特集。心静かに活字と温泉に浸る大人のソロリトリート。
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"読書・デジタルデトックス泊：本の世界に没頭するライブラリーホテル＆文豪ゆかりの名湯おこもり宿 厳選3選"} url={"https://croud-travel.pages.dev/solo-book-retreat-digital-detox-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
@@ -381,7 +385,7 @@ export default function ArticlePage() {
             href="/"
             className="inline-flex items-center gap-2 text-sm text-stone-600 hover:text-stone-900 font-medium transition-colors"
           >
-            ← クラウドトラベル トップページへ戻る
+            ← 旅宿クラウド トップページへ戻る
           </Link>
         </div>
       </div>
@@ -473,6 +477,9 @@ export default function ArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"読書・デジタルデトックス泊：本の世界に没頭するライブラリーホテル＆文豪ゆかりの名湯おこもり宿 厳選3選"} url={"https://croud-travel.pages.dev/solo-book-retreat-digital-detox-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="solo-book-retreat-digital-detox-stay" />
 </div>
         </section>

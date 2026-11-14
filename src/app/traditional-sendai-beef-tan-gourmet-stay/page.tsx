@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             炭火で香ばしく焼き上げる名物極上牛タンと、とろけるA5ランク仙台牛を味わい尽くす！開湯1500年の秋保温泉や絶景の松島で、東北屈指の極上肉料理と美肌名湯を堪能できる至高の温泉宿を厳選紹介。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"2026最新：極上厚切り牛タン炭火焼き＆A5仙台牛会席！宮城・秋保＆松島の名湯美食宿5選"} url={"https://croud-travel.pages.dev/traditional-sendai-beef-tan-gourmet-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"2026最新：極上厚切り牛タン炭火焼き＆A5仙台牛会席！宮城・秋保＆松島の名湯美食宿5選"} url={"https://croud-travel.pages.dev/traditional-sendai-beef-tan-gourmet-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="traditional-sendai-beef-tan-gourmet-stay" />
 </div>
         </section>

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -277,6 +278,9 @@ export default function OnogawaWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月米沢牛すき焼きと小野川温泉】小野小町ゆかりの美肌名湯とかまくら雪見宿5選"} url={"https://croud-travel.pages.dev/winter-yamagata-onogawa-yonezawa-beef-stay/"} />
+      </div>
 
       {/* Main Content Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
@@ -408,7 +412,7 @@ export default function OnogawaWinterPage() {
                       </span>
                     </div>
 
-                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug hover:text-rose-800 transition-colors"><a href={hotel.url} target="_blank" rel="noopener noreferrer">
+                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug hover:text-rose-800 transition-colors"><a href={hotel.url} target="_blank" rel="sponsored noopener noreferrer">
                         {hotel.name}
                       </a></h3>
 
@@ -451,7 +455,7 @@ export default function OnogawaWinterPage() {
                     <a
                       href={hotel.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-6 py-3 rounded-xl bg-rose-800 hover:bg-rose-900 text-white font-bold text-sm shadow-md hover:shadow-lg transition-all transform active:scale-98"
                     >
                       <span>楽天トラベルで空室・プランを見る</span>
@@ -685,6 +689,9 @@ export default function OnogawaWinterPage() {
               <Link href="/prefectures/niigata/" className="px-3 py-1.5 bg-stone-100 hover:bg-rose-100 text-stone-700 hover:text-rose-900 rounded-lg transition-colors font-medium">新潟県の宿一覧</Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月米沢牛すき焼きと小野川温泉】小野小町ゆかりの美肌名湯とかまくら雪見宿5選"} url={"https://croud-travel.pages.dev/winter-yamagata-onogawa-yonezawa-beef-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-yamagata-onogawa-yonezawa-beef-stay" />
 </div>
         </section>

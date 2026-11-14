@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
@@ -209,6 +210,9 @@ export default function Page() {
             </p>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"日州の小京都・飫肥城下町重伝建と鵜戸神宮新春初詣：2026-2027年冬の宮崎・日南！名物一本釣りカツオと宮崎牛会席名宿5選"} url={"https://croud-travel.pages.dev/winter-miyazaki-nichinan-obi-castle-udo-jingu-hatsumode-miyazakigyu-stay/"} />
+      </div>
 
         {/* メインコンテンツエリア */}
         <div className="max-w-4xl mx-auto px-4 py-12 space-y-16">
@@ -733,6 +737,10 @@ export default function Page() {
             </ul>
           </section>
         </div>
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"日州の小京都・飫肥城下町重伝建と鵜戸神宮新春初詣：2026-2027年冬の宮崎・日南！名物一本釣りカツオと宮崎牛会席名宿5選"} url={"https://croud-travel.pages.dev/winter-miyazaki-nichinan-obi-castle-udo-jingu-hatsumode-miyazakigyu-stay/"} />
+      </div>
       </article>
     </>
   );

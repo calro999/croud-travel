@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -197,6 +198,9 @@ export default function FeatureDetailPage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"果物王国の極上スイーツ！名産清水白桃パフェ＆倉敷美観地区・湯原温泉の風情宿5選"} url={"https://croud-travel.pages.dev/spring-okayama-white-peach-parfait-stay/"} />
+      </div>
 
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
       <script
@@ -857,6 +861,9 @@ export default function FeatureDetailPage() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"果物王国の極上スイーツ！名産清水白桃パフェ＆倉敷美観地区・湯原温泉の風情宿5選"} url={"https://croud-travel.pages.dev/spring-okayama-white-peach-parfait-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="spring-okayama-white-peach-parfait-stay" />
 </div>
   );

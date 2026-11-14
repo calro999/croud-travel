@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -81,6 +82,9 @@ export default function FurusatoTaxPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"蔵サウナ＆一棟貸しプライベートヴィラ×ふるさと納税厳選ガイド信濃町・八ヶ岳・丹波篠山の完全貸切ととのい旅"} url={"https://croud-travel.pages.dev/furusato-tax-kura-sauna-private-villa-charter-stay/"} />
+      </div>
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
@@ -720,6 +724,9 @@ export default function FurusatoTaxPage() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"蔵サウナ＆一棟貸しプライベートヴィラ×ふるさと納税厳選ガイド信濃町・八ヶ岳・丹波篠山の完全貸切ととのい旅"} url={"https://croud-travel.pages.dev/furusato-tax-kura-sauna-private-villa-charter-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-kura-sauna-private-villa-charter-stay" />
 </div>
   );

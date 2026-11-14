@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Image from 'next/image';
@@ -17,7 +18,7 @@ export const metadata: Metadata = {
     description: '日本屈指の透明度を誇るカルデラ湖・支笏湖。11月〜12月の初冬は観光の混雑が去り、澄み渡る「支笏湖ブルー」の静寂と冠雪した恵庭岳の雄姿が湖面に映る最も美しい季節。鶴雅グループの最高峰ブランド「しこつ湖 鶴雅別荘 碧の座」をはじめ、全室に温泉露天風呂を備えた大人のプレミアムリゾート。とろける極上白老牛や噴火湾・オホーツクの冬の味覚を堪能する大人の記念日ステイ厳選5選。',
     url: 'https://croud-travel.pages.dev/winter-hokkaido-shikotsuko-luxury-aonoza-suizantei-shiraogyu-stay/',
     type: 'article',
-    siteName: 'クラウドトラベル',
+    siteName: '旅宿クラウド',
   },
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-hokkaido-shikotsuko-luxury-aonoza-suizantei-shiraogyu-stay/',
@@ -115,6 +116,9 @@ export default function UltraLuxuryWinterFeaturePage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【支笏湖ブルーの初冬静寂と全室温泉露天付きラグジュアリースイート】2026-2027年11-12月の北海道・支笏湖"} url={"https://croud-travel.pages.dev/winter-hokkaido-shikotsuko-luxury-aonoza-suizantei-shiraogyu-stay/"} />
+      </div>
 
       {/* メインコンテンツ */}
       <main className="max-w-4xl mx-auto px-4 py-10 space-y-12">
@@ -565,6 +569,10 @@ export default function UltraLuxuryWinterFeaturePage() {
           </div>
         </section>
 
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【支笏湖ブルーの初冬静寂と全室温泉露天付きラグジュアリースイート】2026-2027年11-12月の北海道・支笏湖"} url={"https://croud-travel.pages.dev/winter-hokkaido-shikotsuko-luxury-aonoza-suizantei-shiraogyu-stay/"} />
+      </div>
       </main>
     </div>
   );

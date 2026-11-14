@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月北海道・川湯温泉＆屈斜路湖・摩周湖】pH1.7極上強酸性硫黄泉と白鳥の雪景色・冬の味覚オホーツク毛ガニと十勝牛を味わう名宿5選',
     description: '11月から12月にかけて、北海道東部・阿寒摩周国立公園の奥深くに位置する川湯温泉は、厳冬の張り詰めた冷気と自噴する熱き湯けむりに包まれます。',
     url: 'https://croud-travel.pages.dev/winter-hokkaido-kawayu-onsen-mashu-kussharo-crab-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -50,12 +51,12 @@ export default function HokkaidoKawayuPage() {
     dateModified: '2026-10-19T12:00:00+09:00',
     author: {
       '@type': 'Organization',
-      name: 'クラドトラベル編集部',
+      name: '旅宿クラウド編集部',
       url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラドトラベル',
+      name: '旅宿クラウド',
       url: 'https://croud-travel.pages.dev',
       logo: {
         '@type': 'ImageObject',
@@ -234,6 +235,9 @@ export default function HokkaidoKawayuPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月北海道・川湯温泉＆屈斜路湖・摩周湖】pH1.7極上強酸性硫黄泉と白鳥の雪景色・冬の味覚オホーツク毛ガニと十勝牛を味わう名宿5選"} url={"https://croud-travel.pages.dev/winter-hokkaido-kawayu-onsen-mashu-kussharo-crab-stay/"} />
+      </div>
 
       {/* Breadcrumbs */}
       <nav className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-4 text-xs text-stone-500 flex items-center gap-1.5 flex-wrap">
@@ -404,7 +408,7 @@ export default function HokkaidoKawayuPage() {
                       <a
                         href={hotel.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="w-full sm:w-auto inline-flex items-center justify-center gap-2 bg-amber-600 hover:bg-amber-700 text-white text-xs sm:text-sm font-bold px-5 py-2.5 rounded-full transition duration-200 shadow-xs hover:shadow-md shrink-0"
                       >
                         <span>空室・料金プランを確認</span>
@@ -591,6 +595,9 @@ export default function HokkaidoKawayuPage() {
               </p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月北海道・川湯温泉＆屈斜路湖・摩周湖】pH1.7極上強酸性硫黄泉と白鳥の雪景色・冬の味覚オホーツク毛ガニと十勝牛を味わう名宿5選"} url={"https://croud-travel.pages.dev/winter-hokkaido-kawayu-onsen-mashu-kussharo-crab-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-hokkaido-kawayu-onsen-mashu-kussharo-crab-stay" />
 </div>
         </section>

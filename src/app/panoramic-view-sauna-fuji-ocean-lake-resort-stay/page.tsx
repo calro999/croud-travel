@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
@@ -36,7 +37,7 @@ export default function Page() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "富士山・海・夜景パノラマ絶景サウナ宿完全ガイド【展望ととのいテラス】 | クラウドトラベル",
+    "headline": "富士山・海・夜景パノラマ絶景サウナ宿完全ガイド【展望ととのいテラス】 | 旅宿クラウド",
     "description": "雪化粧の富士山、どこまでも広がる水平線、きらめく都市の摩天楼夜景を一望するパノラマビューサウナを特集。絶景とともに外気浴デッキでととのう非日常のスパリゾート。",
     "url": "https://croud-travel.pages.dev/panoramic-view-sauna-fuji-ocean-lake-resort-stay/",
     "publisher": {
@@ -50,7 +51,7 @@ export default function Page() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "富士山・海・夜景パノラマ絶景サウナ宿完全ガイド【展望ととのいテラス】 | クラウドトラベル", "item": "https://croud-travel.pages.dev/panoramic-view-sauna-fuji-ocean-lake-resort-stay/" }
+      { "@type": "ListItem", "position": 2, "name": "富士山・海・夜景パノラマ絶景サウナ宿完全ガイド【展望ととのいテラス】 | 旅宿クラウド", "item": "https://croud-travel.pages.dev/panoramic-view-sauna-fuji-ocean-lake-resort-stay/" }
     ]
   };
 
@@ -81,6 +82,9 @@ export default function Page() {
             サウナ室の大きなピクチャーウィンドウ越しに望む霊峰富士の威容、夕暮れに茜色へ染まる大海原、あるいは眼下にきらめく大都市の摩天楼夜景。ただ汗を流すだけでなく、圧倒的なロケーションの美しさに心を奪われながら迎える外気浴は、まさに極上のトリップ。眺望と癒しが究極の調和を奏でる、全国のパノラマ絶景サウナホテルへご案内します。
           </p>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"富士山・海・夜景パノラマ絶景サウナ宿厳選ガイド「展望ととのいテラス」"} url={"https://croud-travel.pages.dev/panoramic-view-sauna-fuji-ocean-lake-resort-stay/"} />
+      </div>
 
         {/* メインコンテンツセクション */}
         
@@ -308,8 +312,7 @@ export default function Page() {
 
         {/* よくある質問 FAQ */}
         <section className="mb-16 bg-white rounded-2xl shadow-sm border border-emerald-900/10 p-6 md:p-8">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2"><span className="w-2 h-7 bg-emerald-700 rounded-full inline-block"></span>
-            よくある質問・サウナリゾートの楽しみ方</h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">よくある質問・サウナリゾートの楽しみ方</h2>
           <div className="space-y-4">
             
             <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
@@ -500,6 +503,9 @@ export default function Page() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"富士山・海・夜景パノラマ絶景サウナ宿厳選ガイド「展望ととのいテラス」"} url={"https://croud-travel.pages.dev/panoramic-view-sauna-fuji-ocean-lake-resort-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="panoramic-view-sauna-fuji-ocean-lake-resort-stay" />
 </div>
         </section>

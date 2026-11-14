@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function LuxuryPremiumHubPage() {
             門をくぐれば、回廊の先に佇む独立した「離れ」の客室。24時間いつでも好きな時に湯浴みができる源泉かけ流しの専用露天風呂。部屋出しの本格京懐石やブランド牛尽くし。チェックインからアウトまで誰にも会わない究極のプライベートステイへ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"全室離れ・源泉かけ流し露天風呂付き隠れ家宿：大人の静寂＆名門温泉割烹 厳選ガイド"} url={"https://croud-travel.pages.dev/japan-exclusive-detached-villa-private-onsen-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆厳選宿 */}
@@ -454,6 +458,9 @@ export default function LuxuryPremiumHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"全室離れ・源泉かけ流し露天風呂付き隠れ家宿：大人の静寂＆名門温泉割烹 厳選ガイド"} url={"https://croud-travel.pages.dev/japan-exclusive-detached-villa-private-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="japan-exclusive-detached-villa-private-onsen-stay" />
 </div>
   );

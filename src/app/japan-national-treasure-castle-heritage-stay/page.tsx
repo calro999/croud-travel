@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function HistoryHeritageHubPage() {
             幾多の戦火や天災を乗り越え、江戸の威容を今に伝える「現存十二天守」と「国宝五城」。白漆喰総塗籠の白鷺城・姫路城、北アルプスを背負う漆黒の松本城。天守のライトアップを客室や展望ラウンジから愛でる歴史浪漫の旅へ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"国宝五城＆現存十二天守を巡る宿：姫路城・松本城・犬山城・彦根城・松江城 厳選ガイド"} url={"https://croud-travel.pages.dev/japan-national-treasure-castle-heritage-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆おすすめ宿 */}
@@ -231,6 +235,9 @@ export default function HistoryHeritageHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"国宝五城＆現存十二天守を巡る宿：姫路城・松本城・犬山城・彦根城・松江城 厳選ガイド"} url={"https://croud-travel.pages.dev/japan-national-treasure-castle-heritage-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="japan-national-treasure-castle-heritage-stay" />
 </div>
   );

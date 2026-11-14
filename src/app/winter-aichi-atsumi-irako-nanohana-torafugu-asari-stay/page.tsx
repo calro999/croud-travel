@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -258,6 +259,9 @@ export default function AichiAtsumiIrakoWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月愛知】渥美半島＆伊良湖岬！1月満開の菜の花まつりと伊良湖岬初日の出・冬旬の天然とらふぐ＆焼き大アサリ・伊良湖温泉名宿5選"} url={"https://croud-travel.pages.dev/winter-aichi-atsumi-irako-nanohana-torafugu-asari-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 pt-12 space-y-16">
@@ -330,7 +334,7 @@ export default function AichiAtsumiIrakoWinterPage() {
                         <span>{h.access}</span>
                       </div>
 
-                      <h3 className="text-lg sm:text-2xl font-bold text-slate-900 hover:text-amber-600 transition-colors"><a href={h.url} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1.5">
+                      <h3 className="text-lg sm:text-2xl font-bold text-slate-900 hover:text-amber-600 transition-colors"><a href={h.url} target="_blank" rel="sponsored noopener noreferrer" className="inline-flex items-center gap-1.5">
                           {h.name}
                           <ExternalLink className="w-4 h-4 text-slate-400 shrink-0" />
                         </a></h3>
@@ -371,7 +375,7 @@ export default function AichiAtsumiIrakoWinterPage() {
                         <a
                           href={h.url}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="w-full inline-flex items-center justify-center gap-2 bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-700 hover:to-amber-800 text-white font-bold py-2.5 px-4 rounded-xl text-sm shadow-sm transition-all text-center"
                         >
                           <span>空室状況・宿泊プランを見る（楽天トラベル）</span>
@@ -617,6 +621,9 @@ export default function AichiAtsumiIrakoWinterPage() {
         <p>© 2026 地域の宿探訪 - 日本の四季と極上ホテル・旅館を巡る旅</p>
       </footer>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月愛知】渥美半島＆伊良湖岬！1月満開の菜の花まつりと伊良湖岬初日の出・冬旬の天然とらふぐ＆焼き大アサリ・伊良湖温泉名宿5選"} url={"https://croud-travel.pages.dev/winter-aichi-atsumi-irako-nanohana-torafugu-asari-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-aichi-atsumi-irako-nanohana-torafugu-asari-stay" />
 </div>
   );

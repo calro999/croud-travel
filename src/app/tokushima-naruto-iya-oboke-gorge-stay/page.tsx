@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
@@ -65,6 +66,9 @@ export default function Page() {
             <span className="flex items-center gap-1">✅ 楽天トラベルリアルタイム空室連携</span>
           </div>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"徳島・鳴門＆祖谷渓・大歩危：鳴門渦潮・大塚国際美術館＆祖谷かずら橋秘境宿 厳選ガイド"} url={"https://croud-travel.pages.dev/tokushima-naruto-iya-oboke-gorge-stay/"} />
       </div>
 
       {/* メインコンテンツ */}
@@ -736,6 +740,9 @@ export default function Page() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"徳島・鳴門＆祖谷渓・大歩危：鳴門渦潮・大塚国際美術館＆祖谷かずら橋秘境宿 厳選ガイド"} url={"https://croud-travel.pages.dev/tokushima-naruto-iya-oboke-gorge-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="tokushima-naruto-iya-oboke-gorge-stay" />
 </div>
   );

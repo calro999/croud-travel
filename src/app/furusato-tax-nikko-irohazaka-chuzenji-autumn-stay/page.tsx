@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -7,7 +8,7 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '日光・いろは坂の絶景紅葉と中禅寺湖・奥日光湯元温泉の白濁硫黄泉を満喫する秋の贅沢旅｜ふるさと納税で泊まれる名宿ガイド',
   description: '10月中旬〜11月上旬に見頃を迎える日光・いろは坂と中禅寺湖の紅葉。奥日光の乳白色硫黄泉「日光湯元温泉」の名宿で極上の湯浴みととちぎ和牛・湯波料理をふるさと納税でお得に楽しむ完全ガイド。',
-  keywords: ["日光", "いろは坂の絶景紅葉と中禅寺湖", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
+  keywords: ["日光", "いろは坂の絶景紅葉と中禅寺湖", "旅宿クラウドふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-nikko-irohazaka-chuzenji-autumn-stay/",
   },
@@ -15,7 +16,7 @@ export const metadata: Metadata = {
     title: '日光・いろは坂の絶景紅葉と中禅寺湖・奥日光湯元温泉の白濁硫黄泉を満喫する秋の贅沢旅｜ふるさと納税で泊まれる名宿ガイド',
     description: '10月中旬〜11月上旬に見頃を迎える日光・いろは坂と中禅寺湖の紅葉。奥日光の乳白色硫黄泉「日光湯元温泉」の名宿で極上の湯浴みととちぎ和牛・湯波料理をふるさと納税でお得に楽しむ完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-nikko-irohazaka-chuzenji-autumn-stay/',
-    siteName: 'クラウドトラベル (croud-travel.pages.dev)',
+    siteName: '旅宿クラウド (croud-travel.pages.dev)',
     type: 'article',
     locale: 'ja_JP',
   },
@@ -29,11 +30,11 @@ export default function Page() {
     "description": "10月中旬〜11月上旬に見頃を迎える日光・いろは坂と中禅寺湖の紅葉。奥日光の乳白色硫黄泉「日光湯元温泉」の名宿で極上の湯浴みととちぎ和牛・湯波料理をふるさと納税でお得に楽しむ完全ガイド。",
     "author": {
       "@type": "Organization",
-      "name": "クラウドトラベル編集部"
+      "name": "旅宿クラウド編集部"
     },
     "publisher": {
       "@type": "Organization",
-      "name": "クラウドトラベル",
+      "name": "旅宿クラウド",
       "logo": {
         "@type": "ImageObject",
         "url": "https://croud-travel.pages.dev/logo.png"
@@ -112,12 +113,15 @@ export default function Page() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"日光・いろは坂の絶景紅葉と中禅寺湖・奥日光湯元温泉の白濁硫黄泉を満喫する秋の贅沢旅"} url={"https://croud-travel.pages.dev/furusato-tax-nikko-irohazaka-chuzenji-autumn-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"日光・いろは坂の絶景紅葉と中禅寺湖・奥日光湯元温泉の白濁硫黄泉を満喫する秋の贅沢旅｜ふるさと納税で泊まれる名宿ガイド | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-nikko-irohazaka-chuzenji-autumn-stay/"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"日光・いろは坂の絶景紅葉と中禅寺湖・奥日光湯元温泉の白濁硫黄泉を満喫する秋の贅沢旅｜ふるさと納税で泊まれる名宿ガイド | 旅宿クラウドふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-nikko-irohazaka-chuzenji-autumn-stay/"}]}) }}
       />
         {/* Intro Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 mb-12">
@@ -198,7 +202,7 @@ export default function Page() {
 
           <div className="bg-stone-50 rounded-xl p-5 border border-stone-200 mb-6 space-y-4">
             <div>
-              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5"><span>️</span> 料理のこだわり・秋の旬会席</h5>
+              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">料理のこだわり・秋の旬会席</h5>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 とちぎ和牛の陶板焼き、日光名物の引き上げ湯波・揚巻湯波、奥日光の清流で育った岩魚の塩焼き、旬の山の幸と契約農家直送の高原野菜会席
               </p>
@@ -263,7 +267,7 @@ export default function Page() {
 
           <div className="bg-stone-50 rounded-xl p-5 border border-stone-200 mb-6 space-y-4">
             <div>
-              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5"><span>️</span> 料理のこだわり・秋の旬会席</h5>
+              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">料理のこだわり・秋の旬会席</h5>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 郷土料理をモダンにアレンジした山里和食膳。日光湯波の炊き合わせ、栃木県産ハーブ豚のしゃぶしゃぶ鍋、地場産根菜の滋味豊かな小鉢
               </p>
@@ -328,7 +332,7 @@ export default function Page() {
 
           <div className="bg-stone-50 rounded-xl p-5 border border-stone-200 mb-6 space-y-4">
             <div>
-              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5"><span>️</span> 料理のこだわり・秋の旬会席</h5>
+              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">料理のこだわり・秋の旬会席</h5>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 板長が腕を振るう季節の本格懐石。厳選とちぎ和牛のフィレステーキ、極上生湯波のお造り、日光岩魚の姿造り、手打ち十割そば
               </p>
@@ -379,7 +383,7 @@ export default function Page() {
           <div className="bg-amber-950/60 p-4 rounded-xl border border-amber-500/30 text-xs sm:text-sm text-amber-100 flex items-start gap-2">
             <span>ℹ️</span>
             <span>
-              <strong>ポイント還元の二重取り：</strong>楽天カード決済や「お買い物マラソン」「0と5のつく日」を併用すると、寄付額に対して高還元率で楽天ポイントも獲得でき、さらにお得になります。
+              <strong>年末駆け込み＆先々の旅行予約に対応：</strong>2026年分の寄附控除枠は12月31日まで。返礼品の宿泊クーポンは有効期限が最長3年間と長く、予約済みの宿泊に「あとから割引適用」することも可能です。
             </span>
           </div>
         </section>
@@ -509,6 +513,9 @@ export default function Page() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"日光・いろは坂の絶景紅葉と中禅寺湖・奥日光湯元温泉の白濁硫黄泉を満喫する秋の贅沢旅"} url={"https://croud-travel.pages.dev/furusato-tax-nikko-irohazaka-chuzenji-autumn-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-nikko-irohazaka-chuzenji-autumn-stay" />
 </div>
   );

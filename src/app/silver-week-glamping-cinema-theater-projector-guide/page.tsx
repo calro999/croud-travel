@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -197,6 +198,9 @@ export default function SilverWeekGlampingCinemaTheaterProjectorPage() {
           </div>
         </div>
       </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"プロジェクター・巨大シアター付きグランピング：テント内で映画鑑賞＆推し活！夜長を楽しむシアターステイ"} url={"https://croud-travel.pages.dev/silver-week-glamping-cinema-theater-projector-guide/"} />
+      </div>
 
       {/* 楽天トラベルスペシャルクーポンバナー */}
       <SpecialCouponBanner variant="prominent" />
@@ -397,6 +401,9 @@ export default function SilverWeekGlampingCinemaTheaterProjectorPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"プロジェクター・巨大シアター付きグランピング：テント内で映画鑑賞＆推し活！夜長を楽しむシアターステイ"} url={"https://croud-travel.pages.dev/silver-week-glamping-cinema-theater-projector-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="silver-week-glamping-cinema-theater-projector-guide" />
 </div>
   );

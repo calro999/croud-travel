@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             枕草子にも記された信州最古の温泉地「別所温泉（信州の鎌倉）」。日本で唯一現存する木造八角塔「国宝 安楽寺八角三重塔」。善光寺と向かい合う厄除けの霊場「北向観音」。徳川軍を二度撃退した真田幸村公ゆかりの「上田城」。ほのかな硫黄香る美肌湯と名物美味だれ焼き鳥の旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"長野・別所温泉＆上田城：信州の鎌倉・日本唯一八角三重塔＆真田の赤備え宿 厳選ガイド"} url={"https://croud-travel.pages.dev/nagano-bessho-onsen-ueda-castle-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -361,6 +365,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"長野・別所温泉＆上田城：信州の鎌倉・日本唯一八角三重塔＆真田の赤備え宿 厳選ガイド"} url={"https://croud-travel.pages.dev/nagano-bessho-onsen-ueda-castle-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="nagano-bessho-onsen-ueda-castle-stay" />
 </div>
   );

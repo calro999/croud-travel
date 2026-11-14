@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -14,7 +15,7 @@ export const metadata: Metadata = {
     title: "那須温泉郷をふるさと納税でお得に旅する！開湯千三百年「鹿の湯」の白濁湯＆那須御用邸リゾート！名宿特集",
     description: '開湯千三百年・那須連山の雄大な自然に抱かれる高原リゾート・栃木県那須温泉郷を楽天ふるさと納税でお得に贅沢ステイ！創業大正十二年の名門老舗「那須温泉 山楽」、那須高原の森にそびえる総合リゾート「ホテルエピナール那須」、多彩な湯巡りと温水プールの「ホテルサンバレー那須」を徹底比較。とちぎ和牛や那須町トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-nasu-onsen-shikanoyu-resort-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -28,12 +29,12 @@ export default function FurusatoArticlePage() {
     description: '開湯千三百年・那須連山の雄大な自然に抱かれる高原リゾート・栃木県那須温泉郷を楽天ふるさと納税でお得に贅沢ステイ！創業大正十二年の名門老舗「那須温泉 山楽」、那須高原の森にそびえる総合リゾート「ホテルエピナール那須」、多彩な湯巡りと温水プールの「ホテルサンバレー那須」を徹底比較。とちぎ和牛や那須町トラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル 観光・ふるさと納税調査班',
+      name: '旅宿クラウド 観光・ふるさと納税調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -80,6 +81,9 @@ export default function FurusatoArticlePage() {
           開湯千三百年・那須連山の雄大な自然に抱かれる高原リゾート・栃木県那須温泉郷を楽天ふるさと納税でお得に贅沢ステイ！創業大正十二年の名門老舗「那須温泉 山楽」、那須高原の森にそびえる総合リゾート「ホテルエピナール那須」、多彩な湯巡りと温水プールの「ホテルサンバレー那須」を徹底比較。とちぎ和牛や那須町トラベルクーポン活用術を網羅。
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"那須温泉郷をふるさと納税でお得に旅する！開湯千三百年「鹿の湯」の白濁湯＆那須御用邸リゾート！名宿特集"} url={"https://croud-travel.pages.dev/furusato-tax-nasu-onsen-shikanoyu-resort-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
@@ -360,7 +364,7 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 那須温泉郷・殺生石＆那須高原展望台ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">那須温泉郷・殺生石＆那須高原展望台ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
@@ -586,6 +590,9 @@ export default function FurusatoArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"那須温泉郷をふるさと納税でお得に旅する！開湯千三百年「鹿の湯」の白濁湯＆那須御用邸リゾート！名宿特集"} url={"https://croud-travel.pages.dev/furusato-tax-nasu-onsen-shikanoyu-resort-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-nasu-onsen-shikanoyu-resort-stay" />
 </div>
         </section>

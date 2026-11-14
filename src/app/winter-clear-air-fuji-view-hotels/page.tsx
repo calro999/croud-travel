@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -113,6 +114,9 @@ export default function SeasonalFeaturePage() {
             雪化粧をまとった神々しい富士山の姿。朝日に赤く染まる「紅富士」、湖面に映り込む「逆さ富士」、夜空に浮かぶシルエット。冬の澄み切った空気の中でしか出逢えない奇跡の富士山ビューホテルへ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【白銀の霊峰】冠雪富士山を望む！冬の富士ビュー絶景ホテル 完全ガイド"} url={"https://croud-travel.pages.dev/winter-clear-air-fuji-view-hotels/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function SeasonalFeaturePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【白銀の霊峰】冠雪富士山を望む！冬の富士ビュー絶景ホテル 完全ガイド"} url={"https://croud-travel.pages.dev/winter-clear-air-fuji-view-hotels/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-clear-air-fuji-view-hotels" />
 </div>
   );

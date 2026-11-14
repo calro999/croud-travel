@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function TransitStyleHubPage() {
             移動そのものが贅沢なエンターテインメント！パノラマ車窓から海や山を望むプレミアム観光列車「サフィール踊り子」「しまかぜ」「ゆふいんの森」。カフェ車両でスイーツや地ビールを味わい、終着駅で待つ極上の名門温泉宿へ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"観光列車＆極上温泉宿：サフィール踊り子・しまかぜ・ゆふいんの森で行く名旅館 厳選ガイド"} url={"https://croud-travel.pages.dev/scenic-tourist-train-onsen-trip-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function TransitStyleHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"観光列車＆極上温泉宿：サフィール踊り子・しまかぜ・ゆふいんの森で行く名旅館 厳選ガイド"} url={"https://croud-travel.pages.dev/scenic-tourist-train-onsen-trip-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="scenic-tourist-train-onsen-trip-stay" />
 </div>
   );

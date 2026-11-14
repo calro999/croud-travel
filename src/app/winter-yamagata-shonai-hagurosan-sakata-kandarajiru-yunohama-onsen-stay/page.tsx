@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import Link from 'next/link';
 import type { Metadata } from 'next';
@@ -299,6 +300,9 @@ export default function YamagataShonaiWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月山形】羽黒山「国宝五重塔」雪景色と酒田山居倉庫！冬名物「寒鱈どんがら汁」・日本海寒魚＆湯野浜・あつみ温泉名宿5選"} url={"https://croud-travel.pages.dev/winter-yamagata-shonai-hagurosan-sakata-kandarajiru-yunohama-onsen-stay/"} />
+      </div>
 
       {/* Summary Box */}
       <section className="max-w-5xl mx-auto px-4 -mt-8 relative z-20">
@@ -504,7 +508,7 @@ export default function YamagataShonaiWinterPage() {
                         <a 
                           href={hotel.url} 
                           target="_blank" 
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="inline-flex items-center gap-1.5 px-5 py-2.5 bg-teal-900 hover:bg-teal-800 text-white font-bold text-xs rounded-xl shadow transition"
                         >
                           <span>宿泊プラン・空室を確認</span>
@@ -665,6 +669,9 @@ export default function YamagataShonaiWinterPage() {
               トップページへ戻る
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月山形】羽黒山「国宝五重塔」雪景色と酒田山居倉庫！冬名物「寒鱈どんがら汁」・日本海寒魚＆湯野浜・あつみ温泉名宿5選"} url={"https://croud-travel.pages.dev/winter-yamagata-shonai-hagurosan-sakata-kandarajiru-yunohama-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-yamagata-shonai-hagurosan-sakata-kandarajiru-yunohama-onsen-stay" />
 </div>
         </section>

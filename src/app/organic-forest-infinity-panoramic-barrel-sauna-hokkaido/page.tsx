@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             雄大な北の大地に佇む本格木製バレルサウナ！十勝のアヴァントやニセコの羊蹄山ビュー、富良野の白樺林に囲まれながらのセルフロウリュと、氷点下シングルの天然水風呂・雪ダイブで異次元のととのい体験。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"北海道大自然バレルサウナ：十勝・ニセコ・富良野！白樺原生林と極上雪解け湧水水風呂宿5選"} url={"https://croud-travel.pages.dev/organic-forest-infinity-panoramic-barrel-sauna-hokkaido/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"北海道大自然バレルサウナ：十勝・ニセコ・富良野！白樺原生林と極上雪解け湧水水風呂宿5選"} url={"https://croud-travel.pages.dev/organic-forest-infinity-panoramic-barrel-sauna-hokkaido/"} />
+      </div>
       <HubRelatedPosts currentSlug="organic-forest-infinity-panoramic-barrel-sauna-hokkaido" />
 </div>
         </section>

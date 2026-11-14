@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -236,6 +237,9 @@ export default function OiraseOnsenWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月奥入瀬渓流温泉と八甲田山樹氷の初冬秘湯】幻想的な氷瀑ライトアップ・白濁名湯露天風呂と青森倉石牛＆陸奥湾ホタテ会席の宿5選"} url={"https://croud-travel.pages.dev/winter-aomori-oirase-hakkoda-onsen-frozen-waterfall-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 space-y-16">
@@ -385,7 +389,7 @@ export default function OiraseOnsenWinterPage() {
                     <a
                       href={h.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center justify-center gap-2 bg-gradient-to-r from-teal-800 to-teal-900 hover:from-teal-900 hover:to-slate-900 text-white text-xs sm:text-sm font-bold px-5 py-2.5 rounded-xl shadow-sm hover:shadow transition-all group/btn"
                     >
                       <span>楽天トラベルで空室・プランを見る</span>
@@ -558,6 +562,9 @@ export default function OiraseOnsenWinterPage() {
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">全国の厳選温泉・宿特集まとめを見る</h3>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月奥入瀬渓流温泉と八甲田山樹氷の初冬秘湯】幻想的な氷瀑ライトアップ・白濁名湯露天風呂と青森倉石牛＆陸奥湾ホタテ会席の宿5選"} url={"https://croud-travel.pages.dev/winter-aomori-oirase-hakkoda-onsen-frozen-waterfall-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-aomori-oirase-hakkoda-onsen-frozen-waterfall-stay" />
 </div>
         </section>

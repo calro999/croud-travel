@@ -74,87 +74,148 @@ body {
   font-family: var(--font-serif);
 }
 
-/* ─── 記事本文コンテンツ内のリッチタイポグラフィ ─── */
-.review-content-html h2 {
-  font-family: var(--font-serif);
-  font-size: 1.5rem;
-  font-weight: 900;
-  color: var(--foreground);
-  margin-top: 2.5rem;
-  margin-bottom: 1rem;
-  padding-bottom: 0.6rem;
-  border-bottom: 3px solid var(--accent-teal);
-  position: relative;
-  letter-spacing: 0.02em;
-}
+/* ─── 記事本文コンテンツ内のリッチタイポグラフィ（Tailwind @layer utilities より低優先にする） ─── */
+@layer components {
+  :where(.review-content-html h2) {
+    font-family: var(--font-serif);
+    font-size: 1.5rem;
+    font-weight: 900;
+    color: var(--foreground);
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+    padding-bottom: 0.6rem;
+    border-bottom: 3px solid var(--accent-teal);
+    position: relative;
+    letter-spacing: 0.02em;
+  }
 
-.review-content-html h2::before {
-  content: '';
-  position: absolute;
-  bottom: -3px;
-  left: 0;
-  width: 60px;
-  height: 3px;
-  background-color: var(--accent-orange);
-}
+  :where(.review-content-html h2:not([class]))::before {
+    content: '';
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 60px;
+    height: 3px;
+    background-color: var(--accent-orange);
+  }
 
-.review-content-html h3 {
-  font-family: var(--font-serif);
-  font-size: 1.2rem;
-  font-weight: 800;
-  color: var(--accent-teal);
-  margin-top: 2rem;
-  margin-bottom: 0.75rem;
-  padding-left: 0.9rem;
-  border-left: 4px solid var(--accent-orange);
-}
+  :where(.review-content-html h3) {
+    font-family: var(--font-serif);
+    font-size: 1.2rem;
+    font-weight: 800;
+    color: var(--accent-teal);
+    margin-top: 2rem;
+    margin-bottom: 0.75rem;
+    padding-left: 0.9rem;
+    border-left: 4px solid var(--accent-orange);
+  }
 
-.review-content-html h4 {
-  font-size: 1rem;
-  font-weight: 700;
-  color: #374151;
-  margin-top: 1.5rem;
-  margin-bottom: 0.5rem;
-  padding: 0.5rem 0.8rem;
-  background: linear-gradient(135deg, rgba(15,118,110,0.04), rgba(217,119,6,0.04));
-  border-radius: 6px;
-  border-left: 3px solid var(--accent-teal);
-}
+  :where(.review-content-html h4) {
+    font-size: 1rem;
+    font-weight: 700;
+    color: #374151;
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
+    padding: 0.5rem 0.8rem;
+    background: linear-gradient(135deg, rgba(15,118,110,0.04), rgba(217,119,6,0.04));
+    border-radius: 6px;
+    border-left: 3px solid var(--accent-teal);
+  }
 
-.review-content-html p {
-  margin-top: 0.6rem;
-  margin-bottom: 0.6rem;
-  line-height: 1.9;
-  color: #374151;
-}
+  /* クラス付きの見出し（装飾カード内のh2/h3/h4）は素の見出し用ボーダーや余白を外す */
+  :where(.review-content-html h3[class], .review-content-html h4[class]) {
+    border-left: none;
+    background: none;
+    padding-left: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
 
-.review-content-html strong {
-  color: var(--foreground);
-  font-weight: 800;
-}
+  :where(.review-content-html h2[class]) {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
 
-.review-content-html ul {
-  margin: 1rem 0;
-  padding-left: 0;
-  list-style: none;
-}
+  :where(.review-content-html p) {
+    margin-top: 0.6rem;
+    margin-bottom: 0.6rem;
+    line-height: 1.9;
+    color: #374151;
+  }
 
-.review-content-html ul li {
-  position: relative;
-  padding: 0.65rem 0.8rem 0.65rem 1.8rem;
-  margin-bottom: 0.4rem;
-  background: rgba(15, 118, 110, 0.03);
-  border-radius: 8px;
-  border: 1px solid rgba(15, 118, 110, 0.06);
-  line-height: 1.7;
-  font-size: 0.9rem;
-}
+  :where(.review-content-html strong) {
+    color: inherit;
+    font-weight: 800;
+  }
 
-.review-content-html ul li::before {
-  content: '✦';
-  position: absolute;
-  left: 0.6rem;
-  top: 0.65rem;
-  color: var(--accent-orange);
-  font-size: 0.7rem;
+  /* ダーク系背景コンテナ内部では文字色を親から継承し、暗い背景×暗い文字を防ぐ */
+  :where(
+    .review-content-html [class*="text-white"],
+    .review-content-html [class*="from-amber-9"],
+    .review-content-html [class*="from-sky-9"],
+    .review-content-html [class*="from-stone-9"],
+    .review-content-html [class*="from-slate-9"],
+    .review-content-html [class*="from-teal-9"],
+    .review-content-html [class*="from-indigo-9"],
+    .review-content-html [class*="from-rose-9"],
+    .review-content-html [class*="from-red-9"],
+    .review-content-html [class*="from-purple-9"],
+    .review-content-html [class*="from-emerald-8"],
+    .review-content-html [class*="from-emerald-9"],
+    .review-content-html [class*="from-cyan-8"],
+    .review-content-html [class*="from-cyan-9"],
+    .review-content-html [class*="bg-stone-9"],
+    .review-content-html [class*="bg-stone-8"],
+    .review-content-html [class*="bg-slate-9"],
+    .review-content-html [class*="bg-teal-9"],
+    .review-content-html [class*="bg-teal-8"],
+    .review-content-html [class*="bg-indigo-9"]
+  ) :where(h2, h3, h4, p, strong, li, span) {
+    color: inherit;
+  }
+
+  /* ダークコンテナ内に明るいインナーカード(bg-white等)がある場合は通常文字色に戻す */
+  :where(
+    .review-content-html [class*="bg-white"],
+    .review-content-html [class*="bg-stone-50"],
+    .review-content-html [class*="bg-amber-50"]
+  ) :where(h2, h3, h4, p, strong, li) {
+    color: #1f2937;
+  }
+
+  :where(.review-content-html ul) {
+    margin: 1rem 0;
+    padding-left: 0;
+    list-style: none;
+  }
+
+  :where(.review-content-html ul li) {
+    position: relative;
+    padding: 0.65rem 0.8rem 0.65rem 1.8rem;
+    margin-bottom: 0.4rem;
+    background: rgba(15, 118, 110, 0.03);
+    border-radius: 8px;
+    border: 1px solid rgba(15, 118, 110, 0.06);
+    line-height: 1.7;
+    font-size: 0.9rem;
+  }
+
+  :where(.review-content-html ul li)::before {
+    content: '✦';
+    position: absolute;
+    left: 0.6rem;
+    top: 0.65rem;
+    color: var(--accent-orange);
+    font-size: 0.7rem;
+  }
+
+  :where(.review-content-html ul[class] li)::before {
+    content: none;
+  }
+
+  :where(.review-content-html ul[class] li) {
+    padding: 0;
+    background: none;
+    border: none;
+  }
 }

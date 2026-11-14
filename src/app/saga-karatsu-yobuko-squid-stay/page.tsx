@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             玄界灘の青い海に松林が連なる風光明媚な城下町「唐津」と、日本一のイカの聖地「呼子（よぶこ）」。透き通る美しさとコリコリした食感の「呼子活イカ姿造り」。国の特別名勝「虹の松原」と、伝統の唐津焼の器で味わう佐賀牛会席へ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"佐賀・唐津＆呼子：唐津城・虹の松原＆呼子活イカ姿造り・佐賀牛宿 厳選ガイド"} url={"https://croud-travel.pages.dev/saga-karatsu-yobuko-squid-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -423,6 +427,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"佐賀・唐津＆呼子：唐津城・虹の松原＆呼子活イカ姿造り・佐賀牛宿 厳選ガイド"} url={"https://croud-travel.pages.dev/saga-karatsu-yobuko-squid-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="saga-karatsu-yobuko-squid-stay" />
 </div>
   );

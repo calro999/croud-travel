@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             12月上旬から東北屈指の極上シルキースノーが楽しめる「安比（あっぴ）高原スキー場」！全21コース・総滑走距離43kmの広大なゲレンデを満喫した後は、白樺林に囲まれた天然温泉大浴場と前沢牛ディナーに寛ぐ極上リゾート。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【12月オープン！安比高原シルキースノー】東北随一のビッグゲレンデと白樺美肌温泉宿5選"} url={"https://croud-travel.pages.dev/winter-iwate-appi-kogen-snow-resort-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -517,6 +521,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【12月オープン！安比高原シルキースノー】東北随一のビッグゲレンデと白樺美肌温泉宿5選"} url={"https://croud-travel.pages.dev/winter-iwate-appi-kogen-snow-resort-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-iwate-appi-kogen-snow-resort-stay" />
 </div>
         </section>

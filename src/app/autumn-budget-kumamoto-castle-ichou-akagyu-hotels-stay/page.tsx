@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -54,6 +55,9 @@ export default function AutumnBudgetKumamotoHotelsPage() {
           </p>
         </div>
       </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"熊本：銀杏城の黄金イチョウと阿蘇あか牛！3,000円台〜泊まれる格安ホテル5選"} url={"https://croud-travel.pages.dev/autumn-budget-kumamoto-castle-ichou-akagyu-hotels-stay/"} />
+      </div>
 
       {/* イントロダクション */}
       <section className="max-w-4xl mx-auto px-4 py-8">
@@ -465,6 +469,9 @@ export default function AutumnBudgetKumamotoHotelsPage() {
               </div>
             </div>
           </div></section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"熊本：銀杏城の黄金イチョウと阿蘇あか牛！3,000円台〜泊まれる格安ホテル5選"} url={"https://croud-travel.pages.dev/autumn-budget-kumamoto-castle-ichou-akagyu-hotels-stay/"} />
+      </div>
         <div className="max-w-4xl mx-auto px-4 sm:px-6">
           <HubRelatedPosts currentSlug="autumn-budget-kumamoto-castle-ichou-akagyu-hotels-stay" />
         </div>

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -258,6 +259,9 @@ export default function NagasakiCityWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【12・1月長崎】長崎市＆稲佐山・南山手！1万5千個の長崎ランタンフェスと稲佐山世界新三大夜景・名物ちゃんぽんと長崎和牛を味わう名宿5選"} url={"https://croud-travel.pages.dev/winter-nagasaki-city-lantern-festival-inasayama-nightview-champon-stay/"} />
+      </div>
 
       {/* Main Content Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 pt-12 space-y-16">
@@ -370,7 +374,7 @@ export default function NagasakiCityWinterPage() {
                       <a 
                         href={h.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center justify-center gap-2 w-full sm:w-auto py-3 px-6 rounded-xl bg-gradient-to-r from-rose-600 to-indigo-600 hover:from-rose-500 hover:to-indigo-500 text-white font-bold text-sm shadow-sm hover:shadow transition-all text-center"
                       >
                         <span>楽天トラベルで宿泊プランを確認</span>
@@ -610,6 +614,9 @@ export default function NagasakiCityWinterPage() {
         <p>© 2026 地域の宿探訪 - 日本の四季と極上ホテル・旅館を巡る旅</p>
       </footer>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【12・1月長崎】長崎市＆稲佐山・南山手！1万5千個の長崎ランタンフェスと稲佐山世界新三大夜景・名物ちゃんぽんと長崎和牛を味わう名宿5選"} url={"https://croud-travel.pages.dev/winter-nagasaki-city-lantern-festival-inasayama-nightview-champon-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-nagasaki-city-lantern-festival-inasayama-nightview-champon-stay" />
 </div>
   );

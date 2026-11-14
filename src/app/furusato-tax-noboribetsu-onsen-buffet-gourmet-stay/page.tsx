@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -8,13 +9,13 @@ export const metadata: Metadata = {
   description: '日本有数の温泉大国・北海道登別温泉を楽天ふるさと納税でお得に満喫！三大蟹食べ放題ビュッフェと全31の湯巡りを誇る「ホテルまほろば」、千五百坪の大浴場に5つの源泉を引く老舗「第一滝本館」、庭園露天風呂と鬼サウナが話題の「登別グランドホテル」を徹底比較。登別市トラベルクーポン活用術を網羅。',
   keywords: '登別温泉 ふるさと納税,登別温泉 バイキング かに,ホテルまほろば ふるさと納税,第一滝本館 クーポン,登別グランドホテル ふるさと納税',
   alternates: {
-    canonical: "https://croud-travel.pages.dev/furusato-tax-noboribetsu-onsen-buffet-gourmet-stay/",
+    canonical: "https://croud-travel.pages.dev/furusato-tax-noboribetsu-onsen-jigokudani-resort-stay/",
   },
   openGraph: {
     title: "登別温泉をふるさと納税でお得に旅する！豪華バイキング＆名湯大浴場！北海道三大蟹と地獄谷の絶景を巡る宿ガイド",
     description: '日本有数の温泉大国・北海道登別温泉を楽天ふるさと納税でお得に満喫！三大蟹食べ放題ビュッフェと全31の湯巡りを誇る「ホテルまほろば」、千五百坪の大浴場に5つの源泉を引く老舗「第一滝本館」、庭園露天風呂と鬼サウナが話題の「登別グランドホテル」を徹底比較。登別市トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-noboribetsu-onsen-buffet-gourmet-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -28,12 +29,12 @@ export default function FurusatoArticlePage() {
     description: '日本有数の温泉大国・北海道登別温泉を楽天ふるさと納税でお得に満喫！三大蟹食べ放題ビュッフェと全31の湯巡りを誇る「ホテルまほろば」、千五百坪の大浴場に5つの源泉を引く老舗「第一滝本館」、庭園露天風呂と鬼サウナが話題の「登別グランドホテル」を徹底比較。登別市トラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル 観光・ふるさと納税調査班',
+      name: '旅宿クラウド 観光・ふるさと納税調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -80,6 +81,9 @@ export default function FurusatoArticlePage() {
           日本有数の温泉大国・北海道登別温泉を楽天ふるさと納税でお得に満喫！三大蟹食べ放題ビュッフェと全31の湯巡りを誇る「ホテルまほろば」、千五百坪の大浴場に5つの源泉を引く老舗「第一滝本館」、庭園露天風呂と鬼サウナが話題の「登別グランドホテル」を徹底比較。登別市トラベルクーポン活用術を網羅。
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"登別温泉をふるさと納税でお得に旅する！豪華バイキング＆名湯大浴場！北海道三大蟹と地獄谷の絶景を巡る宿ガイド"} url={"https://croud-travel.pages.dev/furusato-tax-noboribetsu-onsen-buffet-gourmet-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
@@ -360,7 +364,7 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 登別温泉・地獄谷散策と大自然体感ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">登別温泉・地獄谷散策と大自然体感ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
@@ -586,6 +590,9 @@ export default function FurusatoArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"登別温泉をふるさと納税でお得に旅する！豪華バイキング＆名湯大浴場！北海道三大蟹と地獄谷の絶景を巡る宿ガイド"} url={"https://croud-travel.pages.dev/furusato-tax-noboribetsu-onsen-buffet-gourmet-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-noboribetsu-onsen-buffet-gourmet-stay" />
 </div>
         </section>

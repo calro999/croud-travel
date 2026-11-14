@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -174,6 +175,9 @@ export default function KorankeiAutumnLeavesAccessPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"香嵐渓 紅葉もみじまつり2026：4000本の絶景ライトアップ・大渋滞回避アクセス＆名古屋発日帰りバス"} url={"https://croud-travel.pages.dev/korankei-autumn-leaves-lightup-access-guide/"} />
+      </div>
 
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 space-y-16">
       <script
@@ -647,6 +651,9 @@ export default function KorankeiAutumnLeavesAccessPage() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"香嵐渓 紅葉もみじまつり2026：4000本の絶景ライトアップ・大渋滞回避アクセス＆名古屋発日帰りバス"} url={"https://croud-travel.pages.dev/korankei-autumn-leaves-lightup-access-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="korankei-autumn-leaves-lightup-access-guide" />
 </div>
   );

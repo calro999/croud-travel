@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -240,6 +241,9 @@ export default function OitaUsaKunisakiPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月大分】全国八幡宮総本宮・宇佐神宮新春開運初詣＆国東六郷満山！豊前海天然車海老と極上豊後牛を味わう名宿5選"} url={"https://croud-travel.pages.dev/winter-oita-usa-jingu-kunisaki-hatsumode-bungogyu-seafood-stay/"} />
+      </div>
 
       {/* Main Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
@@ -454,7 +458,7 @@ export default function OitaUsaKunisakiPage() {
                       <a
                         href={h.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl bg-gradient-to-r from-emerald-600 to-teal-700 text-white font-bold text-sm shadow hover:from-emerald-700 hover:to-teal-800 transition-all"
                       >
                         <span>楽天トラベルでプランを見る</span>
@@ -593,6 +597,9 @@ export default function OitaUsaKunisakiPage() {
               <Compass className="w-4 h-4" />
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月大分】全国八幡宮総本宮・宇佐神宮新春開運初詣＆国東六郷満山！豊前海天然車海老と極上豊後牛を味わう名宿5選"} url={"https://croud-travel.pages.dev/winter-oita-usa-jingu-kunisaki-hatsumode-bungogyu-seafood-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-oita-usa-jingu-kunisaki-hatsumode-bungogyu-seafood-stay" />
 </div>
         </section>

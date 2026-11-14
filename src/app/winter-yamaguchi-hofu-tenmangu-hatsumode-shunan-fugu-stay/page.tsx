@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -290,6 +291,9 @@ export default function YamaguchiHofuShunanWinterPage() {
             </p>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月山口】防府天満宮初詣と周南・徳山の冬ふぐ紀行！延縄発祥の地で味わう「本場とらふぐ・笠戸ひらめ・高森牛」と瀬戸内海展望名宿5選"} url={"https://croud-travel.pages.dev/winter-yamaguchi-hofu-tenmangu-hatsumode-shunan-fugu-stay/"} />
+      </div>
 
         {/* Article Summary Box */}
         <section className="max-w-5xl mx-auto px-4 -mt-8 relative z-20">
@@ -442,7 +446,7 @@ export default function YamaguchiHofuShunanWinterPage() {
                         <a
                           href={hotel.url}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="inline-flex items-center gap-2 bg-gradient-to-r from-rose-600 to-amber-600 hover:from-rose-700 hover:to-amber-700 text-white font-bold text-xs md:text-sm px-5 py-2.5 rounded-xl shadow transition-all transform hover:-translate-y-0.5"
                         >
                           <span>空室・料金プランを確認</span>
@@ -608,6 +612,9 @@ export default function YamaguchiHofuShunanWinterPage() {
 
         </main>
       
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月山口】防府天満宮初詣と周南・徳山の冬ふぐ紀行！延縄発祥の地で味わう「本場とらふぐ・笠戸ひらめ・高森牛」と瀬戸内海展望名宿5選"} url={"https://croud-travel.pages.dev/winter-yamaguchi-hofu-tenmangu-hatsumode-shunan-fugu-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-yamaguchi-hofu-tenmangu-hatsumode-shunan-fugu-stay" />
 </div>
     </>

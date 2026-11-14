@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             「国境の長いトンネルを抜けると雪国であった」。川端康成の名作『雪国』が生まれた歴史ある湯治場「越後湯沢温泉」。越後全蔵の銘酒を味わうぽんしゅ館、炊きたて魚沼産コシヒカリの甘み、極上の雪見露天風呂へ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"新潟・越後湯沢＆魚沼：川端康成雪国・ぽんしゅ館利き酒＆魚沼産コシヒカリ極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/niigata-echigo-yuzawa-snow-sake-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"新潟・越後湯沢＆魚沼：川端康成雪国・ぽんしゅ館利き酒＆魚沼産コシヒカリ極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/niigata-echigo-yuzawa-snow-sake-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="niigata-echigo-yuzawa-snow-sake-stay" />
 </div>
   );

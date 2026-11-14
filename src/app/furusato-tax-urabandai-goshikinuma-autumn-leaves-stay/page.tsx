@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
@@ -5,9 +6,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '裏磐梯五色沼の神秘の湖沼群紅葉＆磐梯山ゴールドライン！高原リゾート温泉×ふるさと納税厳選ガイド福島',
   description: '10月中旬〜11月上旬にエメラルドグリーンやコバルトブルーの水面に紅葉が映える「裏磐梯五色沼湖沼群」。磐梯山ゴールドラインの絶景ドライブと、国立公園内に佇む「裏磐梯レイクリゾート 迎賓館 猫魔離宮」「五色の森」「裏磐梯高原ホテル」で福島牛や会津地鶏・喜多方ラーメンを堪能。ふるさと納税トラベルクーポンで実質2,000円。',
-  keywords: ["裏磐梯五色沼の神秘の湖沼群紅葉", "2026年最新秋旅", "福島", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
+  keywords: ["裏磐梯五色沼の神秘の湖沼群紅葉", "2026年末・冬休み対応", "福島", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: "https://croud-travel.pages.dev/furusato-tax-urabandai-goshikinuma-autumn-leaves-stay/"
+    canonical: "https://croud-travel.pages.dev/furusato-tax-highland-resort-french-auberge-stay/"
   },
   openGraph: {
     title: '裏磐梯五色沼の神秘の湖沼群紅葉＆磐梯山ゴールドライン！高原リゾート温泉×ふるさと納税厳選ガイド福島',
@@ -38,7 +39,7 @@ const HOTEL_DATA = {
   urabandai_lake_resort: {
     name: '裏磐梯レイクリゾート　本館　五色の森（旧：裏磐梯猫魔ホテル）',
     no: 149014,
-    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F151377%2F151377.html',
+    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F149014%2F149014.html',
     planUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F149014%2F149014.html%26f_flg%3DPLAN',
     reviewUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D149014',
     img: 'https://img.travel.rakuten.co.jp/share/HOTEL/149014/149014.jpg',
@@ -53,7 +54,7 @@ const HOTEL_DATA = {
   urabandai_active_resort: {
     name: '裏磐梯高原ホテル',
     no: 16368,
-    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F149014%2F149014.html',
+    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F16368%2F16368.html',
     planUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F16368%2F16368.html%26f_flg%3DPLAN',
     reviewUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D16368',
     img: 'https://img.travel.rakuten.co.jp/share/HOTEL/16368/16368.jpg',
@@ -72,7 +73,7 @@ export default function FeatureArticlePage() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "裏磐梯五色沼の神秘の湖沼群紅葉＆磐梯山ゴールドライン！高原リゾート温泉×ふるさと納税完全ガイド【2026年最新秋旅】福島",
+    "headline": "裏磐梯五色沼の神秘の湖沼群紅葉＆磐梯山ゴールドライン！高原リゾート温泉×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】福島",
     "description": "10月中旬〜11月上旬にエメラルドグリーンやコバルトブルーの水面に紅葉が映える「裏磐梯五色沼湖沼群」。磐梯山ゴールドラインの絶景ドライブと、国立公園内に佇む「裏磐梯レイクリゾート 迎賓館 猫魔離宮」「五色の森」「裏磐梯高原ホテル」で福島牛や会津地鶏・喜多方ラーメンを堪能。ふるさと納税トラベルクーポンで実質2,000円。",
     "url": "https://croud-travel.pages.dev/furusato-tax-urabandai-goshikinuma-autumn-leaves-stay/",
     "publisher": {
@@ -86,7 +87,7 @@ export default function FeatureArticlePage() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "裏磐梯五色沼の神秘の湖沼群紅葉＆磐梯山ゴールドライン！高原リゾート温泉×ふるさと納税完全ガイド【2026年最新秋旅】福島", "item": "https://croud-travel.pages.dev/furusato-tax-urabandai-goshikinuma-autumn-leaves-stay/" }
+      { "@type": "ListItem", "position": 2, "name": "裏磐梯五色沼の神秘の湖沼群紅葉＆磐梯山ゴールドライン！高原リゾート温泉×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】福島", "item": "https://croud-travel.pages.dev/furusato-tax-urabandai-goshikinuma-autumn-leaves-stay/" }
     ]
   };
 
@@ -111,7 +112,7 @@ export default function FeatureArticlePage() {
       <header className="bg-gradient-to-br from-emerald-950 via-teal-900 to-stone-900 text-white py-14 md:py-20 px-4 mb-10 shadow-lg">
         <div className="max-w-5xl mx-auto text-center">
           <div className="inline-flex items-center gap-2 bg-white/20 backdrop-blur-md px-4 py-1.5 rounded-full text-xs md:text-sm font-semibold mb-5 text-amber-200">
-            <span>🍁 10月・11月限定 秋旅特集</span>
+            <span>🍁 12/31締切 年末駆け込み＆冬休み対応</span>
             <span>•</span>
             <span>楽天ふるさと納税トラベルクーポン対応</span>
           </div>
@@ -121,6 +122,9 @@ export default function FeatureArticlePage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"裏磐梯五色沼の神秘の湖沼群紅葉＆磐梯山ゴールドライン！高原リゾート温泉×ふるさと納税厳選ガイド福島"} url={"https://croud-travel.pages.dev/furusato-tax-urabandai-goshikinuma-autumn-leaves-stay/"} />
+      </div>
 
       <div className="max-w-5xl mx-auto px-4 grid grid-cols-1 lg:grid-cols-3 gap-8">
         {/* メインコンテンツ */}
@@ -132,11 +136,11 @@ export default function FeatureArticlePage() {
               福島県・磐梯朝日国立公園に位置する裏磐梯は、明治の磐梯山噴火によって生まれた美しい湖沼群が点在する大自然の宝庫。秋には五色沼（毘沙門沼・弁天沼など）がエメラルドグリーンや青く輝き、周囲のモミジやカラマツが鮮やかに映り込みます。磐梯山ゴールドラインやレークラインの爽快な紅葉ドライブを楽しみ、茶褐色の自噴天然温泉と福島牛の美味を堪能できます。
             </p>
             <div className="bg-amber-50/80 rounded-xl p-5 border border-amber-200/80">
-              <h3 className="font-bold text-amber-950 text-sm md:text-base mb-2 flex items-center gap-2">10月〜11月の旅を満喫する3大ポイント</h3>
+              <h3 className="font-bold text-amber-950 text-sm md:text-base mb-2 flex items-center gap-2">年末〜冬休み・来春の旅を満喫する3大ポイント</h3>
               <ul className="text-xs md:text-sm text-amber-900 space-y-2 list-disc list-inside">
-                <li><strong>見頃の紅葉パノラマ：</strong>標高や日当たりで刻一刻と変化するグラデーションを鑑賞（裏磐梯五色沼の神秘の湖沼群紅葉＆磐梯山ゴールドライン）</li>
-                <li><strong>極上の温泉と湯巡り：</strong>朝夕の冷え込む秋風の中で入る露天風呂は格別の贅沢（裏磐梯五色沼の神秘の湖沼群紅葉＆磐梯山ゴールドライン）</li>
-                <li><strong>控除上限内なら自己負担実質2,000円（最大30%クーポン還元）：</strong>楽天ふるさと納税トラベルクーポンで賢く予約（裏磐梯五色沼の神秘の湖沼群紅葉＆磐梯山ゴールドライン）</li>
+                <li><strong>見頃の紅葉パノラマ：</strong>標高や日当たりで刻一刻と変化するグラデーションを鑑賞</li>
+                <li><strong>極上の温泉と湯巡り：</strong>朝夕の冷え込む秋風の中で入る露天風呂は格別の贅沢</li>
+                <li><strong>控除上限内なら自己負担実質2,000円（最大30%クーポン還元）：</strong>楽天ふるさと納税トラベルクーポンで賢く予約</li>
               </ul>
             </div>
           </section>
@@ -185,7 +189,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.urabandai_kogen_hotel.planUrl || HOTEL_DATA.urabandai_kogen_hotel.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-3.5 px-6 rounded-xl text-center shadow-md transition-all text-sm md:text-base flex items-center justify-center gap-2"
               >
                 <span>プラン一覧・空室確認（楽天トラベル）</span>
@@ -194,7 +198,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.urabandai_kogen_hotel.reviewUrl || HOTEL_DATA.urabandai_kogen_hotel.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="bg-stone-100 hover:bg-stone-200 text-stone-700 font-bold py-3.5 px-5 rounded-xl text-center border border-stone-300 text-sm transition-all"
               >
                 口コミを見る
@@ -246,7 +250,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.urabandai_lake_resort.planUrl || HOTEL_DATA.urabandai_lake_resort.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-3.5 px-6 rounded-xl text-center shadow-md transition-all text-sm md:text-base flex items-center justify-center gap-2"
               >
                 <span>プラン一覧・空室確認（楽天トラベル）</span>
@@ -255,7 +259,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.urabandai_lake_resort.reviewUrl || HOTEL_DATA.urabandai_lake_resort.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="bg-stone-100 hover:bg-stone-200 text-stone-700 font-bold py-3.5 px-5 rounded-xl text-center border border-stone-300 text-sm transition-all"
               >
                 口コミを見る
@@ -307,7 +311,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.urabandai_active_resort.planUrl || HOTEL_DATA.urabandai_active_resort.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-3.5 px-6 rounded-xl text-center shadow-md transition-all text-sm md:text-base flex items-center justify-center gap-2"
               >
                 <span>プラン一覧・空室確認（楽天トラベル）</span>
@@ -316,7 +320,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.urabandai_active_resort.reviewUrl || HOTEL_DATA.urabandai_active_resort.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="bg-stone-100 hover:bg-stone-200 text-stone-700 font-bold py-3.5 px-5 rounded-xl text-center border border-stone-300 text-sm transition-all"
               >
                 口コミを見る
@@ -357,19 +361,19 @@ export default function FeatureArticlePage() {
             <h3 className="font-bold text-stone-900 mb-4 pb-2 border-b border-stone-200 flex items-center gap-2">この特集で紹介した宿</h3>
             <ul className="space-y-4 text-xs md:text-sm">
               <li>
-                <a href={HOTEL_DATA.urabandai_kogen_hotel.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
+                <a href={HOTEL_DATA.urabandai_kogen_hotel.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
                   <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.urabandai_kogen_hotel.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.urabandai_kogen_hotel.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
-                <a href={HOTEL_DATA.urabandai_lake_resort.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
+                <a href={HOTEL_DATA.urabandai_lake_resort.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
                   <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.urabandai_lake_resort.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.urabandai_lake_resort.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
-                <a href={HOTEL_DATA.urabandai_active_resort.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
+                <a href={HOTEL_DATA.urabandai_active_resort.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
                   <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.urabandai_active_resort.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.urabandai_active_resort.rating} | 楽天トラベルで詳細確認</div>
                 </a>
@@ -531,6 +535,9 @@ export default function FeatureArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"裏磐梯五色沼の神秘の湖沼群紅葉＆磐梯山ゴールドライン！高原リゾート温泉×ふるさと納税厳選ガイド福島"} url={"https://croud-travel.pages.dev/furusato-tax-urabandai-goshikinuma-autumn-leaves-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-urabandai-goshikinuma-autumn-leaves-stay" />
 </div>
         </section>

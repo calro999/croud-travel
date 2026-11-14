@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -13,7 +14,7 @@ export const metadata: Metadata = {
     title: '秋田出張＆美酒ひとり旅：秋田駅直結・天然温泉大浴場・比内地鶏きりたんぽ鍋！酒どころ秋田を満喫する極上ホテル 厳選3選',
     description: '秋田新幹線こまち停車・北東北の美酒王国「秋田」！「JR秋田駅直結で快適なワーク環境を誇る」の「ホテルメトロポリタン秋田」、最上階に自家源泉の天然温泉大浴場と夜鳴きそば完備の「中通温泉 こまちの湯 ドーミーイン秋田」、千秋公園のお堀端に佇む格式ある迎賓館「秋田キャッスルホテル」を徹底比較。',
     url: 'https://croud-travel.pages.dev/akita-solo-business-kiritanpo-onsen-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -27,12 +28,12 @@ export default function ArticlePage() {
     description: '秋田新幹線こまち停車・北東北の美酒王国「秋田」！「JR秋田駅直結で快適なワーク環境を誇る」の「ホテルメトロポリタン秋田」、最上階に自家源泉の天然温泉大浴場と夜鳴きそば完備の「中通温泉 こまちの湯 ドーミーイン秋田」、千秋公園のお堀端に佇む格式ある迎賓館「秋田キャッスルホテル」を徹底比較。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル ひとり旅・出張調査班',
+      name: '旅宿クラウド ひとり旅・出張調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -79,6 +80,9 @@ export default function ArticlePage() {
           秋田新幹線こまち停車・北東北の美酒王国「秋田」！「JR秋田駅直結で快適なワーク環境を誇る」の「ホテルメトロポリタン秋田」、最上階に自家源泉の天然温泉大浴場と夜鳴きそば完備の「中通温泉 こまちの湯 ドーミーイン秋田」、千秋公園のお堀端に佇む格式ある迎賓館「秋田キャッスルホテル」を徹底比較。
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"秋田出張＆美酒ひとり旅：秋田駅直結・天然温泉大浴場・比内地鶏きりたんぽ鍋！酒どころ秋田を満喫する極上ホテル 厳選3選"} url={"https://croud-travel.pages.dev/akita-solo-business-kiritanpo-onsen-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
@@ -381,7 +385,7 @@ export default function ArticlePage() {
             href="/"
             className="inline-flex items-center gap-2 text-sm text-stone-600 hover:text-stone-900 font-medium transition-colors"
           >
-            ← クラウドトラベル トップページへ戻る
+            ← 旅宿クラウド トップページへ戻る
           </Link>
         </div>
       </div>
@@ -454,6 +458,10 @@ export default function ArticlePage() {
           </div>
         </section>
 
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"秋田出張＆美酒ひとり旅：秋田駅直結・天然温泉大浴場・比内地鶏きりたんぽ鍋！酒どころ秋田を満喫する極上ホテル 厳選3選"} url={"https://croud-travel.pages.dev/akita-solo-business-kiritanpo-onsen-stay/"} />
+      </div>
       </main>
   );
 }

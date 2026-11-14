@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -13,7 +14,7 @@ export const metadata: Metadata = {
     title: '熊本出張＆城下町ひとり旅：最上階展望スカイスパ・天然温泉・熊本城ビュー！名物馬刺しを満喫する極上宿 厳選3選',
     description: 'TSMC進出で沸く九州の中枢ビジネス都市・熊本！「最上階スカイスパと露天風呂で星空をととのえる」新ランドマーク「CANDEO HOTELS 熊本新市街」、サクラマチクマモト直結で天然温泉大浴場と夜鳴きそば完備の「天然温泉 六花の湯 ドーミーイン熊本」、熊本城を正面に望む格式の迎賓ホテル「熊本ホテルキャッスル」を徹底比較。',
     url: 'https://croud-travel.pages.dev/kumamoto-solo-business-skyspa-gourmet-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -27,12 +28,12 @@ export default function ArticlePage() {
     description: 'TSMC進出で沸く九州の中枢ビジネス都市・熊本！「最上階スカイスパと露天風呂で星空をととのえる」新ランドマーク「CANDEO HOTELS 熊本新市街」、サクラマチクマモト直結で天然温泉大浴場と夜鳴きそば完備の「天然温泉 六花の湯 ドーミーイン熊本」、熊本城を正面に望む格式の迎賓ホテル「熊本ホテルキャッスル」を徹底比較。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル ひとり旅・出張調査班',
+      name: '旅宿クラウド ひとり旅・出張調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -79,6 +80,9 @@ export default function ArticlePage() {
           TSMC進出で沸く九州の中枢ビジネス都市・熊本！「最上階スカイスパと露天風呂で星空をととのえる」新ランドマーク「CANDEO HOTELS 熊本新市街」、サクラマチクマモト直結で天然温泉大浴場と夜鳴きそば完備の「天然温泉 六花の湯 ドーミーイン熊本」、熊本城を正面に望む格式の迎賓ホテル「熊本ホテルキャッスル」を徹底比較。
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"熊本出張＆城下町ひとり旅：最上階展望スカイスパ・天然温泉・熊本城ビュー！名物馬刺しを満喫する極上宿 厳選3選"} url={"https://croud-travel.pages.dev/kumamoto-solo-business-skyspa-gourmet-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
@@ -381,7 +385,7 @@ export default function ArticlePage() {
             href="/"
             className="inline-flex items-center gap-2 text-sm text-stone-600 hover:text-stone-900 font-medium transition-colors"
           >
-            ← クラウドトラベル トップページへ戻る
+            ← 旅宿クラウド トップページへ戻る
           </Link>
         </div>
       </div>
@@ -473,6 +477,9 @@ export default function ArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"熊本出張＆城下町ひとり旅：最上階展望スカイスパ・天然温泉・熊本城ビュー！名物馬刺しを満喫する極上宿 厳選3選"} url={"https://croud-travel.pages.dev/kumamoto-solo-business-skyspa-gourmet-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="kumamoto-solo-business-skyspa-gourmet-stay" />
 </div>
         </section>

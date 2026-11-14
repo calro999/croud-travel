@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月静岡・伊豆稲取温泉の極上地金目鯛会席と相模灘絶景】オーシャンビュー展望露天風呂＆伊豆温暖避寒の宿5選',
     description: '11月から12月にかけて、伊豆半島東海岸の岬に広がる稲取温泉は、冬の味覚の最高峰「稲取一本釣り地金目鯛（きんめだい）」が年間で最も上質な脂を。',
     url: 'https://croud-travel.pages.dev/winter-shizuoka-inatori-onsen-kinmedai-oceanview-stay/',
-    siteName: 'クラドトラベル (Croud Travel)',
+    siteName: '旅宿クラウド (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -257,6 +258,9 @@ export default function ShizuokaInatoriWinterFeature() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月静岡・伊豆稲取温泉の極上地金目鯛会席と相模灘絶景】オーシャンビュー展望露天風呂＆伊豆温暖避寒の宿5選"} url={"https://croud-travel.pages.dev/winter-shizuoka-inatori-onsen-kinmedai-oceanview-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 space-y-16">
@@ -421,7 +425,7 @@ export default function ShizuokaInatoriWinterFeature() {
                       <a
                         href={h.url}
                         target="_blank"
-                        rel="noopener noreferrer nofollow"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center justify-center gap-2 px-6 py-3.5 rounded-xl bg-rose-600 hover:bg-rose-700 text-white font-bold text-sm shadow-md shadow-rose-900/10 transition duration-200 group"
                       >
                         <span>空室・宿泊プランを確認する</span>
@@ -608,6 +612,9 @@ export default function ShizuokaInatoriWinterFeature() {
               <h3 className="text-sm font-bold group-hover:text-rose-200 transition">冬に食べたい極上牡蠣＆海鮮グルメ温泉旅館ランキング</h3>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月静岡・伊豆稲取温泉の極上地金目鯛会席と相模灘絶景】オーシャンビュー展望露天風呂＆伊豆温暖避寒の宿5選"} url={"https://croud-travel.pages.dev/winter-shizuoka-inatori-onsen-kinmedai-oceanview-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-shizuoka-inatori-onsen-kinmedai-oceanview-stay" />
 </div>
         </section>

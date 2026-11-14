@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -113,6 +114,9 @@ export default function SeasonalFeaturePage() {
             色鮮やかな落ち葉を踏みしめながらの紅葉散歩や、澄んだ空気の広大なドッグラン。愛犬と一緒に客室でくつろぎ、一緒にレストランで食事を楽しめる、ワンちゃんファーストの極上温泉リゾートへ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"愛犬と一緒：秋・冬のドッグラン＆ペット同伴温泉宿 厳選ガイド"} url={"https://croud-travel.pages.dev/autumn-winter-onsen-with-pet/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function SeasonalFeaturePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"愛犬と一緒：秋・冬のドッグラン＆ペット同伴温泉宿 厳選ガイド"} url={"https://croud-travel.pages.dev/autumn-winter-onsen-with-pet/"} />
+      </div>
       <HubRelatedPosts currentSlug="autumn-winter-onsen-with-pet" />
 </div>
   );

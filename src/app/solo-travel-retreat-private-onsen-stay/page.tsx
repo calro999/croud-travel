@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function TargetAudienceHubPage() {
             誰にも気兼ねせず、自分のリズムだけで過ごす至福のひとり温泉旅。夕朝食ともにお部屋でいただく贅沢な美食、湯気立ち上る客室専用露天風呂、静かな読書ラウンジ。心と身体を深く整える究極のリトリートへ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"大人のひとり温泉旅：お部屋食・客室露天風呂＆レイトアウト完全おこもり宿 厳選ガイド"} url={"https://croud-travel.pages.dev/solo-travel-retreat-private-onsen-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function TargetAudienceHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"大人のひとり温泉旅：お部屋食・客室露天風呂＆レイトアウト完全おこもり宿 厳選ガイド"} url={"https://croud-travel.pages.dev/solo-travel-retreat-private-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="solo-travel-retreat-private-onsen-stay" />
 </div>
   );

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Image from 'next/image';
@@ -63,12 +64,14 @@ export default function KanazawaKenrokuenAutumnPage() {
             見頃の時期には夜間無料開放とライトアップが実施され、鏡のような霞ヶ池や徽軫灯籠（ことじとうろう）が黄金の輝きを放ちます。昼は近江町市場で解禁直後のカニや秋の味覚を堪能し、夜は湯涌温泉や市内の温泉宿で名湯に浸かる贅沢なステイを満喫しましょう。
           </p>
         </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"秋の金沢：兼六園の雪吊りと紅葉ライトアップ！秋の風情と温泉を味わうおすすめ名宿5選「2026最新」"} url={"https://croud-travel.pages.dev/autumn-ishikawa-kanazawa-kenrokuen-yukitsuri-momiji-hotels-stay/"} />
+      </div>
 
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-amber-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！金沢・兼六園周辺の厳選名宿5選</h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">楽天トラベル高評価！金沢・兼六園周辺の厳選名宿5選</h2>
 
           <div className="space-y-8">
 
@@ -498,6 +501,9 @@ export default function KanazawaKenrokuenAutumnPage() {
               </div>
             </div>
           </div></section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"秋の金沢：兼六園の雪吊りと紅葉ライトアップ！秋の風情と温泉を味わうおすすめ名宿5選「2026最新」"} url={"https://croud-travel.pages.dev/autumn-ishikawa-kanazawa-kenrokuen-yukitsuri-momiji-hotels-stay/"} />
+      </div>
         <div className="max-w-4xl mx-auto px-4 sm:px-6">
           <HubRelatedPosts currentSlug="autumn-ishikawa-kanazawa-kenrokuen-yukitsuri-momiji-hotels-stay" />
         </div>

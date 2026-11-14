@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             12月から姿を現す世界的に有名な冬の奇跡「蔵王の樹氷（スノーモンスター）」！ナイトクルーザーで行く樹氷ライトアップ鑑賞と、開湯1900年の歴史を誇るpH1.3強酸性・白濁硫黄泉の源泉かけ流しで温まる感動の冬旅。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【12月開幕！蔵王樹氷スノーモンスター】幻想的な白銀世界と白濁硫黄泉のにごり湯宿5選"} url={"https://croud-travel.pages.dev/winter-zao-snow-monster-ice-tree-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -578,6 +582,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【12月開幕！蔵王樹氷スノーモンスター】幻想的な白銀世界と白濁硫黄泉のにごり湯宿5選"} url={"https://croud-travel.pages.dev/winter-zao-snow-monster-ice-tree-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-zao-snow-monster-ice-tree-stay" />
 </div>
         </section>

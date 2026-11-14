@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function WomenSoloRetreatHubPage() {
             誰にも気兼ねなく、自分のペースで過ごす贅沢な休日「女性一人旅・ご褒美温泉宿」。安心のオートロック・女性専用エリア。ReFaのシャワーヘッドや高級スキンケア。お部屋食や半個室ダイニングで味わう美食と、つるつるの美肌温泉へ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"女性一人旅・安心ステイ＆ご褒美温泉宿：女性専用フロア＆Refa・美肌湯 厳選ガイド"} url={"https://croud-travel.pages.dev/women-solo-safe-amenity-onsen-retreat-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆厳選宿 */}
@@ -231,6 +235,9 @@ export default function WomenSoloRetreatHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"女性一人旅・安心ステイ＆ご褒美温泉宿：女性専用フロア＆Refa・美肌湯 厳選ガイド"} url={"https://croud-travel.pages.dev/women-solo-safe-amenity-onsen-retreat-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="women-solo-safe-amenity-onsen-retreat-stay" />
 </div>
   );

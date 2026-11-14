@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
     title: '【11・12・1月岡山】瀬戸内冬の味覚「日生牡蠣（ひなせかき）」と名物カキオコ・殻付き焼き牡蠣＆牛窓オリーブ園夕陽・日本のエーゲ海リゾート温泉宿5選',
     description: '11月から1月、岡山県南東部の備前・日生（ひなせ）と瀬戸内市牛窓は、冬の海の恵み「日生牡蠣」の水揚げ最盛期と日本のエーゲ海と称される穏やかな。',
     url: 'https://croud-travel.pages.dev/winter-okayama-hinase-ushimado-oyster-kakioko-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     images: [
       {
         url: 'https://img.travel.rakuten.co.jp/share/HOTEL/38473/38473.jpg',
@@ -49,12 +50,12 @@ export default function OkayamaHinaseOysterWinterPage() {
     dateModified: '',
     author: {
       '@type': 'Organization',
-      name: 'クラドトラベル編集部',
+      name: '旅宿クラウド編集部',
       url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png'
@@ -293,6 +294,9 @@ export default function OkayamaHinaseOysterWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月岡山】瀬戸内冬の味覚「日生牡蠣（ひなせかき）」と名物カキオコ・殻付き焼き牡蠣＆牛窓オリーブ園夕陽・日本のエーゲ海リゾート温泉宿5選"} url={"https://croud-travel.pages.dev/winter-okayama-hinase-ushimado-oyster-kakioko-stay/"} />
+      </div>
 
       {/* Main Content Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 pt-12 space-y-16">
@@ -432,7 +436,7 @@ export default function OkayamaHinaseOysterWinterPage() {
                     <a 
                       href={hotel.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="w-full inline-flex items-center justify-center gap-2 bg-gradient-to-r from-sky-800 to-slate-900 hover:from-sky-900 hover:to-black text-white font-bold py-3.5 px-6 rounded-2xl shadow-sm hover:shadow transition text-sm tracking-wide"
                     >
                       <span>楽天トラベルで空室・冬限定プランを見る</span>
@@ -635,6 +639,9 @@ export default function OkayamaHinaseOysterWinterPage() {
               <p className="font-bold text-stone-800 line-clamp-2">世界屈指のラジウム温泉と冬の味覚松葉ガニフルコースの名宿</p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月岡山】瀬戸内冬の味覚「日生牡蠣（ひなせかき）」と名物カキオコ・殻付き焼き牡蠣＆牛窓オリーブ園夕陽・日本のエーゲ海リゾート温泉宿5選"} url={"https://croud-travel.pages.dev/winter-okayama-hinase-ushimado-oyster-kakioko-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-okayama-hinase-ushimado-oyster-kakioko-stay" />
 </div>
         </section>

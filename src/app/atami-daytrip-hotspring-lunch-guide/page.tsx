@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -153,6 +154,9 @@ export default function AtamiDaytripHotspringLunchPage() {
             </a>
           </div>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"熱海 日帰り温泉 ランチ付きおすすめ：相模湾一望オーシャンビュー露天風呂＆極上海鮮丼日帰りプラン"} url={"https://croud-travel.pages.dev/atami-daytrip-hotspring-lunch-guide/"} />
+      </div>
       </section>
 
       {/* 内部リンクカード（Orangeトーン） */}
@@ -409,6 +413,9 @@ export default function AtamiDaytripHotspringLunchPage() {
         </ul>
       </section>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"熱海 日帰り温泉 ランチ付きおすすめ：相模湾一望オーシャンビュー露天風呂＆極上海鮮丼日帰りプラン"} url={"https://croud-travel.pages.dev/atami-daytrip-hotspring-lunch-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="atami-daytrip-hotspring-lunch-guide" />
 </div>
   );

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -216,6 +217,9 @@ export default function GlampingFirstTimeRegretsPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"初めてのグランピングで後悔したことワースト5：夜の冷え込み・虫対策・煙で服崩壊！持って行くべき神グッズ"} url={"https://croud-travel.pages.dev/glamping-first-time-regrets-packing-guide/"} />
+      </div>
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-16">
@@ -289,7 +293,7 @@ export default function GlampingFirstTimeRegretsPage() {
                       </p>
                     </div>
                     <div className="bg-teal-50 border border-teal-200 rounded-2xl p-4">
-                      <h4 className="text-xs font-black text-teal-900 uppercase tracking-wider flex items-center gap-1.5 mb-2"><span>️</span> 失敗ゼロの快適テクニック</h4>
+                      <h4 className="text-xs font-black text-teal-900 uppercase tracking-wider flex items-center gap-1.5 mb-2">失敗ゼロの快適テクニック</h4>
                       <ul className="text-xs sm:text-sm text-slate-700 space-y-1.5 list-disc list-inside leading-relaxed">
                         {regret.solution.map((sol, idx) => (
                           <li key={idx}>{sol}</li>
@@ -586,6 +590,9 @@ export default function GlampingFirstTimeRegretsPage() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"初めてのグランピングで後悔したことワースト5：夜の冷え込み・虫対策・煙で服崩壊！持って行くべき神グッズ"} url={"https://croud-travel.pages.dev/glamping-first-time-regrets-packing-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="glamping-first-time-regrets-packing-guide" />
 </div>
   );

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -13,7 +14,7 @@ export const metadata: Metadata = {
     title: '静岡出張＆富士山ひとり旅：新幹線直結・清水港まぐろ・静岡茶ラウンジ！名峰の絶景に癒やされる極上ホテル 厳選3選',
     description: '東海道新幹線ひかり停車・静岡県の県庁所在地！「JR静岡駅北口広場直結の格式あるランドマーク」を誇る「ホテルアソシア静岡」、南口徒歩1分で高層階から富士山や駿河湾を一望する「ホテルグランヒルズ静岡」、創業1916年で静岡グルメバイキングが自慢の「中島屋グランドホテル」を徹底特集。',
     url: 'https://croud-travel.pages.dev/shizuoka-solo-business-maguro-fujiview-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -27,12 +28,12 @@ export default function ArticlePage() {
     description: '東海道新幹線ひかり停車・静岡県の県庁所在地！「JR静岡駅北口広場直結の格式あるランドマーク」を誇る「ホテルアソシア静岡」、南口徒歩1分で高層階から富士山や駿河湾を一望する「ホテルグランヒルズ静岡」、創業1916年で静岡グルメバイキングが自慢の「中島屋グランドホテル」を徹底特集。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル ひとり旅・出張調査班',
+      name: '旅宿クラウド ひとり旅・出張調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -79,6 +80,9 @@ export default function ArticlePage() {
           東海道新幹線ひかり停車・静岡県の県庁所在地！「JR静岡駅北口広場直結の格式あるランドマーク」を誇る「ホテルアソシア静岡」、南口徒歩1分で高層階から富士山や駿河湾を一望する「ホテルグランヒルズ静岡」、創業1916年で静岡グルメバイキングが自慢の「中島屋グランドホテル」を徹底特集。
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"静岡出張＆富士山ひとり旅：新幹線直結・清水港まぐろ・静岡茶ラウンジ！名峰の絶景に癒やされる極上ホテル 厳選3選"} url={"https://croud-travel.pages.dev/shizuoka-solo-business-maguro-fujiview-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
@@ -381,7 +385,7 @@ export default function ArticlePage() {
             href="/"
             className="inline-flex items-center gap-2 text-sm text-stone-600 hover:text-stone-900 font-medium transition-colors"
           >
-            ← クラウドトラベル トップページへ戻る
+            ← 旅宿クラウド トップページへ戻る
           </Link>
         </div>
       </div>
@@ -473,6 +477,9 @@ export default function ArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"静岡出張＆富士山ひとり旅：新幹線直結・清水港まぐろ・静岡茶ラウンジ！名峰の絶景に癒やされる極上ホテル 厳選3選"} url={"https://croud-travel.pages.dev/shizuoka-solo-business-maguro-fujiview-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="shizuoka-solo-business-maguro-fujiview-stay" />
 </div>
         </section>

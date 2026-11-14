@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -188,6 +189,9 @@ export default function TokyoDepartureDaytripBusTourPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"東京・新宿発 日帰りバスツアーおすすめ2026：季節のフルーツ狩り・絶景温泉・食べ放題の最強プラン徹底比較"} url={"https://croud-travel.pages.dev/tokyo-departure-daytrip-bus-tour-guide/"} />
+      </div>
 
       {/* 🚀 Breadcrumbs */}
       <nav className="bg-emerald-900/10 border-b border-emerald-900/10 py-2.5 px-4 text-xs text-slate-600">
@@ -448,7 +452,7 @@ export default function TokyoDepartureDaytripBusTourPage() {
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-emerald-100 shadow-sm space-y-2">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5"><span>️</span> クーポン利用でお得に予約</h3>
+              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5">クーポン利用でお得に予約</h3>
               <p className="text-slate-600 leading-relaxed text-xs">
                 楽天トラベルでは定期的に「日帰りバスツアー割引クーポン」や「楽天スーパーSALE連動ポイント倍増」を実施。予約前にクーポン獲得をお忘れなく！
               </p>
@@ -570,6 +574,9 @@ export default function TokyoDepartureDaytripBusTourPage() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"東京・新宿発 日帰りバスツアーおすすめ2026：季節のフルーツ狩り・絶景温泉・食べ放題の最強プラン徹底比較"} url={"https://croud-travel.pages.dev/tokyo-departure-daytrip-bus-tour-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="tokyo-departure-daytrip-bus-tour-guide" />
 </div>
   );

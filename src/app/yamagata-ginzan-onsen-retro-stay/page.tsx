@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             まるで大正時代にタイムスリップしたかのような木造多層建築の温泉街。夕暮れ時にオレンジ色のガス灯が灯り、川面から立ち上る湯けむり。冬の白銀に包まれる日本一フォトジェニックな名湯へ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"山形・銀山温泉：ガス灯揺れる大正ロマン木造街＆尾花沢牛極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/yamagata-ginzan-onsen-retro-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -231,6 +235,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"山形・銀山温泉：ガス灯揺れる大正ロマン木造街＆尾花沢牛極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/yamagata-ginzan-onsen-retro-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="yamagata-ginzan-onsen-retro-stay" />
 </div>
   );

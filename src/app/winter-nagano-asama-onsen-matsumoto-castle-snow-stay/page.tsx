@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月信州松本浅間温泉の国宝松本城初雪と城下町名湯】開湯1300年アルカリ単純泉・挽きたて信州新そば＆信州プレミアム牛すき焼きの宿5選',
     description: '11月から12月にかけて長野県・松本平は、雪化粧した北アルプスの山並みが澄み渡る初冬の青空にそびえ立ち。',
     url: 'https://croud-travel.pages.dev/winter-nagano-asama-onsen-matsumoto-castle-snow-stay/',
-    siteName: 'クラドトラベル (Croud Travel)',
+    siteName: '旅宿クラウド (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -287,6 +288,9 @@ export default function AsamaOnsenWinterFeature() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月信州松本浅間温泉の国宝松本城初雪と城下町名湯】開湯1300年アルカリ単純泉・挽きたて信州新そば＆信州プレミアム牛すき焼きの宿5選"} url={"https://croud-travel.pages.dev/winter-nagano-asama-onsen-matsumoto-castle-snow-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-10 space-y-12">
@@ -393,7 +397,7 @@ export default function AsamaOnsenWinterFeature() {
                           <span className="text-slate-400 font-normal text-xs">({h.reviews}件)</span>
                         </div>
                       </div>
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-teal-800 transition"><a href={h.url} target="_blank" rel="noopener noreferrer">
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-teal-800 transition"><a href={h.url} target="_blank" rel="sponsored noopener noreferrer">
                           {h.name}
                         </a></h3>
                     </div>
@@ -462,7 +466,7 @@ export default function AsamaOnsenWinterFeature() {
                     <a
                       href={h.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="w-full sm:w-auto px-6 py-3.5 rounded-2xl bg-gradient-to-r from-teal-800 to-teal-900 hover:from-teal-900 hover:to-slate-900 text-white font-bold text-sm shadow-md hover:shadow-lg transition flex items-center justify-center gap-2"
                     >
                       <span>楽天トラベルでプラン・空室を見る</span>
@@ -615,6 +619,9 @@ export default function AsamaOnsenWinterFeature() {
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">全国の厳選温泉・旬旅特集まとめを見る</h3>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月信州松本浅間温泉の国宝松本城初雪と城下町名湯】開湯1300年アルカリ単純泉・挽きたて信州新そば＆信州プレミアム牛すき焼きの宿5選"} url={"https://croud-travel.pages.dev/winter-nagano-asama-onsen-matsumoto-castle-snow-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-nagano-asama-onsen-matsumoto-castle-snow-stay" />
 </div>
         </section>

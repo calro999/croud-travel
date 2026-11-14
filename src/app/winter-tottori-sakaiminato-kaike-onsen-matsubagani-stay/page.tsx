@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
     title: '【11・12・1月鳥取】冬の味覚の王様・山陰松葉ガニ解禁！境港水産物直売センター＆水木しげるロードと皆生温泉「塩の湯」・大山冬景色を堪能する名宿5選',
     description: '11月6日の松葉ガニ漁解禁とともに、山陰・鳥取県は年間で最も美食と活気に満ちる冬の黄金期を迎えます。日本屈指のズワイガニ水揚げ量を誇る境港で満喫する至福の宿泊滞在プランをご案内します。',
     url: 'https://croud-travel.pages.dev/winter-tottori-sakaiminato-kaike-onsen-matsubagani-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     images: [
       {
         url: 'https://img.travel.rakuten.co.jp/share/HOTEL/12677/12677.jpg',
@@ -49,12 +50,12 @@ export default function TottoriSakaiminatoKaikeWinterPage() {
     dateModified: '',
     author: {
       '@type': 'Organization',
-      name: 'クラドトラベル編集部',
+      name: '旅宿クラウド編集部',
       url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png'
@@ -293,6 +294,9 @@ export default function TottoriSakaiminatoKaikeWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月鳥取】冬の味覚の王様・山陰松葉ガニ解禁！境港水産物直売センター＆水木しげるロードと皆生温泉「塩の湯」・大山冬景色を堪能する名宿5選"} url={"https://croud-travel.pages.dev/winter-tottori-sakaiminato-kaike-onsen-matsubagani-stay/"} />
+      </div>
 
       {/* Main Content Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 pt-12 space-y-16">
@@ -492,7 +496,7 @@ export default function TottoriSakaiminatoKaikeWinterPage() {
                       <a 
                         href={h.url} 
                         target="_blank" 
-                        rel="noopener noreferrer" 
+                        rel="sponsored noopener noreferrer" 
                         className="w-full sm:w-auto inline-flex items-center justify-center gap-2 bg-gradient-to-r from-cyan-800 to-slate-900 hover:from-cyan-900 hover:to-slate-950 text-white font-bold px-6 py-3.5 rounded-xl shadow-md transition-all text-sm group"
                       >
                         <span>楽天トラベルで空室・プランを見る</span>
@@ -665,6 +669,9 @@ export default function TottoriSakaiminatoKaikeWinterPage() {
               <span className="text-xs text-cyan-300 mt-2 block font-medium">全特集をチェック ➔</span>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月鳥取】冬の味覚の王様・山陰松葉ガニ解禁！境港水産物直売センター＆水木しげるロードと皆生温泉「塩の湯」・大山冬景色を堪能する名宿5選"} url={"https://croud-travel.pages.dev/winter-tottori-sakaiminato-kaike-onsen-matsubagani-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-tottori-sakaiminato-kaike-onsen-matsubagani-stay" />
 </div>
         </section>

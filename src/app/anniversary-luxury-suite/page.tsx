@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -113,6 +114,9 @@ export default function SeasonalFeaturePage() {
             誕生日、結婚記念日、特別なご褒美旅行。誰にも邪魔されない客室専用露天風呂、一流シェフが腕を振るう記念日ディナー、夜景を一望するクラブラウンジなど、感動の記念日ステイを叶える名宿をご紹介。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"記念日・誕生日：客室露天風呂＆贅沢スイート極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/anniversary-luxury-suite/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function SeasonalFeaturePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"記念日・誕生日：客室露天風呂＆贅沢スイート極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/anniversary-luxury-suite/"} />
+      </div>
       <HubRelatedPosts currentSlug="anniversary-luxury-suite" />
 </div>
   );

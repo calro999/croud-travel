@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             12月下旬から温泉街を流れる田の原川沿いを幻想的に彩る黒川温泉の冬の風物詩「湯あかり」！数百個の竹灯籠が放つ優しい光と、名物・入湯手形で行く露天風呂めぐり、熊本あか牛を堪能する温もり旅。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【12月開幕！黒川温泉「湯あかり」竹灯籠】渓流を照らす幻想の竹あかりと名湯宿5選"} url={"https://croud-travel.pages.dev/winter-kumamoto-kurokawa-yuakari-illumination-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -517,6 +521,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【12月開幕！黒川温泉「湯あかり」竹灯籠】渓流を照らす幻想の竹あかりと名湯宿5選"} url={"https://croud-travel.pages.dev/winter-kumamoto-kurokawa-yuakari-illumination-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-kumamoto-kurokawa-yuakari-illumination-stay" />
 </div>
         </section>

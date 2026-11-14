@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             京都の伝統工芸「西陣織」の帯や着物を身にまとい、歴史ある数寄屋造りや京町家で過ごす優雅な休日。嵐山温泉や湯の花温泉の名湯と、彩り鮮やかな本格京懐石を心ゆくまで堪能できる名宿を厳選紹介。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"西陣織と伝統美：着物レンタル＆町家数寄屋造りの雅な滞在！京都・嵐山の風情溢れる温泉旅館5選"} url={"https://croud-travel.pages.dev/traditional-kyoto-nishijin-ori-kimono-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"西陣織と伝統美：着物レンタル＆町家数寄屋造りの雅な滞在！京都・嵐山の風情溢れる温泉旅館5選"} url={"https://croud-travel.pages.dev/traditional-kyoto-nishijin-ori-kimono-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="traditional-kyoto-nishijin-ori-kimono-stay" />
 </div>
         </section>

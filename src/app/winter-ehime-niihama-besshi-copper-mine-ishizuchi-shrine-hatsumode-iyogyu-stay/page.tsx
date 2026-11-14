@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
@@ -209,6 +210,9 @@ export default function Page() {
             </p>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"東洋のマチュピチュ・別子銅山の冬霧氷と石鎚神社新春初詣：2026-2027年冬の愛媛・新居浜＆西条"} url={"https://croud-travel.pages.dev/winter-ehime-niihama-besshi-copper-mine-ishizuchi-shrine-hatsumode-iyogyu-stay/"} />
+      </div>
 
         {/* メインコンテンツエリア */}
         <div className="max-w-4xl mx-auto px-4 py-12 space-y-16">
@@ -733,6 +737,10 @@ export default function Page() {
             </ul>
           </section>
         </div>
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"東洋のマチュピチュ・別子銅山の冬霧氷と石鎚神社新春初詣：2026-2027年冬の愛媛・新居浜＆西条"} url={"https://croud-travel.pages.dev/winter-ehime-niihama-besshi-copper-mine-ishizuchi-shrine-hatsumode-iyogyu-stay/"} />
+      </div>
       </article>
     </>
   );

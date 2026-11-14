@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -113,6 +114,9 @@ export default function SeasonalFeaturePage() {
             香り高い旬の松茸と、とろけるようなブランド和牛のすき焼き・炭火焼き。秋の味覚を極めた豪華会席料理と美肌温泉で心もお腹も満たされる、大人の贅沢ご褒美ステイ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【秋の美食】松茸＆ブランド和牛づくし極上温泉旅館 完全ガイド"} url={"https://croud-travel.pages.dev/autumn-gourmet-matsutake-wagyu/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function SeasonalFeaturePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【秋の美食】松茸＆ブランド和牛づくし極上温泉旅館 完全ガイド"} url={"https://croud-travel.pages.dev/autumn-gourmet-matsutake-wagyu/"} />
+      </div>
       <HubRelatedPosts currentSlug="autumn-gourmet-matsutake-wagyu" />
 </div>
   );

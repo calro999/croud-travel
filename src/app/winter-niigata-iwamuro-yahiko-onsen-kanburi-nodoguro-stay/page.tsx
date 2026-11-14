@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月新潟・弥彦＆岩室温泉の初冬情緒と日本海寒ブリ・のどぐろ会席】越後一宮彌彦神社参詣＆開湯300年名物黒湯の宿5選',
     description: '11月から12月にかけて、新潟県の日本海沿いに連なる弥彦山麓の弥彦温泉と岩室（いわむろ）温泉の魅力とおすすめ宿泊施設を詳しくご紹介します。',
     url: 'https://croud-travel.pages.dev/winter-niigata-iwamuro-yahiko-onsen-kanburi-nodoguro-stay/',
-    siteName: 'クラドトラベル (Croud Travel)',
+    siteName: '旅宿クラウド (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -257,6 +258,9 @@ export default function NiigataIwamuroYahikoWinterFeature() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月新潟・弥彦＆岩室温泉の初冬情緒と日本海寒ブリ・のどぐろ会席】越後一宮彌彦神社参詣＆開湯300年名物黒湯の宿5選"} url={"https://croud-travel.pages.dev/winter-niigata-iwamuro-yahiko-onsen-kanburi-nodoguro-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 space-y-16">
@@ -384,7 +388,7 @@ export default function NiigataIwamuroYahikoWinterFeature() {
                     <a
                       href={h.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center gap-2 px-6 py-3 rounded-2xl bg-gradient-to-r from-indigo-600 to-indigo-700 text-white font-bold text-sm shadow-md hover:from-indigo-700 hover:to-indigo-800 transition-all"
                     >
                       楽天トラベルでプランを見る
@@ -594,6 +598,9 @@ export default function NiigataIwamuroYahikoWinterFeature() {
               <p className="text-slate-300 text-[11px] line-clamp-2">11月解禁の本場越前がにと日本海に沈む夕日のパノラマ。</p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月新潟・弥彦＆岩室温泉の初冬情緒と日本海寒ブリ・のどぐろ会席】越後一宮彌彦神社参詣＆開湯300年名物黒湯の宿5選"} url={"https://croud-travel.pages.dev/winter-niigata-iwamuro-yahiko-onsen-kanburi-nodoguro-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-niigata-iwamuro-yahiko-onsen-kanburi-nodoguro-stay" />
 </div>
         </section>

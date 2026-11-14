@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             伊豆半島で最も歴史ある名湯「修善寺温泉」。桂川のせせらぎと青々とした竹林を渡る風。朱塗りの桂橋や楓橋、登録有形文化財の数寄屋旅館。文豪や芸術家に愛された日本の原風景へ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"静岡・伊豆修善寺：竹林の小径・独鈷の湯＆伊豆牛・本わさび極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/shizuoka-izu-shuzenji-bamboo-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"静岡・伊豆修善寺：竹林の小径・独鈷の湯＆伊豆牛・本わさび極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/shizuoka-izu-shuzenji-bamboo-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="shizuoka-izu-shuzenji-bamboo-stay" />
 </div>
   );

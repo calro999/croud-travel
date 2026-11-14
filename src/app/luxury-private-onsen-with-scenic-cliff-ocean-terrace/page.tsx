@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             海に突き出た断崖のプライベートウッドテラスに設えられた客室露天風呂！目の前に広がる青い太平洋のパノラマと、夕暮れに茜色に染まる水平線を独占できる、圧倒的絶景を誇る大人のラグジュアリー隠れ宿。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"断崖絶壁オーシャンテラス：荒波と水平線を一望するプライベート温泉！伊豆・南紀の絶景隠れ宿5選"} url={"https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-cliff-ocean-terrace/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"断崖絶壁オーシャンテラス：荒波と水平線を一望するプライベート温泉！伊豆・南紀の絶景隠れ宿5選"} url={"https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-cliff-ocean-terrace/"} />
+      </div>
       <HubRelatedPosts currentSlug="luxury-private-onsen-with-scenic-cliff-ocean-terrace" />
 </div>
         </section>

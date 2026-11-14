@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             伊達政宗の長子・秀宗が入封した南予の城下町「宇和島」。天守が現存する貴重な名城「宇和島城」。巨大な一枚岩の滑らかな川床が続く「滑床渓谷」と雪輪の滝。宇和海で育まれた日本一の真珠と、生卵と出汁で食べる絶品「宇和島鯛めし」を味わう旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"愛媛・宇和島＆愛南・滑床渓谷：現存天守宇和島城・滑床キャニオニング＆宇和島鯛めし宿 厳選ガイド"} url={"https://croud-travel.pages.dev/ehime-uwajima-ainan-nametoko-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"愛媛・宇和島＆愛南・滑床渓谷：現存天守宇和島城・滑床キャニオニング＆宇和島鯛めし宿 厳選ガイド"} url={"https://croud-travel.pages.dev/ehime-uwajima-ainan-nametoko-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="ehime-uwajima-ainan-nametoko-stay" />
 </div>
   );

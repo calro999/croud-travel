@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -214,6 +215,9 @@ export default function IzuShimodaCarFreeTravelGuidePage() {
             </div>
           </div>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"伊豆・下田 車なし観光 1泊2日モデルコース：伊豆急行＆路線バスで巡る白浜海岸・ペリーロード・金目鯛旅"} url={"https://croud-travel.pages.dev/izu-shimoda-car-free-travel-guide/"} />
+      </div>
       </section>
 
       {/* 車なし旅を最強にする公共交通きっぷ比較 */}
@@ -483,6 +487,9 @@ export default function IzuShimodaCarFreeTravelGuidePage() {
         </div>
       </section>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"伊豆・下田 車なし観光 1泊2日モデルコース：伊豆急行＆路線バスで巡る白浜海岸・ペリーロード・金目鯛旅"} url={"https://croud-travel.pages.dev/izu-shimoda-car-free-travel-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="izu-shimoda-car-free-travel-guide" />
 </div>
   );

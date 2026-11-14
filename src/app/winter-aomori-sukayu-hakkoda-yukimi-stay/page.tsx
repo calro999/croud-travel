@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             日本有数の豪雪地帯・八甲田山に佇む国民保養温泉地第1号「酸ヶ湯（すかゆ）温泉」！160畳の総ヒバ造り大浴場「ヒバ千人風呂」の白濁硫黄泉と、12月から凍り始める奥入瀬渓流の氷瀑を鑑賞する本物の雪国秘湯旅。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【12月豪雪の秘湯！八甲田酸ヶ湯温泉＆奥入瀬】千人風呂と幻想的な氷瀑・雪見露天宿5選"} url={"https://croud-travel.pages.dev/winter-aomori-sukayu-hakkoda-yukimi-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -578,6 +582,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【12月豪雪の秘湯！八甲田酸ヶ湯温泉＆奥入瀬】千人風呂と幻想的な氷瀑・雪見露天宿5選"} url={"https://croud-travel.pages.dev/winter-aomori-sukayu-hakkoda-yukimi-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-aomori-sukayu-hakkoda-yukimi-stay" />
 </div>
         </section>

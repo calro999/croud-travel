@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -13,7 +14,7 @@ export const metadata: Metadata = {
     title: '富山出張＆立山連峰ビュー：富山駅近・天然温泉サウナ・白えび美食！「天然の生簀」富山湾を味わう極上宿 厳選3選',
     description: '北陸新幹線で東京から約2時間8分！富山湾の神秘と雄大な立山連峰が抱く街・富山。「全館畳敷きで天然温泉大浴場と海鮮いくら朝食」を誇る「御宿 野乃富山」、展望大浴場サウナと立山連峰パノラマビューが自慢の老舗「富山マンテンホテル」、富山駅前至近の「ホテルグランテラス富山」を徹底特集。',
     url: 'https://croud-travel.pages.dev/toyama-solo-business-tateyama-sauna-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -27,12 +28,12 @@ export default function ArticlePage() {
     description: '北陸新幹線で東京から約2時間8分！富山湾の神秘と雄大な立山連峰が抱く街・富山。「全館畳敷きで天然温泉大浴場と海鮮いくら朝食」を誇る「御宿 野乃富山」、展望大浴場サウナと立山連峰パノラマビューが自慢の老舗「富山マンテンホテル」、富山駅前至近の「ホテルグランテラス富山」を徹底特集。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル ひとり旅・出張調査班',
+      name: '旅宿クラウド ひとり旅・出張調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -79,6 +80,9 @@ export default function ArticlePage() {
           北陸新幹線で東京から約2時間8分！富山湾の神秘と雄大な立山連峰が抱く街・富山。「全館畳敷きで天然温泉大浴場と海鮮いくら朝食」を誇る「御宿 野乃富山」、展望大浴場サウナと立山連峰パノラマビューが自慢の老舗「富山マンテンホテル」、富山駅前至近の「ホテルグランテラス富山」を徹底特集。
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"富山出張＆立山連峰ビュー：富山駅近・天然温泉サウナ・白えび美食！「天然の生簀」富山湾を味わう極上宿 厳選3選"} url={"https://croud-travel.pages.dev/toyama-solo-business-tateyama-sauna-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
@@ -381,7 +385,7 @@ export default function ArticlePage() {
             href="/"
             className="inline-flex items-center gap-2 text-sm text-stone-600 hover:text-stone-900 font-medium transition-colors"
           >
-            ← クラウドトラベル トップページへ戻る
+            ← 旅宿クラウド トップページへ戻る
           </Link>
         </div>
       </div>
@@ -473,6 +477,9 @@ export default function ArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"富山出張＆立山連峰ビュー：富山駅近・天然温泉サウナ・白えび美食！「天然の生簀」富山湾を味わう極上宿 厳選3選"} url={"https://croud-travel.pages.dev/toyama-solo-business-tateyama-sauna-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="toyama-solo-business-tateyama-sauna-stay" />
 </div>
         </section>

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -12,7 +13,7 @@ export const metadata: Metadata = {
     title: "熊本・阿蘇温泉郷ひとり旅・世界最大級カルデラおこもり：阿蘇五岳パノラマ露天・あか牛会席・名水湧く自家源泉",
     description: '世界有数のカルデラが広がる阿蘇の大自然！全室から南阿蘇の絶景を望むおこもりの極み宿「心乃間間」、与謝野晶子や徳富蘆花ゆかりの歴史と阿蘇五岳一望の展望風呂が誇りの「蘇山郷」、自家菜園の野菜とあか牛料理が評判の「親和苑」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/kumamoto-aso-solo-retreat-caldera-onsen-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -26,12 +27,12 @@ export default function ArticlePage() {
     description: '世界有数のカルデラが広がる阿蘇の大自然！全室から南阿蘇の絶景を望むおこもりの極み宿「心乃間間」、与謝野晶子や徳富蘆花ゆかりの歴史と阿蘇五岳一望の展望風呂が誇りの「蘇山郷」、自家菜園の野菜とあか牛料理が評判の「親和苑」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル ひとり旅・出張調査班',
+      name: '旅宿クラウド ひとり旅・出張調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -91,6 +92,9 @@ export default function ArticlePage() {
             </p>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"熊本・阿蘇温泉郷ひとり旅・世界最大級カルデラおこもり：阿蘇五岳パノラマ露天・あか牛会席・名水湧く自家源泉"} url={"https://croud-travel.pages.dev/kumamoto-aso-solo-retreat-caldera-onsen-stay/"} />
+      </div>
 
         {/* 目次 */}
         <section className="bg-white p-5 rounded-2xl border border-stone-200 shadow-sm mb-10">
@@ -148,7 +152,7 @@ export default function ArticlePage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F144461%2F144461.html"
                 target="_blank"
-                rel="noopener noreferrer sponsored"
+                rel="sponsored noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-amber-700 hover:bg-amber-800 text-white text-xs sm:text-sm font-bold px-5 py-2.5 rounded-lg shadow-sm hover:shadow transition"
               >
                 <span>空室状況・最新料金を確認</span>
@@ -202,7 +206,7 @@ export default function ArticlePage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31687%2F31687.html"
                 target="_blank"
-                rel="noopener noreferrer sponsored"
+                rel="sponsored noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-amber-700 hover:bg-amber-800 text-white text-xs sm:text-sm font-bold px-5 py-2.5 rounded-lg shadow-sm hover:shadow transition"
               >
                 <span>空室状況・最新料金を確認</span>
@@ -255,7 +259,7 @@ export default function ArticlePage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38542%2F38542.html"
                 target="_blank"
-                rel="noopener noreferrer sponsored"
+                rel="sponsored noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-amber-700 hover:bg-amber-800 text-white text-xs sm:text-sm font-bold px-5 py-2.5 rounded-lg shadow-sm hover:shadow transition"
               >
                 <span>空室状況・最新料金を確認</span>
@@ -315,7 +319,7 @@ export default function ArticlePage() {
           <a
             href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F144461%2F144461.html"
             target="_blank"
-            rel="noopener noreferrer sponsored"
+            rel="sponsored noopener noreferrer"
             className="inline-block bg-amber-600 hover:bg-amber-500 text-white text-sm font-bold px-8 py-3.5 rounded-xl shadow-lg transition"
           >
             一番人気の宿をチェックする（楽天トラベル）
@@ -603,6 +607,9 @@ export default function ArticlePage() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"熊本・阿蘇温泉郷ひとり旅・世界最大級カルデラおこもり：阿蘇五岳パノラマ露天・あか牛会席・名水湧く自家源泉"} url={"https://croud-travel.pages.dev/kumamoto-aso-solo-retreat-caldera-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="kumamoto-aso-solo-retreat-caldera-onsen-stay" />
 </div>
   );

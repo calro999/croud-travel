@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function WomenSoloRetreatHubPage() {
             空間そのものがひとつの芸術作品。安藤忠雄や坂茂などの名建築家が手掛けた「アート＆デザインホテル」。直島ベネッセハウス、金沢の工芸アートホテル、箱根のポーラ美術館至近宿。感性を刺激し、日常を忘れさせてくれる美の旅へ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"アート・美術館巡り＆デザインホテル：感性を研ぎ澄ますミュージアムステイ 厳選ガイド"} url={"https://croud-travel.pages.dev/art-museum-design-hotel-creative-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆厳選宿 */}
@@ -231,6 +235,9 @@ export default function WomenSoloRetreatHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"アート・美術館巡り＆デザインホテル：感性を研ぎ澄ますミュージアムステイ 厳選ガイド"} url={"https://croud-travel.pages.dev/art-museum-design-hotel-creative-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="art-museum-design-hotel-creative-stay" />
 </div>
   );

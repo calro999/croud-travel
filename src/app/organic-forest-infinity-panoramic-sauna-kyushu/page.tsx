@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             由布岳や阿蘇外輪山、霧島連峰の雄大な山並みを望む絶景サウナ！セルフロウリュ完備の本格フィンランド式サウナと、阿蘇・霧島の超軟水天然湧水水風呂で究極のディープリラックスを叶える宿。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"九州名峰パノラマサウナ＆阿蘇湧水：由布院・黒川・霧島！大自然の外気浴サウナ宿5選"} url={"https://croud-travel.pages.dev/organic-forest-infinity-panoramic-sauna-kyushu/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"九州名峰パノラマサウナ＆阿蘇湧水：由布院・黒川・霧島！大自然の外気浴サウナ宿5選"} url={"https://croud-travel.pages.dev/organic-forest-infinity-panoramic-sauna-kyushu/"} />
+      </div>
       <HubRelatedPosts currentSlug="organic-forest-infinity-panoramic-sauna-kyushu" />
 </div>
         </section>

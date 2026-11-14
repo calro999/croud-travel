@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -258,6 +259,9 @@ export default function ShigaTakashimaMakinoWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【12・1月滋賀】高島＆マキノ・白鬚神社！白銀のマキノ高原メタセコイア並木雪景色と湖中大鳥居初詣・天然鴨鍋＆近江牛名宿5選"} url={"https://croud-travel.pages.dev/winter-shiga-takashima-makino-metasequoia-snow-shirahige-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 pt-12 space-y-16">
@@ -330,7 +334,7 @@ export default function ShigaTakashimaMakinoWinterPage() {
                         <span>{h.access}</span>
                       </div>
 
-                      <h3 className="text-lg sm:text-2xl font-bold text-slate-900 hover:text-emerald-600 transition-colors"><a href={h.url} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1.5">
+                      <h3 className="text-lg sm:text-2xl font-bold text-slate-900 hover:text-emerald-600 transition-colors"><a href={h.url} target="_blank" rel="sponsored noopener noreferrer" className="inline-flex items-center gap-1.5">
                           {h.name}
                           <ExternalLink className="w-4 h-4 text-slate-400 shrink-0" />
                         </a></h3>
@@ -371,7 +375,7 @@ export default function ShigaTakashimaMakinoWinterPage() {
                         <a
                           href={h.url}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="w-full inline-flex items-center justify-center gap-2 bg-gradient-to-r from-emerald-600 to-teal-700 hover:from-emerald-700 hover:to-teal-800 text-white font-bold py-2.5 px-4 rounded-xl text-sm shadow-sm transition-all text-center"
                         >
                           <span>空室状況・宿泊プランを見る（楽天トラベル）</span>
@@ -620,6 +624,9 @@ export default function ShigaTakashimaMakinoWinterPage() {
         <p>© 2026 地域の宿探訪 - 日本の四季と極上ホテル・旅館を巡る旅</p>
       </footer>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【12・1月滋賀】高島＆マキノ・白鬚神社！白銀のマキノ高原メタセコイア並木雪景色と湖中大鳥居初詣・天然鴨鍋＆近江牛名宿5選"} url={"https://croud-travel.pages.dev/winter-shiga-takashima-makino-metasequoia-snow-shirahige-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-shiga-takashima-makino-metasequoia-snow-shirahige-stay" />
 </div>
   );

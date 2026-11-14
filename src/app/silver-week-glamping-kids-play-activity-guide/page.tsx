@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -197,6 +198,9 @@ export default function SilverWeekGlampingKidsPlayActivityPage() {
           </div>
         </div>
       </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"子連れグランピング巨大遊具＆体験付き：アスレチック・動物ふれあい・収穫体験で子供が大はしゃぎ！"} url={"https://croud-travel.pages.dev/silver-week-glamping-kids-play-activity-guide/"} />
+      </div>
 
       {/* 楽天トラベルスペシャルクーポンバナー */}
       <SpecialCouponBanner variant="prominent" />
@@ -410,6 +414,9 @@ export default function SilverWeekGlampingKidsPlayActivityPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"子連れグランピング巨大遊具＆体験付き：アスレチック・動物ふれあい・収穫体験で子供が大はしゃぎ！"} url={"https://croud-travel.pages.dev/silver-week-glamping-kids-play-activity-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="silver-week-glamping-kids-play-activity-guide" />
 </div>
   );

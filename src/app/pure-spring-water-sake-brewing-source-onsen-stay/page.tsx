@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function SakeTourismHubPage() {
             銘酒の命である「清冽な仕込み水」。雪解け水が幾重もの地層で磨かれた日本名水百選の湧水地には、奇跡のように豊かな温泉が湧き出します。口に含むと甘やかな伏流水で喉を潤し、名水で仕込まれた極上の地酒を嗜み、肌を包み込む柔らかな源泉に浸かる至高の癒やし旅へ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"名水百選・酒の仕込み水が湧く秘湯宿：清流と伏流水・美肌温泉 厳選ガイド"} url={"https://croud-travel.pages.dev/pure-spring-water-sake-brewing-source-onsen-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆厳選宿 */}
@@ -231,6 +235,9 @@ export default function SakeTourismHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"名水百選・酒の仕込み水が湧く秘湯宿：清流と伏流水・美肌温泉 厳選ガイド"} url={"https://croud-travel.pages.dev/pure-spring-water-sake-brewing-source-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="pure-spring-water-sake-brewing-source-onsen-stay" />
 </div>
   );

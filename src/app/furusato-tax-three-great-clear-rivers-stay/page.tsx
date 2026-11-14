@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -175,6 +176,9 @@ export default function Page() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"日本三大清流＆奇跡の透明度と川魚・名水グルメ温泉宿×ふるさと納税厳選ガイド四万十川・長良川・柿田川"} url={"https://croud-travel.pages.dev/furusato-tax-three-great-clear-rivers-stay/"} />
+      </div>
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
@@ -664,6 +668,9 @@ export default function Page() {
         <p>© 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の楽天トラベル公式APIに基づきます。</p>
       </footer>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"日本三大清流＆奇跡の透明度と川魚・名水グルメ温泉宿×ふるさと納税厳選ガイド四万十川・長良川・柿田川"} url={"https://croud-travel.pages.dev/furusato-tax-three-great-clear-rivers-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-three-great-clear-rivers-stay" />
 </div>
   );

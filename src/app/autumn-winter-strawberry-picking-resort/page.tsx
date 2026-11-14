@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -113,6 +114,9 @@ export default function SeasonalFeaturePage() {
             12月から春にかけて最盛期を迎えるいちご狩り。大粒で真っ赤に実った完熟いちごをその場で頬張る幸せ。いちご狩り農園へのアクセスが良く、温泉やご当地スイーツを楽しめる人気ホテルへ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"もぎたて完熟：冬・春いちご狩り＆温泉リゾートホテル 厳選ガイド"} url={"https://croud-travel.pages.dev/autumn-winter-strawberry-picking-resort/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function SeasonalFeaturePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"もぎたて完熟：冬・春いちご狩り＆温泉リゾートホテル 厳選ガイド"} url={"https://croud-travel.pages.dev/autumn-winter-strawberry-picking-resort/"} />
+      </div>
       <HubRelatedPosts currentSlug="autumn-winter-strawberry-picking-resort" />
 </div>
   );

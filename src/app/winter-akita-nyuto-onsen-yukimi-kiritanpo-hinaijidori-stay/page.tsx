@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月秋田・乳頭温泉郷の初冬雪見秘湯】名物きりたんぽ鍋＆比内地鶏・ブナ原生林に湧く七湯の濁り湯を巡る名宿5選',
     description: '11月から12月にかけて、十和田八幡平国立公園の乳頭山麓に抱かれた秋田県仙北市の「乳頭温泉郷（にゅうとうおんせんきょう）」の魅力とおすすめ宿泊施設を詳しくご紹介します。',
     url: 'https://croud-travel.pages.dev/winter-akita-nyuto-onsen-yukimi-kiritanpo-hinaijidori-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -170,7 +171,7 @@ export default function WinterAkitaNyutoOnsenPage() {
         'isPartOf': {
           '@type': 'WebSite',
           '@id': 'https://croud-travel.pages.dev/#website',
-          'name': 'クラドトラベル',
+          'name': '旅宿クラウド',
           'url': 'https://croud-travel.pages.dev/'
         },
         'headline': "【11・12月秋田・乳頭温泉郷の初冬雪見秘湯】名物きりたんぽ鍋＆比内地鶏・ブナ原生林に湧く七湯の濁り湯を巡る名宿5選",
@@ -181,7 +182,7 @@ export default function WinterAkitaNyutoOnsenPage() {
         'dateModified': '2026-10-25T00:00:00+09:00',
         'publisher': {
           '@type': 'Organization',
-          'name': 'クラドトラベル編集部',
+          'name': '旅宿クラウド編集部',
           'url': 'https://croud-travel.pages.dev/'
         }
       },
@@ -273,6 +274,9 @@ export default function WinterAkitaNyutoOnsenPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月秋田・乳頭温泉郷の初冬雪見秘湯】名物きりたんぽ鍋＆比内地鶏・ブナ原生林に湧く七湯の濁り湯を巡る名宿5選"} url={"https://croud-travel.pages.dev/winter-akita-nyuto-onsen-yukimi-kiritanpo-hinaijidori-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
@@ -410,7 +414,7 @@ export default function WinterAkitaNyutoOnsenPage() {
                       <a 
                         href={hotel.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="w-full sm:w-auto inline-flex items-center justify-center gap-2 bg-gradient-to-r from-cyan-800 to-slate-900 hover:from-cyan-900 hover:to-black text-white px-6 py-3 rounded-xl text-xs sm:text-sm font-bold shadow-xs hover:shadow transition duration-200"
                       >
                         <span>楽天トラベルで宿泊プランを見る</span>
@@ -584,6 +588,9 @@ export default function WinterAkitaNyutoOnsenPage() {
               </p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月秋田・乳頭温泉郷の初冬雪見秘湯】名物きりたんぽ鍋＆比内地鶏・ブナ原生林に湧く七湯の濁り湯を巡る名宿5選"} url={"https://croud-travel.pages.dev/winter-akita-nyuto-onsen-yukimi-kiritanpo-hinaijidori-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-akita-nyuto-onsen-yukimi-kiritanpo-hinaijidori-stay" />
 </div>
         </section>

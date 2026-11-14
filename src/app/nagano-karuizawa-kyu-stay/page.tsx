@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             木漏れ日が揺れる白樺の小径と、澄み渡る高原の風。洗練されたベーカリーやカフェが立ち並ぶ旧軽井沢銀座と、清流沿いのハルニレテラス。自然と文化が調和する日本最高峰の高原リゾートへ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"長野・旧軽井沢＆中軽井沢：雲場池・ハルニレテラス＆高原リゾート宿 厳選ガイド"} url={"https://croud-travel.pages.dev/nagano-karuizawa-kyu-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -231,6 +235,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"長野・旧軽井沢＆中軽井沢：雲場池・ハルニレテラス＆高原リゾート宿 厳選ガイド"} url={"https://croud-travel.pages.dev/nagano-karuizawa-kyu-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="nagano-karuizawa-kyu-stay" />
 </div>
   );

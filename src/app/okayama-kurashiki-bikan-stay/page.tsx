@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             白壁の土蔵となまこ壁、川面に揺れる柳並木。江戸時代の天領の面影を色濃く残す「倉敷美観地区」。モネの『睡蓮』を所蔵する大原美術館と、町家をリノベーションした上質な宿泊体験。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"岡山・倉敷美観地区：白壁土蔵・大原美術館＆倉敷デニム・フルーツ極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/okayama-kurashiki-bikan-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -392,6 +396,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"岡山・倉敷美観地区：白壁土蔵・大原美術館＆倉敷デニム・フルーツ極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/okayama-kurashiki-bikan-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="okayama-kurashiki-bikan-stay" />
 </div>
   );

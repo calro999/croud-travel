@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
@@ -36,7 +37,7 @@ export default function Page() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "【お伊勢参り＆熊野古道×ふるさと納税】日本最強パワースポット巡礼と心洗われる老舗門前宿ガイド | クラウドトラベル",
+    "headline": "【お伊勢参り＆熊野古道×ふるさと納税】日本最強パワースポット巡礼と心洗われる老舗門前宿ガイド | 旅宿クラウド",
     "description": "一生に一度はお伊勢参り、よみがえりの聖地・熊野三山、神々の集う出雲大社。日本屈指の聖地を巡る祈願の旅を楽天ふるさと納税で賢く予約。早朝参拝に便利な門前宿や禊の温泉宿完全ガイド。",
     "url": "https://croud-travel.pages.dev/furusato-tax-ise-kumano-sacred-power-spot-stay/",
     "publisher": {
@@ -50,7 +51,7 @@ export default function Page() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "【お伊勢参り＆熊野古道×ふるさと納税】日本最強パワースポット巡礼と心洗われる老舗門前宿ガイド | クラウドトラベル", "item": "https://croud-travel.pages.dev/furusato-tax-ise-kumano-sacred-power-spot-stay/" }
+      { "@type": "ListItem", "position": 2, "name": "【お伊勢参り＆熊野古道×ふるさと納税】日本最強パワースポット巡礼と心洗われる老舗門前宿ガイド | 旅宿クラウド", "item": "https://croud-travel.pages.dev/furusato-tax-ise-kumano-sacred-power-spot-stay/" }
     ]
   };
 
@@ -97,6 +98,9 @@ export default function Page() {
             </a>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"お伊勢参り＆熊野古道をふるさと納税でお得に旅する！日本最強パワースポット巡礼と心洗われる老舗門前宿ガイド"} url={"https://croud-travel.pages.dev/furusato-tax-ise-kumano-sacred-power-spot-stay/"} />
+      </div>
 
         {/* 制度解説・攻略ポイントセクション */}
         <section className="mb-16 bg-white rounded-3xl shadow-sm border border-stone-200/80 p-6 md:p-10">
@@ -393,8 +397,7 @@ export default function Page() {
 
         {/* よくある質問 FAQ */}
         <section className="mb-16 bg-white rounded-3xl shadow-sm border border-stone-200/80 p-6 md:p-10">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2"><span className="w-2.5 h-7 bg-amber-700 rounded-full inline-block"></span>
-            よくある質問・ふるさと納税トラベルクーポンの疑問を解消</h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">よくある質問・ふるさと納税トラベルクーポンの疑問を解消</h2>
           <div className="space-y-4">
             
             <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
@@ -628,6 +631,9 @@ export default function Page() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"お伊勢参り＆熊野古道をふるさと納税でお得に旅する！日本最強パワースポット巡礼と心洗われる老舗門前宿ガイド"} url={"https://croud-travel.pages.dev/furusato-tax-ise-kumano-sacred-power-spot-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-ise-kumano-sacred-power-spot-stay" />
 </div>
         </section>

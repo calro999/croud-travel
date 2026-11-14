@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             浴衣に丹前を羽織り、カランコロンと下駄を鳴らして太鼓橋を渡る。1300年の歴史を誇る名湯・城崎温泉で、7つの外湯めぐりと冬の味覚の王者・松葉ガニに酔いしれる至福の旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"兵庫・城崎温泉：七田外湯めぐり＆松葉ガニ・浴衣街歩き極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/hyogo-kinosaki-onsen-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -231,6 +235,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"兵庫・城崎温泉：七田外湯めぐり＆松葉ガニ・浴衣街歩き極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/hyogo-kinosaki-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="hyogo-kinosaki-onsen-stay" />
 </div>
   );

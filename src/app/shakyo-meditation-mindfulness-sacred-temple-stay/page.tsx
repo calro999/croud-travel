@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
@@ -36,7 +37,7 @@ export default function Page() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "写経・写仏＆瞑想マインドフルネス宿完全ガイド【出羽三山・お遍路・鎌倉】 | クラウドトラベル",
+    "headline": "写経・写仏＆瞑想マインドフルネス宿完全ガイド【出羽三山・お遍路・鎌倉】 | 旅宿クラウド",
     "description": "出羽三山（羽黒山）山伏修行ゆかりの宿坊、四国八十八ヶ所霊場のお遍路寺院、古都鎌倉の禅寺ゆかりの宿を特集。墨をすり一文字ずつ仏の言葉をなぞる写経、阿字観瞑想でマインドフルネスを体感する旅。",
     "url": "https://croud-travel.pages.dev/shakyo-meditation-mindfulness-sacred-temple-stay/",
     "publisher": {
@@ -50,7 +51,7 @@ export default function Page() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "写経・写仏＆瞑想マインドフルネス宿完全ガイド【出羽三山・お遍路・鎌倉】 | クラウドトラベル", "item": "https://croud-travel.pages.dev/shakyo-meditation-mindfulness-sacred-temple-stay/" }
+      { "@type": "ListItem", "position": 2, "name": "写経・写仏＆瞑想マインドフルネス宿完全ガイド【出羽三山・お遍路・鎌倉】 | 旅宿クラウド", "item": "https://croud-travel.pages.dev/shakyo-meditation-mindfulness-sacred-temple-stay/" }
     ]
   };
 
@@ -81,6 +82,9 @@ export default function Page() {
             静寂に包まれた寺院の一室、すずりに水を垂らしてゆっくりと墨をすり、筆先を整えて般若心経の文字をなぞる「写経（しゃきょう）」。また、下絵の仏様を丁寧に筆で写し取る「写仏（しゃぶつ）」。文字や絵にひたすら集中することで、日々の不安や雑念が消え去り、心が驚くほど穏やかに整っていきます。自分自身を取り戻す、静寂のマインドフルネス宿へご案内します。
           </p>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"写経・写仏＆瞑想マインドフルネス宿厳選ガイド「出羽三山・お遍路・鎌倉」"} url={"https://croud-travel.pages.dev/shakyo-meditation-mindfulness-sacred-temple-stay/"} />
+      </div>
 
         {/* メインコンテンツセクション */}
         
@@ -308,8 +312,7 @@ export default function Page() {
 
         {/* よくある質問 FAQ */}
         <section className="mb-16 bg-white rounded-2xl shadow-sm border border-stone-200/80 p-6 md:p-8">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2"><span className="w-2 h-7 bg-amber-700 rounded-full inline-block"></span>
-            よくある質問・伝統文化体験＆宿坊の楽しみ方</h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">よくある質問・伝統文化体験＆宿坊の楽しみ方</h2>
           <div className="space-y-4">
             
             <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
@@ -500,6 +503,9 @@ export default function Page() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"写経・写仏＆瞑想マインドフルネス宿厳選ガイド「出羽三山・お遍路・鎌倉」"} url={"https://croud-travel.pages.dev/shakyo-meditation-mindfulness-sacred-temple-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="shakyo-meditation-mindfulness-sacred-temple-stay" />
 </div>
         </section>

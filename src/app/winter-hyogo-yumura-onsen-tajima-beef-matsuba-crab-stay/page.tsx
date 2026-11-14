@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月兵庫・湯村温泉の荒湯源泉情緒と解禁松葉ガニ】本場但馬牛すき焼き＆美肌高温泉の隠れ家宿5選',
     description: '11月から12月にかけて、兵庫県北部の山懐に抱かれた山陰の名湯「湯村温泉（ゆむらおんせん）」は、日本海の冬の王様「松葉ガニ（ズワイガニ）」の漁解禁と。',
     url: 'https://croud-travel.pages.dev/winter-hyogo-yumura-onsen-tajima-beef-matsuba-crab-stay/',
-    siteName: 'クラドトラベル (Croud Travel)',
+    siteName: '旅宿クラウド (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -257,6 +258,9 @@ export default function HyogoYumuraWinterFeature() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月兵庫・湯村温泉の荒湯源泉情緒と解禁松葉ガニ】本場但馬牛すき焼き＆美肌高温泉の隠れ家宿5選"} url={"https://croud-travel.pages.dev/winter-hyogo-yumura-onsen-tajima-beef-matsuba-crab-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 space-y-16">
@@ -421,7 +425,7 @@ export default function HyogoYumuraWinterFeature() {
                       <a
                         href={h.url}
                         target="_blank"
-                        rel="noopener noreferrer nofollow"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center justify-center gap-2 px-6 py-3.5 rounded-xl bg-emerald-700 hover:bg-emerald-800 text-white font-bold text-sm shadow-md shadow-emerald-900/10 transition duration-200 group"
                       >
                         <span>空室・宿泊プランを確認する</span>
@@ -608,6 +612,9 @@ export default function HyogoYumuraWinterFeature() {
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">鶴仙渓の初冬静寂と解禁加能ガニ・芭蕉ゆかりの白濁名湯宿</h3>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月兵庫・湯村温泉の荒湯源泉情緒と解禁松葉ガニ】本場但馬牛すき焼き＆美肌高温泉の隠れ家宿5選"} url={"https://croud-travel.pages.dev/winter-hyogo-yumura-onsen-tajima-beef-matsuba-crab-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-hyogo-yumura-onsen-tajima-beef-matsuba-crab-stay" />
 </div>
         </section>

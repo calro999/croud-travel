@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月徳島・鳴門温泉の冬海峡絶景と激流が育む天然鳴門鯛】大塚国際美術館アート鑑賞・特選阿波牛＆鳴門大橋展望露天の宿5選',
     description: '11月から12月にかけて、四国の東の玄関口・徳島県鳴門市は、鳴門海峡を吹き抜ける心地よい冬の潮風と。',
     url: 'https://croud-travel.pages.dev/winter-tokushima-naruto-onsen-uzushio-naruto-tai-stay/',
-    siteName: 'クラドトラベル (Croud Travel)',
+    siteName: '旅宿クラウド (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -287,6 +288,9 @@ export default function TokushimaNarutoWinterFeature() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月徳島・鳴門温泉の冬海峡絶景と激流が育む天然鳴門鯛】大塚国際美術館アート鑑賞・特選阿波牛＆鳴門大橋展望露天の宿5選"} url={"https://croud-travel.pages.dev/winter-tokushima-naruto-onsen-uzushio-naruto-tai-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-10 space-y-12">
@@ -495,7 +499,7 @@ export default function TokushimaNarutoWinterFeature() {
                     <a
                       href={h.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="w-full sm:w-auto inline-flex items-center justify-center gap-2 bg-teal-700 hover:bg-teal-800 text-white font-bold text-sm px-6 py-3 rounded-2xl shadow-sm hover:shadow transition group flex-shrink-0"
                     >
                       <span>楽天トラベルでプランを見る</span>
@@ -614,6 +618,9 @@ export default function TokushimaNarutoWinterFeature() {
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">日本最古の名湯本館と宇和島・松山名物鯛めし・飛鳥乃湯泉を巡る名宿</h3>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月徳島・鳴門温泉の冬海峡絶景と激流が育む天然鳴門鯛】大塚国際美術館アート鑑賞・特選阿波牛＆鳴門大橋展望露天の宿5選"} url={"https://croud-travel.pages.dev/winter-tokushima-naruto-onsen-uzushio-naruto-tai-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-tokushima-naruto-onsen-uzushio-naruto-tai-stay" />
 </div>
         </section>

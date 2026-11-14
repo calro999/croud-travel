@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import Link from 'next/link';
 import type { Metadata } from 'next';
@@ -16,7 +17,7 @@ export const metadata: Metadata = {
     title: "秋の志摩スペイン村パルケエスパーニャ：情熱のハロウィーンフィエスタ",
     description: "陽光あふれる情熱の国スペインを再現したテーマパーク「志摩スペイン村パルケエスパーニャ」。秋にはパーク全体がオレンジ色に染まる「ハロウィーンフィエスタ」が開幕！マヨール広場に登場する巨大な「モンスターパンプキン」のフォトスポットや、ハロウィーン限定衣装をまとったドンキホーテや仲間たちとのグリーティング、陽気なフラメンコショーが繰り広げられます。異国情緒あふれる白壁の街並みで味わう本場パエリャやチュロス、そしてパーク隣接の南欧風リゾートホテルや英虞湾の絶景を望む極上天然温泉名宿5選を徹底特集。",
     url: 'https://croud-travel.pages.dev/autumn-mie-shima-spain-village-halloween-fiesta-resort-hotels-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
     images: [{
@@ -45,11 +46,11 @@ export default function ShimaSpanishHalloweenFeaturePage() {
     "dateModified": "2026-10-25T10:00:00+09:00",
     "author": {
       "@type": "Organization",
-      "name": "クラドトラベル編集部 南欧リゾート・温泉取材班"
+      "name": "旅宿クラウド編集部 南欧リゾート・温泉取材班"
     },
     "publisher": {
       "@type": "Organization",
-      "name": "クラドトラベル",
+      "name": "旅宿クラウド",
       "logo": {
         "@type": "ImageObject",
         "url": "https://croud-travel.pages.dev/logo.png"
@@ -287,6 +288,9 @@ export default function ShimaSpanishHalloweenFeaturePage() {
             </div>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"秋の志摩スペイン村パルケエスパーニャ：情熱のハロウィーンフィエスタ"} url={"https://croud-travel.pages.dev/autumn-mie-shima-spain-village-halloween-fiesta-resort-hotels-stay/"} />
+      </div>
 
         {/* Main Content Area */}
         <main className="max-w-4xl mx-auto px-4 sm:px-6 py-12">
@@ -429,7 +433,7 @@ export default function ShimaSpanishHalloweenFeaturePage() {
                       <a
                         href={h.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center justify-center w-full sm:w-auto gap-2 px-6 py-3 rounded-lg bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs sm:text-sm shadow-sm transition"
                       >
                         <span>楽天トラベルでプラン・空室を確認</span>
@@ -569,12 +573,16 @@ export default function ShimaSpanishHalloweenFeaturePage() {
                 伊賀上野城＆赤目四十八滝特集
               </Link>
               <Link href="/" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">
-                クラドトラベル トップページ
+                旅宿クラウド トップページ
               </Link>
             </div>
           </section>
 
-        </main>
+        
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"秋の志摩スペイン村パルケエスパーニャ：情熱のハロウィーンフィエスタ"} url={"https://croud-travel.pages.dev/autumn-mie-shima-spain-village-halloween-fiesta-resort-hotels-stay/"} />
+      </div>
+      </main>
       </article>
     </>
   );

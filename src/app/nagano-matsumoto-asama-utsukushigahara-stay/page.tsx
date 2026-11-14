@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             漆黒の天守がアルプスに映える国宝「松本城」と、民藝とクラフトの息づく城下町「松本」。飛鳥時代からの歴史を誇る文人墨客の奥座敷「浅間温泉」。標高2,000mの美ヶ原高原から見下ろす雲海と、香り高い信州手打ちそばへ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"長野・松本＆浅間温泉・美ヶ原：国宝松本城・クラフトの街＆信州そば・雲海宿 厳選ガイド"} url={"https://croud-travel.pages.dev/nagano-matsumoto-asama-utsukushigahara-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"長野・松本＆浅間温泉・美ヶ原：国宝松本城・クラフトの街＆信州そば・雲海宿 厳選ガイド"} url={"https://croud-travel.pages.dev/nagano-matsumoto-asama-utsukushigahara-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="nagano-matsumoto-asama-utsukushigahara-stay" />
 </div>
   );

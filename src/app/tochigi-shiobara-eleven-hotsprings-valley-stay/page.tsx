@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             平安時代から続く1200年の歴史を誇る「塩原温泉郷」。箒川（ほうきがわ）の美しい渓谷沿いに広がる11の温泉地（塩原十一湯）は、乳白色・緑色・黒色・透明など泉質も効能も多彩。吊橋から眺める紅葉や新緑のパノラマ、そして名湯が注ぐ渓流露天風呂で心身を解きほぐす大自然ステイへご案内します。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"栃木・那須塩原：塩原十一湯・もみじ谷大吊橋＆箒川渓谷露天宿 厳選ガイド"} url={"https://croud-travel.pages.dev/tochigi-shiobara-eleven-hotsprings-valley-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -237,6 +241,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"栃木・那須塩原：塩原十一湯・もみじ谷大吊橋＆箒川渓谷露天宿 厳選ガイド"} url={"https://croud-travel.pages.dev/tochigi-shiobara-eleven-hotsprings-valley-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="tochigi-shiobara-eleven-hotsprings-valley-stay" />
 </div>
   );

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             阿蘇の火山活動が創り出した奇跡の峡谷「高千穂峡」。エメラルドグリーンの水面に流れ落ちる「真名井の滝」。天孫降臨の神話が息づく天安河原と、毎夜響く神楽の音。神秘のパワースポットと宮崎牛に癒やされる旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"宮崎・高千穂峡：真名井の滝・高千穂神楽＆天安河原・宮崎牛極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/miyazaki-takachiho-gorge-myth-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -231,6 +235,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"宮崎・高千穂峡：真名井の滝・高千穂神楽＆天安河原・宮崎牛極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/miyazaki-takachiho-gorge-myth-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="miyazaki-takachiho-gorge-myth-stay" />
 </div>
   );

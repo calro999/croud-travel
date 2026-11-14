@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月山形・肘折温泉の豪雪秘湯】開湯1200年の霊泉と朝市情緒・極上山形牛＆名物芋煮鍋に心温まる名宿5選',
     description: '11月から12月にかけて、山形県大蔵村の出羽山地に抱かれたカルデラ盆地「肘折温泉（ひじおりおんせん）」の魅力とおすすめ宿泊施設を詳しくご紹介します。',
     url: 'https://croud-travel.pages.dev/winter-yamagata-hijiori-onsen-heavy-snow-toji-yamagata-beef-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -170,7 +171,7 @@ export default function WinterYamagataHijioriPage() {
         'isPartOf': {
           '@type': 'WebSite',
           '@id': 'https://croud-travel.pages.dev/#website',
-          'name': 'クラドトラベル',
+          'name': '旅宿クラウド',
           'url': 'https://croud-travel.pages.dev/'
         },
         'headline': "【11・12月山形・肘折温泉の豪雪秘湯】開湯1200年の霊泉と朝市情緒・極上山形牛＆名物芋煮鍋に心温まる名宿5選",
@@ -181,7 +182,7 @@ export default function WinterYamagataHijioriPage() {
         'dateModified': '2026-10-25T00:00:00+09:00',
         'publisher': {
           '@type': 'Organization',
-          'name': 'クラドトラベル編集部',
+          'name': '旅宿クラウド編集部',
           'url': 'https://croud-travel.pages.dev/'
         }
       },
@@ -273,6 +274,9 @@ export default function WinterYamagataHijioriPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月山形・肘折温泉の豪雪秘湯】開湯1200年の霊泉と朝市情緒・極上山形牛＆名物芋煮鍋に心温まる名宿5選"} url={"https://croud-travel.pages.dev/winter-yamagata-hijiori-onsen-heavy-snow-toji-yamagata-beef-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
@@ -396,7 +400,7 @@ export default function WinterYamagataHijioriPage() {
                       <a
                         href={h.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center justify-center gap-2 w-full sm:w-auto px-6 py-3.5 bg-gradient-to-r from-amber-700 to-stone-900 hover:from-amber-800 hover:to-stone-950 text-white font-bold text-sm rounded-xl shadow-xs hover:shadow-md transition duration-200"
                       >
                         <span>空室状況・宿泊プランを楽天トラベルで確認</span>
@@ -540,6 +544,9 @@ export default function WinterYamagataHijioriPage() {
               </p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月山形・肘折温泉の豪雪秘湯】開湯1200年の霊泉と朝市情緒・極上山形牛＆名物芋煮鍋に心温まる名宿5選"} url={"https://croud-travel.pages.dev/winter-yamagata-hijiori-onsen-heavy-snow-toji-yamagata-beef-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-yamagata-hijiori-onsen-heavy-snow-toji-yamagata-beef-stay" />
 </div>
         </section>

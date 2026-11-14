@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月静岡・焼津温泉の初冬駿河湾越し富士山絶景と天然南マグロ】深層水高張性美肌温まりの湯＆極上鮪尽くしの宿5選',
     description: '11月から12月にかけて駿河湾に面した水産都市・静岡県焼津市は、一年の中で最も大気が澄み渡り。',
     url: 'https://croud-travel.pages.dev/winter-shizuoka-yaizu-onsen-fuji-view-minami-maguro-stay/',
-    siteName: 'クラドトラベル (Croud Travel)',
+    siteName: '旅宿クラウド (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -287,6 +288,9 @@ export default function ShizuokaYaizuWinterFeature() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月静岡・焼津温泉の初冬駿河湾越し富士山絶景と天然南マグロ】深層水高張性美肌温まりの湯＆極上鮪尽くしの宿5選"} url={"https://croud-travel.pages.dev/winter-shizuoka-yaizu-onsen-fuji-view-minami-maguro-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-10 space-y-12">
@@ -495,7 +499,7 @@ export default function ShizuokaYaizuWinterFeature() {
                     <a
                       href={h.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="w-full sm:w-auto inline-flex items-center justify-center gap-2 bg-blue-700 hover:bg-blue-800 text-white font-bold text-sm px-6 py-3 rounded-2xl shadow-sm hover:shadow transition group flex-shrink-0"
                     >
                       <span>楽天トラベルでプランを見る</span>
@@ -614,6 +618,9 @@ export default function ShizuokaYaizuWinterFeature() {
               <h3 className="text-sm font-bold group-hover:text-blue-200 transition">12月上旬まで楽しむ遅咲きの紅葉と竹林の小径・伊豆最古の湯宿</h3>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月静岡・焼津温泉の初冬駿河湾越し富士山絶景と天然南マグロ】深層水高張性美肌温まりの湯＆極上鮪尽くしの宿5選"} url={"https://croud-travel.pages.dev/winter-shizuoka-yaizu-onsen-fuji-view-minami-maguro-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-shizuoka-yaizu-onsen-fuji-view-minami-maguro-stay" />
 </div>
         </section>

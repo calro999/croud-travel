@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -92,6 +93,9 @@ export default function KamikochiPackingChecklistPage() {
             「観光地だから普段履きのスニーカーで行ったら泥だらけ＆足裏が痛くて歩けなくなった」「晴れていたのに急な雷雨でずぶ濡れ、寒さで震えた」。平地とは全く異なる上高地の自然環境。目的地別の靴選びから山の重ね着（レイヤリング）まで、絶対に失敗しない準備を伝授します。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"上高地ハイキング 服装と靴のリアル失敗談：スニーカーで大丈夫？大正池〜河童橋で後悔しない持ち物完全版"} url={"https://croud-travel.pages.dev/kamikochi-hiking-shoes-packing-checklist/"} />
+      </div>
       </section>
 
       {/* スニーカーでOK？の結論コールアウト */}
@@ -399,6 +403,9 @@ export default function KamikochiPackingChecklistPage() {
         </div>
       </section>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"上高地ハイキング 服装と靴のリアル失敗談：スニーカーで大丈夫？大正池〜河童橋で後悔しない持ち物完全版"} url={"https://croud-travel.pages.dev/kamikochi-hiking-shoes-packing-checklist/"} />
+      </div>
       <HubRelatedPosts currentSlug="kamikochi-hiking-shoes-packing-checklist" />
 </div>
   );

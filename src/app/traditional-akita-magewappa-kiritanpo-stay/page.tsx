@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -128,6 +129,9 @@ export default function FeaturePage() {
             秋田杉の美しい木目と香りが際立つ伝統工芸「大館曲げわっぱ」の器と、炭火で焼いた名物「比内地鶏きりたんぽ鍋」！全国の温泉ファンが憧れる秘湯・乳頭温泉郷の乳白色の露天風呂に癒やされる旅。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"大館曲げわっぱと比内地鶏きりたんぽ：秋田の伝統工芸と乳頭温泉郷の秘湯宿5選"} url={"https://croud-travel.pages.dev/traditional-akita-magewappa-kiritanpo-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -420,6 +424,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"大館曲げわっぱと比内地鶏きりたんぽ：秋田の伝統工芸と乳頭温泉郷の秘湯宿5選"} url={"https://croud-travel.pages.dev/traditional-akita-magewappa-kiritanpo-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="traditional-akita-magewappa-kiritanpo-stay" />
 </div>
         </section>

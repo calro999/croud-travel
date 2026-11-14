@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import FurusatoStepSection from "@/app/components/FurusatoStepSection";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
@@ -96,6 +97,9 @@ export default function FurusatoWaModernTwinBedStayPage() {
             </Link>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"畳の温もりと高級ベッドの極上快眠！和モダンツインベッド客室温泉旅館×ふるさと納税厳選ガイド黒川・箱根強羅・京都嵐山"} url={"https://croud-travel.pages.dev/furusato-tax-wa-modern-twin-bed-comfortable-ryokan-stay/"} />
+      </div>
 
         {/* 3つの醍醐味セクション */}
         <section className="mb-16">
@@ -518,6 +522,9 @@ export default function FurusatoWaModernTwinBedStayPage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"畳の温もりと高級ベッドの極上快眠！和モダンツインベッド客室温泉旅館×ふるさと納税厳選ガイド黒川・箱根強羅・京都嵐山"} url={"https://croud-travel.pages.dev/furusato-tax-wa-modern-twin-bed-comfortable-ryokan-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-wa-modern-twin-bed-comfortable-ryokan-stay" />
 </div>
         </section>

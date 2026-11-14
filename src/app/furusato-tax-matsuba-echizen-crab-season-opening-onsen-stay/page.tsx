@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import FurusatoStepSection from "@/app/components/FurusatoStepSection";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
@@ -85,6 +86,9 @@ export default function FurusatoMatsubaEchizenCrabSeasonStayPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"11月6日漁解禁！本場の初物松葉ガニ・越前ガニ尽くし名門温泉旅館×ふるさと納税厳選ガイド城崎・越前海岸"} url={"https://croud-travel.pages.dev/furusato-tax-matsuba-echizen-crab-season-opening-onsen-stay/"} />
+      </div>
 
       <div className="max-w-5xl mx-auto px-4 sm:px-6 space-y-16">
         {/* リード文セクション */}
@@ -550,6 +554,9 @@ export default function FurusatoMatsubaEchizenCrabSeasonStayPage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"11月6日漁解禁！本場の初物松葉ガニ・越前ガニ尽くし名門温泉旅館×ふるさと納税厳選ガイド城崎・越前海岸"} url={"https://croud-travel.pages.dev/furusato-tax-matsuba-echizen-crab-season-opening-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-matsuba-echizen-crab-season-opening-onsen-stay" />
 </div>
         </section>

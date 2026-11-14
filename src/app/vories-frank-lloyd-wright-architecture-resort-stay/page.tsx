@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
@@ -36,7 +37,7 @@ export default function Page() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "巨匠建築・ヴォーリズ＆ライト様式美宿完全ガイド【暖炉・プレイリースタイル】 | クラウドトラベル",
+    "headline": "巨匠建築・ヴォーリズ＆ライト様式美宿完全ガイド【暖炉・プレイリースタイル】 | 旅宿クラウド",
     "description": "ウィリアム・メレル・ヴォーリズやフランク・ロイド・ライトの意匠を受け継ぐ近江八幡・軽井沢・阪神間の名建築宿。暖炉の温もりと有機的建築美を体感するリゾートステイ。",
     "url": "https://croud-travel.pages.dev/vories-frank-lloyd-wright-architecture-resort-stay/",
     "publisher": {
@@ -50,7 +51,7 @@ export default function Page() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "巨匠建築・ヴォーリズ＆ライト様式美宿完全ガイド【暖炉・プレイリースタイル】 | クラウドトラベル", "item": "https://croud-travel.pages.dev/vories-frank-lloyd-wright-architecture-resort-stay/" }
+      { "@type": "ListItem", "position": 2, "name": "巨匠建築・ヴォーリズ＆ライト様式美宿完全ガイド【暖炉・プレイリースタイル】 | 旅宿クラウド", "item": "https://croud-travel.pages.dev/vories-frank-lloyd-wright-architecture-resort-stay/" }
     ]
   };
 
@@ -81,6 +82,9 @@ export default function Page() {
             日本に数多くの教会や洋館、名建築を遺したウィリアム・メレル・ヴォーリズと、近代建築の三大巨匠フランク・ロイド・ライト。自然素材を活かした暖炉、水平線を強調したプレイリースタイル、光と影を巧みに操る窓の配置など、彼らの建築哲学は「住まう人を心地よく包み込む温もり」に満ちています。建築愛好家はもちろん、居心地の良さを何より大切にしたい旅人に捧げる、巨匠建築リゾート特集です。
           </p>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"巨匠建築・ヴォーリズ＆ライト様式美宿厳選ガイド「暖炉・プレイリースタイル」"} url={"https://croud-travel.pages.dev/vories-frank-lloyd-wright-architecture-resort-stay/"} />
+      </div>
 
         {/* メインコンテンツセクション */}
         
@@ -308,8 +312,7 @@ export default function Page() {
 
         {/* よくある質問 FAQ */}
         <section className="mb-16 bg-white rounded-2xl shadow-sm border border-stone-200/80 p-6 md:p-8">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2"><span className="w-2 h-7 bg-amber-700 rounded-full inline-block"></span>
-            よくある質問・歴史建築宿の楽しみ方</h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">よくある質問・歴史建築宿の楽しみ方</h2>
           <div className="space-y-4">
             
             <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
@@ -500,6 +503,9 @@ export default function Page() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"巨匠建築・ヴォーリズ＆ライト様式美宿厳選ガイド「暖炉・プレイリースタイル」"} url={"https://croud-travel.pages.dev/vories-frank-lloyd-wright-architecture-resort-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="vories-frank-lloyd-wright-architecture-resort-stay" />
 </div>
         </section>

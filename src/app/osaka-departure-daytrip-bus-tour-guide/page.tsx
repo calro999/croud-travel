@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -181,6 +182,9 @@ export default function OsakaDepartureDaytripBusTourPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"大阪・梅田・難波発 日帰りバスツアーおすすめ：カニ食べ放題・有馬温泉・天橋立・淡路島の人気プラン比較"} url={"https://croud-travel.pages.dev/osaka-departure-daytrip-bus-tour-guide/"} />
+      </div>
 
       {/* 🚀 Breadcrumbs */}
       <nav className="bg-rose-950/10 border-b border-rose-950/10 py-2.5 px-4 text-xs text-slate-600">
@@ -546,6 +550,9 @@ export default function OsakaDepartureDaytripBusTourPage() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"大阪・梅田・難波発 日帰りバスツアーおすすめ：カニ食べ放題・有馬温泉・天橋立・淡路島の人気プラン比較"} url={"https://croud-travel.pages.dev/osaka-departure-daytrip-bus-tour-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="osaka-departure-daytrip-bus-tour-guide" />
 </div>
   );

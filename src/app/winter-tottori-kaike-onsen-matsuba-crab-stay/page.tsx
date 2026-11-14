@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -270,6 +271,9 @@ export default function KaikeWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月皆生温泉の大山雪景色とカニ漁解禁】日本海の美肌塩湯・11月解禁境港活松葉ガニ＆鳥取和牛の宿5選"} url={"https://croud-travel.pages.dev/winter-tottori-kaike-onsen-matsuba-crab-stay/"} />
+      </div>
 
       {/* Main Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
@@ -505,7 +509,7 @@ export default function KaikeWinterPage() {
                       <a
                         href={hotel.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-6 py-3 bg-blue-800 hover:bg-blue-900 text-white font-bold rounded-xl shadow-md transition-all duration-200 text-sm hover:scale-[1.02]"
                       >
                         <span>空室状況・プラン一覧</span>
@@ -670,6 +674,9 @@ export default function KaikeWinterPage() {
               <h3 className="text-sm font-bold group-hover:text-blue-200 transition">全国の厳選温泉・宿特集まとめを見る</h3>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月皆生温泉の大山雪景色とカニ漁解禁】日本海の美肌塩湯・11月解禁境港活松葉ガニ＆鳥取和牛の宿5選"} url={"https://croud-travel.pages.dev/winter-tottori-kaike-onsen-matsuba-crab-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-tottori-kaike-onsen-matsuba-crab-stay" />
 </div>
         </section>

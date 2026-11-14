@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -169,6 +170,9 @@ export default function FeaturePage() {
             </div>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"常陸国の蔵の街・真壁の町並み重伝建と筑波山神社新春初詣：2026-2027年冬の茨城・桜川＆筑波"} url={"https://croud-travel.pages.dev/winter-ibaraki-sakuragawa-makabe-townscape-tsukubasan-shrine-hatsumode-hitachigyu-stay/"} />
+      </div>
 
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 mt-12 space-y-16">
           {/* イントロダクション紀行文 */}
@@ -744,6 +748,10 @@ export default function FeaturePage() {
             </ul>
           </section>
         </div>
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"常陸国の蔵の街・真壁の町並み重伝建と筑波山神社新春初詣：2026-2027年冬の茨城・桜川＆筑波"} url={"https://croud-travel.pages.dev/winter-ibaraki-sakuragawa-makabe-townscape-tsukubasan-shrine-hatsumode-hitachigyu-stay/"} />
+      </div>
       </article>
     </>
   );

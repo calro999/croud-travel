@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -244,6 +245,9 @@ export default function MieSuzukaPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月三重鈴鹿桑名】伊勢国一の宮・椿大神社新春みちびき初詣＆なばなの里イルミネーション！桑名冬蛤鍋と名宿5選"} url={"https://croud-travel.pages.dev/winter-mie-suzuka-tsubaki-shrine-nabana-kuwana-hamaguri-stay/"} />
+      </div>
 
       {/* Navigation Breadcrumbs */}
       <nav aria-label="パンくずリスト" className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-4 text-xs text-slate-500">
@@ -406,7 +410,7 @@ export default function MieSuzukaPage() {
                       <a
                         href={hotel.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-1.5 bg-rose-600 hover:bg-rose-700 text-white font-bold text-sm px-5 py-2.5 rounded-xl shadow-xs transition-all"
                       >
                         <span>空室・プランを確認</span>
@@ -551,6 +555,9 @@ export default function MieSuzukaPage() {
               <span className="text-xs text-slate-500">11月・12月・1月に訪れたい日本各地の名宿・絶景旅ガイド</span>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月三重鈴鹿桑名】伊勢国一の宮・椿大神社新春みちびき初詣＆なばなの里イルミネーション！桑名冬蛤鍋と名宿5選"} url={"https://croud-travel.pages.dev/winter-mie-suzuka-tsubaki-shrine-nabana-kuwana-hamaguri-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-mie-suzuka-tsubaki-shrine-nabana-kuwana-hamaguri-stay" />
 </div>
         </section>

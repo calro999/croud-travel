@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             毎分3万2300リットル以上の自然湧出量を誇る日本屈指の温泉地「草津」。もうもうと立ち込める湯けむりとエメラルドグリーンの湯畑。強酸性の名湯で心身を清める極上の温泉旅へ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"群馬・草津温泉：湯畑・西の河原＆湯もみ体験極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/gunma-kusatsu-yubatake-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"群馬・草津温泉：湯畑・西の河原＆湯もみ体験極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/gunma-kusatsu-yubatake-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="gunma-kusatsu-yubatake-stay" />
 </div>
   );

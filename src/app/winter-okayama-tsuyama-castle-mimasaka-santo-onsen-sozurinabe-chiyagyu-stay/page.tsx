@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -238,6 +239,9 @@ export default function Page() {
             </p>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"雪見の名泉・美作三湯と津山城下町の冬叙情：2026-2027年冬の岡山・津山＆湯原・奥津！名物そずり鍋と幻の千屋牛会席名宿5選"} url={"https://croud-travel.pages.dev/winter-okayama-tsuyama-castle-mimasaka-santo-onsen-sozurinabe-chiyagyu-stay/"} />
+      </div>
 
         <main className="max-w-4xl mx-auto px-4 mt-10 space-y-12">
           {/* イントロダクション */}
@@ -695,7 +699,11 @@ export default function Page() {
               </li>
             </ul>
           </section>
-        </main>
+        
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"雪見の名泉・美作三湯と津山城下町の冬叙情：2026-2027年冬の岡山・津山＆湯原・奥津！名物そずり鍋と幻の千屋牛会席名宿5選"} url={"https://croud-travel.pages.dev/winter-okayama-tsuyama-castle-mimasaka-santo-onsen-sozurinabe-chiyagyu-stay/"} />
+      </div>
+      </main>
       </article>
     </>
   );

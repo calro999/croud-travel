@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             見渡す限りの紫の絨毯と色彩豊かなパッチワークの丘「北海道・富良野美瑛」。ファーム富田のラベンダーの香り。神秘的なエメラルドブルーを湛える「白金の青い池」。大雪山連峰を望む白金温泉と、極上のふらの和牛に包まれる旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"北海道・富良野＆美瑛：青い池・ファーム富田ラベンダー＆白金温泉・富良野牛宿 厳選ガイド"} url={"https://croud-travel.pages.dev/hokkaido-furano-biei-lavender-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"北海道・富良野＆美瑛：青い池・ファーム富田ラベンダー＆白金温泉・富良野牛宿 厳選ガイド"} url={"https://croud-travel.pages.dev/hokkaido-furano-biei-lavender-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="hokkaido-furano-biei-lavender-stay" />
 </div>
   );

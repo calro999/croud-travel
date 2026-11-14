@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -169,6 +170,9 @@ export default function OkinawaLuxuryAnniversaryResortGuidePage() {
             </span>
           </div>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"沖縄・宮古島 記念日ヴィラ＆極上リゾート：プライベートプール付き客室で過ごすプロポーズ・ハネムーン旅"} url={"https://croud-travel.pages.dev/okinawa-luxury-anniversary-resort-guide/"} />
+      </div>
       </section>
 
       {/* 楽天トラベル クーポンバナー */}
@@ -176,7 +180,7 @@ export default function OkinawaLuxuryAnniversaryResortGuidePage() {
 
       {/* ナビゲーションメニュー */}
       <nav aria-label="目次ナビゲーション" className="bg-gradient-to-r from-violet-50 via-purple-50/50 to-white rounded-2xl p-6 border border-violet-200 shadow-sm">
-        <h2 className="text-lg font-black text-violet-950 mb-3 flex items-center gap-2"><span>️</span> このリゾートガイドの目次</h2>
+        <h2 className="text-lg font-black text-violet-950 mb-3 flex items-center gap-2">このリゾートガイドの目次</h2>
         <ul className="grid sm:grid-cols-2 gap-2.5 text-xs md:text-sm text-violet-900 font-bold">
           <li>
             <a href="#villa-features" className="hover:text-violet-600 flex items-center gap-1.5 transition">
@@ -437,6 +441,9 @@ export default function OkinawaLuxuryAnniversaryResortGuidePage() {
         </div>
       </section>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"沖縄・宮古島 記念日ヴィラ＆極上リゾート：プライベートプール付き客室で過ごすプロポーズ・ハネムーン旅"} url={"https://croud-travel.pages.dev/okinawa-luxury-anniversary-resort-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="okinawa-luxury-anniversary-resort-guide" />
 </div>
   );

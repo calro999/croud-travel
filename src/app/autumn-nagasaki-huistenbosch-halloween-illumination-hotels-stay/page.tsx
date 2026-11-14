@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import Link from 'next/link';
 import type { Metadata } from 'next';
@@ -16,7 +17,7 @@ export const metadata: Metadata = {
     title: "秋の長崎ハウステンボス：ヨーロッパの街並みが包まれるハロウィーンフェスティバル",
     description: "日本一の広さを誇るテーマパーク「長崎ハウステンボス」が、オレンジとゴールドの光に包まれる「ハロウィーンフェスティバル」。本場ヨーロッパのレンガ造りの街並みや運河沿いには、巨大なカボチャのランタンやフォトジェニックなハロウィーン装飾が点灯。夜には世界最大1300万球が輝く「光の王国」イルミネーションと、大迫力のハロウィーンナイト花火が夜空を染め上げます。クラシカルなヨーロッパ調の直営クラシックホテルや、黄金色の温泉が湧くオフィシャルホテル厳選5選を徹底特集。",
     url: 'https://croud-travel.pages.dev/autumn-nagasaki-huistenbosch-halloween-illumination-hotels-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
     images: [{
@@ -45,11 +46,11 @@ export default function HuistenboschHalloweenFeaturePage() {
     "dateModified": "2026-10-25T10:00:00+09:00",
     "author": {
       "@type": "Organization",
-      "name": "クラドトラベル編集部 欧風リゾート・イルミネーション取材班"
+      "name": "旅宿クラウド編集部 欧風リゾート・イルミネーション取材班"
     },
     "publisher": {
       "@type": "Organization",
-      "name": "クラドトラベル",
+      "name": "旅宿クラウド",
       "logo": {
         "@type": "ImageObject",
         "url": "https://croud-travel.pages.dev/logo.png"
@@ -287,6 +288,9 @@ export default function HuistenboschHalloweenFeaturePage() {
             </div>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"秋の長崎ハウステンボス：ヨーロッパの街並みが包まれるハロウィーンフェスティバル"} url={"https://croud-travel.pages.dev/autumn-nagasaki-huistenbosch-halloween-illumination-hotels-stay/"} />
+      </div>
 
         {/* Main Content Area */}
         <main className="max-w-4xl mx-auto px-4 sm:px-6 py-12">
@@ -429,7 +433,7 @@ export default function HuistenboschHalloweenFeaturePage() {
                       <a
                         href={h.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center justify-center w-full sm:w-auto gap-2 px-6 py-3 rounded-lg bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs sm:text-sm shadow-sm transition"
                       >
                         <span>楽天トラベルでプラン・空室を確認</span>
@@ -573,12 +577,16 @@ export default function HuistenboschHalloweenFeaturePage() {
                 USJハロウィーン・ホラー・ナイト特集
               </Link>
               <Link href="/" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">
-                クラドトラベル トップページ
+                旅宿クラウド トップページ
               </Link>
             </div>
           </section>
 
-        </main>
+        
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"秋の長崎ハウステンボス：ヨーロッパの街並みが包まれるハロウィーンフェスティバル"} url={"https://croud-travel.pages.dev/autumn-nagasaki-huistenbosch-halloween-illumination-hotels-stay/"} />
+      </div>
+      </main>
       </article>
     </>
   );

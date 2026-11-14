@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             どこまでも透き通る奇跡の海「宮古ブルー」と、パウダーサンドが続く「与那覇前浜ビーチ」。海の上を滑るように渡る全長3,540mの伊良部大橋。下地島空港17ENDのエメラルドグリーンの浅瀬。プライベートプール付きヴィラで極上の島時間を過ごす旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"沖縄・宮古島＆伊良部島・来間島：宮古ブルー・与那覇前浜＆伊良部大橋・宮古牛宿 厳選ガイド"} url={"https://croud-travel.pages.dev/okinawa-miyakojima-irabu-kurima-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"沖縄・宮古島＆伊良部島・来間島：宮古ブルー・与那覇前浜＆伊良部大橋・宮古牛宿 厳選ガイド"} url={"https://croud-travel.pages.dev/okinawa-miyakojima-irabu-kurima-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="okinawa-miyakojima-irabu-kurima-stay" />
 </div>
   );

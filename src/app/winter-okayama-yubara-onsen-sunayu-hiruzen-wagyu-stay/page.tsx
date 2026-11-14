@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月岡山・湯原温泉の初冬渓谷美と美作三湯・名物砂湯】pH9.3アルカリ美肌天然自噴泉＆蒜山ジャージー牛・冬ジビエ会席の宿5選',
     description: '11月から12月にかけて、岡山県北部の旭川上流に佇む名湯「湯原温泉（ゆばらおんせん）」は、美作三湯の筆頭として。',
     url: 'https://croud-travel.pages.dev/winter-okayama-yubara-onsen-sunayu-hiruzen-wagyu-stay/',
-    siteName: 'クラドトラベル (Croud Travel)',
+    siteName: '旅宿クラウド (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -257,6 +258,9 @@ export default function OkayamaYubaraWinterFeature() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月岡山・湯原温泉の初冬渓谷美と美作三湯・名物砂湯】pH9.3アルカリ美肌天然自噴泉＆蒜山ジャージー牛・冬ジビエ会席の宿5選"} url={"https://croud-travel.pages.dev/winter-okayama-yubara-onsen-sunayu-hiruzen-wagyu-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 space-y-16">
@@ -450,7 +454,7 @@ export default function OkayamaYubaraWinterFeature() {
                     <a
                       href={h.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="w-full sm:w-auto inline-flex items-center justify-center gap-2 bg-amber-700 hover:bg-amber-800 text-white font-bold text-sm px-6 py-3 rounded-2xl shadow-sm hover:shadow transition group flex-shrink-0"
                     >
                       <span>楽天トラベルでプランを見る</span>
@@ -569,6 +573,9 @@ export default function OkayamaYubaraWinterFeature() {
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">日本最古の名湯本館と宇和海鯛めし・湯菜美肌の宿</h3>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月岡山・湯原温泉の初冬渓谷美と美作三湯・名物砂湯】pH9.3アルカリ美肌天然自噴泉＆蒜山ジャージー牛・冬ジビエ会席の宿5選"} url={"https://croud-travel.pages.dev/winter-okayama-yubara-onsen-sunayu-hiruzen-wagyu-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-okayama-yubara-onsen-sunayu-hiruzen-wagyu-stay" />
 </div>
         </section>

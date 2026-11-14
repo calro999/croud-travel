@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -14,7 +15,7 @@ export const metadata: Metadata = {
     title: "洞爺湖温泉をふるさと納税でお得に旅する！ロングラン花火＆湖上インフィニティスパ！絶景リゾート特集",
     description: '北海道屈指のカルデラ湖畔・洞爺湖町＆壮瞥町を楽天ふるさと納税でお得に極上ステイ！山頂から湖と海を一望する世界的サミットホテル「ザ・ウィンザーホテル洞爺」、全室客室温泉露天風呂付き「ザ・レイクスイート 湖の栖」、広大な温泉ビーチの「洞爺サンパレス リゾート＆スパ」を徹底比較。ロングラン花火大会やトラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-toyako-onsen-lakeview-fireworks-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -28,12 +29,12 @@ export default function FurusatoArticlePage() {
     description: '北海道屈指のカルデラ湖畔・洞爺湖町＆壮瞥町を楽天ふるさと納税でお得に極上ステイ！山頂から湖と海を一望する世界的サミットホテル「ザ・ウィンザーホテル洞爺」、全室客室温泉露天風呂付き「ザ・レイクスイート 湖の栖」、広大な温泉ビーチの「洞爺サンパレス リゾート＆スパ」を徹底比較。ロングラン花火大会やトラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル 観光・ふるさと納税調査班',
+      name: '旅宿クラウド 観光・ふるさと納税調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -80,6 +81,9 @@ export default function FurusatoArticlePage() {
           北海道屈指のカルデラ湖畔・洞爺湖町＆壮瞥町を楽天ふるさと納税でお得に極上ステイ！山頂から湖と海を一望する世界的サミットホテル「ザ・ウィンザーホテル洞爺」、全室客室温泉露天風呂付き「ザ・レイクスイート 湖の栖」、広大な温泉ビーチの「洞爺サンパレス リゾート＆スパ」を徹底比較。ロングラン花火大会やトラベルクーポン活用術を網羅。
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"洞爺湖温泉をふるさと納税でお得に旅する！ロングラン花火＆湖上インフィニティスパ！絶景リゾート特集"} url={"https://croud-travel.pages.dev/furusato-tax-toyako-onsen-lakeview-fireworks-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
@@ -360,7 +364,7 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 洞爺湖ロングラン花火＆有珠山ロープウェイ・昭和新山観光ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">洞爺湖ロングラン花火＆有珠山ロープウェイ・昭和新山観光ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
@@ -586,6 +590,9 @@ export default function FurusatoArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"洞爺湖温泉をふるさと納税でお得に旅する！ロングラン花火＆湖上インフィニティスパ！絶景リゾート特集"} url={"https://croud-travel.pages.dev/furusato-tax-toyako-onsen-lakeview-fireworks-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-toyako-onsen-lakeview-fireworks-stay" />
 </div>
         </section>

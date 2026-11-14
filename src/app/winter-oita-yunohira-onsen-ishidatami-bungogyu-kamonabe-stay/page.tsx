@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
     title: '【11・12月由布奥座敷】300個の赤提灯揺れる江戸石畳と名湯五大共同浴場・極上豊後牛＆冬の滋味合鴨鍋を味わう名宿5選',
     description: '11月中旬から12月の初冬、名峰・由布岳の裾野が静かな冬枯れの装いを見せる頃、由布院温泉から車でわずか15分ほど山あいに分け入った渓谷に、別世界のような湯治場情緒が広がります。大分県由布市湯布院町に位置する「湯平温泉（ゆのひらおんせん）」。鎌倉時代開湯、800年を超える歴史を誇り、江戸時代享保年間に敷き詰められた約300メートルに及ぶ美しい石畳の坂道が、花合野川（かごのがわ）のせせらぎとともに旅人を迎えます。初冬の黄昏時、坂道に沿って約300個の赤提灯が一斉に灯ると、石畳に柔らかな朱色の光が揺らめき、息をのむほどノスタルジックな幽玄の世界へ（映画『男はつらいよ』第30作の舞台としても有名）。古くから「胃腸病に名高い胃腸の湯」として親しまれ、温泉街に点在する5つの共同浴場（金の湯、銀の湯、中の湯、砂湯、橋本温泉）の外湯めぐりは湯平ならではの醍醐味です。夕食には、きめ細やかなサシが入った極上黒毛和牛「豊後牛（おおいた和牛）」のすき焼きや陶板焼き、冬の滋味あふれる「合鴨鍋（かもなべ）」が身体を芯から温めます。由布院の喧騒を離れ、静寂と歴史の温もりに浸る大人の冬籠り名宿5選を徹底ガイドします。',
     url: 'https://croud-travel.pages.dev/winter-oita-yunohira-onsen-ishidatami-bungogyu-kamonabe-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -48,7 +49,7 @@ export default function OitaYunohiraYufuWinterPage() {
         "isPartOf": {
           "@type": "WebSite",
           "@id": "https://croud-travel.pages.dev/#website",
-          "name": "クラドトラベル",
+          "name": "旅宿クラウド",
           "url": "https://croud-travel.pages.dev/"
         },
         "headline": "【11・12月由布奥座敷】300個の赤提灯揺れる江戸石畳と名湯五大共同浴場・極上豊後牛＆冬の滋味合鴨鍋を味わう名宿5選",
@@ -59,7 +60,7 @@ export default function OitaYunohiraYufuWinterPage() {
         "mainEntityOfPage": "https://croud-travel.pages.dev/winter-oita-yunohira-onsen-ishidatami-bungogyu-kamonabe-stay/",
         "publisher": {
           "@type": "Organization",
-          "name": "クラドトラベル編集部",
+          "name": "旅宿クラウド編集部",
           "url": "https://croud-travel.pages.dev/"
         }
       },
@@ -374,6 +375,9 @@ export default function OitaYunohiraYufuWinterPage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月由布奥座敷】300個の赤提灯揺れる江戸石畳と名湯五大共同浴場・極上豊後牛＆冬の滋味合鴨鍋を味わう名宿5選"} url={"https://croud-travel.pages.dev/winter-oita-yunohira-onsen-ishidatami-bungogyu-kamonabe-stay/"} />
+      </div>
 
       {/* Main Content Container */}
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-12">
@@ -495,7 +499,7 @@ export default function OitaYunohiraYufuWinterPage() {
                     <a
                       href={hotel.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center gap-2 bg-gradient-to-r from-amber-800 to-orange-900 hover:from-amber-900 hover:to-orange-950 text-white font-bold text-xs sm:text-sm px-6 py-3 rounded-2xl shadow-xs hover:shadow-md transition duration-200"
                     >
                       <span>楽天トラベルでプラン詳細・空室確認</span>
@@ -683,6 +687,9 @@ export default function OitaYunohiraYufuWinterPage() {
               <p className="font-bold text-stone-800 line-clamp-2">冬の風物詩「湯あかり」竹灯籠と渓流雪見露天風呂・肥後牛の贅沢</p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月由布奥座敷】300個の赤提灯揺れる江戸石畳と名湯五大共同浴場・極上豊後牛＆冬の滋味合鴨鍋を味わう名宿5選"} url={"https://croud-travel.pages.dev/winter-oita-yunohira-onsen-ishidatami-bungogyu-kamonabe-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-oita-yunohira-onsen-ishidatami-bungogyu-kamonabe-stay" />
 </div>
         </section>

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
@@ -108,6 +109,9 @@ export default function LuxuryStayPage() {
             </p>
           </div>
         </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【天孫降臨の地・霧島連山と天降川渓流の極上源泉離れ宿】2026-2027年11-12月の鹿児島・霧島＆妙見温泉！「妙見石原荘」＆「忘れの里 雅叙苑」・自噴かけ流し温泉と黒毛和牛・黒豚名宿5選"} url={"https://croud-travel.pages.dev/winter-kagoshima-kirishima-myoken-luxury-gajin-ishiharaso-kurobuta-stay/"} />
+      </div>
 
         <div className="max-w-5xl mx-auto px-4 mt-12 space-y-16">
           <section className="bg-white p-6 md:p-10 rounded-2xl border border-slate-200/80 shadow-md">
@@ -228,8 +232,7 @@ export default function LuxuryStayPage() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント</h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>清流・天降川のほとりに佇む日本屈指の温泉旅館。川床から自噴する濃厚な源泉を空気に触れさせずに湯船へ注ぐ贅沢を極めています。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>天降川のせせらぎを間近に感じる名物野天風呂「椋の木」や、洗練されたモダン数寄屋の客室露天風呂で至高の湯浴みが叶います。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>夕食は地元の旬食材と鹿児島黒牛を独創的に昇華させたモダン懐石。器の美しさと繊細な味わいが忘れられない感動を呼びます。</span></li>
                 </ul>
@@ -293,8 +296,7 @@ export default function LuxuryStayPage() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント</h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>水盤を囲むように配されたスタイリッシュな全室離れの隠れ宿。高いプライバシーが保たれた静寂の空間が広がります。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>すべての離れに自家源泉掛け流しの内湯と開放的な露天風呂を完備。いつでも好きな時に極上の名湯を独占できます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>夕食は完全個室の食事処でいただく極上の創作和食会席。最高ランクの鹿児島黒毛和牛ステーキや旬の味覚を心ゆくまで堪能できます。</span></li>
                 </ul>
@@ -358,8 +360,7 @@ export default function LuxuryStayPage() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント</h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>豊かな自然林の中に佇む大人のための隠れ宿。わずか数組の宿泊客のために設えられた静寂とプライベート空間が魅力です。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>すべての客室に天然温泉の内湯と露天風呂を完備。森のざわめきと澄んだ空気に包まれながら心身を解き放つ湯浴みが楽しめます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>夕食は鹿児島の山海の幸をふんだんに取り入れた料理長渾身の会席料理。細やかな心遣いのおもてなしが心地よい余韻を残します。</span></li>
                 </ul>
@@ -423,8 +424,7 @@ export default function LuxuryStayPage() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント</h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>霧島神宮にほど近い閑静な高台に建つ高級料亭旅館。日本の伝統美が息づく格調高い数寄屋建築が迎えてくれます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>敷地内から湧き出る良質な霧島の温泉を大浴場や露天風呂で満喫。優雅な庭園を眺めながらゆったりと寛げます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>老舗料亭ならではの技が光る本格京風会席。厳選された鹿児島黒牛や近海の海の幸を、一皿ひと皿美しく味わえます。</span></li>
                 </ul>
@@ -488,8 +488,7 @@ export default function LuxuryStayPage() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント</h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>霧島連山の高台に位置し、天気が良ければ錦江湾と桜島まで一望できる圧倒的な眺望を誇る老舗温泉リゾートです。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>広大な赤松の森に点在する名物貸切露天風呂「赤松の湯」では、時折野生の鹿が姿を見せる自然との一体感を味わえます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>夕食は鹿児島の黒豚しゃぶしゃぶや旬の味覚を盛り込んだ会席料理。良質な硫黄泉の掛け流しと絶景に癒やされる滞在が叶います。</span></li>
                 </ul>
@@ -622,6 +621,10 @@ export default function LuxuryStayPage() {
             </ul>
           </section>
         </div>
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【天孫降臨の地・霧島連山と天降川渓流の極上源泉離れ宿】2026-2027年11-12月の鹿児島・霧島＆妙見温泉！「妙見石原荘」＆「忘れの里 雅叙苑」・自噴かけ流し温泉と黒毛和牛・黒豚名宿5選"} url={"https://croud-travel.pages.dev/winter-kagoshima-kirishima-myoken-luxury-gajin-ishiharaso-kurobuta-stay/"} />
+      </div>
       </div>
     </>
   );

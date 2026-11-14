@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -12,7 +13,7 @@ export const metadata: Metadata = {
     title: "富士山麓・富士河口湖温泉ひとり旅・富士絶景おこもり：屋上展望足湯・富士ビュー露天風呂・甲州牛懐石",
     description: '世界遺産富士山と河口湖の壮大なパノラマを望む富士五湖屈指の温泉地・富士河口湖温泉！屋上足湯や展望露天風呂から富士山を仰ぐ口コミ★4.7超の名門「湖南荘」、河口湖を見晴らすモダンリゾート「湖のホテル」、富士山と湖を望む数寄屋造りの名宿「若草の宿 丸栄」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/yamanashi-fujikawaguchiko-solo-retreat-fujiview-onsen-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -26,12 +27,12 @@ export default function ArticlePage() {
     description: '世界遺産富士山と河口湖の壮大なパノラマを望む富士五湖屈指の温泉地・富士河口湖温泉！屋上足湯や展望露天風呂から富士山を仰ぐ口コミ★4.7超の名門「湖南荘」、河口湖を見晴らすモダンリゾート「湖のホテル」、富士山と湖を望む数寄屋造りの名宿「若草の宿 丸栄」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル ひとり旅・出張調査班',
+      name: '旅宿クラウド ひとり旅・出張調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -91,6 +92,9 @@ export default function ArticlePage() {
             </p>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"富士山麓・富士河口湖温泉ひとり旅・富士絶景おこもり：屋上展望足湯・富士ビュー露天風呂・甲州牛懐石"} url={"https://croud-travel.pages.dev/yamanashi-fujikawaguchiko-solo-retreat-fujiview-onsen-stay/"} />
+      </div>
 
         {/* 目次 */}
         <section className="bg-white p-5 rounded-2xl border border-stone-200 shadow-sm mb-10">
@@ -149,7 +153,7 @@ export default function ArticlePage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31111%2F31111.html"
                 target="_blank"
-                rel="noopener noreferrer sponsored"
+                rel="sponsored noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-amber-700 hover:bg-amber-800 text-white text-xs sm:text-sm font-bold px-5 py-2.5 rounded-lg shadow-sm hover:shadow transition"
               >
                 <span>空室状況・最新料金を確認</span>
@@ -203,7 +207,7 @@ export default function ArticlePage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F52103%2F52103.html"
                 target="_blank"
-                rel="noopener noreferrer sponsored"
+                rel="sponsored noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-amber-700 hover:bg-amber-800 text-white text-xs sm:text-sm font-bold px-5 py-2.5 rounded-lg shadow-sm hover:shadow transition"
               >
                 <span>空室状況・最新料金を確認</span>
@@ -256,7 +260,7 @@ export default function ArticlePage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F61663%2F61663.html"
                 target="_blank"
-                rel="noopener noreferrer sponsored"
+                rel="sponsored noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-amber-700 hover:bg-amber-800 text-white text-xs sm:text-sm font-bold px-5 py-2.5 rounded-lg shadow-sm hover:shadow transition"
               >
                 <span>空室状況・最新料金を確認</span>
@@ -316,7 +320,7 @@ export default function ArticlePage() {
           <a
             href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31111%2F31111.html"
             target="_blank"
-            rel="noopener noreferrer sponsored"
+            rel="sponsored noopener noreferrer"
             className="inline-block bg-amber-600 hover:bg-amber-500 text-white text-sm font-bold px-8 py-3.5 rounded-xl shadow-lg transition"
           >
             一番人気の宿をチェックする（楽天トラベル）
@@ -604,6 +608,9 @@ export default function ArticlePage() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"富士山麓・富士河口湖温泉ひとり旅・富士絶景おこもり：屋上展望足湯・富士ビュー露天風呂・甲州牛懐石"} url={"https://croud-travel.pages.dev/yamanashi-fujikawaguchiko-solo-retreat-fujiview-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="yamanashi-fujikawaguchiko-solo-retreat-fujiview-onsen-stay" />
 </div>
   );

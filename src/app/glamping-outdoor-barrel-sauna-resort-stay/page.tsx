@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function RailwayActivityHubPage() {
             心地よい木の香りとセルフロウリュの熱波に包まれる「バレルサウナ＆グランピング」。天然の地下水風呂で身体を引き締め、満天の星空の下でインフィニティチェアに身を委ねる究極のととのい。焚き火の炎と極上グランピングBBQへ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"グランピング＆バレルサウナ体験宿：北欧テント・星空BBQ＆ととのい 厳選ガイド"} url={"https://croud-travel.pages.dev/glamping-outdoor-barrel-sauna-resort-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆厳選宿 */}
@@ -454,6 +458,9 @@ export default function RailwayActivityHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"グランピング＆バレルサウナ体験宿：北欧テント・星空BBQ＆ととのい 厳選ガイド"} url={"https://croud-travel.pages.dev/glamping-outdoor-barrel-sauna-resort-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="glamping-outdoor-barrel-sauna-resort-stay" />
 </div>
   );

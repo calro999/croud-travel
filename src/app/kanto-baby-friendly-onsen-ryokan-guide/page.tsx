@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -172,6 +173,9 @@ export default function KantoBabyFriendlyOnsenGuidePage() {
             </span>
           </div>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"関東 赤ちゃん連れ温泉旅行おすすめ宿7選：部屋食・貸切風呂・おむつ替えグッズ完備の安心名宿"} url={"https://croud-travel.pages.dev/kanto-baby-friendly-onsen-ryokan-guide/"} />
+      </div>
       </section>
 
       {/* 楽天トラベル公式 ファミリー応援クーポンバナー */}
@@ -180,8 +184,7 @@ export default function KantoBabyFriendlyOnsenGuidePage() {
       {/* 内部リンク・関連予算ガイドナビゲーション */}
       <nav className="bg-rose-50/80 border border-rose-200/80 rounded-2xl p-6 shadow-sm">
         <div className="flex items-center justify-between mb-3">
-          <h2 className="text-sm md:text-base font-black text-rose-950 flex items-center gap-2"><span className="w-2.5 h-2.5 rounded-full bg-rose-600"></span>
-            関東人気温泉地の費用・計画ガイド（あわせて読みたい）</h2>
+          <h2 className="text-sm md:text-base font-black text-rose-950 flex items-center gap-2">関東人気温泉地の費用・計画ガイド（あわせて読みたい）</h2>
           <span className="text-[10px] text-rose-700 bg-rose-100/70 font-bold px-2 py-0.5 rounded">
             予算シミュレーション
           </span>
@@ -416,6 +419,9 @@ export default function KantoBabyFriendlyOnsenGuidePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"関東 赤ちゃん連れ温泉旅行おすすめ宿7選：部屋食・貸切風呂・おむつ替えグッズ完備の安心名宿"} url={"https://croud-travel.pages.dev/kanto-baby-friendly-onsen-ryokan-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="kanto-baby-friendly-onsen-ryokan-guide" />
 </div>
   );

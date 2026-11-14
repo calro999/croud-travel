@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -79,6 +80,9 @@ export default function FurusatoChichibuNagatoroStayPage() {
           <span className="bg-green-100 text-green-900 px-2 py-0.5 rounded font-medium">実質負担2,000円対象</span>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"名勝岩畳と長瀞ライン下り！秩父・長瀞の横瀬川清流望む露天風呂＆創業190年美肌鉱泉・郷土会席名宿×ふるさと納税完全攻略ガイド【2026年最新】和どう・新木鉱泉・長生館！秩父・長瀞の横瀬川清流望む露天風呂＆創業190年美肌鉱泉・郷土会席名宿×ふるさと納税完全攻略ガイド【2026年最新】和どう・新木鉱泉・長生館"} url={"https://croud-travel.pages.dev/furusato-tax-chichibu-nagatoro-nature-onsen-stay/"} />
+      </div>
 
       {/* リード文ブロック */}
       <section className="bg-gradient-to-br from-amber-50/70 via-orange-50/40 to-yellow-50/60 p-6 md:p-8 rounded-2xl border border-amber-200/80 mb-12 shadow-sm">
@@ -91,7 +95,7 @@ export default function FurusatoChichibuNagatoroStayPage() {
           <ul className="text-xs md:text-sm text-gray-700 space-y-1.5">
             <li className="flex items-start gap-1">
               <span className="text-amber-600 font-bold">✔</span>
-              <span><strong>寄付額の最大30％が宿泊クーポンとして即時付与</strong>され、楽天ポイントも二重に貯まる</span>
+              <span><strong>寄付額の最大30％が宿泊クーポンとして即時付与</strong>され、最長3年間いつでも宿泊予約に使える</span>
             （名勝岩畳と長瀞ライン下り！秩父・長瀞の横瀬川清流望む露天風呂＆創業190年美肌鉱泉・郷土会席名宿×ふるさと納税完全攻略ガイド【2026年最新】和どう・新木鉱泉・長生館！秩父・長瀞の横瀬川清流望む露天風呂＆創業190年美肌鉱泉・郷土会席名宿×ふるさと納税完全攻略ガイド【2026年最新】和どう・新木鉱泉・長生館）</li>
             <li className="flex items-start gap-1">
               <span className="text-amber-600 font-bold">✔</span>
@@ -341,6 +345,9 @@ export default function FurusatoChichibuNagatoroStayPage() {
             ▸ 【古民家囲炉裏炭火会席＆奇跡の湯×ふるさと納税】白川郷・法師・祖谷
           </Link>
         
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"名勝岩畳と長瀞ライン下り！秩父・長瀞の横瀬川清流望む露天風呂＆創業190年美肌鉱泉・郷土会席名宿×ふるさと納税完全攻略ガイド【2026年最新】和どう・新木鉱泉・長生館！秩父・長瀞の横瀬川清流望む露天風呂＆創業190年美肌鉱泉・郷土会席名宿×ふるさと納税完全攻略ガイド【2026年最新】和どう・新木鉱泉・長生館"} url={"https://croud-travel.pages.dev/furusato-tax-chichibu-nagatoro-nature-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-chichibu-nagatoro-nature-onsen-stay" />
 </div>
       </section>

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -14,7 +15,7 @@ export const metadata: Metadata = {
     title: '水上温泉郷をふるさと納税でお得に旅する！谷川岳の絶景＆利根川渓流露天！上州牛と名湯満喫特集｜別邸仙寿庵・松乃井・坐山みなかみ',
     description: '利根川源流の大自然と谷川岳の秀峰に抱かれる群馬県みなかみ町「水上温泉郷」を楽天ふるさと納税でお得に贅沢ステイ！世界最高峰ルレ・エ・シャトー加盟の「別邸 仙寿庵」、四つの自家源泉と豪華バイキングの「大江戸温泉物語Premium 松乃井」、利根川を望む十六の湯船を誇る「坐山 みなかみ（旧水上館）」を徹底比較。みなかみ町トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-minakami-onsen-tanigawadake-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -28,12 +29,12 @@ export default function FurusatoArticlePage() {
     description: '利根川源流の大自然と谷川岳の秀峰に抱かれる群馬県みなかみ町「水上温泉郷」を楽天ふるさと納税でお得に贅沢ステイ！世界最高峰ルレ・エ・シャトー加盟の「別邸 仙寿庵」、四つの自家源泉と豪華バイキングの「大江戸温泉物語Premium 松乃井」、利根川を望む十六の湯船を誇る「坐山 みなかみ（旧水上館）」を徹底比較。みなかみ町トラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル 観光・ふるさと納税調査班',
+      name: '旅宿クラウド 観光・ふるさと納税調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -80,6 +81,9 @@ export default function FurusatoArticlePage() {
           利根川源流の大自然と谷川岳の秀峰に抱かれる群馬県みなかみ町「水上温泉郷」を楽天ふるさと納税でお得に贅沢ステイ！世界最高峰ルレ・エ・シャトー加盟の「別邸 仙寿庵」、四つの自家源泉と豪華バイキングの「大江戸温泉物語Premium 松乃井」、利根川を望む十六の湯船を誇る「坐山 みなかみ（旧水上館）」を徹底比較。みなかみ町トラベルクーポン活用術を網羅。
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"水上温泉郷をふるさと納税でお得に旅する！谷川岳の絶景＆利根川渓流露天！上州牛と名湯満喫特集"} url={"https://croud-travel.pages.dev/furusato-tax-minakami-onsen-tanigawadake-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
@@ -360,7 +364,7 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 谷川岳ロープウェイ・一ノ倉沢・諏訪峡＆アウトドアアクティビティ観光ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">谷川岳ロープウェイ・一ノ倉沢・諏訪峡＆アウトドアアクティビティ観光ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
@@ -586,6 +590,9 @@ export default function FurusatoArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"水上温泉郷をふるさと納税でお得に旅する！谷川岳の絶景＆利根川渓流露天！上州牛と名湯満喫特集"} url={"https://croud-travel.pages.dev/furusato-tax-minakami-onsen-tanigawadake-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-minakami-onsen-tanigawadake-stay" />
 </div>
         </section>

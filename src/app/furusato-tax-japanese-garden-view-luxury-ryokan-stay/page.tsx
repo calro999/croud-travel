@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import FurusatoStepSection from "@/app/components/FurusatoStepSection";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
@@ -96,6 +97,9 @@ export default function FurusatoJapaneseGardenViewStayPage() {
             </Link>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"客室から名園を愛でる贅沢！日本庭園ビュー＆伝統数寄屋造り名門温泉旅館×ふるさと納税厳選ガイド島根玉造・佐賀武雄・石川加賀"} url={"https://croud-travel.pages.dev/furusato-tax-japanese-garden-view-luxury-ryokan-stay/"} />
+      </div>
 
         {/* 3つの醍醐味セクション */}
         <section className="mb-16">
@@ -518,6 +522,9 @@ export default function FurusatoJapaneseGardenViewStayPage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"客室から名園を愛でる贅沢！日本庭園ビュー＆伝統数寄屋造り名門温泉旅館×ふるさと納税厳選ガイド島根玉造・佐賀武雄・石川加賀"} url={"https://croud-travel.pages.dev/furusato-tax-japanese-garden-view-luxury-ryokan-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-japanese-garden-view-luxury-ryokan-stay" />
 </div>
         </section>

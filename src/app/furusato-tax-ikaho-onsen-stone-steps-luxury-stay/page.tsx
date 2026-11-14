@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -79,6 +80,9 @@ export default function FurusatoIkahoOnsenStoneStepsStayPage() {
           <span className="bg-green-100 text-green-900 px-2 py-0.5 rounded font-medium">実質負担2,000円対象</span>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"365段の石段街と情緒あふれる湯滝！伊香保温泉の「黄金の湯」「白銀の湯」名門旅館＆上州牛会席×ふるさと納税完全攻略ガイド【2026年最新】福一・岸権・木暮！伊香保温泉の「黄金の湯」「白銀の湯」名門旅館＆上州牛会席×ふるさと納税完全攻略ガイド【2026年最新】福一・岸権・木暮"} url={"https://croud-travel.pages.dev/furusato-tax-ikaho-onsen-stone-steps-luxury-stay/"} />
+      </div>
 
       {/* リード文ブロック */}
       <section className="bg-gradient-to-br from-amber-50/70 via-orange-50/40 to-yellow-50/60 p-6 md:p-8 rounded-2xl border border-amber-200/80 mb-12 shadow-sm">
@@ -91,7 +95,7 @@ export default function FurusatoIkahoOnsenStoneStepsStayPage() {
           <ul className="text-xs md:text-sm text-gray-700 space-y-1.5">
             <li className="flex items-start gap-1">
               <span className="text-amber-600 font-bold">✔</span>
-              <span><strong>寄付額の最大30％が宿泊クーポンとして即時付与</strong>され、楽天ポイントも二重に貯まる</span>
+              <span><strong>寄付額の最大30％が宿泊クーポンとして即時付与</strong>され、最長3年間いつでも宿泊予約に使える</span>
             （365段の石段街と情緒あふれる湯滝！伊香保温泉の「黄金の湯」「白銀の湯」名門旅館＆上州牛会席×ふるさと納税完全攻略ガイド【2026年最新】福一・岸権・木暮！伊香保温泉の「黄金の湯」「白銀の湯」名門旅館＆上州牛会席×ふるさと納税完全攻略ガイド【2026年最新】福一・岸権・木暮）</li>
             <li className="flex items-start gap-1">
               <span className="text-amber-600 font-bold">✔</span>
@@ -341,6 +345,9 @@ export default function FurusatoIkahoOnsenStoneStepsStayPage() {
             ▸ 【箱根温泉 客室露天風呂＆名門旅館×ふるさと納税】富士屋ホテル・天成園・はつはな
           </Link>
         
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"365段の石段街と情緒あふれる湯滝！伊香保温泉の「黄金の湯」「白銀の湯」名門旅館＆上州牛会席×ふるさと納税完全攻略ガイド【2026年最新】福一・岸権・木暮！伊香保温泉の「黄金の湯」「白銀の湯」名門旅館＆上州牛会席×ふるさと納税完全攻略ガイド【2026年最新】福一・岸権・木暮"} url={"https://croud-travel.pages.dev/furusato-tax-ikaho-onsen-stone-steps-luxury-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-ikaho-onsen-stone-steps-luxury-stay" />
 </div>
       </section>

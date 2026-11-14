@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -13,7 +14,7 @@ export const metadata: Metadata = {
     title: '一人ホテルステイ・ご褒美宿泊：クラブラウンジアクセス付き！東京＆横浜の高層ラグジュアリーホテル 厳選3選',
     description: '日頃頑張る自分へ、最高の非日常と休息をプレゼントする「大人のご褒美ソロホテルステイ」。東京ベイエリアを望むアートな「メズム東京」、地上180mの天空に浮かぶ「ザ・プリンスギャラリー 東京紀尾井町」、広大な日本庭園と複数のクラブラウンジが楽しめる「グランドプリンスホテル新高輪」を徹底特集。フードプレゼンテーションとカクテルタイムを満喫する週末ステイケーション。',
     url: 'https://croud-travel.pages.dev/solo-luxury-club-lounge-reward-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -27,12 +28,12 @@ export default function ArticlePage() {
     description: '日頃頑張る自分へ、最高の非日常と休息をプレゼントする「大人のご褒美ソロホテルステイ」。東京ベイエリアを望むアートな「メズム東京」、地上180mの天空に浮かぶ「ザ・プリンスギャラリー 東京紀尾井町」、広大な日本庭園と複数のクラブラウンジが楽しめる「グランドプリンスホテル新高輪」を徹底特集。フードプレゼンテーションとカクテルタイムを満喫する週末ステイケーション。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル ひとり旅・ホテル調査班',
+      name: '旅宿クラウド ひとり旅・ホテル調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -79,6 +80,9 @@ export default function ArticlePage() {
           日頃頑張る自分へ、最高の非日常と休息をプレゼントする「大人のご褒美ソロホテルステイ」。東京ベイエリアを望むアートな「メズム東京」、地上180mの天空に浮かぶ「ザ・プリンスギャラリー 東京紀尾井町」、広大な日本庭園と複数のクラブラウンジが楽しめる「グランドプリンスホテル新高輪」を徹底特集。フードプレゼンテーションとカクテルタイムを満喫する週末ステイケーション。
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"一人ホテルステイ・ご褒美宿泊：クラブラウンジアクセス付き！東京＆横浜の高層ラグジュアリーホテル 厳選3選"} url={"https://croud-travel.pages.dev/solo-luxury-club-lounge-reward-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
@@ -381,7 +385,7 @@ export default function ArticlePage() {
             href="/"
             className="inline-flex items-center gap-2 text-sm text-stone-600 hover:text-stone-900 font-medium transition-colors"
           >
-            ← クラウドトラベル トップページへ戻る
+            ← 旅宿クラウド トップページへ戻る
           </Link>
         </div>
       </div>
@@ -454,6 +458,10 @@ export default function ArticlePage() {
           </div>
         </section>
 
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"一人ホテルステイ・ご褒美宿泊：クラブラウンジアクセス付き！東京＆横浜の高層ラグジュアリーホテル 厳選3選"} url={"https://croud-travel.pages.dev/solo-luxury-club-lounge-reward-stay/"} />
+      </div>
       </main>
   );
 }

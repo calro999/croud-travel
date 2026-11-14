@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -12,7 +13,7 @@ export const metadata: Metadata = {
     title: "那須塩原・塩原温泉郷ひとり旅・十一湯渓谷おこもり：開湯1200年名瀑露天・乳白色硫黄泉・文豪の愛した湯治場",
     description: '11の温泉地が箒川沿いに連なる塩原十一湯！源泉かけ流しの極上泉と手作りの山海料理が口コミ★4.7超の「山口屋旅館」、奥塩原新湯の濃厚な白濁硫黄泉を堪能できる「やまの宿 下藤屋」、箒川の渓流を見下ろす野趣あふれる渓谷露天風呂が有名な「湯守田中屋」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/tochigi-shiobara-solo-retreat-valley-onsen-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -26,12 +27,12 @@ export default function ArticlePage() {
     description: '11の温泉地が箒川沿いに連なる塩原十一湯！源泉かけ流しの極上泉と手作りの山海料理が口コミ★4.7超の「山口屋旅館」、奥塩原新湯の濃厚な白濁硫黄泉を堪能できる「やまの宿 下藤屋」、箒川の渓流を見下ろす野趣あふれる渓谷露天風呂が有名な「湯守田中屋」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル ひとり旅・出張調査班',
+      name: '旅宿クラウド ひとり旅・出張調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -91,6 +92,9 @@ export default function ArticlePage() {
             </p>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"那須塩原・塩原温泉郷ひとり旅・十一湯渓谷おこもり：開湯1200年名瀑露天・乳白色硫黄泉・文豪の愛した湯治場"} url={"https://croud-travel.pages.dev/tochigi-shiobara-solo-retreat-valley-onsen-stay/"} />
+      </div>
 
         {/* 目次 */}
         <section className="bg-white p-5 rounded-2xl border border-stone-200 shadow-sm mb-10">
@@ -148,7 +152,7 @@ export default function ArticlePage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9304%2F9304.html"
                 target="_blank"
-                rel="noopener noreferrer sponsored"
+                rel="sponsored noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-amber-700 hover:bg-amber-800 text-white text-xs sm:text-sm font-bold px-5 py-2.5 rounded-lg shadow-sm hover:shadow transition"
               >
                 <span>空室状況・最新料金を確認</span>
@@ -201,7 +205,7 @@ export default function ArticlePage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5650%2F5650.html"
                 target="_blank"
-                rel="noopener noreferrer sponsored"
+                rel="sponsored noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-amber-700 hover:bg-amber-800 text-white text-xs sm:text-sm font-bold px-5 py-2.5 rounded-lg shadow-sm hover:shadow transition"
               >
                 <span>空室状況・最新料金を確認</span>
@@ -255,7 +259,7 @@ export default function ArticlePage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31902%2F31902.html"
                 target="_blank"
-                rel="noopener noreferrer sponsored"
+                rel="sponsored noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-amber-700 hover:bg-amber-800 text-white text-xs sm:text-sm font-bold px-5 py-2.5 rounded-lg shadow-sm hover:shadow transition"
               >
                 <span>空室状況・最新料金を確認</span>
@@ -315,7 +319,7 @@ export default function ArticlePage() {
           <a
             href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9304%2F9304.html"
             target="_blank"
-            rel="noopener noreferrer sponsored"
+            rel="sponsored noopener noreferrer"
             className="inline-block bg-amber-600 hover:bg-amber-500 text-white text-sm font-bold px-8 py-3.5 rounded-xl shadow-lg transition"
           >
             一番人気の宿をチェックする（楽天トラベル）
@@ -541,6 +545,9 @@ export default function ArticlePage() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"那須塩原・塩原温泉郷ひとり旅・十一湯渓谷おこもり：開湯1200年名瀑露天・乳白色硫黄泉・文豪の愛した湯治場"} url={"https://croud-travel.pages.dev/tochigi-shiobara-solo-retreat-valley-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="tochigi-shiobara-solo-retreat-valley-onsen-stay" />
 </div>
   );

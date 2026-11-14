@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -14,7 +15,7 @@ export const metadata: Metadata = {
     title: "月岡温泉をふるさと納税でお得に旅する！国内随一のエメラルドグリーン硫黄泉＆極上越後会席！名門宿特集",
     description: '日本有数の硫黄含有量を誇る美肌の湯・新潟県月岡温泉を楽天ふるさと納税でお得に贅沢ステイ！六千坪の大庭園と展望露天風呂を誇る最高峰「白玉の湯 華鳳」、岩露天風呂とのどぐろ料理が自慢の「白玉の湯 泉慶」、大庭園と地酒バイキングの「風鈴屋」を徹底比較。新発田市トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-tsukioka-onsen-emerald-bihada-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -28,12 +29,12 @@ export default function FurusatoArticlePage() {
     description: '日本有数の硫黄含有量を誇る美肌の湯・新潟県月岡温泉を楽天ふるさと納税でお得に贅沢ステイ！六千坪の大庭園と展望露天風呂を誇る最高峰「白玉の湯 華鳳」、岩露天風呂とのどぐろ料理が自慢の「白玉の湯 泉慶」、大庭園と地酒バイキングの「風鈴屋」を徹底比較。新発田市トラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル 観光・ふるさと納税調査班',
+      name: '旅宿クラウド 観光・ふるさと納税調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -80,6 +81,9 @@ export default function FurusatoArticlePage() {
           日本有数の硫黄含有量を誇る美肌の湯・新潟県月岡温泉を楽天ふるさと納税でお得に贅沢ステイ！六千坪の大庭園と展望露天風呂を誇る最高峰「白玉の湯 華鳳」、岩露天風呂とのどぐろ料理が自慢の「白玉の湯 泉慶」、大庭園と地酒バイキングの「風鈴屋」を徹底比較。新発田市トラベルクーポン活用術を網羅。
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"月岡温泉をふるさと納税でお得に旅する！国内随一のエメラルドグリーン硫黄泉＆極上越後会席！名門宿特集"} url={"https://croud-travel.pages.dev/furusato-tax-tsukioka-onsen-emerald-bihada-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
@@ -360,7 +364,7 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 月岡温泉街・歩いて楽しむ温泉街めぐりガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">月岡温泉街・歩いて楽しむ温泉街めぐりガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
@@ -403,7 +407,7 @@ export default function FurusatoArticlePage() {
                 Step 1: 楽天ふるさと納税で「新潟県新発田市」クーポンを獲得
               </span>
               <p className="text-stone-300 text-xs sm:text-sm leading-relaxed">
-                楽天ふるさと納税で新発田市を選び、寄付額の30%相当となるトラベルクーポンを返礼品として申し込みます。楽天ポイントの還元も通常通り受けられます。
+                楽天ふるさと納税で新発田市を選び、寄付額の30%相当となるトラベルクーポンを返礼品として申し込みます。クーポンは寄附翌日から最長3年間利用可能です。
               </p>
             </div>
             <div className="bg-stone-900/60 p-4 rounded-2xl border border-amber-500/20 space-y-2">
@@ -586,6 +590,9 @@ export default function FurusatoArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"月岡温泉をふるさと納税でお得に旅する！国内随一のエメラルドグリーン硫黄泉＆極上越後会席！名門宿特集"} url={"https://croud-travel.pages.dev/furusato-tax-tsukioka-onsen-emerald-bihada-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-tsukioka-onsen-emerald-bihada-stay" />
 </div>
         </section>

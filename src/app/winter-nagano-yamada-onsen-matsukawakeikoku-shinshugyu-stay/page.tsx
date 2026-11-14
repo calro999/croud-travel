@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月長野・高山村山田温泉＆松川渓谷】松川渓谷の雪見露天と信州牛・小布施栗おこわと信州高山ワインを味わう名宿5選',
     description: '11月から12月にかけて、信州北部に位置する高山村・松川渓谷は、晩秋の彩りから息を呑む白銀の渓谷美へと劇的な移ろいを見せます。',
     url: 'https://croud-travel.pages.dev/winter-nagano-yamada-onsen-matsukawakeikoku-shinshugyu-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -50,12 +51,12 @@ export default function NaganoYamadaPage() {
     dateModified: '2026-10-19T12:00:00+09:00',
     author: {
       '@type': 'Organization',
-      name: 'クラドトラベル編集部',
+      name: '旅宿クラウド編集部',
       url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラドトラベル',
+      name: '旅宿クラウド',
       url: 'https://croud-travel.pages.dev',
       logo: {
         '@type': 'ImageObject',
@@ -234,6 +235,9 @@ export default function NaganoYamadaPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月長野・高山村山田温泉＆松川渓谷】松川渓谷の雪見露天と信州牛・小布施栗おこわと信州高山ワインを味わう名宿5選"} url={"https://croud-travel.pages.dev/winter-nagano-yamada-onsen-matsukawakeikoku-shinshugyu-stay/"} />
+      </div>
 
       {/* Breadcrumbs */}
       <nav className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-4 text-xs text-stone-500 flex items-center gap-1.5 flex-wrap">
@@ -404,7 +408,7 @@ export default function NaganoYamadaPage() {
                       <a
                         href={hotel.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="w-full sm:w-auto inline-flex items-center justify-center gap-2 bg-amber-600 hover:bg-amber-700 text-white text-xs sm:text-sm font-bold px-5 py-2.5 rounded-full transition duration-200 shadow-xs hover:shadow-md shrink-0"
                       >
                         <span>空室・料金プランを確認</span>
@@ -591,6 +595,9 @@ export default function NaganoYamadaPage() {
               </p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月長野・高山村山田温泉＆松川渓谷】松川渓谷の雪見露天と信州牛・小布施栗おこわと信州高山ワインを味わう名宿5選"} url={"https://croud-travel.pages.dev/winter-nagano-yamada-onsen-matsukawakeikoku-shinshugyu-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-nagano-yamada-onsen-matsukawakeikoku-shinshugyu-stay" />
 </div>
         </section>

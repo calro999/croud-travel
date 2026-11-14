@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -267,6 +268,9 @@ export default function KanazawaCityWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月金沢】冬の兼六園雪吊り＆尾山神社新春初詣！近江町市場の香箱ガニ・寒ブリ・加賀おでんに寛ぐ厳選宿5選"} url={"https://croud-travel.pages.dev/winter-ishikawa-kanazawa-city-kenrokuen-yukizuri-koubako-crab-stay/"} />
+      </div>
 
       {/* Navigation Breadcrumbs */}
       <nav aria-label="パンくずリスト" className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-4 text-xs text-slate-500">
@@ -399,7 +403,7 @@ export default function KanazawaCityWinterPage() {
                     <a
                       href={hotel.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-6 py-3 rounded-2xl bg-gradient-to-r from-rose-600 to-red-600 text-white font-bold text-sm shadow-md hover:from-rose-500 hover:to-red-500 hover:shadow-lg transition-all"
                     >
                       <span>楽天トラベルで空室・プランを見る</span>
@@ -586,6 +590,9 @@ export default function KanazawaCityWinterPage() {
               <span className="text-xs text-slate-500">11月・12月・1月に訪れたい日本各地の名宿・絶景旅ガイド</span>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月金沢】冬の兼六園雪吊り＆尾山神社新春初詣！近江町市場の香箱ガニ・寒ブリ・加賀おでんに寛ぐ厳選宿5選"} url={"https://croud-travel.pages.dev/winter-ishikawa-kanazawa-city-kenrokuen-yukizuri-koubako-crab-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-ishikawa-kanazawa-city-kenrokuen-yukizuri-koubako-crab-stay" />
 </div>
         </section>

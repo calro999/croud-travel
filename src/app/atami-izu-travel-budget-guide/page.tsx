@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -77,6 +78,9 @@ export default function AtamiBudgetGuidePage() {
             東京から片道たったの1,980円！思い立ったらすぐ行ける距離感が最大の魅力。大人気の「熱海プリン」や海鮮丼、絶景オーシャンビュー旅館まで、今週末の旅行にすぐ使えるリアルな予算ガイドです。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"熱海・伊豆旅行 費用：日帰り・1泊2日でいくら？東京から片道2,000円で行ける温泉リゾートの全費用"} url={"https://croud-travel.pages.dev/atami-izu-travel-budget-guide/"} />
+      </div>
       </section>
 
       {/* 交通費の安さが圧倒的 */}
@@ -456,6 +460,9 @@ export default function AtamiBudgetGuidePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"熱海・伊豆旅行 費用：日帰り・1泊2日でいくら？東京から片道2,000円で行ける温泉リゾートの全費用"} url={"https://croud-travel.pages.dev/atami-izu-travel-budget-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="atami-izu-travel-budget-guide" />
 </div>
   );

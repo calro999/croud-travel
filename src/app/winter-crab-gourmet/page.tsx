@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -113,6 +114,9 @@ export default function SeasonalFeaturePage() {
             冬の旅の醍醐味といえば、獲れたて極上のカニ料理と雪見露天風呂。茹でガニ、カニ刺し、焼きガニ、カニすき鍋から甲羅酒まで。北陸・山陰の名湯旅館で極上の美食ステイを。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【冬の味覚】カニ食べ尽くし＆絶景雪見温泉旅館 完全ガイド"} url={"https://croud-travel.pages.dev/winter-crab-gourmet/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function SeasonalFeaturePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【冬の味覚】カニ食べ尽くし＆絶景雪見温泉旅館 完全ガイド"} url={"https://croud-travel.pages.dev/winter-crab-gourmet/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-crab-gourmet" />
 </div>
   );

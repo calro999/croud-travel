@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -197,6 +198,9 @@ export default function SilverWeekGlampingBbqEmptyHandedPage() {
           </div>
         </div>
       </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"手ぶらBBQグランピングおすすめ：準備・片付け不要！黒毛和牛ステーキ＆海鮮が豪華すぎる秋のごちそう泊"} url={"https://croud-travel.pages.dev/silver-week-glamping-bbq-empty-handed-guide/"} />
+      </div>
 
       {/* 楽天トラベルスペシャルクーポンバナー */}
       <SpecialCouponBanner variant="prominent" />
@@ -415,6 +419,9 @@ export default function SilverWeekGlampingBbqEmptyHandedPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"手ぶらBBQグランピングおすすめ：準備・片付け不要！黒毛和牛ステーキ＆海鮮が豪華すぎる秋のごちそう泊"} url={"https://croud-travel.pages.dev/silver-week-glamping-bbq-empty-handed-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="silver-week-glamping-bbq-empty-handed-guide" />
 </div>
   );

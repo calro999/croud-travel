@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -113,6 +114,9 @@ export default function SeasonalFeaturePage() {
             思い立った時にふらりと出かける一人旅。読書に没頭したり、気の向くままに名湯に浸かったり、美味しい地酒と料理を味わったり。ひとり旅に優しい安心の厳選宿をご紹介します。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【おひとり様歓迎】秋・冬の気ままな一人旅温泉宿 完全ガイド"} url={"https://croud-travel.pages.dev/autumn-winter-solo-travel-retreat/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function SeasonalFeaturePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【おひとり様歓迎】秋・冬の気ままな一人旅温泉宿 完全ガイド"} url={"https://croud-travel.pages.dev/autumn-winter-solo-travel-retreat/"} />
+      </div>
       <HubRelatedPosts currentSlug="autumn-winter-solo-travel-retreat" />
 </div>
   );

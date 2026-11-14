@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
     title: '【11・12・1月佐賀】冬の有明海名物「竹崎カニ」と日本三大稲荷・祐徳稲荷神社の初詣・日本三大美肌の湯「嬉野温泉」温泉湯豆腐を堪能する名宿5選',
     description: '11月から1月、佐賀県の有明海沿岸・太良町では、甲羅に濃厚な朱色の内子（卵巣）をぎっしりと蓄えた冬のメス「竹崎カニ」が最高潮の旬を迎えます。',
     url: 'https://croud-travel.pages.dev/winter-saga-tara-takezaki-crab-yutoku-inari-ureshino-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     images: [
       {
         url: 'https://img.travel.rakuten.co.jp/share/HOTEL/53097/53097.jpg',
@@ -49,12 +50,12 @@ export default function SagaTaraTakezakiWinterPage() {
     dateModified: '',
     author: {
       '@type': 'Organization',
-      name: 'クラドトラベル編集部',
+      name: '旅宿クラウド編集部',
       url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png'
@@ -293,6 +294,9 @@ export default function SagaTaraTakezakiWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月佐賀】冬の有明海名物「竹崎カニ」と日本三大稲荷・祐徳稲荷神社の初詣・日本三大美肌の湯「嬉野温泉」温泉湯豆腐を堪能する名宿5選"} url={"https://croud-travel.pages.dev/winter-saga-tara-takezaki-crab-yutoku-inari-ureshino-stay/"} />
+      </div>
 
       {/* Main Content Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 pt-12 space-y-16">
@@ -492,7 +496,7 @@ export default function SagaTaraTakezakiWinterPage() {
                       <a 
                         href={h.url} 
                         target="_blank" 
-                        rel="noopener noreferrer" 
+                        rel="sponsored noopener noreferrer" 
                         className="w-full sm:w-auto inline-flex items-center justify-center gap-2 bg-gradient-to-r from-amber-800 to-slate-900 hover:from-amber-900 hover:to-slate-950 text-white font-bold px-6 py-3.5 rounded-xl shadow-md transition-all text-sm group"
                       >
                         <span>楽天トラベルで空室・プランを見る</span>
@@ -665,6 +669,9 @@ export default function SagaTaraTakezakiWinterPage() {
               <span className="text-xs text-amber-300 mt-2 block font-medium">全特集をチェック ➔</span>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月佐賀】冬の有明海名物「竹崎カニ」と日本三大稲荷・祐徳稲荷神社の初詣・日本三大美肌の湯「嬉野温泉」温泉湯豆腐を堪能する名宿5選"} url={"https://croud-travel.pages.dev/winter-saga-tara-takezaki-crab-yutoku-inari-ureshino-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-saga-tara-takezaki-crab-yutoku-inari-ureshino-stay" />
 </div>
         </section>

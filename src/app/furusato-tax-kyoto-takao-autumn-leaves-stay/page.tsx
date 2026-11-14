@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -7,7 +8,7 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '京都・高雄の三尾紅葉（神護寺・高山寺）＆清滝川沿い隠れ家宿で味わう秋の川床名残会席｜ふるさと納税で泊まれる名宿ガイド',
   description: '11月上旬〜11月中旬に京都で最も早く鮮やかに色づく高雄・三尾エリア。清滝川のせせらぎを望む隠れ宿で、赤く染まるもみじのライトアップと極上京会席・丹波牛をふるさと納税でお得に堪能。',
-  keywords: ["京都", "高雄の三尾紅葉（神護寺", "高山寺）", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル"],
+  keywords: ["京都", "高雄の三尾紅葉（神護寺", "高山寺）", "旅宿クラウドふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-kyoto-takao-autumn-leaves-stay/",
   },
@@ -15,7 +16,7 @@ export const metadata: Metadata = {
     title: '京都・高雄の三尾紅葉（神護寺・高山寺）＆清滝川沿い隠れ家宿で味わう秋の川床名残会席｜ふるさと納税で泊まれる名宿ガイド',
     description: '11月上旬〜11月中旬に京都で最も早く鮮やかに色づく高雄・三尾エリア。清滝川のせせらぎを望む隠れ宿で、赤く染まるもみじのライトアップと極上京会席・丹波牛をふるさと納税でお得に堪能。',
     url: 'https://croud-travel.pages.dev/furusato-tax-kyoto-takao-autumn-leaves-stay/',
-    siteName: 'クラウドトラベル (croud-travel.pages.dev)',
+    siteName: '旅宿クラウド (croud-travel.pages.dev)',
     type: 'article',
     locale: 'ja_JP',
   },
@@ -29,11 +30,11 @@ export default function Page() {
     "description": "11月上旬〜11月中旬に京都で最も早く鮮やかに色づく高雄・三尾エリア。清滝川のせせらぎを望む隠れ宿で、赤く染まるもみじのライトアップと極上京会席・丹波牛をふるさと納税でお得に堪能。",
     "author": {
       "@type": "Organization",
-      "name": "クラウドトラベル編集部"
+      "name": "旅宿クラウド編集部"
     },
     "publisher": {
       "@type": "Organization",
-      "name": "クラウドトラベル",
+      "name": "旅宿クラウド",
       "logo": {
         "@type": "ImageObject",
         "url": "https://croud-travel.pages.dev/logo.png"
@@ -112,12 +113,15 @@ export default function Page() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"京都・高雄の三尾紅葉（神護寺・高山寺）＆清滝川沿い隠れ家宿で味わう秋の川床名残会席"} url={"https://croud-travel.pages.dev/furusato-tax-kyoto-takao-autumn-leaves-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"京都・高雄の三尾紅葉（神護寺・高山寺）＆清滝川沿い隠れ家宿で味わう秋の川床名残会席｜ふるさと納税で泊まれる名宿ガイド | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-kyoto-takao-autumn-leaves-stay/"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"京都・高雄の三尾紅葉（神護寺・高山寺）＆清滝川沿い隠れ家宿で味わう秋の川床名残会席｜ふるさと納税で泊まれる名宿ガイド | 旅宿クラウドふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-kyoto-takao-autumn-leaves-stay/"}]}) }}
       />
         {/* Intro Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 mb-12">
@@ -196,7 +200,7 @@ export default function Page() {
 
           <div className="bg-stone-50 rounded-xl p-5 border border-stone-200 mb-6 space-y-4">
             <div>
-              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5"><span>️</span> 料理のこだわり・秋の旬会席</h5>
+              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">料理のこだわり・秋の旬会席</h5>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 名物「紅葉会席」、京都丹波牛のしゃぶしゃぶ鍋、旬の松茸土瓶蒸し、湯葉料理、秋の京野菜の焚き合わせ
               </p>
@@ -261,7 +265,7 @@ export default function Page() {
 
           <div className="bg-stone-50 rounded-xl p-5 border border-stone-200 mb-6 space-y-4">
             <div>
-              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5"><span>️</span> 料理のこだわり・秋の旬会席</h5>
+              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">料理のこだわり・秋の旬会席</h5>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 清滝川の秋の川床名残会席、丹波牛の陶板焼き、天然あゆ・子持ち鮎の炭火焼き、自家製ごま豆腐、秋の吹き寄せ前菜
               </p>
@@ -326,7 +330,7 @@ export default function Page() {
 
           <div className="bg-stone-50 rounded-xl p-5 border border-stone-200 mb-6 space-y-4">
             <div>
-              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5"><span>️</span> 料理のこだわり・秋の旬会席</h5>
+              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">料理のこだわり・秋の旬会席</h5>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 フレンチ「トップ オブ キョウト」（京都唯一の回転展望レストラン）、京料理「たん熊北店」の本格懐石、旬の京都産和牛ディナー
               </p>
@@ -377,7 +381,7 @@ export default function Page() {
           <div className="bg-amber-950/60 p-4 rounded-xl border border-amber-500/30 text-xs sm:text-sm text-amber-100 flex items-start gap-2">
             <span>ℹ️</span>
             <span>
-              <strong>ポイント還元の二重取り：</strong>楽天カード決済や「お買い物マラソン」「0と5のつく日」を併用すると、寄付額に対して高還元率で楽天ポイントも獲得でき、さらにお得になります。
+              <strong>年末駆け込み＆先々の旅行予約に対応：</strong>2026年分の寄附控除枠は12月31日まで。返礼品の宿泊クーポンは有効期限が最長3年間と長く、予約済みの宿泊に「あとから割引適用」することも可能です。
             </span>
           </div>
         </section>
@@ -507,6 +511,9 @@ export default function Page() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"京都・高雄の三尾紅葉（神護寺・高山寺）＆清滝川沿い隠れ家宿で味わう秋の川床名残会席"} url={"https://croud-travel.pages.dev/furusato-tax-kyoto-takao-autumn-leaves-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-kyoto-takao-autumn-leaves-stay" />
 </div>
   );

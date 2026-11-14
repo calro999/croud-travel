@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             コバルトブルーの水面が神秘の光を放つ「奥四万湖」と「四万川」。アニメ映画のモデルとも伝わる元禄四年創業の日本最古の木造湯宿「積善館 本館（赤い慶雲橋）」。四万（よんまん）の病を治すと伝わる名湯。レトロな落合通りで焼きまんじゅうを頬張り、湯治の風情に浸る旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"群馬・四万温泉＆奥四万湖：奇跡の四万ブルー・千と千尋レトロ木造湯宿 厳選ガイド"} url={"https://croud-travel.pages.dev/gunma-shima-onsen-okushima-lake-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"群馬・四万温泉＆奥四万湖：奇跡の四万ブルー・千と千尋レトロ木造湯宿 厳選ガイド"} url={"https://croud-travel.pages.dev/gunma-shima-onsen-okushima-lake-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="gunma-shima-onsen-okushima-lake-stay" />
 </div>
   );

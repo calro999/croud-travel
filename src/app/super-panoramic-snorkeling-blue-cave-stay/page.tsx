@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -128,6 +129,9 @@ export default function FeaturePage() {
             太陽の光が海底に反射して青く輝く神秘の「青の洞窟」シュノーケリング！色鮮やかな熱帯魚やウミガメと泳ぐ感動体験と、全室オーシャンビュー＆展望スパ・インフィニティプールを備えた極上リゾートを厳選。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"青の洞窟シュノーケリング：神秘のブルー＆ウミガメ遭遇体験！沖縄・恩納村のビーチリゾート宿5選"} url={"https://croud-travel.pages.dev/super-panoramic-snorkeling-blue-cave-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -420,6 +424,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"青の洞窟シュノーケリング：神秘のブルー＆ウミガメ遭遇体験！沖縄・恩納村のビーチリゾート宿5選"} url={"https://croud-travel.pages.dev/super-panoramic-snorkeling-blue-cave-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="super-panoramic-snorkeling-blue-cave-stay" />
 </div>
         </section>

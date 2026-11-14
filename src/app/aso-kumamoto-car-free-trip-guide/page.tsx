@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -223,6 +224,9 @@ export default function AsoKumamotoCarFreePage() {
             </a>
           </div>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"熊本・阿蘇 車なし観光 1泊2日モデルコース：観光特急あそぼーい！＆産交バスで行くカルデラ大自然旅"} url={"https://croud-travel.pages.dev/aso-kumamoto-car-free-trip-guide/"} />
+      </div>
       </div>
 
       <div className="max-w-5xl mx-auto px-4 mt-8 space-y-12">
@@ -529,6 +533,9 @@ export default function AsoKumamotoCarFreePage() {
         </div>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"熊本・阿蘇 車なし観光 1泊2日モデルコース：観光特急あそぼーい！＆産交バスで行くカルデラ大自然旅"} url={"https://croud-travel.pages.dev/aso-kumamoto-car-free-trip-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="aso-kumamoto-car-free-trip-guide" />
 </div>
   );

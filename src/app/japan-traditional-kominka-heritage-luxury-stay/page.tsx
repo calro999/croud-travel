@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function LuxuryPremiumHubPage() {
             太い梁、黒光りする柱、土壁と坪庭。百年の時を紡ぐ日本建築の美しさをそのままに、最高級ベッドや檜風呂、薪ストーブを備えた「一棟貸し古民家ラグジュアリー宿」。誰にも邪魔されないプライベート空間で、本物の和の贅沢を味わう旅へ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"一棟貸し古民家・登録有形文化財宿：築100年以上の歴史建築＆モダンラグジュアリー 厳選ガイド"} url={"https://croud-travel.pages.dev/japan-traditional-kominka-heritage-luxury-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆厳選宿 */}
@@ -231,6 +235,9 @@ export default function LuxuryPremiumHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"一棟貸し古民家・登録有形文化財宿：築100年以上の歴史建築＆モダンラグジュアリー 厳選ガイド"} url={"https://croud-travel.pages.dev/japan-traditional-kominka-heritage-luxury-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="japan-traditional-kominka-heritage-luxury-stay" />
 </div>
   );

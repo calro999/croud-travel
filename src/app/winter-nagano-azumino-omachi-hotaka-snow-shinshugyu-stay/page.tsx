@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -264,6 +265,9 @@ export default function NaganoAzuminoOmachiPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月長野】安曇野＆大町温泉郷！白銀の北アルプス後立山連峰と穂高神社初詣・光のイルミネーション＆雪見露天名宿5選"} url={"https://croud-travel.pages.dev/winter-nagano-azumino-omachi-hotaka-snow-shinshugyu-stay/"} />
+      </div>
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
@@ -367,7 +371,7 @@ export default function NaganoAzuminoOmachiPage() {
                     <a
                       href={hotel.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-xl bg-gradient-to-r from-emerald-600 to-emerald-700 text-white font-bold text-xs md:text-sm hover:from-emerald-700 hover:to-emerald-800 shadow-sm hover:shadow transition"
                     >
                       楽天トラベルで空室・プラン詳細を見る
@@ -524,6 +528,9 @@ export default function NaganoAzuminoOmachiPage() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月長野】安曇野＆大町温泉郷！白銀の北アルプス後立山連峰と穂高神社初詣・光のイルミネーション＆雪見露天名宿5選"} url={"https://croud-travel.pages.dev/winter-nagano-azumino-omachi-hotaka-snow-shinshugyu-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-nagano-azumino-omachi-hotaka-snow-shinshugyu-stay" />
 </div>
   );

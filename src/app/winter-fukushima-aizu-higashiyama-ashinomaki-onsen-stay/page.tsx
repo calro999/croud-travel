@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月福島・会津東山温泉＆芦ノ牧温泉の渓谷雪景色と城下町情緒】名物会津牛＆極上馬刺し・郷土こづゆと渓谷露天の名宿5選',
     description: '11月から12月にかけて、鶴ヶ城の武家文化と城下町情緒が息づく福島県会津若松市の「東山温泉（ひがしやまおんせん）」と「芦ノ牧温泉（あしのまき。',
     url: 'https://croud-travel.pages.dev/winter-fukushima-aizu-higashiyama-ashinomaki-onsen-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -170,7 +171,7 @@ export default function WinterFukushimaAizuOnsenPage() {
         'isPartOf': {
           '@type': 'WebSite',
           '@id': 'https://croud-travel.pages.dev/#website',
-          'name': 'クラドトラベル',
+          'name': '旅宿クラウド',
           'url': 'https://croud-travel.pages.dev/'
         },
         'headline': "【11・12月福島・会津東山温泉＆芦ノ牧温泉の渓谷雪景色と城下町情緒】名物会津牛＆極上馬刺し・郷土こづゆと渓谷露天の名宿5選",
@@ -181,7 +182,7 @@ export default function WinterFukushimaAizuOnsenPage() {
         'dateModified': '2026-10-25T00:00:00+09:00',
         'publisher': {
           '@type': 'Organization',
-          'name': 'クラドトラベル編集部',
+          'name': '旅宿クラウド編集部',
           'url': 'https://croud-travel.pages.dev/'
         }
       },
@@ -273,6 +274,9 @@ export default function WinterFukushimaAizuOnsenPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月福島・会津東山温泉＆芦ノ牧温泉の渓谷雪景色と城下町情緒】名物会津牛＆極上馬刺し・郷土こづゆと渓谷露天の名宿5選"} url={"https://croud-travel.pages.dev/winter-fukushima-aizu-higashiyama-ashinomaki-onsen-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
@@ -410,7 +414,7 @@ export default function WinterFukushimaAizuOnsenPage() {
                       <a 
                         href={hotel.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="w-full sm:w-auto inline-flex items-center justify-center gap-2 bg-gradient-to-r from-rose-800 to-slate-900 hover:from-rose-900 hover:to-black text-white px-6 py-3 rounded-xl text-xs sm:text-sm font-bold shadow-xs hover:shadow transition duration-200"
                       >
                         <span>楽天トラベルで宿泊プランを見る</span>
@@ -584,6 +588,9 @@ export default function WinterFukushimaAizuOnsenPage() {
               </p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月福島・会津東山温泉＆芦ノ牧温泉の渓谷雪景色と城下町情緒】名物会津牛＆極上馬刺し・郷土こづゆと渓谷露天の名宿5選"} url={"https://croud-travel.pages.dev/winter-fukushima-aizu-higashiyama-ashinomaki-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-fukushima-aizu-higashiyama-ashinomaki-onsen-stay" />
 </div>
         </section>

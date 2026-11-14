@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -81,6 +82,9 @@ export default function FurusatoTaxPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"登録有形文化財・宮大工名建築旅館×ふるさと納税厳選ガイド修善寺・渋温泉・箱根の歴史的名宿"} url={"https://croud-travel.pages.dev/furusato-tax-tangible-cultural-property-architectural-ryokan-stay/"} />
+      </div>
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
@@ -668,6 +672,9 @@ export default function FurusatoTaxPage() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"登録有形文化財・宮大工名建築旅館×ふるさと納税厳選ガイド修善寺・渋温泉・箱根の歴史的名宿"} url={"https://croud-travel.pages.dev/furusato-tax-tangible-cultural-property-architectural-ryokan-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-tangible-cultural-property-architectural-ryokan-stay" />
 </div>
   );

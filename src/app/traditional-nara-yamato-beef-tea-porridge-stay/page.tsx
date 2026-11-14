@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             鎌倉時代からの銘牛の血統を継ぐ「大和牛」の極上すき焼きと、ほうじ茶香る伝統の「奈良茶粥」！東大寺や春日大社、ならまち散策と合わせて楽しむ、古都の風情あふれる名湯美食旅館を厳選紹介。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"大和牛すき焼き＆名物茶粥：古都奈良の歴史浪漫と飛鳥・吉野・奈良町の名湯美食宿5選"} url={"https://croud-travel.pages.dev/traditional-nara-yamato-beef-tea-porridge-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"大和牛すき焼き＆名物茶粥：古都奈良の歴史浪漫と飛鳥・吉野・奈良町の名湯美食宿5選"} url={"https://croud-travel.pages.dev/traditional-nara-yamato-beef-tea-porridge-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="traditional-nara-yamato-beef-tea-porridge-stay" />
 </div>
         </section>

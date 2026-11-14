@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -12,7 +13,7 @@ export const metadata: Metadata = {
     title: 'あわら温泉ひとり旅・関西の奥座敷おこもり：74本もの独自源泉・庭園露天風呂・越前がにと若狭牛！北陸新幹線延伸で注目の名湯厳選3宿',
     description: '関西・中京の奥座敷として愛され続ける福井屈指の名湯・あわら温泉！大浴場や露天風呂で自家源泉をゆったり堪能できる名宿「越前あわら温泉 長谷川」、北陸最大級の庭園露天風呂や多彩な湯殿を誇る「北陸 福井 あわら温泉 美松」、落ち着いた木造の温もりと静寂が魅力の「あわら温泉 みのや泰平閣」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/fukui-awara-solo-retreat-onsen-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -26,12 +27,12 @@ export default function ArticlePage() {
     description: '関西・中京の奥座敷として愛され続ける福井屈指の名湯・あわら温泉！大浴場や露天風呂で自家源泉をゆったり堪能できる名宿「越前あわら温泉 長谷川」、北陸最大級の庭園露天風呂や多彩な湯殿を誇る「北陸 福井 あわら温泉 美松」、落ち着いた木造の温もりと静寂が魅力の「あわら温泉 みのや泰平閣」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル ひとり旅・出張調査班',
+      name: '旅宿クラウド ひとり旅・出張調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -91,6 +92,9 @@ export default function ArticlePage() {
             </p>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"あわら温泉ひとり旅・関西の奥座敷おこもり：74本もの独自源泉・庭園露天風呂・越前がにと若狭牛！北陸新幹線延伸で注目の名湯厳選3宿"} url={"https://croud-travel.pages.dev/fukui-awara-solo-retreat-onsen-stay/"} />
+      </div>
 
         {/* 目次 */}
         <section className="bg-white p-5 rounded-2xl border border-stone-200 shadow-sm mb-10">
@@ -147,7 +151,7 @@ export default function ArticlePage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F17657%2F17657.html"
                 target="_blank"
-                rel="noopener noreferrer sponsored"
+                rel="sponsored noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-amber-700 hover:bg-amber-800 text-white text-xs sm:text-sm font-bold px-5 py-2.5 rounded-lg shadow-sm hover:shadow transition"
               >
                 <span>空室状況・最新料金を確認</span>
@@ -201,7 +205,7 @@ export default function ArticlePage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8114%2F8114.html"
                 target="_blank"
-                rel="noopener noreferrer sponsored"
+                rel="sponsored noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-amber-700 hover:bg-amber-800 text-white text-xs sm:text-sm font-bold px-5 py-2.5 rounded-lg shadow-sm hover:shadow transition"
               >
                 <span>空室状況・最新料金を確認</span>
@@ -256,7 +260,7 @@ export default function ArticlePage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67904%2F67904.html"
                 target="_blank"
-                rel="noopener noreferrer sponsored"
+                rel="sponsored noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-amber-700 hover:bg-amber-800 text-white text-xs sm:text-sm font-bold px-5 py-2.5 rounded-lg shadow-sm hover:shadow transition"
               >
                 <span>空室状況・最新料金を確認</span>
@@ -316,7 +320,7 @@ export default function ArticlePage() {
           <a
             href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F17657%2F17657.html"
             target="_blank"
-            rel="noopener noreferrer sponsored"
+            rel="sponsored noopener noreferrer"
             className="inline-block bg-amber-600 hover:bg-amber-500 text-white text-sm font-bold px-8 py-3.5 rounded-xl shadow-lg transition"
           >
             一番人気の宿をチェックする（楽天トラベル）
@@ -542,6 +546,9 @@ export default function ArticlePage() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"あわら温泉ひとり旅・関西の奥座敷おこもり：74本もの独自源泉・庭園露天風呂・越前がにと若狭牛！北陸新幹線延伸で注目の名湯厳選3宿"} url={"https://croud-travel.pages.dev/fukui-awara-solo-retreat-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="fukui-awara-solo-retreat-onsen-stay" />
 </div>
   );

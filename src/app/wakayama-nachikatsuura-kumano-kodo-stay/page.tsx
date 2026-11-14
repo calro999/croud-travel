@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             神々が宿る世界遺産「熊野古道」の聖地「熊野那智大社」と、落差133m日本一の名瀑「那智の滝」。延々と続く大門坂の苔むす杉木立の石畳。勝浦漁港直送の新鮮な「生マグロ」と、太平洋の荒波が打ち寄せる大洞窟温泉へ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"和歌山・那智勝浦＆熊野古道：熊野那智大社・那智の滝＆生マグロ・洞窟風呂宿 厳選ガイド"} url={"https://croud-travel.pages.dev/wakayama-nachikatsuura-kumano-kodo-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"和歌山・那智勝浦＆熊野古道：熊野那智大社・那智の滝＆生マグロ・洞窟風呂宿 厳選ガイド"} url={"https://croud-travel.pages.dev/wakayama-nachikatsuura-kumano-kodo-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="wakayama-nachikatsuura-kumano-kodo-stay" />
 </div>
   );

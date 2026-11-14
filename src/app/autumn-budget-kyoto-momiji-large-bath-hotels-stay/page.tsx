@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Image from 'next/image';
@@ -63,12 +64,14 @@ export default function KyotoBudgetAutumnPage() {
             高級旅館に泊まらなくても、宿泊費を賢く抑えて浮いた予算を「紅葉夜間特別拝観の拝観料」や「贅沢な京懐石・湯豆腐ランチ」に回すのがスマートな京都旅の極意です。
           </p>
         </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"秋の京都×格安：紅葉狩りをお得に満喫！大浴場・サウナ付き1泊4,000円台〜のコスパ最強おすすめホテル5選「2026最新」"} url={"https://croud-travel.pages.dev/autumn-budget-kyoto-momiji-large-bath-hotels-stay/"} />
+      </div>
 
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-teal-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！京都の格安大浴場ホテル5選</h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">楽天トラベル高評価！京都の格安大浴場ホテル5選</h2>
 
           <div className="space-y-8">
 
@@ -467,6 +470,9 @@ export default function KyotoBudgetAutumnPage() {
               </div>
             </div>
           </div></section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"秋の京都×格安：紅葉狩りをお得に満喫！大浴場・サウナ付き1泊4,000円台〜のコスパ最強おすすめホテル5選「2026最新」"} url={"https://croud-travel.pages.dev/autumn-budget-kyoto-momiji-large-bath-hotels-stay/"} />
+      </div>
         <div className="max-w-4xl mx-auto px-4 sm:px-6">
           <HubRelatedPosts currentSlug="autumn-budget-kyoto-momiji-large-bath-hotels-stay" />
         </div>

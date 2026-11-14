@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月山形・赤湯温泉の置賜盆地雲海と開湯920年名湯】特選米沢牛すき焼き・日本最古級赤湯ワイン＆自家源泉掛け流しの宿5選',
     description: '11月から12月にかけて山形県置賜地方の赤湯温泉は、晩秋の澄み切った冷気の中で置賜盆地全体を真っ白な霧が覆う幻想的な「白竜湖の雲海」が発生し。',
     url: 'https://croud-travel.pages.dev/winter-yamagata-akayu-onsen-yonezawa-beef-wine-stay/',
-    siteName: 'クラドトラベル (Croud Travel)',
+    siteName: '旅宿クラウド (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -287,6 +288,9 @@ export default function AkayuOnsenWinterFeature() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月山形・赤湯温泉の置賜盆地雲海と開湯920年名湯】特選米沢牛すき焼き・日本最古級赤湯ワイン＆自家源泉掛け流しの宿5選"} url={"https://croud-travel.pages.dev/winter-yamagata-akayu-onsen-yonezawa-beef-wine-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-10 space-y-12">
@@ -480,7 +484,7 @@ export default function AkayuOnsenWinterFeature() {
                     <a
                       href={h.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="w-full sm:w-auto inline-flex items-center justify-center gap-2 bg-rose-600 hover:bg-rose-700 text-white font-bold text-sm px-6 py-3 rounded-2xl shadow-sm hover:shadow transition group flex-shrink-0"
                     >
                       <span>楽天トラベルでプランを見る</span>
@@ -599,6 +603,9 @@ export default function AkayuOnsenWinterFeature() {
               <h3 className="text-sm font-bold group-hover:text-rose-200 transition">全国の厳選温泉・旬旅特集まとめを見る</h3>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月山形・赤湯温泉の置賜盆地雲海と開湯920年名湯】特選米沢牛すき焼き・日本最古級赤湯ワイン＆自家源泉掛け流しの宿5選"} url={"https://croud-travel.pages.dev/winter-yamagata-akayu-onsen-yonezawa-beef-wine-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-yamagata-akayu-onsen-yonezawa-beef-wine-stay" />
 </div>
         </section>

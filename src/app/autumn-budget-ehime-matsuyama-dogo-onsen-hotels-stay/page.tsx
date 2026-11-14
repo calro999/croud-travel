@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Image from 'next/image';
@@ -63,12 +64,14 @@ export default function MatsuyamaBudgetAutumnPage() {
             高価格帯の旅館に泊まる代わりに、市内中心部や道後温泉街のリーズナブルなホテル（1泊4,000円〜6,000円台）を活用すれば、外湯の入浴料や個室休憩室代を惜しみなく楽しめます。路面電車（坊っちゃん列車）が走るノスタルジックな城下町散策を心ゆくまで満喫しましょう。
           </p>
         </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"秋の松山・道後温泉×格安：松山城の紅葉と最古の名湯外湯めぐり！1泊4,000円台〜のコスパ最強おすすめ宿5選「2026最新」"} url={"https://croud-travel.pages.dev/autumn-budget-ehime-matsuyama-dogo-onsen-hotels-stay/"} />
+      </div>
 
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-teal-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！松山・道後温泉の格安・コスパ宿5選</h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">楽天トラベル高評価！松山・道後温泉の格安・コスパ宿5選</h2>
 
           <div className="space-y-8">
 
@@ -498,6 +501,9 @@ export default function MatsuyamaBudgetAutumnPage() {
               </div>
             </div>
           </div></section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"秋の松山・道後温泉×格安：松山城の紅葉と最古の名湯外湯めぐり！1泊4,000円台〜のコスパ最強おすすめ宿5選「2026最新」"} url={"https://croud-travel.pages.dev/autumn-budget-ehime-matsuyama-dogo-onsen-hotels-stay/"} />
+      </div>
         <div className="max-w-4xl mx-auto px-4 sm:px-6">
           <HubRelatedPosts currentSlug="autumn-budget-ehime-matsuyama-dogo-onsen-hotels-stay" />
         </div>

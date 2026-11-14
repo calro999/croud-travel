@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
@@ -36,7 +37,7 @@ export default function Page() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "地下天然水・飲める名水掛け流し水風呂宿完全ガイド【しきじ流・極上の羽衣】 | クラウドトラベル",
+    "headline": "地下天然水・飲める名水掛け流し水風呂宿完全ガイド【しきじ流・極上の羽衣】 | 旅宿クラウド",
     "description": "「サウナの聖地しきじ」で知られる静岡の天然水水風呂や、阿蘇・北アルプスの名水百選伏流水を惜しげもなく掛け流す名宿を特集。肌に吸い付くまろやかな水質と天然の羽衣。",
     "url": "https://croud-travel.pages.dev/pure-natural-spring-water-bath-totonoi-onsen-stay/",
     "publisher": {
@@ -50,7 +51,7 @@ export default function Page() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "地下天然水・飲める名水掛け流し水風呂宿完全ガイド【しきじ流・極上の羽衣】 | クラウドトラベル", "item": "https://croud-travel.pages.dev/pure-natural-spring-water-bath-totonoi-onsen-stay/" }
+      { "@type": "ListItem", "position": 2, "name": "地下天然水・飲める名水掛け流し水風呂宿完全ガイド【しきじ流・極上の羽衣】 | 旅宿クラウド", "item": "https://croud-travel.pages.dev/pure-natural-spring-water-bath-totonoi-onsen-stay/" }
     ]
   };
 
@@ -81,6 +82,9 @@ export default function Page() {
             「サウナの良し悪しは水風呂で決まる」と言われるサウナの世界。富士山の雪解け水、阿蘇の大自然が磨いた伏流水、北アルプス山麓の清らかな湧水など、ミネラルを豊富に含んだ地下天然水を贅沢にオーバーフローさせる極上の水風呂。肌を刺すような冷たさがなく、まるでシルクの羽衣をまとったかのようにまろやかに体を包み込む、本物の名水ととのいをご堪能ください。
           </p>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"地下天然水・飲める名水掛け流し水風呂宿厳選ガイド「しきじ流・極上の羽衣」"} url={"https://croud-travel.pages.dev/pure-natural-spring-water-bath-totonoi-onsen-stay/"} />
+      </div>
 
         {/* メインコンテンツセクション */}
         
@@ -308,8 +312,7 @@ export default function Page() {
 
         {/* よくある質問 FAQ */}
         <section className="mb-16 bg-white rounded-2xl shadow-sm border border-emerald-900/10 p-6 md:p-8">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2"><span className="w-2 h-7 bg-emerald-700 rounded-full inline-block"></span>
-            よくある質問・サウナリゾートの楽しみ方</h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">よくある質問・サウナリゾートの楽しみ方</h2>
           <div className="space-y-4">
             
             <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
@@ -500,6 +503,9 @@ export default function Page() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"地下天然水・飲める名水掛け流し水風呂宿厳選ガイド「しきじ流・極上の羽衣」"} url={"https://croud-travel.pages.dev/pure-natural-spring-water-bath-totonoi-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="pure-natural-spring-water-bath-totonoi-onsen-stay" />
 </div>
         </section>

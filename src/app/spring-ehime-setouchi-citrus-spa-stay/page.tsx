@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             湯上がりに味わう蛇口から出る生搾りみかんジュースや、甘酸っぱい香りの柑橘露天風呂！日本最古の名湯・道後温泉で、瀬戸内の豊かな恵みと温かいおもてなしに心ほどける極上旅館を厳選紹介。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"愛媛みかん＆柑橘の癒やし：爽やかな生搾り柑橘ジュースと果実風呂！道後温泉の極上癒やし宿5選"} url={"https://croud-travel.pages.dev/spring-ehime-setouchi-citrus-spa-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"愛媛みかん＆柑橘の癒やし：爽やかな生搾り柑橘ジュースと果実風呂！道後温泉の極上癒やし宿5選"} url={"https://croud-travel.pages.dev/spring-ehime-setouchi-citrus-spa-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="spring-ehime-setouchi-citrus-spa-stay" />
 </div>
         </section>

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             薪ストーブの熱気で限界まで体を温めた後、一面のふかふか新雪へダイブ！氷点下の澄み切った空気の中で深呼吸する究極の冬サウナ体験。雪見露天風呂と郷土鍋料理で心も体も温まるスノーリトリートを厳選。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"雪原ダイブ＆極寒外気浴：白銀の世界でととのう北欧薪サウナ＆雪見温泉宿5選"} url={"https://croud-travel.pages.dev/organic-forest-snow-sauna-retreat-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"雪原ダイブ＆極寒外気浴：白銀の世界でととのう北欧薪サウナ＆雪見温泉宿5選"} url={"https://croud-travel.pages.dev/organic-forest-snow-sauna-retreat-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="organic-forest-snow-sauna-retreat-stay" />
 </div>
         </section>

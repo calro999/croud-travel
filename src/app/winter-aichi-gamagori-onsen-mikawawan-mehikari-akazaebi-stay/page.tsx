@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月愛知・三河湾蒲郡温泉郷の竹島夕日パノラマと冬の深海魚】名物メヒカリ＆幻のアカザエビ・極上三河牛と冬イルミを愉しむ海辺名宿5選',
     description: '11月から12月にかけて、愛知県・三河湾の風光明媚な海岸線に広がる蒲郡温泉郷（蒲郡・三谷・西浦温泉）は、冬の澄み渡る青空と穏やかな海の絶景を望む極上の温泉旅館を厳選してご紹介します。',
     url: 'https://croud-travel.pages.dev/winter-aichi-gamagori-onsen-mikawawan-mehikari-akazaebi-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -170,7 +171,7 @@ export default function WinterAichiGamagoriPage() {
         'isPartOf': {
           '@type': 'WebSite',
           '@id': 'https://croud-travel.pages.dev/#website',
-          'name': 'クラドトラベル',
+          'name': '旅宿クラウド',
           'url': 'https://croud-travel.pages.dev/'
         },
         'headline': "【11・12月愛知・三河湾蒲郡温泉郷の竹島夕日パノラマと冬の深海魚】名物メヒカリ＆幻のアカザエビ・極上三河牛と冬イルミを愉しむ海辺名宿5選",
@@ -181,7 +182,7 @@ export default function WinterAichiGamagoriPage() {
         'dateModified': '2026-10-25T00:00:00+09:00',
         'publisher': {
           '@type': 'Organization',
-          'name': 'クラドトラベル編集部',
+          'name': '旅宿クラウド編集部',
           'url': 'https://croud-travel.pages.dev/'
         }
       },
@@ -273,6 +274,9 @@ export default function WinterAichiGamagoriPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月愛知・三河湾蒲郡温泉郷の竹島夕日パノラマと冬の深海魚】名物メヒカリ＆幻のアカザエビ・極上三河牛と冬イルミを愉しむ海辺名宿5選"} url={"https://croud-travel.pages.dev/winter-aichi-gamagori-onsen-mikawawan-mehikari-akazaebi-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
@@ -397,7 +401,7 @@ export default function WinterAichiGamagoriPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug hover:text-sky-800 transition"><a href={hotel.url} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1.5">
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug hover:text-sky-800 transition"><a href={hotel.url} target="_blank" rel="sponsored noopener noreferrer" className="inline-flex items-center gap-1.5">
                           {hotel.name}
                           <ExternalLink className="w-4 h-4 text-slate-400 inline" />
                         </a></h3>
@@ -440,7 +444,7 @@ export default function WinterAichiGamagoriPage() {
                       <a
                         href={hotel.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center justify-center w-full sm:w-auto px-6 py-3 rounded-xl bg-gradient-to-r from-sky-700 to-indigo-900 text-white text-xs sm:text-sm font-bold shadow-md hover:from-sky-800 hover:to-indigo-950 hover:shadow-lg transition-all gap-2"
                       >
                         <span>楽天トラベルでプラン・空室・最新料金を見る</span>
@@ -610,6 +614,9 @@ export default function WinterAichiGamagoriPage() {
               </p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月愛知・三河湾蒲郡温泉郷の竹島夕日パノラマと冬の深海魚】名物メヒカリ＆幻のアカザエビ・極上三河牛と冬イルミを愉しむ海辺名宿5選"} url={"https://croud-travel.pages.dev/winter-aichi-gamagori-onsen-mikawawan-mehikari-akazaebi-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-aichi-gamagori-onsen-mikawawan-mehikari-akazaebi-stay" />
 </div>
         </section>

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             島崎藤村の『夜明け前』の舞台、深い木曽谷の歴史薫る宿場町「木曽福島」。中山道を取り締まった「福島関所」と崖家造りの町並み。木曽川のエメラルドグリーンの激流が花崗岩を削り出した奇勝「寝覚の床」。冷涼な木曽谷の天然温泉と信州手打ちそばの旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"長野・木曽福島＆寝覚の床・御嶽山：中山道関所宿場町・木曽そば＆五平餅宿 厳選ガイド"} url={"https://croud-travel.pages.dev/nagano-kiso-fukushima-nezamenotoko-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"長野・木曽福島＆寝覚の床・御嶽山：中山道関所宿場町・木曽そば＆五平餅宿 厳選ガイド"} url={"https://croud-travel.pages.dev/nagano-kiso-fukushima-nezamenotoko-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="nagano-kiso-fukushima-nezamenotoko-stay" />
 </div>
   );

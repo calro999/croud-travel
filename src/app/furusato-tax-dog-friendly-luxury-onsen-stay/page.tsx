@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import FurusatoStepSection from "@/app/components/FurusatoStepSection";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
@@ -96,6 +97,9 @@ export default function FurusatoDogFriendlyLuxuryStayPage() {
             </Link>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"愛犬と泊まる極上客室露天風呂＆広大ドッグラン温泉宿×ふるさと納税厳選ガイド伊豆高原・那須高原・琵琶湖"} url={"https://croud-travel.pages.dev/furusato-tax-dog-friendly-luxury-onsen-stay/"} />
+      </div>
 
         {/* 3つの醍醐味セクション */}
         <section className="mb-16">
@@ -518,6 +522,9 @@ export default function FurusatoDogFriendlyLuxuryStayPage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"愛犬と泊まる極上客室露天風呂＆広大ドッグラン温泉宿×ふるさと納税厳選ガイド伊豆高原・那須高原・琵琶湖"} url={"https://croud-travel.pages.dev/furusato-tax-dog-friendly-luxury-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-dog-friendly-luxury-onsen-stay" />
 </div>
         </section>

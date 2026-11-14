@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月北海道・阿寒湖温泉の初冬フロストフラワーとアイヌ文化】極上道東海鮮蟹会席＆北海道黒毛和牛を愉しむ湖畔名宿5選',
     description: '11月から12月にかけて、道東・阿寒摩周国立公園の雄大な大自然に抱かれた阿寒湖温泉は、湖面が結氷を始める前の静謐な冬景色を迎え。',
     url: 'https://croud-travel.pages.dev/winter-hokkaido-akanko-onsen-lakeview-frost-flower-hokkaido-beef-stay/',
-    siteName: 'クラドトラベル (Croud Travel)',
+    siteName: '旅宿クラウド (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -257,6 +258,9 @@ export default function HokkaidoAkankoWinterFeature() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月北海道・阿寒湖温泉の初冬フロストフラワーとアイヌ文化】極上道東海鮮蟹会席＆北海道黒毛和牛を愉しむ湖畔名宿5選"} url={"https://croud-travel.pages.dev/winter-hokkaido-akanko-onsen-lakeview-frost-flower-hokkaido-beef-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 space-y-16">
@@ -377,7 +381,7 @@ export default function HokkaidoAkankoWinterFeature() {
                 <div className="p-6 sm:p-8 flex flex-col justify-between flex-grow space-y-5">
                   <div className="space-y-3">
                     <div className="flex flex-wrap items-center justify-between gap-2">
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-teal-800 transition"><a href={hotel.url} target="_blank" rel="noopener noreferrer">
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-teal-800 transition"><a href={hotel.url} target="_blank" rel="sponsored noopener noreferrer">
                           {hotel.name}
                         </a></h3>
                       <div className="text-right">
@@ -434,7 +438,7 @@ export default function HokkaidoAkankoWinterFeature() {
                     <a
                       href={hotel.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center justify-center gap-2 w-full sm:w-auto px-6 py-3 rounded-2xl bg-teal-700 hover:bg-teal-800 text-white font-bold text-xs sm:text-sm shadow-sm hover:shadow transition duration-200"
                     >
                       <span>空室状況・プラン詳細（楽天トラベル）</span>
@@ -580,6 +584,9 @@ export default function HokkaidoAkankoWinterFeature() {
               </p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月北海道・阿寒湖温泉の初冬フロストフラワーとアイヌ文化】極上道東海鮮蟹会席＆北海道黒毛和牛を愉しむ湖畔名宿5選"} url={"https://croud-travel.pages.dev/winter-hokkaido-akanko-onsen-lakeview-frost-flower-hokkaido-beef-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-hokkaido-akanko-onsen-lakeview-frost-flower-hokkaido-beef-stay" />
 </div>
         </section>

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             11月〜12月の初冬に脂の乗りが最高潮を迎える伊豆名物「地金目鯛」！鮮やかな紅色の身をサッと出汁にくぐらせる金目鯛しゃぶしゃぶや、秘伝のタレで煮付けた丸ごと姿煮、そして相模湾一望の絶景露天風呂を堪能する旅。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"冬が一番脂がのる！稲取・下田の極上金目鯛：しゃぶしゃぶ＆姿煮と伊豆絶景温泉宿5選"} url={"https://croud-travel.pages.dev/winter-izu-kinmedai-shabushabu-luxury-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -368,7 +372,7 @@ export default function FeaturePage() {
                 <span className="inline-block text-[10px] font-bold px-2 py-0.5 rounded bg-amber-100 text-amber-800 mb-2">
                   厳選おすすめ特集
                 </span>
-                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">新潟・越後一宮 弥彦神社もみじ谷＆弥彦温泉！菊まつりと越後名物・のどぐろ・岩船米コシヒカリ | クラウドトラベルふるさと納税</h3>
+                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">新潟・越後一宮 弥彦神社もみじ谷＆弥彦温泉！菊まつりと越後名物・のどぐろ・岩船米コシヒカリ | 旅宿クラウドふるさと納税</h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
                 特集を見る →
@@ -578,6 +582,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"冬が一番脂がのる！稲取・下田の極上金目鯛：しゃぶしゃぶ＆姿煮と伊豆絶景温泉宿5選"} url={"https://croud-travel.pages.dev/winter-izu-kinmedai-shabushabu-luxury-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-izu-kinmedai-shabushabu-luxury-stay" />
 </div>
         </section>

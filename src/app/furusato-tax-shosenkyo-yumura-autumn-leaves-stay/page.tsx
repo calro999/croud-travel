@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import FurusatoStepSection from "@/app/components/FurusatoStepSection";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
@@ -6,7 +7,7 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '奇岩巨石と紅葉の断崖美！日本五大渓谷・昇仙峡＆武田信玄公の隠し湯・甲府湯村温泉名宿×ふるさと納税厳選ガイド山梨',
   description: '10月下旬〜11月下旬に見頃を迎える「日本一の渓谷美」御岳昇仙峡（覚円峰・仙娥滝）！巨岩奇石と清流を彩る紅葉の遊歩道と、開湯千二百年・武田信玄公の隠し湯「甲府湯村温泉」！皇族も宿泊する名門「常磐ホテル」、太宰治ゆかりの「旅館明治」、自家源泉の「柳屋」。甲州牛会席を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
-  keywords: ["昇仙峡", "武田信玄公の隠し湯", "甲府湯村温泉名宿×ふるさと納税", "2026年最新秋旅", "山梨", "旅宿クラウド", "温泉宿"],
+  keywords: ["昇仙峡", "武田信玄公の隠し湯", "甲府湯村温泉名宿×ふるさと納税", "2026年末・冬休み対応", "山梨", "旅宿クラウド", "温泉宿"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-shosenkyo-yumura-autumn-leaves-stay/"
   },
@@ -25,7 +26,7 @@ export default function FurusatoShosenkyoYumuraAutumnLeavesStayPage() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "奇岩巨石と紅葉の断崖美！日本五大渓谷・昇仙峡＆武田信玄公の隠し湯・甲府湯村温泉名宿×ふるさと納税完全ガイド【2026年最新秋旅】山梨 | 旅宿クラウド",
+    "headline": "奇岩巨石と紅葉の断崖美！日本五大渓谷・昇仙峡＆武田信玄公の隠し湯・甲府湯村温泉名宿×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】山梨 | 旅宿クラウド",
     "description": "10月下旬〜11月下旬に見頃を迎える「日本一の渓谷美」御岳昇仙峡（覚円峰・仙娥滝）！巨岩奇石と清流を彩る紅葉の遊歩道と、開湯千二百年・武田信玄公の隠し湯「甲府湯村温泉」！皇族も宿泊する名門「常磐ホテル」、太宰治ゆかりの「旅館明治」、自家源泉の「柳屋」。甲州牛会席を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。",
     "url": "https://croud-travel.pages.dev/furusato-tax-shosenkyo-yumura-autumn-leaves-stay/",
     "publisher": {
@@ -39,7 +40,7 @@ export default function FurusatoShosenkyoYumuraAutumnLeavesStayPage() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "奇岩巨石と紅葉の断崖美！日本五大渓谷・昇仙峡＆武田信玄公の隠し湯・甲府湯村温泉名宿×ふるさと納税完全ガイド【2026年最新秋旅】山梨 | 旅宿クラウド", "item": "https://croud-travel.pages.dev/furusato-tax-shosenkyo-yumura-autumn-leaves-stay/" }
+      { "@type": "ListItem", "position": 2, "name": "奇岩巨石と紅葉の断崖美！日本五大渓谷・昇仙峡＆武田信玄公の隠し湯・甲府湯村温泉名宿×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】山梨 | 旅宿クラウド", "item": "https://croud-travel.pages.dev/furusato-tax-shosenkyo-yumura-autumn-leaves-stay/" }
     ]
   };
 
@@ -85,6 +86,9 @@ export default function FurusatoShosenkyoYumuraAutumnLeavesStayPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"奇岩巨石と紅葉の断崖美！日本五大渓谷・昇仙峡＆武田信玄公の隠し湯・甲府湯村温泉名宿×ふるさと納税厳選ガイド山梨"} url={"https://croud-travel.pages.dev/furusato-tax-shosenkyo-yumura-autumn-leaves-stay/"} />
+      </div>
 
       <div className="max-w-5xl mx-auto px-4 sm:px-6 space-y-16">
         {/* リード文セクション */}
@@ -550,6 +554,9 @@ export default function FurusatoShosenkyoYumuraAutumnLeavesStayPage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"奇岩巨石と紅葉の断崖美！日本五大渓谷・昇仙峡＆武田信玄公の隠し湯・甲府湯村温泉名宿×ふるさと納税厳選ガイド山梨"} url={"https://croud-travel.pages.dev/furusato-tax-shosenkyo-yumura-autumn-leaves-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-shosenkyo-yumura-autumn-leaves-stay" />
 </div>
         </section>

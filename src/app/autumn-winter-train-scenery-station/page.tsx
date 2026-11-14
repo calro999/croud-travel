@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -113,6 +114,9 @@ export default function SeasonalFeaturePage() {
             ガタゴトと揺れる列車に身を委ね、窓の外に広がる山々の錦秋や白銀の雪景色を眺める贅沢。名物駅弁を広げ、終着駅や沿線の名湯に降り立つ、心温まる鉄道旅へ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"車窓の旅：紅葉＆雪景色！絶景観光列車と駅近温泉旅館 厳選ガイド"} url={"https://croud-travel.pages.dev/autumn-winter-train-scenery-station/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function SeasonalFeaturePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"車窓の旅：紅葉＆雪景色！絶景観光列車と駅近温泉旅館 厳選ガイド"} url={"https://croud-travel.pages.dev/autumn-winter-train-scenery-station/"} />
+      </div>
       <HubRelatedPosts currentSlug="autumn-winter-train-scenery-station" />
 </div>
   );

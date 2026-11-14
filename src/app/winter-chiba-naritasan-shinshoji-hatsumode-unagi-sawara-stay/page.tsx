@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -254,6 +255,9 @@ export default function ChibaNaritasanSawaraPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月千葉】成田山新勝寺の新春初詣＆表参道名物うなぎと北総小江戸・佐原の重伝建風情を巡る名宿5選"} url={"https://croud-travel.pages.dev/winter-chiba-naritasan-shinshoji-hatsumode-unagi-sawara-stay/"} />
+      </div>
 
       {/* Main Content Area */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
@@ -429,7 +433,7 @@ export default function ChibaNaritasanSawaraPage() {
                     <h3 className="text-xl sm:text-2xl font-bold text-stone-900 group"><a 
                         href={hotel.url} 
                         target="_blank" 
-                        rel="noopener noreferrer" 
+                        rel="sponsored noopener noreferrer" 
                         className="hover:text-rose-700 transition-colors inline-flex items-center gap-2"
                       >
                         {hotel.name}
@@ -500,7 +504,7 @@ export default function ChibaNaritasanSawaraPage() {
                     <a
                       href={hotel.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="block w-full sm:w-auto text-center px-6 py-3.5 rounded-xl bg-gradient-to-r from-rose-600 to-rose-700 hover:from-rose-700 hover:to-rose-800 text-white font-bold text-xs sm:text-sm shadow-md transition-all duration-200"
                     >
                       楽天トラベルで空室・冬の宿泊プランを確認する
@@ -642,6 +646,9 @@ export default function ChibaNaritasanSawaraPage() {
               </span>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月千葉】成田山新勝寺の新春初詣＆表参道名物うなぎと北総小江戸・佐原の重伝建風情を巡る名宿5選"} url={"https://croud-travel.pages.dev/winter-chiba-naritasan-shinshoji-hatsumode-unagi-sawara-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-chiba-naritasan-shinshoji-hatsumode-unagi-sawara-stay" />
 </div>
         </section>

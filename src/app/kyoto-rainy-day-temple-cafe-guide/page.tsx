@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -172,6 +173,9 @@ export default function KyotoRainyDayTempleCafeGuidePage() {
           </div>
         </div>
       </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"京都 雨の日こそ行きたい名所＆町家カフェ：緑鮮やかな苔寺・瑠璃光院・三千院＆おこもり温泉宿"} url={"https://croud-travel.pages.dev/kyoto-rainy-day-temple-cafe-guide/"} />
+      </div>
 
       {/* 楽天トラベルクーポンプロモーション */}
       <section className="max-w-5xl mx-auto px-4 -mt-8 relative z-20">
@@ -436,6 +440,9 @@ export default function KyotoRainyDayTempleCafeGuidePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"京都 雨の日こそ行きたい名所＆町家カフェ：緑鮮やかな苔寺・瑠璃光院・三千院＆おこもり温泉宿"} url={"https://croud-travel.pages.dev/kyoto-rainy-day-temple-cafe-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="kyoto-rainy-day-temple-cafe-guide" />
 </div>
         </section>

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -12,7 +13,7 @@ export const metadata: Metadata = {
     title: '京都四条烏丸ひとり旅・大浴場おこもり：京町家の風情・ラウンジ無料ワイン・錦市場！古都の中心で癒やされる大人の厳選3宿',
     description: '京都駅から地下鉄烏丸線でわずか約3分！ラウンジでの無料ワイン＆お茶漬けバイキングと癒やしの大浴場が自慢の「ホテルインターゲート京都 四条新町」、四条烏丸交差点すぐで観光・ビジネスの機動力抜群な「ダイワロイネットホテル京都四条烏丸」、五条通沿いで静かな大浴場と上質空間を誇る「京王プレリアホテル京都烏丸五条」を徹底比較。',
     url: 'https://croud-travel.pages.dev/kyoto-shijo-karasuma-solo-retreat-onsen-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -26,12 +27,12 @@ export default function ArticlePage() {
     description: '京都駅から地下鉄烏丸線でわずか約3分！ラウンジでの無料ワイン＆お茶漬けバイキングと癒やしの大浴場が自慢の「ホテルインターゲート京都 四条新町」、四条烏丸交差点すぐで観光・ビジネスの機動力抜群な「ダイワロイネットホテル京都四条烏丸」、五条通沿いで静かな大浴場と上質空間を誇る「京王プレリアホテル京都烏丸五条」を徹底比較。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル ひとり旅・出張調査班',
+      name: '旅宿クラウド ひとり旅・出張調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -75,7 +76,7 @@ export default function ArticlePage() {
         <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">「京都四条烏丸ひとり旅・大浴場おこもり」京町家の風情・ラウンジ無料ワイン・錦市場！古都の中心で癒やされる大人の厳選3宿</h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.13 更新</time>
-          <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>
+          <span>執筆：旅宿クラウド ひとり旅・出張調査班</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式API提携</span>
         </div>
 
@@ -92,6 +93,9 @@ export default function ArticlePage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"京都四条烏丸ひとり旅・大浴場おこもり：京町家の風情・ラウンジ無料ワイン・錦市場！古都の中心で癒やされる大人の厳選3宿"} url={"https://croud-travel.pages.dev/kyoto-shijo-karasuma-solo-retreat-onsen-stay/"} />
+      </div>
 
       {/* 目次インデックス */}
       <section className="max-w-4xl mx-auto px-4 sm:px-6 mb-12">
@@ -438,6 +442,9 @@ export default function ArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"京都四条烏丸ひとり旅・大浴場おこもり：京町家の風情・ラウンジ無料ワイン・錦市場！古都の中心で癒やされる大人の厳選3宿"} url={"https://croud-travel.pages.dev/kyoto-shijo-karasuma-solo-retreat-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="kyoto-shijo-karasuma-solo-retreat-onsen-stay" />
 </div>
         </section>

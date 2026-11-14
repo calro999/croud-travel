@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -258,6 +259,9 @@ export default function MarunouchiTokyoWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月東京】丸の内イルミネーション＆東京駅丸の内駅舎夜景！皇居新春散策と江戸前極上宿5選"} url={"https://croud-travel.pages.dev/winter-tokyo-marunouchi-illumination-tokyo-station-hatsumode-stay/"} />
+      </div>
 
       {/* Main Content Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 pt-12 space-y-16">
@@ -345,7 +349,7 @@ export default function MarunouchiTokyoWinterPage() {
                           {h.access}
                         </span>
                       </div>
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-amber-600 transition-colors"><a href={h.url} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1.5">
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-amber-600 transition-colors"><a href={h.url} target="_blank" rel="sponsored noopener noreferrer" className="inline-flex items-center gap-1.5">
                           {h.name}
                           <ExternalLink className="w-4 h-4 text-slate-400" />
                         </a></h3>
@@ -412,7 +416,7 @@ export default function MarunouchiTokyoWinterPage() {
                     <a
                       href={h.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center justify-center gap-2 bg-gradient-to-r from-amber-600 to-rose-600 hover:from-amber-700 hover:to-rose-700 text-white text-sm font-bold px-6 py-3 rounded-xl shadow-sm hover:shadow transition-all w-full sm:w-auto"
                     >
                       <span>楽天トラベルでプラン・空室を確認</span>
@@ -606,6 +610,9 @@ export default function MarunouchiTokyoWinterPage() {
               <span className="text-amber-300">→</span>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月東京】丸の内イルミネーション＆東京駅丸の内駅舎夜景！皇居新春散策と江戸前極上宿5選"} url={"https://croud-travel.pages.dev/winter-tokyo-marunouchi-illumination-tokyo-station-hatsumode-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-tokyo-marunouchi-illumination-tokyo-station-hatsumode-stay" />
 </div>
         </section>

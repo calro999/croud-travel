@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -12,7 +13,7 @@ export const metadata: Metadata = {
     title: '三朝温泉ひとり旅・世界屈指ラジウム泉おこもり：三徳山投入堂・回遊式大庭園露天風呂・鳥取和牛！三日目の朝に病が消える現代湯治厳選3宿',
     description: '世界有数の高濃度ラドン含有量を誇る三朝温泉！アットホームなぬくもりと口コミ★4.9点超の「ちくま旅館」、回遊式大庭園露天風呂「翠の湯」で多彩な湯処を巡る名門「依山楼 岩崎」、三朝川沿いでかがり火と純和風美を堪能できる「かがり火の宿 有楽」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/tottori-misasa-solo-retreat-radium-onsen-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -26,12 +27,12 @@ export default function ArticlePage() {
     description: '世界有数の高濃度ラドン含有量を誇る三朝温泉！アットホームなぬくもりと口コミ★4.9点超の「ちくま旅館」、回遊式大庭園露天風呂「翠の湯」で多彩な湯処を巡る名門「依山楼 岩崎」、三朝川沿いでかがり火と純和風美を堪能できる「かがり火の宿 有楽」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル ひとり旅・出張調査班',
+      name: '旅宿クラウド ひとり旅・出張調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -91,6 +92,9 @@ export default function ArticlePage() {
             </p>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"三朝温泉ひとり旅・世界屈指ラジウム泉おこもり：三徳山投入堂・回遊式大庭園露天風呂・鳥取和牛！三日目の朝に病が消える現代湯治厳選3宿"} url={"https://croud-travel.pages.dev/tottori-misasa-solo-retreat-radium-onsen-stay/"} />
+      </div>
 
         {/* 目次 */}
         <section className="bg-white p-5 rounded-2xl border border-stone-200 shadow-sm mb-10">
@@ -148,7 +152,7 @@ export default function ArticlePage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F168566%2F168566.html"
                 target="_blank"
-                rel="noopener noreferrer sponsored"
+                rel="sponsored noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-amber-700 hover:bg-amber-800 text-white text-xs sm:text-sm font-bold px-5 py-2.5 rounded-lg shadow-sm hover:shadow transition"
               >
                 <span>空室状況・最新料金を確認</span>
@@ -201,7 +205,7 @@ export default function ArticlePage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5840%2F5840.html"
                 target="_blank"
-                rel="noopener noreferrer sponsored"
+                rel="sponsored noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-amber-700 hover:bg-amber-800 text-white text-xs sm:text-sm font-bold px-5 py-2.5 rounded-lg shadow-sm hover:shadow transition"
               >
                 <span>空室状況・最新料金を確認</span>
@@ -255,7 +259,7 @@ export default function ArticlePage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28068%2F28068.html"
                 target="_blank"
-                rel="noopener noreferrer sponsored"
+                rel="sponsored noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-amber-700 hover:bg-amber-800 text-white text-xs sm:text-sm font-bold px-5 py-2.5 rounded-lg shadow-sm hover:shadow transition"
               >
                 <span>空室状況・最新料金を確認</span>
@@ -315,7 +319,7 @@ export default function ArticlePage() {
           <a
             href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F168566%2F168566.html"
             target="_blank"
-            rel="noopener noreferrer sponsored"
+            rel="sponsored noopener noreferrer"
             className="inline-block bg-amber-600 hover:bg-amber-500 text-white text-sm font-bold px-8 py-3.5 rounded-xl shadow-lg transition"
           >
             一番人気の宿をチェックする（楽天トラベル）
@@ -541,6 +545,9 @@ export default function ArticlePage() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"三朝温泉ひとり旅・世界屈指ラジウム泉おこもり：三徳山投入堂・回遊式大庭園露天風呂・鳥取和牛！三日目の朝に病が消える現代湯治厳選3宿"} url={"https://croud-travel.pages.dev/tottori-misasa-solo-retreat-radium-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="tottori-misasa-solo-retreat-radium-onsen-stay" />
 </div>
   );

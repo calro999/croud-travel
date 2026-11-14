@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -113,6 +114,9 @@ export default function SeasonalFeaturePage() {
             チェックインした瞬間から始まるストレスフリーな極上時間。ウェルカムスイーツ、湯上がりの生ビール、バーラウンジの銘酒、豪華ディナーのドリンクまですべて宿泊代金込み。大人のおこもり贅沢ステイへ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"贅沢フリーフロー：お財布フリー！秋・冬の極上オールインクルーシブ宿 厳選ガイド"} url={"https://croud-travel.pages.dev/autumn-winter-all-inclusive-luxury/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function SeasonalFeaturePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"贅沢フリーフロー：お財布フリー！秋・冬の極上オールインクルーシブ宿 厳選ガイド"} url={"https://croud-travel.pages.dev/autumn-winter-all-inclusive-luxury/"} />
+      </div>
       <HubRelatedPosts currentSlug="autumn-winter-all-inclusive-luxury" />
 </div>
   );

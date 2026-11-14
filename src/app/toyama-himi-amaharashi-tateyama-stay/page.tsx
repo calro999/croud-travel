@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             富山湾の青い海の向こうに、標高3,000m級の北アルプス立山連峰が白銀に輝く奇跡のパノラマ「雨晴海岸」。冬の日本海の王者「氷見寒ブリ」の極上刺身とブリしゃぶ。潮風を感じる氷見温泉郷のナトリウム塩化物泉。富山湾のキトキトな美味に酔いしれる旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"富山・氷見＆雨晴海岸・立山連峰：海越しに望む3000m立山連峰・氷見寒ブリ宿 厳選ガイド"} url={"https://croud-travel.pages.dev/toyama-himi-amaharashi-tateyama-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"富山・氷見＆雨晴海岸・立山連峰：海越しに望む3000m立山連峰・氷見寒ブリ宿 厳選ガイド"} url={"https://croud-travel.pages.dev/toyama-himi-amaharashi-tateyama-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="toyama-himi-amaharashi-tateyama-stay" />
 </div>
   );

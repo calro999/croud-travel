@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             樹齢数千年の巨木が呼吸する世界自然遺産の島「屋久島」。生命の神秘をたたえる「縄文杉」への巡礼。どこまでも深い緑の絨毯が広がる「白谷雲水峡・苔むす森」。屋久島近海で獲れる新鮮な「首折れ鯖」のお造りとトビウオのから揚げ。悠久の時を体感する大人の大自然旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"鹿児島・屋久島＆白谷雲水峡・縄文杉：世界自然遺産・苔むす森トレッキング＆首折れ鯖宿 厳選ガイド"} url={"https://croud-travel.pages.dev/kagoshima-yakushima-shiratani-jomon-sugi-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -231,6 +235,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"鹿児島・屋久島＆白谷雲水峡・縄文杉：世界自然遺産・苔むす森トレッキング＆首折れ鯖宿 厳選ガイド"} url={"https://croud-travel.pages.dev/kagoshima-yakushima-shiratani-jomon-sugi-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="kagoshima-yakushima-shiratani-jomon-sugi-stay" />
 </div>
   );

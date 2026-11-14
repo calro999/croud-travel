@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -192,6 +193,9 @@ export default function SilverWeekGlampingRainyWeatherIndoorPage() {
           </div>
         </div>
       </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"雨でも安心！全天候型グランピング：屋根付きBBQデッキ＆冷暖房完備ドームテントで台風・雨天も快適"} url={"https://croud-travel.pages.dev/silver-week-glamping-rainy-weather-indoor-guide/"} />
+      </div>
 
       {/* 楽天トラベルスペシャルクーポンバナー */}
       <SpecialCouponBanner variant="prominent" />
@@ -346,7 +350,7 @@ export default function SilverWeekGlampingRainyWeatherIndoorPage() {
 
       {/* 内部リンク・雨の日の観光モデルコース */}
       <section className="bg-slate-50 border border-slate-200 rounded-3xl p-6 sm:p-8 space-y-4">
-        <h3 className="text-base font-bold text-slate-900 flex items-center gap-2"><span>️</span> あわせて読みたい雨天・屋内観光ガイド</h3>
+        <h3 className="text-base font-bold text-slate-900 flex items-center gap-2">あわせて読みたい雨天・屋内観光ガイド</h3>
         <p className="text-xs text-slate-600">
           グランピング前後のドライブや立ち寄りに最適な、雨の日でも楽しめる観光モデルコース。
         </p>
@@ -389,6 +393,9 @@ export default function SilverWeekGlampingRainyWeatherIndoorPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"雨でも安心！全天候型グランピング：屋根付きBBQデッキ＆冷暖房完備ドームテントで台風・雨天も快適"} url={"https://croud-travel.pages.dev/silver-week-glamping-rainy-weather-indoor-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="silver-week-glamping-rainy-weather-indoor-guide" />
 </div>
   );

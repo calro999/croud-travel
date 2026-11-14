@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
     title: '【11・12月北信州】小布施の冬栗おこわ＆完熟サンふじ・石畳の渋温泉「九湯めぐり」と信州プレミアム牛を味わう名宿5選',
     description: '11月中旬から12月の初冬、北信五岳の山々が白銀の雪化粧をまとい、信州の大地に凛とした清澄な空気が満ちる季節。',
     url: 'https://croud-travel.pages.dev/winter-nagano-obuse-shibu-onsen-shinshugyu-apple-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -48,7 +49,7 @@ export default function NaganoObuseShibuWinterPage() {
         "isPartOf": {
           "@type": "WebSite",
           "@id": "https://croud-travel.pages.dev/#website",
-          "name": "クラドトラベル",
+          "name": "旅宿クラウド",
           "url": "https://croud-travel.pages.dev/"
         },
         "headline": "【11・12月北信州】小布施の冬栗おこわ＆完熟サンふじ・石畳の渋温泉「九湯めぐり」と信州プレミアム牛を味わう名宿5選",
@@ -59,7 +60,7 @@ export default function NaganoObuseShibuWinterPage() {
         "mainEntityOfPage": "https://croud-travel.pages.dev/winter-nagano-obuse-shibu-onsen-shinshugyu-apple-stay/",
         "publisher": {
           "@type": "Organization",
-          "name": "クラドトラベル編集部",
+          "name": "旅宿クラウド編集部",
           "url": "https://croud-travel.pages.dev/"
         }
       },
@@ -374,6 +375,9 @@ export default function NaganoObuseShibuWinterPage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月北信州】小布施の冬栗おこわ＆完熟サンふじ・石畳の渋温泉「九湯めぐり」と信州プレミアム牛を味わう名宿5選"} url={"https://croud-travel.pages.dev/winter-nagano-obuse-shibu-onsen-shinshugyu-apple-stay/"} />
+      </div>
 
       {/* Main Content Container */}
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-12">
@@ -491,7 +495,7 @@ export default function NaganoObuseShibuWinterPage() {
                       <a 
                         href={hotel.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl bg-gradient-to-r from-amber-700 to-orange-800 text-white font-bold text-xs sm:text-sm hover:from-amber-800 hover:to-orange-900 transition-all shadow-xs hover:shadow-md"
                       >
                         楽天トラベルでプラン詳細を見る
@@ -680,6 +684,9 @@ export default function NaganoObuseShibuWinterPage() {
               <p className="font-bold text-stone-800 line-clamp-2">温泉に浸かる野生ザルの神秘と冬の秘湯・信州そばと温まりの露天風呂</p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月北信州】小布施の冬栗おこわ＆完熟サンふじ・石畳の渋温泉「九湯めぐり」と信州プレミアム牛を味わう名宿5選"} url={"https://croud-travel.pages.dev/winter-nagano-obuse-shibu-onsen-shinshugyu-apple-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-nagano-obuse-shibu-onsen-shinshugyu-apple-stay" />
 </div>
         </section>

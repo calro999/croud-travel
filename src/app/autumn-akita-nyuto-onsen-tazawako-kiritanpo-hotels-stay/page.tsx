@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Image from 'next/image';
@@ -63,12 +64,14 @@ export default function NyutoOnsenAutumnPage() {
             秋の味覚として外せないのが、収穫されたばかりの新米あきたこまちを香ばしく焼き上げた「きりたんぽ鍋」。比内地鶏のコク深いスープにセリや舞茸が香る鍋を囲み、冷え込んだ秋の夜をほっこりと温まりましょう。日本一の深さを誇る田沢湖のルリ色の湖面と紅葉のコントラストも必見です。
           </p>
         </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"秋の乳頭温泉郷・田沢湖：ブナ原生林の黄金紅葉と名物きりたんぽ鍋！憧れの秘湯温泉宿5選「2026最新」"} url={"https://croud-travel.pages.dev/autumn-akita-nyuto-onsen-tazawako-kiritanpo-hotels-stay/"} />
+      </div>
 
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-amber-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！乳頭温泉郷・田沢湖の厳選宿5選</h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">楽天トラベル高評価！乳頭温泉郷・田沢湖の厳選宿5選</h2>
 
           <div className="space-y-8">
 
@@ -498,6 +501,9 @@ export default function NyutoOnsenAutumnPage() {
               </div>
             </div>
           </div></section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"秋の乳頭温泉郷・田沢湖：ブナ原生林の黄金紅葉と名物きりたんぽ鍋！憧れの秘湯温泉宿5選「2026最新」"} url={"https://croud-travel.pages.dev/autumn-akita-nyuto-onsen-tazawako-kiritanpo-hotels-stay/"} />
+      </div>
         <div className="max-w-4xl mx-auto px-4 sm:px-6">
           <HubRelatedPosts currentSlug="autumn-akita-nyuto-onsen-tazawako-kiritanpo-hotels-stay" />
         </div>

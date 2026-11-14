@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import FurusatoStepSection from "@/app/components/FurusatoStepSection";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
@@ -96,6 +97,9 @@ export default function FurusatoHanabiFireworksViewStayPage() {
             </Link>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"混雑ゼロで大迫力の花火を独占！部屋から花火が見える特等席客室ホテル×ふるさと納税厳選ガイド熱海・洞爺湖・諏訪湖"} url={"https://croud-travel.pages.dev/furusato-tax-hanabi-fireworks-view-room-hotel-stay/"} />
+      </div>
 
         {/* 3つの醍醐味セクション */}
         <section className="mb-16">
@@ -518,6 +522,9 @@ export default function FurusatoHanabiFireworksViewStayPage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"混雑ゼロで大迫力の花火を独占！部屋から花火が見える特等席客室ホテル×ふるさと納税厳選ガイド熱海・洞爺湖・諏訪湖"} url={"https://croud-travel.pages.dev/furusato-tax-hanabi-fireworks-view-room-hotel-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-hanabi-fireworks-view-room-hotel-stay" />
 </div>
         </section>

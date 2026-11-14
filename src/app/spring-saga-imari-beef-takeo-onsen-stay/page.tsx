@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             澄んだ空気と清らかな水が育んだ最高級黒毛和牛「伊万里牛」！辰野金吾設計の楼門で有名な歴史ある武雄温泉のトロトロ美肌湯と、佐賀牛・伊万里牛の極上ステーキに舌鼓を打つ雅な九州温泉旅。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"極上A5伊万里牛＆武雄温泉美肌湯：1300年の名湯と佐賀の最高峰グルメを堪能する名宿5選"} url={"https://croud-travel.pages.dev/spring-saga-imari-beef-takeo-onsen-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"極上A5伊万里牛＆武雄温泉美肌湯：1300年の名湯と佐賀の最高峰グルメを堪能する名宿5選"} url={"https://croud-travel.pages.dev/spring-saga-imari-beef-takeo-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="spring-saga-imari-beef-takeo-onsen-stay" />
 </div>
         </section>

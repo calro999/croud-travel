@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
@@ -36,7 +37,7 @@ export default function Page() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "【一度は泊まりたい憧れの最高峰宿】記念日・プロポーズに選ぶ極上スイート＆ヴィラふるさと納税ガイド | クラウドトラベル",
+    "headline": "【一度は泊まりたい憧れの最高峰宿】記念日・プロポーズに選ぶ極上スイート＆ヴィラふるさと納税ガイド | 旅宿クラウド",
     "description": "一生の記憶に残る記念日・誕生日・プロポーズ旅。箱根・京都・沖縄の客室露天風呂スイートやプライベートプール付きヴィラを楽天ふるさと納税で賢く予約。1泊10万円超えの最高峰リゾート完全ガイド。",
     "url": "https://croud-travel.pages.dev/furusato-tax-anniversary-luxury-suite-villa-stay/",
     "publisher": {
@@ -50,7 +51,7 @@ export default function Page() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "【一度は泊まりたい憧れの最高峰宿】記念日・プロポーズに選ぶ極上スイート＆ヴィラふるさと納税ガイド | クラウドトラベル", "item": "https://croud-travel.pages.dev/furusato-tax-anniversary-luxury-suite-villa-stay/" }
+      { "@type": "ListItem", "position": 2, "name": "【一度は泊まりたい憧れの最高峰宿】記念日・プロポーズに選ぶ極上スイート＆ヴィラふるさと納税ガイド | 旅宿クラウド", "item": "https://croud-travel.pages.dev/furusato-tax-anniversary-luxury-suite-villa-stay/" }
     ]
   };
 
@@ -97,6 +98,9 @@ export default function Page() {
             </a>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"一度は泊まりたい憧れの最高峰宿：記念日・プロポーズに選ぶ極上スイート＆ヴィラふるさと納税ガイド"} url={"https://croud-travel.pages.dev/furusato-tax-anniversary-luxury-suite-villa-stay/"} />
+      </div>
 
         {/* 制度解説・攻略ポイントセクション */}
         <section className="mb-16 bg-white rounded-3xl shadow-sm border border-stone-200/80 p-6 md:p-10">
@@ -393,8 +397,7 @@ export default function Page() {
 
         {/* よくある質問 FAQ */}
         <section className="mb-16 bg-white rounded-3xl shadow-sm border border-stone-200/80 p-6 md:p-10">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2"><span className="w-2.5 h-7 bg-amber-700 rounded-full inline-block"></span>
-            よくある質問・ふるさと納税トラベルクーポンの疑問を解消</h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">よくある質問・ふるさと納税トラベルクーポンの疑問を解消</h2>
           <div className="space-y-4">
             
             <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
@@ -628,6 +631,9 @@ export default function Page() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"一度は泊まりたい憧れの最高峰宿：記念日・プロポーズに選ぶ極上スイート＆ヴィラふるさと納税ガイド"} url={"https://croud-travel.pages.dev/furusato-tax-anniversary-luxury-suite-villa-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-anniversary-luxury-suite-villa-stay" />
 </div>
         </section>

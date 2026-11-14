@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function TransitStyleHubPage() {
             飛行機を降りてすぐに温泉と美食のリゾートへ！羽田・新千歳など空港直結・至近の展望天然温泉。滑走路を離着陸する飛行機や富士山を眺めながら湯船に浸かり、フライト前後の移動ストレスをゼロにする究極のスマートステイ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"空港直行＆空港至近リゾート宿：羽田・成田・関空・福岡・那覇・千歳 厳選ガイド"} url={"https://croud-travel.pages.dev/airport-access-direct-resort-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function TransitStyleHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"空港直行＆空港至近リゾート宿：羽田・成田・関空・福岡・那覇・千歳 厳選ガイド"} url={"https://croud-travel.pages.dev/airport-access-direct-resort-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="airport-access-direct-resort-stay" />
 </div>
   );

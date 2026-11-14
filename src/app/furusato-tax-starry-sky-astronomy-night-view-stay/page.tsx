@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import FurusatoStepSection from "@/app/components/FurusatoStepSection";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
@@ -96,6 +97,9 @@ export default function FurusatoStarrySkyAstronomyStayPage() {
             </Link>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"満天の星空・天体観測＆星空露天風呂リトリート極上宿×ふるさと納税厳選ガイド阿智村・野辺山高原・石垣島"} url={"https://croud-travel.pages.dev/furusato-tax-starry-sky-astronomy-night-view-stay/"} />
+      </div>
 
         {/* 3つの醍醐味セクション */}
         <section className="mb-16">
@@ -518,6 +522,9 @@ export default function FurusatoStarrySkyAstronomyStayPage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"満天の星空・天体観測＆星空露天風呂リトリート極上宿×ふるさと納税厳選ガイド阿智村・野辺山高原・石垣島"} url={"https://croud-travel.pages.dev/furusato-tax-starry-sky-astronomy-night-view-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-starry-sky-astronomy-night-view-stay" />
 </div>
         </section>

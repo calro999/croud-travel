@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             北アルプスの雪解け水が湧き出る安曇野の清流と、のどかな田園風景。日本一のわさび田「大王わさび農場」の水車小屋。安曇野アートラインの美術館巡り。穂高温泉郷のやわらかな湯に浸かり、すりたて本わさびと信州サーモンを味わう旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"長野・安曇野＆穂高温泉郷：大王わさび農場・水車小屋＆信州サーモン・わさび丼宿 厳選ガイド"} url={"https://croud-travel.pages.dev/nagano-azumino-wasabi-hotaka-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"長野・安曇野＆穂高温泉郷：大王わさび農場・水車小屋＆信州サーモン・わさび丼宿 厳選ガイド"} url={"https://croud-travel.pages.dev/nagano-azumino-wasabi-hotaka-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="nagano-azumino-wasabi-hotaka-stay" />
 </div>
   );

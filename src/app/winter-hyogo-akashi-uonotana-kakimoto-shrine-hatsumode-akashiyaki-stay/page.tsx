@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import Link from 'next/link';
 import type { Metadata } from 'next';
@@ -16,7 +17,7 @@ export const metadata: Metadata = {
     title: '【11・12・1月兵庫】明石海峡大橋を望む人麿山「柿本神社」新春初詣と歳末・新春活気溢れる「魚の棚商店街」！冬の激流が育む「明石だこ・明石鯛」本場明石焼き＆加古川かつめし・播州牛厳選名宿5選',
     description: '世界最大級の吊橋・明石海峡大橋を間近に仰ぐ兵庫県明石・加古川・播磨灘エリア。11〜1月は澄み渡る冬晴れの下。',
     url: 'https://croud-travel.pages.dev/winter-hyogo-akashi-uonotana-kakimoto-shrine-hatsumode-akashiyaki-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
     images: [{
@@ -45,11 +46,11 @@ export default function HyogoAkashiWinterFeaturePage() {
     "dateModified": "2026-10-25T09:00:00+09:00",
     "author": {
       "@type": "Organization",
-      "name": "クラドトラベル編集部 温泉・神社仏閣取材班"
+      "name": "旅宿クラウド編集部 温泉・神社仏閣取材班"
     },
     "publisher": {
       "@type": "Organization",
-      "name": "クラドトラベル",
+      "name": "旅宿クラウド",
       "logo": {
         "@type": "ImageObject",
         "url": "https://croud-travel.pages.dev/logo.png"
@@ -308,6 +309,9 @@ export default function HyogoAkashiWinterFeaturePage() {
             </div>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月兵庫】明石海峡大橋を望む人麿山「柿本神社」新春初詣と歳末・新春活気溢れる「魚の棚商店街」！冬の激流が育む「明石だこ・明石鯛」本場明石焼き＆加古川かつめし・播州牛厳選名宿5選"} url={"https://croud-travel.pages.dev/winter-hyogo-akashi-uonotana-kakimoto-shrine-hatsumode-akashiyaki-stay/"} />
+      </div>
 
         {/* Main Content Area */}
         <main className="max-w-4xl mx-auto px-4 sm:px-6 py-12">
@@ -437,7 +441,7 @@ export default function HyogoAkashiWinterFeaturePage() {
                       <a
                         href={h.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center justify-center w-full sm:w-auto gap-2 px-6 py-3 rounded-lg bg-blue-600 hover:bg-blue-700 text-white font-bold text-xs sm:text-sm shadow-sm transition"
                       >
                         <span>楽天トラベルでプラン・空室を確認</span>
@@ -586,12 +590,16 @@ export default function HyogoAkashiWinterFeaturePage() {
                 兵庫県の旅行ガイド・宿一覧
               </Link>
               <Link href="/" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">
-                クラドトラベル トップページ
+                旅宿クラウド トップページ
               </Link>
             </div>
           </section>
 
-        </main>
+        
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月兵庫】明石海峡大橋を望む人麿山「柿本神社」新春初詣と歳末・新春活気溢れる「魚の棚商店街」！冬の激流が育む「明石だこ・明石鯛」本場明石焼き＆加古川かつめし・播州牛厳選名宿5選"} url={"https://croud-travel.pages.dev/winter-hyogo-akashi-uonotana-kakimoto-shrine-hatsumode-akashiyaki-stay/"} />
+      </div>
+      </main>
       </article>
     </>
   );

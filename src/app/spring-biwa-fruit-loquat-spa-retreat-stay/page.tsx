@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -149,6 +150,9 @@ export default function FeatureDetailPage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"初夏の極上フルーツ！房州名産びわ会席＆びわ葉エキス温浴スパの風情宿5選"} url={"https://croud-travel.pages.dev/spring-biwa-fruit-loquat-spa-retreat-stay/"} />
+      </div>
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
@@ -597,6 +601,9 @@ export default function FeatureDetailPage() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"初夏の極上フルーツ！房州名産びわ会席＆びわ葉エキス温浴スパの風情宿5選"} url={"https://croud-travel.pages.dev/spring-biwa-fruit-loquat-spa-retreat-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="spring-biwa-fruit-loquat-spa-retreat-stay" />
 </div>
   );

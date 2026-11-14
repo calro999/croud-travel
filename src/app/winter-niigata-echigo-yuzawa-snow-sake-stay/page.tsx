@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -277,6 +278,9 @@ export default function YuzawaWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月越後湯沢温泉の雪国情緒と地酒巡り】川端康成ゆかりの名湯・南魚沼産コシヒカリ新米と越後もち豚会席の宿5選"} url={"https://croud-travel.pages.dev/winter-niigata-echigo-yuzawa-snow-sake-stay/"} />
+      </div>
 
       {/* Main Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
@@ -451,7 +455,7 @@ export default function YuzawaWinterPage() {
                     <a
                       href={hotel.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-2xl bg-indigo-800 hover:bg-indigo-900 text-white font-bold text-sm shadow-md hover:shadow-lg transition-all"
                     >
                       <span>宿泊プラン・空室を確認する</span>
@@ -646,6 +650,9 @@ export default function YuzawaWinterPage() {
               <h3 className="text-sm font-bold text-stone-900 group-hover:text-indigo-800 transition line-clamp-2">【奥日光湯元温泉】乳白色のにごり湯と白銀の静寂・雪見露天宿</h3>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月越後湯沢温泉の雪国情緒と地酒巡り】川端康成ゆかりの名湯・南魚沼産コシヒカリ新米と越後もち豚会席の宿5選"} url={"https://croud-travel.pages.dev/winter-niigata-echigo-yuzawa-snow-sake-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-niigata-echigo-yuzawa-snow-sake-stay" />
 </div>
         </section>

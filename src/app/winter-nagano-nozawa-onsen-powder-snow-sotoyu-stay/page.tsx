@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -277,6 +278,9 @@ export default function NozawaWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【12月開幕！野沢温泉パウダースノー】天然雪100%ゲレンデと名物13外湯めぐり＆信州牛美食宿5選"} url={"https://croud-travel.pages.dev/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay/"} />
+      </div>
 
       {/* Main Content Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
@@ -443,7 +447,7 @@ export default function NozawaWinterPage() {
                       <a
                         href={hotel.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-6 py-3.5 rounded-xl bg-teal-600 hover:bg-teal-700 text-white font-bold text-sm shadow-sm transition-all hover:scale-[1.02]"
                       >
                         <span>楽天トラベルでプラン・空室を見る</span>
@@ -735,6 +739,9 @@ export default function NozawaWinterPage() {
               <ChevronRight className="w-4 h-4" />
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【12月開幕！野沢温泉パウダースノー】天然雪100%ゲレンデと名物13外湯めぐり＆信州牛美食宿5選"} url={"https://croud-travel.pages.dev/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay" />
 </div>
         </section>

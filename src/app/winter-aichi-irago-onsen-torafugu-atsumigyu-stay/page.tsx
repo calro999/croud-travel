@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
     title: '【11・12月愛知】伊良湖天然とらふぐと新源泉「伊良湖温泉」美肌の湯・極上渥美牛＆伊良湖岬の夕日パノラマを巡る名宿5選',
     description: '11月から12月、太平洋と三河湾の黒潮が交差する愛知県渥美半島の先端・伊良湖岬（田原市）は、冬の最高級美食「伊良湖天然とらふぐ」の最盛期を迎えます。',
     url: 'https://croud-travel.pages.dev/winter-aichi-irago-onsen-torafugu-atsumigyu-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -48,7 +49,7 @@ export default function AichiIragoOnsenWinterPage() {
         "isPartOf": {
           "@type": "WebSite",
           "@id": "https://croud-travel.pages.dev/#website",
-          "name": "クラドトラベル",
+          "name": "旅宿クラウド",
           "url": "https://croud-travel.pages.dev/"
         },
         "headline": "【11・12月愛知】伊良湖天然とらふぐと新源泉「伊良湖温泉」美肌の湯・極上渥美牛＆伊良湖岬の夕日パノラマを巡る名宿5選",
@@ -59,7 +60,7 @@ export default function AichiIragoOnsenWinterPage() {
         "mainEntityOfPage": "https://croud-travel.pages.dev/winter-aichi-irago-onsen-torafugu-atsumigyu-stay/",
         "publisher": {
           "@type": "Organization",
-          "name": "クラドトラベル編集部",
+          "name": "旅宿クラウド編集部",
           "url": "https://croud-travel.pages.dev/"
         }
       },
@@ -374,6 +375,9 @@ export default function AichiIragoOnsenWinterPage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月愛知】伊良湖天然とらふぐと新源泉「伊良湖温泉」美肌の湯・極上渥美牛＆伊良湖岬の夕日パノラマを巡る名宿5選"} url={"https://croud-travel.pages.dev/winter-aichi-irago-onsen-torafugu-atsumigyu-stay/"} />
+      </div>
 
       {/* Main Content Container */}
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-12">
@@ -491,7 +495,7 @@ export default function AichiIragoOnsenWinterPage() {
                       <a 
                         href={hotel.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl bg-gradient-to-r from-blue-700 to-indigo-700 text-white font-bold text-xs sm:text-sm hover:from-blue-800 hover:to-indigo-800 transition-all shadow-xs hover:shadow-md"
                       >
                         楽天トラベルでプラン詳細を見る
@@ -680,6 +684,9 @@ export default function AichiIragoOnsenWinterPage() {
               <p className="font-bold text-stone-800 line-clamp-2">冬の伊勢海老と的矢かき会席・伊勢湾フェリーで行く海辺の湯宿</p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月愛知】伊良湖天然とらふぐと新源泉「伊良湖温泉」美肌の湯・極上渥美牛＆伊良湖岬の夕日パノラマを巡る名宿5選"} url={"https://croud-travel.pages.dev/winter-aichi-irago-onsen-torafugu-atsumigyu-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-aichi-irago-onsen-torafugu-atsumigyu-stay" />
 </div>
         </section>

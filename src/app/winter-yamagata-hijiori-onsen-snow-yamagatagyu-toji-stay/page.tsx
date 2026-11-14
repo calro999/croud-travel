@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
     title: '【11・12・1月山形】豪雪の奇跡・開湯1200年肘折温泉の黄金湯治と名物納豆汁＆極上山形牛・肘折幻想雪回廊を巡る名宿5選',
     description: '11月から1月、出羽三山の主峰・月山の麓に位置する山形県大蔵村「肘折温泉」は、静謐な雪景色と開湯1200年の重厚な湯治文化が旅人を迎えます。',
     url: 'https://croud-travel.pages.dev/winter-yamagata-hijiori-onsen-snow-yamagatagyu-toji-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -56,12 +57,12 @@ export default function YamagataHijioriOnsenWinterPage() {
         "dateModified": "2026-10-18T00:00:00+09:00",
         "author": {
           "@type": "Organization",
-          "name": "クラドトラベル 温泉・冬旅取材班",
+          "name": "旅宿クラウド 温泉・冬旅取材班",
           "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
-          "name": "クラドトラベル",
+          "name": "旅宿クラウド",
           "url": "https://croud-travel.pages.dev",
           "logo": {
             "@type": "ImageObject",
@@ -256,6 +257,9 @@ export default function YamagataHijioriOnsenWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月山形】豪雪の奇跡・開湯1200年肘折温泉の黄金湯治と名物納豆汁＆極上山形牛・肘折幻想雪回廊を巡る名宿5選"} url={"https://croud-travel.pages.dev/winter-yamagata-hijiori-onsen-snow-yamagatagyu-toji-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 mt-10 space-y-12">
@@ -361,7 +365,7 @@ export default function YamagataHijioriOnsenWinterPage() {
                       <a 
                         href={h.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-1.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs px-4 py-2 rounded-xl shadow-xs transition"
                       >
                         楽天トラベルで空室・プランを見る
@@ -558,6 +562,9 @@ export default function YamagataHijioriOnsenWinterPage() {
               <p className="font-bold text-stone-800 line-clamp-2">白い湯煙の大噴湯と渓谷初雪・秋田最古の湯・極上皆瀬牛ステーキ名宿</p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月山形】豪雪の奇跡・開湯1200年肘折温泉の黄金湯治と名物納豆汁＆極上山形牛・肘折幻想雪回廊を巡る名宿5選"} url={"https://croud-travel.pages.dev/winter-yamagata-hijiori-onsen-snow-yamagatagyu-toji-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-yamagata-hijiori-onsen-snow-yamagatagyu-toji-stay" />
 </div>
         </section>

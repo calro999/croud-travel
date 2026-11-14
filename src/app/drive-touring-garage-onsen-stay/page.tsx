@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function TransitStyleHubPage() {
             最高のワインディングロードを走り抜けた後に待つ至福の温泉！ビーナスラインや伊豆スカイラインの絶景ドライブ、大切な愛車やバイクを雨風から守る「屋根付きガレージ」、テラスから愛車を眺められるガレージヴィラへ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"愛車・ドライブ旅の温泉宿：絶景ワインディング・屋内ガレージ＆EV充電 厳選ガイド"} url={"https://croud-travel.pages.dev/drive-touring-garage-onsen-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function TransitStyleHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"愛車・ドライブ旅の温泉宿：絶景ワインディング・屋内ガレージ＆EV充電 厳選ガイド"} url={"https://croud-travel.pages.dev/drive-touring-garage-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="drive-touring-garage-onsen-stay" />
 </div>
   );

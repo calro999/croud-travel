@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -8,13 +9,13 @@ export const metadata: Metadata = {
   description: '日本三古湯・白砂青松の白良浜が美しい和歌山県南紀白浜温泉を楽天ふるさと納税でお得に満喫！全室スイートの夢の城「ホテル川久」、白良浜徒歩1分・二つの自家源泉を持つ「紀州・白浜温泉 むさし」、オーシャンビュー展望露天風呂の「白良荘グランドホテル」を徹底比較。白浜町トラベルクーポン活用術を網羅。',
   keywords: '南紀白浜温泉 ふるさと納税,ホテル川久 クーポン ふるさと納税,白浜温泉 むさし 宿泊,白良荘グランドホテル ふるさと納税,白浜町 ふるさと納税 旅行',
   alternates: {
-    canonical: "https://croud-travel.pages.dev/furusato-tax-shirahama-onsen-ocean-adventure-stay/",
+    canonical: "https://croud-travel.pages.dev/furusato-tax-shirahama-ocean-resort-luxury-stay/",
   },
   openGraph: {
     title: "南紀白浜温泉をふるさと納税でお得に旅する！白良浜オーシャンビュー＆名門リゾート特集",
     description: '日本三古湯・白砂青松の白良浜が美しい和歌山県南紀白浜温泉を楽天ふるさと納税でお得に満喫！全室スイートの夢の城「ホテル川久」、白良浜徒歩1分・二つの自家源泉を持つ「紀州・白浜温泉 むさし」、オーシャンビュー展望露天風呂の「白良荘グランドホテル」を徹底比較。白浜町トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-shirahama-onsen-ocean-adventure-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -28,12 +29,12 @@ export default function FurusatoArticlePage() {
     description: '日本三古湯・白砂青松の白良浜が美しい和歌山県南紀白浜温泉を楽天ふるさと納税でお得に満喫！全室スイートの夢の城「ホテル川久」、白良浜徒歩1分・二つの自家源泉を持つ「紀州・白浜温泉 むさし」、オーシャンビュー展望露天風呂の「白良荘グランドホテル」を徹底比較。白浜町トラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル 観光・ふるさと納税調査班',
+      name: '旅宿クラウド 観光・ふるさと納税調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -80,6 +81,9 @@ export default function FurusatoArticlePage() {
           日本三古湯・白砂青松の白良浜が美しい和歌山県南紀白浜温泉を楽天ふるさと納税でお得に満喫！全室スイートの夢の城「ホテル川久」、白良浜徒歩1分・二つの自家源泉を持つ「紀州・白浜温泉 むさし」、オーシャンビュー展望露天風呂の「白良荘グランドホテル」を徹底比較。白浜町トラベルクーポン活用術を網羅。
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"南紀白浜温泉をふるさと納税でお得に旅する！白良浜オーシャンビュー＆名門リゾート特集"} url={"https://croud-travel.pages.dev/furusato-tax-shirahama-onsen-ocean-adventure-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
@@ -360,7 +364,7 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 南紀白浜温泉・アドベンチャーワールド＆千畳敷・三段壁ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">南紀白浜温泉・アドベンチャーワールド＆千畳敷・三段壁ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
@@ -586,6 +590,9 @@ export default function FurusatoArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"南紀白浜温泉をふるさと納税でお得に旅する！白良浜オーシャンビュー＆名門リゾート特集"} url={"https://croud-travel.pages.dev/furusato-tax-shirahama-onsen-ocean-adventure-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-shirahama-onsen-ocean-adventure-stay" />
 </div>
         </section>

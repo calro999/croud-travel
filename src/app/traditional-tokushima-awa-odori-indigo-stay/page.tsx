@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             世界三大潮流・鳴門の渦潮を間近に望むオーシャンビュー温泉と、引き締まった身が絶品の「鳴門鯛」会席！日本の伝統文化「阿波藍染め」体験や、大塚国際美術館への観光にも便利な人気リゾート宿を厳選。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"阿波藍と鳴門鯛：藍染め体験＆鳴門の渦潮オーシャンビュー！徳島・鳴門の絶景温泉リゾート5選"} url={"https://croud-travel.pages.dev/traditional-tokushima-awa-odori-indigo-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"阿波藍と鳴門鯛：藍染め体験＆鳴門の渦潮オーシャンビュー！徳島・鳴門の絶景温泉リゾート5選"} url={"https://croud-travel.pages.dev/traditional-tokushima-awa-odori-indigo-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="traditional-tokushima-awa-odori-indigo-stay" />
 </div>
         </section>

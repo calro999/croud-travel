@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             天手力雄命が投げ飛ばした天の岩戸が落ちてできたと伝わる霊峰「戸隠山」。樹齢400年を超える杉並木が続く戸隠神社奥社参道。一本のソバを丁寧に束ねる「ぼっち盛り」の日本三大戸隠そば。歴史ある宿坊や高原リゾートで心洗われる休日へ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"長野・戸隠＆飯綱高原：戸隠神社五社巡り・奥社杉並木＆日本三大戸隠そば宿 厳選ガイド"} url={"https://croud-travel.pages.dev/nagano-togakushi-shrine-soba-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -392,6 +396,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"長野・戸隠＆飯綱高原：戸隠神社五社巡り・奥社杉並木＆日本三大戸隠そば宿 厳選ガイド"} url={"https://croud-travel.pages.dev/nagano-togakushi-shrine-soba-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="nagano-togakushi-shrine-soba-stay" />
 </div>
   );

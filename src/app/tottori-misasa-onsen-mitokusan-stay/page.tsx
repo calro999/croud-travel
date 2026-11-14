@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             「三度朝を迎えると病が治る」と伝わる奇跡の湯治場「三朝（みささ）温泉」。高濃度ラドンが細胞を活性化させるホルミシス効果。断崖絶壁の窪みに建つ日本一危険な国宝建築「三徳山三仏寺 投入堂」。三徳川のせせらぎと鳥取和牛を味わう癒やしの旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"鳥取・三朝温泉＆三徳山三仏寺：世界屈指のラジウム温泉・国宝投入堂宿 厳選ガイド"} url={"https://croud-travel.pages.dev/tottori-misasa-onsen-mitokusan-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"鳥取・三朝温泉＆三徳山三仏寺：世界屈指のラジウム温泉・国宝投入堂宿 厳選ガイド"} url={"https://croud-travel.pages.dev/tottori-misasa-onsen-mitokusan-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="tottori-misasa-onsen-mitokusan-stay" />
 </div>
   );

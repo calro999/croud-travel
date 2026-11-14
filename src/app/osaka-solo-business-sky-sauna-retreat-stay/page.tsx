@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -13,7 +14,7 @@ export const metadata: Metadata = {
     title: '大阪出張・梅田ご褒美泊：地上130mスカイスパ・展望サウナ・夜景クラブラウンジ完備！ビジネス＆ソロステイ 厳選3選',
     description: '西日本のビジネス中心地・大阪で、仕事の疲れを極限まで吹き飛ばし最高のインスピレーションを得る。「日本一高いインフィニティスカイスパ」を備えた最新ランドマーク「カンデオホテルズ大阪ザ・タワー」、全室高層階・英国調ラグジュアリーの極致「ホテル阪急インターナショナル」、難波のど真ん中で天然温泉とサウナを満喫する「ドーミーインPREMIUMなんばANNEX」を徹底特集。',
     url: 'https://croud-travel.pages.dev/osaka-solo-business-sky-sauna-retreat-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -27,12 +28,12 @@ export default function ArticlePage() {
     description: '西日本のビジネス中心地・大阪で、仕事の疲れを極限まで吹き飛ばし最高のインスピレーションを得る。「日本一高いインフィニティスカイスパ」を備えた最新ランドマーク「カンデオホテルズ大阪ザ・タワー」、全室高層階・英国調ラグジュアリーの極致「ホテル阪急インターナショナル」、難波のど真ん中で天然温泉とサウナを満喫する「ドーミーインPREMIUMなんばANNEX」を徹底特集。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル ひとり旅・ホテル調査班',
+      name: '旅宿クラウド ひとり旅・ホテル調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -79,6 +80,9 @@ export default function ArticlePage() {
           西日本のビジネス中心地・大阪で、仕事の疲れを極限まで吹き飛ばし最高のインスピレーションを得る。「日本一高いインフィニティスカイスパ」を備えた最新ランドマーク「カンデオホテルズ大阪ザ・タワー」、全室高層階・英国調ラグジュアリーの極致「ホテル阪急インターナショナル」、難波のど真ん中で天然温泉とサウナを満喫する「ドーミーインPREMIUMなんばANNEX」を徹底特集。
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"大阪出張・梅田ご褒美泊：地上130mスカイスパ・展望サウナ・夜景クラブラウンジ完備！ビジネス＆ソロステイ 厳選3選"} url={"https://croud-travel.pages.dev/osaka-solo-business-sky-sauna-retreat-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
@@ -381,7 +385,7 @@ export default function ArticlePage() {
             href="/"
             className="inline-flex items-center gap-2 text-sm text-stone-600 hover:text-stone-900 font-medium transition-colors"
           >
-            ← クラウドトラベル トップページへ戻る
+            ← 旅宿クラウド トップページへ戻る
           </Link>
         </div>
       </div>
@@ -414,6 +418,10 @@ export default function ArticlePage() {
           </div>
         </section>
 
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"大阪出張・梅田ご褒美泊：地上130mスカイスパ・展望サウナ・夜景クラブラウンジ完備！ビジネス＆ソロステイ 厳選3選"} url={"https://croud-travel.pages.dev/osaka-solo-business-sky-sauna-retreat-stay/"} />
+      </div>
       </main>
   );
 }

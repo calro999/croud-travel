@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             どこまでも続く青い太平洋とフェニックスの並木道「宮崎・日南海岸」。周囲1.5kmの聖なる島「青島」を囲む奇岩・鬼の洗濯板。洞窟の中に本殿が鎮座する鵜戸神宮。トロピカルなリゾート温泉と、日本一の宮崎牛ステーキを味わう南国ステイ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"宮崎・日南海岸＆青島：青島神社・鬼の洗濯板＆サンメッセ日南モアイ・宮崎牛宿 厳選ガイド"} url={"https://croud-travel.pages.dev/miyazaki-nichinan-aoshima-coast-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -231,6 +235,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"宮崎・日南海岸＆青島：青島神社・鬼の洗濯板＆サンメッセ日南モアイ・宮崎牛宿 厳選ガイド"} url={"https://croud-travel.pages.dev/miyazaki-nichinan-aoshima-coast-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="miyazaki-nichinan-aoshima-coast-stay" />
 </div>
   );

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -107,6 +108,9 @@ export default function MicroTouristHubPage() {
             鹿児島市街地の目の前にそびえ立ち、青い錦江湾（鹿児島湾）の海原越しに雄大な噴煙を上げる国際的活火山「桜島」。標高107mの高台「城山展望台」から見下ろす桜島と街並みのダイナミックなパノラマ。西郷隆盛や大久保利通ら幕末維新の英傑たちが愛した薩摩の風土。そして旨味と甘みが詰まった「かごしま黒豚しゃぶしゃぶ」と芋焼酎に酔いしれる南国・鹿児島ステイへご案内します。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"鹿児島・桜島＆城山：活火山パノラマ・黒豚しゃぶ＆展望温泉宿 厳選ガイド"} url={"https://croud-travel.pages.dev/kagoshima-sakurajima-kinko-bay-kurobuta-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"鹿児島・桜島＆城山：活火山パノラマ・黒豚しゃぶ＆展望温泉宿 厳選ガイド"} url={"https://croud-travel.pages.dev/kagoshima-sakurajima-kinko-bay-kurobuta-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="kagoshima-sakurajima-kinko-bay-kurobuta-stay" />
 </div>
   );

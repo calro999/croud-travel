@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Image from 'next/image';
@@ -17,7 +18,7 @@ export const metadata: Metadata = {
     description: '11月〜12月に冬毛へと生え変わり最もモフモフで愛らしい姿を見せる世界的人気スポット「宮城蔵王キツネ村」！南蔵王の麓、開湯600年の歴史を誇る「奥羽の薬湯」鎌先温泉の風情ある木造旅館群で心身を癒やす旅。油を使わず胃腸に優しい伝統名物「白石温麺（うーめん）」と、きめ細やかなサシがとろける最高峰仙台牛を味わう初冬の厳選名宿5選。',
     url: 'https://croud-travel.pages.dev/winter-miyagi-zao-fox-village-kamasaki-onsen-shiroishi-umen-sendaigyu-stay/',
     type: 'article',
-    siteName: 'クラウドトラベル',
+    siteName: '旅宿クラウド',
   },
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-miyagi-zao-fox-village-kamasaki-onsen-shiroishi-umen-sendaigyu-stay/',
@@ -115,6 +116,9 @@ export default function WinterFeaturePage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【冬毛モフモフの蔵王キツネ村と開湯600年鎌先温泉の薬湯】2026-2027年11-12月初冬の宮城・白石"} url={"https://croud-travel.pages.dev/winter-miyagi-zao-fox-village-kamasaki-onsen-shiroishi-umen-sendaigyu-stay/"} />
+      </div>
 
       {/* メインコンテンツ */}
       <main className="max-w-4xl mx-auto px-4 py-10 space-y-12">
@@ -565,6 +569,10 @@ export default function WinterFeaturePage() {
           </div>
         </section>
 
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【冬毛モフモフの蔵王キツネ村と開湯600年鎌先温泉の薬湯】2026-2027年11-12月初冬の宮城・白石"} url={"https://croud-travel.pages.dev/winter-miyagi-zao-fox-village-kamasaki-onsen-shiroishi-umen-sendaigyu-stay/"} />
+      </div>
       </main>
     </div>
   );

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             三方湖・水月湖・菅湖・久々子湖・日向湖が織りなす神秘の水鏡「国指定名勝・三方五湖」。レインボーライン山頂公園の天空テラスから見下ろす360度の大パノラマ。7万年の時を刻む水月湖の「年縞」。三方名物の口細うなぎと若狭ふぐを味わう若狭湾の旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"福井・三方五湖＆レインボーライン：天空テラス・五色水鏡＆三方口細うなぎ・若狭ふぐ宿 厳選ガイド"} url={"https://croud-travel.pages.dev/fukui-mikatagoko-rainbow-line-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"福井・三方五湖＆レインボーライン：天空テラス・五色水鏡＆三方口細うなぎ・若狭ふぐ宿 厳選ガイド"} url={"https://croud-travel.pages.dev/fukui-mikatagoko-rainbow-line-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="fukui-mikatagoko-rainbow-line-stay" />
 </div>
   );

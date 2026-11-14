@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月島根・温泉津温泉＆有福温泉】世界遺産石見銀山の港町・開湯1300年薬師湯の奇跡の自噴赤湯と日本海初冬の極上のどぐろ・しまね和牛に心奪われる名宿5選',
     description: '11月中旬から初冬の島根・石見地方に位置する温泉津温泉（ゆのつおんせん）と有福温泉（ありふくおんせん）の魅力とおすすめ宿泊施設を詳しくご紹介します。',
     url: 'https://croud-travel.pages.dev/winter-shimane-yunotsu-onsen-iwamiginzan-nodoguro-wagyu-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -49,7 +50,7 @@ export default function ShimaneYunotsuWinterPage() {
         "isPartOf": {
           "@type": "WebSite",
           "@id": "https://croud-travel.pages.dev/#website",
-          "name": "クラドトラベル",
+          "name": "旅宿クラウド",
           "url": "https://croud-travel.pages.dev/"
         },
         "headline": "【11・12月島根・温泉津温泉＆有福温泉】世界遺産石見銀山の港町・開湯1300年薬師湯の奇跡の自噴赤湯と日本海初冬の極上のどぐろ・しまね和牛に心奪われる名宿5選",
@@ -60,7 +61,7 @@ export default function ShimaneYunotsuWinterPage() {
         "mainEntityOfPage": "https://croud-travel.pages.dev/winter-shimane-yunotsu-onsen-iwamiginzan-nodoguro-wagyu-stay/",
         "publisher": {
           "@type": "Organization",
-          "name": "クラドトラベル編集部",
+          "name": "旅宿クラウド編集部",
           "url": "https://croud-travel.pages.dev/"
         }
       },
@@ -339,6 +340,9 @@ export default function ShimaneYunotsuWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月島根・温泉津温泉＆有福温泉】世界遺産石見銀山の港町・開湯1300年薬師湯の奇跡の自噴赤湯と日本海初冬の極上のどぐろ・しまね和牛に心奪われる名宿5選"} url={"https://croud-travel.pages.dev/winter-shimane-yunotsu-onsen-iwamiginzan-nodoguro-wagyu-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-10 sm:pt-14 space-y-12">
@@ -453,7 +457,7 @@ export default function ShimaneYunotsuWinterPage() {
                         <a
                           href={hotel.url}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="inline-flex items-center gap-1.5 bg-emerald-800 hover:bg-emerald-900 text-white text-xs sm:text-sm font-bold px-4 py-2.5 rounded-xl transition shadow-xs"
                         >
                           プラン一覧を見る
@@ -623,6 +627,9 @@ export default function ShimaneYunotsuWinterPage() {
               </p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月島根・温泉津温泉＆有福温泉】世界遺産石見銀山の港町・開湯1300年薬師湯の奇跡の自噴赤湯と日本海初冬の極上のどぐろ・しまね和牛に心奪われる名宿5選"} url={"https://croud-travel.pages.dev/winter-shimane-yunotsu-onsen-iwamiginzan-nodoguro-wagyu-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-shimane-yunotsu-onsen-iwamiginzan-nodoguro-wagyu-stay" />
 </div>
         </section>

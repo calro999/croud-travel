@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -107,6 +108,9 @@ export default function MicroTouristHubPage() {
             山肌を桜色のグラデーションで染め上げ「一目千本」と称えられる日本一の桜の聖地「吉野山」。役行者（えんのぎょうじゃ）が桜の木に彫ったとされる修験道の守護仏、金峯山寺蔵王堂の三尊の青い秘仏「金剛蔵王権現」。源義経と静御前の哀話や後醍醐天皇の南朝悲話が息づく歴史の尾根道。伝統の柿の葉寿司と吉野本葛の滑らかな舌触りを堪能する、世界遺産・吉野ステイへご案内します。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"奈良・吉野山＆金峯山寺：一目千本桜・蔵王堂＆柿の葉寿司宿 厳選ガイド"} url={"https://croud-travel.pages.dev/nara-yoshino-cherry-mountain-temple-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"奈良・吉野山＆金峯山寺：一目千本桜・蔵王堂＆柿の葉寿司宿 厳選ガイド"} url={"https://croud-travel.pages.dev/nara-yoshino-cherry-mountain-temple-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="nara-yoshino-cherry-mountain-temple-stay" />
 </div>
   );

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -227,6 +228,9 @@ export default function NikkoChuzenjiCarFreeTravelGuidePage() {
             </div>
           </div>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"日光・中禅寺湖 車なし観光 1泊2日モデルコース：東武特急スペーシアX＆東武バスで行く世界遺産＆奥日光湯宿"} url={"https://croud-travel.pages.dev/nikko-chuzenji-car-free-travel-guide/"} />
+      </div>
       </section>
 
       {/* 公共交通の乗り継ぎガイド */}
@@ -497,6 +501,9 @@ export default function NikkoChuzenjiCarFreeTravelGuidePage() {
         </div>
       </section>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"日光・中禅寺湖 車なし観光 1泊2日モデルコース：東武特急スペーシアX＆東武バスで行く世界遺産＆奥日光湯宿"} url={"https://croud-travel.pages.dev/nikko-chuzenji-car-free-travel-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="nikko-chuzenji-car-free-travel-guide" />
 </div>
   );

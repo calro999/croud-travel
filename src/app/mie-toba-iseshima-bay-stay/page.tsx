@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             リアス海岸の穏やかな鳥羽湾に浮かぶ島々。日本で唯一ジュゴンに逢える「鳥羽水族館」と真珠王・御木本幸吉の歴史。海を望む展望露天風呂で温まり、伊勢志摩の海の幸を心ゆくまで堪能する海辺の旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"三重・鳥羽温泉郷：鳥羽水族館・ミキモト真珠島＆伊勢海老会席極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/mie-toba-iseshima-bay-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"三重・鳥羽温泉郷：鳥羽水族館・ミキモト真珠島＆伊勢海老会席極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/mie-toba-iseshima-bay-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="mie-toba-iseshima-bay-stay" />
 </div>
   );

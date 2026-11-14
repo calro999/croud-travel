@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -7,7 +8,7 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '長瀞ライン下りと岩畳の紅葉絵巻！秩父温泉郷の名湯・名物豚みそ丼＆わらじカツを味わう秋の埼玉旅｜ふるさと納税で泊まれる名宿ガイド',
   description: '10月・11月の埼玉・秩父＆長瀞特集！荒川の清流と国指定名勝「岩畳」を彩る長瀞ライン下りの大紅葉、月の石もみじ公園の幻想的な紅葉ライトアップ、秩父連峰を望む秩父温泉郷の美肌名湯、名物わらじカツ丼や豚みそ漬け・秩父錦をふるさと納税で堪能。',
-  keywords: ["名物豚みそ丼", "わらじカツを味わう秋の埼玉旅", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
+  keywords: ["名物豚みそ丼", "わらじカツを味わう秋の埼玉旅", "旅宿クラウドふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-chichibu-nagatoro-line-kudari-stay/",
   },
@@ -15,7 +16,7 @@ export const metadata: Metadata = {
     title: '長瀞ライン下りと岩畳の紅葉絵巻！秩父温泉郷の名湯・名物豚みそ丼＆わらじカツを味わう秋の埼玉旅｜ふるさと納税で泊まれる名宿ガイド',
     description: '10月・11月の埼玉・秩父＆長瀞特集！荒川の清流と国指定名勝「岩畳」を彩る長瀞ライン下りの大紅葉、月の石もみじ公園の幻想的な紅葉ライトアップ、秩父連峰を望む秩父温泉郷の美肌名湯、名物わらじカツ丼や豚みそ漬け・秩父錦をふるさと納税で堪能。',
     url: 'https://croud-travel.pages.dev/furusato-tax-chichibu-nagatoro-line-kudari-stay/',
-    siteName: 'クラウドトラベル (croud-travel.pages.dev)',
+    siteName: '旅宿クラウド (croud-travel.pages.dev)',
     type: 'article',
     locale: 'ja_JP',
   },
@@ -29,11 +30,11 @@ export default function Page() {
     "description": "10月・11月の埼玉・秩父＆長瀞特集！荒川の清流と国指定名勝「岩畳」を彩る長瀞ライン下りの大紅葉、月の石もみじ公園の幻想的な紅葉ライトアップ、秩父連峰を望む秩父温泉郷の美肌名湯、名物わらじカツ丼や豚みそ漬け・秩父錦をふるさと納税で堪能。",
     "author": {
       "@type": "Organization",
-      "name": "クラウドトラベル編集部"
+      "name": "旅宿クラウド編集部"
     },
     "publisher": {
       "@type": "Organization",
-      "name": "クラウドトラベル",
+      "name": "旅宿クラウド",
       "logo": {
         "@type": "ImageObject",
         "url": "https://croud-travel.pages.dev/logo.png"
@@ -112,6 +113,9 @@ export default function Page() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"長瀞ライン下りと岩畳の紅葉絵巻！秩父温泉郷の名湯・名物豚みそ丼＆わらじカツを味わう秋の埼玉旅"} url={"https://croud-travel.pages.dev/furusato-tax-chichibu-nagatoro-line-kudari-stay/"} />
+      </div>
 
       {/* Breadcrumb */}
       <nav className="bg-stone-100 border-b border-stone-200 py-3 px-4 sm:px-6 lg:px-8 text-xs text-stone-600">
@@ -128,7 +132,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"長瀞ライン下りと岩畳の紅葉絵巻！秩父温泉郷の名湯・名物豚みそ丼＆わらじカツを味わう秋の埼玉旅｜ふるさと納税で泊まれる名宿ガイド | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-chichibu-nagatoro-line-kudari-stay/"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"長瀞ライン下りと岩畳の紅葉絵巻！秩父温泉郷の名湯・名物豚みそ丼＆わらじカツを味わう秋の埼玉旅｜ふるさと納税で泊まれる名宿ガイド | 旅宿クラウドふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-chichibu-nagatoro-line-kudari-stay/"}]}) }}
       />
 
         {/* Introduction */}
@@ -146,8 +150,8 @@ export default function Page() {
               <div className="font-bold text-amber-900">✨ 秋旅行のハイライトポイント</div>
               <ul className="list-disc list-inside text-stone-700 text-xs sm:text-sm space-y-1">
                 <li><strong>紅葉の見頃ピーク：</strong> 10月下旬〜11月下旬（長瀞岩畳紅葉・月の石もみじ公園ライトアップ・宝登山ロープウェイ・秩父そば）</li>
-                <li><strong>秋の味覚：</strong> 新米、旬の海鮮・ブランド牛、秋野菜や地酒の贅沢なマリアージュ（長瀞ライン下りと岩畳の紅葉絵巻）</li>
-                <li><strong>温泉の贅沢：</strong> 澄んだ空気と秋風を感じる露天風呂で心身を解きほぐす至福のひととき（長瀞ライン下りと岩畳の紅葉絵巻）</li>
+                <li><strong>秋の味覚：</strong> 新米、旬の海鮮・ブランド牛、秋野菜や地酒の贅沢なマリアージュ</li>
+                <li><strong>温泉の贅沢：</strong> 澄んだ空気と秋風を感じる露天風呂で心身を解きほぐす至福のひととき</li>
               </ul>
             </div>
           </div>
@@ -155,8 +159,7 @@ export default function Page() {
 
         {/* Area Highlights & Model Course */}
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-stone-200/80">
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-3 border-b border-stone-200 pb-4"><span className="text-2xl">️</span>
-            秋の秩父・長瀞・荒川渓谷を満喫する1泊2日モデルコース</h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-3 border-b border-stone-200 pb-4">秋の秩父・長瀞・荒川渓谷を満喫する1泊2日モデルコース</h2>
           <div className="space-y-6">
             <div className="border-l-2 border-amber-400 pl-4 sm:pl-6 space-y-6">
               <div>
@@ -371,8 +374,7 @@ export default function Page() {
                 <div className="text-stone-500 text-xs">楽天トラベルで対象宿の予約時にクーポンを適用して割引完了</div>
               </div>
             </div>
-            <p className="text-xs sm:text-sm text-stone-600">※楽天スーパーSALEやお買い物マラソン等の買いまわりイベント期間中に寄附を行うと、楽天ポイント還元率が大幅にアップしてさらにお得です。
-            </p>
+            <p className="text-xs sm:text-sm text-stone-600">※2026年分のふるさと納税寄附期限は12月31日までです。返礼品の楽天トラベルクーポンは有効期限が最長3年間あるため、年末年始や来春の旅行にも余裕を持って活用いただけます。</p>
           </div>
         </section>
 
@@ -566,10 +568,13 @@ export default function Page() {
             <Link href="/features/" className="hover:text-white">特集一覧</Link>
             <Link href="/privacy/" className="hover:text-white">プライバシーポリシー</Link>
           </div>
-          <p>© 2026 クラウドトラベル (croud-travel.pages.dev) All Rights Reserved.</p>
+          <p>© 2026 旅宿クラウド (croud-travel.pages.dev) All Rights Reserved.</p>
         </div>
       </footer>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"長瀞ライン下りと岩畳の紅葉絵巻！秩父温泉郷の名湯・名物豚みそ丼＆わらじカツを味わう秋の埼玉旅"} url={"https://croud-travel.pages.dev/furusato-tax-chichibu-nagatoro-line-kudari-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-chichibu-nagatoro-line-kudari-stay" />
 </div>
   );

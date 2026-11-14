@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -14,7 +15,7 @@ export const metadata: Metadata = {
     title: '和倉温泉をふるさと納税でお得に旅する！七尾湾オーシャンビュー＆能登復興応援！海の恵み会席名宿特集｜のと楽・美湾荘・宝仙閣',
     description: '開湯千二百年・七尾湾の波打ち際に湧く海の温泉・石川県和倉温泉を楽天ふるさと納税でお得に旅して応援！広大な庭園露天風呂を誇る「日本の宿 のと楽」、創業百二十年・海一望の「ゆけむりの宿 美湾荘」、総湯隣接の温もり宿「味な宿 宝仙閣」を徹底比較。能登牛や日本海旬魚会席、七尾市トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-wakura-onsen-noto-ocean-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -28,12 +29,12 @@ export default function FurusatoArticlePage() {
     description: '開湯千二百年・七尾湾の波打ち際に湧く海の温泉・石川県和倉温泉を楽天ふるさと納税でお得に旅して応援！広大な庭園露天風呂を誇る「日本の宿 のと楽」、創業百二十年・海一望の「ゆけむりの宿 美湾荘」、総湯隣接の温もり宿「味な宿 宝仙閣」を徹底比較。能登牛や日本海旬魚会席、七尾市トラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル 観光・ふるさと納税調査班',
+      name: '旅宿クラウド 観光・ふるさと納税調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -80,6 +81,9 @@ export default function FurusatoArticlePage() {
           開湯千二百年・七尾湾の波打ち際に湧く海の温泉・石川県和倉温泉を楽天ふるさと納税でお得に旅して応援！広大な庭園露天風呂を誇る「日本の宿 のと楽」、創業百二十年・海一望の「ゆけむりの宿 美湾荘」、総湯隣接の温もり宿「味な宿 宝仙閣」を徹底比較。能登牛や日本海旬魚会席、七尾市トラベルクーポン活用術を網羅。
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"和倉温泉をふるさと納税でお得に旅する！七尾湾オーシャンビュー＆能登復興応援！海の恵み会席名宿特集"} url={"https://croud-travel.pages.dev/furusato-tax-wakura-onsen-noto-ocean-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
@@ -360,7 +364,7 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 和倉温泉・能登島＆辻口博啓美術館観光ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">和倉温泉・能登島＆辻口博啓美術館観光ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
@@ -586,6 +590,9 @@ export default function FurusatoArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"和倉温泉をふるさと納税でお得に旅する！七尾湾オーシャンビュー＆能登復興応援！海の恵み会席名宿特集"} url={"https://croud-travel.pages.dev/furusato-tax-wakura-onsen-noto-ocean-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-wakura-onsen-noto-ocean-stay" />
 </div>
         </section>

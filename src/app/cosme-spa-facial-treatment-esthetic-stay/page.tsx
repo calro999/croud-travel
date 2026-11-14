@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function WomenSoloRetreatHubPage() {
             心地よいアロマの香りとセラピストの極上のハンドテクニック「ブランドスパ＆エステ付きご褒美ホテル」。ロクシタンスパやTHANNサンクチュアリー。天然温泉で身体を温めた後のフェイシャル＆ボディトリートメントで、輝く素肌と深い眠りへ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"ブランドスパ＆エステ付きご褒美ホテル：ロクシタン・THANN＆天然温泉 厳選ガイド"} url={"https://croud-travel.pages.dev/cosme-spa-facial-treatment-esthetic-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆厳選宿 */}
@@ -231,6 +235,9 @@ export default function WomenSoloRetreatHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"ブランドスパ＆エステ付きご褒美ホテル：ロクシタン・THANN＆天然温泉 厳選ガイド"} url={"https://croud-travel.pages.dev/cosme-spa-facial-treatment-esthetic-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="cosme-spa-facial-treatment-esthetic-stay" />
 </div>
   );

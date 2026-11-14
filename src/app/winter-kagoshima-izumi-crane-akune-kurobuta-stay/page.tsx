@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -264,6 +265,9 @@ export default function KagoshimaIzumiAkunePage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月鹿児島】出水＆阿久根・さつま！世界屈指のツル渡来地「一万羽のツル」と出水麓武家屋敷初詣・阿久根の華アジ＆さつま黒豚名宿5選"} url={"https://croud-travel.pages.dev/winter-kagoshima-izumi-crane-akune-kurobuta-stay/"} />
+      </div>
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
@@ -367,7 +371,7 @@ export default function KagoshimaIzumiAkunePage() {
                     <a
                       href={hotel.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-xl bg-gradient-to-r from-rose-600 to-rose-700 text-white font-bold text-xs md:text-sm hover:from-rose-700 hover:to-rose-800 shadow-sm hover:shadow transition"
                     >
                       楽天トラベルで空室・プラン詳細を見る
@@ -524,6 +528,9 @@ export default function KagoshimaIzumiAkunePage() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月鹿児島】出水＆阿久根・さつま！世界屈指のツル渡来地「一万羽のツル」と出水麓武家屋敷初詣・阿久根の華アジ＆さつま黒豚名宿5選"} url={"https://croud-travel.pages.dev/winter-kagoshima-izumi-crane-akune-kurobuta-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-kagoshima-izumi-crane-akune-kurobuta-stay" />
 </div>
   );

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -113,6 +114,9 @@ export default function SeasonalFeaturePage() {
             湯けむり立ち上るプライベートな貸切露天風呂で手足を伸ばし、夜は誰にも邪魔されず客室でいただく出来立ての贅沢会席。カップルやご夫婦、記念日旅行に最適な極上のおこもり温泉旅館へ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"おこもり贅沢：貸切露天風呂＆お部屋食の極上温泉旅館 厳選ガイド"} url={"https://croud-travel.pages.dev/autumn-winter-private-bath-ryokan/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function SeasonalFeaturePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"おこもり贅沢：貸切露天風呂＆お部屋食の極上温泉旅館 厳選ガイド"} url={"https://croud-travel.pages.dev/autumn-winter-private-bath-ryokan/"} />
+      </div>
       <HubRelatedPosts currentSlug="autumn-winter-private-bath-ryokan" />
 </div>
   );

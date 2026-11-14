@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -199,6 +200,9 @@ export default function FeatureDetailPage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"美濃和紙あかりの町並みと清流鵜飼い。長良川温泉＆飛騨牛会席の風情名宿5選"} url={"https://croud-travel.pages.dev/traditional-gifu-mino-washi-lantern-stay/"} />
+      </div>
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
@@ -864,6 +868,9 @@ export default function FeatureDetailPage() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"美濃和紙あかりの町並みと清流鵜飼い。長良川温泉＆飛騨牛会席の風情名宿5選"} url={"https://croud-travel.pages.dev/traditional-gifu-mino-washi-lantern-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="traditional-gifu-mino-washi-lantern-stay" />
 </div>
   );

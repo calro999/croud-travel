@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
@@ -15,7 +16,7 @@ export const metadata: Metadata = {
     title: '冬の静寂はての浜と日本一の車海老三昧：2026-2027年冬の久米島！海洋深層水スパと絶景リゾートホテル5選',
     description: 'エメラルドグリーンの大海原に浮かぶ白砂の天国「はての浜」の冬クルーズ！冬に旬の最盛期を迎える「久米島産極上活車海老」の踊り食いや塩焼き、海洋深層水温浴スパで心身を解きほぐす至高の南国冬リゾート5選。',
     url: 'https://croud-travel.pages.dev/winter-okinawa-kumejima-hatenohama-kurumaebi-ocean-resort-stay/',
-    siteName: 'クラウドトラベル',
+    siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -79,6 +80,9 @@ export default function WinterFeaturePage() {
             </div>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"冬の静寂はての浜と日本一の車海老三昧：2026-2027年冬の久米島！海洋深層水スパと絶景リゾートホテル5選"} url={"https://croud-travel.pages.dev/winter-okinawa-kumejima-hatenohama-kurumaebi-ocean-resort-stay/"} />
+      </div>
 
         {/* 魅力・おすすめ理由 */}
         <section className="max-w-4xl mx-auto px-4 py-10">
@@ -91,22 +95,19 @@ export default function WinterFeaturePage() {
             </div>
             <div className="grid grid-cols-1 gap-4">
               <div className="p-4 rounded-xl bg-stone-50 border border-stone-200/80 space-y-1.5">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-cyan-600"></span>
-                  東洋一の美しさを誇る白砂の楽園「はての浜」の冬期静寂クルーズ</h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">東洋一の美しさを誇る白砂の楽園「はての浜」の冬期静寂クルーズ</h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                   久米島の東沖合に浮かぶ、砂浜だけでできた奇跡の無人島「はての浜」。冬は観光船の混雑がなく、澄み渡るエメラルドグリーンの海と純白の砂浜を独り占めできる贅沢な時間が流れます。冬の大気は澄んでおり、写真映えも抜群です。
                 </p>
               </div>
               <div className="p-4 rounded-xl bg-stone-50 border border-stone-200/80 space-y-1.5">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-cyan-600"></span>
-                  日本一の生産量を誇る「久米島産極上活車海老」の旬を味わい尽くす</h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">日本一の生産量を誇る「久米島産極上活車海老」の旬を味わい尽くす</h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                   久米島は海洋深層水と豊かな自然環境に育まれた車海老の養殖で日本一のシェアを誇ります。11月〜1月は身が最も詰まり甘みが極まる最高の旬！生きたまま殻をむいて味わう「踊り食い」のプリプリ感と甘み、丸ごと焼き上げる塩焼きの香ばしさは別格です。
                 </p>
               </div>
               <div className="p-4 rounded-xl bg-stone-50 border border-stone-200/80 space-y-1.5">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-cyan-600"></span>
-                  水深612mの恵み「海洋深層水」の温浴スパと泡盛・久米仙の夜</h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">水深612mの恵み「海洋深層水」の温浴スパと泡盛・久米仙の夜</h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                   久米島沖の深海から取水される清浄な海洋深層水。ミネラルバランスに優れた深層水を用いた大浴場や温浴施設は、疲労回復や美肌効果が抜群。夜は島の銘酒「久米仙」や「米島酒造」の泡盛を傾け、星空を眺めながら優雅な島時間を過ごせます。
                 </p>
@@ -546,6 +547,10 @@ export default function WinterFeaturePage() {
             </div>
           </div>
         </section>
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"冬の静寂はての浜と日本一の車海老三昧：2026-2027年冬の久米島！海洋深層水スパと絶景リゾートホテル5選"} url={"https://croud-travel.pages.dev/winter-okinawa-kumejima-hatenohama-kurumaebi-ocean-resort-stay/"} />
+      </div>
       </main>
     </>
   );

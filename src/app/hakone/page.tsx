@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import fs from "fs";
 import path from "path";
@@ -114,6 +115,9 @@ export default function HakoneHubPage() {
           首都圏屈指の温泉郷・箱根。「箱根フリーパスを使った周遊ルートは？」「箱根湯本と強羅、どっちに泊まるべき？」「記念日デートにぴったりの客室露天風呂宿は？」を縦掘りし、おすすめの宿泊施設情報で繋ぐ総合ガイド。
         </p>
       </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"箱根温泉 完全計画ガイド 2026：1泊2日・2泊3日モデルコース＆箱根湯本・強羅・芦ノ湖・露天風呂付き客室・カップル温泉宿"} url={"https://croud-travel.pages.dev/hakone/"} />
+      </div>
 
       {/* 箱根湯本・強羅の公式おすすめ温泉旅館 */}
       {hakoneData.yumoto_ryokan && (
@@ -377,6 +381,9 @@ export default function HakoneHubPage() {
         </section>
       )}
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"箱根温泉 完全計画ガイド 2026：1泊2日・2泊3日モデルコース＆箱根湯本・強羅・芦ノ湖・露天風呂付き客室・カップル温泉宿"} url={"https://croud-travel.pages.dev/hakone/"} />
+      </div>
       <HubRelatedPosts currentSlug="hakone" />
 </div>
   );

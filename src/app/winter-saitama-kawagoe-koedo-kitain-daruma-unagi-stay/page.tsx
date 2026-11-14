@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
     title: '【11・12・1月埼玉】小江戸川越・冬の蔵造りの町並みと時の鐘・喜多院初大師だるま市新春初詣＆名物うなぎ重・小江戸黒豚を味わう川越名宿5選',
     description: '11月から1月、黒漆喰の重厚な蔵造り商家が軒を連ねる埼玉県川越市は、冬の澄み渡る青空と新春の活気あふれる初詣シーズンを迎えます。',
     url: 'https://croud-travel.pages.dev/winter-saitama-kawagoe-koedo-kitain-daruma-unagi-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     images: [
       {
         url: 'https://img.travel.rakuten.co.jp/share/HOTEL/178703/178703.jpg',
@@ -49,12 +50,12 @@ export default function SaitamaKawagoeKoedoWinterPage() {
     dateModified: '',
     author: {
       '@type': 'Organization',
-      name: 'クラドトラベル編集部',
+      name: '旅宿クラウド編集部',
       url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png'
@@ -293,6 +294,9 @@ export default function SaitamaKawagoeKoedoWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月埼玉】小江戸川越・冬の蔵造りの町並みと時の鐘・喜多院初大師だるま市新春初詣＆名物うなぎ重・小江戸黒豚を味わう川越名宿5選"} url={"https://croud-travel.pages.dev/winter-saitama-kawagoe-koedo-kitain-daruma-unagi-stay/"} />
+      </div>
 
       {/* Main Content Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 pt-12 space-y-16">
@@ -501,7 +505,7 @@ export default function SaitamaKawagoeKoedoWinterPage() {
                       <a 
                         href={h.url} 
                         target="_blank" 
-                        rel="noopener noreferrer" 
+                        rel="sponsored noopener noreferrer" 
                         className="w-full sm:w-auto inline-flex items-center justify-center gap-2 bg-gradient-to-r from-amber-700 to-stone-900 hover:from-amber-800 hover:to-stone-950 text-white font-bold px-6 py-3.5 rounded-xl shadow-md transition-all text-sm group"
                       >
                         <span>楽天トラベルで空室・プランを見る</span>
@@ -670,6 +674,9 @@ export default function SaitamaKawagoeKoedoWinterPage() {
               </span>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月埼玉】小江戸川越・冬の蔵造りの町並みと時の鐘・喜多院初大師だるま市新春初詣＆名物うなぎ重・小江戸黒豚を味わう川越名宿5選"} url={"https://croud-travel.pages.dev/winter-saitama-kawagoe-koedo-kitain-daruma-unagi-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-saitama-kawagoe-koedo-kitain-daruma-unagi-stay" />
 </div>
         </section>

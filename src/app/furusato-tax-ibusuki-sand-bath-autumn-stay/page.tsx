@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -7,15 +8,15 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '世界唯一の天然砂むし温泉「指宿温泉」＆薩摩の小京都「知覧武家屋敷」紅葉・鹿児島黒豚黒牛｜ふるさと納税で泊まれる名宿ガイド',
   description: '10月〜11月の爽快な南国秋風が心地よい薩摩半島・指宿温泉。波打ち際の天然砂むし風呂で全身デトックスし、知覧武家屋敷庭園の紅葉散策と極上鹿児島黒豚・黒毛和牛しゃぶしゃぶをふるさと納税で堪能。',
-  keywords: ["鹿児島黒豚黒牛", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
+  keywords: ["鹿児島黒豚黒牛", "旅宿クラウドふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: "https://croud-travel.pages.dev/furusato-tax-ibusuki-sand-bath-autumn-stay/",
+    canonical: "https://croud-travel.pages.dev/furusato-tax-kaimondake-art-forest-autumn-stay/",
   },
   openGraph: {
     title: '世界唯一の天然砂むし温泉「指宿温泉」＆薩摩の小京都「知覧武家屋敷」紅葉・鹿児島黒豚黒牛｜ふるさと納税で泊まれる名宿ガイド',
     description: '10月〜11月の爽快な南国秋風が心地よい薩摩半島・指宿温泉。波打ち際の天然砂むし風呂で全身デトックスし、知覧武家屋敷庭園の紅葉散策と極上鹿児島黒豚・黒毛和牛しゃぶしゃぶをふるさと納税で堪能。',
     url: 'https://croud-travel.pages.dev/furusato-tax-ibusuki-sand-bath-autumn-stay/',
-    siteName: 'クラウドトラベル (croud-travel.pages.dev)',
+    siteName: '旅宿クラウド (croud-travel.pages.dev)',
     type: 'article',
     locale: 'ja_JP',
   },
@@ -29,11 +30,11 @@ export default function Page() {
     "description": "10月〜11月の爽快な南国秋風が心地よい薩摩半島・指宿温泉。波打ち際の天然砂むし風呂で全身デトックスし、知覧武家屋敷庭園の紅葉散策と極上鹿児島黒豚・黒毛和牛しゃぶしゃぶをふるさと納税で堪能。",
     "author": {
       "@type": "Organization",
-      "name": "クラウドトラベル編集部"
+      "name": "旅宿クラウド編集部"
     },
     "publisher": {
       "@type": "Organization",
-      "name": "クラウドトラベル",
+      "name": "旅宿クラウド",
       "logo": {
         "@type": "ImageObject",
         "url": "https://croud-travel.pages.dev/logo.png"
@@ -112,12 +113,15 @@ export default function Page() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"世界唯一の天然砂むし温泉「指宿温泉」＆薩摩の小京都「知覧武家屋敷」紅葉・鹿児島黒豚黒牛"} url={"https://croud-travel.pages.dev/furusato-tax-ibusuki-sand-bath-autumn-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"世界唯一の天然砂むし温泉「指宿温泉」＆薩摩の小京都「知覧武家屋敷」紅葉・鹿児島黒豚黒牛｜ふるさと納税で泊まれる名宿ガイド | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-ibusuki-sand-bath-autumn-stay/"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"世界唯一の天然砂むし温泉「指宿温泉」＆薩摩の小京都「知覧武家屋敷」紅葉・鹿児島黒豚黒牛｜ふるさと納税で泊まれる名宿ガイド | 旅宿クラウドふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-ibusuki-sand-bath-autumn-stay/"}]}) }}
       />
         {/* Intro Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 mb-12">
@@ -195,7 +199,7 @@ export default function Page() {
 
           <div className="bg-stone-50 rounded-xl p-5 border border-stone-200 mb-6 space-y-4">
             <div>
-              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5"><span>️</span> 料理のこだわり・秋の旬会席</h5>
+              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">料理のこだわり・秋の旬会席</h5>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 鹿児島県産黒豚のしゃぶしゃぶ鍋会席、近海獲れたてキハダマグロ・キビナゴのお造り、さつま揚げ、鹿児島黒牛ステーキ
               </p>
@@ -260,7 +264,7 @@ export default function Page() {
 
           <div className="bg-stone-50 rounded-xl p-5 border border-stone-200 mb-6 space-y-4">
             <div>
-              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5"><span>️</span> 料理のこだわり・秋の旬会席</h5>
+              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">料理のこだわり・秋の旬会席</h5>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 全国料理1位の特選薩摩懐石。極上鹿児島黒毛和牛の炭火焼き、鹿児島黒豚のやわらか角煮、錦江湾直送鮮魚の姿造り、さつま郷土小鉢
               </p>
@@ -325,7 +329,7 @@ export default function Page() {
 
           <div className="bg-stone-50 rounded-xl p-5 border border-stone-200 mb-6 space-y-4">
             <div>
-              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5"><span>️</span> 料理のこだわり・秋の旬会席</h5>
+              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">料理のこだわり・秋の旬会席</h5>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 鹿児島黒豚しゃぶしゃぶ鍋御膳、きびなご天ぷら、近海カツオのタタキ、地場産さつま芋スイーツ
               </p>
@@ -376,7 +380,7 @@ export default function Page() {
           <div className="bg-amber-950/60 p-4 rounded-xl border border-amber-500/30 text-xs sm:text-sm text-amber-100 flex items-start gap-2">
             <span>ℹ️</span>
             <span>
-              <strong>ポイント還元の二重取り：</strong>楽天カード決済や「お買い物マラソン」「0と5のつく日」を併用すると、寄付額に対して高還元率で楽天ポイントも獲得でき、さらにお得になります。
+              <strong>年末駆け込み＆先々の旅行予約に対応：</strong>2026年分の寄附控除枠は12月31日まで。返礼品の宿泊クーポンは有効期限が最長3年間と長く、予約済みの宿泊に「あとから割引適用」することも可能です。
             </span>
           </div>
         </section>
@@ -506,6 +510,9 @@ export default function Page() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"世界唯一の天然砂むし温泉「指宿温泉」＆薩摩の小京都「知覧武家屋敷」紅葉・鹿児島黒豚黒牛"} url={"https://croud-travel.pages.dev/furusato-tax-ibusuki-sand-bath-autumn-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-ibusuki-sand-bath-autumn-stay" />
 </div>
   );

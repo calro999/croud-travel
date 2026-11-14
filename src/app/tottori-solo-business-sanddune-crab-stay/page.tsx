@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -13,7 +14,7 @@ export const metadata: Metadata = {
     title: '鳥取出張・ひとり旅：自家源泉かけ流し鳥取温泉・鳥取砂丘パノラマ・冬の松葉ガニ！山陰ビジネスを豊かにする厳選3宿',
     description: '山陰の東の要衝・鳥取市での出張やソロ旅に！全国でも珍しい県庁所在地中心街で自家源泉天然温泉を誇る「ホテルモナーク鳥取」、JR鳥取駅北口徒歩約1分の好立地な「鳥取ワシントンホテルプラザ」、人工温泉大浴場と機能的なモダン客室を備える「グリーンリッチホテル鳥取駅前」を楽天APIデータに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/tottori-solo-business-sanddune-crab-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -27,12 +28,12 @@ export default function ArticlePage() {
     description: '山陰の東の要衝・鳥取市での出張やソロ旅に！全国でも珍しい県庁所在地中心街で自家源泉天然温泉を誇る「ホテルモナーク鳥取」、JR鳥取駅北口徒歩約1分の好立地な「鳥取ワシントンホテルプラザ」、人工温泉大浴場と機能的なモダン客室を備える「グリーンリッチホテル鳥取駅前」を楽天APIデータに基づき徹底比較。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル ひとり旅・出張調査班',
+      name: '旅宿クラウド ひとり旅・出張調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -76,7 +77,7 @@ export default function ArticlePage() {
         <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">「鳥取出張・ひとり旅」自家源泉かけ流し鳥取温泉・鳥取砂丘パノラマ・冬の松葉ガニ！山陰ビジネスを豊かにする厳選3宿</h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.12 更新</time>
-          <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>
+          <span>執筆：旅宿クラウド ひとり旅・出張調査班</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式API提携</span>
         </div>
 
@@ -93,6 +94,9 @@ export default function ArticlePage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"鳥取出張・ひとり旅：自家源泉かけ流し鳥取温泉・鳥取砂丘パノラマ・冬の松葉ガニ！山陰ビジネスを豊かにする厳選3宿"} url={"https://croud-travel.pages.dev/tottori-solo-business-sanddune-crab-stay/"} />
+      </div>
 
       {/* 目次インデックス */}
       <section className="max-w-4xl mx-auto px-4 sm:px-6 mb-12">
@@ -464,6 +468,9 @@ export default function ArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"鳥取出張・ひとり旅：自家源泉かけ流し鳥取温泉・鳥取砂丘パノラマ・冬の松葉ガニ！山陰ビジネスを豊かにする厳選3宿"} url={"https://croud-travel.pages.dev/tottori-solo-business-sanddune-crab-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="tottori-solo-business-sanddune-crab-stay" />
 </div>
         </section>

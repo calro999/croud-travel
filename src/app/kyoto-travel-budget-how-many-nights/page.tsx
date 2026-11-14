@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -74,7 +75,7 @@ export default function KyotoNightsGuide() {
           
           <div className="flex flex-col gap-6">
             <div className="flex-1 bg-stone-100 rounded-2xl p-6 border-l-4 border-stone-400">
-              <h3 className="font-bold text-lg text-stone-800 mb-3">⏱ 1泊2日の場合</h3>
+              <h3 className="font-bold text-lg text-stone-800 mb-3">1泊2日の場合</h3>
               <p className="text-stone-700 mb-3"><strong>限界エリア：</strong> 東山エリア（清水寺・八坂神社・祇園）＋ 嵐山エリア</p>
               <p className="text-sm text-stone-600">移動時間が限られるため、東西の王道エリアに絞る必要があります。欲張ると移動ばかりで疲れてしまうので注意。</p>
             </div>
@@ -89,6 +90,9 @@ export default function KyotoNightsGuide() {
             💡 結論：初めての京都なら2泊3日、リピーターでエリア集中型なら1泊2日がおすすめ！
           </div>
         </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"京都旅行 何泊がベスト？：1泊2日 vs 2泊3日 費用・満足度・モデルコース徹底比較"} url={"https://croud-travel.pages.dev/kyoto-travel-budget-how-many-nights/"} />
+      </div>
 
         <section className="mb-12">
           <h2 className="font-journal-serif text-2xl font-bold text-teal-800 mb-6 flex items-center"><span className="w-8 h-8 rounded-full bg-teal-100 flex items-center justify-center mr-3 text-teal-700 text-sm">2</span>
@@ -471,6 +475,9 @@ export default function KyotoNightsGuide() {
             </div>
           </div></section>
 
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"京都旅行 何泊がベスト？：1泊2日 vs 2泊3日 費用・満足度・モデルコース徹底比較"} url={"https://croud-travel.pages.dev/kyoto-travel-budget-how-many-nights/"} />
+      </div>
       <HubRelatedPosts currentSlug="kyoto-travel-budget-how-many-nights" />
 </div>
   );

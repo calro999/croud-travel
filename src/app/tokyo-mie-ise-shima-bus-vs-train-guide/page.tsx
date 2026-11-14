@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -164,6 +165,9 @@ export default function HighwayBusArticlePage() {
             新幹線＋近鉄特急（名古屋乗り換え）だと東京〜伊勢市は約14,500円（往復約29,000円）。一方、バスタ新宿・大宮・横浜からの直行夜行バスなら乗り換えゼロ・片道約4,000円〜8,500円！早朝の外宮・内宮を人混みゼロで参拝できる究極のお伊勢参り。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"東京〜伊勢神宮・鳥羽：新幹線＋近鉄特急 vs 直行夜行バス徹底比較"} url={"https://croud-travel.pages.dev/tokyo-mie-ise-shima-bus-vs-train-guide/"} />
       </div>
 
       {/* 📊 交通手段・料金・所要時間の徹底比較テーブル */}
@@ -427,6 +431,9 @@ export default function HighwayBusArticlePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"東京〜伊勢神宮・鳥羽：新幹線＋近鉄特急 vs 直行夜行バス徹底比較"} url={"https://croud-travel.pages.dev/tokyo-mie-ise-shima-bus-vs-train-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="tokyo-mie-ise-shima-bus-vs-train-guide" />
 </div>
   );

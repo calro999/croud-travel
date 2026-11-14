@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月福岡・原鶴温泉の筑後川冬情緒と奇跡のW美肌の湯】博多和牛会席＆掛け流し展望露天の湯巡り宿5選',
     description: '11月から12月にかけて、福岡市内から高速で約60分、九州一の大河・筑後川のほとりに佇む「原鶴温泉（はらづるおんせん）」の魅力とおすすめ宿泊施設を詳しくご紹介します。',
     url: 'https://croud-travel.pages.dev/winter-fukuoka-harazuru-onsen-w-bihada-hakata-beef-stay/',
-    siteName: 'クラドトラベル (Croud Travel)',
+    siteName: '旅宿クラウド (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -257,6 +258,9 @@ export default function FukuokaHarazuruWinterFeature() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月福岡・原鶴温泉の筑後川冬情緒と奇跡のW美肌の湯】博多和牛会席＆掛け流し展望露天の湯巡り宿5選"} url={"https://croud-travel.pages.dev/winter-fukuoka-harazuru-onsen-w-bihada-hakata-beef-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 space-y-16">
@@ -421,7 +425,7 @@ export default function FukuokaHarazuruWinterFeature() {
                       <a
                         href={h.url}
                         target="_blank"
-                        rel="noopener noreferrer nofollow"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center justify-center gap-2 px-6 py-3.5 rounded-xl bg-violet-700 hover:bg-violet-800 text-white font-bold text-sm shadow-md shadow-violet-900/10 transition duration-200 group"
                       >
                         <span>空室・宿泊プランを確認する</span>
@@ -608,6 +612,9 @@ export default function FukuokaHarazuruWinterFeature() {
               <h3 className="text-sm font-bold group-hover:text-violet-200 transition">白濁硫黄泉の湯けむりと黒豚しゃぶしゃぶ・龍馬ゆかりの名宿</h3>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月福岡・原鶴温泉の筑後川冬情緒と奇跡のW美肌の湯】博多和牛会席＆掛け流し展望露天の湯巡り宿5選"} url={"https://croud-travel.pages.dev/winter-fukuoka-harazuru-onsen-w-bihada-hakata-beef-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-fukuoka-harazuru-onsen-w-bihada-hakata-beef-stay" />
 </div>
         </section>

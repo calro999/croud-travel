@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import Link from 'next/link';
 import Image from 'next/image';
@@ -67,6 +68,9 @@ export default function Page() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"日本のウイスキー聖地＆蒸溜所ツアーと極上オーベルジュ×ふるさと納税厳選ガイド余市・白州・富士御殿場"} url={"https://croud-travel.pages.dev/furusato-tax-japanese-whisky-distillery-retreat-stay/"} />
+      </div>
 
       {/* Main Content Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
@@ -86,7 +90,7 @@ export default function Page() {
               <span className="text-3xl">💡</span>
               <div>
                 <h3 className="text-base sm:text-lg font-bold text-amber-900 mb-1">楽天ふるさと納税「トラベルクーポン」賢い活用法</h3>
-                <p className="text-sm sm:text-base text-amber-800 leading-relaxed">寄付額の最大30%分の宿泊クーポンが付与され、寄付当日から予約に即時利用可能。通常の楽天ポイント還元やお買い物マラソンとも併用できるため、控除上限内であれば実質自己負担2,000円（寄付額の最大30%クーポン還元）で憧れの高級リゾートや名湯旅館に泊まれる最強の制度です。
+                <p className="text-sm sm:text-base text-amber-800 leading-relaxed">寄付額の最大30%分の宿泊クーポンが付与され、寄付当日から予約に即時利用可能。既に予約済みの宿にも「あとから適用」できるため、控除上限内であれば実質自己負担2,000円（寄付額の最大30%クーポン還元）で憧れの高級リゾートや名湯旅館に泊まれる最強の制度です。
                 </p>
               </div>
             </div>
@@ -645,7 +649,7 @@ export default function Page() {
             <span>楽天ふるさと納税×楽天トラベル 公式連携</span>
           </div>
           <h2 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold mb-4 leading-tight">ふるさと納税で賢くお得に、憧れの極上宿へ</h2>
-          <p className="text-slate-300 text-sm sm:text-base max-w-2xl mx-auto mb-8 leading-relaxed">返礼品の宿泊クーポンは翌年以降の旅行にも活用でき、ポイント還元もフル適用。控除上限内であれば自己負担実質2,000円で（寄付額の最大30%クーポン還元）ワンランク上の滞在をお楽しみください。
+          <p className="text-slate-300 text-sm sm:text-base max-w-2xl mx-auto mb-8 leading-relaxed">返礼品の宿泊クーポンは最長3年間有効で、年末年始や翌年以降の旅行にもフル活用可能。控除上限内であれば自己負担実質2,000円で（寄付額の最大30%クーポン還元）ワンランク上の滞在をお楽しみください。
           </p>
           <div className="flex flex-col sm:flex-row justify-center items-center gap-4 max-w-md mx-auto">
             <a
@@ -825,6 +829,9 @@ export default function Page() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"日本のウイスキー聖地＆蒸溜所ツアーと極上オーベルジュ×ふるさと納税厳選ガイド余市・白州・富士御殿場"} url={"https://croud-travel.pages.dev/furusato-tax-japanese-whisky-distillery-retreat-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-japanese-whisky-distillery-retreat-stay" />
 </div>
   );

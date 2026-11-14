@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import FurusatoStepSection from "@/app/components/FurusatoStepSection";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
@@ -96,6 +97,9 @@ export default function FurusatoLakeviewOnsenResortStayPage() {
             </Link>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"静かな湖面と雄大な自然を望む絶景レイクビュー温泉リゾート名門ホテル×ふるさと納税厳選ガイド琵琶湖・洞爺湖・箱根芦ノ湖"} url={"https://croud-travel.pages.dev/furusato-tax-lakeview-onsen-resort-hotel-stay/"} />
+      </div>
 
         {/* 3つの醍醐味セクション */}
         <section className="mb-16">
@@ -517,6 +521,9 @@ export default function FurusatoLakeviewOnsenResortStayPage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"静かな湖面と雄大な自然を望む絶景レイクビュー温泉リゾート名門ホテル×ふるさと納税厳選ガイド琵琶湖・洞爺湖・箱根芦ノ湖"} url={"https://croud-travel.pages.dev/furusato-tax-lakeview-onsen-resort-hotel-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-lakeview-onsen-resort-hotel-stay" />
 </div>
         </section>

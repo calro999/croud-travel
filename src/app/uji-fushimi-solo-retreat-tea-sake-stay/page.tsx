@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -13,7 +14,7 @@ export const metadata: Metadata = {
     title: '宇治・伏見ひとり旅・歴史おこもり：宇治川のせせらぎ・世界遺産平等院鳳凰堂・伏見酒蔵めぐり！京の奥座敷で心調律する厳選3宿',
     description: '京都駅からJR奈良線や近鉄で約15〜20分！宇治川のほとりに佇み全室リバービューの老舗料亭旅館「花やしき浮舟園」、伏見稲荷大社や伏見酒蔵巡りの拠点に最適な「アーバンホテル京都」、JR宇治駅徒歩約3分でビジネス・観光のフットワーク抜群な「宇治第一ホテル」を楽天APIデータに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/uji-fushimi-solo-retreat-tea-sake-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -27,12 +28,12 @@ export default function ArticlePage() {
     description: '京都駅からJR奈良線や近鉄で約15〜20分！宇治川のほとりに佇み全室リバービューの老舗料亭旅館「花やしき浮舟園」、伏見稲荷大社や伏見酒蔵巡りの拠点に最適な「アーバンホテル京都」、JR宇治駅徒歩約3分でビジネス・観光のフットワーク抜群な「宇治第一ホテル」を楽天APIデータに基づき徹底比較。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル ひとり旅・出張調査班',
+      name: '旅宿クラウド ひとり旅・出張調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -76,7 +77,7 @@ export default function ArticlePage() {
         <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-stone-900 leading-tight mb-4">「宇治・伏見ひとり旅・歴史おこもり」宇治川のせせらぎ・世界遺産平等院鳳凰堂・伏見酒蔵めぐり！京の奥座敷で心調律する厳選3宿</h1>
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.12 更新</time>
-          <span>執筆：クラウドトラベル ひとり旅・出張調査班</span>
+          <span>執筆：旅宿クラウド ひとり旅・出張調査班</span>
           <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式API提携</span>
         </div>
 
@@ -93,6 +94,9 @@ export default function ArticlePage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"宇治・伏見ひとり旅・歴史おこもり：宇治川のせせらぎ・世界遺産平等院鳳凰堂・伏見酒蔵めぐり！京の奥座敷で心調律する厳選3宿"} url={"https://croud-travel.pages.dev/uji-fushimi-solo-retreat-tea-sake-stay/"} />
+      </div>
 
       {/* 目次インデックス */}
       <section className="max-w-4xl mx-auto px-4 sm:px-6 mb-12">
@@ -464,6 +468,9 @@ export default function ArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"宇治・伏見ひとり旅・歴史おこもり：宇治川のせせらぎ・世界遺産平等院鳳凰堂・伏見酒蔵めぐり！京の奥座敷で心調律する厳選3宿"} url={"https://croud-travel.pages.dev/uji-fushimi-solo-retreat-tea-sake-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="uji-fushimi-solo-retreat-tea-sake-stay" />
 </div>
         </section>

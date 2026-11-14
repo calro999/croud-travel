@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
@@ -5,7 +6,7 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '養老の滝の紅葉グラデーション＆養老公園散策！飛騨牛会席の隠れ宿×ふるさと納税厳選ガイド岐阜',
   description: '11月中旬〜12月上旬に日本の滝百選の名瀑が錦秋に包まれる「岐阜・養老の滝」。養老公園のモミジのトンネル散策と、養老山麓の静寂に佇む「養老温泉 滝元館 遊季の里」「ゆせんの里 ホテルなでしこ」「クインテッサホテル大垣」で日本屈指のブランド和牛・飛騨牛ステーキや養老山麓の恵みを堪能。ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。',
-  keywords: ["養老の滝の紅葉グラデーション", "2026年最新秋旅", "岐阜", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
+  keywords: ["養老の滝の紅葉グラデーション", "2026年末・冬休み対応", "岐阜", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-yoro-falls-autumn-leaves-stay/"
   },
@@ -38,7 +39,7 @@ const HOTEL_DATA = {
   yoro_nadeshiko: {
     name: '養老温泉　ゆせんの里　ホテルなでしこ',
     no: 40515,
-    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F71966%2F71966.html',
+    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40515%2F40515.html',
     planUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40515%2F40515.html%26f_flg%3DPLAN',
     reviewUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D40515',
     img: 'https://img.travel.rakuten.co.jp/share/HOTEL/40515/40515.jpg',
@@ -53,7 +54,7 @@ const HOTEL_DATA = {
   yoro_quintessa: {
     name: 'クインテッサホテル大垣',
     no: 387,
-    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40515%2F40515.html',
+    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F387%2F387.html',
     planUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F387%2F387.html%26f_flg%3DPLAN',
     reviewUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D387',
     img: 'https://img.travel.rakuten.co.jp/share/HOTEL/387/387.jpg',
@@ -72,7 +73,7 @@ export default function FeatureArticlePage() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "養老の滝の紅葉グラデーション＆養老公園散策！飛騨牛会席の隠れ宿×ふるさと納税完全ガイド【2026年最新秋旅】岐阜",
+    "headline": "養老の滝の紅葉グラデーション＆養老公園散策！飛騨牛会席の隠れ宿×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】岐阜",
     "description": "11月中旬〜12月上旬に日本の滝百選の名瀑が錦秋に包まれる「岐阜・養老の滝」。養老公園のモミジのトンネル散策と、養老山麓の静寂に佇む「養老温泉 滝元館 遊季の里」「ゆせんの里 ホテルなでしこ」「クインテッサホテル大垣」で日本屈指のブランド和牛・飛騨牛ステーキや養老山麓の恵みを堪能。ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。",
     "url": "https://croud-travel.pages.dev/furusato-tax-yoro-falls-autumn-leaves-stay/",
     "publisher": {
@@ -86,7 +87,7 @@ export default function FeatureArticlePage() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "養老の滝の紅葉グラデーション＆養老公園散策！飛騨牛会席の隠れ宿×ふるさと納税完全ガイド【2026年最新秋旅】岐阜", "item": "https://croud-travel.pages.dev/furusato-tax-yoro-falls-autumn-leaves-stay/" }
+      { "@type": "ListItem", "position": 2, "name": "養老の滝の紅葉グラデーション＆養老公園散策！飛騨牛会席の隠れ宿×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】岐阜", "item": "https://croud-travel.pages.dev/furusato-tax-yoro-falls-autumn-leaves-stay/" }
     ]
   };
 
@@ -111,7 +112,7 @@ export default function FeatureArticlePage() {
       <header className="bg-gradient-to-br from-amber-950 via-rose-950 to-stone-900 text-white py-14 md:py-20 px-4 mb-10 shadow-lg">
         <div className="max-w-5xl mx-auto text-center">
           <div className="inline-flex items-center gap-2 bg-white/20 backdrop-blur-md px-4 py-1.5 rounded-full text-xs md:text-sm font-semibold mb-5 text-amber-200">
-            <span>🍁 10月・11月限定 秋旅特集</span>
+            <span>🍁 12/31締切 年末駆け込み＆冬休み対応</span>
             <span>•</span>
             <span>楽天ふるさと納税トラベルクーポン対応</span>
           </div>
@@ -121,6 +122,9 @@ export default function FeatureArticlePage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"養老の滝の紅葉グラデーション＆養老公園散策！飛騨牛会席の隠れ宿×ふるさと納税厳選ガイド岐阜"} url={"https://croud-travel.pages.dev/furusato-tax-yoro-falls-autumn-leaves-stay/"} />
+      </div>
 
       <div className="max-w-5xl mx-auto px-4 grid grid-cols-1 lg:grid-cols-3 gap-8">
         {/* メインコンテンツ */}
@@ -132,11 +136,11 @@ export default function FeatureArticlePage() {
               岐阜県南西部に位置する養老町は、名水と孝子伝説で名高い「養老の滝」を抱く風光明媚な地。秋には落差32mの養老の滝へ続く散策路が約3,000本のモミジやカエデで彩られ、息をのむ美しさの紅葉トンネルが出現します。養老山麓から濃尾平野の雄大な夜景を一望できる天然温泉に浸かり、全国に名を馳せる極上の霜降り「飛騨牛」のすき焼きやステーキを堪能できます。
             </p>
             <div className="bg-amber-50/80 rounded-xl p-5 border border-amber-200/80">
-              <h3 className="font-bold text-amber-950 text-sm md:text-base mb-2 flex items-center gap-2">10月〜11月の旅を満喫する3大ポイント</h3>
+              <h3 className="font-bold text-amber-950 text-sm md:text-base mb-2 flex items-center gap-2">年末〜冬休み・来春の旅を満喫する3大ポイント</h3>
               <ul className="text-xs md:text-sm text-amber-900 space-y-2 list-disc list-inside">
-                <li><strong>見頃の紅葉パノラマ：</strong>標高や日当たりで刻一刻と変化するグラデーションを鑑賞（養老の滝の紅葉グラデーション＆養老公園散策）</li>
-                <li><strong>極上の温泉と湯巡り：</strong>朝夕の冷え込む秋風の中で入る露天風呂は格別の贅沢（養老の滝の紅葉グラデーション＆養老公園散策）</li>
-                <li><strong>控除上限内なら自己負担実質2,000円（最大30%クーポン還元）：</strong>楽天ふるさと納税トラベルクーポンで賢く予約（養老の滝の紅葉グラデーション＆養老公園散策）</li>
+                <li><strong>見頃の紅葉パノラマ：</strong>標高や日当たりで刻一刻と変化するグラデーションを鑑賞</li>
+                <li><strong>極上の温泉と湯巡り：</strong>朝夕の冷え込む秋風の中で入る露天風呂は格別の贅沢</li>
+                <li><strong>控除上限内なら自己負担実質2,000円（最大30%クーポン還元）：</strong>楽天ふるさと納税トラベルクーポンで賢く予約</li>
               </ul>
             </div>
           </section>
@@ -185,7 +189,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.yoro_yuukinosato.planUrl || HOTEL_DATA.yoro_yuukinosato.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-3.5 px-6 rounded-xl text-center shadow-md transition-all text-sm md:text-base flex items-center justify-center gap-2"
               >
                 <span>プラン一覧・空室確認（楽天トラベル）</span>
@@ -194,7 +198,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.yoro_yuukinosato.reviewUrl || HOTEL_DATA.yoro_yuukinosato.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="bg-stone-100 hover:bg-stone-200 text-stone-700 font-bold py-3.5 px-5 rounded-xl text-center border border-stone-300 text-sm transition-all"
               >
                 口コミを見る
@@ -246,7 +250,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.yoro_nadeshiko.planUrl || HOTEL_DATA.yoro_nadeshiko.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-3.5 px-6 rounded-xl text-center shadow-md transition-all text-sm md:text-base flex items-center justify-center gap-2"
               >
                 <span>プラン一覧・空室確認（楽天トラベル）</span>
@@ -255,7 +259,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.yoro_nadeshiko.reviewUrl || HOTEL_DATA.yoro_nadeshiko.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="bg-stone-100 hover:bg-stone-200 text-stone-700 font-bold py-3.5 px-5 rounded-xl text-center border border-stone-300 text-sm transition-all"
               >
                 口コミを見る
@@ -307,7 +311,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.yoro_quintessa.planUrl || HOTEL_DATA.yoro_quintessa.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-3.5 px-6 rounded-xl text-center shadow-md transition-all text-sm md:text-base flex items-center justify-center gap-2"
               >
                 <span>プラン一覧・空室確認（楽天トラベル）</span>
@@ -316,7 +320,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.yoro_quintessa.reviewUrl || HOTEL_DATA.yoro_quintessa.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="bg-stone-100 hover:bg-stone-200 text-stone-700 font-bold py-3.5 px-5 rounded-xl text-center border border-stone-300 text-sm transition-all"
               >
                 口コミを見る
@@ -357,19 +361,19 @@ export default function FeatureArticlePage() {
             <h3 className="font-bold text-stone-900 mb-4 pb-2 border-b border-stone-200 flex items-center gap-2">この特集で紹介した宿</h3>
             <ul className="space-y-4 text-xs md:text-sm">
               <li>
-                <a href={HOTEL_DATA.yoro_yuukinosato.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
+                <a href={HOTEL_DATA.yoro_yuukinosato.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
                   <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.yoro_yuukinosato.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.yoro_yuukinosato.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
-                <a href={HOTEL_DATA.yoro_nadeshiko.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
+                <a href={HOTEL_DATA.yoro_nadeshiko.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
                   <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.yoro_nadeshiko.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.yoro_nadeshiko.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
-                <a href={HOTEL_DATA.yoro_quintessa.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
+                <a href={HOTEL_DATA.yoro_quintessa.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
                   <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.yoro_quintessa.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.yoro_quintessa.rating} | 楽天トラベルで詳細確認</div>
                 </a>
@@ -531,6 +535,9 @@ export default function FeatureArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"養老の滝の紅葉グラデーション＆養老公園散策！飛騨牛会席の隠れ宿×ふるさと納税厳選ガイド岐阜"} url={"https://croud-travel.pages.dev/furusato-tax-yoro-falls-autumn-leaves-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-yoro-falls-autumn-leaves-stay" />
 </div>
         </section>

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Image from 'next/image';
@@ -63,12 +64,14 @@ export default function KoyasanShukuboAutumnPage() {
             高野山を満喫するなら、一般の旅館ではなく「宿坊（しゅくぼう）」への宿泊が断然おすすめ。国の名勝に指定された日本庭園を眺めながらいただく伝統の精進料理、早朝の本堂で行われる厳かな読経（勤行）や護摩焚き祈祷の体験は、一生の思い出に残る深い安らぎを与えてくれます。
           </p>
         </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"秋の高野山：壇上伽藍の蛇腹道紅葉トンネルと奥の院！心洗われるおすすめ歴史宿坊5選「2026最新」"} url={"https://croud-travel.pages.dev/autumn-wakayama-koyasan-danjo-garan-shukubo-momiji-hotels-stay/"} />
+      </div>
 
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-amber-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！高野山の厳選歴史宿坊5選</h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">楽天トラベル高評価！高野山の厳選歴史宿坊5選</h2>
 
           <div className="space-y-8">
 
@@ -436,6 +439,9 @@ export default function KoyasanShukuboAutumnPage() {
               </div>
             </div>
           </div></section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"秋の高野山：壇上伽藍の蛇腹道紅葉トンネルと奥の院！心洗われるおすすめ歴史宿坊5選「2026最新」"} url={"https://croud-travel.pages.dev/autumn-wakayama-koyasan-danjo-garan-shukubo-momiji-hotels-stay/"} />
+      </div>
         <div className="max-w-4xl mx-auto px-4 sm:px-6">
           <HubRelatedPosts currentSlug="autumn-wakayama-koyasan-danjo-garan-shukubo-momiji-hotels-stay" />
         </div>

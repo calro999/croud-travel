@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
     title: '【11・12・1月岩手】三陸鉄道こたつ列車の冬絶景と浄土ヶ浜雪景色・名物瓶ドン＆極上三陸あわび・毛ガニを味わう海沿いの名宿5選',
     description: '11月から1月、岩手県三陸沿岸（宮古・釜石・大船渡・田野畑）は、太平洋の紺碧と雪化粧した白亜の奇岩が織りなす息を呑む絶景の季節を迎えます。',
     url: 'https://croud-travel.pages.dev/winter-iwate-sanriku-kotatsu-train-kaisen-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     images: [
       {
         url: 'https://img.travel.rakuten.co.jp/share/HOTEL/64789/64789.jpg',
@@ -48,7 +49,7 @@ export default function IwateSanrikuKotatsuTrainPage() {
         "isPartOf": {
           "@type": "WebSite",
           "@id": "https://croud-travel.pages.dev/#website",
-          "name": "クラドトラベル",
+          "name": "旅宿クラウド",
           "url": "https://croud-travel.pages.dev"
         },
         "headline": "【11・12・1月岩手】三陸鉄道こたつ列車の冬絶景と浄土ヶ浜雪景色・名物瓶ドン＆極上三陸あわび・毛ガニを味わう海沿いの名宿5選",
@@ -58,11 +59,11 @@ export default function IwateSanrikuKotatsuTrainPage() {
         "dateModified": "2026-10-18T00:00:00+09:00",
         "author": {
           "@type": "Organization",
-          "name": "クラドトラベル編集部"
+          "name": "旅宿クラウド編集部"
         },
         "publisher": {
           "@type": "Organization",
-          "name": "クラドトラベル",
+          "name": "旅宿クラウド",
           "url": "https://croud-travel.pages.dev",
           "logo": {
             "@type": "ImageObject",
@@ -257,6 +258,9 @@ export default function IwateSanrikuKotatsuTrainPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月岩手】三陸鉄道こたつ列車の冬絶景と浄土ヶ浜雪景色・名物瓶ドン＆極上三陸あわび・毛ガニを味わう海沿いの名宿5選"} url={"https://croud-travel.pages.dev/winter-iwate-sanriku-kotatsu-train-kaisen-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 mt-10 space-y-12">
@@ -363,7 +367,7 @@ export default function IwateSanrikuKotatsuTrainPage() {
                       <a 
                         href={h.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-1.5 bg-cyan-600 hover:bg-cyan-700 text-white font-bold text-xs px-4 py-2 rounded-xl shadow-xs transition"
                       >
                         楽天トラベルで空室・プランを見る
@@ -556,6 +560,9 @@ export default function IwateSanrikuKotatsuTrainPage() {
               <p className="font-bold text-stone-800 line-clamp-2">津軽海峡冬の荒波と大間本マグロ・幻のアンコウ鍋を堪能する秘湯</p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月岩手】三陸鉄道こたつ列車の冬絶景と浄土ヶ浜雪景色・名物瓶ドン＆極上三陸あわび・毛ガニを味わう海沿いの名宿5選"} url={"https://croud-travel.pages.dev/winter-iwate-sanriku-kotatsu-train-kaisen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-iwate-sanriku-kotatsu-train-kaisen-stay" />
 </div>
         </section>

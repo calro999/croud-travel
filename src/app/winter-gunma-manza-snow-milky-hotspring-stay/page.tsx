@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             標高1800mの雲上に位置する「星に一番近い温泉・万座温泉」！日本一の硫黄含有量を誇る乳白色のにごり湯露天風呂から、一面の白銀世界と満天の星空を眺める、これぞ本物の冬の雪見温泉体験。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【12月標高1800mの白銀世界！万座温泉にごり湯】日本一の濃厚硫黄泉と雪見絶景宿5選"} url={"https://croud-travel.pages.dev/winter-gunma-manza-snow-milky-hotspring-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -517,6 +521,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【12月標高1800mの白銀世界！万座温泉にごり湯】日本一の濃厚硫黄泉と雪見絶景宿5選"} url={"https://croud-travel.pages.dev/winter-gunma-manza-snow-milky-hotspring-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-gunma-manza-snow-milky-hotspring-stay" />
 </div>
         </section>

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             神戸から明石海峡大橋を渡ってすぐのアイランドリゾート「淡路島」。四季の花々が海に向かって咲き誇る「あわじ花さじき」。紀淡海峡を望む老舗名湯「洲本温泉」。甘みたっぷりの淡路島玉ねぎと極上の淡路牛ステーキを堪能する旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"兵庫・淡路島北部＆洲本温泉：明石海峡大橋・花さじき＆淡路牛・玉ねぎ宿 厳選ガイド"} url={"https://croud-travel.pages.dev/hyogo-awaji-north-sumoto-onsen-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"兵庫・淡路島北部＆洲本温泉：明石海峡大橋・花さじき＆淡路牛・玉ねぎ宿 厳選ガイド"} url={"https://croud-travel.pages.dev/hyogo-awaji-north-sumoto-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="hyogo-awaji-north-sumoto-onsen-stay" />
 </div>
   );

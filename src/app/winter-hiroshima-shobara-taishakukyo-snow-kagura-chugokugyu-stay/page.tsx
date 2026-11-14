@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Image from 'next/image';
@@ -110,6 +111,9 @@ export default function Page() {
             神龍湖は渓谷の岩を堰き止めてできた人造湖で、冬の澄んだ空気の中では湖面がガラスのように静まり、両岸の断崖と白雪が鏡映しになる。観光船は冬季運休になることが多いが、岸辺から眺める景色だけでも十分に価値がある。
           </p>
         </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"冬の帝釈峡・庄原厳選ガイド"} url={"https://croud-travel.pages.dev/winter-hiroshima-shobara-taishakukyo-snow-kagura-chugokugyu-stay/"} />
+      </div>
 
         <section className="mb-10">
           <h2 className="text-xl font-bold mb-4 border-l-4 border-green-600 pl-3">広島神楽——神話を纏う荘厳な奉納芸能</h2>
@@ -139,7 +143,7 @@ export default function Page() {
           <div className="space-y-8">
             
             <div className="border rounded-lg overflow-hidden shadow-sm">
-              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F50714%2F50714.html" target="_blank" rel="noopener noreferrer sponsored">
+              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F50714%2F50714.html" target="_blank" rel="sponsored noopener noreferrer">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/50714/50714.jpg"
                   alt="休暇村 帝釈峡の外観"
@@ -150,7 +154,7 @@ export default function Page() {
                 />
               </a>
               <div className="p-4">
-                <h3 className="text-lg font-bold mb-1"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F50714%2F50714.html" target="_blank" rel="noopener noreferrer sponsored" className="hover:underline text-blue-700">
+                <h3 className="text-lg font-bold mb-1"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F50714%2F50714.html" target="_blank" rel="sponsored noopener noreferrer" className="hover:underline text-blue-700">
                     休暇村 帝釈峡
                   </a></h3>
                 <p className="text-sm text-gray-500 mb-2">📍 庄原市東城町三坂962-1 ｜ 最寄り：備後落合駅 ｜ ⭐ 4.19 ｜ 1泊〜¥10,000〜</p>
@@ -158,7 +162,7 @@ export default function Page() {
                 <a
                   href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F50714%2F50714.html"
                   target="_blank"
-                  rel="noopener noreferrer sponsored"
+                  rel="sponsored noopener noreferrer"
                   className="inline-block bg-red-500 hover:bg-red-600 text-white text-sm font-bold py-2 px-5 rounded"
                 >
                   楽天トラベルで空室を確認
@@ -166,7 +170,7 @@ export default function Page() {
               </div>
             </div>
             <div className="border rounded-lg overflow-hidden shadow-sm">
-              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183874%2F183874.html" target="_blank" rel="noopener noreferrer sponsored">
+              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183874%2F183874.html" target="_blank" rel="sponsored noopener noreferrer">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/183874/183874.jpg"
                   alt="桜花の郷 ラ・フォーレ庄原の外観"
@@ -177,7 +181,7 @@ export default function Page() {
                 />
               </a>
               <div className="p-4">
-                <h3 className="text-lg font-bold mb-1"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183874%2F183874.html" target="_blank" rel="noopener noreferrer sponsored" className="hover:underline text-blue-700">
+                <h3 className="text-lg font-bold mb-1"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183874%2F183874.html" target="_blank" rel="sponsored noopener noreferrer" className="hover:underline text-blue-700">
                     桜花の郷 ラ・フォーレ庄原
                   </a></h3>
                 <p className="text-sm text-gray-500 mb-2">📍 庄原市新庄町5281-1 ｜ 最寄り：備後庄原駅 ｜ ⭐ 4.31 ｜ 1泊〜¥7,800〜</p>
@@ -185,7 +189,7 @@ export default function Page() {
                 <a
                   href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183874%2F183874.html"
                   target="_blank"
-                  rel="noopener noreferrer sponsored"
+                  rel="sponsored noopener noreferrer"
                   className="inline-block bg-red-500 hover:bg-red-600 text-white text-sm font-bold py-2 px-5 rounded"
                 >
                   楽天トラベルで空室を確認
@@ -193,7 +197,7 @@ export default function Page() {
               </div>
             </div>
             <div className="border rounded-lg overflow-hidden shadow-sm">
-              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38563%2F38563.html" target="_blank" rel="noopener noreferrer sponsored">
+              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38563%2F38563.html" target="_blank" rel="sponsored noopener noreferrer">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/38563/38563.jpg"
                   alt="備長炭の湯 ホテルクラウンヒルズ三次の外観"
@@ -204,7 +208,7 @@ export default function Page() {
                 />
               </a>
               <div className="p-4">
-                <h3 className="text-lg font-bold mb-1"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38563%2F38563.html" target="_blank" rel="noopener noreferrer sponsored" className="hover:underline text-blue-700">
+                <h3 className="text-lg font-bold mb-1"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38563%2F38563.html" target="_blank" rel="sponsored noopener noreferrer" className="hover:underline text-blue-700">
                     備長炭の湯 ホテルクラウンヒルズ三次
                   </a></h3>
                 <p className="text-sm text-gray-500 mb-2">📍 三次市十日市東6-13-25 ｜ 最寄り：三次駅 ｜ ⭐ 3.89 ｜ 1泊〜¥3,700〜</p>
@@ -212,7 +216,7 @@ export default function Page() {
                 <a
                   href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38563%2F38563.html"
                   target="_blank"
-                  rel="noopener noreferrer sponsored"
+                  rel="sponsored noopener noreferrer"
                   className="inline-block bg-red-500 hover:bg-red-600 text-white text-sm font-bold py-2 px-5 rounded"
                 >
                   楽天トラベルで空室を確認
@@ -220,7 +224,7 @@ export default function Page() {
               </div>
             </div>
             <div className="border rounded-lg overflow-hidden shadow-sm">
-              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F187288%2F187288.html" target="_blank" rel="noopener noreferrer sponsored">
+              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F187288%2F187288.html" target="_blank" rel="sponsored noopener noreferrer">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/187288/187288.jpg"
                   alt="ホテルルートイン三次駅前の外観"
@@ -231,7 +235,7 @@ export default function Page() {
                 />
               </a>
               <div className="p-4">
-                <h3 className="text-lg font-bold mb-1"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F187288%2F187288.html" target="_blank" rel="noopener noreferrer sponsored" className="hover:underline text-blue-700">
+                <h3 className="text-lg font-bold mb-1"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F187288%2F187288.html" target="_blank" rel="sponsored noopener noreferrer" className="hover:underline text-blue-700">
                     ホテルルートイン三次駅前
                   </a></h3>
                 <p className="text-sm text-gray-500 mb-2">📍 三次市十日市南1-5-5 ｜ 最寄り：三次駅 ｜ ⭐ 4.35 ｜ 1泊〜¥6,650〜</p>
@@ -239,7 +243,7 @@ export default function Page() {
                 <a
                   href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F187288%2F187288.html"
                   target="_blank"
-                  rel="noopener noreferrer sponsored"
+                  rel="sponsored noopener noreferrer"
                   className="inline-block bg-red-500 hover:bg-red-600 text-white text-sm font-bold py-2 px-5 rounded"
                 >
                   楽天トラベルで空室を確認
@@ -247,7 +251,7 @@ export default function Page() {
               </div>
             </div>
             <div className="border rounded-lg overflow-hidden shadow-sm">
-              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F15881%2F15881.html" target="_blank" rel="noopener noreferrer sponsored">
+              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F15881%2F15881.html" target="_blank" rel="sponsored noopener noreferrer">
                 <Image
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/15881/15881.jpg"
                   alt="ホテルアルファーワン三次の外観"
@@ -258,7 +262,7 @@ export default function Page() {
                 />
               </a>
               <div className="p-4">
-                <h3 className="text-lg font-bold mb-1"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F15881%2F15881.html" target="_blank" rel="noopener noreferrer sponsored" className="hover:underline text-blue-700">
+                <h3 className="text-lg font-bold mb-1"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F15881%2F15881.html" target="_blank" rel="sponsored noopener noreferrer" className="hover:underline text-blue-700">
                     ホテルアルファーワン三次
                   </a></h3>
                 <p className="text-sm text-gray-500 mb-2">📍 三次市十日市西1-4-22 ｜ 最寄り：三次駅 ｜ ⭐ 4.03 ｜ 1泊〜¥5,600〜</p>
@@ -266,7 +270,7 @@ export default function Page() {
                 <a
                   href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F15881%2F15881.html"
                   target="_blank"
-                  rel="noopener noreferrer sponsored"
+                  rel="sponsored noopener noreferrer"
                   className="inline-block bg-red-500 hover:bg-red-600 text-white text-sm font-bold py-2 px-5 rounded"
                 >
                   楽天トラベルで空室を確認
@@ -296,6 +300,9 @@ export default function Page() {
               </details>
             ))}
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"冬の帝釈峡・庄原厳選ガイド"} url={"https://croud-travel.pages.dev/winter-hiroshima-shobara-taishakukyo-snow-kagura-chugokugyu-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-hiroshima-shobara-taishakukyo-snow-kagura-chugokugyu-stay" />
 </div>
         </section>

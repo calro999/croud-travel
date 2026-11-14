@@ -344,7 +344,7 @@ export default async function SpotDetailPage({ params }: { params: Promise<{ spo
             <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-3 py-0.5 rounded-full uppercase tracking-widest inline-block">
               COMBINED SIGHTSEEING
             </span>
-            <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2"><span>️</span> <span>【{spot.name}】と一緒に巡る！周辺のおすすめ観光名所</span></h2>
+            <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2"><span></span><span>【{spot.name}】と一緒に巡る！周辺のおすすめ観光名所</span></h2>
             <p className="text-xs text-emerald-950/70 leading-relaxed font-medium">
               「{spot.name}」のすぐ近くにある人気の観光スポット。徒歩や車でスムーズに回れるおすすめルートです。
             </p>

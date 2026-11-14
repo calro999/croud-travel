@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
     title: '【11・12月津軽西海岸】冬旬「鰺ヶ沢ヒラメ」＆深浦マグロ・太古の化石海水温まり湯と黄金崎不老ふ死温泉を巡る名宿5選',
     description: '11月から12月の初冬、世界自然遺産・白神山地から吹き降ろす寒風と日本海の荒波が打ち寄せる青森県津軽西海岸（鰺ヶ沢町・深浦町）の魅力とおすすめ宿泊施設を詳しくご紹介します。',
     url: 'https://croud-travel.pages.dev/winter-aomori-ajigasawa-fukaura-onsen-hirame-maguro-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -48,7 +49,7 @@ export default function AomoriAjigasawaFukauraWinterPage() {
         "isPartOf": {
           "@type": "WebSite",
           "@id": "https://croud-travel.pages.dev/#website",
-          "name": "クラドトラベル",
+          "name": "旅宿クラウド",
           "url": "https://croud-travel.pages.dev/"
         },
         "headline": "【11・12月津軽西海岸】冬旬「鰺ヶ沢ヒラメ」＆深浦マグロ・太古の化石海水温まり湯と黄金崎不老ふ死温泉を巡る名宿5選",
@@ -59,7 +60,7 @@ export default function AomoriAjigasawaFukauraWinterPage() {
         "mainEntityOfPage": "https://croud-travel.pages.dev/winter-aomori-ajigasawa-fukaura-onsen-hirame-maguro-stay/",
         "publisher": {
           "@type": "Organization",
-          "name": "クラドトラベル編集部",
+          "name": "旅宿クラウド編集部",
           "url": "https://croud-travel.pages.dev/"
         }
       },
@@ -374,6 +375,9 @@ export default function AomoriAjigasawaFukauraWinterPage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月津軽西海岸】冬旬「鰺ヶ沢ヒラメ」＆深浦マグロ・太古の化石海水温まり湯と黄金崎不老ふ死温泉を巡る名宿5選"} url={"https://croud-travel.pages.dev/winter-aomori-ajigasawa-fukaura-onsen-hirame-maguro-stay/"} />
+      </div>
 
       {/* Main Content Container */}
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-12">
@@ -491,7 +495,7 @@ export default function AomoriAjigasawaFukauraWinterPage() {
                       <a 
                         href={hotel.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl bg-gradient-to-r from-teal-700 to-emerald-800 text-white font-bold text-xs sm:text-sm hover:from-teal-800 hover:to-emerald-900 transition-all shadow-xs hover:shadow-md"
                       >
                         楽天トラベルでプラン詳細を見る
@@ -680,6 +684,9 @@ export default function AomoriAjigasawaFukauraWinterPage() {
               <p className="font-bold text-stone-800 line-clamp-2">真冬の日本海絶景と名物石焼料理・なまはげ伝説が息づく温泉名宿</p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月津軽西海岸】冬旬「鰺ヶ沢ヒラメ」＆深浦マグロ・太古の化石海水温まり湯と黄金崎不老ふ死温泉を巡る名宿5選"} url={"https://croud-travel.pages.dev/winter-aomori-ajigasawa-fukaura-onsen-hirame-maguro-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-aomori-ajigasawa-fukaura-onsen-hirame-maguro-stay" />
 </div>
         </section>

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -212,6 +213,9 @@ export default function HakoneRainyDayIndoorCoursePage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"箱根 雨の日の観光モデルコース：ポーラ美術館・ガラスの森・彫刻の森室内＆早めチェックイン温泉おこもり旅"} url={"https://croud-travel.pages.dev/hakone-rainy-day-indoor-model-course/"} />
+      </div>
 
       {/* 楽天トラベルスペシャルクーポンバナー */}
       <section className="max-w-4xl mx-auto px-4 sm:px-6 -mt-8 relative z-20">
@@ -638,6 +642,9 @@ export default function HakoneRainyDayIndoorCoursePage() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"箱根 雨の日の観光モデルコース：ポーラ美術館・ガラスの森・彫刻の森室内＆早めチェックイン温泉おこもり旅"} url={"https://croud-travel.pages.dev/hakone-rainy-day-indoor-model-course/"} />
+      </div>
       <HubRelatedPosts currentSlug="hakone-rainy-day-indoor-model-course" />
 </div>
   );

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             ガス灯が水面に揺らめくレトロな小樽運河と、冷涼な気候と清流が育むウイスキーの故郷・余市。明治・大正期に北のウォール街として栄えた重厚な石造り建築やガラス工房、そして日本海で揚がるウニ・イクラ・ニシンなど極上海の幸を味わう特別な北海道ステイへご案内します。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"北海道・小樽＆余市：小樽運河・ニッカウヰスキー蒸溜所＆寿司海鮮丼宿 厳選ガイド"} url={"https://croud-travel.pages.dev/hokkaido-otaru-yoichi-canal-distillery-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -237,6 +241,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"北海道・小樽＆余市：小樽運河・ニッカウヰスキー蒸溜所＆寿司海鮮丼宿 厳選ガイド"} url={"https://croud-travel.pages.dev/hokkaido-otaru-yoichi-canal-distillery-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="hokkaido-otaru-yoichi-canal-distillery-stay" />
 </div>
   );

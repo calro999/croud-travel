@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             透明度抜群の海で楽しむスタンドアップパドルボード（SUP）体験！海上に立って海上散歩を楽しんだ後は、水平線と一体になるインフィニティ露天風呂と獲れたて海の幸ディナーを満喫する爽快リゾート旅。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"絶景SUP＆マリンリゾート：海を一望するインフィニティ温泉とオーシャンフロント宿5選"} url={"https://croud-travel.pages.dev/super-panoramic-coastal-sup-surfing-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"絶景SUP＆マリンリゾート：海を一望するインフィニティ温泉とオーシャンフロント宿5選"} url={"https://croud-travel.pages.dev/super-panoramic-coastal-sup-surfing-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="super-panoramic-coastal-sup-surfing-stay" />
 </div>
         </section>

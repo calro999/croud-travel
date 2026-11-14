@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -309,6 +310,9 @@ export default function MinakamiOnsenWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月みなかみ温泉郷の冬名湯と谷川岳雪見風呂】利根川渓谷露天と谷川岳初冠雪・極上上州牛＆旬きのこ会席の宿5選"} url={"https://croud-travel.pages.dev/winter-gunma-minakami-onsen-tanigawa-yukimi-stay/"} />
+      </div>
 
       {/* Main Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
@@ -479,7 +483,7 @@ export default function MinakamiOnsenWinterPage() {
                 <div className="p-6 sm:p-8 w-full flex flex-col justify-between space-y-5">
                   <div className="space-y-3">
                     <div className="space-y-1">
-                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-teal-800 transition"><a href={hotel.url} target="_blank" rel="noopener noreferrer">
+                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-teal-800 transition"><a href={hotel.url} target="_blank" rel="sponsored noopener noreferrer">
                           {hotel.name}
                         </a></h3>
                       <p className="text-xs text-slate-500 flex items-center gap-1.5">
@@ -520,7 +524,7 @@ export default function MinakamiOnsenWinterPage() {
                     <a
                       href={hotel.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl bg-teal-900 hover:bg-teal-800 text-white text-xs sm:text-sm font-bold shadow transition group w-full sm:w-auto justify-center"
                     >
                       <span>空室・宿泊プランを確認</span>
@@ -702,6 +706,9 @@ export default function MinakamiOnsenWinterPage() {
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">全国の厳選温泉・宿特集まとめを見る</h3>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月みなかみ温泉郷の冬名湯と谷川岳雪見風呂】利根川渓谷露天と谷川岳初冠雪・極上上州牛＆旬きのこ会席の宿5選"} url={"https://croud-travel.pages.dev/winter-gunma-minakami-onsen-tanigawa-yukimi-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-gunma-minakami-onsen-tanigawa-yukimi-stay" />
 </div>
         </section>

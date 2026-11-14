@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -12,7 +13,7 @@ export const metadata: Metadata = {
     title: "【10月・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入湯手形めぐりおこもり】雑木林の秘湯露天・囲炉裏会席・肥後牛炭火焼き！阿蘇山麓リトリート厳選3宿",
     description: '10月下旬〜11月中旬は阿蘇山麓が秋色に染まるベストシーズン！「街全体が一つの宿」として風情を守り続ける熊本・黒川温泉。原生林に佇み三千坪の敷地に薬師の湯を湛える最高峰の隠れ家「旅館 山河」、温泉街の中心で立ち寄り湯も人気の「旅館 美里」、あたたかな木造の温もりと絶品料理の「旅館 壱の井」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/kumamoto-kurokawa-autumn-solo-retreat-onsen-hopping-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -26,12 +27,12 @@ export default function ArticlePage() {
     description: '10月下旬〜11月中旬は阿蘇山麓が秋色に染まるベストシーズン！「街全体が一つの宿」として風情を守り続ける熊本・黒川温泉。原生林に佇み三千坪の敷地に薬師の湯を湛える最高峰の隠れ家「旅館 山河」、温泉街の中心で立ち寄り湯も人気の「旅館 美里」、あたたかな木造の温もりと絶品料理の「旅館 壱の井」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル ひとり旅・出張調査班',
+      name: '旅宿クラウド ひとり旅・出張調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -91,6 +92,9 @@ export default function ArticlePage() {
             </p>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【10月・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入湯手形めぐりおこもり】雑木林の秘湯露天・囲炉裏会席・肥後牛炭火焼き！阿蘇山麓リトリート厳選3宿"} url={"https://croud-travel.pages.dev/kumamoto-kurokawa-autumn-solo-retreat-onsen-hopping-stay/"} />
+      </div>
 
         {/* 目次 */}
         <section className="bg-white p-5 rounded-2xl border border-stone-200 shadow-sm mb-10">
@@ -149,7 +153,7 @@ export default function ArticlePage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67258%2F67258.html"
                 target="_blank"
-                rel="noopener noreferrer sponsored"
+                rel="sponsored noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-amber-700 hover:bg-amber-800 text-white text-xs sm:text-sm font-bold px-5 py-2.5 rounded-lg shadow-sm hover:shadow transition"
               >
                 <span>空室状況・最新料金を確認</span>
@@ -204,7 +208,7 @@ export default function ArticlePage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F163005%2F163005.html"
                 target="_blank"
-                rel="noopener noreferrer sponsored"
+                rel="sponsored noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-amber-700 hover:bg-amber-800 text-white text-xs sm:text-sm font-bold px-5 py-2.5 rounded-lg shadow-sm hover:shadow transition"
               >
                 <span>空室状況・最新料金を確認</span>
@@ -258,7 +262,7 @@ export default function ArticlePage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F138061%2F138061.html"
                 target="_blank"
-                rel="noopener noreferrer sponsored"
+                rel="sponsored noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-amber-700 hover:bg-amber-800 text-white text-xs sm:text-sm font-bold px-5 py-2.5 rounded-lg shadow-sm hover:shadow transition"
               >
                 <span>空室状況・最新料金を確認</span>
@@ -318,7 +322,7 @@ export default function ArticlePage() {
           <a
             href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67258%2F67258.html"
             target="_blank"
-            rel="noopener noreferrer sponsored"
+            rel="sponsored noopener noreferrer"
             className="inline-block bg-amber-600 hover:bg-amber-500 text-white text-sm font-bold px-8 py-3.5 rounded-xl shadow-lg transition"
           >
             一番人気の宿をチェックする（楽天トラベル）
@@ -544,6 +548,9 @@ export default function ArticlePage() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【10月・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入湯手形めぐりおこもり】雑木林の秘湯露天・囲炉裏会席・肥後牛炭火焼き！阿蘇山麓リトリート厳選3宿"} url={"https://croud-travel.pages.dev/kumamoto-kurokawa-autumn-solo-retreat-onsen-hopping-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="kumamoto-kurokawa-autumn-solo-retreat-onsen-hopping-stay" />
 </div>
   );

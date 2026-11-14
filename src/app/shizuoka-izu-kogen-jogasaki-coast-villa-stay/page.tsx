@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             相模湾の紺碧の海と、大室山の噴火が生んだダイナミックな溶岩海岸「城ヶ崎」。高さ23mのスリルあふれる門脇吊橋、リフトで登る大室山山頂のお鉢巡り、高原の別荘地に点在する隠れ家オーベルジュやプライベート露天風呂ヴィラ。洗練された大人の休日を叶える伊豆高原ステイへご案内します。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"静岡・伊豆高原＆城ヶ崎：城ヶ崎門脇吊橋・大室山＆露天風呂ヴィラ宿 厳選ガイド"} url={"https://croud-travel.pages.dev/shizuoka-izu-kogen-jogasaki-coast-villa-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -460,6 +464,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"静岡・伊豆高原＆城ヶ崎：城ヶ崎門脇吊橋・大室山＆露天風呂ヴィラ宿 厳選ガイド"} url={"https://croud-travel.pages.dev/shizuoka-izu-kogen-jogasaki-coast-villa-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="shizuoka-izu-kogen-jogasaki-coast-villa-stay" />
 </div>
   );

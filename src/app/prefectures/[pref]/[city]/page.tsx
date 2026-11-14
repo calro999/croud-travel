@@ -421,8 +421,7 @@ export default async function CityDetailPage({ params }: { params: Promise<{ pre
         <div className="space-y-4">
           {cityFaqItems.map((faq, idx) => (
             <div key={idx} className="p-4 rounded-xl bg-teal-50/40 border border-teal-900/10 space-y-2">
-              <h3 className="text-sm font-bold text-teal-950 flex items-start gap-2"><span className="text-teal-800 font-extrabold">Q.</span>
-                <span>{faq.q}</span></h3>
+              <h3 className="text-sm font-bold text-teal-950 flex items-start gap-2"><span className="text-teal-800 font-extrabold">Q.</span><span>{faq.q}</span></h3>
               <p className="text-xs text-emerald-950/80 leading-relaxed pl-6">
                 {faq.a}
               </p>
@@ -494,7 +493,7 @@ export default async function CityDetailPage({ params }: { params: Promise<{ pre
       {/* 🧭 隣接・同都道府県の他市町村サブハブ（網目構造リンク） */}
       {siblingCities.length > 0 && (
         <section className="bg-teal-50/50 border border-teal-900/10 rounded-3xl p-6 md:p-8 space-y-4">
-          <h3 className="text-sm font-extrabold text-teal-950 flex items-center gap-2"><span>️</span> <span>{cityInfo.prefName}の他のおすすめ市町村エリアを探す</span></h3>
+          <h3 className="text-sm font-extrabold text-teal-950 flex items-center gap-2"><span></span><span>{cityInfo.prefName}の他のおすすめ市町村エリアを探す</span></h3>
           <div className="flex flex-wrap gap-2">
             {siblingCities.map((sibling) => (
               <Link

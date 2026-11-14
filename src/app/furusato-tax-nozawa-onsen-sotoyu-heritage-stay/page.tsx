@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -14,7 +15,7 @@ export const metadata: Metadata = {
     title: '野沢温泉をふるさと納税でお得に旅する！十三の外湯めぐり＆源泉麻釜！信州郷土料理の名宿特集｜旅館さかや・河一屋旅館・住吉屋',
     description: '日本屈指の温泉情緒とスキーリゾート・長野県野沢温泉を楽天ふるさと納税でお得に贅沢旅！創業百余年・宮大工造りの湯屋建築を誇る「旅館 さかや」、名湯真湯の白濁露天と信州牛の「河一屋旅館」、麻釜隣接の老舗「村のホテル 住吉屋」を徹底比較。十三外湯めぐりや野沢菜料理、野沢温泉村トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-nozawa-onsen-sotoyu-heritage-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -28,12 +29,12 @@ export default function FurusatoArticlePage() {
     description: '日本屈指の温泉情緒とスキーリゾート・長野県野沢温泉を楽天ふるさと納税でお得に贅沢旅！創業百余年・宮大工造りの湯屋建築を誇る「旅館 さかや」、名湯真湯の白濁露天と信州牛の「河一屋旅館」、麻釜隣接の老舗「村のホテル 住吉屋」を徹底比較。十三外湯めぐりや野沢菜料理、野沢温泉村トラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル 観光・ふるさと納税調査班',
+      name: '旅宿クラウド 観光・ふるさと納税調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -80,6 +81,9 @@ export default function FurusatoArticlePage() {
           日本屈指の温泉情緒とスキーリゾート・長野県野沢温泉を楽天ふるさと納税でお得に贅沢旅！創業百余年・宮大工造りの湯屋建築を誇る「旅館 さかや」、名湯真湯の白濁露天と信州牛の「河一屋旅館」、麻釜隣接の老舗「村のホテル 住吉屋」を徹底比較。十三外湯めぐりや野沢菜料理、野沢温泉村トラベルクーポン活用術を網羅。
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"野沢温泉をふるさと納税でお得に旅する！十三の外湯めぐり＆源泉麻釜！信州郷土料理の名宿特集"} url={"https://croud-travel.pages.dev/furusato-tax-nozawa-onsen-sotoyu-heritage-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
@@ -360,7 +364,7 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 野沢温泉街・外湯めぐり＆麻釜（おがま）観光ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">野沢温泉街・外湯めぐり＆麻釜（おがま）観光ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
@@ -586,6 +590,9 @@ export default function FurusatoArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"野沢温泉をふるさと納税でお得に旅する！十三の外湯めぐり＆源泉麻釜！信州郷土料理の名宿特集"} url={"https://croud-travel.pages.dev/furusato-tax-nozawa-onsen-sotoyu-heritage-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-nozawa-onsen-sotoyu-heritage-stay" />
 </div>
         </section>

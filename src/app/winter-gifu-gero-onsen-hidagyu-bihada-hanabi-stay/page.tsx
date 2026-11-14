@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月岐阜・下呂温泉の日本三名泉と冬花火物語】名物飛騨牛すき焼き＆朴葉味噌・極上の美肌ぬめり湯を堪能する老舗名宿5選',
     description: '11月から12月にかけて、室町時代の儒学者・万里集九や江戸時代の儒学者・林羅山によって有馬・草津と並ぶ「日本三名泉」に称えられた岐阜県の下呂。',
     url: 'https://croud-travel.pages.dev/winter-gifu-gero-onsen-hidagyu-bihada-hanabi-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -170,7 +171,7 @@ export default function WinterGifuGeroOnsenPage() {
         'isPartOf': {
           '@type': 'WebSite',
           '@id': 'https://croud-travel.pages.dev/#website',
-          'name': 'クラドトラベル',
+          'name': '旅宿クラウド',
           'url': 'https://croud-travel.pages.dev/'
         },
         'headline': "【11・12月岐阜・下呂温泉の日本三名泉と冬花火物語】名物飛騨牛すき焼き＆朴葉味噌・極上の美肌ぬめり湯を堪能する老舗名宿5選",
@@ -181,7 +182,7 @@ export default function WinterGifuGeroOnsenPage() {
         'dateModified': '2026-10-25T00:00:00+09:00',
         'publisher': {
           '@type': 'Organization',
-          'name': 'クラドトラベル編集部',
+          'name': '旅宿クラウド編集部',
           'url': 'https://croud-travel.pages.dev/'
         }
       },
@@ -273,6 +274,9 @@ export default function WinterGifuGeroOnsenPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月岐阜・下呂温泉の日本三名泉と冬花火物語】名物飛騨牛すき焼き＆朴葉味噌・極上の美肌ぬめり湯を堪能する老舗名宿5選"} url={"https://croud-travel.pages.dev/winter-gifu-gero-onsen-hidagyu-bihada-hanabi-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
@@ -410,7 +414,7 @@ export default function WinterGifuGeroOnsenPage() {
                       <a 
                         href={hotel.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="w-full sm:w-auto inline-flex items-center justify-center gap-2 bg-gradient-to-r from-amber-700 to-stone-900 hover:from-amber-800 hover:to-black text-white px-6 py-3 rounded-xl text-xs sm:text-sm font-bold shadow-xs hover:shadow transition duration-200"
                       >
                         <span>楽天トラベルで宿泊プランを見る</span>
@@ -584,6 +588,9 @@ export default function WinterGifuGeroOnsenPage() {
               </p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月岐阜・下呂温泉の日本三名泉と冬花火物語】名物飛騨牛すき焼き＆朴葉味噌・極上の美肌ぬめり湯を堪能する老舗名宿5選"} url={"https://croud-travel.pages.dev/winter-gifu-gero-onsen-hidagyu-bihada-hanabi-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-gifu-gero-onsen-hidagyu-bihada-hanabi-stay" />
 </div>
         </section>

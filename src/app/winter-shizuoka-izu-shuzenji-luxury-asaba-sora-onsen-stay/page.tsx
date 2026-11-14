@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
@@ -111,6 +112,9 @@ export default function Page() {
             </p>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【竹林の小径の静寂と数寄屋露天離れ】2026-2027年11-1月冬の静岡・伊豆修善寺温泉！「柳生の庄」＆「宙 SORA 渡月荘金龍」・天城軍鶏と伊豆伊勢海老・名門美食宿5選"} url={"https://croud-travel.pages.dev/winter-shizuoka-izu-shuzenji-luxury-asaba-sora-onsen-stay/"} />
+      </div>
 
         <div className="max-w-4xl mx-auto px-4 mt-10 space-y-12">
           {/* 導入部 */}
@@ -225,8 +229,7 @@ export default function Page() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント</h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>広大な竹林の中にひっそりと佇む数寄屋造りの名門料亭旅館。竹林を渡る風の音と鳥のさえずりだけが響く静寂の別天地です。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>客室ごとに趣が異なる数寄屋建築と専用露天風呂。職人の技が息づく木の温もりに包まれ、心洗われる休日を過ごせます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>東京・芝白金の料亭をルーツに持つ本格京風懐石。伊豆の旬の海の幸、天城軍鶏、旬野菜を一皿ひと皿芸術的に仕立てます。</span></li>
                 </ul>
@@ -290,8 +293,7 @@ export default function Page() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント</h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>一万五千坪もの広大な日本庭園の奥に佇む高級和モダン旅館。モダンなインテリアと庭園の自然美が見事に調和しています。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>夜には庭園が幻想的にライトアップされ、夜空に星が輝く露天風呂「光の露天風呂」や貸切風呂で極上の湯浴みが楽しめます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>夕食は駿河湾の新鮮な地魚や伊豆牛、旬の野菜を彩り豊かにあしらった月替わりの和会席。洗練されたおもてなしが心地よい滞在を約束します。</span></li>
                 </ul>
@@ -355,8 +357,7 @@ export default function Page() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント</h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>明治5年創業、芥川龍之介や横山大観、川端康成ら多くの文豪や日本画家が逗留し作品を生み出した国の登録有形文化財の宿です。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>国の文化財に登録された名物「天平大浴堂」は、総檜造りの高い天井と伊豆石の浴槽が圧巻。良質な源泉が惜しみなく掛け流されています。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>桂川の清流に面した客室から四季の移ろいを眺め、職人の伝統技が光る本格会席料理を味わう、歴史と文化に浸る贅沢な滞在が叶います。</span></li>
                 </ul>
@@ -420,8 +421,7 @@ export default function Page() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント</h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>夏目漱石が逗留したことでも知られる創業四百余年の歴史を誇る名宿。時代ごとの建築美が美しい回廊で結ばれています。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>敷地内に湧く豊富な自家源泉を活かした大浴場や露天風呂、無料で利用できる趣の異なる貸切風呂など、館内で湯めぐりを満喫できます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>夕食は月替わりの趣菜会席で、お好みの台の物や洋皿を選べるスタイル。名門の伝統を受け継ぐきめ細やかなサービスが光ります。</span></li>
                 </ul>
@@ -485,8 +485,7 @@ export default function Page() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント</h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>修善寺温泉街を流れる桂川のほとりに佇み、四季の風情を感じる落ち着いた和の空間が広がる老舗旅館です。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>大浴場をはじめ、野趣あふれる露天風呂や貸切風呂など多彩な湯処を完備。柔らかな修善寺の名湯に身を委ねてリフレッシュできます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>夕食は駿河湾の海の幸や天城の恵みをふんだんに取り入れた季節の会席料理。温かなもてなしと行き届いた心配りが評判です。</span></li>
                 </ul>
@@ -660,6 +659,10 @@ export default function Page() {
             <p>※伊豆・修善寺温泉エリアの宿泊料金、旬の天城軍鶏や伊勢海老会席プラン、客室露天風呂の空室状況は季節により変動します。最新の空室・プランは楽天トラベル各ホテル公式ページをご確認ください。</p>
           </footer>
         </div>
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【竹林の小径の静寂と数寄屋露天離れ】2026-2027年11-1月冬の静岡・伊豆修善寺温泉！「柳生の庄」＆「宙 SORA 渡月荘金龍」・天城軍鶏と伊豆伊勢海老・名門美食宿5選"} url={"https://croud-travel.pages.dev/winter-shizuoka-izu-shuzenji-luxury-asaba-sora-onsen-stay/"} />
+      </div>
       </article>
     </>
   );

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             いちご王国・栃木が誇る「とちおとめ」「スカイベリー」「とちあいか」の食べ比べスイーツ！日光東照宮や鬼怒川渓谷の絶景を楽しみながら、豪華ディナービュッフェと美肌温泉を満喫する大満足ステイ。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"とちおとめ＆スカイベリー苺スイーツ：日光・鬼怒川温泉の贅沢ビュッフェと名湯宿5選"} url={"https://croud-travel.pages.dev/spring-tochigi-tochiotome-strawberry-spa-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"とちおとめ＆スカイベリー苺スイーツ：日光・鬼怒川温泉の贅沢ビュッフェと名湯宿5選"} url={"https://croud-travel.pages.dev/spring-tochigi-tochiotome-strawberry-spa-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="spring-tochigi-tochiotome-strawberry-spa-stay" />
 </div>
         </section>

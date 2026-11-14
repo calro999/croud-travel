@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月静岡・浜名湖 舘山寺温泉の初冬レイクビューと遠州灘天然とらふぐ】名物冬うなぎ＆湖畔パノラマ展望露天風呂の宿5選',
     description: '11月から12月にかけて、静岡県西部に広がる浜名湖畔の舘山寺（かんざんじ）温泉は、遠州灘の冬の至宝「天然とらふぐ」が水揚げの最盛期を迎え。',
     url: 'https://croud-travel.pages.dev/winter-shizuoka-kanzanji-onsen-hamanako-fugu-eel-stay/',
-    siteName: 'クラドトラベル (Croud Travel)',
+    siteName: '旅宿クラウド (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -257,6 +258,9 @@ export default function ShizuokaKanzanjiWinterFeature() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月静岡・浜名湖 舘山寺温泉の初冬レイクビューと遠州灘天然とらふぐ】名物冬うなぎ＆湖畔パノラマ展望露天風呂の宿5選"} url={"https://croud-travel.pages.dev/winter-shizuoka-kanzanji-onsen-hamanako-fugu-eel-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 space-y-16">
@@ -384,7 +388,7 @@ export default function ShizuokaKanzanjiWinterFeature() {
                     <a
                       href={h.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center gap-2 px-6 py-3 rounded-2xl bg-gradient-to-r from-amber-600 to-amber-700 text-white font-bold text-sm shadow-md hover:from-amber-700 hover:to-amber-800 transition-all"
                     >
                       楽天トラベルでプランを見る
@@ -594,6 +598,9 @@ export default function ShizuokaKanzanjiWinterFeature() {
               <p className="text-slate-300 text-[11px] line-clamp-2">駿河湾越しに富士山を望む絶景と本場ミナミマグロの脂のり。</p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月静岡・浜名湖 舘山寺温泉の初冬レイクビューと遠州灘天然とらふぐ】名物冬うなぎ＆湖畔パノラマ展望露天風呂の宿5選"} url={"https://croud-travel.pages.dev/winter-shizuoka-kanzanji-onsen-hamanako-fugu-eel-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-shizuoka-kanzanji-onsen-hamanako-fugu-eel-stay" />
 </div>
         </section>

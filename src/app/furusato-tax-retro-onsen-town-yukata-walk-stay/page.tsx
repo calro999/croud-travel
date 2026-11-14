@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import FurusatoStepSection from "@/app/components/FurusatoStepSection";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
@@ -96,6 +97,9 @@ export default function FurusatoRetroOnsenTownYukataStayPage() {
             </Link>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"色浴衣と下駄で外湯めぐり＆レトロ温泉街歩き情緒の名宿×ふるさと納税厳選ガイド城崎・渋・銀山"} url={"https://croud-travel.pages.dev/furusato-tax-retro-onsen-town-yukata-walk-stay/"} />
+      </div>
 
         {/* 3つの醍醐味セクション */}
         <section className="mb-16">
@@ -516,6 +520,9 @@ export default function FurusatoRetroOnsenTownYukataStayPage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"色浴衣と下駄で外湯めぐり＆レトロ温泉街歩き情緒の名宿×ふるさと納税厳選ガイド城崎・渋・銀山"} url={"https://croud-travel.pages.dev/furusato-tax-retro-onsen-town-yukata-walk-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-retro-onsen-town-yukata-walk-stay" />
 </div>
         </section>

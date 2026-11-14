@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
     title: '【11・12・1月沖縄】冬の楽園リゾート！12月下旬開幕「ホエールウォッチング」と美ら海水族館・冬のアグー豚しゃぶしゃぶ＆もとぶ牛・恩納村絶景スパリゾート5選',
     description: '11月から1月、沖縄本島（恩納村・本部・名護）は、平均気温20℃前後の快適な気候に恵まれ、喧騒を離れて大人の贅沢な時間を過ごせる冬の楽園となります。',
     url: 'https://croud-travel.pages.dev/winter-okinawa-onna-motobu-whalewatching-agu-resort-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     images: [
       {
         url: 'https://img.travel.rakuten.co.jp/share/HOTEL/172611/172611.jpg',
@@ -49,12 +50,12 @@ export default function OkinawaOnnaMotobuWinterPage() {
     dateModified: '',
     author: {
       '@type': 'Organization',
-      name: 'クラドトラベル編集部',
+      name: '旅宿クラウド編集部',
       url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png'
@@ -293,6 +294,9 @@ export default function OkinawaOnnaMotobuWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月沖縄】冬の楽園リゾート！12月下旬開幕「ホエールウォッチング」と美ら海水族館・冬のアグー豚しゃぶしゃぶ＆もとぶ牛・恩納村絶景スパリゾート5選"} url={"https://croud-travel.pages.dev/winter-okinawa-onna-motobu-whalewatching-agu-resort-stay/"} />
+      </div>
 
       {/* Main Content Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 pt-12 space-y-16">
@@ -432,7 +436,7 @@ export default function OkinawaOnnaMotobuWinterPage() {
                     <a 
                       href={hotel.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="w-full inline-flex items-center justify-center gap-2 bg-gradient-to-r from-teal-800 to-slate-900 hover:from-teal-900 hover:to-black text-white font-bold py-3.5 px-6 rounded-2xl shadow-sm hover:shadow transition text-sm tracking-wide"
                     >
                       <span>楽天トラベルで空室・冬限定プランを見る</span>
@@ -635,6 +639,9 @@ export default function OkinawaOnnaMotobuWinterPage() {
               <p className="font-bold text-stone-800 line-clamp-2">全国の幻想的な光の絶景と贅沢ステイを楽しむ極上リゾート特集</p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月沖縄】冬の楽園リゾート！12月下旬開幕「ホエールウォッチング」と美ら海水族館・冬のアグー豚しゃぶしゃぶ＆もとぶ牛・恩納村絶景スパリゾート5選"} url={"https://croud-travel.pages.dev/winter-okinawa-onna-motobu-whalewatching-agu-resort-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-okinawa-onna-motobu-whalewatching-agu-resort-stay" />
 </div>
         </section>

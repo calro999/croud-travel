@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -175,6 +176,9 @@ export default function Page() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"日本三大柱状節理峡谷＆幾何学絶壁とエメラルド清流名湯宿×ふるさと納税厳選ガイド清津峡・高千穂峡・層雲峡"} url={"https://croud-travel.pages.dev/furusato-tax-three-great-columnar-joints-gorges-stay/"} />
+      </div>
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
@@ -664,6 +668,9 @@ export default function Page() {
         <p>© 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の楽天トラベル公式APIに基づきます。</p>
       </footer>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"日本三大柱状節理峡谷＆幾何学絶壁とエメラルド清流名湯宿×ふるさと納税厳選ガイド清津峡・高千穂峡・層雲峡"} url={"https://croud-travel.pages.dev/furusato-tax-three-great-columnar-joints-gorges-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-three-great-columnar-joints-gorges-stay" />
 </div>
   );

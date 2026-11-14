@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -107,6 +108,9 @@ export default function MicroTouristHubPage() {
             黒潮躍る太平洋の荒波に向かって堂々と立つ坂本龍馬銅像の聖地「桂浜」。四層六階の美しい現存天守と本丸御殿が完全な形で残る天下の名城「高知城」。巨大な屋台村「ひろめ市場」で炎を上げて豪快に焼き上げる本場のカツオ藁焼き塩たたき。江戸時代から300年以上続く日本最大級の街路市「日曜市」。豪放磊落な土佐人気質と豊かな山海の美味を満喫する高知ステイへご案内します。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"高知・桂浜＆高知城：坂本龍馬・カツオ藁焼き＆ひろめ市場宿 厳選ガイド"} url={"https://croud-travel.pages.dev/kochi-katsurahama-castle-hirome-market-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"高知・桂浜＆高知城：坂本龍馬・カツオ藁焼き＆ひろめ市場宿 厳選ガイド"} url={"https://croud-travel.pages.dev/kochi-katsurahama-castle-hirome-market-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="kochi-katsurahama-castle-hirome-market-stay" />
 </div>
   );

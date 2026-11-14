@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
@@ -5,7 +6,7 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '富士山と紅葉の絶景コラボ！山中湖「夕焼けの渚紅葉まつり」＆忍野八海と温泉名宿×ふるさと納税厳選ガイド山梨',
   description: '10月下旬〜11月中旬に開催される山中湖「夕焼けの渚 紅葉まつり」！湖畔の旭日丘緑地公園を彩るもみじのライトアップと富士山の絶景、忍野八海の神秘的な湧水、名宿「しずく」「富士マリオットホテル山中湖」「秀山荘」で個室サウナや甲州ワイン牛を堪能。楽天ふるさと納税トラベルクーポンで実質2,000円。',
-  keywords: ["2026年最新秋旅", "山梨", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
+  keywords: ["2026年末・冬休み対応", "山梨", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-yamanakako-fuji-autumn-leaves-stay/"
   },
@@ -24,7 +25,7 @@ export default function FeatureArticlePage() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "富士山と紅葉の絶景コラボ！山中湖「夕焼けの渚紅葉まつり」＆忍野八海と温泉名宿×ふるさと納税完全ガイド【2026年最新秋旅】山梨",
+    "headline": "富士山と紅葉の絶景コラボ！山中湖「夕焼けの渚紅葉まつり」＆忍野八海と温泉名宿×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】山梨",
     "description": "10月下旬〜11月中旬に開催される山中湖「夕焼けの渚 紅葉まつり」！湖畔の旭日丘緑地公園を彩るもみじのライトアップと富士山の絶景、忍野八海の神秘的な湧水、名宿「しずく」「富士マリオットホテル山中湖」「秀山荘」で個室サウナや甲州ワイン牛を堪能。楽天ふるさと納税トラベルクーポンで実質2,000円。",
     "url": "https://croud-travel.pages.dev/furusato-tax-yamanakako-fuji-autumn-leaves-stay/",
     "publisher": {
@@ -38,7 +39,7 @@ export default function FeatureArticlePage() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "富士山と紅葉の絶景コラボ！山中湖「夕焼けの渚紅葉まつり」＆忍野八海と温泉名宿×ふるさと納税完全ガイド【2026年最新秋旅】山梨", "item": "https://croud-travel.pages.dev/furusato-tax-yamanakako-fuji-autumn-leaves-stay/" }
+      { "@type": "ListItem", "position": 2, "name": "富士山と紅葉の絶景コラボ！山中湖「夕焼けの渚紅葉まつり」＆忍野八海と温泉名宿×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】山梨", "item": "https://croud-travel.pages.dev/furusato-tax-yamanakako-fuji-autumn-leaves-stay/" }
     ]
   };
 
@@ -84,6 +85,9 @@ export default function FeatureArticlePage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"富士山と紅葉の絶景コラボ！山中湖「夕焼けの渚紅葉まつり」＆忍野八海と温泉名宿×ふるさと納税厳選ガイド山梨"} url={"https://croud-travel.pages.dev/furusato-tax-yamanakako-fuji-autumn-leaves-stay/"} />
+      </div>
 
       {/* イントロダクション */}
       <section className="max-w-5xl mx-auto px-4 sm:px-6 mb-12">
@@ -507,6 +511,9 @@ export default function FeatureArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"富士山と紅葉の絶景コラボ！山中湖「夕焼けの渚紅葉まつり」＆忍野八海と温泉名宿×ふるさと納税厳選ガイド山梨"} url={"https://croud-travel.pages.dev/furusato-tax-yamanakako-fuji-autumn-leaves-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-yamanakako-fuji-autumn-leaves-stay" />
 </div>
         </section>

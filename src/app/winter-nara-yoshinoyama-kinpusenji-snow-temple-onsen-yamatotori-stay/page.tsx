@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
@@ -15,7 +16,7 @@ export const metadata: Metadata = {
     title: '世界遺産金峯山寺蔵王堂の新春初詣と雪の吉野山：2026-2027年冬の吉野温泉！大和肉鶏と本葛鍋名宿5選',
     description: '雪化粧に染まる修験道の聖地・世界遺産「吉野山」と金峯山寺蔵王堂の新春初詣！歴史薫る吉野温泉のぬくもり、滋味あふれる大和肉鶏の水炊きや吉野本葛料理、大和牛を味わう静寂の冬名旅館5選。',
     url: 'https://croud-travel.pages.dev/winter-nara-yoshinoyama-kinpusenji-snow-temple-onsen-yamatotori-stay/',
-    siteName: 'クラウドトラベル',
+    siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -79,6 +80,9 @@ export default function WinterFeaturePage() {
             </div>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"世界遺産金峯山寺蔵王堂の新春初詣と雪の吉野山：2026-2027年冬の吉野温泉！大和肉鶏と本葛鍋名宿5選"} url={"https://croud-travel.pages.dev/winter-nara-yoshinoyama-kinpusenji-snow-temple-onsen-yamatotori-stay/"} />
+      </div>
 
         {/* 魅力・おすすめ理由 */}
         <section className="max-w-4xl mx-auto px-4 py-10">
@@ -91,22 +95,19 @@ export default function WinterFeaturePage() {
             </div>
             <div className="grid grid-cols-1 gap-4">
               <div className="p-4 rounded-xl bg-stone-50 border border-stone-200/80 space-y-1.5">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-cyan-600"></span>
-                  白雪に浮かび上がる世界遺産・金峯山寺蔵王堂の圧倒的威容と新春初詣</h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">白雪に浮かび上がる世界遺産・金峯山寺蔵王堂の圧倒的威容と新春初詣</h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                   木造建築として日本有数の規模を誇る国宝・蔵王堂。冬の雪をまとった大屋根と重厚な柱の姿は、修験道の霊場にふさわしい神秘的な迫力に満ちています。新春の護摩祈祷では太鼓と法螺貝の音が山内に響き渡り、清らかな新年を迎えることができます。
                 </p>
               </div>
               <div className="p-4 rounded-xl bg-stone-50 border border-stone-200/80 space-y-1.5">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-cyan-600"></span>
-                  文豪が愛した秘湯「吉野温泉」のにごり湯と雪見風呂</h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">文豪が愛した秘湯「吉野温泉」のにごり湯と雪見風呂</h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                   吉野山深くの谷あいに湧く吉野温泉は、鉄分と炭酸を豊富に含み、空気に触れると赤褐色や黄金色に濁る名湯。文豪・島崎藤村が滞在して名作を構想したことでも知られ、冬の雪景色を眺めながらの湯浴みは旅情の極みです。
                 </p>
               </div>
               <div className="p-4 rounded-xl bg-stone-50 border border-stone-200/80 space-y-1.5">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-cyan-600"></span>
-                  奈良の至宝「大和肉鶏」と体を芯から温める「吉野本葛鍋」</h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">奈良の至宝「大和肉鶏」と体を芯から温める「吉野本葛鍋」</h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                   大和の豊かな自然で長期飼育された地鶏「大和肉鶏」は、引き締まった肉質と噛むほどに溢れる深いコクが特徴。吉野葛を用いたとろみ出汁の鍋料理や西行鍋は、葛の保温効果で身体の芯までぽかぽかに温めてくれます。
                 </p>
@@ -541,6 +542,10 @@ export default function WinterFeaturePage() {
             </div>
           </div>
         </section>
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"世界遺産金峯山寺蔵王堂の新春初詣と雪の吉野山：2026-2027年冬の吉野温泉！大和肉鶏と本葛鍋名宿5選"} url={"https://croud-travel.pages.dev/winter-nara-yoshinoyama-kinpusenji-snow-temple-onsen-yamatotori-stay/"} />
+      </div>
       </main>
     </>
   );

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import fs from "fs";
 import path from "path";
@@ -197,6 +198,9 @@ export default function KyotoHubPage() {
           </a>
         </div>
       </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"京都旅行 厳選ガイド 2026：1泊2日・2泊3日モデルコース＆カップル・子連れ・女子旅・穴場・おすすめホテル・温泉旅館"} url={"https://croud-travel.pages.dev/kyoto/"} />
+      </div>
 
       {/* 1. 京都観光 モデルコース（1泊2日・2泊3日） */}
       <section id="model-course" className="scroll-mt-24 bg-white border border-rose-950/10 rounded-3xl p-6 md:p-10 shadow-sm space-y-6">
@@ -647,6 +651,9 @@ export default function KyotoHubPage() {
         </div>
       </section>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"京都旅行 厳選ガイド 2026：1泊2日・2泊3日モデルコース＆カップル・子連れ・女子旅・穴場・おすすめホテル・温泉旅館"} url={"https://croud-travel.pages.dev/kyoto/"} />
+      </div>
       <HubRelatedPosts currentSlug="kyoto" />
 </div>
   );

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             エメラルドグリーンの東シナ海に浮かぶ祈りの島々「五島列島（福江島・上五島）」。海辺や岬に佇む美しいレンガ造り・石造りの教会群。日本一の美しさを誇る高浜ビーチ。椿油を練り込んだ喉越しの良い日本三大うどん「五島手延うどん」と幻の五島牛を味わう旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"長崎・五島列島（福江島＆上五島）：世界遺産潜伏キリシタン教会群・高浜ビーチ＆五島うどん宿 厳選ガイド"} url={"https://croud-travel.pages.dev/nagasaki-goto-islands-fukue-church-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -231,6 +235,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"長崎・五島列島（福江島＆上五島）：世界遺産潜伏キリシタン教会群・高浜ビーチ＆五島うどん宿 厳選ガイド"} url={"https://croud-travel.pages.dev/nagasaki-goto-islands-fukue-church-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="nagasaki-goto-islands-fukue-church-stay" />
 </div>
   );

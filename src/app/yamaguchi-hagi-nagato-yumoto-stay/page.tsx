@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             白壁となまこ壁に夏みかんが揺れる世界遺産の城下町「萩」。音信川（おとずれがわ）沿いに川床や飛び石、竹林のライトアップが広がる「長門湯本温泉」。日本海へ連なる元乃隅神社の赤い鳥居と、熱々瓦そば・ふぐ会席を味わう旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"山口・萩＆長門湯本温泉：維新の城下町・川床テラス＆元乃隅神社・瓦そば宿 厳選ガイド"} url={"https://croud-travel.pages.dev/yamaguchi-hagi-nagato-yumoto-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"山口・萩＆長門湯本温泉：維新の城下町・川床テラス＆元乃隅神社・瓦そば宿 厳選ガイド"} url={"https://croud-travel.pages.dev/yamaguchi-hagi-nagato-yumoto-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="yamaguchi-hagi-nagato-yumoto-stay" />
 </div>
   );

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
     title: '【11・12・1月山梨】冬の八ヶ岳ブルーと満天の星空観賞・萌木の村冬景色＆極上「甲州ワインビーフ」・八ヶ岳南麓の高原温泉リゾート宿5選',
     description: '11月から1月、山梨県北杜市の清里高原・八ヶ岳南麓は、晴天率80%超を誇る抜けるような冬晴れ「八ヶ岳ブルー」と。',
     url: 'https://croud-travel.pages.dev/winter-yamanashi-kiyosato-yatsugatake-starry-sky-winebeef-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     images: [
       {
         url: 'https://img.travel.rakuten.co.jp/share/HOTEL/28379/28379.jpg',
@@ -49,12 +50,12 @@ export default function YamanashiKiyosatoYatsugatakeWinterPage() {
     dateModified: '',
     author: {
       '@type': 'Organization',
-      name: 'クラドトラベル編集部',
+      name: '旅宿クラウド編集部',
       url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png'
@@ -293,6 +294,9 @@ export default function YamanashiKiyosatoYatsugatakeWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月山梨】冬の八ヶ岳ブルーと満天の星空観賞・萌木の村冬景色＆極上「甲州ワインビーフ」・八ヶ岳南麓の高原温泉リゾート宿5選"} url={"https://croud-travel.pages.dev/winter-yamanashi-kiyosato-yatsugatake-starry-sky-winebeef-stay/"} />
+      </div>
 
       {/* Main Content Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 pt-12 space-y-16">
@@ -446,7 +450,7 @@ export default function YamanashiKiyosatoYatsugatakeWinterPage() {
                       <a 
                         href={hotel.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center justify-center gap-2 w-full sm:w-auto px-6 py-3 bg-gradient-to-r from-indigo-600 to-indigo-700 hover:from-indigo-700 hover:to-indigo-800 text-white font-bold text-sm rounded-xl shadow-md transition-all shrink-0"
                       >
                         <span>空室・宿泊プランを確認する</span>
@@ -656,6 +660,9 @@ export default function YamanashiKiyosatoYatsugatakeWinterPage() {
               <span>冬の特集一覧へ戻る</span>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月山梨】冬の八ヶ岳ブルーと満天の星空観賞・萌木の村冬景色＆極上「甲州ワインビーフ」・八ヶ岳南麓の高原温泉リゾート宿5選"} url={"https://croud-travel.pages.dev/winter-yamanashi-kiyosato-yatsugatake-starry-sky-winebeef-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-yamanashi-kiyosato-yatsugatake-starry-sky-winebeef-stay" />
 </div>
         </section>

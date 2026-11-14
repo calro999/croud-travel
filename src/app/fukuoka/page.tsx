@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import fs from "fs";
 import path from "path";
@@ -114,6 +115,9 @@ export default function FukuokaHubPage() {
           アジアの玄関口・グルメ都市福岡。「空港から博多駅へのアクセスは？」「中洲屋台や太宰府天満宮・糸島の回り方は？」「明太子食べ放題朝食の宿は？」を縦掘りし、おすすめの宿泊施設情報で繋ぐ総合ガイド。
         </p>
       </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"福岡・博多旅行 完全計画ガイド 2026：1泊2日・2泊3日モデルコース＆博多駅・天神・中洲屋台・もつ鍋水炊きグルメ・温泉宿"} url={"https://croud-travel.pages.dev/fukuoka/"} />
+      </div>
 
       {/* 博多駅・天神の公式おすすめホテル */}
       {fukuokaData.hakata_hotel && (
@@ -377,6 +381,9 @@ export default function FukuokaHubPage() {
         </section>
       )}
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"福岡・博多旅行 完全計画ガイド 2026：1泊2日・2泊3日モデルコース＆博多駅・天神・中洲屋台・もつ鍋水炊きグルメ・温泉宿"} url={"https://croud-travel.pages.dev/fukuoka/"} />
+      </div>
       <HubRelatedPosts currentSlug="fukuoka" />
 </div>
   );

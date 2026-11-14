@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Image from 'next/image';
@@ -17,7 +18,7 @@ export const metadata: Metadata = {
     description: '国定公園の豊かな山峡、薄川の清流沿いに佇む長野・松本の奥座敷「扉温泉」。世界の一流ホテル・レストランのみが加盟を許される「ルレ・エ・シャトー」に名を連ねる名門「明神館」をはじめ、初冬の静寂と自然の調和を五感で味わう最高峰リゾート。渓流と一体化する名物「雪見立ち湯露天風呂」や、無農薬自家農園野菜と信州プレミアム牛を用いたモダンフレンチ・創作和食懐石。日常の喧騒から完全に解き放たれる極上リトリート名宿5選。',
     url: 'https://croud-travel.pages.dev/winter-nagano-tobira-onsen-myojinkan-relais-chateaux-shinshu-french-stay/',
     type: 'article',
-    siteName: 'クラウドトラベル',
+    siteName: '旅宿クラウド',
   },
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-nagano-tobira-onsen-myojinkan-relais-chateaux-shinshu-french-stay/',
@@ -115,6 +116,9 @@ export default function LuxuryWinterFeaturePage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【世界基準ルレ・エ・シャトー加盟「明神館」と山峡の秘湯】2026-2027年11-12月初冬の長野・松本奥座敷"} url={"https://croud-travel.pages.dev/winter-nagano-tobira-onsen-myojinkan-relais-chateaux-shinshu-french-stay/"} />
+      </div>
 
       {/* メインコンテンツ */}
       <main className="max-w-4xl mx-auto px-4 py-10 space-y-12">
@@ -565,6 +569,10 @@ export default function LuxuryWinterFeaturePage() {
           </div>
         </section>
 
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【世界基準ルレ・エ・シャトー加盟「明神館」と山峡の秘湯】2026-2027年11-12月初冬の長野・松本奥座敷"} url={"https://croud-travel.pages.dev/winter-nagano-tobira-onsen-myojinkan-relais-chateaux-shinshu-french-stay/"} />
+      </div>
       </main>
     </div>
   );

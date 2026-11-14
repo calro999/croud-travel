@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月長崎・平戸温泉郷の初冬黒潮絶景と天然クエ＆寒ヒラメ】幻の高級魚クエ鍋＆特選平戸和牛会席を堪能する城下町名宿5選',
     description: '11月から12月にかけて、長崎県北西端に浮かぶ歴史と異国情緒の島・平戸温泉郷の魅力とおすすめ宿泊施設を詳しくご紹介します。',
     url: 'https://croud-travel.pages.dev/winter-nagasaki-hirado-onsen-kue-hirame-hirado-beef-stay/',
-    siteName: 'クラドトラベル (Croud Travel)',
+    siteName: '旅宿クラウド (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -164,7 +165,7 @@ export default function WinterNagasakiHiradoPage() {
         'isPartOf': {
           '@type': 'WebSite',
           '@id': 'https://croud-travel.pages.dev/#website',
-          'name': 'クラドトラベル',
+          'name': '旅宿クラウド',
           'url': 'https://croud-travel.pages.dev/'
         },
         'headline': "【11・12月長崎・平戸温泉郷の初冬黒潮絶景と天然クエ＆寒ヒラメ】幻の高級魚クエ鍋＆特選平戸和牛会席を堪能する城下町名宿5選",
@@ -175,7 +176,7 @@ export default function WinterNagasakiHiradoPage() {
         'dateModified': '2026-10-25T00:00:00+09:00',
         'publisher': {
           '@type': 'Organization',
-          'name': 'クラドトラベル編集部',
+          'name': '旅宿クラウド編集部',
           'url': 'https://croud-travel.pages.dev/'
         }
       },
@@ -245,6 +246,9 @@ export default function WinterNagasakiHiradoPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月長崎・平戸温泉郷の初冬黒潮絶景と天然クエ＆寒ヒラメ】幻の高級魚クエ鍋＆特選平戸和牛会席を堪能する城下町名宿5選"} url={"https://croud-travel.pages.dev/winter-nagasaki-hirado-onsen-kue-hirame-hirado-beef-stay/"} />
+      </div>
 
       {/* Main Content Area */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
@@ -396,7 +400,7 @@ export default function WinterNagasakiHiradoPage() {
                     <a
                       href={h.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center justify-center gap-2 w-full sm:w-auto px-6 py-3 rounded-xl bg-teal-800 hover:bg-teal-900 text-white text-sm font-bold shadow-sm hover:shadow transition duration-200"
                     >
                       <span>楽天トラベルでプラン・空室を確認</span>
@@ -600,6 +604,9 @@ export default function WinterNagasakiHiradoPage() {
               </p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月長崎・平戸温泉郷の初冬黒潮絶景と天然クエ＆寒ヒラメ】幻の高級魚クエ鍋＆特選平戸和牛会席を堪能する城下町名宿5選"} url={"https://croud-travel.pages.dev/winter-nagasaki-hirado-onsen-kue-hirame-hirado-beef-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-nagasaki-hirado-onsen-kue-hirame-hirado-beef-stay" />
 </div>
         </section>

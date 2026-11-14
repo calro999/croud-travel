@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -236,6 +237,9 @@ export default function HakoneSengokuharaWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月箱根仙石原温泉の初冬ススキ絶景と白濁にごり湯】富士山望む露天風呂・足柄牛ステーキ＆美術館巡りの宿5選"} url={"https://croud-travel.pages.dev/winter-kanagawa-hakone-sengokuhara-onsen-susuki-nigori-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 space-y-16">
@@ -389,7 +393,7 @@ export default function HakoneSengokuharaWinterPage() {
                       <a
                         href={h.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-6 py-3 rounded-xl bg-amber-700 hover:bg-amber-800 text-white font-bold text-sm shadow-sm transition-colors duration-200"
                       >
                         <span>空室・料金プランを確認</span>
@@ -577,6 +581,9 @@ export default function HakoneSengokuharaWinterPage() {
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">全国の厳選温泉・旬旅特集まとめを見る</h3>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月箱根仙石原温泉の初冬ススキ絶景と白濁にごり湯】富士山望む露天風呂・足柄牛ステーキ＆美術館巡りの宿5選"} url={"https://croud-travel.pages.dev/winter-kanagawa-hakone-sengokuhara-onsen-susuki-nigori-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-kanagawa-hakone-sengokuhara-onsen-susuki-nigori-stay" />
 </div>
         </section>

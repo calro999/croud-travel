@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import FurusatoStepSection from "@/app/components/FurusatoStepSection";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
@@ -96,6 +97,9 @@ export default function FurusatoFujisanViewLuxuryStayPage() {
             </Link>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"富士山を望む絶景露天風呂＆天空テラスの至高の宿×ふるさと納税厳選ガイド河口湖・山中湖・西伊豆土肥"} url={"https://croud-travel.pages.dev/furusato-tax-fujisan-view-luxury-open-air-bath-stay/"} />
+      </div>
 
         {/* 3つの醍醐味セクション */}
         <section className="mb-16">
@@ -518,6 +522,9 @@ export default function FurusatoFujisanViewLuxuryStayPage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"富士山を望む絶景露天風呂＆天空テラスの至高の宿×ふるさと納税厳選ガイド河口湖・山中湖・西伊豆土肥"} url={"https://croud-travel.pages.dev/furusato-tax-fujisan-view-luxury-open-air-bath-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-fujisan-view-luxury-open-air-bath-stay" />
 </div>
         </section>

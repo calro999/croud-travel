@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -172,6 +173,9 @@ export default function HighwayBusArticlePage() {
             新幹線なら東京〜広島約3時間50分・片道約19,760円（往復約39,520円）。夜行高速バスなら片道約5,500円〜！往復で約3万円近く節約でき、朝7時に広島駅へ到着するため、午前中に世界遺産「厳島神社」の満潮大鳥居を満喫できます。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"東京〜広島：新幹線 vs 飛行機 vs 夜行バス徹底比較！厳島神社＆広島お好み焼き1泊2日モデルコース"} url={"https://croud-travel.pages.dev/tokyo-hiroshima-bus-vs-shinkansen-guide/"} />
       </div>
 
       {/* 📊 交通手段・料金・所要時間の徹底比較テーブル */}
@@ -625,6 +629,9 @@ export default function HighwayBusArticlePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"東京〜広島：新幹線 vs 飛行機 vs 夜行バス徹底比較！厳島神社＆広島お好み焼き1泊2日モデルコース"} url={"https://croud-travel.pages.dev/tokyo-hiroshima-bus-vs-shinkansen-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="tokyo-hiroshima-bus-vs-shinkansen-guide" />
 </div>
   );

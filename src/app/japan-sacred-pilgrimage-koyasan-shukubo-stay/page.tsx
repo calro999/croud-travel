@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function HistoryHeritageHubPage() {
             樹齢数百年の杉木立に霧が立ち込める神聖な祈りの道「世界遺産・霊場」。高野山の宿坊で味わう五味五色の美しい精進料理と朝の勤行、写経体験。熊野古道の中辺路を歩き、名湯・湯の峰温泉のつぼ湯に浸かる心の浄化の旅へ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"世界遺産・霊場巡り＆宿坊体験宿：高野山宿坊・熊野古道・比叡山延暦寺 厳選ガイド"} url={"https://croud-travel.pages.dev/japan-sacred-pilgrimage-koyasan-shukubo-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function HistoryHeritageHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"世界遺産・霊場巡り＆宿坊体験宿：高野山宿坊・熊野古道・比叡山延暦寺 厳選ガイド"} url={"https://croud-travel.pages.dev/japan-sacred-pilgrimage-koyasan-shukubo-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="japan-sacred-pilgrimage-koyasan-shukubo-stay" />
 </div>
   );

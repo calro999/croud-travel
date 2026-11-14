@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             原生林のパノラマと一体化する温水インフィニティ温泉プール！水着で入れる絶景スパやサウナ、ラグジュアリーなラウンジを備えた、非日常のリフレッシュを約束する最高峰フォレストリゾートを厳選紹介。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"森と空に溶け込む：絶景インフィニティ温泉プール＆天然スパ！極上フォレストリゾート宿5選"} url={"https://croud-travel.pages.dev/organic-forest-infinity-pool-hot-spring-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"森と空に溶け込む：絶景インフィニティ温泉プール＆天然スパ！極上フォレストリゾート宿5選"} url={"https://croud-travel.pages.dev/organic-forest-infinity-pool-hot-spring-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="organic-forest-infinity-pool-hot-spring-stay" />
 </div>
         </section>

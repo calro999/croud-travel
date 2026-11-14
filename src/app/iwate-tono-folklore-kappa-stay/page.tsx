@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             日本の民俗学の夜明けを告げた民話のふるさと「遠野」。常堅寺裏手の小川にカッパ伝説が残る「カッパ淵」。馬と人が同じ屋根の下で暮らした「南部曲り家」。バケツ型ジンギスカン鍋で味わう極上ラム肉と、わさびのような辛味の暮坪かぶを味わう旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"岩手・遠野＆カッパ淵：遠野物語の民話の里・南部曲り家＆ジンギスカン・暮坪かぶ宿 厳選ガイド"} url={"https://croud-travel.pages.dev/iwate-tono-folklore-kappa-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -231,6 +235,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"岩手・遠野＆カッパ淵：遠野物語の民話の里・南部曲り家＆ジンギスカン・暮坪かぶ宿 厳選ガイド"} url={"https://croud-travel.pages.dev/iwate-tono-folklore-kappa-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="iwate-tono-folklore-kappa-stay" />
 </div>
   );

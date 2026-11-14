@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             「肉の芸術品」と称される最高峰A5ランク松阪牛を本場のすき焼き・網焼き・炙り寿司で堪能！鈴鹿山脈の麓に佇む湯の山温泉や、清少納言ゆかりの名湯・榊原温泉で、至高の肉美食ステイを。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"A5松阪牛すき焼き＆網焼き：本場三重の最高峰肉会席！湯の山温泉・榊原温泉の名湯宿5選"} url={"https://croud-travel.pages.dev/traditional-mie-matsusaka-beef-sukiyaki-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"A5松阪牛すき焼き＆網焼き：本場三重の最高峰肉会席！湯の山温泉・榊原温泉の名湯宿5選"} url={"https://croud-travel.pages.dev/traditional-mie-matsusaka-beef-sukiyaki-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="traditional-mie-matsusaka-beef-sukiyaki-stay" />
 </div>
         </section>

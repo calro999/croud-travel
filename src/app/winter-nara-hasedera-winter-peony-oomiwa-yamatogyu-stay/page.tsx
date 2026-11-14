@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -254,6 +255,9 @@ export default function NaraHasederaOomiwaPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月奈良】花の御寺・長谷寺の「冬牡丹（寒牡丹）」と日本最古の三輪山・大神神社初詣＆極上大和牛を味わう名宿5選"} url={"https://croud-travel.pages.dev/winter-nara-hasedera-winter-peony-oomiwa-yamatogyu-stay/"} />
+      </div>
 
       {/* Main Content Area */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
@@ -429,7 +433,7 @@ export default function NaraHasederaOomiwaPage() {
                     <h3 className="text-xl sm:text-2xl font-bold text-stone-900 group"><a 
                         href={hotel.url} 
                         target="_blank" 
-                        rel="noopener noreferrer" 
+                        rel="sponsored noopener noreferrer" 
                         className="hover:text-purple-700 transition-colors inline-flex items-center gap-2"
                       >
                         {hotel.name}
@@ -500,7 +504,7 @@ export default function NaraHasederaOomiwaPage() {
                     <a
                       href={hotel.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="block w-full sm:w-auto text-center px-6 py-3.5 rounded-xl bg-gradient-to-r from-purple-600 to-purple-700 hover:from-purple-700 hover:to-purple-800 text-white font-bold text-xs sm:text-sm shadow-md transition-all duration-200"
                     >
                       楽天トラベルで空室・冬の宿泊プランを確認する
@@ -642,6 +646,9 @@ export default function NaraHasederaOomiwaPage() {
               </span>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月奈良】花の御寺・長谷寺の「冬牡丹（寒牡丹）」と日本最古の三輪山・大神神社初詣＆極上大和牛を味わう名宿5選"} url={"https://croud-travel.pages.dev/winter-nara-hasedera-winter-peony-oomiwa-yamatogyu-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-nara-hasedera-winter-peony-oomiwa-yamatogyu-stay" />
 </div>
         </section>

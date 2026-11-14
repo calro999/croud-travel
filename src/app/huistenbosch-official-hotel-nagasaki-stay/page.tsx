@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function ThemeParkActivityHubPage() {
             ヨーロッパの街並みと運河が広がる異国情緒のワンダーランド「ハウステンボス」。専用クルーザーでチェックインする最高級ホテルヨーロッパや、パーク内直営ホテル。日本一の1300万球イルミネーションを客室から見下ろす贅沢な休日へ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"ハウステンボス直営＆オフィシャルホテル：ヨーロッパの街並み＆イルミネーション宿 厳選ガイド"} url={"https://croud-travel.pages.dev/huistenbosch-official-hotel-nagasaki-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function ThemeParkActivityHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"ハウステンボス直営＆オフィシャルホテル：ヨーロッパの街並み＆イルミネーション宿 厳選ガイド"} url={"https://croud-travel.pages.dev/huistenbosch-official-hotel-nagasaki-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="huistenbosch-official-hotel-nagasaki-stay" />
 </div>
   );

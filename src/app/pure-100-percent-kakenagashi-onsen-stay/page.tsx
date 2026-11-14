@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function HeritageOnsenHubPage() {
             一切の妥協なし。湧き出たままの地球の恵みをダイレクトに味わう「自家源泉100%完全かけ流し」。加水・加温・循環・塩素消毒を一切行わない「純生温泉」。湯守が湯量を調整して保つ奇跡の適温と、濃厚な温泉成分を体感。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"自家源泉かけ流し100%の宿：加水なし・加温なし・循環なし！本物の名湯 厳選ガイド"} url={"https://croud-travel.pages.dev/pure-100-percent-kakenagashi-onsen-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function HeritageOnsenHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"自家源泉かけ流し100%の宿：加水なし・加温なし・循環なし！本物の名湯 厳選ガイド"} url={"https://croud-travel.pages.dev/pure-100-percent-kakenagashi-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="pure-100-percent-kakenagashi-onsen-stay" />
 </div>
   );

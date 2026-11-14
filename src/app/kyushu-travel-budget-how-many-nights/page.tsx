@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -75,6 +76,9 @@ export default function KyushuTravelNightsPage() {
             「九州って広いけど、どこまで回れるの？」九州初心者が最初にぶつかる壁を完全解決。福岡を起点にして、2泊3日ならどこまで行ける？3泊4日なら九州縦断は可能？移動の交通費やご当地グルメの予算まで、徹底的に解説します。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"九州旅行 何泊必要？：2泊3日・3泊4日の費用＆福岡→熊本→別府→鹿児島モデルルートの予算内訳"} url={"https://croud-travel.pages.dev/kyushu-travel-budget-how-many-nights/"} />
+      </div>
       </div>
 
       {/* Intro */}
@@ -85,7 +89,7 @@ export default function KyushuTravelNightsPage() {
         </p>
         
         <div className="my-6 bg-white border-l-4 border-emerald-500 p-4 shadow-sm text-sm">
-          <h4 className="font-bold text-emerald-900 mb-2">️ 福岡（博多）到着までの交通費目安（片道）</h4>
+          <h4 className="font-bold text-emerald-900 mb-2">福岡（博多）到着までの交通費目安（片道）</h4>
           <ul className="space-y-1 text-stone-600">
             <li>・東京から：LCC利用 <span className="font-bold text-stone-800">約5,000〜12,000円</span> / 新幹線 <span className="font-bold text-stone-800">22,220円</span></li>
             <li>・大阪から：新幹線や高速バスの比較は<Link href="/osaka-fukuoka-bus-vs-shinkansen-guide/" className="text-teal-600 underline font-bold">こちら</Link></li>
@@ -438,6 +442,9 @@ export default function KyushuTravelNightsPage() {
             </div>
           </div></section>
 
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"九州旅行 何泊必要？：2泊3日・3泊4日の費用＆福岡→熊本→別府→鹿児島モデルルートの予算内訳"} url={"https://croud-travel.pages.dev/kyushu-travel-budget-how-many-nights/"} />
+      </div>
       <HubRelatedPosts currentSlug="kyushu-travel-budget-how-many-nights" />
 </div>
   );

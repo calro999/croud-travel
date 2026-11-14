@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             湖上に浮かぶ朱塗りの鳥居と、雪化粧した富士山の霊峰パノラマ。海賊船が行き交う波静かな芦ノ湖畔。元箱根の歴史あるパワースポットと、優雅なレイクサイドアートステイ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"箱根・芦ノ湖＆元箱根：湖畔鳥居・海賊船＆富士ビュー極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/kanagawa-hakone-ashinoko-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"箱根・芦ノ湖＆元箱根：湖畔鳥居・海賊船＆富士ビュー極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/kanagawa-hakone-ashinoko-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="kanagawa-hakone-ashinoko-stay" />
 </div>
   );

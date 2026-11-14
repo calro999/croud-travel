@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Image from 'next/image';
@@ -63,12 +64,14 @@ export default function IzuShuzenjiAutumnPage() {
             恋愛成就のパワースポットとして知られる「恋の橋めぐり（渡月橋・虎渓橋など5つの橋）」や、弘法大師ゆかりの修禅寺境内での散策、さらに約1万本のもみじが群生する「修善寺自然公園もみじ林」など見どころが凝縮されています。
           </p>
         </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"秋の伊豆・修善寺温泉：竹林の小径紅葉と桂川の清流散策！歴史薫る風雅なおすすめ名旅館5選「2026最新」"} url={"https://croud-travel.pages.dev/autumn-shizuoka-izu-shuzenji-bamboo-path-momiji-hotels-stay/"} />
+      </div>
 
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-amber-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！修善寺温泉の厳選名旅館5選</h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">楽天トラベル高評価！修善寺温泉の厳選名旅館5選</h2>
 
           <div className="space-y-8">
 
@@ -498,6 +501,9 @@ export default function IzuShuzenjiAutumnPage() {
               </div>
             </div>
           </div></section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"秋の伊豆・修善寺温泉：竹林の小径紅葉と桂川の清流散策！歴史薫る風雅なおすすめ名旅館5選「2026最新」"} url={"https://croud-travel.pages.dev/autumn-shizuoka-izu-shuzenji-bamboo-path-momiji-hotels-stay/"} />
+      </div>
         <div className="max-w-4xl mx-auto px-4 sm:px-6">
           <HubRelatedPosts currentSlug="autumn-shizuoka-izu-shuzenji-bamboo-path-momiji-hotels-stay" />
         </div>

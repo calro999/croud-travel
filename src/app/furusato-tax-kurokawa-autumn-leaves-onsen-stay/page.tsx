@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
@@ -5,7 +6,7 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '黒川温泉の渓谷露天風呂紅葉＆入湯手形湯めぐり！肥後あか牛会席×ふるさと納税厳選ガイド熊本',
   description: '10月下旬〜11月中旬に田の原川沿いの渓谷が錦秋に染まる熊本屈指の名湯「黒川温泉」。「入湯手形」で巡る個性豊かな野趣あふれる露天風呂と、自然に溶け込む極上宿「旅館 美里」「旅館 奥の湯」「旅館 壱の井」で肥後あか牛や馬刺し・阿蘇の恵みを堪能。ふるさと納税トラベルクーポンで実質2,000円。',
-  keywords: ["黒川温泉の渓谷露天風呂紅葉", "2026年最新秋旅", "熊本", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
+  keywords: ["黒川温泉の渓谷露天風呂紅葉", "2026年末・冬休み対応", "熊本", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-kurokawa-autumn-leaves-onsen-stay/"
   },
@@ -38,7 +39,7 @@ const HOTEL_DATA = {
   kurokawa_yamabiko: {
     name: '黒川温泉　旅館　奥の湯',
     no: 54108,
-    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67258%2F67258.html',
+    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F54108%2F54108.html',
     planUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F54108%2F54108.html%26f_flg%3DPLAN',
     reviewUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D54108',
     img: 'https://img.travel.rakuten.co.jp/share/HOTEL/54108/54108.jpg',
@@ -53,7 +54,7 @@ const HOTEL_DATA = {
   kurokawa_okunoyu: {
     name: '黒川温泉　旅館　壱の井',
     no: 163005,
-    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F54108%2F54108.html',
+    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F163005%2F163005.html',
     planUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F163005%2F163005.html%26f_flg%3DPLAN',
     reviewUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D163005',
     img: 'https://img.travel.rakuten.co.jp/share/HOTEL/163005/163005.jpg',
@@ -72,7 +73,7 @@ export default function FeatureArticlePage() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "黒川温泉の渓谷露天風呂紅葉＆入湯手形湯めぐり！肥後あか牛会席×ふるさと納税完全ガイド【2026年最新秋旅】熊本",
+    "headline": "黒川温泉の渓谷露天風呂紅葉＆入湯手形湯めぐり！肥後あか牛会席×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】熊本",
     "description": "10月下旬〜11月中旬に田の原川沿いの渓谷が錦秋に染まる熊本屈指の名湯「黒川温泉」。「入湯手形」で巡る個性豊かな野趣あふれる露天風呂と、自然に溶け込む極上宿「旅館 美里」「旅館 奥の湯」「旅館 壱の井」で肥後あか牛や馬刺し・阿蘇の恵みを堪能。ふるさと納税トラベルクーポンで実質2,000円。",
     "url": "https://croud-travel.pages.dev/furusato-tax-kurokawa-autumn-leaves-onsen-stay/",
     "publisher": {
@@ -86,7 +87,7 @@ export default function FeatureArticlePage() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "黒川温泉の渓谷露天風呂紅葉＆入湯手形湯めぐり！肥後あか牛会席×ふるさと納税完全ガイド【2026年最新秋旅】熊本", "item": "https://croud-travel.pages.dev/furusato-tax-kurokawa-autumn-leaves-onsen-stay/" }
+      { "@type": "ListItem", "position": 2, "name": "黒川温泉の渓谷露天風呂紅葉＆入湯手形湯めぐり！肥後あか牛会席×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】熊本", "item": "https://croud-travel.pages.dev/furusato-tax-kurokawa-autumn-leaves-onsen-stay/" }
     ]
   };
 
@@ -111,7 +112,7 @@ export default function FeatureArticlePage() {
       <header className="bg-gradient-to-br from-stone-900 via-amber-950 to-orange-950 text-white py-14 md:py-20 px-4 mb-10 shadow-lg">
         <div className="max-w-5xl mx-auto text-center">
           <div className="inline-flex items-center gap-2 bg-white/20 backdrop-blur-md px-4 py-1.5 rounded-full text-xs md:text-sm font-semibold mb-5 text-amber-200">
-            <span>🍁 10月・11月限定 秋旅特集</span>
+            <span>🍁 12/31締切 年末駆け込み＆冬休み対応</span>
             <span>•</span>
             <span>楽天ふるさと納税トラベルクーポン対応</span>
           </div>
@@ -121,6 +122,9 @@ export default function FeatureArticlePage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"黒川温泉の渓谷露天風呂紅葉＆入湯手形湯めぐり！肥後あか牛会席×ふるさと納税厳選ガイド熊本"} url={"https://croud-travel.pages.dev/furusato-tax-kurokawa-autumn-leaves-onsen-stay/"} />
+      </div>
 
       <div className="max-w-5xl mx-auto px-4 grid grid-cols-1 lg:grid-cols-3 gap-8">
         {/* メインコンテンツ */}
@@ -132,11 +136,11 @@ export default function FeatureArticlePage() {
               阿蘇の山深くに佇む黒川温泉は、「街全体が一つの宿、通りは廊下、旅館は客室」という理念のもと統一された景観美を誇る全国屈指の人気温泉郷。秋になると田の原川沿いの木々が一斉に色づき、杉木立に囲まれた露天風呂から見上げる紅葉は格別の風情。名物の入湯手形を使って異なる源泉やユニークな洞窟風呂・立ち湯などを巡り、あか牛ステーキに舌鼓を打てます。
             </p>
             <div className="bg-amber-50/80 rounded-xl p-5 border border-amber-200/80">
-              <h3 className="font-bold text-amber-950 text-sm md:text-base mb-2 flex items-center gap-2">10月〜11月の旅を満喫する3大ポイント</h3>
+              <h3 className="font-bold text-amber-950 text-sm md:text-base mb-2 flex items-center gap-2">年末〜冬休み・来春の旅を満喫する3大ポイント</h3>
               <ul className="text-xs md:text-sm text-amber-900 space-y-2 list-disc list-inside">
-                <li><strong>見頃の紅葉パノラマ：</strong>標高や日当たりで刻一刻と変化するグラデーションを鑑賞（黒川温泉の渓谷露天風呂紅葉＆入湯手形湯めぐり）</li>
-                <li><strong>極上の温泉と湯巡り：</strong>朝夕の冷え込む秋風の中で入る露天風呂は格別の贅沢（黒川温泉の渓谷露天風呂紅葉＆入湯手形湯めぐり）</li>
-                <li><strong>控除上限内なら自己負担実質2,000円（最大30%クーポン還元）：</strong>楽天ふるさと納税トラベルクーポンで賢く予約（黒川温泉の渓谷露天風呂紅葉＆入湯手形湯めぐり）</li>
+                <li><strong>見頃の紅葉パノラマ：</strong>標高や日当たりで刻一刻と変化するグラデーションを鑑賞</li>
+                <li><strong>極上の温泉と湯巡り：</strong>朝夕の冷え込む秋風の中で入る露天風呂は格別の贅沢</li>
+                <li><strong>控除上限内なら自己負担実質2,000円（最大30%クーポン還元）：</strong>楽天ふるさと納税トラベルクーポンで賢く予約</li>
               </ul>
             </div>
           </section>
@@ -185,7 +189,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.kurokawa_senmokan.planUrl || HOTEL_DATA.kurokawa_senmokan.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-3.5 px-6 rounded-xl text-center shadow-md transition-all text-sm md:text-base flex items-center justify-center gap-2"
               >
                 <span>プラン一覧・空室確認（楽天トラベル）</span>
@@ -194,7 +198,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.kurokawa_senmokan.reviewUrl || HOTEL_DATA.kurokawa_senmokan.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="bg-stone-100 hover:bg-stone-200 text-stone-700 font-bold py-3.5 px-5 rounded-xl text-center border border-stone-300 text-sm transition-all"
               >
                 口コミを見る
@@ -246,7 +250,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.kurokawa_yamabiko.planUrl || HOTEL_DATA.kurokawa_yamabiko.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-3.5 px-6 rounded-xl text-center shadow-md transition-all text-sm md:text-base flex items-center justify-center gap-2"
               >
                 <span>プラン一覧・空室確認（楽天トラベル）</span>
@@ -255,7 +259,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.kurokawa_yamabiko.reviewUrl || HOTEL_DATA.kurokawa_yamabiko.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="bg-stone-100 hover:bg-stone-200 text-stone-700 font-bold py-3.5 px-5 rounded-xl text-center border border-stone-300 text-sm transition-all"
               >
                 口コミを見る
@@ -307,7 +311,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.kurokawa_okunoyu.planUrl || HOTEL_DATA.kurokawa_okunoyu.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-3.5 px-6 rounded-xl text-center shadow-md transition-all text-sm md:text-base flex items-center justify-center gap-2"
               >
                 <span>プラン一覧・空室確認（楽天トラベル）</span>
@@ -316,7 +320,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.kurokawa_okunoyu.reviewUrl || HOTEL_DATA.kurokawa_okunoyu.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="bg-stone-100 hover:bg-stone-200 text-stone-700 font-bold py-3.5 px-5 rounded-xl text-center border border-stone-300 text-sm transition-all"
               >
                 口コミを見る
@@ -357,19 +361,19 @@ export default function FeatureArticlePage() {
             <h3 className="font-bold text-stone-900 mb-4 pb-2 border-b border-stone-200 flex items-center gap-2">この特集で紹介した宿</h3>
             <ul className="space-y-4 text-xs md:text-sm">
               <li>
-                <a href={HOTEL_DATA.kurokawa_senmokan.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
+                <a href={HOTEL_DATA.kurokawa_senmokan.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
                   <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.kurokawa_senmokan.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.kurokawa_senmokan.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
-                <a href={HOTEL_DATA.kurokawa_yamabiko.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
+                <a href={HOTEL_DATA.kurokawa_yamabiko.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
                   <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.kurokawa_yamabiko.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.kurokawa_yamabiko.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
-                <a href={HOTEL_DATA.kurokawa_okunoyu.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
+                <a href={HOTEL_DATA.kurokawa_okunoyu.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
                   <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.kurokawa_okunoyu.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.kurokawa_okunoyu.rating} | 楽天トラベルで詳細確認</div>
                 </a>
@@ -531,6 +535,9 @@ export default function FeatureArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"黒川温泉の渓谷露天風呂紅葉＆入湯手形湯めぐり！肥後あか牛会席×ふるさと納税厳選ガイド熊本"} url={"https://croud-travel.pages.dev/furusato-tax-kurokawa-autumn-leaves-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-kurokawa-autumn-leaves-onsen-stay" />
 </div>
         </section>

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from "react";
 import type { Metadata } from "next";
@@ -47,7 +48,7 @@ export default function IbusukiVsKirishimaPage() {
     "url": "https://croud-travel.pages.dev/ibusuki-vs-kirishima-which-stay/",
     "publisher": {
       "@type": "Organization",
-      "name": "クラドトラベル編集部",
+      "name": "旅宿クラウド編集部",
       "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
     }
   };
@@ -102,6 +103,9 @@ export default function IbusukiVsKirishimaPage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"指宿 vs 霧島 どっちに泊まる？泉質・砂むし・絶景・観光スタイルで選ぶ鹿児島の二大温泉地比較ガイド"} url={"https://croud-travel.pages.dev/ibusuki-vs-kirishima-which-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 space-y-16">
@@ -534,6 +538,9 @@ export default function IbusukiVsKirishimaPage() {
 
         {/* HubRelatedPosts */}
         <section className="pt-6">
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"指宿 vs 霧島 どっちに泊まる？泉質・砂むし・絶景・観光スタイルで選ぶ鹿児島の二大温泉地比較ガイド"} url={"https://croud-travel.pages.dev/ibusuki-vs-kirishima-which-stay/"} />
+      </div>
           <HubRelatedPosts currentSlug="ibusuki-vs-kirishima-which-stay" />
         </section>
 

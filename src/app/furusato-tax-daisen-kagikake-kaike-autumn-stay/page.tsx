@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
@@ -5,7 +6,7 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '霊峰大山・鍵掛峠の錦秋大パノラマ＆皆生温泉オーシャンビュー露天！松葉ガニ・境港宿×ふるさと納税厳選ガイド鳥取',
   description: '10月下旬〜11月中旬に西日本最大級のブナ原生林が黄金色に輝く「鳥取・霊峰大山 鍵掛峠」。大山環状道路の爽快ドライブと、日本海を望む海辺の名湯「皆生温泉 旅館三井」「皆生シーサイドホテル 海の四季」「皆生つるや」で塩分豊富な美肌の塩化物泉露天風呂と11月解禁の境港直送・極上松葉ガニ・鳥取和牛オレイン55を堪能。ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。',
-  keywords: ["霊峰大山", "鍵掛峠の錦秋大パノラマ", "境港宿×ふるさと納税", "2026年最新秋旅", "鳥取", "温泉宿", "宿泊予約"],
+  keywords: ["霊峰大山", "鍵掛峠の錦秋大パノラマ", "境港宿×ふるさと納税", "2026年末・冬休み対応", "鳥取", "温泉宿", "宿泊予約"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-daisen-kagikake-kaike-autumn-stay/"
   },
@@ -38,7 +39,7 @@ const HOTEL_DATA = {
   kaike_seaside: {
     name: '皆生温泉　皆生シーサイドホテル　海の四季',
     no: 5020,
-    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F51176%2F51176.html',
+    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5020%2F5020.html',
     planUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5020%2F5020.html%26f_flg%3DPLAN',
     reviewUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D5020',
     img: 'https://img.travel.rakuten.co.jp/share/HOTEL/5020/5020.jpg',
@@ -53,7 +54,7 @@ const HOTEL_DATA = {
   kaike_tsuruya: {
     name: '皆生温泉　皆生つるや　四季を奏でるさらさの宿',
     no: 12537,
-    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5020%2F5020.html',
+    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F12537%2F12537.html',
     planUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F12537%2F12537.html%26f_flg%3DPLAN',
     reviewUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D12537',
     img: 'https://img.travel.rakuten.co.jp/share/HOTEL/12537/12537.jpg',
@@ -72,7 +73,7 @@ export default function FeatureArticlePage() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "霊峰大山・鍵掛峠の錦秋大パノラマ＆皆生温泉オーシャンビュー露天！松葉ガニ・境港宿×ふるさと納税完全ガイド【2026年最新秋旅】鳥取",
+    "headline": "霊峰大山・鍵掛峠の錦秋大パノラマ＆皆生温泉オーシャンビュー露天！松葉ガニ・境港宿×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】鳥取",
     "description": "10月下旬〜11月中旬に西日本最大級のブナ原生林が黄金色に輝く「鳥取・霊峰大山 鍵掛峠」。大山環状道路の爽快ドライブと、日本海を望む海辺の名湯「皆生温泉 旅館三井」「皆生シーサイドホテル 海の四季」「皆生つるや」で塩分豊富な美肌の塩化物泉露天風呂と11月解禁の境港直送・極上松葉ガニ・鳥取和牛オレイン55を堪能。ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。",
     "url": "https://croud-travel.pages.dev/furusato-tax-daisen-kagikake-kaike-autumn-stay/",
     "publisher": {
@@ -86,7 +87,7 @@ export default function FeatureArticlePage() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "霊峰大山・鍵掛峠の錦秋大パノラマ＆皆生温泉オーシャンビュー露天！松葉ガニ・境港宿×ふるさと納税完全ガイド【2026年最新秋旅】鳥取", "item": "https://croud-travel.pages.dev/furusato-tax-daisen-kagikake-kaike-autumn-stay/" }
+      { "@type": "ListItem", "position": 2, "name": "霊峰大山・鍵掛峠の錦秋大パノラマ＆皆生温泉オーシャンビュー露天！松葉ガニ・境港宿×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】鳥取", "item": "https://croud-travel.pages.dev/furusato-tax-daisen-kagikake-kaike-autumn-stay/" }
     ]
   };
 
@@ -111,7 +112,7 @@ export default function FeatureArticlePage() {
       <header className="bg-gradient-to-br from-blue-950 via-amber-950 to-stone-900 text-white py-14 md:py-20 px-4 mb-10 shadow-lg">
         <div className="max-w-5xl mx-auto text-center">
           <div className="inline-flex items-center gap-2 bg-white/20 backdrop-blur-md px-4 py-1.5 rounded-full text-xs md:text-sm font-semibold mb-5 text-amber-200">
-            <span>🍁 10月・11月限定 秋旅特集</span>
+            <span>🍁 12/31締切 年末駆け込み＆冬休み対応</span>
             <span>•</span>
             <span>楽天ふるさと納税トラベルクーポン対応</span>
           </div>
@@ -121,6 +122,9 @@ export default function FeatureArticlePage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"霊峰大山・鍵掛峠の錦秋大パノラマ＆皆生温泉オーシャンビュー露天！松葉ガニ・境港宿×ふるさと納税厳選ガイド鳥取"} url={"https://croud-travel.pages.dev/furusato-tax-daisen-kagikake-kaike-autumn-stay/"} />
+      </div>
 
       <div className="max-w-5xl mx-auto px-4 grid grid-cols-1 lg:grid-cols-3 gap-8">
         {/* メインコンテンツ */}
@@ -132,11 +136,11 @@ export default function FeatureArticlePage() {
               「伯耆富士（ほうきふじ）」と称される中国地方最高峰・霊峰大山（標高1,729m）。大山屈指の絶景ポイント「鍵掛峠」からは、荒々しい岩肌の南壁と西日本最大級のブナの原生林が黄金と赤に染まる壮大な大パノラマを一望できます。ドライブ後は弓ヶ浜沿いに湧く「皆生温泉」へ。海中から湧き出すミネラル豊富な温泉で温まり、11月上旬に解禁される境港直送の冬の味覚の王様・松葉ガニを贅沢に味わえます。
             </p>
             <div className="bg-amber-50/80 rounded-xl p-5 border border-amber-200/80">
-              <h3 className="font-bold text-amber-950 text-sm md:text-base mb-2 flex items-center gap-2">10月〜11月の旅を満喫する3大ポイント</h3>
+              <h3 className="font-bold text-amber-950 text-sm md:text-base mb-2 flex items-center gap-2">年末〜冬休み・来春の旅を満喫する3大ポイント</h3>
               <ul className="text-xs md:text-sm text-amber-900 space-y-2 list-disc list-inside">
-                <li><strong>見頃の紅葉パノラマ：</strong>標高や日当たりで刻一刻と変化するグラデーションを鑑賞（霊峰大山・鍵掛峠の錦秋大パノラマ＆皆生温泉オーシャン）</li>
-                <li><strong>極上の温泉と湯巡り：</strong>朝夕の冷え込む秋風の中で入る露天風呂は格別の贅沢（霊峰大山・鍵掛峠の錦秋大パノラマ＆皆生温泉オーシャン）</li>
-                <li><strong>控除上限内なら自己負担実質2,000円（最大30%クーポン還元）：</strong>楽天ふるさと納税トラベルクーポンで賢く予約（霊峰大山・鍵掛峠の錦秋大パノラマ＆皆生温泉オーシャン）</li>
+                <li><strong>見頃の紅葉パノラマ：</strong>標高や日当たりで刻一刻と変化するグラデーションを鑑賞</li>
+                <li><strong>極上の温泉と湯巡り：</strong>朝夕の冷え込む秋風の中で入る露天風呂は格別の贅沢</li>
+                <li><strong>控除上限内なら自己負担実質2,000円（最大30%クーポン還元）：</strong>楽天ふるさと納税トラベルクーポンで賢く予約</li>
               </ul>
             </div>
           </section>
@@ -185,7 +189,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.kaike_mitsui.planUrl || HOTEL_DATA.kaike_mitsui.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-3.5 px-6 rounded-xl text-center shadow-md transition-all text-sm md:text-base flex items-center justify-center gap-2"
               >
                 <span>プラン一覧・空室確認（楽天トラベル）</span>
@@ -194,7 +198,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.kaike_mitsui.reviewUrl || HOTEL_DATA.kaike_mitsui.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="bg-stone-100 hover:bg-stone-200 text-stone-700 font-bold py-3.5 px-5 rounded-xl text-center border border-stone-300 text-sm transition-all"
               >
                 口コミを見る
@@ -246,7 +250,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.kaike_seaside.planUrl || HOTEL_DATA.kaike_seaside.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-3.5 px-6 rounded-xl text-center shadow-md transition-all text-sm md:text-base flex items-center justify-center gap-2"
               >
                 <span>プラン一覧・空室確認（楽天トラベル）</span>
@@ -255,7 +259,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.kaike_seaside.reviewUrl || HOTEL_DATA.kaike_seaside.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="bg-stone-100 hover:bg-stone-200 text-stone-700 font-bold py-3.5 px-5 rounded-xl text-center border border-stone-300 text-sm transition-all"
               >
                 口コミを見る
@@ -307,7 +311,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.kaike_tsuruya.planUrl || HOTEL_DATA.kaike_tsuruya.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-3.5 px-6 rounded-xl text-center shadow-md transition-all text-sm md:text-base flex items-center justify-center gap-2"
               >
                 <span>プラン一覧・空室確認（楽天トラベル）</span>
@@ -316,7 +320,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.kaike_tsuruya.reviewUrl || HOTEL_DATA.kaike_tsuruya.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="bg-stone-100 hover:bg-stone-200 text-stone-700 font-bold py-3.5 px-5 rounded-xl text-center border border-stone-300 text-sm transition-all"
               >
                 口コミを見る
@@ -357,19 +361,19 @@ export default function FeatureArticlePage() {
             <h3 className="font-bold text-stone-900 mb-4 pb-2 border-b border-stone-200 flex items-center gap-2">この特集で紹介した宿</h3>
             <ul className="space-y-4 text-xs md:text-sm">
               <li>
-                <a href={HOTEL_DATA.kaike_mitsui.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
+                <a href={HOTEL_DATA.kaike_mitsui.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
                   <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.kaike_mitsui.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.kaike_mitsui.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
-                <a href={HOTEL_DATA.kaike_seaside.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
+                <a href={HOTEL_DATA.kaike_seaside.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
                   <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.kaike_seaside.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.kaike_seaside.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
-                <a href={HOTEL_DATA.kaike_tsuruya.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
+                <a href={HOTEL_DATA.kaike_tsuruya.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
                   <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.kaike_tsuruya.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.kaike_tsuruya.rating} | 楽天トラベルで詳細確認</div>
                 </a>
@@ -531,6 +535,9 @@ export default function FeatureArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"霊峰大山・鍵掛峠の錦秋大パノラマ＆皆生温泉オーシャンビュー露天！松葉ガニ・境港宿×ふるさと納税厳選ガイド鳥取"} url={"https://croud-travel.pages.dev/furusato-tax-daisen-kagikake-kaike-autumn-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-daisen-kagikake-kaike-autumn-stay" />
 </div>
         </section>

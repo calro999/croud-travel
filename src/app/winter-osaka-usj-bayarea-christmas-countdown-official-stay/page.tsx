@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -258,6 +259,9 @@ export default function OsakaUsjBayareaWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月大阪】USJ冬のクリスマス＆ベイエリア夜景！天然温泉スパと絶景オフィシャルホテル名宿5選"} url={"https://croud-travel.pages.dev/winter-osaka-usj-bayarea-christmas-countdown-official-stay/"} />
+      </div>
 
       {/* Main Content Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 pt-12 space-y-16">
@@ -403,7 +407,7 @@ export default function OsakaUsjBayareaWinterPage() {
                       <a
                         href={hotel.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="w-full inline-flex items-center justify-center gap-2 bg-gradient-to-r from-indigo-600 to-blue-600 hover:from-indigo-700 hover:to-blue-700 text-white font-bold py-3.5 px-6 rounded-xl text-sm transition-all shadow-md shadow-indigo-600/20 group"
                       >
                         <span>楽天トラベルで空室・冬限定プランを見る</span>
@@ -599,6 +603,9 @@ export default function OsakaUsjBayareaWinterPage() {
         <p>© 2026 地域の宿探訪 - 日本の四季と極上ホテル・旅館を巡る旅</p>
       </footer>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月大阪】USJ冬のクリスマス＆ベイエリア夜景！天然温泉スパと絶景オフィシャルホテル名宿5選"} url={"https://croud-travel.pages.dev/winter-osaka-usj-bayarea-christmas-countdown-official-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-osaka-usj-bayarea-christmas-countdown-official-stay" />
 </div>
   );

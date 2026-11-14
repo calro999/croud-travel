@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function TransitStyleHubPage() {
             渋滞知らず、運転疲れゼロ！新幹線改札を出てすぐにチェックインできる「新幹線駅直結・徒歩5分の温泉宿」。ビールを飲みながら駅弁を味わう優雅な移動時間と、駅からすぐの極上名湯に癒やされるスマートな大人の休日。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"新幹線駅直結・徒歩5分温泉宿：車なし・レンタカー不要！手ぶら温泉旅 厳選ガイド"} url={"https://croud-travel.pages.dev/shinkansen-direct-walk-onsen-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆おすすめ宿 */}
@@ -231,6 +235,9 @@ export default function TransitStyleHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"新幹線駅直結・徒歩5分温泉宿：車なし・レンタカー不要！手ぶら温泉旅 厳選ガイド"} url={"https://croud-travel.pages.dev/shinkansen-direct-walk-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="shinkansen-direct-walk-onsen-stay" />
 </div>
   );

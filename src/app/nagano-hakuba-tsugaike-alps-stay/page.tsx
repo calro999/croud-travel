@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             残雪と新緑、錦秋の三段紅葉が輝く北アルプス白馬連峰「白馬＆小谷・栂池高原」。白馬岩岳山頂の絶景テラス「HAKUBA MOUNTAIN HARBOR」。標高2,000mの高層湿原「栂池自然園」。pH11を超える美肌の白馬八方温泉と信州グルメを味わう山岳リゾートの旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"長野・白馬＆小谷・栂池高原：北アルプス白馬三山パノラマ・テラス＆信州そば宿 厳選ガイド"} url={"https://croud-travel.pages.dev/nagano-hakuba-tsugaike-alps-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -231,6 +235,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"長野・白馬＆小谷・栂池高原：北アルプス白馬三山パノラマ・テラス＆信州そば宿 厳選ガイド"} url={"https://croud-travel.pages.dev/nagano-hakuba-tsugaike-alps-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="nagano-hakuba-tsugaike-alps-stay" />
 </div>
   );

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             関ヶ原の戦い後、真田昌幸・幸村父子が再起を期して雌伏の時を過ごした「紀州・九度山」。六文銭の旗印が掲げられる真田庵とミュージアム。弘法大師の母が眠る女人高野「慈尊院」。高野山への表参道町石道を歩き、日本一の富有柿と紀州グルメを味わう旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"和歌山・高野山山麓＆九度山：真田幸村蟄居の地・善名称院＆世界遺産慈尊院・富有柿宿 厳選ガイド"} url={"https://croud-travel.pages.dev/wakayama-kudoyama-sanada-koyasan-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"和歌山・高野山山麓＆九度山：真田幸村蟄居の地・善名称院＆世界遺産慈尊院・富有柿宿 厳選ガイド"} url={"https://croud-travel.pages.dev/wakayama-kudoyama-sanada-koyasan-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="wakayama-kudoyama-sanada-koyasan-stay" />
 </div>
   );

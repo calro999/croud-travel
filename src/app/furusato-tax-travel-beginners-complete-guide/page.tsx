@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
@@ -137,6 +138,9 @@ export default function FurusatoTaxTravelBeginnersGuide() {
             </a>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"超初心者向け：ふるさと納税で旅行・ホテルに安く泊まる完全マニュアル"} url={"https://croud-travel.pages.dev/furusato-tax-travel-beginners-complete-guide/"} />
+      </div>
 
         {/* ハブページへの誘導バナー */}
         <div className="bg-amber-50 border border-amber-300 rounded-2xl p-5 mb-10 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 shadow-sm">
@@ -239,7 +243,7 @@ export default function FurusatoTaxTravelBeginnersGuide() {
             </div>
 
             <p className="text-xs text-stone-500">
-              ※楽天ポイントも寄付額に対して付与されるため、SPUやお買い物マラソンを活用すると、実質2,000円の負担すらポイント還元でプラスになってしまうことも珍しくありません。
+              ※返礼品の楽天トラベルクーポンは有効期限が最長3年間と長いため、12月31日までの駆け込み寄附でも、冬休み・年末年始から来春以降の旅行までじっくり日程を選べます。
             </p>
           </div>
         </section>
@@ -599,6 +603,9 @@ export default function FurusatoTaxTravelBeginnersGuide() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"超初心者向け：ふるさと納税で旅行・ホテルに安く泊まる完全マニュアル"} url={"https://croud-travel.pages.dev/furusato-tax-travel-beginners-complete-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-travel-beginners-complete-guide" />
 </div>
         </section>

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             宮沢賢治が愛した理想郷「イーハトーブ花巻」と、柳田國男『遠野物語』の世界が息づく民話の里「遠野」。渓流沿いの湯治場風情残る大沢温泉や鉛温泉の日本一深い自噴立ち湯。カッパ淵の静寂と極上の白金豚に癒やされる旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"岩手・花巻温泉郷＆遠野：宮沢賢治イーハトーブ・カッパ淵＆大沢・台温泉宿 厳選ガイド"} url={"https://croud-travel.pages.dev/iwate-hanamaki-tono-ihatov-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"岩手・花巻温泉郷＆遠野：宮沢賢治イーハトーブ・カッパ淵＆大沢・台温泉宿 厳選ガイド"} url={"https://croud-travel.pages.dev/iwate-hanamaki-tono-ihatov-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="iwate-hanamaki-tono-ihatov-stay" />
 </div>
   );

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -290,6 +291,9 @@ export default function AichiToyokawaYuyaWinterPage() {
             </p>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月愛知】豊川稲荷初詣と奥三河・湯谷温泉！霊狐塚の神秘と源泉かけ流し雪見露天・三河牛＆名物いなり名宿5選"} url={"https://croud-travel.pages.dev/winter-aichi-toyokawa-inari-hatsumode-yuya-onsen-stay/"} />
+      </div>
 
         {/* Article Summary Box */}
         <section className="max-w-5xl mx-auto px-4 -mt-8 relative z-20">
@@ -445,7 +449,7 @@ export default function AichiToyokawaYuyaWinterPage() {
                         <a
                           href={hotel.url}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="inline-flex items-center gap-2 bg-gradient-to-r from-amber-600 to-rose-600 hover:from-amber-700 hover:to-rose-700 text-white font-bold text-xs md:text-sm px-5 py-2.5 rounded-xl shadow transition-all transform hover:-translate-y-0.5"
                         >
                           <span>空室・料金プランを確認</span>
@@ -609,6 +613,9 @@ export default function AichiToyokawaYuyaWinterPage() {
 
         </main>
       
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月愛知】豊川稲荷初詣と奥三河・湯谷温泉！霊狐塚の神秘と源泉かけ流し雪見露天・三河牛＆名物いなり名宿5選"} url={"https://croud-travel.pages.dev/winter-aichi-toyokawa-inari-hatsumode-yuya-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-aichi-toyokawa-inari-hatsumode-yuya-onsen-stay" />
 </div>
     </>

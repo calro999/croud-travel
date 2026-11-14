@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -277,6 +278,9 @@ export default function MisasaCrabWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11月解禁！鳥取松葉ガニと三朝温泉】日本海直送タグ付き活ガニと世界屈指のラジウム名湯宿5選"} url={"https://croud-travel.pages.dev/winter-tottori-misasa-onsen-matsuba-crab-stay/"} />
+      </div>
 
       {/* Main Content Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
@@ -443,7 +447,7 @@ export default function MisasaCrabWinterPage() {
                       <a
                         href={hotel.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-6 py-3.5 rounded-xl bg-rose-700 hover:bg-rose-800 text-white font-bold text-sm shadow-sm transition-all hover:scale-[1.02]"
                       >
                         <span>楽天トラベルでプラン・空室を見る</span>
@@ -731,6 +735,9 @@ export default function MisasaCrabWinterPage() {
               <ChevronRight className="w-4 h-4" />
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11月解禁！鳥取松葉ガニと三朝温泉】日本海直送タグ付き活ガニと世界屈指のラジウム名湯宿5選"} url={"https://croud-travel.pages.dev/winter-tottori-misasa-onsen-matsuba-crab-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-tottori-misasa-onsen-matsuba-crab-stay" />
 </div>
         </section>

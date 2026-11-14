@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Image from 'next/image';
@@ -63,12 +64,14 @@ export default function AchimuraHirugamiAutumnPage() {
             星空観察の余韻に浸りながら浸かる「昼神温泉」は、pH9.7という強いアルカリ性単純硫黄泉。まるで美容液に浸かっているかのようなトロトロの肌触りで、入浴後は肌がつるつるになる「美肌の湯」として女性にも大人気です。
           </p>
         </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"秋の阿智村・昼神温泉：日本一の星空ナイトツアーと美肌温泉！南信州の秋を満喫するおすすめ名宿5選「2026最新」"} url={"https://croud-travel.pages.dev/autumn-nagano-achimura-hirugami-starry-sky-hotels-stay/"} />
+      </div>
 
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-amber-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！昼神温泉の厳選名宿5選</h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">楽天トラベル高評価！昼神温泉の厳選名宿5選</h2>
 
           <div className="space-y-8">
 
@@ -467,6 +470,9 @@ export default function AchimuraHirugamiAutumnPage() {
               </div>
             </div>
           </div></section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"秋の阿智村・昼神温泉：日本一の星空ナイトツアーと美肌温泉！南信州の秋を満喫するおすすめ名宿5選「2026最新」"} url={"https://croud-travel.pages.dev/autumn-nagano-achimura-hirugami-starry-sky-hotels-stay/"} />
+      </div>
         <div className="max-w-4xl mx-auto px-4 sm:px-6">
           <HubRelatedPosts currentSlug="autumn-nagano-achimura-hirugami-starry-sky-hotels-stay" />
         </div>

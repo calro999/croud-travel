@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Image from 'next/image';
@@ -63,12 +64,14 @@ export default function HakodateBudgetAutumnPage() {
             さらに10月下旬から11月上旬にかけては、特別史跡「五稜郭跡」の桜の木が一斉に紅葉し、堀の水面に映る赤と黄色のコントラストが絶景を描きます。お得に泊まって函館グルメを食べ尽くす秋旅がイチオシです。
           </p>
         </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"秋の函館×格安：五稜郭の紅葉と海鮮グルメ！1泊2,000円〜5,000円台の高コスパおすすめホテル5選「2026最新」"} url={"https://croud-travel.pages.dev/autumn-budget-hokkaido-hakodate-gourmet-onsen-hotels-stay/"} />
+      </div>
 
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-teal-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！函館の格安・高コスパホテル5選</h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">楽天トラベル高評価！函館の格安・高コスパホテル5選</h2>
 
           <div className="space-y-8">
 
@@ -498,6 +501,9 @@ export default function HakodateBudgetAutumnPage() {
               </div>
             </div>
           </div></section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"秋の函館×格安：五稜郭の紅葉と海鮮グルメ！1泊2,000円〜5,000円台の高コスパおすすめホテル5選「2026最新」"} url={"https://croud-travel.pages.dev/autumn-budget-hokkaido-hakodate-gourmet-onsen-hotels-stay/"} />
+      </div>
         <div className="max-w-4xl mx-auto px-4 sm:px-6">
           <HubRelatedPosts currentSlug="autumn-budget-hokkaido-hakodate-gourmet-onsen-hotels-stay" />
         </div>

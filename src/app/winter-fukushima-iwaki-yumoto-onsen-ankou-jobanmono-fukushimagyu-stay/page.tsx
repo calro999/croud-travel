@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
     title: '【11・12月いわき湯本温泉】冬の味覚常磐もの寒アンコウ濃厚どぶ汁鍋＆目光唐揚げ・日本三古湯の美肌硫黄泉と極上福島牛を味わう名宿5選',
     description: '11月から12月にかけて本格的な冬の到来を迎える福島県いわき市。東北地方にありながら「東北のハワイ」と称されるほど温暖で満喫する至福の宿泊滞在プランをご案内します。',
     url: 'https://croud-travel.pages.dev/winter-fukushima-iwaki-yumoto-onsen-ankou-jobanmono-fukushimagyu-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -48,7 +49,7 @@ export default function FukushimaIwakiYumotoWinterPage() {
         "isPartOf": {
           "@type": "WebSite",
           "@id": "https://croud-travel.pages.dev/#website",
-          "name": "クラドトラベル",
+          "name": "旅宿クラウド",
           "url": "https://croud-travel.pages.dev/"
         },
         "headline": "【11・12月いわき湯本温泉】冬の味覚常磐もの寒アンコウ濃厚どぶ汁鍋＆目光唐揚げ・日本三古湯の美肌硫黄泉と極上福島牛を味わう名宿5選",
@@ -59,7 +60,7 @@ export default function FukushimaIwakiYumotoWinterPage() {
         "mainEntityOfPage": "https://croud-travel.pages.dev/winter-fukushima-iwaki-yumoto-onsen-ankou-jobanmono-fukushimagyu-stay/",
         "publisher": {
           "@type": "Organization",
-          "name": "クラドトラベル編集部",
+          "name": "旅宿クラウド編集部",
           "url": "https://croud-travel.pages.dev/"
         }
       },
@@ -374,6 +375,9 @@ export default function FukushimaIwakiYumotoWinterPage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月いわき湯本温泉】冬の味覚常磐もの寒アンコウ濃厚どぶ汁鍋＆目光唐揚げ・日本三古湯の美肌硫黄泉と極上福島牛を味わう名宿5選"} url={"https://croud-travel.pages.dev/winter-fukushima-iwaki-yumoto-onsen-ankou-jobanmono-fukushimagyu-stay/"} />
+      </div>
 
       {/* Main Content Container */}
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-12">
@@ -482,7 +486,7 @@ export default function FukushimaIwakiYumotoWinterPage() {
                     <a
                       href={hotel.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center justify-center gap-1.5 px-5 py-2.5 bg-amber-700 hover:bg-amber-800 text-white text-xs sm:text-sm font-bold rounded-xl transition shadow-xs"
                     >
                       <span>楽天トラベルで空室・プランを見る</span>
@@ -744,6 +748,9 @@ export default function FukushimaIwakiYumotoWinterPage() {
               <span className="text-[11px] text-stone-500">11月・12月おすすめの厳選特集</span>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月いわき湯本温泉】冬の味覚常磐もの寒アンコウ濃厚どぶ汁鍋＆目光唐揚げ・日本三古湯の美肌硫黄泉と極上福島牛を味わう名宿5選"} url={"https://croud-travel.pages.dev/winter-fukushima-iwaki-yumoto-onsen-ankou-jobanmono-fukushimagyu-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-fukushima-iwaki-yumoto-onsen-ankou-jobanmono-fukushimagyu-stay" />
 </div>
         </section>

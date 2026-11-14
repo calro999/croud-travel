@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月群馬・四万温泉の神秘の四万ブルーと千二百年霊泉】積善館の歴史情緒・上州牛会席＆清流雪見露天の宿5選',
     description: '11月から12月にかけて上州・群馬の奥座敷「四万温泉」は、四万川や奥四万湖が年間で最も澄み渡る奇跡のコバルトブルー「四万ブルー」を湛え。',
     url: 'https://croud-travel.pages.dev/winter-gunma-shima-onsen-shima-blue-sekizenkan-stay/',
-    siteName: 'クラドトラベル (Croud Travel)',
+    siteName: '旅宿クラウド (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -287,6 +288,9 @@ export default function ShimaOnsenWinterFeature() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月群馬・四万温泉の神秘の四万ブルーと千二百年霊泉】積善館の歴史情緒・上州牛会席＆清流雪見露天の宿5選"} url={"https://croud-travel.pages.dev/winter-gunma-shima-onsen-shima-blue-sekizenkan-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-10 space-y-12">
@@ -492,7 +496,7 @@ export default function ShimaOnsenWinterFeature() {
                     <a
                       href={h.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="w-full sm:w-auto inline-flex items-center justify-center gap-2 bg-cyan-700 hover:bg-cyan-800 text-white font-bold text-sm px-6 py-3 rounded-2xl shadow-sm hover:shadow transition group flex-shrink-0"
                     >
                       <span>楽天トラベルでプランを見る</span>
@@ -611,6 +615,9 @@ export default function ShimaOnsenWinterFeature() {
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">全国の厳選温泉・旬旅特集まとめを見る</h3>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月群馬・四万温泉の神秘の四万ブルーと千二百年霊泉】積善館の歴史情緒・上州牛会席＆清流雪見露天の宿5選"} url={"https://croud-travel.pages.dev/winter-gunma-shima-onsen-shima-blue-sekizenkan-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-gunma-shima-onsen-shima-blue-sekizenkan-stay" />
 </div>
         </section>

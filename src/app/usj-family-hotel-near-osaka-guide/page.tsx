@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -178,6 +179,9 @@ export default function UsjFamilyHotelGuidePage() {
             </span>
           </div>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"子連れUSJホテルおすすめ比較：オフィシャルホテル徒歩1分 vs 梅田・なんば駅チカ宿！家族旅行厳選ガイド"} url={"https://croud-travel.pages.dev/usj-family-hotel-near-osaka-guide/"} />
+      </div>
       </section>
 
       {/* 楽天トラベル クーポンWEEKバナー */}
@@ -185,8 +189,7 @@ export default function UsjFamilyHotelGuidePage() {
 
       {/* 目次 */}
       <nav className="bg-teal-50/70 border border-teal-200/80 rounded-2xl p-6 shadow-sm">
-        <h2 className="text-base font-black text-teal-950 mb-3 flex items-center gap-2"><span className="w-2.5 h-2.5 rounded-full bg-teal-600"></span>
-          本記事のポイント一覧</h2>
+        <h2 className="text-base font-black text-teal-950 mb-3 flex items-center gap-2">本記事のポイント一覧</h2>
         <ul className="grid grid-cols-1 md:grid-cols-2 gap-2.5 text-sm text-teal-900">
           <li className="flex items-center gap-2">
             <span className="text-teal-600 font-bold">01.</span>
@@ -421,6 +424,9 @@ export default function UsjFamilyHotelGuidePage() {
         <SpecialCouponBanner variant="prominent" />
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"子連れUSJホテルおすすめ比較：オフィシャルホテル徒歩1分 vs 梅田・なんば駅チカ宿！家族旅行厳選ガイド"} url={"https://croud-travel.pages.dev/usj-family-hotel-near-osaka-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="usj-family-hotel-near-osaka-guide" />
 </div>
   );

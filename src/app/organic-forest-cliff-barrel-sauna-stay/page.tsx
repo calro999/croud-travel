@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             大自然の断崖や天空の丘に設置された北欧木製バレルサウナ！パノラマガラス越しに広がる大パノラマ、天然湧水の冷水風呂、そして心地よい風に包まれる天空外気浴。唯一無二のととのいを体感できる宿を厳選。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"絶壁バレルサウナ：天空の崖上に佇む円形サウナ＆湧水水風呂！息をのむ絶景パノラマ宿5選"} url={"https://croud-travel.pages.dev/organic-forest-cliff-barrel-sauna-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"絶壁バレルサウナ：天空の崖上に佇む円形サウナ＆湧水水風呂！息をのむ絶景パノラマ宿5選"} url={"https://croud-travel.pages.dev/organic-forest-cliff-barrel-sauna-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="organic-forest-cliff-barrel-sauna-stay" />
 </div>
         </section>

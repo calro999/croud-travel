@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -201,6 +202,9 @@ export default function SilverWeekGlampingAirConditioningBedPage() {
           </div>
         </div>
       </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"水回り完全個別＆シモンズ製ベッド：ホテル同等以上の快適さ！潔癖派も安心の高規格グランピング"} url={"https://croud-travel.pages.dev/silver-week-glamping-air-conditioning-luxury-bed-guide/"} />
+      </div>
 
       {/* 楽天トラベルスペシャルクーポンバナー */}
       <SpecialCouponBanner variant="prominent" />
@@ -424,6 +428,9 @@ export default function SilverWeekGlampingAirConditioningBedPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"水回り完全個別＆シモンズ製ベッド：ホテル同等以上の快適さ！潔癖派も安心の高規格グランピング"} url={"https://croud-travel.pages.dev/silver-week-glamping-air-conditioning-luxury-bed-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="silver-week-glamping-air-conditioning-luxury-bed-guide" />
 </div>
   );

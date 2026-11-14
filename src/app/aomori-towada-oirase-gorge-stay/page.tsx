@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             幾重にも重なる滝とエメラルドグリーンの激流が織りなす大自然の回廊「奥入瀬渓流」と、二重カルデラ湖「十和田湖」。ブナの巨木に囲まれた渓流遊歩道。十和田湖畔に鎮座する十和田神社の神聖な空気。名物ヒメマス料理と十和田バラ焼きを味わう旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"青森・十和田湖＆奥入瀬渓流：特別名勝奥入瀬・銚子大滝＆十和田バラ焼き・ヒメマス宿 厳選ガイド"} url={"https://croud-travel.pages.dev/aomori-towada-oirase-gorge-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -361,6 +365,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"青森・十和田湖＆奥入瀬渓流：特別名勝奥入瀬・銚子大滝＆十和田バラ焼き・ヒメマス宿 厳選ガイド"} url={"https://croud-travel.pages.dev/aomori-towada-oirase-gorge-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="aomori-towada-oirase-gorge-stay" />
 </div>
   );

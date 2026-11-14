@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function HistoryHeritageHubPage() {
             日本の夜明けを夢見た若き志士たちの足跡をたどる「幕末維新の歴史旅」。吉田松陰の松下村塾、白虎隊の悲話が伝わる飯盛山、龍馬が愛した名湯や会津の武家屋敷。激動の時代に思いを馳せながら、地元の名酒と郷土料理を味わう宿へ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"幕末維新の歴史浪漫宿：萩・会津若松・高知・薩摩・龍馬ゆかりの宿 厳選ガイド"} url={"https://croud-travel.pages.dev/japan-bakumatsu-ishin-samurai-history-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function HistoryHeritageHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"幕末維新の歴史浪漫宿：萩・会津若松・高知・薩摩・龍馬ゆかりの宿 厳選ガイド"} url={"https://croud-travel.pages.dev/japan-bakumatsu-ishin-samurai-history-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="japan-bakumatsu-ishin-samurai-history-stay" />
 </div>
   );

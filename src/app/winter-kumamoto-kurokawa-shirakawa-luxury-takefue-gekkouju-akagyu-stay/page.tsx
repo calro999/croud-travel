@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Image from 'next/image';
@@ -17,7 +18,7 @@ export const metadata: Metadata = {
     description: '阿蘇外輪山の奥深く、鬱蒼とした竹林と清らかな小川に包まれた南小国・黒川温泉郷の奥座敷。全国の温泉ファンが「一生に一度は泊まりたい」と憧れる日本最高峰のプライベート離れ「竹ふえ」や「月洸樹 黒川」。数百平米もの広さを誇る客室専用露天風呂や内湯に自家源泉が並々と掛け流され、冬の冷たい大気の中で竹林のライトアップを眺める至高の湯浴み。熊本が誇る幻の和牛「あか牛」の極上フィレ肉炭火焼きと季節の創作会席を味わう、究極の贅沢名宿5選。',
     url: 'https://croud-travel.pages.dev/winter-kumamoto-kurokawa-shirakawa-luxury-takefue-gekkouju-akagyu-stay/',
     type: 'article',
-    siteName: 'クラウドトラベル',
+    siteName: '旅宿クラウド',
   },
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-kumamoto-kurokawa-shirakawa-luxury-takefue-gekkouju-akagyu-stay/',
@@ -115,6 +116,9 @@ export default function LuxuryWinterFeaturePage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【竹林の秘境・日本最高峰ラグジュアリー離れ「竹ふえ」と「月洸樹」】2026-2027年11-12月初冬の熊本・黒川温…"} url={"https://croud-travel.pages.dev/winter-kumamoto-kurokawa-shirakawa-luxury-takefue-gekkouju-akagyu-stay/"} />
+      </div>
 
       {/* メインコンテンツ */}
       <main className="max-w-4xl mx-auto px-4 py-10 space-y-12">
@@ -566,6 +570,10 @@ export default function LuxuryWinterFeaturePage() {
           </div>
         </section>
 
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【竹林の秘境・日本最高峰ラグジュアリー離れ「竹ふえ」と「月洸樹」】2026-2027年11-12月初冬の熊本・黒川温…"} url={"https://croud-travel.pages.dev/winter-kumamoto-kurokawa-shirakawa-luxury-takefue-gekkouju-akagyu-stay/"} />
+      </div>
       </main>
     </div>
   );

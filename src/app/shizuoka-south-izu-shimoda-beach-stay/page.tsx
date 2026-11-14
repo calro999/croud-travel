@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             幕末の開国舞台となったレトロな港町「下田」と、伊豆最南端の大自然「南伊豆・ヒリゾ浜」。本州とは思えない驚異の透明度を誇るエメラルドグリーンの海。白砂の白浜海岸、石廊崎の断崖。下田港直送の金目鯛と下田温泉を味わう楽園の旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"静岡・南伊豆＆下田・ヒリゾ浜：開国の港街・白浜海岸＆秘境シュノーケリング・金目鯛宿 厳選ガイド"} url={"https://croud-travel.pages.dev/shizuoka-south-izu-shimoda-beach-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"静岡・南伊豆＆下田・ヒリゾ浜：開国の港街・白浜海岸＆秘境シュノーケリング・金目鯛宿 厳選ガイド"} url={"https://croud-travel.pages.dev/shizuoka-south-izu-shimoda-beach-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="shizuoka-south-izu-shimoda-beach-stay" />
 </div>
   );

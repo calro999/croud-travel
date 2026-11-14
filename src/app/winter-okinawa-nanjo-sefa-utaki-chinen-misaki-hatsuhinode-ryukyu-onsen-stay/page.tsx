@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
@@ -209,6 +210,9 @@ export default function Page() {
             </p>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"琉球最高の聖地・斎場御嶽新春祈願と知念岬初日の出：2026-2027年冬の沖縄・南城！美ら海絶景と琉球温泉・あぐー豚名宿5選"} url={"https://croud-travel.pages.dev/winter-okinawa-nanjo-sefa-utaki-chinen-misaki-hatsuhinode-ryukyu-onsen-stay/"} />
+      </div>
 
         {/* メインコンテンツエリア */}
         <div className="max-w-4xl mx-auto px-4 py-12 space-y-16">
@@ -733,6 +737,10 @@ export default function Page() {
             </ul>
           </section>
         </div>
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"琉球最高の聖地・斎場御嶽新春祈願と知念岬初日の出：2026-2027年冬の沖縄・南城！美ら海絶景と琉球温泉・あぐー豚名宿5選"} url={"https://croud-travel.pages.dev/winter-okinawa-nanjo-sefa-utaki-chinen-misaki-hatsuhinode-ryukyu-onsen-stay/"} />
+      </div>
       </article>
     </>
   );

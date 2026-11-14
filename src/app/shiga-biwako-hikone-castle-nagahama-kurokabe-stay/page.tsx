@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -107,6 +108,9 @@ export default function MicroTouristHubPage() {
             日本最大の湖「琵琶湖」をめぐる歴史と自然の極上旅。井伊家三十五万石の居城にして日本屈指の美しさを誇る国宝「彦根城」。秀吉が初めて城持ちとなった城下町・長浜のレトロモダンな「黒壁スクエア」。対岸の比叡山麓に湧く1200年の名湯「おごと温泉」。夕暮れ時にびわ湖を茜色に染めるサンセットと、三大和牛・近江牛の豊かな美味に酔いしれる滋賀ステイへご案内します。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"滋賀・琵琶湖＆彦根・長浜：国宝彦根城・黒壁＆湖畔温泉宿 厳選ガイド"} url={"https://croud-travel.pages.dev/shiga-biwako-hikone-castle-nagahama-kurokabe-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"滋賀・琵琶湖＆彦根・長浜：国宝彦根城・黒壁＆湖畔温泉宿 厳選ガイド"} url={"https://croud-travel.pages.dev/shiga-biwako-hikone-castle-nagahama-kurokabe-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="shiga-biwako-hikone-castle-nagahama-kurokabe-stay" />
 </div>
   );

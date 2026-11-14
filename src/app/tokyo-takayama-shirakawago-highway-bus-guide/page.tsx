@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -159,6 +160,9 @@ export default function HighwayBusArticlePage() {
             JR電車だと名古屋経由で特急を乗り継ぐ必要があり片道約16,000円（約4時間30分）。一方、バスタ新宿からの直行高速バスなら乗り換えゼロ・片道約6,500円〜7,500円（約5時間30分）！世界遺産・白川郷や古い町並み、飛騨牛づくしの旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"東京・新宿〜飛騨高山・白川郷：直行高速バスが最強！電車との料金・時間比較＆飛騨牛1泊2日モデルコース"} url={"https://croud-travel.pages.dev/tokyo-takayama-shirakawago-highway-bus-guide/"} />
       </div>
 
       {/* 📊 交通手段・料金・所要時間の徹底比較テーブル */}
@@ -612,6 +616,9 @@ export default function HighwayBusArticlePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"東京・新宿〜飛騨高山・白川郷：直行高速バスが最強！電車との料金・時間比較＆飛騨牛1泊2日モデルコース"} url={"https://croud-travel.pages.dev/tokyo-takayama-shirakawago-highway-bus-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="tokyo-takayama-shirakawago-highway-bus-guide" />
 </div>
   );

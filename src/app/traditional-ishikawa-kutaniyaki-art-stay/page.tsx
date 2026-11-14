@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             「ジャパン・クタニ」として世界を魅了する伝統工芸「九谷焼（くたにやき）」！緑・黄・赤・紫・紺青の五彩が美しい器で味わう日本海の極上海鮮会席と、開湯1300年の歴史を誇る加賀温泉郷の名湯に寛ぐ雅な旅。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"九谷焼の鮮やかな器と加賀懐石：五彩の美学！山代・山中・片山津の加賀温泉郷名湯宿5選"} url={"https://croud-travel.pages.dev/traditional-ishikawa-kutaniyaki-art-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"九谷焼の鮮やかな器と加賀懐石：五彩の美学！山代・山中・片山津の加賀温泉郷名湯宿5選"} url={"https://croud-travel.pages.dev/traditional-ishikawa-kutaniyaki-art-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="traditional-ishikawa-kutaniyaki-art-stay" />
 </div>
         </section>

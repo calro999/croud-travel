@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月宮城・作並温泉＆仙台奥座敷の初冬広瀬川雪見露天と美女づくりの湯】極上A5仙台牛ステーキ＆名物仙台せり鍋会席を味わう老舗宿5選',
     description: '11月から12月にかけて、杜の都・仙台の奥座敷として古くから親しまれる作並温泉および秋保温泉エリアは、広瀬川や名取川の深い渓谷が初雪に彩られ。',
     url: 'https://croud-travel.pages.dev/winter-miyagi-sakunami-onsen-yukimi-sendai-beef-serinabe-stay/',
-    siteName: 'クラドトラベル (Croud Travel)',
+    siteName: '旅宿クラウド (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -257,6 +258,9 @@ export default function MiyagiSakunamiWinterFeature() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月宮城・作並温泉＆仙台奥座敷の初冬広瀬川雪見露天と美女づくりの湯】極上A5仙台牛ステーキ＆名物仙台せり鍋会席を味わう老舗宿5選"} url={"https://croud-travel.pages.dev/winter-miyagi-sakunami-onsen-yukimi-sendai-beef-serinabe-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 space-y-16">
@@ -377,7 +381,7 @@ export default function MiyagiSakunamiWinterFeature() {
                 <div className="p-6 sm:p-8 flex flex-col justify-between flex-grow space-y-5">
                   <div className="space-y-3">
                     <div className="flex flex-wrap items-center justify-between gap-2">
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-rose-800 transition"><a href={hotel.url} target="_blank" rel="noopener noreferrer">
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-rose-800 transition"><a href={hotel.url} target="_blank" rel="sponsored noopener noreferrer">
                           {hotel.name}
                         </a></h3>
                       <div className="text-right">
@@ -434,7 +438,7 @@ export default function MiyagiSakunamiWinterFeature() {
                     <a
                       href={hotel.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center justify-center gap-2 w-full sm:w-auto px-6 py-3 rounded-2xl bg-rose-700 hover:bg-rose-800 text-white font-bold text-xs sm:text-sm shadow-sm hover:shadow transition duration-200"
                     >
                       <span>空室状況・プラン詳細（楽天トラベル）</span>
@@ -580,6 +584,9 @@ export default function MiyagiSakunamiWinterFeature() {
               </p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月宮城・作並温泉＆仙台奥座敷の初冬広瀬川雪見露天と美女づくりの湯】極上A5仙台牛ステーキ＆名物仙台せり鍋会席を味わう老舗宿5選"} url={"https://croud-travel.pages.dev/winter-miyagi-sakunami-onsen-yukimi-sendai-beef-serinabe-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-miyagi-sakunami-onsen-yukimi-sendai-beef-serinabe-stay" />
 </div>
         </section>

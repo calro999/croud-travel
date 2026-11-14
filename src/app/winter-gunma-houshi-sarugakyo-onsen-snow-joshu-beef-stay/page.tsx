@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月群馬・法師温泉＆猿ヶ京温泉】三国峠の秘湯雪景色・足元湧出「法師乃湯」と赤谷湖畔・極上面上州牛すき焼きを堪能する名宿5選',
     description: '11月中旬から初雪の知らせが届く群馬・新潟県境の三国峠。谷川連峰の裾野、ブナの原生林に抱かれた法師川のほとりに湧く法師温泉と。',
     url: 'https://croud-travel.pages.dev/winter-gunma-houshi-sarugakyo-onsen-snow-joshu-beef-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -49,7 +50,7 @@ export default function GunmaHoushiSarugakyoPage() {
         "isPartOf": {
           "@type": "WebSite",
           "@id": "https://croud-travel.pages.dev/#website",
-          "name": "クラドトラベル",
+          "name": "旅宿クラウド",
           "url": "https://croud-travel.pages.dev/"
         },
         "headline": "【11・12月群馬・法師温泉＆猿ヶ京温泉】三国峠の秘湯雪景色・足元湧出「法師乃湯」と赤谷湖畔・極上面上州牛すき焼きを堪能する名宿5選",
@@ -60,7 +61,7 @@ export default function GunmaHoushiSarugakyoPage() {
         "mainEntityOfPage": "https://croud-travel.pages.dev/winter-gunma-houshi-sarugakyo-onsen-snow-joshu-beef-stay/",
         "publisher": {
           "@type": "Organization",
-          "name": "クラドトラベル編集部",
+          "name": "旅宿クラウド編集部",
           "url": "https://croud-travel.pages.dev/"
         }
       },
@@ -348,6 +349,9 @@ export default function GunmaHoushiSarugakyoPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月群馬・法師温泉＆猿ヶ京温泉】三国峠の秘湯雪景色・足元湧出「法師乃湯」と赤谷湖畔・極上面上州牛すき焼きを堪能する名宿5選"} url={"https://croud-travel.pages.dev/winter-gunma-houshi-sarugakyo-onsen-snow-joshu-beef-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-10 sm:pt-14 space-y-12">
@@ -460,7 +464,7 @@ export default function GunmaHoushiSarugakyoPage() {
                         <a
                           href={hotel.url}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="inline-flex items-center gap-1.5 bg-amber-800 hover:bg-amber-900 text-white text-xs sm:text-sm font-bold px-4 py-2.5 rounded-xl transition shadow-xs"
                         >
                           プラン一覧を見る
@@ -647,6 +651,9 @@ export default function GunmaHoushiSarugakyoPage() {
               </p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月群馬・法師温泉＆猿ヶ京温泉】三国峠の秘湯雪景色・足元湧出「法師乃湯」と赤谷湖畔・極上面上州牛すき焼きを堪能する名宿5選"} url={"https://croud-travel.pages.dev/winter-gunma-houshi-sarugakyo-onsen-snow-joshu-beef-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-gunma-houshi-sarugakyo-onsen-snow-joshu-beef-stay" />
 </div>
         </section>

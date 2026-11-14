@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -155,6 +156,9 @@ export default function SilverWeekGlampingKyushuFukuokaKumamotoPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"九州シルバーウィーク グランピング：阿蘇カルデラ・糸島ビーチ・由布院温泉の極上ステイ"} url={"https://croud-travel.pages.dev/silver-week-glamping-kyushu-fukuoka-kumamoto-guide/"} />
+      </div>
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-16">
@@ -576,6 +580,9 @@ export default function SilverWeekGlampingKyushuFukuokaKumamotoPage() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"九州シルバーウィーク グランピング：阿蘇カルデラ・糸島ビーチ・由布院温泉の極上ステイ"} url={"https://croud-travel.pages.dev/silver-week-glamping-kyushu-fukuoka-kumamoto-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="silver-week-glamping-kyushu-fukuoka-kumamoto-guide" />
 </div>
   );

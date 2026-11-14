@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import Link from 'next/link';
 import type { Metadata } from 'next';
@@ -16,7 +17,7 @@ export const metadata: Metadata = {
     title: "秋のUSJハロウィーン2026：絶叫の「ハロウィーン・ホラー・ナイト」＆ストリート・ゾンビ",
     description: "秋のユニバーサル・スタジオ・ジャパン（USJ）が究極の熱狂と興奮に包まれる「ハロウィーン・イベント」。日中は「ハハハ！ ハロウィーン・パーティ」でDJピカチュウやゲンガー、ミニオンたちと全身全霊で踊り狂い、夜はパークが一変して恐怖の底に突き落とされる「ハロウィーン・ホラー・ナイト」が開幕！大量の凶悪ゾンビが徘徊する「ストリート・ゾンビ」や、Adoの楽曲に合わせてゾンビと群衆が狂乱する「ゾンビ・デ・ダンス」、恐怖のホラー・メイズ＆バイオハザード体験。パーク徒歩数分の感動立地を誇るオフィシャルホテル＆展望天然温泉付き厳選名宿5選を徹底特集。",
     url: 'https://croud-travel.pages.dev/autumn-usj-halloween-horror-nights-osaka-bay-hotels-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
     images: [{
@@ -45,11 +46,11 @@ export default function UsjHalloweenFeaturePage() {
     "dateModified": "2026-10-25T10:00:00+09:00",
     "author": {
       "@type": "Organization",
-      "name": "クラドトラベル編集部 テーマパーク・エンタメ取材班"
+      "name": "旅宿クラウド編集部 テーマパーク・エンタメ取材班"
     },
     "publisher": {
       "@type": "Organization",
-      "name": "クラドトラベル",
+      "name": "旅宿クラウド",
       "logo": {
         "@type": "ImageObject",
         "url": "https://croud-travel.pages.dev/logo.png"
@@ -287,6 +288,9 @@ export default function UsjHalloweenFeaturePage() {
             </div>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"秋のUSJハロウィーン2026：絶叫の「ハロウィーン・ホラー・ナイト」＆ストリート・ゾンビ"} url={"https://croud-travel.pages.dev/autumn-usj-halloween-horror-nights-osaka-bay-hotels-stay/"} />
+      </div>
 
         {/* Main Content Area */}
         <main className="max-w-4xl mx-auto px-4 sm:px-6 py-12">
@@ -413,7 +417,7 @@ export default function UsjHalloweenFeaturePage() {
                       <a
                         href={h.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center justify-center w-full sm:w-auto gap-2 px-6 py-3 rounded-lg bg-red-600 hover:bg-red-700 text-white font-bold text-xs sm:text-sm shadow-sm transition"
                       >
                         <span>楽天トラベルでプラン・空室を確認</span>
@@ -557,12 +561,16 @@ export default function UsjHalloweenFeaturePage() {
                 東京ディズニーリゾート・ハロウィーン特集
               </Link>
               <Link href="/" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">
-                クラドトラベル トップページ
+                旅宿クラウド トップページ
               </Link>
             </div>
           </section>
 
-        </main>
+        
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"秋のUSJハロウィーン2026：絶叫の「ハロウィーン・ホラー・ナイト」＆ストリート・ゾンビ"} url={"https://croud-travel.pages.dev/autumn-usj-halloween-horror-nights-osaka-bay-hotels-stay/"} />
+      </div>
+      </main>
       </article>
     </>
   );

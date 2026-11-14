@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月山形・庄内あつみ温泉の開湯1200年名湯と冬の日本海味覚】名物寒鱈汁＆紅ズワイガニ・極上庄内牛・温海川雪景色を愛でる老舗名宿5選',
     description: '11月から12月にかけて、山形県庄内地方の南端に位置する「あつみ温泉（温海温泉）」は、日本海の潮風と出羽の山並みが交錯する渓谷に位置し。',
     url: 'https://croud-travel.pages.dev/winter-yamagata-atsumi-onsen-kandara-shonaigyu-snow-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -170,7 +171,7 @@ export default function WinterYamagataAtsumiPage() {
         'isPartOf': {
           '@type': 'WebSite',
           '@id': 'https://croud-travel.pages.dev/#website',
-          'name': 'クラドトラベル',
+          'name': '旅宿クラウド',
           'url': 'https://croud-travel.pages.dev/'
         },
         'headline': "【11・12月山形・庄内あつみ温泉の開湯1200年名湯と冬の日本海味覚】名物寒鱈汁＆紅ズワイガニ・極上庄内牛・温海川雪景色を愛でる老舗名宿5選",
@@ -181,7 +182,7 @@ export default function WinterYamagataAtsumiPage() {
         'dateModified': '2026-10-25T00:00:00+09:00',
         'publisher': {
           '@type': 'Organization',
-          'name': 'クラドトラベル編集部',
+          'name': '旅宿クラウド編集部',
           'url': 'https://croud-travel.pages.dev/'
         }
       },
@@ -273,6 +274,9 @@ export default function WinterYamagataAtsumiPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月山形・庄内あつみ温泉の開湯1200年名湯と冬の日本海味覚】名物寒鱈汁＆紅ズワイガニ・極上庄内牛・温海川雪景色を愛でる老舗名宿5選"} url={"https://croud-travel.pages.dev/winter-yamagata-atsumi-onsen-kandara-shonaigyu-snow-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
@@ -390,7 +394,7 @@ export default function WinterYamagataAtsumiPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-lg sm:text-2xl font-bold text-stone-900 hover:text-sky-800 transition"><a href={h.url} target="_blank" rel="noopener noreferrer">
+                      <h3 className="text-lg sm:text-2xl font-bold text-stone-900 hover:text-sky-800 transition"><a href={h.url} target="_blank" rel="sponsored noopener noreferrer">
                           {h.name}
                         </a></h3>
 
@@ -436,7 +440,7 @@ export default function WinterYamagataAtsumiPage() {
                       <a
                         href={h.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="w-full sm:w-auto inline-flex items-center justify-center gap-2 bg-sky-800 hover:bg-sky-900 text-white font-bold text-xs sm:text-sm px-6 py-3 rounded-xl transition shadow-xs hover:shadow-md shrink-0"
                       >
                         <span>空室・料金プランを見る</span>
@@ -608,6 +612,9 @@ export default function WinterYamagataAtsumiPage() {
               </p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月山形・庄内あつみ温泉の開湯1200年名湯と冬の日本海味覚】名物寒鱈汁＆紅ズワイガニ・極上庄内牛・温海川雪景色を愛でる老舗名宿5選"} url={"https://croud-travel.pages.dev/winter-yamagata-atsumi-onsen-kandara-shonaigyu-snow-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-yamagata-atsumi-onsen-kandara-shonaigyu-snow-stay" />
 </div>
         </section>

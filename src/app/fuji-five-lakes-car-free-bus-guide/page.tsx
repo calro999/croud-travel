@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -238,6 +239,9 @@ export default function FujiFiveLakesCarFreeBusGuidePage() {
             </div>
           </div>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"富士五湖・河口湖 車なし観光ガイド：周遊バス・富士急行で回る！逆さ富士・忍野八海・浅間神社モデルコース"} url={"https://croud-travel.pages.dev/fuji-five-lakes-car-free-bus-guide/"} />
+      </div>
       </section>
 
       {/* 周遊バス路線ネットワークの全貌 */}
@@ -509,6 +513,9 @@ export default function FujiFiveLakesCarFreeBusGuidePage() {
         </div>
       </section>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"富士五湖・河口湖 車なし観光ガイド：周遊バス・富士急行で回る！逆さ富士・忍野八海・浅間神社モデルコース"} url={"https://croud-travel.pages.dev/fuji-five-lakes-car-free-bus-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="fuji-five-lakes-car-free-bus-guide" />
 </div>
   );

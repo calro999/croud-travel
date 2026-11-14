@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -9,7 +10,7 @@ export const metadata: Metadata = {
   description: '大地が育んだ日本屈指の名水湧出地（熊本・南阿蘇白川水源、長野・安曇野わさび田湧水、静岡・富士山柿田川湧水群）。清冽な名水で仕込んだ地酒や信州蕎麦、名水豆腐に舌鼓を打ち、源泉名湯で癒やされる旅。楽天ふるさと納税完全活用。',
   keywords: ["美肌温泉宿×ふるさと納税", "2026年最新", "白川水源", "安曇野", "柿田川", "温泉宿", "宿泊予約"],
   alternates: {
-    canonical: "https://croud-travel.pages.dev/furusato-tax-famous-spring-waters-healing-stay/",
+    canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-submerged-karst-springs-stay/",
   },
   openGraph: {
     title: '日本名水百選の湧水地と名水仕込み美食・美肌温泉宿×ふるさと納税厳選ガイド白川水源・安曇野・柿田川',
@@ -121,7 +122,7 @@ export default function FurusatoUpgradedPage() {
             <a
               href={officialFurusatoAffUrl}
               target="_blank"
-              rel="noopener noreferrer"
+              rel="sponsored noopener noreferrer"
               className="inline-flex items-center justify-center gap-2 px-8 py-4 rounded-2xl bg-gradient-to-r from-amber-500 to-orange-500 hover:from-amber-400 hover:to-orange-400 text-stone-950 font-black text-base shadow-xl shadow-amber-500/20 hover:scale-[1.02] active:scale-[0.98] transition-all"
             >
               <span>楽天ふるさと納税 宿泊クーポンを獲得する</span>
@@ -130,6 +131,9 @@ export default function FurusatoUpgradedPage() {
           </div>
         </div>
       </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"日本名水百選の湧水地と名水仕込み美食・美肌温泉宿×ふるさと納税厳選ガイド白川水源・安曇野・柿田川"} url={"https://croud-travel.pages.dev/furusato-tax-famous-spring-waters-healing-stay/"} />
+      </div>
 
       {/* メリット3選 */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto border-b border-stone-800">
@@ -230,7 +234,7 @@ export default function FurusatoUpgradedPage() {
                       <a
                         href={officialFurusatoAffUrl}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="flex-1 text-center bg-stone-800 hover:bg-stone-700 text-amber-200 font-bold py-3 px-6 rounded-xl border border-stone-700 transition duration-150 text-sm"
                       >
                         自治体返礼品クーポン一覧
@@ -254,7 +258,7 @@ export default function FurusatoUpgradedPage() {
             <div className="p-6 rounded-2xl bg-stone-950/80 border border-stone-800">
               <div className="text-2xl font-black text-amber-400 mb-2">STEP 01</div>
               <h3 className="font-bold text-white mb-2">自治体に寄附する</h3>
-              <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">宿泊したい施設がある自治体を選び、楽天ふるさと納税で寄附を申し込みます。楽天ポイントも通常通り進呈されます。
+              <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">宿泊したい施設がある自治体を選び、楽天ふるさと納税で寄附を申し込みます。クーポンは寄附翌日から最長3年間利用可能です。
               </p>
             </div>
             <div className="p-6 rounded-2xl bg-stone-950/80 border border-stone-800">
@@ -273,7 +277,7 @@ export default function FurusatoUpgradedPage() {
           <a
             href={officialFurusatoAffUrl}
             target="_blank"
-            rel="noopener noreferrer"
+            rel="sponsored noopener noreferrer"
             className="inline-flex items-center justify-center gap-2 px-10 py-5 rounded-2xl bg-gradient-to-r from-amber-500 to-orange-500 hover:from-amber-400 hover:to-orange-400 text-stone-950 font-black text-lg shadow-xl shadow-amber-500/20 hover:scale-[1.02] active:scale-[0.98] transition-all"
           >
             <span>対象の宿泊割引クーポンを探す</span>
@@ -445,6 +449,9 @@ export default function FurusatoUpgradedPage() {
             </div>
           </div></section>
 
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"日本名水百選の湧水地と名水仕込み美食・美肌温泉宿×ふるさと納税厳選ガイド白川水源・安曇野・柿田川"} url={"https://croud-travel.pages.dev/furusato-tax-famous-spring-waters-healing-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-famous-spring-waters-healing-stay" />
 </div>
   );

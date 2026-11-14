@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
@@ -237,6 +238,9 @@ export default function Page() {
             </p>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"徳川家康生誕の城下町・岡崎城雪景色と伊賀八幡宮新春初詣：2026-2027年冬の愛知・岡崎！本場八丁味噌鍋と三河牛会席名宿5選"} url={"https://croud-travel.pages.dev/winter-aichi-okazaki-castle-iga-hachimangu-hatsumode-hatcho-miso-mikawagyu-stay/"} />
+      </div>
 
         <main className="max-w-4xl mx-auto px-4 mt-10 space-y-12">
           {/* イントロダクション */}
@@ -707,7 +711,11 @@ export default function Page() {
               </li>
             </ul>
           </section>
-        </main>
+        
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"徳川家康生誕の城下町・岡崎城雪景色と伊賀八幡宮新春初詣：2026-2027年冬の愛知・岡崎！本場八丁味噌鍋と三河牛会席名宿5選"} url={"https://croud-travel.pages.dev/winter-aichi-okazaki-castle-iga-hachimangu-hatsumode-hatcho-miso-mikawagyu-stay/"} />
+      </div>
+      </main>
       </article>
     </>
   );

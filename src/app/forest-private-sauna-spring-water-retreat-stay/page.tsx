@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function WellnessRetreatHubPage() {
             誰にも邪魔されず、森の薫りに包まれて「究極のととのい」へ！客室専用の木製バレルサウナやフィンランド式サウナ。白樺のアロマ水でセルフロウリュ、湧き出る天然水水風呂へダイブ。満天の星の下で風に吹かれる至福のリトリート。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"森のプライベートサウナ＆天然湧水水風呂宿：完全貸切・バレルサウナ＆外気浴 厳選ガイド"} url={"https://croud-travel.pages.dev/forest-private-sauna-spring-water-retreat-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆おすすめ宿 */}
@@ -231,6 +235,9 @@ export default function WellnessRetreatHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"森のプライベートサウナ＆天然湧水水風呂宿：完全貸切・バレルサウナ＆外気浴 厳選ガイド"} url={"https://croud-travel.pages.dev/forest-private-sauna-spring-water-retreat-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="forest-private-sauna-spring-water-retreat-stay" />
 </div>
   );

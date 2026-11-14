@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import FurusatoStepSection from "@/app/components/FurusatoStepSection";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
@@ -96,6 +97,9 @@ export default function FurusatoRound65ArticlePage() {
             </Link>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"日本三大漆原木美林＆うるしの森トレッキングと漆器ギャラリー名旅館×ふるさと納税厳選ガイド浄法寺・会津・丹波"} url={"https://croud-travel.pages.dev/furusato-tax-three-great-lacquer-tree-forests-stay/"} />
+      </div>
 
         {/* 3つの魅力・深掘り解説 */}
         <section className="mb-16">
@@ -500,6 +504,9 @@ export default function FurusatoRound65ArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"日本三大漆原木美林＆うるしの森トレッキングと漆器ギャラリー名旅館×ふるさと納税厳選ガイド浄法寺・会津・丹波"} url={"https://croud-travel.pages.dev/furusato-tax-three-great-lacquer-tree-forests-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-three-great-lacquer-tree-forests-stay" />
 </div>
         </section>

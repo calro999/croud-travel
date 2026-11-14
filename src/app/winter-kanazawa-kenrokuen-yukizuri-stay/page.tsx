@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             11月1日から始まる日本三名園・兼六園の冬の風物詩「雪吊り（ゆきづり）」！幾何学模様のように美しい円錐形の縄張りと紅葉・初雪の情景を愛で、解禁直後の加能ガニやのどぐろ、金沢温泉郷の名湯に寛ぐ雅な北陸旅。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11月雪吊り開幕！金沢兼六園＆加賀百万石美食】冬の風物詩と近江町市場・山代名湯宿5選"} url={"https://croud-travel.pages.dev/winter-kanazawa-kenrokuen-yukizuri-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -517,6 +521,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11月雪吊り開幕！金沢兼六園＆加賀百万石美食】冬の風物詩と近江町市場・山代名湯宿5選"} url={"https://croud-travel.pages.dev/winter-kanazawa-kenrokuen-yukizuri-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-kanazawa-kenrokuen-yukizuri-stay" />
 </div>
         </section>

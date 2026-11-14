@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function GourmetCuisineHubPage() {
             とろけるような極上の霜降りと芳醇な香り！日本が世界に誇る三大和牛・五大銘柄牛「松阪牛」「神戸牛」「米沢牛」「近江牛」「佐賀牛」。本場の産地で味わう炭火ステーキ、伝統のすき焼き、温泉宿の贅沢フルコースへ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"日本五大ブランド和牛の宿：松阪牛・神戸牛・米沢牛・近江牛・佐賀牛極上会席 厳選ガイド"} url={"https://croud-travel.pages.dev/japan-top-brand-wagyu-beef-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function GourmetCuisineHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"日本五大ブランド和牛の宿：松阪牛・神戸牛・米沢牛・近江牛・佐賀牛極上会席 厳選ガイド"} url={"https://croud-travel.pages.dev/japan-top-brand-wagyu-beef-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="japan-top-brand-wagyu-beef-stay" />
 </div>
   );

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -125,6 +126,9 @@ export default function KyotoCoupleLuxuryRyokanPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"京都カップル旅行 おすすめ高級旅館＆町家ホテル：祇園・嵐山で二人きりの特別な夜を過ごす大人の宿"} url={"https://croud-travel.pages.dev/kyoto-couple-luxury-ryokan-guide/"} />
+      </div>
 
       {/* メインコンテンツ */}
       <main className="max-w-4xl mx-auto px-4 py-10 space-y-12">
@@ -646,6 +650,9 @@ export default function KyotoCoupleLuxuryRyokanPage() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"京都カップル旅行 おすすめ高級旅館＆町家ホテル：祇園・嵐山で二人きりの特別な夜を過ごす大人の宿"} url={"https://croud-travel.pages.dev/kyoto-couple-luxury-ryokan-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="kyoto-couple-luxury-ryokan-guide" />
 </div>
   );

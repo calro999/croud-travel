@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             幕末の歴史が息づく会津の城下町と、阿賀川（大川）が削り出した深い渓谷「芦ノ牧温泉」。江戸の面影を色濃く残す茅葺き屋根の宿場町「大内宿」。会津地鶏や会津馬刺し、日本屈指の銘酒の数々に酔いしれる歴史旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"福島・会津若松＆芦ノ牧温泉：鶴ヶ城・大内宿ねぎそば＆渓谷露天・ねこ駅長宿 厳選ガイド"} url={"https://croud-travel.pages.dev/fukushima-aizu-ashinomaki-ouchijuku-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -423,6 +427,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"福島・会津若松＆芦ノ牧温泉：鶴ヶ城・大内宿ねぎそば＆渓谷露天・ねこ駅長宿 厳選ガイド"} url={"https://croud-travel.pages.dev/fukushima-aizu-ashinomaki-ouchijuku-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="fukushima-aizu-ashinomaki-ouchijuku-stay" />
 </div>
   );

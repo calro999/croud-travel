@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import FurusatoStepSection from "@/app/components/FurusatoStepSection";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
@@ -96,6 +97,9 @@ export default function FurusatoSetouchiIslandResortStayPage() {
             </Link>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"穏やかな海と多島美に癒やされる瀬戸内アイランドリゾート名宿×ふるさと納税厳選ガイド小豆島・鞆の浦・生口島"} url={"https://croud-travel.pages.dev/furusato-tax-setouchi-island-luxury-ocean-resort-stay/"} />
+      </div>
 
         {/* 3つの醍醐味セクション */}
         <section className="mb-16">
@@ -517,6 +521,9 @@ export default function FurusatoSetouchiIslandResortStayPage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"穏やかな海と多島美に癒やされる瀬戸内アイランドリゾート名宿×ふるさと納税厳選ガイド小豆島・鞆の浦・生口島"} url={"https://croud-travel.pages.dev/furusato-tax-setouchi-island-luxury-ocean-resort-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-setouchi-island-luxury-ocean-resort-stay" />
 </div>
         </section>

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             客室の専用ウッドデッキから清流を間近に望み、せせらぎの音と澄んだ空気に包まれるプライベート露天風呂。誰にも邪魔されない離れの客室で、大自然のマイナスイオンに癒やされる贅沢な休日を。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"清流せせらぎデッキ：川の音を間近に聴くプライベート露天風呂！癒やしの渓流隠れ宿5選"} url={"https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-creek-deck/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"清流せせらぎデッキ：川の音を間近に聴くプライベート露天風呂！癒やしの渓流隠れ宿5選"} url={"https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-creek-deck/"} />
+      </div>
       <HubRelatedPosts currentSlug="luxury-private-onsen-with-scenic-creek-deck" />
 </div>
         </section>

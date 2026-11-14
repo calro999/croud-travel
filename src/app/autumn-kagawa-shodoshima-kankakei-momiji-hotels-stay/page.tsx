@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11月見頃！日本三大渓谷美・小豆島寒霞渓の紅葉】奇岩ロープウェイと絶景オリーブ温泉宿5選"} url={"https://croud-travel.pages.dev/autumn-kagawa-shodoshima-kankakei-momiji-hotels-stay/"} />
+      </div>
 
       <nav className="max-w-5xl mx-auto px-4 py-4 text-xs md:text-sm text-stone-500 flex items-center gap-2 overflow-x-auto whitespace-nowrap">
         <Link href="/" className="hover:text-amber-600">ホーム</Link>
@@ -376,6 +380,9 @@ export default function FeaturePage() {
           </div>
         </section>
 
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11月見頃！日本三大渓谷美・小豆島寒霞渓の紅葉】奇岩ロープウェイと絶景オリーブ温泉宿5選"} url={"https://croud-travel.pages.dev/autumn-kagawa-shodoshima-kankakei-momiji-hotels-stay/"} />
+      </div>
         <HubRelatedPosts currentSlug="" />
       </main>
     </div>

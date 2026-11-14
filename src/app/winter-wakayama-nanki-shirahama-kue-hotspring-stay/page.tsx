@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -270,6 +271,9 @@ export default function ShirahamaWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月南紀白浜温泉の太平洋絶景と名湯】白良浜夕陽と日本三古湯・幻の天然本クエ鍋＆熊野牛の宿5選"} url={"https://croud-travel.pages.dev/winter-wakayama-nanki-shirahama-kue-hotspring-stay/"} />
+      </div>
 
       {/* Main Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
@@ -505,7 +509,7 @@ export default function ShirahamaWinterPage() {
                       <a
                         href={hotel.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-6 py-3 bg-cyan-800 hover:bg-cyan-900 text-white font-bold rounded-xl shadow-md transition-all duration-200 text-sm hover:scale-[1.02]"
                       >
                         <span>空室状況・プラン一覧</span>
@@ -670,6 +674,9 @@ export default function ShirahamaWinterPage() {
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">全国の厳選温泉・宿特集まとめを見る</h3>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月南紀白浜温泉の太平洋絶景と名湯】白良浜夕陽と日本三古湯・幻の天然本クエ鍋＆熊野牛の宿5選"} url={"https://croud-travel.pages.dev/winter-wakayama-nanki-shirahama-kue-hotspring-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-wakayama-nanki-shirahama-kue-hotspring-stay" />
 </div>
         </section>

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -113,6 +114,9 @@ export default function SeasonalFeaturePage() {
             金属のパイプラインや蒸留塔が放つ無数の光、立ち上る白いスチーム。冬の澄み切った夜空に浮かび上がる近未来的な工場夜景と、海越しに望む都市の摩天楼。感動のベイサイドナイトステイへ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【冬の夜景】工場夜景クルーズ＆煌めくベイサイドホテル 完全ガイド"} url={"https://croud-travel.pages.dev/winter-bayside-factory-nightview/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function SeasonalFeaturePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【冬の夜景】工場夜景クルーズ＆煌めくベイサイドホテル 完全ガイド"} url={"https://croud-travel.pages.dev/winter-bayside-factory-nightview/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-bayside-factory-nightview" />
 </div>
   );

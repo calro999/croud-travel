@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function ScenicViewHubPage() {
             部屋の明かりを消した瞬間、目の前に広がる光の宝石箱！世界新三大夜景「長崎」、日本三大夜景「函館・神戸」、そして横浜・東京の煌めく摩天楼。シャンパンを傾けながら夜景に包まれるロマンチックな極上ステイへ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"日本三大夜景＆摩天楼パノラマ宿：函館・長崎・神戸・横浜・東京高層ホテル 厳選ガイド"} url={"https://croud-travel.pages.dev/japan-top-night-view-luxury-hotel-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function ScenicViewHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"日本三大夜景＆摩天楼パノラマ宿：函館・長崎・神戸・横浜・東京高層ホテル 厳選ガイド"} url={"https://croud-travel.pages.dev/japan-top-night-view-luxury-hotel-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="japan-top-night-view-luxury-hotel-stay" />
 </div>
   );

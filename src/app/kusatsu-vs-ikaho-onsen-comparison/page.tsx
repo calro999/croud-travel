@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -77,6 +78,9 @@ export default function KusatsuVsIkahoPage() {
           実際に両方を何度も訪れている筆者が、泉質、街歩きの楽しさ、交通アクセス、費用の相場など、7つの項目で徹底的に比較してみました！
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"草津温泉 vs 伊香保温泉 どっちがいい？：泉質・街歩き・アクセス・宿を7項目で徹底比較"} url={"https://croud-travel.pages.dev/kusatsu-vs-ikaho-onsen-comparison/"} />
+      </div>
 
       <section className="mb-14">
         <h2 className="font-journal-serif text-2xl md:text-3xl font-bold text-emerald-800 mb-6 border-b-2 border-emerald-200 pb-2">1. 泉質の比較：刺激的な草津か、芯から温まる伊香保か</h2>
@@ -533,6 +537,10 @@ export default function KusatsuVsIkahoPage() {
             </div>
           </div></section>
 
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"草津温泉 vs 伊香保温泉 どっちがいい？：泉質・街歩き・アクセス・宿を7項目で徹底比較"} url={"https://croud-travel.pages.dev/kusatsu-vs-ikaho-onsen-comparison/"} />
+      </div>
       </main>
   );
 }

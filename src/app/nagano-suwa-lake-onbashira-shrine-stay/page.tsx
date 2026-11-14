@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -107,6 +108,9 @@ export default function MicroTouristHubPage() {
             諏訪湖を挟んで鎮座する日本屈指の古社「諏訪大社」四社（本宮・前宮・秋宮・春宮）。勇壮な御柱祭の熱気と七年に一度の神話が息づく地。湖畔に湧き出る豊富な湯量を誇る「上諏訪温泉」、大正ロマンあふれる千人風呂「片倉館」。そして街道沿いにわずか500mの間に名酒蔵が並ぶ「諏訪五蔵」。信州の大自然と歴史ロマンに酔いしれる諏訪ステイへご案内します。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"長野・諏訪湖＆諏訪大社：四社まいり・片倉館千人風呂＆地酒宿 厳選ガイド"} url={"https://croud-travel.pages.dev/nagano-suwa-lake-onbashira-shrine-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"長野・諏訪湖＆諏訪大社：四社まいり・片倉館千人風呂＆地酒宿 厳選ガイド"} url={"https://croud-travel.pages.dev/nagano-suwa-lake-onbashira-shrine-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="nagano-suwa-lake-onbashira-shrine-stay" />
 </div>
   );

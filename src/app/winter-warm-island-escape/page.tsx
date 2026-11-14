@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -113,6 +114,9 @@ export default function SeasonalFeaturePage() {
             コートを脱ぎ捨てて、心地よい南風が吹き抜ける楽園へ。冬の沖縄・奄美は観光のオフシーズンで混雑がなく、ホテル料金もお得。静寂のプライベートリゾートで極上のリフレッシュを。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【冬の避寒リゾート】寒さ知らず！沖縄・奄美大島ぽかぽか旅 完全ガイド"} url={"https://croud-travel.pages.dev/winter-warm-island-escape/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function SeasonalFeaturePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【冬の避寒リゾート】寒さ知らず！沖縄・奄美大島ぽかぽか旅 完全ガイド"} url={"https://croud-travel.pages.dev/winter-warm-island-escape/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-warm-island-escape" />
 </div>
   );

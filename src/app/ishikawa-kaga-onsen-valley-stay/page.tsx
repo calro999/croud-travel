@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             芭蕉が愛した山中温泉と、魯山人が逗留した山代温泉。鶴仙渓のせせらぎを聞きながらいただく川床スイーツと、紅殻格子の温泉街。名門旅館の庭園露天風呂で温まり、北陸の冬の味覚・加能ガニに酔いしれる旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"石川・加賀温泉郷：山中温泉・山代温泉＆鶴仙渓川床・加能ガニ極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/ishikawa-kaga-onsen-valley-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"石川・加賀温泉郷：山中温泉・山代温泉＆鶴仙渓川床・加能ガニ極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/ishikawa-kaga-onsen-valley-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="ishikawa-kaga-onsen-valley-stay" />
 </div>
   );

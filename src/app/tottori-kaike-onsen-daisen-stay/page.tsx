@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             弓ヶ浜の白砂青松と雄大な「伯耆富士・大山」を望む「皆生温泉」。海中から湧き出す塩化物泉の温まりの湯。境港で水揚げされた極上の松葉ガニや紅ズワイガニ、鳥取和牛オレイン55に舌鼓を打つ山陰の極上ステイ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"鳥取・皆生温泉＆伯耆大山：海の温泉・美保湾パノラマ＆境港松葉ガニ宿 厳選ガイド"} url={"https://croud-travel.pages.dev/tottori-kaike-onsen-daisen-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"鳥取・皆生温泉＆伯耆大山：海の温泉・美保湾パノラマ＆境港松葉ガニ宿 厳選ガイド"} url={"https://croud-travel.pages.dev/tottori-kaike-onsen-daisen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="tottori-kaike-onsen-daisen-stay" />
 </div>
   );

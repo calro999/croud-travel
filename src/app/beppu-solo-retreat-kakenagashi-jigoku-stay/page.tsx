@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -13,7 +14,7 @@ export const metadata: Metadata = {
     title: '別府温泉ひとり旅・湯治おこもり：別府湾パノラマ・源泉掛け流し客室露天・名物地獄蒸し！湧出量日本一の温泉都で癒やされる名宿 厳選3選',
     description: '日本一の湧出量と泉種を誇るおんせん県おおいたの象徴・別府！「別府湾を一望する大展望露天風呂・棚湯と圧巻のエンタメ温泉リゾート」の「杉乃井ホテル」、全室客室露天風呂付きで海と一体化する波打ち際の最高峰「AMANE RESORT SEIKAI（潮騒の宿 晴海）」、庭園露天風呂と関アジ関サバ会席が自慢の老舗「ホテル白菊」を徹底特集。',
     url: 'https://croud-travel.pages.dev/beppu-solo-retreat-kakenagashi-jigoku-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -27,12 +28,12 @@ export default function ArticlePage() {
     description: '日本一の湧出量と泉種を誇るおんせん県おおいたの象徴・別府！「別府湾を一望する大展望露天風呂・棚湯と圧巻のエンタメ温泉リゾート」の「杉乃井ホテル」、全室客室露天風呂付きで海と一体化する波打ち際の最高峰「AMANE RESORT SEIKAI（潮騒の宿 晴海）」、庭園露天風呂と関アジ関サバ会席が自慢の老舗「ホテル白菊」を徹底特集。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル ひとり旅・出張調査班',
+      name: '旅宿クラウド ひとり旅・出張調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -79,6 +80,9 @@ export default function ArticlePage() {
           日本一の湧出量と泉種を誇るおんせん県おおいたの象徴・別府！「別府湾を一望する大展望露天風呂・棚湯と圧巻のエンタメ温泉リゾート」の「杉乃井ホテル」、全室客室露天風呂付きで海と一体化する波打ち際の最高峰「AMANE RESORT SEIKAI（潮騒の宿 晴海）」、庭園露天風呂と関アジ関サバ会席が自慢の老舗「ホテル白菊」を徹底特集。
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"別府温泉ひとり旅・湯治おこもり：別府湾パノラマ・源泉掛け流し客室露天・名物地獄蒸し！湧出量日本一の温泉都で癒やされる名宿 厳選3選"} url={"https://croud-travel.pages.dev/beppu-solo-retreat-kakenagashi-jigoku-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
@@ -381,7 +385,7 @@ export default function ArticlePage() {
             href="/"
             className="inline-flex items-center gap-2 text-sm text-stone-600 hover:text-stone-900 font-medium transition-colors"
           >
-            ← クラウドトラベル トップページへ戻る
+            ← 旅宿クラウド トップページへ戻る
           </Link>
         </div>
       </div>
@@ -473,6 +477,9 @@ export default function ArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"別府温泉ひとり旅・湯治おこもり：別府湾パノラマ・源泉掛け流し客室露天・名物地獄蒸し！湧出量日本一の温泉都で癒やされる名宿 厳選3選"} url={"https://croud-travel.pages.dev/beppu-solo-retreat-kakenagashi-jigoku-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="beppu-solo-retreat-kakenagashi-jigoku-stay" />
 </div>
         </section>

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -258,6 +259,9 @@ export default function GunmaManzaWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【12・1月群馬】万座温泉＆嬬恋！標高1800m極上白濁にごり湯雪見露天と満天の星空・上州牛すき焼きを堪能する名宿5選"} url={"https://croud-travel.pages.dev/winter-gunma-manza-onsen-snow-milky-sulfur-starry-joshugyu-stay/"} />
+      </div>
 
       {/* Main Content Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 pt-12 space-y-16">
@@ -373,7 +377,7 @@ export default function GunmaManzaWinterPage() {
                       <a 
                         href={h.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center justify-center gap-2 w-full sm:w-auto py-3 px-6 rounded-xl bg-gradient-to-r from-cyan-600 to-sky-600 hover:from-cyan-500 hover:to-sky-500 text-white font-bold text-sm shadow-sm hover:shadow transition-all text-center"
                       >
                         <span>楽天トラベルで宿泊プランを確認</span>
@@ -613,6 +617,9 @@ export default function GunmaManzaWinterPage() {
         <p>© 2026 地域の宿探訪 - 日本の四季と極上ホテル・旅館を巡る旅</p>
       </footer>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【12・1月群馬】万座温泉＆嬬恋！標高1800m極上白濁にごり湯雪見露天と満天の星空・上州牛すき焼きを堪能する名宿5選"} url={"https://croud-travel.pages.dev/winter-gunma-manza-onsen-snow-milky-sulfur-starry-joshugyu-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-gunma-manza-onsen-snow-milky-sulfur-starry-joshugyu-stay" />
 </div>
   );

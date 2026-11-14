@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             きめ細やかな肉質と上品な甘みを持つ最高峰「かごしま黒豚」のしゃぶしゃぶ！世界唯一の天然砂むし温泉で知られる指宿や、坂本龍馬ゆかりの霧島温泉郷で、鹿児島の滋味あふれる美味と名湯を満喫する旅。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"極上かごしま黒豚しゃぶしゃぶ＆砂むし温泉：指宿・霧島の美肌湯と鹿児島美食宿5選"} url={"https://croud-travel.pages.dev/traditional-kagoshima-kurobuta-shabushabu-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"極上かごしま黒豚しゃぶしゃぶ＆砂むし温泉：指宿・霧島の美肌湯と鹿児島美食宿5選"} url={"https://croud-travel.pages.dev/traditional-kagoshima-kurobuta-shabushabu-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="traditional-kagoshima-kurobuta-shabushabu-stay" />
 </div>
         </section>

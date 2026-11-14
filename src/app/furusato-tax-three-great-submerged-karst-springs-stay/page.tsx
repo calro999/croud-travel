@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import FurusatoStepSection from "@/app/components/FurusatoStepSection";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
@@ -96,6 +97,9 @@ export default function FurusatoRound63ArticlePage() {
             </Link>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"日本三大湧水群＆エメラルドの清冽な湧泉池と避暑リゾート名宿×ふるさと納税厳選ガイド忍野八海・柿田川・安曇野"} url={"https://croud-travel.pages.dev/furusato-tax-three-great-submerged-karst-springs-stay/"} />
+      </div>
 
         {/* 3つの魅力・深掘り解説 */}
         <section className="mb-16">
@@ -500,6 +504,9 @@ export default function FurusatoRound63ArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"日本三大湧水群＆エメラルドの清冽な湧泉池と避暑リゾート名宿×ふるさと納税厳選ガイド忍野八海・柿田川・安曇野"} url={"https://croud-travel.pages.dev/furusato-tax-three-great-submerged-karst-springs-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-three-great-submerged-karst-springs-stay" />
 </div>
         </section>

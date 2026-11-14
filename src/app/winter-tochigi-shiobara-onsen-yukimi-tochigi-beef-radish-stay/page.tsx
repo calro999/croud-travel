@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月栃木・塩原温泉の初冬箒川雪見露天と名湯十一湯巡り】極上とちぎ和牛会席＆旬の塩原高原大根を味わう老舗宿5選',
     description: '11月から12月にかけて、栃木県北部の那須連山山麓に広がる名湯「塩原温泉郷」は、箒川（ほうきがわ）沿いの渓谷が初雪に彩られ。',
     url: 'https://croud-travel.pages.dev/winter-tochigi-shiobara-onsen-yukimi-tochigi-beef-radish-stay/',
-    siteName: 'クラドトラベル (Croud Travel)',
+    siteName: '旅宿クラウド (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -257,6 +258,9 @@ export default function TochigiShiobaraWinterFeature() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月栃木・塩原温泉の初冬箒川雪見露天と名湯十一湯巡り】極上とちぎ和牛会席＆旬の塩原高原大根を味わう老舗宿5選"} url={"https://croud-travel.pages.dev/winter-tochigi-shiobara-onsen-yukimi-tochigi-beef-radish-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 space-y-16">
@@ -377,7 +381,7 @@ export default function TochigiShiobaraWinterFeature() {
                       </div>
                     </div>
 
-                    <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-emerald-700 transition-colors"><a href={h.url} target="_blank" rel="noopener noreferrer">
+                    <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-emerald-700 transition-colors"><a href={h.url} target="_blank" rel="sponsored noopener noreferrer">
                         {h.name}
                       </a></h3>
 
@@ -415,7 +419,7 @@ export default function TochigiShiobaraWinterFeature() {
                     <a
                       href={h.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-2xl bg-emerald-600 hover:bg-emerald-700 text-white font-bold text-sm shadow-sm hover:shadow transition-all"
                     >
                       楽天トラベルで空室・プランを見る
@@ -637,6 +641,9 @@ export default function TochigiShiobaraWinterFeature() {
               <p className="text-slate-300 text-[11px] line-clamp-2">日本屈指の酸性泉掛け流しと冬の湯畑の幻想的な湯けむり景観。</p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月栃木・塩原温泉の初冬箒川雪見露天と名湯十一湯巡り】極上とちぎ和牛会席＆旬の塩原高原大根を味わう老舗宿5選"} url={"https://croud-travel.pages.dev/winter-tochigi-shiobara-onsen-yukimi-tochigi-beef-radish-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-tochigi-shiobara-onsen-yukimi-tochigi-beef-radish-stay" />
 </div>
         </section>

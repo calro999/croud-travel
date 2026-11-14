@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             南アルプスと富士山を一望する標高1,000m超の天空リゾート「山梨・八ヶ岳清里高原」。サンメドウズ清里の山頂デッキ「清里テラス」の特等席ソファ。小鳥のさえずりと満天の星空に包まれ、極上の休日へ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"山梨・八ヶ岳＆清里高原：清里テラス・萌木の村＆八ヶ岳南麓・星空温泉リゾート 厳選ガイド"} url={"https://croud-travel.pages.dev/yamanashi-yatsugatake-kiyosato-resort-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -423,6 +427,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"山梨・八ヶ岳＆清里高原：清里テラス・萌木の村＆八ヶ岳南麓・星空温泉リゾート 厳選ガイド"} url={"https://croud-travel.pages.dev/yamanashi-yatsugatake-kiyosato-resort-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="yamanashi-yatsugatake-kiyosato-resort-stay" />
 </div>
   );

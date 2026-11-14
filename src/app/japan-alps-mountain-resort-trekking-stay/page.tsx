@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function ThemeParkActivityHubPage() {
             梓川のエメラルドグリーンと穂高連峰の険しい岩峰「日本アルプス」。日本初の本格山岳リゾート上高地、高山植物が咲き誇る白馬八方尾根、標高2,450m日本最高所のホテル立山。雲上のパノラマと満天の天の川を仰ぐ山岳ステイへ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"日本アルプス・本格トレッキング＆山岳リゾート宿：上高地・白馬・立山黒部・涸沢 厳選ガイド"} url={"https://croud-travel.pages.dev/japan-alps-mountain-resort-trekking-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆おすすめ宿 */}
@@ -231,6 +235,9 @@ export default function ThemeParkActivityHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"日本アルプス・本格トレッキング＆山岳リゾート宿：上高地・白馬・立山黒部・涸沢 厳選ガイド"} url={"https://croud-travel.pages.dev/japan-alps-mountain-resort-trekking-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="japan-alps-mountain-resort-trekking-stay" />
 </div>
   );

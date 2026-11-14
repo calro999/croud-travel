@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -187,6 +188,9 @@ export default function IkahoAutumnLeavesGuidePage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"伊香保温泉 河鹿橋紅葉ライトアップ2026：見頃時期・石段街散策＆黄金の湯に浸かる秋の湯治旅"} url={"https://croud-travel.pages.dev/ikaho-autumn-leaves-kajikabashi-lightup-guide/"} />
+      </div>
 
       {/* メインボディ */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
@@ -678,6 +682,9 @@ export default function IkahoAutumnLeavesGuidePage() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"伊香保温泉 河鹿橋紅葉ライトアップ2026：見頃時期・石段街散策＆黄金の湯に浸かる秋の湯治旅"} url={"https://croud-travel.pages.dev/ikaho-autumn-leaves-kajikabashi-lightup-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="ikaho-autumn-leaves-kajikabashi-lightup-guide" />
 </div>
   );

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
@@ -5,7 +6,7 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '兼六園の雪吊り＆金沢城・紅葉ライトアップ！深谷温泉・湯涌温泉の名湯宿×ふるさと納税厳選ガイド石川',
   description: '11月1日から始まる兼六園の冬支度「雪吊り（ゆきつり）」と紅葉ライトアップ！秋の金沢・兼六園を巡り、開湯1300年の金沢湯涌温泉や深谷温泉の名湯宿「元湯石屋」「湯の出旅館」「百楽荘」で能登牛やのどぐろを堪能。楽天ふるさと納税トラベルクーポンで実質2,000円で泊まる極上の金沢秋旅ガイド。',
-  keywords: ["兼六園の雪吊り", "金沢城", "紅葉ライトアップ！深谷温泉", "湯涌温泉の名湯宿×ふるさと納税", "2026年最新秋旅", "石川", "温泉宿"],
+  keywords: ["兼六園の雪吊り", "金沢城", "紅葉ライトアップ！深谷温泉", "湯涌温泉の名湯宿×ふるさと納税", "2026年末・冬休み対応", "石川", "温泉宿"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-kenrokuen-yukitsuri-autumn-kanazawa-stay/"
   },
@@ -24,7 +25,7 @@ export default function FeatureArticlePage() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "兼六園の雪吊り＆金沢城・紅葉ライトアップ！深谷温泉・湯涌温泉の名湯宿×ふるさと納税完全ガイド【2026年最新秋旅】石川",
+    "headline": "兼六園の雪吊り＆金沢城・紅葉ライトアップ！深谷温泉・湯涌温泉の名湯宿×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】石川",
     "description": "11月1日から始まる兼六園の冬支度「雪吊り（ゆきつり）」と紅葉ライトアップ！秋の金沢・兼六園を巡り、開湯1300年の金沢湯涌温泉や深谷温泉の名湯宿「元湯石屋」「湯の出旅館」「百楽荘」で能登牛やのどぐろを堪能。楽天ふるさと納税トラベルクーポンで実質2,000円で泊まる極上の金沢秋旅ガイド。",
     "url": "https://croud-travel.pages.dev/furusato-tax-kenrokuen-yukitsuri-autumn-kanazawa-stay/",
     "publisher": {
@@ -38,7 +39,7 @@ export default function FeatureArticlePage() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "兼六園の雪吊り＆金沢城・紅葉ライトアップ！深谷温泉・湯涌温泉の名湯宿×ふるさと納税完全ガイド【2026年最新秋旅】石川", "item": "https://croud-travel.pages.dev/furusato-tax-kenrokuen-yukitsuri-autumn-kanazawa-stay/" }
+      { "@type": "ListItem", "position": 2, "name": "兼六園の雪吊り＆金沢城・紅葉ライトアップ！深谷温泉・湯涌温泉の名湯宿×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】石川", "item": "https://croud-travel.pages.dev/furusato-tax-kenrokuen-yukitsuri-autumn-kanazawa-stay/" }
     ]
   };
 
@@ -84,6 +85,9 @@ export default function FeatureArticlePage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"兼六園の雪吊り＆金沢城・紅葉ライトアップ！深谷温泉・湯涌温泉の名湯宿×ふるさと納税厳選ガイド石川"} url={"https://croud-travel.pages.dev/furusato-tax-kenrokuen-yukitsuri-autumn-kanazawa-stay/"} />
+      </div>
 
       {/* イントロダクション */}
       <section className="max-w-5xl mx-auto px-4 sm:px-6 mb-12">
@@ -507,6 +511,9 @@ export default function FeatureArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"兼六園の雪吊り＆金沢城・紅葉ライトアップ！深谷温泉・湯涌温泉の名湯宿×ふるさと納税厳選ガイド石川"} url={"https://croud-travel.pages.dev/furusato-tax-kenrokuen-yukitsuri-autumn-kanazawa-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-kenrokuen-yukitsuri-autumn-kanazawa-stay" />
 </div>
         </section>

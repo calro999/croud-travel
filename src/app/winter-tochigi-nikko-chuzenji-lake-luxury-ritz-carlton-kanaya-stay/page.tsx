@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Image from 'next/image';
@@ -17,7 +18,7 @@ export const metadata: Metadata = {
     description: '標高約1200mの高地に位置し、霊峰・男体山と青く澄み渡る中禅寺湖を望む奥日光。マリオット最高峰「ザ・リッツ・カールトン日光」やクラシックホテルの名門「中禅寺金谷ホテル」など、世界基準のホスピタリティと日光湯元から引湯する乳白色の硫黄泉露天風呂。澄んだ大気のもとで味わう最高ランク「とちぎ和牛」のステーキや本格フレンチディナーを堪能する極上の贅沢リトリート厳選5選。',
     url: 'https://croud-travel.pages.dev/winter-tochigi-nikko-chuzenji-lake-luxury-ritz-carlton-kanaya-stay/',
     type: 'article',
-    siteName: 'クラウドトラベル',
+    siteName: '旅宿クラウド',
   },
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-tochigi-nikko-chuzenji-lake-luxury-ritz-carlton-kanaya-stay/',
@@ -115,6 +116,9 @@ export default function UltraLuxuryWinterFeaturePage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【標高1200mの奥日光・中禅寺湖畔に佇む最高峰リゾート】2026-2027年11-12月初冬の栃木・日光中禅寺湖"} url={"https://croud-travel.pages.dev/winter-tochigi-nikko-chuzenji-lake-luxury-ritz-carlton-kanaya-stay/"} />
+      </div>
 
       {/* メインコンテンツ */}
       <main className="max-w-4xl mx-auto px-4 py-10 space-y-12">
@@ -565,6 +569,10 @@ export default function UltraLuxuryWinterFeaturePage() {
           </div>
         </section>
 
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【標高1200mの奥日光・中禅寺湖畔に佇む最高峰リゾート】2026-2027年11-12月初冬の栃木・日光中禅寺湖"} url={"https://croud-travel.pages.dev/winter-tochigi-nikko-chuzenji-lake-luxury-ritz-carlton-kanaya-stay/"} />
+      </div>
       </main>
     </div>
   );

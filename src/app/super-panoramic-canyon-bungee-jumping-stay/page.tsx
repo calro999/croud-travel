@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             エメラルドグリーンの渓谷に向かって飛び込むスリル満点バンジージャンプ！アドレナリン全開のアクティビティを体験した後は、利根川源流のせせらぎを聴く露天風呂とサウナで極上のととのいを。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"絶景バンジー＆渓谷アドベンチャー：日本屈指の高さから大ジャンプ！みなかみ温泉宿5選"} url={"https://croud-travel.pages.dev/super-panoramic-canyon-bungee-jumping-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"絶景バンジー＆渓谷アドベンチャー：日本屈指の高さから大ジャンプ！みなかみ温泉宿5選"} url={"https://croud-travel.pages.dev/super-panoramic-canyon-bungee-jumping-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="super-panoramic-canyon-bungee-jumping-stay" />
 </div>
         </section>

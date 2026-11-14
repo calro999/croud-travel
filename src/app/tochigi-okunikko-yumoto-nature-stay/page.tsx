@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             標高1,500m、雲の上に広がる静寂の奥座敷「日光湯元温泉」。エメラルドグリーンから乳白色へと色を変える濃厚な硫黄泉。戦場ヶ原の木道トレッキングと、男体山を映す湯ノ湖畔の宿で極上の癒やしを。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"栃木・奥日光＆湯元温泉：男体山・戦場ヶ原＆乳白色硫黄泉・日光湯波宿 厳選ガイド"} url={"https://croud-travel.pages.dev/tochigi-okunikko-yumoto-nature-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"栃木・奥日光＆湯元温泉：男体山・戦場ヶ原＆乳白色硫黄泉・日光湯波宿 厳選ガイド"} url={"https://croud-travel.pages.dev/tochigi-okunikko-yumoto-nature-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="tochigi-okunikko-yumoto-nature-stay" />
 </div>
   );

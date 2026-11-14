@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月兵庫・香住温泉の初冬日本海と最高峰ブランド蟹】本場柴山ガニ＆香住松葉ガニ・但馬牛ステーキ＆海辺露天の宿5選',
     description: '11月6日のカニ漁解禁を迎えると、兵庫県但馬地方の日本海に面した香住海岸（香住港・柴山港）は、一年で最も活気あふれる松葉ガニの最高峰シーズンを迎えます。',
     url: 'https://croud-travel.pages.dev/winter-hyogo-kasumi-onsen-shibayama-crab-matsuba-stay/',
-    siteName: 'クラドトラベル (Croud Travel)',
+    siteName: '旅宿クラウド (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -287,6 +288,9 @@ export default function KasumiOnsenWinterFeature() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月兵庫・香住温泉の初冬日本海と最高峰ブランド蟹】本場柴山ガニ＆香住松葉ガニ・但馬牛ステーキ＆海辺露天の宿5選"} url={"https://croud-travel.pages.dev/winter-hyogo-kasumi-onsen-shibayama-crab-matsuba-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-10 space-y-12">
@@ -480,7 +484,7 @@ export default function KasumiOnsenWinterFeature() {
                     <a
                       href={h.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="w-full sm:w-auto inline-flex items-center justify-center gap-2 bg-amber-600 hover:bg-amber-700 text-white font-bold text-sm px-6 py-3 rounded-2xl shadow-sm hover:shadow transition group flex-shrink-0"
                     >
                       <span>楽天トラベルでプランを見る</span>
@@ -599,6 +603,9 @@ export default function KasumiOnsenWinterFeature() {
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">全国の厳選温泉・旬旅特集まとめを見る</h3>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月兵庫・香住温泉の初冬日本海と最高峰ブランド蟹】本場柴山ガニ＆香住松葉ガニ・但馬牛ステーキ＆海辺露天の宿5選"} url={"https://croud-travel.pages.dev/winter-hyogo-kasumi-onsen-shibayama-crab-matsuba-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-hyogo-kasumi-onsen-shibayama-crab-matsuba-stay" />
 </div>
         </section>

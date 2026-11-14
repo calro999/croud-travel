@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             11月からスタートする日本最大級のクリスマスイルミネーション＆光の王国！ハウステンボスの世界最大1300万球の輝きや、なばなの里、東京ベイエリアの絶景夜景を客室やバルコニーから独占できるプレミアムリゾート。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月限定！光の祭典＆クリスマスイルミネーション】幻想的な夜景リゾート宿5選"} url={"https://croud-travel.pages.dev/winter-scenic-illumination-luxury-resort/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -368,7 +372,7 @@ export default function FeaturePage() {
                 <span className="inline-block text-[10px] font-bold px-2 py-0.5 rounded bg-amber-100 text-amber-800 mb-2">
                   厳選おすすめ特集
                 </span>
-                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">滑床渓谷「雪輪の滝」紅葉キャニオニング美＆本場宇和島鯛めし・道後奥道後温泉ステイ | クラウドトラベルふるさと納税</h3>
+                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">滑床渓谷「雪輪の滝」紅葉キャニオニング美＆本場宇和島鯛めし・道後奥道後温泉ステイ | 旅宿クラウドふるさと納税</h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
                 特集を見る →
@@ -500,7 +504,7 @@ export default function FeaturePage() {
                 <span className="inline-block text-[10px] font-bold px-2 py-0.5 rounded bg-amber-100 text-amber-800 mb-2">
                   厳選おすすめ特集
                 </span>
-                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">【秘湯・ランプの宿×ふるさと納税】電波の届かぬ渓谷野天風呂で過ごすデジタルデトックス名湯旅 | クラウドトラベル</h3>
+                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">【秘湯・ランプの宿×ふるさと納税】電波の届かぬ渓谷野天風呂で過ごすデジタルデトックス名湯旅 | 旅宿クラウド</h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
                 特集を見る →
@@ -578,6 +582,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月限定！光の祭典＆クリスマスイルミネーション】幻想的な夜景リゾート宿5選"} url={"https://croud-travel.pages.dev/winter-scenic-illumination-luxury-resort/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-scenic-illumination-luxury-resort" />
 </div>
         </section>

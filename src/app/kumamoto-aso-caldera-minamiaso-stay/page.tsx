@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             世界最大級の火山カルデラが織りなす雄大な大地「熊本・阿蘇」。大観峰から見下ろす雲海と阿蘇五岳「涅槃像」。草千里ヶ浜のエメラルドグリーンの草原。名水・白川水源が育むヘルシーな極上「あか牛」に舌鼓を打つ大自然の旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"熊本・阿蘇カルデラ＆南阿蘇：大観峰・草千里ヶ浜＆あか牛・白川水源宿 厳選ガイド"} url={"https://croud-travel.pages.dev/kumamoto-aso-caldera-minamiaso-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"熊本・阿蘇カルデラ＆南阿蘇：大観峰・草千里ヶ浜＆あか牛・白川水源宿 厳選ガイド"} url={"https://croud-travel.pages.dev/kumamoto-aso-caldera-minamiaso-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="kumamoto-aso-caldera-minamiaso-stay" />
 </div>
   );

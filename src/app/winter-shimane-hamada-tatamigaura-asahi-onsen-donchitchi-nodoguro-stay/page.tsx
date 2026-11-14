@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
@@ -237,6 +238,9 @@ export default function Page() {
             </p>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"冬の日本海白波奇勝・石見畳ヶ浦と幻のどんちっちノドグロ：2026-2027年冬の島根・浜田！美肌名湯旭温泉と石見神楽冬情話名宿5選"} url={"https://croud-travel.pages.dev/winter-shimane-hamada-tatamigaura-asahi-onsen-donchitchi-nodoguro-stay/"} />
+      </div>
 
         <main className="max-w-4xl mx-auto px-4 mt-10 space-y-12">
           {/* イントロダクション */}
@@ -704,7 +708,11 @@ export default function Page() {
               </li>
             </ul>
           </section>
-        </main>
+        
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"冬の日本海白波奇勝・石見畳ヶ浦と幻のどんちっちノドグロ：2026-2027年冬の島根・浜田！美肌名湯旭温泉と石見神楽冬情話名宿5選"} url={"https://croud-travel.pages.dev/winter-shimane-hamada-tatamigaura-asahi-onsen-donchitchi-nodoguro-stay/"} />
+      </div>
+      </main>
       </article>
     </>
   );

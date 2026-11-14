@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -175,6 +176,9 @@ export default function Page() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"日本三大銘菓＆城下町の伝統茶寮・老舗和菓子文化宿×ふるさと納税厳選ガイド金沢・長岡・京都"} url={"https://croud-travel.pages.dev/furusato-tax-three-famous-confections-historic-town-stay/"} />
+      </div>
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
@@ -665,6 +669,9 @@ export default function Page() {
         <p>© 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の楽天トラベル公式APIに基づきます。</p>
       </footer>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"日本三大銘菓＆城下町の伝統茶寮・老舗和菓子文化宿×ふるさと納税厳選ガイド金沢・長岡・京都"} url={"https://croud-travel.pages.dev/furusato-tax-three-famous-confections-historic-town-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-three-famous-confections-historic-town-stay" />
 </div>
   );

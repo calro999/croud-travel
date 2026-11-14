@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -92,6 +93,9 @@ export default function HokkaidoWinterShoesClothingGuidePage() {
             外は氷点下マイナス5度、一歩建物に入ると暖房ガンガンで室温25度…！冬の北海道初心者が真っ先に陥る「足元ツルツル転倒事故」と「着込みすぎて汗冷え風邪」の二大トラップ。現地道民の知恵と旅行者の生々しい失敗談から導き出した、最強の防備術をお届けします。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"冬の北海道旅行 滑らない靴＆防寒着の失敗談：着膨れして室内で大汗！？氷道で転ばない完全防備マニュアル"} url={"https://croud-travel.pages.dev/hokkaido-winter-shoes-clothing-mistakes-guide/"} />
+      </div>
       </section>
 
       {/* 2大トラップの警告グリッド */}
@@ -380,6 +384,9 @@ export default function HokkaidoWinterShoesClothingGuidePage() {
         </div>
       </section>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"冬の北海道旅行 滑らない靴＆防寒着の失敗談：着膨れして室内で大汗！？氷道で転ばない完全防備マニュアル"} url={"https://croud-travel.pages.dev/hokkaido-winter-shoes-clothing-mistakes-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="hokkaido-winter-shoes-clothing-mistakes-guide" />
 </div>
   );

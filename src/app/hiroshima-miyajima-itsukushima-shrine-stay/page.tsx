@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -107,6 +108,9 @@ export default function MicroTouristHubPage() {
             日本三景の一つにして世界文化遺産、神が宿る島「宮島（厳島）」。満潮時にはまるで海に浮かんでいるかのように佇む嚴島神社の廻廊と朱色の大鳥居。干潮時には歩いて鳥居の足元まで近づける神秘的な潮の満ち引き。瀬戸内海の多島美を一望する霊峰・弥山、そして香ばしい秘伝タレのあなごめしと焼きたて牡蠣。歴史と自然の祈りが息づく安芸の宮島ステイへご案内します。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"広島・宮島＆嚴島神社：海上大鳥居・弥山＆あなごめし宿 厳選ガイド"} url={"https://croud-travel.pages.dev/hiroshima-miyajima-itsukushima-shrine-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"広島・宮島＆嚴島神社：海上大鳥居・弥山＆あなごめし宿 厳選ガイド"} url={"https://croud-travel.pages.dev/hiroshima-miyajima-itsukushima-shrine-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="hiroshima-miyajima-itsukushima-shrine-stay" />
 </div>
   );

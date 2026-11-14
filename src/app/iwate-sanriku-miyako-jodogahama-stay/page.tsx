@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             まるで極楽浄土のような白流紋岩の奇岩と透明な海「浄土ヶ浜」。小型さっぱ船で潜入する神秘の青の洞窟。三陸鉄道リアス線の絶景オーシャンビュー車窓。ウニ・イクラ・サーモンがぎっしり詰まった名物「瓶ドン」を味わう三陸海岸の旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"岩手・三陸宮古＆浄土ヶ浜：極楽浄土の白い奇岩・青の洞窟＆名物「瓶ドン」宿 厳選ガイド"} url={"https://croud-travel.pages.dev/iwate-sanriku-miyako-jodogahama-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"岩手・三陸宮古＆浄土ヶ浜：極楽浄土の白い奇岩・青の洞窟＆名物「瓶ドン」宿 厳選ガイド"} url={"https://croud-travel.pages.dev/iwate-sanriku-miyako-jodogahama-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="iwate-sanriku-miyako-jodogahama-stay" />
 </div>
   );

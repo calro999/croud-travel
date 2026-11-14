@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
@@ -237,6 +238,9 @@ export default function Page() {
             </p>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"日本三大山城・岩村城跡の霧氷美と女城主の里重伝建：2026-2027年冬の岐阜・恵那"} url={"https://croud-travel.pages.dev/winter-gifu-ena-iwamura-castle-snow-enakyo-onsen-goheimochi-hidagyu-stay/"} />
+      </div>
 
         <main className="max-w-4xl mx-auto px-4 mt-10 space-y-12">
           {/* イントロダクション */}
@@ -704,7 +708,11 @@ export default function Page() {
               </li>
             </ul>
           </section>
-        </main>
+        
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"日本三大山城・岩村城跡の霧氷美と女城主の里重伝建：2026-2027年冬の岐阜・恵那"} url={"https://croud-travel.pages.dev/winter-gifu-ena-iwamura-castle-snow-enakyo-onsen-goheimochi-hidagyu-stay/"} />
+      </div>
+      </main>
       </article>
     </>
   );

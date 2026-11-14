@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Image from 'next/image';
@@ -63,12 +64,14 @@ export default function KorankeiAutumnPage() {
             香嵐渓周辺には、重伝建（重要伝統的建造物群保存地区）に選ばれた「足助の町並み」が広がり、白壁の土蔵や格子戸が残るレトロな散策も楽しめます。近隣の「猿投温泉」は医学的にも注目される天然ラドン泉が自生しており、紅葉狩りの疲れを極上の温泉で癒やすことができます。
           </p>
         </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"秋の香嵐渓：4000本のもみじ狩りと巴川ライトアップ！三河の名湯と美食を味わうおすすめ宿5選「2026最新」"} url={"https://croud-travel.pages.dev/autumn-aichi-toyota-korankei-momiji-lightup-hotels-stay/"} />
+      </div>
 
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-amber-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！足助・猿投・豊田の厳選宿5選</h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">楽天トラベル高評価！足助・猿投・豊田の厳選宿5選</h2>
 
           <div className="space-y-8">
 
@@ -498,6 +501,9 @@ export default function KorankeiAutumnPage() {
               </div>
             </div>
           </div></section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"秋の香嵐渓：4000本のもみじ狩りと巴川ライトアップ！三河の名湯と美食を味わうおすすめ宿5選「2026最新」"} url={"https://croud-travel.pages.dev/autumn-aichi-toyota-korankei-momiji-lightup-hotels-stay/"} />
+      </div>
         <div className="max-w-4xl mx-auto px-4 sm:px-6">
           <HubRelatedPosts currentSlug="autumn-aichi-toyota-korankei-momiji-lightup-hotels-stay" />
         </div>

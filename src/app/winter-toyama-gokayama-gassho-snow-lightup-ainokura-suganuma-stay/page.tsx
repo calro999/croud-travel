@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
@@ -15,7 +16,7 @@ export const metadata: Metadata = {
     title: '世界遺産五箇山合掌集落の雪景色と庄川峡：2026-2027年冬の南砺・五箇山！雪見露天と堅豆腐名宿5選',
     description: '白銀の山里に佇む世界遺産・五箇山合掌造り集落（相倉・菅沼）の冬景色と幻想的な雪あかり！名物・五箇山堅豆腐や岩魚塩焼き、庄川峡の雪見露天風呂と富山湾の旬味覚を堪能する極上隠れ宿5選。',
     url: 'https://croud-travel.pages.dev/winter-toyama-gokayama-gassho-snow-lightup-ainokura-suganuma-stay/',
-    siteName: 'クラウドトラベル',
+    siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -79,6 +80,9 @@ export default function WinterFeaturePage() {
             </div>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"世界遺産五箇山合掌集落の雪景色と庄川峡：2026-2027年冬の南砺・五箇山！雪見露天と堅豆腐名宿5選"} url={"https://croud-travel.pages.dev/winter-toyama-gokayama-gassho-snow-lightup-ainokura-suganuma-stay/"} />
+      </div>
 
         {/* 魅力・おすすめ理由 */}
         <section className="max-w-4xl mx-auto px-4 py-10">
@@ -91,22 +95,19 @@ export default function WinterFeaturePage() {
             </div>
             <div className="grid grid-cols-1 gap-4">
               <div className="p-4 rounded-xl bg-stone-50 border border-stone-200/80 space-y-1.5">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-cyan-600"></span>
-                  静寂と素朴な暮らしが息づく世界遺産・五箇山合掌集落の雪景色</h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">静寂と素朴な暮らしが息づく世界遺産・五箇山合掌集落の雪景色</h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                   相倉集落（20棟）や菅沼集落（9棟）は、三方を険しい山に囲まれた隠れ里。冬は観光客も少なく、雪を踏みしめる音だけが響く静寂の中で、雪化粧をまとった茅葺き屋根の美しい造形美を心ゆくまで堪能できます。
                 </p>
               </div>
               <div className="p-4 rounded-xl bg-stone-50 border border-stone-200/80 space-y-1.5">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-cyan-600"></span>
-                  大豆の旨みが濃縮された「五箇山堅豆腐」と香ばしい「岩魚骨酒」</h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">大豆の旨みが濃縮された「五箇山堅豆腐」と香ばしい「岩魚骨酒」</h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                   縄で縛って持ち運べるほど硬く仕込まれた伝統の五箇山豆腐。大豆の甘みが極めて濃厚で、刺身やステーキで味わうと格別の美味しさです。囲炉裏端でじっくり炭火焼きにした岩魚に熱燗の地酒を注ぐ「骨酒」は冬の至福の味覚です。
                 </p>
               </div>
               <div className="p-4 rounded-xl bg-stone-50 border border-stone-200/80 space-y-1.5">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-cyan-600"></span>
-                  庄川峡の雪見遊覧船と、渓谷美を眼下に望む庄川温泉郷の名湯</h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">庄川峡の雪見遊覧船と、渓谷美を眼下に望む庄川温泉郷の名湯</h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                   庄川の深いエメラルドグリーンの水面を静かに進む雪見遊覧船。両岸にそびえる雪山が水鏡に映り込む絶景を眺めた後は、川沿いに湧く庄川温泉郷の露天風呂へ。湯煙の向こうに広がる白銀の渓谷パノラマに心身が芯から解きほぐされます。
                 </p>
@@ -542,6 +543,10 @@ export default function WinterFeaturePage() {
             </div>
           </div>
         </section>
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"世界遺産五箇山合掌集落の雪景色と庄川峡：2026-2027年冬の南砺・五箇山！雪見露天と堅豆腐名宿5選"} url={"https://croud-travel.pages.dev/winter-toyama-gokayama-gassho-snow-lightup-ainokura-suganuma-stay/"} />
+      </div>
       </main>
     </>
   );

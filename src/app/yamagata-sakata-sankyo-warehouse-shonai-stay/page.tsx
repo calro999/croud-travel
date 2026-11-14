@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             「西の堺、東の酒田」と謳われた北前船交易の港町「酒田」。明治26年築、ケヤキ並木の木陰に佇む黒板塀の「山居倉庫」。日本一の大地主・本間家の栄華を伝える武家屋敷と庭園。飛魚（アゴ）出汁が澄み渡る「酒田のラーメン」と庄内浜の海の幸を味わう旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"山形・酒田＆山居倉庫・庄内砂丘：北前船豪商の港町・酒田ラーメン＆日本海夕陽宿 厳選ガイド"} url={"https://croud-travel.pages.dev/yamagata-sakata-sankyo-warehouse-shonai-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -392,6 +396,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"山形・酒田＆山居倉庫・庄内砂丘：北前船豪商の港町・酒田ラーメン＆日本海夕陽宿 厳選ガイド"} url={"https://croud-travel.pages.dev/yamagata-sakata-sankyo-warehouse-shonai-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="yamagata-sakata-sankyo-warehouse-shonai-stay" />
 </div>
   );

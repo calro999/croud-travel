@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
@@ -15,7 +16,7 @@ export const metadata: Metadata = {
     title: '冬に透明度極まる仁淀ブルーと中津渓谷：2026-2027年冬の高知・仁淀川！渓流温泉と土佐あかうし名宿5選',
     description: '年間で最も透明度が高まり神秘のコバルトブルーに輝く奇跡の清流「仁淀川」の冬絶景！中津渓谷トレッキング、旨味凝縮の「幻の和牛・土佐あかうし」鍋と清流のせせらぎを聞く名湯露天風呂に癒やされる冬名宿5選。',
     url: 'https://croud-travel.pages.dev/winter-kochi-niyodogawa-niyodoblue-nakatsu-tosa-akagyu-onsen-stay/',
-    siteName: 'クラウドトラベル',
+    siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -124,6 +125,9 @@ export default function Page() {
             年間で最も透明度が高まり神秘のコバルトブルーに輝く奇跡の清流「仁淀川」の冬絶景！中津渓谷トレッキング、旨味凝縮の「幻の和牛・土佐あかうし」鍋と清流のせせらぎを聞く名湯露天風呂に癒やされる冬名宿5選。
           </p>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"冬に透明度極まる仁淀ブルーと中津渓谷：2026-2027年冬の高知・仁淀川！渓流温泉と土佐あかうし名宿5選"} url={"https://croud-travel.pages.dev/winter-kochi-niyodogawa-niyodoblue-nakatsu-tosa-akagyu-onsen-stay/"} />
+      </div>
 
         {/* 導入解説セクション */}
         {/* 宿一覧セクション */}
@@ -543,6 +547,10 @@ export default function Page() {
             </div>
           </div>
         </section>
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"冬に透明度極まる仁淀ブルーと中津渓谷：2026-2027年冬の高知・仁淀川！渓流温泉と土佐あかうし名宿5選"} url={"https://croud-travel.pages.dev/winter-kochi-niyodogawa-niyodoblue-nakatsu-tosa-akagyu-onsen-stay/"} />
+      </div>
       </main>
     </>
   );

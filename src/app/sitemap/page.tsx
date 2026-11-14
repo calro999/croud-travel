@@ -153,7 +153,7 @@ export default function SitemapPage() {
             <div className="text-[11px] text-amber-800/70 font-medium">楽天トラベル最新クーポン・セール</div>
           </Link>
           <Link
-            href="/sitemap/"
+            href="/features/"
             className="p-4 rounded-2xl bg-emerald-50/50 hover:bg-emerald-100/60 border border-emerald-200/60 transition group space-y-1 block"
           >
             <div className="font-bold text-emerald-950 group-hover:text-teal-800 text-sm">🗺️ サイトマップ</div>

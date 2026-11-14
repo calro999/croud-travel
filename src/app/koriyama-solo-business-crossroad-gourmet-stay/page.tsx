@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -13,7 +14,7 @@ export const metadata: Metadata = {
     title: '郡山出張＆中通りひとり旅：新幹線駅前すぐ・天然温泉大浴場・ご当地郡山ブラックラーメン！東北の交通要所で整う極上ホテル 厳選3選',
     description: '東北新幹線・山形新幹線・磐越西線・磐越東線が交差する「東北の十字路」福島県郡山市！「JR郡山駅西口正面・広々バスルームと機能美デスク」の「ダイワロイネットホテル郡山駅前」、天然温泉大浴場サウナを備えた「ホテルグローバルビュー郡山」、駅前大通り沿いの老舗「郡山ビューホテルアネックス」を徹底特集。',
     url: 'https://croud-travel.pages.dev/koriyama-solo-business-crossroad-gourmet-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -27,12 +28,12 @@ export default function ArticlePage() {
     description: '東北新幹線・山形新幹線・磐越西線・磐越東線が交差する「東北の十字路」福島県郡山市！「JR郡山駅西口正面・広々バスルームと機能美デスク」の「ダイワロイネットホテル郡山駅前」、天然温泉大浴場サウナを備えた「ホテルグローバルビュー郡山」、駅前大通り沿いの老舗「郡山ビューホテルアネックス」を徹底特集。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル ひとり旅・出張調査班',
+      name: '旅宿クラウド ひとり旅・出張調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -79,6 +80,9 @@ export default function ArticlePage() {
           東北新幹線・山形新幹線・磐越西線・磐越東線が交差する「東北の十字路」福島県郡山市！「JR郡山駅西口正面・広々バスルームと機能美デスク」の「ダイワロイネットホテル郡山駅前」、天然温泉大浴場サウナを備えた「ホテルグローバルビュー郡山」、駅前大通り沿いの老舗「郡山ビューホテルアネックス」を徹底特集。
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"郡山出張＆中通りひとり旅：新幹線駅前すぐ・天然温泉大浴場・ご当地郡山ブラックラーメン！東北の交通要所で整う極上ホテル 厳選3選"} url={"https://croud-travel.pages.dev/koriyama-solo-business-crossroad-gourmet-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
@@ -381,7 +385,7 @@ export default function ArticlePage() {
             href="/"
             className="inline-flex items-center gap-2 text-sm text-stone-600 hover:text-stone-900 font-medium transition-colors"
           >
-            ← クラウドトラベル トップページへ戻る
+            ← 旅宿クラウド トップページへ戻る
           </Link>
         </div>
       </div>
@@ -604,6 +608,10 @@ export default function ArticlePage() {
             </div>
           </div></section>
 
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"郡山出張＆中通りひとり旅：新幹線駅前すぐ・天然温泉大浴場・ご当地郡山ブラックラーメン！東北の交通要所で整う極上ホテル 厳選3選"} url={"https://croud-travel.pages.dev/koriyama-solo-business-crossroad-gourmet-stay/"} />
+      </div>
       </main>
   );
 }

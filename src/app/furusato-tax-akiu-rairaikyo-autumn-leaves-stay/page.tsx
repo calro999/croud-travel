@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
@@ -5,7 +6,7 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '仙台の奥座敷・秋保温泉と磊々峡の奇岩紅葉！名瀑秋保大滝＆篝火露天風呂宿×ふるさと納税厳選ガイド宮城',
   description: '10月中旬〜11月上旬に見頃を迎える伊達政宗公ゆかりの名湯「秋保温泉」と「磊々峡（らいらいきょう）」。ハートのくぼみ・覗橋や国指定名勝「秋保大滝」のダイナミックな紅葉、名宿「篝火の湯 緑水亭」「茶寮宗園」「心和む名湯の宿 曽良一」で仙台牛ステーキや三陸の戻りカツオ・鮑を堪能。ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。',
-  keywords: ["仙台の奥座敷", "篝火露天風呂宿×ふるさと納税", "2026年最新秋旅", "宮城", "温泉宿", "宿泊予約", "楽天トラベル"],
+  keywords: ["仙台の奥座敷", "篝火露天風呂宿×ふるさと納税", "2026年末・冬休み対応", "宮城", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-akiu-rairaikyo-autumn-leaves-stay/"
   },
@@ -24,7 +25,7 @@ export default function FeatureArticlePage() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "仙台の奥座敷・秋保温泉と磊々峡の奇岩紅葉！名瀑秋保大滝＆篝火露天風呂宿×ふるさと納税完全ガイド【2026年最新秋旅】宮城",
+    "headline": "仙台の奥座敷・秋保温泉と磊々峡の奇岩紅葉！名瀑秋保大滝＆篝火露天風呂宿×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】宮城",
     "description": "10月中旬〜11月上旬に見頃を迎える伊達政宗公ゆかりの名湯「秋保温泉」と「磊々峡（らいらいきょう）」。ハートのくぼみ・覗橋や国指定名勝「秋保大滝」のダイナミックな紅葉、名宿「篝火の湯 緑水亭」「茶寮宗園」「心和む名湯の宿 曽良一」で仙台牛ステーキや三陸の戻りカツオ・鮑を堪能。ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。",
     "url": "https://croud-travel.pages.dev/furusato-tax-akiu-rairaikyo-autumn-leaves-stay/",
     "publisher": {
@@ -38,7 +39,7 @@ export default function FeatureArticlePage() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "仙台の奥座敷・秋保温泉と磊々峡の奇岩紅葉！名瀑秋保大滝＆篝火露天風呂宿×ふるさと納税完全ガイド【2026年最新秋旅】宮城", "item": "https://croud-travel.pages.dev/furusato-tax-akiu-rairaikyo-autumn-leaves-stay/" }
+      { "@type": "ListItem", "position": 2, "name": "仙台の奥座敷・秋保温泉と磊々峡の奇岩紅葉！名瀑秋保大滝＆篝火露天風呂宿×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】宮城", "item": "https://croud-travel.pages.dev/furusato-tax-akiu-rairaikyo-autumn-leaves-stay/" }
     ]
   };
 
@@ -84,6 +85,9 @@ export default function FeatureArticlePage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"仙台の奥座敷・秋保温泉と磊々峡の奇岩紅葉！名瀑秋保大滝＆篝火露天風呂宿×ふるさと納税厳選ガイド宮城"} url={"https://croud-travel.pages.dev/furusato-tax-akiu-rairaikyo-autumn-leaves-stay/"} />
+      </div>
 
       {/* イントロダクション */}
       <section className="max-w-5xl mx-auto px-4 sm:px-6 mb-12">
@@ -507,6 +511,9 @@ export default function FeatureArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"仙台の奥座敷・秋保温泉と磊々峡の奇岩紅葉！名瀑秋保大滝＆篝火露天風呂宿×ふるさと納税厳選ガイド宮城"} url={"https://croud-travel.pages.dev/furusato-tax-akiu-rairaikyo-autumn-leaves-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-akiu-rairaikyo-autumn-leaves-stay" />
 </div>
         </section>

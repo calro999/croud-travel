@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月石川・粟津温泉＆加賀温泉郷】開湯1300年の白山霊泉・解禁加能ガニ＆香箱ガニと能登牛を味わう名宿5選',
     description: '11月上旬、日本海に冬の訪れを告げる青いタグ付きブランドズワイガニ「加能ガニ」と、濃厚な内子と外子を抱えたメスガニ「香箱ガニ」の漁が解禁されると。',
     url: 'https://croud-travel.pages.dev/winter-ishikawa-awazu-onsen-kanogani-notogyu-kaga-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -170,7 +171,7 @@ export default function WinterIshikawaAwazuPage() {
         'isPartOf': {
           '@type': 'WebSite',
           '@id': 'https://croud-travel.pages.dev/#website',
-          'name': 'クラドトラベル',
+          'name': '旅宿クラウド',
           'url': 'https://croud-travel.pages.dev/'
         },
         'headline': "【11・12月石川・粟津温泉＆加賀温泉郷】開湯1300年の白山霊泉・解禁加能ガニ＆香箱ガニと能登牛を味わう名宿5選",
@@ -181,7 +182,7 @@ export default function WinterIshikawaAwazuPage() {
         'dateModified': '2026-10-25T00:00:00+09:00',
         'publisher': {
           '@type': 'Organization',
-          'name': 'クラドトラベル編集部',
+          'name': '旅宿クラウド編集部',
           'url': 'https://croud-travel.pages.dev/'
         }
       },
@@ -273,6 +274,9 @@ export default function WinterIshikawaAwazuPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月石川・粟津温泉＆加賀温泉郷】開湯1300年の白山霊泉・解禁加能ガニ＆香箱ガニと能登牛を味わう名宿5選"} url={"https://croud-travel.pages.dev/winter-ishikawa-awazu-onsen-kanogani-notogyu-kaga-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
@@ -396,7 +400,7 @@ export default function WinterIshikawaAwazuPage() {
                       <a
                         href={h.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center justify-center gap-2 w-full sm:w-auto px-6 py-3.5 bg-gradient-to-r from-teal-800 to-slate-900 hover:from-teal-900 hover:to-slate-950 text-white font-bold text-sm rounded-xl shadow-xs hover:shadow-md transition duration-200"
                       >
                         <span>空室状況・宿泊プランを楽天トラベルで確認</span>
@@ -540,6 +544,9 @@ export default function WinterIshikawaAwazuPage() {
               </p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月石川・粟津温泉＆加賀温泉郷】開湯1300年の白山霊泉・解禁加能ガニ＆香箱ガニと能登牛を味わう名宿5選"} url={"https://croud-travel.pages.dev/winter-ishikawa-awazu-onsen-kanogani-notogyu-kaga-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-ishikawa-awazu-onsen-kanogani-notogyu-kaga-stay" />
 </div>
         </section>

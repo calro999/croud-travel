@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
@@ -5,7 +6,7 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '霧島神宮のモミジ参道紅葉＆霧島連山の湯けむり温泉郷！黒豚しゃぶ宿×ふるさと納税厳選ガイド鹿児島',
   description: '11月中旬〜11月下旬に国宝の本殿と朱塗りの鳥居が深紅に彩られる天孫降臨の聖地「霧島神宮」。霧島連山の雄大な紅葉パノラマと、硫黄泉など多彩な源泉が湧く「霧島温泉郷 霧島ホテル」「霧島 旅行人山荘」「摘み草の宿 こまつ」で鹿児島黒豚しゃぶしゃぶや黒毛和牛を堪能。ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。',
-  keywords: ["霧島神宮のモミジ参道紅葉", "2026年最新秋旅", "鹿児島", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
+  keywords: ["霧島神宮のモミジ参道紅葉", "2026年末・冬休み対応", "鹿児島", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-kirishima-shrine-autumn-leaves-stay/"
   },
@@ -38,7 +39,7 @@ const HOTEL_DATA = {
   kirishima_ryokojin_sanso: {
     name: '霧島温泉　霧島　旅行人山荘',
     no: 25134,
-    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38553%2F38553.html',
+    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F25134%2F25134.html',
     planUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F25134%2F25134.html%26f_flg%3DPLAN',
     reviewUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D25134',
     img: 'https://img.travel.rakuten.co.jp/share/HOTEL/25134/25134.jpg',
@@ -53,7 +54,7 @@ const HOTEL_DATA = {
   kirishima_komatsu: {
     name: '霧島温泉　摘み草の宿　こまつ',
     no: 151207,
-    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F25134%2F25134.html',
+    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F151207%2F151207.html',
     planUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F151207%2F151207.html%26f_flg%3DPLAN',
     reviewUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D151207',
     img: 'https://img.travel.rakuten.co.jp/share/HOTEL/151207/151207.jpg',
@@ -72,7 +73,7 @@ export default function FeatureArticlePage() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "霧島神宮のモミジ参道紅葉＆霧島連山の湯けむり温泉郷！黒豚しゃぶ宿×ふるさと納税完全ガイド【2026年最新秋旅】鹿児島",
+    "headline": "霧島神宮のモミジ参道紅葉＆霧島連山の湯けむり温泉郷！黒豚しゃぶ宿×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】鹿児島",
     "description": "11月中旬〜11月下旬に国宝の本殿と朱塗りの鳥居が深紅に彩られる天孫降臨の聖地「霧島神宮」。霧島連山の雄大な紅葉パノラマと、硫黄泉など多彩な源泉が湧く「霧島温泉郷 霧島ホテル」「霧島 旅行人山荘」「摘み草の宿 こまつ」で鹿児島黒豚しゃぶしゃぶや黒毛和牛を堪能。ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。",
     "url": "https://croud-travel.pages.dev/furusato-tax-kirishima-shrine-autumn-leaves-stay/",
     "publisher": {
@@ -86,7 +87,7 @@ export default function FeatureArticlePage() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "霧島神宮のモミジ参道紅葉＆霧島連山の湯けむり温泉郷！黒豚しゃぶ宿×ふるさと納税完全ガイド【2026年最新秋旅】鹿児島", "item": "https://croud-travel.pages.dev/furusato-tax-kirishima-shrine-autumn-leaves-stay/" }
+      { "@type": "ListItem", "position": 2, "name": "霧島神宮のモミジ参道紅葉＆霧島連山の湯けむり温泉郷！黒豚しゃぶ宿×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】鹿児島", "item": "https://croud-travel.pages.dev/furusato-tax-kirishima-shrine-autumn-leaves-stay/" }
     ]
   };
 
@@ -111,7 +112,7 @@ export default function FeatureArticlePage() {
       <header className="bg-gradient-to-br from-orange-950 via-stone-900 to-amber-950 text-white py-14 md:py-20 px-4 mb-10 shadow-lg">
         <div className="max-w-5xl mx-auto text-center">
           <div className="inline-flex items-center gap-2 bg-white/20 backdrop-blur-md px-4 py-1.5 rounded-full text-xs md:text-sm font-semibold mb-5 text-amber-200">
-            <span>🍁 10月・11月限定 秋旅特集</span>
+            <span>🍁 12/31締切 年末駆け込み＆冬休み対応</span>
             <span>•</span>
             <span>楽天ふるさと納税トラベルクーポン対応</span>
           </div>
@@ -121,6 +122,9 @@ export default function FeatureArticlePage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"霧島神宮のモミジ参道紅葉＆霧島連山の湯けむり温泉郷！黒豚しゃぶ宿×ふるさと納税厳選ガイド鹿児島"} url={"https://croud-travel.pages.dev/furusato-tax-kirishima-shrine-autumn-leaves-stay/"} />
+      </div>
 
       <div className="max-w-5xl mx-auto px-4 grid grid-cols-1 lg:grid-cols-3 gap-8">
         {/* メインコンテンツ */}
@@ -132,11 +136,11 @@ export default function FeatureArticlePage() {
               鹿児島県北東部に位置する霧島エリアは、天孫降臨神話が息づく南九州随一のパワースポット。秋には国宝に指定された「霧島神宮」の参道や境内がモミジで真っ赤に染まり、荘厳な社殿とのコントラストは息をのむ美しさ。霧島連山の雄大な自然の中、日本屈指の湧出量と硫黄泉を誇る霧島温泉郷に浸かり、本場のかごしま黒豚しゃぶしゃぶや芋焼酎を満喫できます。
             </p>
             <div className="bg-amber-50/80 rounded-xl p-5 border border-amber-200/80">
-              <h3 className="font-bold text-amber-950 text-sm md:text-base mb-2 flex items-center gap-2">10月〜11月の旅を満喫する3大ポイント</h3>
+              <h3 className="font-bold text-amber-950 text-sm md:text-base mb-2 flex items-center gap-2">年末〜冬休み・来春の旅を満喫する3大ポイント</h3>
               <ul className="text-xs md:text-sm text-amber-900 space-y-2 list-disc list-inside">
-                <li><strong>見頃の紅葉パノラマ：</strong>標高や日当たりで刻一刻と変化するグラデーションを鑑賞（霧島神宮のモミジ参道紅葉＆霧島連山の湯けむり温泉郷）</li>
-                <li><strong>極上の温泉と湯巡り：</strong>朝夕の冷え込む秋風の中で入る露天風呂は格別の贅沢（霧島神宮のモミジ参道紅葉＆霧島連山の湯けむり温泉郷）</li>
-                <li><strong>控除上限内なら自己負担実質2,000円（最大30%クーポン還元）：</strong>楽天ふるさと納税トラベルクーポンで賢く予約（霧島神宮のモミジ参道紅葉＆霧島連山の湯けむり温泉郷）</li>
+                <li><strong>見頃の紅葉パノラマ：</strong>標高や日当たりで刻一刻と変化するグラデーションを鑑賞</li>
+                <li><strong>極上の温泉と湯巡り：</strong>朝夕の冷え込む秋風の中で入る露天風呂は格別の贅沢</li>
+                <li><strong>控除上限内なら自己負担実質2,000円（最大30%クーポン還元）：</strong>楽天ふるさと納税トラベルクーポンで賢く予約</li>
               </ul>
             </div>
           </section>
@@ -185,7 +189,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.kirishima_hotel.planUrl || HOTEL_DATA.kirishima_hotel.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-3.5 px-6 rounded-xl text-center shadow-md transition-all text-sm md:text-base flex items-center justify-center gap-2"
               >
                 <span>プラン一覧・空室確認（楽天トラベル）</span>
@@ -194,7 +198,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.kirishima_hotel.reviewUrl || HOTEL_DATA.kirishima_hotel.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="bg-stone-100 hover:bg-stone-200 text-stone-700 font-bold py-3.5 px-5 rounded-xl text-center border border-stone-300 text-sm transition-all"
               >
                 口コミを見る
@@ -246,7 +250,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.kirishima_ryokojin_sanso.planUrl || HOTEL_DATA.kirishima_ryokojin_sanso.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-3.5 px-6 rounded-xl text-center shadow-md transition-all text-sm md:text-base flex items-center justify-center gap-2"
               >
                 <span>プラン一覧・空室確認（楽天トラベル）</span>
@@ -255,7 +259,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.kirishima_ryokojin_sanso.reviewUrl || HOTEL_DATA.kirishima_ryokojin_sanso.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="bg-stone-100 hover:bg-stone-200 text-stone-700 font-bold py-3.5 px-5 rounded-xl text-center border border-stone-300 text-sm transition-all"
               >
                 口コミを見る
@@ -307,7 +311,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.kirishima_komatsu.planUrl || HOTEL_DATA.kirishima_komatsu.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-3.5 px-6 rounded-xl text-center shadow-md transition-all text-sm md:text-base flex items-center justify-center gap-2"
               >
                 <span>プラン一覧・空室確認（楽天トラベル）</span>
@@ -316,7 +320,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.kirishima_komatsu.reviewUrl || HOTEL_DATA.kirishima_komatsu.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="bg-stone-100 hover:bg-stone-200 text-stone-700 font-bold py-3.5 px-5 rounded-xl text-center border border-stone-300 text-sm transition-all"
               >
                 口コミを見る
@@ -357,19 +361,19 @@ export default function FeatureArticlePage() {
             <h3 className="font-bold text-stone-900 mb-4 pb-2 border-b border-stone-200 flex items-center gap-2">この特集で紹介した宿</h3>
             <ul className="space-y-4 text-xs md:text-sm">
               <li>
-                <a href={HOTEL_DATA.kirishima_hotel.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
+                <a href={HOTEL_DATA.kirishima_hotel.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
                   <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.kirishima_hotel.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.kirishima_hotel.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
-                <a href={HOTEL_DATA.kirishima_ryokojin_sanso.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
+                <a href={HOTEL_DATA.kirishima_ryokojin_sanso.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
                   <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.kirishima_ryokojin_sanso.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.kirishima_ryokojin_sanso.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
-                <a href={HOTEL_DATA.kirishima_komatsu.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
+                <a href={HOTEL_DATA.kirishima_komatsu.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
                   <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.kirishima_komatsu.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.kirishima_komatsu.rating} | 楽天トラベルで詳細確認</div>
                 </a>
@@ -531,6 +535,9 @@ export default function FeatureArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"霧島神宮のモミジ参道紅葉＆霧島連山の湯けむり温泉郷！黒豚しゃぶ宿×ふるさと納税厳選ガイド鹿児島"} url={"https://croud-travel.pages.dev/furusato-tax-kirishima-shrine-autumn-leaves-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-kirishima-shrine-autumn-leaves-stay" />
 </div>
         </section>

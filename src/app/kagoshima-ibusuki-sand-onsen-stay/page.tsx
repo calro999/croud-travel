@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             錦江湾と南国のヤシの木が揺れる「指宿（いぶすき）」。海岸の砂浜に埋もれて波音を聞きながら全身から汗を流す「砂むし温泉」。秀峰・開聞岳を望む絶景露天風呂と、本場鹿児島黒豚・極上焼酎に酔いしれる旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"鹿児島・指宿温泉：天然砂むし温泉＆開聞岳パノラマ・黒豚極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/kagoshima-ibusuki-sand-onsen-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"鹿児島・指宿温泉：天然砂むし温泉＆開聞岳パノラマ・黒豚極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/kagoshima-ibusuki-sand-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="kagoshima-ibusuki-sand-onsen-stay" />
 </div>
   );

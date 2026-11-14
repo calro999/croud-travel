@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             青い日本海と断崖絶壁に向かって123基の朱色鳥居がトンネルのように連なる奇跡の絶景「元乃隅（もとのすみ）神社」。「長門富士」の麓、音信川（おとづれがわ）沿いに竹林や飛び石、川床カフェが美しくリノベーションされた「長門湯本温泉」。名湯「恩湯」と日本海の旬魚を味わう旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"山口・長門湯本温泉＆元乃隅神社：日本海望む123基赤鳥居・恩湯リノベ温泉街宿 厳選ガイド"} url={"https://croud-travel.pages.dev/yamaguchi-nagato-yumoto-motonosumi-shrine-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -361,6 +365,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"山口・長門湯本温泉＆元乃隅神社：日本海望む123基赤鳥居・恩湯リノベ温泉街宿 厳選ガイド"} url={"https://croud-travel.pages.dev/yamaguchi-nagato-yumoto-motonosumi-shrine-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="yamaguchi-nagato-yumoto-motonosumi-shrine-stay" />
 </div>
   );

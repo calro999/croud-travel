@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
@@ -5,7 +6,7 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '4000本のもみじが燃える東海随一の名所・香嵐渓！巴川ライトアップ＆猿投温泉宿×ふるさと納税厳選ガイド愛知',
   description: '11月上旬〜11月下旬に約4,000本のもみじが巴川を彩る東海屈指の紅葉名所「香嵐渓（こうらんけい）」。待月橋の朱塗りと五色もみじ、夜間ライトアップの幻想的な巴川、奇跡の天然ラドン温泉「猿投温泉 金泉閣」や快適シティホテル「名鉄トヨタホテル」「旅荘 みつい」で三河牛や名物五平餅・鮎料理を堪能。ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。',
-  keywords: ["香嵐渓！巴川ライトアップ", "猿投温泉宿×ふるさと納税", "2026年最新秋旅", "愛知", "温泉宿", "宿泊予約", "楽天トラベル"],
+  keywords: ["香嵐渓！巴川ライトアップ", "猿投温泉宿×ふるさと納税", "2026年末・冬休み対応", "愛知", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-korankei-aichi-autumn-leaves-stay/"
   },
@@ -24,7 +25,7 @@ export default function FeatureArticlePage() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "4000本のもみじが燃える東海随一の名所・香嵐渓！巴川ライトアップ＆猿投温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】愛知",
+    "headline": "4000本のもみじが燃える東海随一の名所・香嵐渓！巴川ライトアップ＆猿投温泉宿×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】愛知",
     "description": "11月上旬〜11月下旬に約4,000本のもみじが巴川を彩る東海屈指の紅葉名所「香嵐渓（こうらんけい）」。待月橋の朱塗りと五色もみじ、夜間ライトアップの幻想的な巴川、奇跡の天然ラドン温泉「猿投温泉 金泉閣」や快適シティホテル「名鉄トヨタホテル」「旅荘 みつい」で三河牛や名物五平餅・鮎料理を堪能。ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。",
     "url": "https://croud-travel.pages.dev/furusato-tax-korankei-aichi-autumn-leaves-stay/",
     "publisher": {
@@ -38,7 +39,7 @@ export default function FeatureArticlePage() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "4000本のもみじが燃える東海随一の名所・香嵐渓！巴川ライトアップ＆猿投温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】愛知", "item": "https://croud-travel.pages.dev/furusato-tax-korankei-aichi-autumn-leaves-stay/" }
+      { "@type": "ListItem", "position": 2, "name": "4000本のもみじが燃える東海随一の名所・香嵐渓！巴川ライトアップ＆猿投温泉宿×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】愛知", "item": "https://croud-travel.pages.dev/furusato-tax-korankei-aichi-autumn-leaves-stay/" }
     ]
   };
 
@@ -84,6 +85,9 @@ export default function FeatureArticlePage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"4000本のもみじが燃える東海随一の名所・香嵐渓！巴川ライトアップ＆猿投温泉宿×ふるさと納税厳選ガイド愛知"} url={"https://croud-travel.pages.dev/furusato-tax-korankei-aichi-autumn-leaves-stay/"} />
+      </div>
 
       {/* イントロダクション */}
       <section className="max-w-5xl mx-auto px-4 sm:px-6 mb-12">
@@ -507,6 +511,9 @@ export default function FeatureArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"4000本のもみじが燃える東海随一の名所・香嵐渓！巴川ライトアップ＆猿投温泉宿×ふるさと納税厳選ガイド愛知"} url={"https://croud-travel.pages.dev/furusato-tax-korankei-aichi-autumn-leaves-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-korankei-aichi-autumn-leaves-stay" />
 </div>
         </section>

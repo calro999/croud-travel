@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -107,6 +108,9 @@ export default function MicroTouristHubPage() {
             都心から特急でわずか約80分、豊かな山々と清流に抱かれた埼玉のリゾート「秩父・長瀞」。荒川の渓谷美を船頭の巧みな竿さばきで下る「長瀞ライン下り」と国の天然記念物「岩畳」。標高1100mの神域に鎮座する関東屈指のパワースポット「三峯神社」の神秘的な雲海。滋味あふれる名物グルメと良質な天然温泉で心洗われる週末トリップへご案内します。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"埼玉・秩父＆長瀞：長瀞ライン下り・三峯神社＆芝桜宿 厳選ガイド"} url={"https://croud-travel.pages.dev/saitama-chichibu-nagatoro-line-kudari-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"埼玉・秩父＆長瀞：長瀞ライン下り・三峯神社＆芝桜宿 厳選ガイド"} url={"https://croud-travel.pages.dev/saitama-chichibu-nagatoro-line-kudari-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="saitama-chichibu-nagatoro-line-kudari-stay" />
 </div>
   );

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -13,7 +14,7 @@ export const metadata: Metadata = {
     title: '徳島出張＆眉山ひとり旅：徳島駅直結・リバーサイド天然温泉・阿波尾鶏＆徳島ラーメン！四国の東玄関で癒やされる極上ホテル 厳選3選',
     description: '本州（神戸・淡路島）から高速バス直結・阿波おどりの本場「徳島」！「JR徳島駅直結で眉山を望むランドマークホテル」の「JRホテルクレメント徳島」、新町川のリバーサイドに天然温泉大浴場を備えた「徳島グランヴィリオホテル」、徳島駅前徒歩1分で安心ステイの「ダイワロイネットホテル徳島駅前」を徹底比較。',
     url: 'https://croud-travel.pages.dev/tokushima-solo-business-awataisen-onsen-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -27,12 +28,12 @@ export default function ArticlePage() {
     description: '本州（神戸・淡路島）から高速バス直結・阿波おどりの本場「徳島」！「JR徳島駅直結で眉山を望むランドマークホテル」の「JRホテルクレメント徳島」、新町川のリバーサイドに天然温泉大浴場を備えた「徳島グランヴィリオホテル」、徳島駅前徒歩1分で安心ステイの「ダイワロイネットホテル徳島駅前」を徹底比較。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル ひとり旅・出張調査班',
+      name: '旅宿クラウド ひとり旅・出張調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -79,6 +80,9 @@ export default function ArticlePage() {
           本州（神戸・淡路島）から高速バス直結・阿波おどりの本場「徳島」！「JR徳島駅直結で眉山を望むランドマークホテル」の「JRホテルクレメント徳島」、新町川のリバーサイドに天然温泉大浴場を備えた「徳島グランヴィリオホテル」、徳島駅前徒歩1分で安心ステイの「ダイワロイネットホテル徳島駅前」を徹底比較。
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"徳島出張＆眉山ひとり旅：徳島駅直結・リバーサイド天然温泉・阿波尾鶏＆徳島ラーメン！四国の東玄関で癒やされる極上ホテル 厳選3選"} url={"https://croud-travel.pages.dev/tokushima-solo-business-awataisen-onsen-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
@@ -381,7 +385,7 @@ export default function ArticlePage() {
             href="/"
             className="inline-flex items-center gap-2 text-sm text-stone-600 hover:text-stone-900 font-medium transition-colors"
           >
-            ← クラウドトラベル トップページへ戻る
+            ← 旅宿クラウド トップページへ戻る
           </Link>
         </div>
       </div>
@@ -473,6 +477,9 @@ export default function ArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"徳島出張＆眉山ひとり旅：徳島駅直結・リバーサイド天然温泉・阿波尾鶏＆徳島ラーメン！四国の東玄関で癒やされる極上ホテル 厳選3選"} url={"https://croud-travel.pages.dev/tokushima-solo-business-awataisen-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="tokushima-solo-business-awataisen-onsen-stay" />
 </div>
         </section>

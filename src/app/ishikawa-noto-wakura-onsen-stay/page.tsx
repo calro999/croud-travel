@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             波静かな七尾湾の海辺に湧き出す、国内屈指の高温泉「和倉温泉」。日本海の旬の恵み（寒ブリ・能登牛・加能ガニ）と、加賀屋をはじめとする名門旅館の極上のおもてなしに浸る旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"石川・能登和倉温泉：七尾湾オーシャンビュー＆能登牛・寒ブリ極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/ishikawa-noto-wakura-onsen-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -361,6 +365,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"石川・能登和倉温泉：七尾湾オーシャンビュー＆能登牛・寒ブリ極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/ishikawa-noto-wakura-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="ishikawa-noto-wakura-onsen-stay" />
 </div>
   );

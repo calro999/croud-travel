@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
     title: '【11・12月古湯温泉・熊の川温泉】ぬる湯の聖地・嘉瀬川渓谷美と温冷交互浴・極上佐賀牛すき焼き＆三瀬鶏炭火焼き・斎藤茂吉ゆかりの名宿5選',
     description: '11月中旬から12月の初冬、佐賀市北部の脊振山系に抱かれた富士町・三瀬エリアに位置する古湯温泉（ふるゆおんせん）と熊の川温泉（くまのかわおんせん）の魅力とおすすめ宿泊施設を詳しくご紹介します。',
     url: 'https://croud-travel.pages.dev/winter-saga-furuyu-kumanokawa-onsen-nuruyu-sagagyu-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -48,7 +49,7 @@ export default function SagaFuruyuKumanokawaWinterPage() {
         "isPartOf": {
           "@type": "WebSite",
           "@id": "https://croud-travel.pages.dev/#website",
-          "name": "クラドトラベル",
+          "name": "旅宿クラウド",
           "url": "https://croud-travel.pages.dev/"
         },
         "headline": "【11・12月古湯温泉・熊の川温泉】ぬる湯の聖地・嘉瀬川渓谷美と温冷交互浴・極上佐賀牛すき焼き＆三瀬鶏炭火焼き・斎藤茂吉ゆかりの名宿5選",
@@ -59,7 +60,7 @@ export default function SagaFuruyuKumanokawaWinterPage() {
         "mainEntityOfPage": "https://croud-travel.pages.dev/winter-saga-furuyu-kumanokawa-onsen-nuruyu-sagagyu-stay/",
         "publisher": {
           "@type": "Organization",
-          "name": "クラドトラベル編集部",
+          "name": "旅宿クラウド編集部",
           "url": "https://croud-travel.pages.dev/"
         }
       },
@@ -374,6 +375,9 @@ export default function SagaFuruyuKumanokawaWinterPage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月古湯温泉・熊の川温泉】ぬる湯の聖地・嘉瀬川渓谷美と温冷交互浴・極上佐賀牛すき焼き＆三瀬鶏炭火焼き・斎藤茂吉ゆかりの名宿5選"} url={"https://croud-travel.pages.dev/winter-saga-furuyu-kumanokawa-onsen-nuruyu-sagagyu-stay/"} />
+      </div>
 
       {/* Main Content Container */}
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-12">
@@ -472,7 +476,7 @@ export default function SagaFuruyuKumanokawaWinterPage() {
                     <a
                       href={hotel.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center gap-1.5 bg-teal-800 hover:bg-teal-900 text-white font-bold text-xs sm:text-sm px-4 py-2.5 rounded-xl shadow-xs hover:shadow transition-all"
                     >
                       楽天トラベルでプランを見る
@@ -658,6 +662,9 @@ export default function SagaFuruyuKumanokawaWinterPage() {
               <p className="font-bold text-stone-800 line-clamp-2">冬の風物詩・大塔川仙人風呂オープンと世界遺産つぼ湯・熊野牛会席名宿</p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月古湯温泉・熊の川温泉】ぬる湯の聖地・嘉瀬川渓谷美と温冷交互浴・極上佐賀牛すき焼き＆三瀬鶏炭火焼き・斎藤茂吉ゆかりの名宿5選"} url={"https://croud-travel.pages.dev/winter-saga-furuyu-kumanokawa-onsen-nuruyu-sagagyu-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-saga-furuyu-kumanokawa-onsen-nuruyu-sagagyu-stay" />
 </div>
         </section>

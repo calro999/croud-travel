@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             ぽってりとした温かみのある沖縄伝統陶器「やちむん」に美しく盛り付けられた琉球フレンチや創作料理。読谷村や恩納村のエメラルドグリーンの海を望む極上リゾートで、沖縄の文化と美食に浸る旅を。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"やちむんの温もり：沖縄伝統の陶器で味わう琉球フレンチ＆美ら海オーシャンビューリゾート宿5選"} url={"https://croud-travel.pages.dev/traditional-okinawa-yachimun-pottery-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"やちむんの温もり：沖縄伝統の陶器で味わう琉球フレンチ＆美ら海オーシャンビューリゾート宿5選"} url={"https://croud-travel.pages.dev/traditional-okinawa-yachimun-pottery-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="traditional-okinawa-yachimun-pottery-stay" />
 </div>
         </section>

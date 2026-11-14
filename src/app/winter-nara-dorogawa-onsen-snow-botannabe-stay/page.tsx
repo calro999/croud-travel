@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
     title: '【11・12・1月奈良】雪化粧の提灯灯る木造行者宿・大峯山麓洞川温泉の名物ぼたん鍋＆名水とうふ・極上大和牛を味わう隠れ宿5選',
     description: '11月から1月、奈良県吉野郡天川村・大峯山（八経ヶ岳・山上ヶ岳）の麓に位置する「洞川温泉（どろがわおんせん）」の魅力とおすすめ宿泊施設を詳しくご紹介します。',
     url: 'https://croud-travel.pages.dev/winter-nara-dorogawa-onsen-snow-botannabe-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     images: [
       {
         url: 'https://img.travel.rakuten.co.jp/share/HOTEL/9273/9273.jpg',
@@ -48,7 +49,7 @@ export default function NaraDorogawaOnsenPage() {
         "isPartOf": {
           "@type": "WebSite",
           "@id": "https://croud-travel.pages.dev/#website",
-          "name": "クラドトラベル",
+          "name": "旅宿クラウド",
           "url": "https://croud-travel.pages.dev"
         },
         "headline": "【11・12・1月奈良】雪化粧の提灯灯る木造行者宿・大峯山麓洞川温泉の名物ぼたん鍋＆名水とうふ・極上大和牛を味わう隠れ宿5選",
@@ -58,11 +59,11 @@ export default function NaraDorogawaOnsenPage() {
         "dateModified": "2026-10-18T00:00:00+09:00",
         "author": {
           "@type": "Organization",
-          "name": "クラドトラベル編集部"
+          "name": "旅宿クラウド編集部"
         },
         "publisher": {
           "@type": "Organization",
-          "name": "クラドトラベル",
+          "name": "旅宿クラウド",
           "url": "https://croud-travel.pages.dev",
           "logo": {
             "@type": "ImageObject",
@@ -257,6 +258,9 @@ export default function NaraDorogawaOnsenPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月奈良】雪化粧の提灯灯る木造行者宿・大峯山麓洞川温泉の名物ぼたん鍋＆名水とうふ・極上大和牛を味わう隠れ宿5選"} url={"https://croud-travel.pages.dev/winter-nara-dorogawa-onsen-snow-botannabe-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 mt-10 space-y-12">
@@ -363,7 +367,7 @@ export default function NaraDorogawaOnsenPage() {
                       <a 
                         href={h.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-1.5 bg-red-600 hover:bg-red-700 text-white font-bold text-xs px-4 py-2 rounded-xl shadow-xs transition"
                       >
                         楽天トラベルで空室・プランを見る
@@ -560,6 +564,9 @@ export default function NaraDorogawaOnsenPage() {
               <p className="font-bold text-stone-800 line-clamp-2">亀岡の幻想雲海と冬のぼたん鍋・京都奥座敷の露天風呂付き隠れ宿</p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月奈良】雪化粧の提灯灯る木造行者宿・大峯山麓洞川温泉の名物ぼたん鍋＆名水とうふ・極上大和牛を味わう隠れ宿5選"} url={"https://croud-travel.pages.dev/winter-nara-dorogawa-onsen-snow-botannabe-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-nara-dorogawa-onsen-snow-botannabe-stay" />
 </div>
         </section>

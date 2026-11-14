@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Image from 'next/image';
@@ -17,7 +18,7 @@ export const metadata: Metadata = {
     description: '水郷（すいきょう）と称される大分県日田市。11月〜12月の寒暖差が生み出す三隈川の幻想的な「川霧」と、江戸幕府直轄の天領として栄えた「豆田町」の白壁土蔵が連なる歴史情緒。パリッとした麺の食感がやみつきになる元祖「日田焼きそば」や老舗酒蔵の吟醸酒、とろける豊後牛（おおいた和牛）を堪能し、三隈川を一望する源泉掛け流し美肌温泉に浸る初冬の厳選名宿5選。',
     url: 'https://croud-travel.pages.dev/winter-oita-hita-onsen-mamedamachi-river-mist-hita-yakisoba-oita-wagyu-stay/',
     type: 'article',
-    siteName: 'クラウドトラベル',
+    siteName: '旅宿クラウド',
   },
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-oita-hita-onsen-mamedamachi-river-mist-hita-yakisoba-oita-wagyu-stay/',
@@ -115,6 +116,9 @@ export default function WinterFeaturePage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【水郷日田の初冬川霧と天領小京都・豆田町の白壁通り散策】2026-2027年11-12月初冬の大分・日田温泉"} url={"https://croud-travel.pages.dev/winter-oita-hita-onsen-mamedamachi-river-mist-hita-yakisoba-oita-wagyu-stay/"} />
+      </div>
 
       {/* メインコンテンツ */}
       <main className="max-w-4xl mx-auto px-4 py-10 space-y-12">
@@ -566,6 +570,10 @@ export default function WinterFeaturePage() {
           </div>
         </section>
 
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【水郷日田の初冬川霧と天領小京都・豆田町の白壁通り散策】2026-2027年11-12月初冬の大分・日田温泉"} url={"https://croud-travel.pages.dev/winter-oita-hita-onsen-mamedamachi-river-mist-hita-yakisoba-oita-wagyu-stay/"} />
+      </div>
       </main>
     </div>
   );

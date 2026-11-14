@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -75,6 +76,9 @@ export default function OkinawaTravelBudgetPage() {
             LCC＋レンタカーなしで極限まで安く抑えるか、海沿いのリゾートホテルで優雅に過ごすか。スタイルによって「0が1つ違う」ほど予算が変わる沖縄旅行。航空券・レンタカー・食費・ホテル代のリアルな金額を全て公開します。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"沖縄旅行 予算：2泊3日・3泊4日それぞれいくら？航空券・レンタカー・リゾートホテルのリアル費用"} url={"https://croud-travel.pages.dev/okinawa-travel-budget-plan/"} />
+      </div>
       </div>
 
       {/* Plan Comparisons */}
@@ -450,6 +454,9 @@ export default function OkinawaTravelBudgetPage() {
             </div>
           </div></section>
 
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"沖縄旅行 予算：2泊3日・3泊4日それぞれいくら？航空券・レンタカー・リゾートホテルのリアル費用"} url={"https://croud-travel.pages.dev/okinawa-travel-budget-plan/"} />
+      </div>
       <HubRelatedPosts currentSlug="okinawa-travel-budget-plan" />
 </div>
   );

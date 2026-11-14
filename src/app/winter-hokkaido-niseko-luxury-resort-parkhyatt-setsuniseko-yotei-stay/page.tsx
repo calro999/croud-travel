@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
@@ -111,6 +112,9 @@ export default function Page() {
             </p>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【世界屈指のパウダースノーと羊蹄山ビュー雪見スイート】2026-2027年12-1月冬の北海道・ニセコ！「雪ニセコ」＆「パーク ハイアット ニセコ HANAZONO」・北海道冬の極上食材名宿5選"} url={"https://croud-travel.pages.dev/winter-hokkaido-niseko-luxury-resort-parkhyatt-setsuniseko-yotei-stay/"} />
+      </div>
 
         <div className="max-w-4xl mx-auto px-4 mt-10 space-y-12">
           {/* 導入部 */}
@@ -225,8 +229,7 @@ export default function Page() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント</h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>2022年オープンの最新ラグジュアリーホテル。全室にフルキッチンと最新設備を備え、羊蹄山またはアンヌプリの絶景を望みます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>ニセコの豊かな天然温泉を引き入れた大浴場、露天風呂、貸切温泉サウナを完備。最高峰のウェルネススパで疲れた身体を癒やせます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>館内にはミシュラン星付きレストランを含む多彩なダイニングが集結。北海道の旬の食材を使った美食の饗宴を愉しめます。</span></li>
                 </ul>
@@ -290,8 +293,7 @@ export default function Page() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント</h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>HANAZONOゲレンデに直結し、スキーを履いたまま出入りできる世界最高峰のラグジュアリーホテルです。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>広々とした客室には床から天井までの大窓が配され、白銀の羊蹄山や白樺の森をパノラマで一望できます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>ピエール・エルメ監修のラウンジやミシュラン三つ星シェフのフレンチなど多彩な食の体験。25mインドア温水プールや温泉大浴場も完備。</span></li>
                 </ul>
@@ -355,8 +357,7 @@ export default function Page() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント</h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>ニセコ昆布温泉の静かな森と渓流沿いに建つ、鶴雅グループ最高峰の大人のための和風温泉リゾートです。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>暖炉の火が揺らめくラウンジや木の温もりあふれる客室。自家源泉の滑らかな美肌湯を露天風呂や客室温泉で満喫できます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>夕食は北海道各地から集めた極上の海の幸・山の幸を一皿ごとに美しく仕立てた創作和食会席。静寂の中で贅沢な時間を過ごせます。</span></li>
                 </ul>
@@ -420,8 +421,7 @@ export default function Page() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント</h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>グラン・ヒラフ高速ゴンドラまで徒歩わずか1分の好立地。スキーイン・スキーアウトが可能な洗練されたブティックホテルです。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>自家源泉の天然温泉大浴場や露天風呂、サウナ、家族風呂を完備。滑り終えた直後に温かい名湯に浸かる贅沢が味わえます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>メインダイニング「アンダイニング」では、北海道の厳選素材を独創的に昇華させたモダンフレンチと豊富なワインを楽しめます。</span></li>
                 </ul>
@@ -485,8 +485,7 @@ export default function Page() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント</h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>グラン・ヒラフファミリーコースの麓に位置し、スキーリフト直結の優れた利便性を誇るラグジュアリーコンドミニアムです。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>大きな窓から羊蹄山またはスキー場を一望する広々とした客室。天然温泉大浴場や露天風呂、貸切温泉風呂も充実しています。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>館内にはスキーバレーサービス、ジム、スパ、クラフトレストランを完備し、長期滞在でも快適なリゾートライフを提供します。</span></li>
                 </ul>
@@ -660,6 +659,10 @@ export default function Page() {
             <p>※ニセコエリアの冬季宿泊料金やリフト券付きプラン、ディナー予約は世界的な需要集中により早くから満室となる傾向があります。ご旅行計画時は楽天トラベルにてお早めの空室確認をおすすめします。</p>
           </footer>
         </div>
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【世界屈指のパウダースノーと羊蹄山ビュー雪見スイート】2026-2027年12-1月冬の北海道・ニセコ！「雪ニセコ」＆「パーク ハイアット ニセコ HANAZONO」・北海道冬の極上食材名宿5選"} url={"https://croud-travel.pages.dev/winter-hokkaido-niseko-luxury-resort-parkhyatt-setsuniseko-yotei-stay/"} />
+      </div>
       </article>
     </>
   );

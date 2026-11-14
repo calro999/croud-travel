@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function WellnessRetreatHubPage() {
             PCを開けば最高の執筆環境、顔を上げれば広がる山の緑「温泉ワーケーション＆静寂の長期滞在」。集中した仕事の合間に名湯で頭をリフレッシュ。地元の旬菜を味わい、オンとオフを極上のバランスで調和させる新しい旅の形。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"静寂の長期滞在＆温泉ワーケーション宿：高速Wi-Fi・書斎デスク＆美肌湯 厳選ガイド"} url={"https://croud-travel.pages.dev/hot-spring-cure-workation-quiet-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function WellnessRetreatHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"静寂の長期滞在＆温泉ワーケーション宿：高速Wi-Fi・書斎デスク＆美肌湯 厳選ガイド"} url={"https://croud-travel.pages.dev/hot-spring-cure-workation-quiet-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="hot-spring-cure-workation-quiet-stay" />
 </div>
   );

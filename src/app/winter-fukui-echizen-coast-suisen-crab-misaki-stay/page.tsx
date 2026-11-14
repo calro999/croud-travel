@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -264,6 +265,9 @@ export default function FukuiEchizenCoastPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【12・1月福井】越前海岸＆越前町！日本海に咲く「越前水仙まつり」群生美と越前岬灯台・黄色タグ付き本場「越前がに」フルコース＆絶景温泉宿5選"} url={"https://croud-travel.pages.dev/winter-fukui-echizen-coast-suisen-crab-misaki-stay/"} />
+      </div>
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
@@ -367,7 +371,7 @@ export default function FukuiEchizenCoastPage() {
                     <a
                       href={hotel.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-xl bg-gradient-to-r from-amber-600 to-amber-700 text-white font-bold text-xs md:text-sm hover:from-amber-700 hover:to-amber-800 shadow-sm hover:shadow transition"
                     >
                       楽天トラベルで空室・プラン詳細を見る
@@ -524,6 +528,9 @@ export default function FukuiEchizenCoastPage() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【12・1月福井】越前海岸＆越前町！日本海に咲く「越前水仙まつり」群生美と越前岬灯台・黄色タグ付き本場「越前がに」フルコース＆絶景温泉宿5選"} url={"https://croud-travel.pages.dev/winter-fukui-echizen-coast-suisen-crab-misaki-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-fukui-echizen-coast-suisen-crab-misaki-stay" />
 </div>
   );

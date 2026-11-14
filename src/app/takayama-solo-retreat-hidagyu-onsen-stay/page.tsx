@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -13,7 +14,7 @@ export const metadata: Metadata = {
     title: '飛騨高山ひとり旅・小京都おこもり：古い町並み徒歩すぐ・飛騨牛にぎり・美肌のとろとろ温泉！飛騨の匠の技に抱かれる極上宿 厳選3選',
     description: '特急ひだ直結・江戸の風情を今に残す「飛騨の小京都」岐阜県高山市！「宮川中橋すぐ・ミシュラン掲載の極上おもてなしとお部屋食」を誇る最高峰「本陣平野屋 花兆庵」、総檜造り・自家源泉の重曹泉がとろとろの「飛騨亭 花扇」、高山駅徒歩3分で最上階に展望露天風呂を備えた「スパホテルアルピナ飛騨高山」を徹底特集。',
     url: 'https://croud-travel.pages.dev/takayama-solo-retreat-hidagyu-onsen-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -27,12 +28,12 @@ export default function ArticlePage() {
     description: '特急ひだ直結・江戸の風情を今に残す「飛騨の小京都」岐阜県高山市！「宮川中橋すぐ・ミシュラン掲載の極上おもてなしとお部屋食」を誇る最高峰「本陣平野屋 花兆庵」、総檜造り・自家源泉の重曹泉がとろとろの「飛騨亭 花扇」、高山駅徒歩3分で最上階に展望露天風呂を備えた「スパホテルアルピナ飛騨高山」を徹底特集。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル ひとり旅・出張調査班',
+      name: '旅宿クラウド ひとり旅・出張調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -79,6 +80,9 @@ export default function ArticlePage() {
           特急ひだ直結・江戸の風情を今に残す「飛騨の小京都」岐阜県高山市！「宮川中橋すぐ・ミシュラン掲載の極上おもてなしとお部屋食」を誇る最高峰「本陣平野屋 花兆庵」、総檜造り・自家源泉の重曹泉がとろとろの「飛騨亭 花扇」、高山駅徒歩3分で最上階に展望露天風呂を備えた「スパホテルアルピナ飛騨高山」を徹底特集。
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"飛騨高山ひとり旅・小京都おこもり：古い町並み徒歩すぐ・飛騨牛にぎり・美肌のとろとろ温泉！飛騨の匠の技に抱かれる極上宿 厳選3選"} url={"https://croud-travel.pages.dev/takayama-solo-retreat-hidagyu-onsen-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
@@ -381,7 +385,7 @@ export default function ArticlePage() {
             href="/"
             className="inline-flex items-center gap-2 text-sm text-stone-600 hover:text-stone-900 font-medium transition-colors"
           >
-            ← クラウドトラベル トップページへ戻る
+            ← 旅宿クラウド トップページへ戻る
           </Link>
         </div>
       </div>
@@ -473,6 +477,9 @@ export default function ArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"飛騨高山ひとり旅・小京都おこもり：古い町並み徒歩すぐ・飛騨牛にぎり・美肌のとろとろ温泉！飛騨の匠の技に抱かれる極上宿 厳選3選"} url={"https://croud-travel.pages.dev/takayama-solo-retreat-hidagyu-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="takayama-solo-retreat-hidagyu-onsen-stay" />
 </div>
         </section>

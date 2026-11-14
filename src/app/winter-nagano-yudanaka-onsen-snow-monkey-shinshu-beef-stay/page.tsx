@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -236,6 +237,9 @@ export default function NaganoYudanakaWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月信州湯田中渋温泉郷の雪中スノーモンキーと開湯1350年名湯】登録有形文化財風呂・信州プレミアム牛ステーキ＆雪見酒の宿5選"} url={"https://croud-travel.pages.dev/winter-nagano-yudanaka-onsen-snow-monkey-shinshu-beef-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 space-y-16">
@@ -389,7 +393,7 @@ export default function NaganoYudanakaWinterPage() {
                       <a
                         href={h.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-6 py-3 rounded-xl bg-indigo-700 hover:bg-indigo-800 text-white font-bold text-sm shadow-sm transition-colors duration-200"
                       >
                         <span>空室・料金プランを確認</span>
@@ -577,6 +581,9 @@ export default function NaganoYudanakaWinterPage() {
               <h3 className="text-sm font-bold group-hover:text-indigo-200 transition">全国の厳選温泉・旬旅特集まとめを見る</h3>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月信州湯田中渋温泉郷の雪中スノーモンキーと開湯1350年名湯】登録有形文化財風呂・信州プレミアム牛ステーキ＆雪見酒の宿5選"} url={"https://croud-travel.pages.dev/winter-nagano-yudanaka-onsen-snow-monkey-shinshu-beef-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-nagano-yudanaka-onsen-snow-monkey-shinshu-beef-stay" />
 </div>
         </section>

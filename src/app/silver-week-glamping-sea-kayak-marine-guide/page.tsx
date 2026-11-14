@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -196,6 +197,9 @@ export default function SilverWeekGlampingSeaKayakMarinePage() {
             <span className="flex items-center gap-1.5">🌊 ビーチ直結・波音に癒やされる夜</span>
           </div>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"海グランピング SUP＆シーカヤック体験：秋のビーチ直結！波音を聞いて眠るウォーターフロントリゾート"} url={"https://croud-travel.pages.dev/silver-week-glamping-sea-kayak-marine-guide/"} />
+      </div>
       </section>
 
       {/* 楽天トラベルスペシャルクーポンバナー */}
@@ -407,6 +411,9 @@ export default function SilverWeekGlampingSeaKayakMarinePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"海グランピング SUP＆シーカヤック体験：秋のビーチ直結！波音を聞いて眠るウォーターフロントリゾート"} url={"https://croud-travel.pages.dev/silver-week-glamping-sea-kayak-marine-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="silver-week-glamping-sea-kayak-marine-guide" />
 </div>
   );

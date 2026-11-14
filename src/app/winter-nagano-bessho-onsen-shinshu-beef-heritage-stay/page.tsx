@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月長野・信州 別所温泉の古湯情緒と北向観音初冬参拝】極上信州プレミアム牛＆名湯掛け流し硫黄泉で寛ぐ老舗旅館5選',
     description: '11月から12月にかけて、信州最古の温泉地として「信州の鎌倉」と称される長野県上田市の「別所温泉」は、山並みに初雪が冠し。',
     url: 'https://croud-travel.pages.dev/winter-nagano-bessho-onsen-shinshu-beef-heritage-stay/',
-    siteName: 'クラドトラベル (Croud Travel)',
+    siteName: '旅宿クラウド (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -257,6 +258,9 @@ export default function NaganoBesshoWinterFeature() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月長野・信州 別所温泉の古湯情緒と北向観音初冬参拝】極上信州プレミアム牛＆名湯掛け流し硫黄泉で寛ぐ老舗旅館5選"} url={"https://croud-travel.pages.dev/winter-nagano-bessho-onsen-shinshu-beef-heritage-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 space-y-16">
@@ -384,7 +388,7 @@ export default function NaganoBesshoWinterFeature() {
                     <a
                       href={h.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center gap-2 px-6 py-3 rounded-2xl bg-gradient-to-r from-violet-600 to-violet-700 text-white font-bold text-sm shadow-md hover:from-violet-700 hover:to-violet-800 transition-all"
                     >
                       楽天トラベルでプランを見る
@@ -598,6 +602,9 @@ export default function NaganoBesshoWinterFeature() {
               <p className="text-slate-300 text-[11px] line-clamp-2">初冬の澄み渡る空気の中で眺める逆さ富士と極上ワイン。</p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月長野・信州 別所温泉の古湯情緒と北向観音初冬参拝】極上信州プレミアム牛＆名湯掛け流し硫黄泉で寛ぐ老舗旅館5選"} url={"https://croud-travel.pages.dev/winter-nagano-bessho-onsen-shinshu-beef-heritage-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-nagano-bessho-onsen-shinshu-beef-heritage-stay" />
 </div>
         </section>

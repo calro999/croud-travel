@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             エメラルドグリーンの梓川と、鏡のように穂高連峰を映す大正池・河童橋の神々しい絶景「上高地」。マイカー規制により守られた静寂の山岳リゾートから、乗鞍岳の雄大な裾野に広がる乗鞍高原、そして乳白色の霊泉が湧く山間の秘湯・白骨温泉へ。日常を忘れ、清冽なアルプスの大自然と極上のいで湯に包まれる旅をお届けします。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"長野・上高地＆乗鞍・白骨：河童橋・大正池・乳白色秘湯宿 厳選ガイド"} url={"https://croud-travel.pages.dev/nagano-kamikochi-norikura-alps-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -237,6 +241,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"長野・上高地＆乗鞍・白骨：河童橋・大正池・乳白色秘湯宿 厳選ガイド"} url={"https://croud-travel.pages.dev/nagano-kamikochi-norikura-alps-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="nagano-kamikochi-norikura-alps-stay" />
 </div>
   );

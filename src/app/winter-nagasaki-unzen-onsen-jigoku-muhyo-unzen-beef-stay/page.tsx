@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
     title: '【11・12・1月長崎】立ち上る雲仙地獄の白煙と冬の奇跡「霧氷」・極上雲仙牛＆島原名物具雑煮を堪能する雲仙温泉名宿5選',
     description: '11月から1月、日本最初の国立公園に指定された標高700mの高原に広がる長崎県島原半島「雲仙（うんぜん）温泉」は、大地の息吹を感じる地獄の白煙と。',
     url: 'https://croud-travel.pages.dev/winter-nagasaki-unzen-onsen-jigoku-muhyo-unzen-beef-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -56,12 +57,12 @@ export default function NagasakiUnzenOnsenWinterPage() {
         "dateModified": "2026-10-18T00:00:00+09:00",
         "author": {
           "@type": "Organization",
-          "name": "クラドトラベル 九州・名湯取材班",
+          "name": "旅宿クラウド 九州・名湯取材班",
           "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
-          "name": "クラドトラベル",
+          "name": "旅宿クラウド",
           "url": "https://croud-travel.pages.dev",
           "logo": {
             "@type": "ImageObject",
@@ -256,6 +257,9 @@ export default function NagasakiUnzenOnsenWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月長崎】立ち上る雲仙地獄の白煙と冬の奇跡「霧氷」・極上雲仙牛＆島原名物具雑煮を堪能する雲仙温泉名宿5選"} url={"https://croud-travel.pages.dev/winter-nagasaki-unzen-onsen-jigoku-muhyo-unzen-beef-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 mt-10 space-y-12">
@@ -361,7 +365,7 @@ export default function NagasakiUnzenOnsenWinterPage() {
                       <a 
                         href={h.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-1.5 bg-emerald-700 hover:bg-emerald-800 text-white font-bold text-xs px-4 py-2 rounded-xl shadow-xs transition"
                       >
                         楽天トラベルで空室・プランを見る
@@ -550,6 +554,9 @@ export default function NagasakiUnzenOnsenWinterPage() {
               <p className="font-bold text-stone-800 line-clamp-2">名湯百選「化粧の湯」の極上とろみ泉・熊本あか牛ステーキ名宿</p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月長崎】立ち上る雲仙地獄の白煙と冬の奇跡「霧氷」・極上雲仙牛＆島原名物具雑煮を堪能する雲仙温泉名宿5選"} url={"https://croud-travel.pages.dev/winter-nagasaki-unzen-onsen-jigoku-muhyo-unzen-beef-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-nagasaki-unzen-onsen-jigoku-muhyo-unzen-beef-stay" />
 </div>
         </section>

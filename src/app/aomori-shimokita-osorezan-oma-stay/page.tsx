@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             荒々しい津軽海峡の波頭と極楽浄土の白砂が交差する「下北半島」。硫黄の香りと風車が回る日本屈指の霊場・恐山。マグロ一本釣りの聖地・本州最北端大間崎。巨大な白緑色凝灰岩が連なる仏ヶ浦。名湯下風呂温泉で味わう本場大間マグロの旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"青森・下北半島＆恐山・大間：本州最北端大間マグロ・日本三大霊場恐山宿 厳選ガイド"} url={"https://croud-travel.pages.dev/aomori-shimokita-osorezan-oma-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -231,6 +235,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"青森・下北半島＆恐山・大間：本州最北端大間マグロ・日本三大霊場恐山宿 厳選ガイド"} url={"https://croud-travel.pages.dev/aomori-shimokita-osorezan-oma-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="aomori-shimokita-osorezan-oma-stay" />
 </div>
   );

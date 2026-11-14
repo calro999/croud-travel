@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
@@ -5,7 +6,7 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '夢の吊橋のエメラルド湖面紅葉＆大井川鐵道SL列車！美肌寸又峡温泉×ふるさと納税厳選ガイド静岡',
   description: '11月上旬〜11月下旬に見頃を迎える「寸又峡（すまたきょう）・夢の吊橋」。チンダル現象による神秘のエメラルドグリーンの湖面と紅葉のパノラマ、大井川鐵道のSLやアプト式列車、名宿「翠紅苑」「川根温泉ホテル」「湯屋飛龍の宿」で美女づくりの湯と川根茶・猪鍋・静岡そだち牛を堪能。楽天ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。',
-  keywords: ["夢の吊橋のエメラルド湖面紅葉", "2026年最新秋旅", "静岡", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
+  keywords: ["夢の吊橋のエメラルド湖面紅葉", "2026年末・冬休み対応", "静岡", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-sumatakyo-autumn-leaves-stay/"
   },
@@ -24,7 +25,7 @@ export default function FeatureArticlePage() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "夢の吊橋のエメラルド湖面紅葉＆大井川鐵道SL列車！美肌寸又峡温泉×ふるさと納税完全ガイド【2026年最新秋旅】静岡",
+    "headline": "夢の吊橋のエメラルド湖面紅葉＆大井川鐵道SL列車！美肌寸又峡温泉×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】静岡",
     "description": "11月上旬〜11月下旬に見頃を迎える「寸又峡（すまたきょう）・夢の吊橋」。チンダル現象による神秘のエメラルドグリーンの湖面と紅葉のパノラマ、大井川鐵道のSLやアプト式列車、名宿「翠紅苑」「川根温泉ホテル」「湯屋飛龍の宿」で美女づくりの湯と川根茶・猪鍋・静岡そだち牛を堪能。楽天ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。",
     "url": "https://croud-travel.pages.dev/furusato-tax-sumatakyo-autumn-leaves-stay/",
     "publisher": {
@@ -38,7 +39,7 @@ export default function FeatureArticlePage() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "夢の吊橋のエメラルド湖面紅葉＆大井川鐵道SL列車！美肌寸又峡温泉×ふるさと納税完全ガイド【2026年最新秋旅】静岡", "item": "https://croud-travel.pages.dev/furusato-tax-sumatakyo-autumn-leaves-stay/" }
+      { "@type": "ListItem", "position": 2, "name": "夢の吊橋のエメラルド湖面紅葉＆大井川鐵道SL列車！美肌寸又峡温泉×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】静岡", "item": "https://croud-travel.pages.dev/furusato-tax-sumatakyo-autumn-leaves-stay/" }
     ]
   };
 
@@ -84,6 +85,9 @@ export default function FeatureArticlePage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"夢の吊橋のエメラルド湖面紅葉＆大井川鐵道SL列車！美肌寸又峡温泉×ふるさと納税厳選ガイド静岡"} url={"https://croud-travel.pages.dev/furusato-tax-sumatakyo-autumn-leaves-stay/"} />
+      </div>
 
       {/* イントロダクション */}
       <section className="max-w-5xl mx-auto px-4 sm:px-6 mb-12">
@@ -507,6 +511,9 @@ export default function FeatureArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"夢の吊橋のエメラルド湖面紅葉＆大井川鐵道SL列車！美肌寸又峡温泉×ふるさと納税厳選ガイド静岡"} url={"https://croud-travel.pages.dev/furusato-tax-sumatakyo-autumn-leaves-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-sumatakyo-autumn-leaves-stay" />
 </div>
         </section>

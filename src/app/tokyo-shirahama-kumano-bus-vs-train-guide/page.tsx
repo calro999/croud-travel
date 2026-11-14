@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -164,6 +165,9 @@ export default function HighwayBusArticlePage() {
             東京から南紀白浜へ新幹線＋特急くろしおだと片道約18,000円。一方、バスタ新宿・大宮・横浜からの直行夜行バス「ホワイトビーチシャトル」なら片道約8,500円〜！大阪（天王寺・なんば）からなら片道約3,000円〜で白良浜の目の前に直行。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"東京・大阪〜南紀白浜・熊野古道：夜行バス vs 特急くろしお徹底比較！白良浜ビーチ＆世界遺産熊野古道1泊2日モデルコース"} url={"https://croud-travel.pages.dev/tokyo-shirahama-kumano-bus-vs-train-guide/"} />
       </div>
 
       {/* 📊 交通手段・料金・所要時間の徹底比較テーブル */}
@@ -427,6 +431,9 @@ export default function HighwayBusArticlePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"東京・大阪〜南紀白浜・熊野古道：夜行バス vs 特急くろしお徹底比較！白良浜ビーチ＆世界遺産熊野古道1泊2日モデルコース"} url={"https://croud-travel.pages.dev/tokyo-shirahama-kumano-bus-vs-train-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="tokyo-shirahama-kumano-bus-vs-train-guide" />
 </div>
   );

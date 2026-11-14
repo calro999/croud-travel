@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
@@ -5,7 +6,7 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '日本三大秘境・祖谷のかずら橋＆大歩危峡の断崖紅葉！ケーブルカー露天風呂の宿×ふるさと納税厳選ガイド徳島',
   description: '10月下旬〜11月中旬に山一面が錦に染まる日本三大秘境「祖谷渓（いやけい）」と吉野川の「大歩危峡（おおぼけきょう）」。スリル満点の祖谷のかずら橋、名物小便小僧、ケーブルカーで行く谷底露天風呂「ホテル祖谷温泉」「ホテルかずら橋」「サンリバー大歩危」で祖谷そばや阿波尾鶏を堪能。ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。',
-  keywords: ["日本三大秘境", "祖谷のかずら橋", "2026年最新秋旅", "徳島", "温泉宿", "宿泊予約", "楽天トラベル"],
+  keywords: ["日本三大秘境", "祖谷のかずら橋", "2026年末・冬休み対応", "徳島", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-iya-oboke-gorge-autumn-leaves-stay/"
   },
@@ -24,7 +25,7 @@ export default function FeatureArticlePage() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "日本三大秘境・祖谷のかずら橋＆大歩危峡の断崖紅葉！ケーブルカー露天風呂の宿×ふるさと納税完全ガイド【2026年最新秋旅】徳島",
+    "headline": "日本三大秘境・祖谷のかずら橋＆大歩危峡の断崖紅葉！ケーブルカー露天風呂の宿×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】徳島",
     "description": "10月下旬〜11月中旬に山一面が錦に染まる日本三大秘境「祖谷渓（いやけい）」と吉野川の「大歩危峡（おおぼけきょう）」。スリル満点の祖谷のかずら橋、名物小便小僧、ケーブルカーで行く谷底露天風呂「ホテル祖谷温泉」「ホテルかずら橋」「サンリバー大歩危」で祖谷そばや阿波尾鶏を堪能。ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。",
     "url": "https://croud-travel.pages.dev/furusato-tax-iya-oboke-gorge-autumn-leaves-stay/",
     "publisher": {
@@ -38,7 +39,7 @@ export default function FeatureArticlePage() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "日本三大秘境・祖谷のかずら橋＆大歩危峡の断崖紅葉！ケーブルカー露天風呂の宿×ふるさと納税完全ガイド【2026年最新秋旅】徳島", "item": "https://croud-travel.pages.dev/furusato-tax-iya-oboke-gorge-autumn-leaves-stay/" }
+      { "@type": "ListItem", "position": 2, "name": "日本三大秘境・祖谷のかずら橋＆大歩危峡の断崖紅葉！ケーブルカー露天風呂の宿×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】徳島", "item": "https://croud-travel.pages.dev/furusato-tax-iya-oboke-gorge-autumn-leaves-stay/" }
     ]
   };
 
@@ -84,6 +85,9 @@ export default function FeatureArticlePage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"日本三大秘境・祖谷のかずら橋＆大歩危峡の断崖紅葉！ケーブルカー露天風呂の宿×ふるさと納税厳選ガイド徳島"} url={"https://croud-travel.pages.dev/furusato-tax-iya-oboke-gorge-autumn-leaves-stay/"} />
+      </div>
 
       {/* イントロダクション */}
       <section className="max-w-5xl mx-auto px-4 sm:px-6 mb-12">
@@ -507,6 +511,9 @@ export default function FeatureArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"日本三大秘境・祖谷のかずら橋＆大歩危峡の断崖紅葉！ケーブルカー露天風呂の宿×ふるさと納税厳選ガイド徳島"} url={"https://croud-travel.pages.dev/furusato-tax-iya-oboke-gorge-autumn-leaves-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-iya-oboke-gorge-autumn-leaves-stay" />
 </div>
         </section>

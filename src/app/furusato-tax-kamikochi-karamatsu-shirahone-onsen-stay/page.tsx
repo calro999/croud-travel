@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
@@ -5,7 +6,7 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '上高地・大正池の黄金カラマツ黄葉＆初冠雪の穂高連峰！白骨温泉乳白秘湯×ふるさと納税厳選ガイド長野',
   description: '10月中旬〜11月上旬に日本屈指の山岳景観が黄金に輝く「信州・上高地」。大正池や田代湿原・河童橋を彩るカラマツ黄葉と冠雪した穂高連峰の絶景、3日入れば3年風邪をひかないと言われる名湯「白骨温泉 小梨の湯 笹屋」「お宿つるや」「白船グランドホテル」で信州プレミアム牛肉や岩魚塩焼きを堪能。ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。',
-  keywords: ["上高地", "大正池の黄金カラマツ黄葉", "2026年最新秋旅", "長野", "温泉宿", "宿泊予約", "楽天トラベル"],
+  keywords: ["上高地", "大正池の黄金カラマツ黄葉", "2026年末・冬休み対応", "長野", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-kamikochi-karamatsu-shirahone-onsen-stay/"
   },
@@ -38,7 +39,7 @@ const HOTEL_DATA = {
   shirahone_tsuruya: {
     name: '白骨温泉　お宿つるや　（旧：つるや旅館）',
     no: 38986,
-    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F141241%2F141241.html',
+    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38986%2F38986.html',
     planUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38986%2F38986.html%26f_flg%3DPLAN',
     reviewUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D38986',
     img: 'https://img.travel.rakuten.co.jp/share/HOTEL/38986/38986.jpg',
@@ -53,7 +54,7 @@ const HOTEL_DATA = {
   shirahone_grand: {
     name: '白骨温泉　白船グランドホテル',
     no: 128531,
-    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38986%2F38986.html',
+    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F128531%2F128531.html',
     planUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F128531%2F128531.html%26f_flg%3DPLAN',
     reviewUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D128531',
     img: 'https://img.travel.rakuten.co.jp/share/HOTEL/128531/128531.jpg',
@@ -72,7 +73,7 @@ export default function FeatureArticlePage() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "上高地・大正池の黄金カラマツ黄葉＆初冠雪の穂高連峰！白骨温泉乳白秘湯×ふるさと納税完全ガイド【2026年最新秋旅】長野",
+    "headline": "上高地・大正池の黄金カラマツ黄葉＆初冠雪の穂高連峰！白骨温泉乳白秘湯×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】長野",
     "description": "10月中旬〜11月上旬に日本屈指の山岳景観が黄金に輝く「信州・上高地」。大正池や田代湿原・河童橋を彩るカラマツ黄葉と冠雪した穂高連峰の絶景、3日入れば3年風邪をひかないと言われる名湯「白骨温泉 小梨の湯 笹屋」「お宿つるや」「白船グランドホテル」で信州プレミアム牛肉や岩魚塩焼きを堪能。ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。",
     "url": "https://croud-travel.pages.dev/furusato-tax-kamikochi-karamatsu-shirahone-onsen-stay/",
     "publisher": {
@@ -86,7 +87,7 @@ export default function FeatureArticlePage() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "上高地・大正池の黄金カラマツ黄葉＆初冠雪の穂高連峰！白骨温泉乳白秘湯×ふるさと納税完全ガイド【2026年最新秋旅】長野", "item": "https://croud-travel.pages.dev/furusato-tax-kamikochi-karamatsu-shirahone-onsen-stay/" }
+      { "@type": "ListItem", "position": 2, "name": "上高地・大正池の黄金カラマツ黄葉＆初冠雪の穂高連峰！白骨温泉乳白秘湯×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】長野", "item": "https://croud-travel.pages.dev/furusato-tax-kamikochi-karamatsu-shirahone-onsen-stay/" }
     ]
   };
 
@@ -111,7 +112,7 @@ export default function FeatureArticlePage() {
       <header className="bg-gradient-to-br from-teal-950 via-stone-900 to-amber-950 text-white py-14 md:py-20 px-4 mb-10 shadow-lg">
         <div className="max-w-5xl mx-auto text-center">
           <div className="inline-flex items-center gap-2 bg-white/20 backdrop-blur-md px-4 py-1.5 rounded-full text-xs md:text-sm font-semibold mb-5 text-amber-200">
-            <span>🍁 10月・11月限定 秋旅特集</span>
+            <span>🍁 12/31締切 年末駆け込み＆冬休み対応</span>
             <span>•</span>
             <span>楽天ふるさと納税トラベルクーポン対応</span>
           </div>
@@ -121,6 +122,9 @@ export default function FeatureArticlePage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"上高地・大正池の黄金カラマツ黄葉＆初冠雪の穂高連峰！白骨温泉乳白秘湯×ふるさと納税厳選ガイド長野"} url={"https://croud-travel.pages.dev/furusato-tax-kamikochi-karamatsu-shirahone-onsen-stay/"} />
+      </div>
 
       <div className="max-w-5xl mx-auto px-4 grid grid-cols-1 lg:grid-cols-3 gap-8">
         {/* メインコンテンツ */}
@@ -132,11 +136,11 @@ export default function FeatureArticlePage() {
               長野県・北アルプスの麓に広がる上高地は、国の特別名勝・特別天然記念物に指定された日本を代表する山岳景勝地。10月中旬から11月上旬の閉山にかけて、カラマツが一斉に黄金色へと変わり、初冠雪の穂高連峰とのコントラストは奇跡のような美しさです。散策の後は「3日入れば3年風邪をひかない」と伝わる乳白色の霊泉・白骨温泉へ。信州サーモンや信州牛の滋味を心ゆくまで堪能できます。
             </p>
             <div className="bg-amber-50/80 rounded-xl p-5 border border-amber-200/80">
-              <h3 className="font-bold text-amber-950 text-sm md:text-base mb-2 flex items-center gap-2">10月〜11月の旅を満喫する3大ポイント</h3>
+              <h3 className="font-bold text-amber-950 text-sm md:text-base mb-2 flex items-center gap-2">年末〜冬休み・来春の旅を満喫する3大ポイント</h3>
               <ul className="text-xs md:text-sm text-amber-900 space-y-2 list-disc list-inside">
-                <li><strong>見頃の紅葉パノラマ：</strong>標高や日当たりで刻一刻と変化するグラデーションを鑑賞（上高地・大正池の黄金カラマツ黄葉＆初冠雪の穂高連峰）</li>
-                <li><strong>極上の温泉と湯巡り：</strong>朝夕の冷え込む秋風の中で入る露天風呂は格別の贅沢（上高地・大正池の黄金カラマツ黄葉＆初冠雪の穂高連峰）</li>
-                <li><strong>控除上限内なら自己負担実質2,000円（最大30%クーポン還元）：</strong>楽天ふるさと納税トラベルクーポンで賢く予約（上高地・大正池の黄金カラマツ黄葉＆初冠雪の穂高連峰）</li>
+                <li><strong>見頃の紅葉パノラマ：</strong>標高や日当たりで刻一刻と変化するグラデーションを鑑賞</li>
+                <li><strong>極上の温泉と湯巡り：</strong>朝夕の冷え込む秋風の中で入る露天風呂は格別の贅沢</li>
+                <li><strong>控除上限内なら自己負担実質2,000円（最大30%クーポン還元）：</strong>楽天ふるさと納税トラベルクーポンで賢く予約</li>
               </ul>
             </div>
           </section>
@@ -185,7 +189,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.shirahone_sasaya.planUrl || HOTEL_DATA.shirahone_sasaya.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-3.5 px-6 rounded-xl text-center shadow-md transition-all text-sm md:text-base flex items-center justify-center gap-2"
               >
                 <span>プラン一覧・空室確認（楽天トラベル）</span>
@@ -194,7 +198,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.shirahone_sasaya.reviewUrl || HOTEL_DATA.shirahone_sasaya.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="bg-stone-100 hover:bg-stone-200 text-stone-700 font-bold py-3.5 px-5 rounded-xl text-center border border-stone-300 text-sm transition-all"
               >
                 口コミを見る
@@ -246,7 +250,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.shirahone_tsuruya.planUrl || HOTEL_DATA.shirahone_tsuruya.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-3.5 px-6 rounded-xl text-center shadow-md transition-all text-sm md:text-base flex items-center justify-center gap-2"
               >
                 <span>プラン一覧・空室確認（楽天トラベル）</span>
@@ -255,7 +259,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.shirahone_tsuruya.reviewUrl || HOTEL_DATA.shirahone_tsuruya.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="bg-stone-100 hover:bg-stone-200 text-stone-700 font-bold py-3.5 px-5 rounded-xl text-center border border-stone-300 text-sm transition-all"
               >
                 口コミを見る
@@ -307,7 +311,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.shirahone_grand.planUrl || HOTEL_DATA.shirahone_grand.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-3.5 px-6 rounded-xl text-center shadow-md transition-all text-sm md:text-base flex items-center justify-center gap-2"
               >
                 <span>プラン一覧・空室確認（楽天トラベル）</span>
@@ -316,7 +320,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.shirahone_grand.reviewUrl || HOTEL_DATA.shirahone_grand.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="bg-stone-100 hover:bg-stone-200 text-stone-700 font-bold py-3.5 px-5 rounded-xl text-center border border-stone-300 text-sm transition-all"
               >
                 口コミを見る
@@ -357,19 +361,19 @@ export default function FeatureArticlePage() {
             <h3 className="font-bold text-stone-900 mb-4 pb-2 border-b border-stone-200 flex items-center gap-2">この特集で紹介した宿</h3>
             <ul className="space-y-4 text-xs md:text-sm">
               <li>
-                <a href={HOTEL_DATA.shirahone_sasaya.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
+                <a href={HOTEL_DATA.shirahone_sasaya.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
                   <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.shirahone_sasaya.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.shirahone_sasaya.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
-                <a href={HOTEL_DATA.shirahone_tsuruya.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
+                <a href={HOTEL_DATA.shirahone_tsuruya.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
                   <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.shirahone_tsuruya.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.shirahone_tsuruya.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
-                <a href={HOTEL_DATA.shirahone_grand.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
+                <a href={HOTEL_DATA.shirahone_grand.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
                   <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.shirahone_grand.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.shirahone_grand.rating} | 楽天トラベルで詳細確認</div>
                 </a>
@@ -531,6 +535,9 @@ export default function FeatureArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"上高地・大正池の黄金カラマツ黄葉＆初冠雪の穂高連峰！白骨温泉乳白秘湯×ふるさと納税厳選ガイド長野"} url={"https://croud-travel.pages.dev/furusato-tax-kamikochi-karamatsu-shirahone-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-kamikochi-karamatsu-shirahone-onsen-stay" />
 </div>
         </section>

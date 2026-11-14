@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -277,6 +278,9 @@ export default function HigashiyamaWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月会津東山温泉の初雪と武家文化】雪化粧の湯川渓谷露天と会津地鶏・極上馬刺し会席の宿5選"} url={"https://croud-travel.pages.dev/winter-fukushima-aizu-higashiyama-snow-heritage-stay/"} />
+      </div>
 
       {/* Main Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
@@ -463,7 +467,7 @@ export default function HigashiyamaWinterPage() {
                     <a
                       href={hotel.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-6 py-3.5 rounded-2xl bg-gradient-to-r from-red-800 to-stone-900 hover:from-red-900 hover:to-black text-white font-bold text-sm shadow-md hover:shadow-lg transition-all transform hover:-translate-y-0.5"
                     >
                       <span>楽天トラベルでプラン・空室を見る</span>
@@ -671,6 +675,9 @@ export default function HigashiyamaWinterPage() {
               <h3 className="text-sm font-bold text-stone-900 group-hover:text-red-800 transition line-clamp-2">【伊香保温泉】365段の石段街と黄金の湯・上州牛会席を味わう名旅館</h3>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月会津東山温泉の初雪と武家文化】雪化粧の湯川渓谷露天と会津地鶏・極上馬刺し会席の宿5選"} url={"https://croud-travel.pages.dev/winter-fukushima-aizu-higashiyama-snow-heritage-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-fukushima-aizu-higashiyama-snow-heritage-stay" />
 </div>
         </section>

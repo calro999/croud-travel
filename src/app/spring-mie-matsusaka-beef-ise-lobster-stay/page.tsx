@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             日本最高峰のブランド和牛「松阪牛」と、プリプリの甘みが弾ける「伊勢海老」！伊勢志摩のリアス海岸を望む絶景展望露天風呂と、三重が誇る贅沢極まりない美食を心ゆくまで堪能する極上宿。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"極上松阪牛＆伊勢海老会席：伊勢志摩・鳥羽の豪華二大味覚とオーシャンビュー名湯宿5選"} url={"https://croud-travel.pages.dev/spring-mie-matsusaka-beef-ise-lobster-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"極上松阪牛＆伊勢海老会席：伊勢志摩・鳥羽の豪華二大味覚とオーシャンビュー名湯宿5選"} url={"https://croud-travel.pages.dev/spring-mie-matsusaka-beef-ise-lobster-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="spring-mie-matsusaka-beef-ise-lobster-stay" />
 </div>
         </section>

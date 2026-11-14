@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import FurusatoStepSection from "@/app/components/FurusatoStepSection";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
@@ -96,6 +97,9 @@ export default function FurusatoRound66ArticlePage() {
             </Link>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"日本三古湯＆飛鳥・万葉の昔から湧き出る最古の名湯と老舗名旅館×ふるさと納税厳選ガイド道後・有馬・白浜"} url={"https://croud-travel.pages.dev/furusato-tax-three-great-ancient-baths-heritage-stay/"} />
+      </div>
 
         {/* 3つの魅力・深掘り解説 */}
         <section className="mb-16">
@@ -500,6 +504,9 @@ export default function FurusatoRound66ArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"日本三古湯＆飛鳥・万葉の昔から湧き出る最古の名湯と老舗名旅館×ふるさと納税厳選ガイド道後・有馬・白浜"} url={"https://croud-travel.pages.dev/furusato-tax-three-great-ancient-baths-heritage-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-three-great-ancient-baths-heritage-stay" />
 </div>
         </section>

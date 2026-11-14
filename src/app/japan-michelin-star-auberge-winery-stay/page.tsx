@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function LuxuryPremiumHubPage() {
             ぶどう畑を見下ろす丘の上、料理人の情熱が一皿ごとに咲き誇る「極上オーベルジュ＆ワイナリーホテル」。テロワールを表現したモダンフレンチや薪火料理。ソムリエが提案する完璧なワインペアリング。部屋に戻ってそのまま眠りにつく美食の頂点へ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"ミシュラン星付きシェフ監修＆ワイナリー宿：極上オーベルジュ・美食ステイ 厳選ガイド"} url={"https://croud-travel.pages.dev/japan-michelin-star-auberge-winery-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆厳選宿 */}
@@ -454,6 +458,9 @@ export default function LuxuryPremiumHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"ミシュラン星付きシェフ監修＆ワイナリー宿：極上オーベルジュ・美食ステイ 厳選ガイド"} url={"https://croud-travel.pages.dev/japan-michelin-star-auberge-winery-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="japan-michelin-star-auberge-winery-stay" />
 </div>
   );

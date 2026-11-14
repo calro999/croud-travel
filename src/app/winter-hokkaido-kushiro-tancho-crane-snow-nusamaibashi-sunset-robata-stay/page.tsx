@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import Link from 'next/link';
 import type { Metadata } from 'next';
@@ -299,6 +300,9 @@ export default function HokkaidoKushiroWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月北海道】雪原に舞う特別天然記念物「丹頂鶴」と世界三大夕日「幣舞橋」！炭火炉端焼き・冬の真だち＆釧路天然温泉名宿5選"} url={"https://croud-travel.pages.dev/winter-hokkaido-kushiro-tancho-crane-snow-nusamaibashi-sunset-robata-stay/"} />
+      </div>
 
       {/* Summary Box */}
       <section className="max-w-5xl mx-auto px-4 -mt-8 relative z-20">
@@ -463,7 +467,7 @@ export default function HokkaidoKushiroWinterPage() {
                     <a
                       href={hotel.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center gap-1.5 px-5 py-2.5 bg-gradient-to-r from-sky-600 to-sky-700 hover:from-sky-700 hover:to-sky-800 text-white font-bold text-xs md:text-sm rounded-xl shadow-sm transition"
                     >
                       <span>楽天トラベルでプランを見る</span>
@@ -626,6 +630,9 @@ export default function HokkaidoKushiroWinterPage() {
               トップページへ戻る
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月北海道】雪原に舞う特別天然記念物「丹頂鶴」と世界三大夕日「幣舞橋」！炭火炉端焼き・冬の真だち＆釧路天然温泉名宿5選"} url={"https://croud-travel.pages.dev/winter-hokkaido-kushiro-tancho-crane-snow-nusamaibashi-sunset-robata-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-hokkaido-kushiro-tancho-crane-snow-nusamaibashi-sunset-robata-stay" />
 </div>
         </section>

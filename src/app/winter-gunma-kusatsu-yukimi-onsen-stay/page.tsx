@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             12月になると湯けむりと白い雪が幻想的なコントラストを描く日本一の名湯・草津温泉！湯畑の幻想的なライトアップ散策と、酸性度の高い強烈な名湯を源泉かけ流しで楽しむ至福の雪見温泉ステイ。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【12月初雪の湯畑ライトアップ】名湯草津の雪見露天風呂と湯もみ体験！源泉かけ流し宿5選"} url={"https://croud-travel.pages.dev/winter-gunma-kusatsu-yukimi-onsen-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -463,8 +467,8 @@ export default function FeaturePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 長野原草津口駅へ到着。長野原草津口駅から草津温泉行きバスで約２０分でスムーズに移動。</li>
                 <li>・<strong className="text-stone-800">15:30〜</strong> 「草津温泉 湯畑展望露天の宿 ぬ志勇旅館」にチェックイン。湯畑が望める源泉掛け流し露天風呂が自慢。草津でも名湯といわれ１０軒の宿しか引いていない「白を満喫。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 本格サウナと天然温泉のととのい体験で夕暮れの贅沢な湯浴み時間をゆったり過ごす。（初雪の湯畑ライトアップの冬旅・雪見温泉ガイド！）</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 特選ブランド牛と地場産品を味わう夕食。地元の恵みを五感で味わう至福のディナー。（初雪の湯畑ライトアップの冬旅・雪見温泉ガイド！）</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 本格サウナと天然温泉のととのい体験で夕暮れの贅沢な湯浴み時間をゆったり過ごす。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 特選ブランド牛と地場産品を味わう夕食。地元の恵みを五感で味わう至福のディナー。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -473,10 +477,10 @@ export default function FeaturePage() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の澄み渡る空気のなか目覚めの朝風呂。清々しい風を感じる至福のひととき。（初雪の湯畑ライトアップの冬旅・雪見温泉ガイド！）</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 宿自慢の朝食でエネルギーチャージ。地元食材の優しい味わいを堪能。（初雪の湯畑ライトアップの冬旅・雪見温泉ガイド！）</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の澄み渡る空気のなか目覚めの朝風呂。清々しい風を感じる至福のひととき。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 宿自慢の朝食でエネルギーチャージ。地元食材の優しい味わいを堪能。</li>
                 <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後、近隣の名所や「草津温泉 中村屋旅館＜群馬県＞」周辺の景勝地へ立ち寄り。</li>
-                <li>・<strong className="text-stone-800">12:30〜</strong> ご当地グルメのランチとお土産選びを楽しみ、大満足で家路へ。（初雪の湯畑ライトアップの冬旅・雪見温泉ガイド！）</li>
+                <li>・<strong className="text-stone-800">12:30〜</strong> ご当地グルメのランチとお土産選びを楽しみ、大満足で家路へ。</li>
               </ul>
             </div>
           </div>
@@ -528,7 +532,7 @@ export default function FeaturePage() {
                 <span className="inline-block text-[10px] font-bold px-2 py-0.5 rounded bg-amber-100 text-amber-800 mb-2">
                   厳選おすすめ特集
                 </span>
-                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">上高地・河童橋の黄金カラマツ紅葉と梓川清流＆「３日入れば３年風邪ひかぬ」白骨温泉・信州牛 | クラウドトラベルふるさと納税</h3>
+                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">上高地・河童橋の黄金カラマツ紅葉と梓川清流＆「３日入れば３年風邪ひかぬ」白骨温泉・信州牛 | 旅宿クラウドふるさと納税</h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
                 特集を見る →
@@ -578,6 +582,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【12月初雪の湯畑ライトアップ】名湯草津の雪見露天風呂と湯もみ体験！源泉かけ流し宿5選"} url={"https://croud-travel.pages.dev/winter-gunma-kusatsu-yukimi-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-gunma-kusatsu-yukimi-onsen-stay" />
 </div>
         </section>

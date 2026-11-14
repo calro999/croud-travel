@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             白砂がまぶしいエメラルドグリーンのビーチ「白良浜」。波しぶきがかかる日本最古の海辺露天風呂「崎の湯」。ジャイアントパンダに出逢える「アドベンチャーワールド」と、幻の高級魚クエ鍋に舌鼓を打つリゾートステイ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"和歌山・南紀白浜：白良浜・アドベンチャーワールド＆崎の湯・クエ極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/wakayama-shirahama-beach-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -392,6 +396,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"和歌山・南紀白浜：白良浜・アドベンチャーワールド＆崎の湯・クエ極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/wakayama-shirahama-beach-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="wakayama-shirahama-beach-stay" />
 </div>
   );

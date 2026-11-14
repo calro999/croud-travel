@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
@@ -15,7 +16,7 @@ export const metadata: Metadata = {
     title: '国宝臼杵石仏の新春初詣と本場臼杵ふぐ：2026-2027年冬の大分・臼杵！極上厚切りてっさと名湯宿5選',
     description: '平安・鎌倉の祈りが息づく国宝「臼杵磨崖仏（臼杵石仏）」での新春初詣と、全国の食通が絶賛する豊後水道の最高峰「臼杵とらふぐ」！本場ならではの厚切りてっさ、白子焼き、ひれ酒と名湯を味わう冬旅厳選5宿。',
     url: 'https://croud-travel.pages.dev/winter-oita-usuki-sekibutsu-hatsumode-torafugu-kaiseki-stay/',
-    siteName: 'クラウドトラベル',
+    siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -79,6 +80,9 @@ export default function WinterFeaturePage() {
             </div>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"国宝臼杵石仏の新春初詣と本場臼杵ふぐ：2026-2027年冬の大分・臼杵！極上厚切りてっさと名湯宿5選"} url={"https://croud-travel.pages.dev/winter-oita-usuki-sekibutsu-hatsumode-torafugu-kaiseki-stay/"} />
+      </div>
 
         {/* 魅力・おすすめ理由 */}
         <section className="max-w-4xl mx-auto px-4 py-10">
@@ -91,22 +95,19 @@ export default function WinterFeaturePage() {
             </div>
             <div className="grid grid-cols-1 gap-4">
               <div className="p-4 rounded-xl bg-stone-50 border border-stone-200/80 space-y-1.5">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-cyan-600"></span>
-                  全国の食通が唸る豊後水道の最高峰「本場・臼杵とらふぐ」の厚切りてっさ</h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">全国の食通が唸る豊後水道の最高峰「本場・臼杵とらふぐ」の厚切りてっさ</h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                   臼杵のふぐ刺しは、他地域のように寝かせて薄引きにするのではなく、水揚げ当日に締めた極めて鮮度の高いとらふぐを大胆に厚切りで提供します。跳ね返すような歯ごたえと噛むほどに溢れ出す芳醇な甘みは、本場臼杵でしか体験できない奇跡の味覚です。
                 </p>
               </div>
               <div className="p-4 rounded-xl bg-stone-50 border border-stone-200/80 space-y-1.5">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-cyan-600"></span>
-                  平安・鎌倉の祈りが息づく国宝「臼杵磨崖仏」の新春初詣と厳かな雪景色</h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">平安・鎌倉の祈りが息づく国宝「臼杵磨崖仏」の新春初詣と厳かな雪景色</h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                   岩肌に彫られた59体もの石仏群は、日本の磨崖仏として第1号の国宝に指定された至宝。特に古園石仏の大日如来像の気品ある微笑みは世界的な傑作と称されます。冬の凛とした冷気と薄雪に包まれた石仏群への新春参拝は、特別な清涼感をもたらします。
                 </p>
               </div>
               <div className="p-4 rounded-xl bg-stone-50 border border-stone-200/80 space-y-1.5">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-cyan-600"></span>
-                  江戸時代の面影を残す「二王座歴史の道」と名湯での癒やし</h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">江戸時代の面影を残す「二王座歴史の道」と名湯での癒やし</h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                   白壁の土蔵や石畳、武家屋敷が今も残る城下町・臼杵。冬の静かな小路をそぞろ歩き、味噌や醤油の蔵元を訪ねる風情ある散策が楽しめます。湯量豊富な別府温泉や近隣の秘湯・六ヶ迫温泉へも好アクセスで、極上の湯浴みが叶います。
                 </p>
@@ -546,6 +547,10 @@ export default function WinterFeaturePage() {
             </div>
           </div>
         </section>
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"国宝臼杵石仏の新春初詣と本場臼杵ふぐ：2026-2027年冬の大分・臼杵！極上厚切りてっさと名湯宿5選"} url={"https://croud-travel.pages.dev/winter-oita-usuki-sekibutsu-hatsumode-torafugu-kaiseki-stay/"} />
+      </div>
       </main>
     </>
   );

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
     title: '【11・12月山鹿温泉＆平山温泉】八千代座の小江戸情緒と極上とろとろ美肌ぬる湯・熊本あか牛溶岩焼き＆極上霜降り馬刺しを堪能する名宿5選',
     description: '11月中旬から12月の初冬を迎えた火の国・熊本の北部に位置する「山鹿温泉」と、その山懐に抱かれた秘湯「平山温泉」。',
     url: 'https://croud-travel.pages.dev/winter-kumamoto-yamaga-hirayama-onsen-bihada-akagyu-basashi-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -48,7 +49,7 @@ export default function KumamotoYamagaHirayamaWinterPage() {
         "isPartOf": {
           "@type": "WebSite",
           "@id": "https://croud-travel.pages.dev/#website",
-          "name": "クラドトラベル",
+          "name": "旅宿クラウド",
           "url": "https://croud-travel.pages.dev/"
         },
         "headline": "【11・12月山鹿温泉＆平山温泉】八千代座の小江戸情緒と極上とろとろ美肌ぬる湯・熊本あか牛溶岩焼き＆極上霜降り馬刺しを堪能する名宿5選",
@@ -59,7 +60,7 @@ export default function KumamotoYamagaHirayamaWinterPage() {
         "mainEntityOfPage": "https://croud-travel.pages.dev/winter-kumamoto-yamaga-hirayama-onsen-bihada-akagyu-basashi-stay/",
         "publisher": {
           "@type": "Organization",
-          "name": "クラドトラベル編集部",
+          "name": "旅宿クラウド編集部",
           "url": "https://croud-travel.pages.dev/"
         }
       },
@@ -374,6 +375,9 @@ export default function KumamotoYamagaHirayamaWinterPage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月山鹿温泉＆平山温泉】八千代座の小江戸情緒と極上とろとろ美肌ぬる湯・熊本あか牛溶岩焼き＆極上霜降り馬刺しを堪能する名宿5選"} url={"https://croud-travel.pages.dev/winter-kumamoto-yamaga-hirayama-onsen-bihada-akagyu-basashi-stay/"} />
+      </div>
 
       {/* Main Content Container */}
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-12">
@@ -482,7 +486,7 @@ export default function KumamotoYamagaHirayamaWinterPage() {
                     <a
                       href={hotel.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center justify-center gap-1.5 px-5 py-2.5 bg-red-700 hover:bg-red-800 text-white text-xs sm:text-sm font-bold rounded-xl transition shadow-xs"
                     >
                       <span>楽天トラベルで空室・プランを見る</span>
@@ -748,6 +752,9 @@ export default function KumamotoYamagaHirayamaWinterPage() {
               <span className="text-[11px] text-stone-500">11月・12月おすすめの厳選特集</span>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月山鹿温泉＆平山温泉】八千代座の小江戸情緒と極上とろとろ美肌ぬる湯・熊本あか牛溶岩焼き＆極上霜降り馬刺しを堪能する名宿5選"} url={"https://croud-travel.pages.dev/winter-kumamoto-yamaga-hirayama-onsen-bihada-akagyu-basashi-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-kumamoto-yamaga-hirayama-onsen-bihada-akagyu-basashi-stay" />
 </div>
         </section>

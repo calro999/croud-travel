@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             日本六古窯の一つとして温かみある土の風合いが魅力の「信楽焼（しがらきやき）」！信楽焼の特注プレートで味わう日本最古のブランド牛「近江牛」と、琵琶湖を一望するおごと温泉の美肌湯に寛ぐ雅な休日。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"信楽焼の器美学と近江牛懐石：日本最古の銘柄牛！おごと温泉・信楽・琵琶湖畔の名湯宿5選"} url={"https://croud-travel.pages.dev/traditional-shiga-shigaraki-ware-art-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"信楽焼の器美学と近江牛懐石：日本最古の銘柄牛！おごと温泉・信楽・琵琶湖畔の名湯宿5選"} url={"https://croud-travel.pages.dev/traditional-shiga-shigaraki-ware-art-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="traditional-shiga-shigaraki-ware-art-stay" />
 </div>
         </section>

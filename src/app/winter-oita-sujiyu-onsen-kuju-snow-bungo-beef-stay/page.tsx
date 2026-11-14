@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月大分・筋湯温泉＆九重連山】くじゅう連山初冬の霧氷雪景色と打たせ湯日本一・極上おおいた豊後牛＆九重夢ポークを堪能する名宿5選',
     description: '11月中旬から九州屈指の寒冷地である標高1000mの九重高原を初冬の冷気が包み込み。',
     url: 'https://croud-travel.pages.dev/winter-oita-sujiyu-onsen-kuju-snow-bungo-beef-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -49,7 +50,7 @@ export default function OitaSujiyuKujuPage() {
         "isPartOf": {
           "@type": "WebSite",
           "@id": "https://croud-travel.pages.dev/#website",
-          "name": "クラドトラベル",
+          "name": "旅宿クラウド",
           "url": "https://croud-travel.pages.dev/"
         },
         "headline": "【11・12月大分・筋湯温泉＆九重連山】くじゅう連山初冬の霧氷雪景色と打たせ湯日本一・極上おおいた豊後牛＆九重夢ポークを堪能する名宿5選",
@@ -60,7 +61,7 @@ export default function OitaSujiyuKujuPage() {
         "mainEntityOfPage": "https://croud-travel.pages.dev/winter-oita-sujiyu-onsen-kuju-snow-bungo-beef-stay/",
         "publisher": {
           "@type": "Organization",
-          "name": "クラドトラベル編集部",
+          "name": "旅宿クラウド編集部",
           "url": "https://croud-travel.pages.dev/"
         }
       },
@@ -348,6 +349,9 @@ export default function OitaSujiyuKujuPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月大分・筋湯温泉＆九重連山】くじゅう連山初冬の霧氷雪景色と打たせ湯日本一・極上おおいた豊後牛＆九重夢ポークを堪能する名宿5選"} url={"https://croud-travel.pages.dev/winter-oita-sujiyu-onsen-kuju-snow-bungo-beef-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-10 sm:pt-14 space-y-12">
@@ -460,7 +464,7 @@ export default function OitaSujiyuKujuPage() {
                         <a
                           href={hotel.url}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="inline-flex items-center gap-1.5 bg-amber-800 hover:bg-amber-900 text-white text-xs sm:text-sm font-bold px-4 py-2.5 rounded-xl transition shadow-xs"
                         >
                           プラン一覧を見る
@@ -647,6 +651,9 @@ export default function OitaSujiyuKujuPage() {
               </p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月大分・筋湯温泉＆九重連山】くじゅう連山初冬の霧氷雪景色と打たせ湯日本一・極上おおいた豊後牛＆九重夢ポークを堪能する名宿5選"} url={"https://croud-travel.pages.dev/winter-oita-sujiyu-onsen-kuju-snow-bungo-beef-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-oita-sujiyu-onsen-kuju-snow-bungo-beef-stay" />
 </div>
         </section>

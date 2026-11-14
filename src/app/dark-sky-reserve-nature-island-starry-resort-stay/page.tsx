@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function StargazingHubPage() {
             街明かりの影響を極限まで抑えた、世界基準の美しい夜空「国際星空保護区（ダークスカイ・プレイス）」。全天88星座のうち84星座が見られる八重山諸島（石垣島・西表島）や、東京都心から行ける神津島。波の音をBGMにビーチで眺める本物の天の川と南十字星の旅へ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"国際星空保護区＆離島ネイチャーステイ：石垣島・西表島・神津島 厳選ガイド"} url={"https://croud-travel.pages.dev/dark-sky-reserve-nature-island-starry-resort-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆厳選宿 */}
@@ -454,6 +458,9 @@ export default function StargazingHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"国際星空保護区＆離島ネイチャーステイ：石垣島・西表島・神津島 厳選ガイド"} url={"https://croud-travel.pages.dev/dark-sky-reserve-nature-island-starry-resort-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="dark-sky-reserve-nature-island-starry-resort-stay" />
 </div>
   );

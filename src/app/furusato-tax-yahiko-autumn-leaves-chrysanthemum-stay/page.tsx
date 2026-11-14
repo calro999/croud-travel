@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
@@ -5,7 +6,7 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '弥彦公園もみじ谷の朱塗りの橋紅葉＆越後一宮・弥彦温泉！菊まつり散策宿×ふるさと納税厳選ガイド新潟',
   description: '10月下旬〜11月中旬に朱色の観月橋と紅葉が絵画のように調和する名所「弥彦公園もみじ谷」。越後一宮・彌彦神社で開催される日本最大級の菊まつりとライトアップ、歴史ある「美味満開 名代家」「四季の宿 みのや」「割烹の宿 櫻家」で日本海の秋魚介や新潟新米コシヒカリを堪能。ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。',
-  keywords: ["越後一宮", "2026年最新秋旅", "新潟", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
+  keywords: ["越後一宮", "2026年末・冬休み対応", "新潟", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-yahiko-autumn-leaves-chrysanthemum-stay/"
   },
@@ -38,7 +39,7 @@ const HOTEL_DATA = {
   yahiko_shikian: {
     name: '弥彦温泉　四季の宿　みのや',
     no: 5284,
-    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5035%2F5035.html',
+    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5284%2F5284.html',
     planUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5284%2F5284.html%26f_flg%3DPLAN',
     reviewUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D5284',
     img: 'https://img.travel.rakuten.co.jp/share/HOTEL/5284/5284.jpg',
@@ -53,7 +54,7 @@ const HOTEL_DATA = {
   yahiko_oyado_danya: {
     name: '弥彦温泉　割烹の宿　櫻家',
     no: 69313,
-    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5284%2F5284.html',
+    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F69313%2F69313.html',
     planUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F69313%2F69313.html%26f_flg%3DPLAN',
     reviewUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D69313',
     img: 'https://img.travel.rakuten.co.jp/share/HOTEL/69313/69313.jpg',
@@ -72,7 +73,7 @@ export default function FeatureArticlePage() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "弥彦公園もみじ谷の朱塗りの橋紅葉＆越後一宮・弥彦温泉！菊まつり散策宿×ふるさと納税完全ガイド【2026年最新秋旅】新潟",
+    "headline": "弥彦公園もみじ谷の朱塗りの橋紅葉＆越後一宮・弥彦温泉！菊まつり散策宿×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】新潟",
     "description": "10月下旬〜11月中旬に朱色の観月橋と紅葉が絵画のように調和する名所「弥彦公園もみじ谷」。越後一宮・彌彦神社で開催される日本最大級の菊まつりとライトアップ、歴史ある「美味満開 名代家」「四季の宿 みのや」「割烹の宿 櫻家」で日本海の秋魚介や新潟新米コシヒカリを堪能。ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。",
     "url": "https://croud-travel.pages.dev/furusato-tax-yahiko-autumn-leaves-chrysanthemum-stay/",
     "publisher": {
@@ -86,7 +87,7 @@ export default function FeatureArticlePage() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "弥彦公園もみじ谷の朱塗りの橋紅葉＆越後一宮・弥彦温泉！菊まつり散策宿×ふるさと納税完全ガイド【2026年最新秋旅】新潟", "item": "https://croud-travel.pages.dev/furusato-tax-yahiko-autumn-leaves-chrysanthemum-stay/" }
+      { "@type": "ListItem", "position": 2, "name": "弥彦公園もみじ谷の朱塗りの橋紅葉＆越後一宮・弥彦温泉！菊まつり散策宿×ふるさと納税完全ガイド【2026年末駆け込み・冬旅】新潟", "item": "https://croud-travel.pages.dev/furusato-tax-yahiko-autumn-leaves-chrysanthemum-stay/" }
     ]
   };
 
@@ -111,7 +112,7 @@ export default function FeatureArticlePage() {
       <header className="bg-gradient-to-br from-red-950 via-rose-950 to-stone-900 text-white py-14 md:py-20 px-4 mb-10 shadow-lg">
         <div className="max-w-5xl mx-auto text-center">
           <div className="inline-flex items-center gap-2 bg-white/20 backdrop-blur-md px-4 py-1.5 rounded-full text-xs md:text-sm font-semibold mb-5 text-amber-200">
-            <span>🍁 10月・11月限定 秋旅特集</span>
+            <span>🍁 12/31締切 年末駆け込み＆冬休み対応</span>
             <span>•</span>
             <span>楽天ふるさと納税トラベルクーポン対応</span>
           </div>
@@ -121,6 +122,9 @@ export default function FeatureArticlePage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"弥彦公園もみじ谷の朱塗りの橋紅葉＆越後一宮・弥彦温泉！菊まつり散策宿×ふるさと納税厳選ガイド新潟"} url={"https://croud-travel.pages.dev/furusato-tax-yahiko-autumn-leaves-chrysanthemum-stay/"} />
+      </div>
 
       <div className="max-w-5xl mx-auto px-4 grid grid-cols-1 lg:grid-cols-3 gap-8">
         {/* メインコンテンツ */}
@@ -132,11 +136,11 @@ export default function FeatureArticlePage() {
               新潟県の日本海側に位置する弥彦村は、越後一宮・彌彦神社の門前町として栄えた歴史ある温泉郷。秋には広大な弥彦公園「もみじ谷」が深紅に染まり、朱塗りの観月橋とのコントラストは全国から写真愛好家が訪れる絶景です。例年11月には全国屈指の規模を誇る「弥彦菊まつり」が開催され、実り豊かな新潟の新米コシヒカリや日本海直送の旬魚介を堪能できます。
             </p>
             <div className="bg-amber-50/80 rounded-xl p-5 border border-amber-200/80">
-              <h3 className="font-bold text-amber-950 text-sm md:text-base mb-2 flex items-center gap-2">10月〜11月の旅を満喫する3大ポイント</h3>
+              <h3 className="font-bold text-amber-950 text-sm md:text-base mb-2 flex items-center gap-2">年末〜冬休み・来春の旅を満喫する3大ポイント</h3>
               <ul className="text-xs md:text-sm text-amber-900 space-y-2 list-disc list-inside">
-                <li><strong>見頃の紅葉パノラマ：</strong>標高や日当たりで刻一刻と変化するグラデーションを鑑賞（弥彦公園もみじ谷の朱塗りの橋紅葉＆越後一宮・弥彦温泉）</li>
-                <li><strong>極上の温泉と湯巡り：</strong>朝夕の冷え込む秋風の中で入る露天風呂は格別の贅沢（弥彦公園もみじ谷の朱塗りの橋紅葉＆越後一宮・弥彦温泉）</li>
-                <li><strong>控除上限内なら自己負担実質2,000円（最大30%クーポン還元）：</strong>楽天ふるさと納税トラベルクーポンで賢く予約（弥彦公園もみじ谷の朱塗りの橋紅葉＆越後一宮・弥彦温泉）</li>
+                <li><strong>見頃の紅葉パノラマ：</strong>標高や日当たりで刻一刻と変化するグラデーションを鑑賞</li>
+                <li><strong>極上の温泉と湯巡り：</strong>朝夕の冷え込む秋風の中で入る露天風呂は格別の贅沢</li>
+                <li><strong>控除上限内なら自己負担実質2,000円（最大30%クーポン還元）：</strong>楽天ふるさと納税トラベルクーポンで賢く予約</li>
               </ul>
             </div>
           </section>
@@ -185,7 +189,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.yahiko_minoya.planUrl || HOTEL_DATA.yahiko_minoya.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-3.5 px-6 rounded-xl text-center shadow-md transition-all text-sm md:text-base flex items-center justify-center gap-2"
               >
                 <span>プラン一覧・空室確認（楽天トラベル）</span>
@@ -194,7 +198,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.yahiko_minoya.reviewUrl || HOTEL_DATA.yahiko_minoya.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="bg-stone-100 hover:bg-stone-200 text-stone-700 font-bold py-3.5 px-5 rounded-xl text-center border border-stone-300 text-sm transition-all"
               >
                 口コミを見る
@@ -246,7 +250,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.yahiko_shikian.planUrl || HOTEL_DATA.yahiko_shikian.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-3.5 px-6 rounded-xl text-center shadow-md transition-all text-sm md:text-base flex items-center justify-center gap-2"
               >
                 <span>プラン一覧・空室確認（楽天トラベル）</span>
@@ -255,7 +259,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.yahiko_shikian.reviewUrl || HOTEL_DATA.yahiko_shikian.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="bg-stone-100 hover:bg-stone-200 text-stone-700 font-bold py-3.5 px-5 rounded-xl text-center border border-stone-300 text-sm transition-all"
               >
                 口コミを見る
@@ -307,7 +311,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.yahiko_oyado_danya.planUrl || HOTEL_DATA.yahiko_oyado_danya.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-3.5 px-6 rounded-xl text-center shadow-md transition-all text-sm md:text-base flex items-center justify-center gap-2"
               >
                 <span>プラン一覧・空室確認（楽天トラベル）</span>
@@ -316,7 +320,7 @@ export default function FeatureArticlePage() {
               <a
                 href={HOTEL_DATA.yahiko_oyado_danya.reviewUrl || HOTEL_DATA.yahiko_oyado_danya.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="bg-stone-100 hover:bg-stone-200 text-stone-700 font-bold py-3.5 px-5 rounded-xl text-center border border-stone-300 text-sm transition-all"
               >
                 口コミを見る
@@ -357,19 +361,19 @@ export default function FeatureArticlePage() {
             <h3 className="font-bold text-stone-900 mb-4 pb-2 border-b border-stone-200 flex items-center gap-2">この特集で紹介した宿</h3>
             <ul className="space-y-4 text-xs md:text-sm">
               <li>
-                <a href={HOTEL_DATA.yahiko_minoya.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
+                <a href={HOTEL_DATA.yahiko_minoya.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
                   <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.yahiko_minoya.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.yahiko_minoya.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
-                <a href={HOTEL_DATA.yahiko_shikian.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
+                <a href={HOTEL_DATA.yahiko_shikian.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
                   <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.yahiko_shikian.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.yahiko_shikian.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
-                <a href={HOTEL_DATA.yahiko_oyado_danya.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
+                <a href={HOTEL_DATA.yahiko_oyado_danya.url} target="_blank" rel="sponsored noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
                   <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.yahiko_oyado_danya.name}</div>
                   <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.yahiko_oyado_danya.rating} | 楽天トラベルで詳細確認</div>
                 </a>
@@ -531,6 +535,9 @@ export default function FeatureArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"弥彦公園もみじ谷の朱塗りの橋紅葉＆越後一宮・弥彦温泉！菊まつり散策宿×ふるさと納税厳選ガイド新潟"} url={"https://croud-travel.pages.dev/furusato-tax-yahiko-autumn-leaves-chrysanthemum-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-yahiko-autumn-leaves-chrysanthemum-stay" />
 </div>
         </section>

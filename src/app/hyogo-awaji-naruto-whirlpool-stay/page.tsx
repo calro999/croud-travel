@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             明石海峡大橋を渡れば広がる青い海と緑の島「淡路島」。鳴門海峡で激しく渦巻く世界最大級の「うずしお」。波打ち際のインフィニティ温泉露天風呂から海を眺め、甘み豊かな淡路島玉ねぎと淡路牛ステーキに舌鼓を打つリゾートへ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"兵庫・淡路島＆鳴門海峡：うずしおクルーズ・淡路牛＆玉ねぎ・オーシャンビュー宿 厳選ガイド"} url={"https://croud-travel.pages.dev/hyogo-awaji-naruto-whirlpool-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"兵庫・淡路島＆鳴門海峡：うずしおクルーズ・淡路牛＆玉ねぎ・オーシャンビュー宿 厳選ガイド"} url={"https://croud-travel.pages.dev/hyogo-awaji-naruto-whirlpool-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="hyogo-awaji-naruto-whirlpool-stay" />
 </div>
   );

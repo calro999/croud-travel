@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -201,6 +202,9 @@ export default function SilverWeekGlampingPrivatePoolJacuzziPage() {
           </div>
         </div>
       </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"プライベートプール＆温水ジャグジー付きグランピング：シルバーウィークに楽しむ極上リゾートヴィラ"} url={"https://croud-travel.pages.dev/silver-week-glamping-private-pool-jacuzzi-guide/"} />
+      </div>
 
       {/* 楽天トラベルスペシャルクーポンバナー */}
       <SpecialCouponBanner variant="prominent" />
@@ -424,6 +428,9 @@ export default function SilverWeekGlampingPrivatePoolJacuzziPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"プライベートプール＆温水ジャグジー付きグランピング：シルバーウィークに楽しむ極上リゾートヴィラ"} url={"https://croud-travel.pages.dev/silver-week-glamping-private-pool-jacuzzi-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="silver-week-glamping-private-pool-jacuzzi-guide" />
 </div>
   );

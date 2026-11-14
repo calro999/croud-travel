@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -290,6 +291,9 @@ export default function KumamotoMinamiasoWinterPage() {
             </p>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月熊本】白銀の阿蘇五岳パノラマと冬の伝統「高森田楽」！美肌の南阿蘇温泉郷＆極上あか牛名宿5選"} url={"https://croud-travel.pages.dev/winter-kumamoto-minamiaso-takamori-snow-dengaku-akagyu-onsen-stay/"} />
+      </div>
 
         {/* Article Summary Box */}
         <section className="max-w-5xl mx-auto px-4 -mt-8 relative z-20">
@@ -434,7 +438,7 @@ export default function KumamotoMinamiasoWinterPage() {
                       <a 
                         href={hotel.url} 
                         target="_blank" 
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-1.5 bg-emerald-700 hover:bg-emerald-800 text-white font-bold text-xs md:text-sm px-4 py-2.5 rounded-xl transition shadow-sm flex-shrink-0 ml-3"
                       >
                         <span>プラン詳細・予約</span>
@@ -571,6 +575,9 @@ export default function KumamotoMinamiasoWinterPage() {
           </section>
         </main>
       
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月熊本】白銀の阿蘇五岳パノラマと冬の伝統「高森田楽」！美肌の南阿蘇温泉郷＆極上あか牛名宿5選"} url={"https://croud-travel.pages.dev/winter-kumamoto-minamiaso-takamori-snow-dengaku-akagyu-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-kumamoto-minamiaso-takamori-snow-dengaku-akagyu-onsen-stay" />
 </div>
     </>

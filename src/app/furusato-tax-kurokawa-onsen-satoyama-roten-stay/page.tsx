@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -14,7 +15,7 @@ export const metadata: Metadata = {
     title: '黒川温泉をふるさと納税でお得に旅する！渓谷の秘湯・入湯手形で巡る露天風呂＆あか牛会席！風情名宿特集｜お宿のし湯・旅館山河・黒川荘',
     description: 'ミシュラン二つ星の里山秘湯・熊本県黒川温泉を楽天ふるさと納税でお得に贅沢ステイ！雑木林に佇む大人の隠れ家「お宿 のし湯」、三千坪の森に二つの自家源泉を誇る「旅館 山河」、びょうぶ岩望むエメラルドグリーンの湯「黒川荘」を徹底比較。入湯手形やあか牛料理、南小国町トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-kurokawa-onsen-satoyama-roten-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -28,12 +29,12 @@ export default function FurusatoArticlePage() {
     description: 'ミシュラン二つ星の里山秘湯・熊本県黒川温泉を楽天ふるさと納税でお得に贅沢ステイ！雑木林に佇む大人の隠れ家「お宿 のし湯」、三千坪の森に二つの自家源泉を誇る「旅館 山河」、びょうぶ岩望むエメラルドグリーンの湯「黒川荘」を徹底比較。入湯手形やあか牛料理、南小国町トラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル 観光・ふるさと納税調査班',
+      name: '旅宿クラウド 観光・ふるさと納税調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -80,6 +81,9 @@ export default function FurusatoArticlePage() {
           ミシュラン二つ星の里山秘湯・熊本県黒川温泉を楽天ふるさと納税でお得に贅沢ステイ！雑木林に佇む大人の隠れ家「お宿 のし湯」、三千坪の森に二つの自家源泉を誇る「旅館 山河」、びょうぶ岩望むエメラルドグリーンの湯「黒川荘」を徹底比較。入湯手形やあか牛料理、南小国町トラベルクーポン活用術を網羅。
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"黒川温泉をふるさと納税でお得に旅する！渓谷の秘湯・入湯手形で巡る露天風呂＆あか牛会席！風情名宿特集"} url={"https://croud-travel.pages.dev/furusato-tax-kurokawa-onsen-satoyama-roten-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
@@ -360,7 +364,7 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 黒川温泉・入湯手形散策＆平野台展望所ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">黒川温泉・入湯手形散策＆平野台展望所ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
@@ -586,6 +590,9 @@ export default function FurusatoArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"黒川温泉をふるさと納税でお得に旅する！渓谷の秘湯・入湯手形で巡る露天風呂＆あか牛会席！風情名宿特集"} url={"https://croud-travel.pages.dev/furusato-tax-kurokawa-onsen-satoyama-roten-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-kurokawa-onsen-satoyama-roten-stay" />
 </div>
         </section>

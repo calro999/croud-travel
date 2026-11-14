@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Image from 'next/image';
@@ -63,12 +64,14 @@ export default function ToyamaBudgetAutumnPage() {
             富山駅前には本格的な天然温泉大浴場や露天風呂、サウナを備えた高評価ホテルが集結。富山名物の「富山ブラックラーメン」や回転寿司の白えび・寒ブリを味わい、充実した設備をお得に満喫しましょう。
           </p>
         </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"秋の富山×格安：立山連峰の三段紅葉と富山湾の白えび・紅ズワイガニ"} url={"https://croud-travel.pages.dev/autumn-budget-toyama-tateyama-kurobe-onsen-hotels-stay/"} />
+      </div>
 
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-teal-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！富山の天然温泉付き格安ホテル5選</h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">楽天トラベル高評価！富山の天然温泉付き格安ホテル5選</h2>
 
           <div className="space-y-8">
 
@@ -434,6 +437,9 @@ export default function ToyamaBudgetAutumnPage() {
               </div>
             </div>
           </div></section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"秋の富山×格安：立山連峰の三段紅葉と富山湾の白えび・紅ズワイガニ"} url={"https://croud-travel.pages.dev/autumn-budget-toyama-tateyama-kurobe-onsen-hotels-stay/"} />
+      </div>
         <div className="max-w-4xl mx-auto px-4 sm:px-6">
           <HubRelatedPosts currentSlug="autumn-budget-toyama-tateyama-kurobe-onsen-hotels-stay" />
         </div>

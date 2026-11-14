@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             鬼怒川の清流が刻んだダイナミックな渓谷美。川沿いの断崖に大型温泉ホテルや高級旅館が立ち並ぶ関東屈指の温泉郷。名湯につかりながら渓谷の四季を愛でる極上の温泉リゾートへ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"栃木・鬼怒川温泉：渓谷美・鬼怒楯岩大吊橋＆ライン下り極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/tochigi-kinugawa-onsen-valley-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"栃木・鬼怒川温泉：渓谷美・鬼怒楯岩大吊橋＆ライン下り極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/tochigi-kinugawa-onsen-valley-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="tochigi-kinugawa-onsen-valley-stay" />
 </div>
   );

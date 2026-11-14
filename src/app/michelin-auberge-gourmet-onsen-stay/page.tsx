@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function HeritageOnsenHubPage() {
             泊まれるレストラン「オーベルジュ」。その土地の風土（テロワール）を一皿に表現する一流シェフの技と、至福の源泉かけ流し温泉の融合。厳選されたヴィンテージワインのペアリングとともに、記憶に刻まれる美食の夜を。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"極上美食オーベルジュ温泉宿：ミシュラン星付きシェフ監修・地産地消ディナー 厳選ガイド"} url={"https://croud-travel.pages.dev/michelin-auberge-gourmet-onsen-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function HeritageOnsenHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"極上美食オーベルジュ温泉宿：ミシュラン星付きシェフ監修・地産地消ディナー 厳選ガイド"} url={"https://croud-travel.pages.dev/michelin-auberge-gourmet-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="michelin-auberge-gourmet-onsen-stay" />
 </div>
   );

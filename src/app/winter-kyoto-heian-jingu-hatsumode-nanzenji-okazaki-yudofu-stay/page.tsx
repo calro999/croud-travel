@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -258,6 +259,9 @@ export default function KyotoHeianJinguWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月京都】平安神宮＆南禅寺・岡崎！初詣と神苑雪景色・水路閣の冬情趣と名物湯豆腐・京懐石の名宿5選"} url={"https://croud-travel.pages.dev/winter-kyoto-heian-jingu-hatsumode-nanzenji-okazaki-yudofu-stay/"} />
+      </div>
 
       {/* Main Content Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 pt-12 space-y-16">
@@ -403,7 +407,7 @@ export default function KyotoHeianJinguWinterPage() {
                       <a 
                         href={h.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center justify-center gap-2 w-full py-3.5 px-6 rounded-xl bg-gradient-to-r from-red-600 to-rose-700 hover:from-red-500 hover:to-rose-600 text-white font-bold text-sm shadow-sm hover:shadow transition-all text-center"
                       >
                         <span>楽天トラベルで空室・宿泊プランを確認</span>
@@ -601,6 +605,9 @@ export default function KyotoHeianJinguWinterPage() {
         <p>© 2026 地域の宿探訪 - 日本の四季と極上ホテル・旅館を巡る旅</p>
       </footer>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月京都】平安神宮＆南禅寺・岡崎！初詣と神苑雪景色・水路閣の冬情趣と名物湯豆腐・京懐石の名宿5選"} url={"https://croud-travel.pages.dev/winter-kyoto-heian-jingu-hatsumode-nanzenji-okazaki-yudofu-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-kyoto-heian-jingu-hatsumode-nanzenji-okazaki-yudofu-stay" />
 </div>
   );

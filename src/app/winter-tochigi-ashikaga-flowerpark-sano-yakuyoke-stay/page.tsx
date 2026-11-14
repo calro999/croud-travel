@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
     title: '【11・12・1月栃木】日本一の光の祭典「あしかがフラワーパーク光の花の庭」・佐野厄除け大師初詣＆手打ち佐野ラーメン・とちおとめ苺ステイ宿5選',
     description: '11月から1月、栃木県足利市と佐野市は、日本三大イルミネーション第1位「あしかがフラワーパーク 光の花の庭」の500万球が輝き。',
     url: 'https://croud-travel.pages.dev/winter-tochigi-ashikaga-flowerpark-sano-yakuyoke-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     images: [
       {
         url: 'https://img.travel.rakuten.co.jp/share/HOTEL/44871/44871.jpg',
@@ -49,12 +50,12 @@ export default function TochigiAshikagaFlowerparkWinterPage() {
     dateModified: '',
     author: {
       '@type': 'Organization',
-      name: 'クラドトラベル編集部',
+      name: '旅宿クラウド編集部',
       url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png'
@@ -293,6 +294,9 @@ export default function TochigiAshikagaFlowerparkWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月栃木】日本一の光の祭典「あしかがフラワーパーク光の花の庭」・佐野厄除け大師初詣＆手打ち佐野ラーメン・とちおとめ苺ステイ宿5選"} url={"https://croud-travel.pages.dev/winter-tochigi-ashikaga-flowerpark-sano-yakuyoke-stay/"} />
+      </div>
 
       {/* Main Content Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 pt-12 space-y-16">
@@ -446,7 +450,7 @@ export default function TochigiAshikagaFlowerparkWinterPage() {
                       <a 
                         href={hotel.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center justify-center gap-2 w-full sm:w-auto px-6 py-3 bg-gradient-to-r from-purple-600 to-purple-700 hover:from-purple-700 hover:to-purple-800 text-white font-bold text-sm rounded-xl shadow-md transition-all shrink-0"
                       >
                         <span>空室・宿泊プランを確認する</span>
@@ -652,6 +656,9 @@ export default function TochigiAshikagaFlowerparkWinterPage() {
               <span>冬の特集一覧へ戻る</span>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月栃木】日本一の光の祭典「あしかがフラワーパーク光の花の庭」・佐野厄除け大師初詣＆手打ち佐野ラーメン・とちおとめ苺ステイ宿5選"} url={"https://croud-travel.pages.dev/winter-tochigi-ashikaga-flowerpark-sano-yakuyoke-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-tochigi-ashikaga-flowerpark-sano-yakuyoke-stay" />
 </div>
         </section>

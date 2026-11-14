@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
     title: '【11・12・1月富山】雨晴海岸から望む冠雪立山連峰の奇跡絶景＆新湊昼セリ極上本ズワイガニ・氷見寒ブリ・白えび・富山湾鮨を堪能する名宿5選',
     description: '11月から1月、富山湾沿岸（高岡・雨晴・射水新湊・富山市街）は、世界でも稀少な海越しに冠雪した標高3000m級立山連峰が浮かび上がる奇跡の冬絶景と。',
     url: 'https://croud-travel.pages.dev/winter-toyama-amaharashi-shinminato-tateyama-crab-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     images: [
       {
         url: 'https://img.travel.rakuten.co.jp/share/HOTEL/108675/108675.jpg',
@@ -49,12 +50,12 @@ export default function ToyamaAmaharashiShinminatoWinterPage() {
     dateModified: '',
     author: {
       '@type': 'Organization',
-      name: 'クラドトラベル編集部',
+      name: '旅宿クラウド編集部',
       url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png'
@@ -293,6 +294,9 @@ export default function ToyamaAmaharashiShinminatoWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月富山】雨晴海岸から望む冠雪立山連峰の奇跡絶景＆新湊昼セリ極上本ズワイガニ・氷見寒ブリ・白えび・富山湾鮨を堪能する名宿5選"} url={"https://croud-travel.pages.dev/winter-toyama-amaharashi-shinminato-tateyama-crab-stay/"} />
+      </div>
 
       {/* Main Content Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 pt-12 space-y-16">
@@ -432,7 +436,7 @@ export default function ToyamaAmaharashiShinminatoWinterPage() {
                     <a 
                       href={hotel.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="w-full inline-flex items-center justify-center gap-2 bg-gradient-to-r from-cyan-700 to-cyan-900 hover:from-cyan-800 hover:to-cyan-950 text-white font-bold py-3.5 px-6 rounded-2xl shadow-sm hover:shadow transition text-sm tracking-wide"
                     >
                       <span>楽天トラベルで空室・冬限定プランを見る</span>
@@ -614,6 +618,9 @@ export default function ToyamaAmaharashiShinminatoWinterPage() {
               <p className="font-bold text-stone-800 line-clamp-2">兼六園の雪吊りと奥金沢の静寂湯・冬限定の香箱ガニ＆加能ガニを味わう名宿</p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月富山】雨晴海岸から望む冠雪立山連峰の奇跡絶景＆新湊昼セリ極上本ズワイガニ・氷見寒ブリ・白えび・富山湾鮨を堪能する名宿5選"} url={"https://croud-travel.pages.dev/winter-toyama-amaharashi-shinminato-tateyama-crab-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-toyama-amaharashi-shinminato-tateyama-crab-stay" />
 </div>
         </section>

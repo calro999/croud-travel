@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -113,6 +114,9 @@ export default function SeasonalFeaturePage() {
             厳かな新年の祈りと、太平洋から昇るまばゆい初日の出。豪華なおせち料理やお雑煮、初湯に浸かるお正月旅行。年末年始に訪れたい開運・初詣の温泉旅館を厳選紹介。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【年末年始・お正月】初詣＆初日の出ご来光温泉旅館 完全ガイド"} url={"https://croud-travel.pages.dev/new-year-hatsumode-onsen/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function SeasonalFeaturePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【年末年始・お正月】初詣＆初日の出ご来光温泉旅館 完全ガイド"} url={"https://croud-travel.pages.dev/new-year-hatsumode-onsen/"} />
+      </div>
       <HubRelatedPosts currentSlug="new-year-hatsumode-onsen" />
 </div>
   );

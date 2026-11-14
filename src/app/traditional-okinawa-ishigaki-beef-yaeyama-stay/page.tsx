@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             澄んだ空気と豊かな牧草で育つ最高峰「石垣牛」のとろける炭火焼きステーキや握り、そして出汁香る名物八重山そば！川平湾やマエサトビーチの絶景オーシャンビューを望む南国ラグジュアリーホテルを厳選。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"A5石垣牛ステーキ＆八重山そば：南国石垣島の島素材美食と美ら海リゾート宿5選"} url={"https://croud-travel.pages.dev/traditional-okinawa-ishigaki-beef-yaeyama-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"A5石垣牛ステーキ＆八重山そば：南国石垣島の島素材美食と美ら海リゾート宿5選"} url={"https://croud-travel.pages.dev/traditional-okinawa-ishigaki-beef-yaeyama-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="traditional-okinawa-ishigaki-beef-yaeyama-stay" />
 </div>
         </section>

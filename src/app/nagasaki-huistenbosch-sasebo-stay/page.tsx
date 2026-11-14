@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             中世ヨーロッパの壮大な宮殿と運河が広がる「ハウステンボス」。1300万球が輝く世界最大のイルミネーションと、四季折々の花の王国。九十九島の絶景と佐世保バーガー、長崎和牛に舌鼓を打つ極上の滞在へ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"長崎・ハウステンボス＆佐世保：ヨーロッパ街並み・世界最大イルミ＆佐世保バーガー極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/nagasaki-huistenbosch-sasebo-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -231,6 +235,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"長崎・ハウステンボス＆佐世保：ヨーロッパ街並み・世界最大イルミ＆佐世保バーガー極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/nagasaki-huistenbosch-sasebo-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="nagasaki-huistenbosch-sasebo-stay" />
 </div>
   );

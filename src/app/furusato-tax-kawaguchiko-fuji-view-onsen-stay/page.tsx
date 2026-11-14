@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -14,7 +15,7 @@ export const metadata: Metadata = {
     title: "富士河口湖温泉をふるさと納税でお得に旅する！富士山一望露天風呂＆逆さ富士ステイ！絶景客室で癒やされる宿特集",
     description: '世界遺産・霊峰富士と湖が織りなす絶景温泉地・山梨県富士河口湖温泉を楽天ふるさと納税でお得に旅する！全室富士山＆河口湖ビューを誇る「秀峰閣 湖月」、最上階展望風呂と本格会席の名宿「若草の宿 丸栄」、創業昭和七年・バリアフリーと歴史の「富士レークホテル」を徹底比較。富士河口湖町トラベルクーポン活用術を解説。',
     url: 'https://croud-travel.pages.dev/furusato-tax-kawaguchiko-fuji-view-onsen-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -28,12 +29,12 @@ export default function FurusatoArticlePage() {
     description: '世界遺産・霊峰富士と湖が織りなす絶景温泉地・山梨県富士河口湖温泉を楽天ふるさと納税でお得に旅する！全室富士山＆河口湖ビューを誇る「秀峰閣 湖月」、最上階展望風呂と本格会席の名宿「若草の宿 丸栄」、創業昭和七年・バリアフリーと歴史の「富士レークホテル」を徹底比較。富士河口湖町トラベルクーポン活用術を解説。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル 観光・ふるさと納税調査班',
+      name: '旅宿クラウド 観光・ふるさと納税調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -80,6 +81,9 @@ export default function FurusatoArticlePage() {
           世界遺産・霊峰富士と湖が織りなす絶景温泉地・山梨県富士河口湖温泉を楽天ふるさと納税でお得に旅する！全室富士山＆河口湖ビューを誇る「秀峰閣 湖月」、最上階展望風呂と本格会席の名宿「若草の宿 丸栄」、創業昭和七年・バリアフリーと歴史の「富士レークホテル」を徹底比較。富士河口湖町トラベルクーポン活用術を解説。
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"富士河口湖温泉をふるさと納税でお得に旅する！富士山一望露天風呂＆逆さ富士ステイ！絶景客室で癒やされる宿特集"} url={"https://croud-travel.pages.dev/furusato-tax-kawaguchiko-fuji-view-onsen-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
@@ -360,7 +364,7 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 富士河口湖・富士山絶景スポット＆湖畔アクティビティガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">富士河口湖・富士山絶景スポット＆湖畔アクティビティガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
@@ -586,6 +590,9 @@ export default function FurusatoArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"富士河口湖温泉をふるさと納税でお得に旅する！富士山一望露天風呂＆逆さ富士ステイ！絶景客室で癒やされる宿特集"} url={"https://croud-travel.pages.dev/furusato-tax-kawaguchiko-fuji-view-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-kawaguchiko-fuji-view-onsen-stay" />
 </div>
         </section>

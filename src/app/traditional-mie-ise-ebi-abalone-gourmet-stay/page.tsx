@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             ぷりっぷりの活伊勢海老お造りと、磯の香り豊かで柔らかな極上あわび踊り焼き！伊勢神宮参拝と合わせて訪れたい、鳥羽・志摩・賢島のオーシャンビュー絶景露天風呂と最高峰の海鮮美食旅館を厳選紹介。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"伊勢志摩の王道美食：活伊勢海老お造り＆極上あわび踊り焼き！鳥羽・賢島オーシャンビュー温泉宿5選"} url={"https://croud-travel.pages.dev/traditional-mie-ise-ebi-abalone-gourmet-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"伊勢志摩の王道美食：活伊勢海老お造り＆極上あわび踊り焼き！鳥羽・賢島オーシャンビュー温泉宿5選"} url={"https://croud-travel.pages.dev/traditional-mie-ise-ebi-abalone-gourmet-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="traditional-mie-ise-ebi-abalone-gourmet-stay" />
 </div>
         </section>

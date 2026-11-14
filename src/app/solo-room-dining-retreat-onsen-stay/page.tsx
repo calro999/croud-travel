@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -13,7 +14,7 @@ export const metadata: Metadata = {
     title: 'おひとりさま部屋食温泉宿：夕食・朝食をお部屋で贅沢に！誰にも邪魔されない極上おこもりひとり旅宿 厳選3選',
     description: '「周りの目を気にせず、浴衣のままマイペースに部屋食を楽しみたい」「静寂の中で名湯をひとり占めしたい」というソロトラベラーへ。草津温泉の老舗「望雲」、四万川の清流を望む「四万温泉 豊島屋」、箱根湯本駅徒歩すぐで川沿いの部屋食が自慢の「箱根水明荘」を徹底特集。おひとりさま歓迎の贅沢ステイガイド。',
     url: 'https://croud-travel.pages.dev/solo-room-dining-retreat-onsen-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -27,12 +28,12 @@ export default function ArticlePage() {
     description: '「周りの目を気にせず、浴衣のままマイペースに部屋食を楽しみたい」「静寂の中で名湯をひとり占めしたい」というソロトラベラーへ。草津温泉の老舗「望雲」、四万川の清流を望む「四万温泉 豊島屋」、箱根湯本駅徒歩すぐで川沿いの部屋食が自慢の「箱根水明荘」を徹底特集。おひとりさま歓迎の贅沢ステイガイド。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル ひとり旅・ホテル調査班',
+      name: '旅宿クラウド ひとり旅・ホテル調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -79,6 +80,9 @@ export default function ArticlePage() {
           「周りの目を気にせず、浴衣のままマイペースに部屋食を楽しみたい」「静寂の中で名湯をひとり占めしたい」というソロトラベラーへ。草津温泉の老舗「望雲」、四万川の清流を望む「四万温泉 豊島屋」、箱根湯本駅徒歩すぐで川沿いの部屋食が自慢の「箱根水明荘」を徹底特集。おひとりさま歓迎の贅沢ステイガイド。
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"おひとりさま部屋食温泉宿：夕食・朝食をお部屋で贅沢に！誰にも邪魔されない極上おこもりひとり旅宿 厳選3選"} url={"https://croud-travel.pages.dev/solo-room-dining-retreat-onsen-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
@@ -381,7 +385,7 @@ export default function ArticlePage() {
             href="/"
             className="inline-flex items-center gap-2 text-sm text-stone-600 hover:text-stone-900 font-medium transition-colors"
           >
-            ← クラウドトラベル トップページへ戻る
+            ← 旅宿クラウド トップページへ戻る
           </Link>
         </div>
       </div>
@@ -473,6 +477,9 @@ export default function ArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"おひとりさま部屋食温泉宿：夕食・朝食をお部屋で贅沢に！誰にも邪魔されない極上おこもりひとり旅宿 厳選3選"} url={"https://croud-travel.pages.dev/solo-room-dining-retreat-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="solo-room-dining-retreat-onsen-stay" />
 </div>
         </section>

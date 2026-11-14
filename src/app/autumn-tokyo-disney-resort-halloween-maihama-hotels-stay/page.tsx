@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import Link from 'next/link';
 import type { Metadata } from 'next';
@@ -16,7 +17,7 @@ export const metadata: Metadata = {
     title: "秋の東京ディズニーリゾート・ハロウィーン：ディズニー・ハロウィーン＆ヴィランズの饗宴",
     description: "秋の東京ディズニーリゾート（TDR）が熱狂と怪しい魅力に包まれる一大イベント「ディズニー・ハロウィーン」。東京ディズニーランドでは妖しくも魅惑的なヴィランズたちが主役となるパレード「ザ・ヴィランズ・ハロウィーン “Into the Frenzy”」やハロウィーン限定スペシャルまん・チュロスが登場。東京ディズニーシーではアメリカンウォーターフロントの華やかなデコレーションやトリックオアトリート体験が満喫できます。全身仮装のルールや人気アトラクション「ホーンテッドマンション “ホリデーナイトメアー”」の攻略法、そしてパークの余韻に浸りながらゆったり寛げる舞浜オフィシャルホテル＆新浦安パートナーホテル厳選5選を徹底特集。",
     url: 'https://croud-travel.pages.dev/autumn-tokyo-disney-resort-halloween-maihama-hotels-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
     images: [{
@@ -45,11 +46,11 @@ export default function TdrHalloweenFeaturePage() {
     "dateModified": "2026-10-25T10:00:00+09:00",
     "author": {
       "@type": "Organization",
-      "name": "クラドトラベル編集部 テーマパーク・リゾートホテル取材班"
+      "name": "旅宿クラウド編集部 テーマパーク・リゾートホテル取材班"
     },
     "publisher": {
       "@type": "Organization",
-      "name": "クラドトラベル",
+      "name": "旅宿クラウド",
       "logo": {
         "@type": "ImageObject",
         "url": "https://croud-travel.pages.dev/logo.png"
@@ -287,6 +288,9 @@ export default function TdrHalloweenFeaturePage() {
             </div>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"秋の東京ディズニーリゾート・ハロウィーン：ディズニー・ハロウィーン＆ヴィランズの饗宴"} url={"https://croud-travel.pages.dev/autumn-tokyo-disney-resort-halloween-maihama-hotels-stay/"} />
+      </div>
 
         {/* Main Content Area */}
         <main className="max-w-4xl mx-auto px-4 sm:px-6 py-12">
@@ -413,7 +417,7 @@ export default function TdrHalloweenFeaturePage() {
                       <a
                         href={h.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center justify-center w-full sm:w-auto gap-2 px-6 py-3 rounded-lg bg-orange-600 hover:bg-orange-700 text-white font-bold text-xs sm:text-sm shadow-sm transition"
                       >
                         <span>楽天トラベルでプラン・空室を確認</span>
@@ -565,12 +569,16 @@ export default function TdrHalloweenFeaturePage() {
                 南房総水仙ロード＆安房神社特集
               </Link>
               <Link href="/" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">
-                クラドトラベル トップページ
+                旅宿クラウド トップページ
               </Link>
             </div>
           </section>
 
-        </main>
+        
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"秋の東京ディズニーリゾート・ハロウィーン：ディズニー・ハロウィーン＆ヴィランズの饗宴"} url={"https://croud-travel.pages.dev/autumn-tokyo-disney-resort-halloween-maihama-hotels-stay/"} />
+      </div>
+      </main>
       </article>
     </>
   );

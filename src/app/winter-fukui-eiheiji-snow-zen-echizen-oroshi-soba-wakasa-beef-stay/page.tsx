@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -240,6 +241,9 @@ export default function FukuiEiheijiPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月福井】曹洞宗大本山永平寺の雪静寂＆新春開運参拝！名物越前おろしそばと極上若狭牛・越前がにを味わう名宿5選"} url={"https://croud-travel.pages.dev/winter-fukui-eiheiji-snow-zen-echizen-oroshi-soba-wakasa-beef-stay/"} />
+      </div>
 
       {/* Main Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
@@ -493,7 +497,7 @@ export default function FukuiEiheijiPage() {
                     <a
                       href={hotel.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center justify-center gap-2 w-full py-3.5 px-6 rounded-xl bg-teal-700 hover:bg-teal-800 text-white font-bold text-sm shadow-xs transition-colors duration-200"
                     >
                       <span>楽天トラベルでプラン・空室を確認</span>
@@ -580,6 +584,9 @@ export default function FukuiEiheijiPage() {
               <span className="text-teal-200 text-xs font-normal mt-1">11・12・1月の厳選記事を多数掲載</span>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月福井】曹洞宗大本山永平寺の雪静寂＆新春開運参拝！名物越前おろしそばと極上若狭牛・越前がにを味わう名宿5選"} url={"https://croud-travel.pages.dev/winter-fukui-eiheiji-snow-zen-echizen-oroshi-soba-wakasa-beef-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-fukui-eiheiji-snow-zen-echizen-oroshi-soba-wakasa-beef-stay" />
 </div>
         </section>

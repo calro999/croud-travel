@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -8,13 +9,13 @@ export const metadata: Metadata = {
   description: '三千年の歴史を誇る日本最古の温泉・愛媛県道後温泉を楽天ふるさと納税でお得に贅沢旅！創業三百九十余年・皇室や夏目漱石ゆかりの名門「ふなや」、全室客室露天風呂付き現代湯治のラグジュアリー宿「道後御湯」、本館すぐ隣・屋上露天風呂の「茶玻瑠」を徹底比較。伊予牛会席や松山市トラベルクーポン活用術を解説。',
   keywords: '道後温泉 ふるさと納税,道後温泉本館 宿 ふるさと納税,道後温泉 ふなや クーポン,道後御湯 ふるさと納税,茶玻瑠 松山市 宿泊',
   alternates: {
-    canonical: "https://croud-travel.pages.dev/furusato-tax-dogo-onsen-honkan-heritage-stay/",
+    canonical: "https://croud-travel.pages.dev/furusato-tax-dogo-onsen-historic-bath-stay/",
   },
   openGraph: {
     title: '道後温泉をふるさと納税でお得に旅する！日本最古の名湯・道後温泉本館＆飛鳥乃湯泉！名門老舗宿ガイド｜ふなや・道後御湯・茶玻瑠',
     description: '三千年の歴史を誇る日本最古の温泉・愛媛県道後温泉を楽天ふるさと納税でお得に贅沢旅！創業三百九十余年・皇室や夏目漱石ゆかりの名門「ふなや」、全室客室露天風呂付き現代湯治のラグジュアリー宿「道後御湯」、本館すぐ隣・屋上露天風呂の「茶玻瑠」を徹底比較。伊予牛会席や松山市トラベルクーポン活用術を解説。',
     url: 'https://croud-travel.pages.dev/furusato-tax-dogo-onsen-honkan-heritage-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -28,12 +29,12 @@ export default function FurusatoArticlePage() {
     description: '三千年の歴史を誇る日本最古の温泉・愛媛県道後温泉を楽天ふるさと納税でお得に贅沢旅！創業三百九十余年・皇室や夏目漱石ゆかりの名門「ふなや」、全室客室露天風呂付き現代湯治のラグジュアリー宿「道後御湯」、本館すぐ隣・屋上露天風呂の「茶玻瑠」を徹底比較。伊予牛会席や松山市トラベルクーポン活用術を解説。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル 観光・ふるさと納税調査班',
+      name: '旅宿クラウド 観光・ふるさと納税調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -80,6 +81,9 @@ export default function FurusatoArticlePage() {
           三千年の歴史を誇る日本最古の温泉・愛媛県道後温泉を楽天ふるさと納税でお得に贅沢旅！創業三百九十余年・皇室や夏目漱石ゆかりの名門「ふなや」、全室客室露天風呂付き現代湯治のラグジュアリー宿「道後御湯」、本館すぐ隣・屋上露天風呂の「茶玻瑠」を徹底比較。伊予牛会席や松山市トラベルクーポン活用術を解説。
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"道後温泉をふるさと納税でお得に旅する！日本最古の名湯・道後温泉本館＆飛鳥乃湯泉！名門老舗宿ガイド"} url={"https://croud-travel.pages.dev/furusato-tax-dogo-onsen-honkan-heritage-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
@@ -360,7 +364,7 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 道後温泉街・本館＆飛鳥乃湯泉と松山城観光ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">道後温泉街・本館＆飛鳥乃湯泉と松山城観光ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
@@ -403,7 +407,7 @@ export default function FurusatoArticlePage() {
                 Step 1: 楽天ふるさと納税で「愛媛県松山市」クーポンを獲得
               </span>
               <p className="text-stone-300 text-xs sm:text-sm leading-relaxed">
-                楽天ふるさと納税で松山市を選び、寄付額の30%相当のトラベルクーポンを返礼品として申し込みます。楽天ポイントも通常通り付与されます。
+                楽天ふるさと納税で松山市を選び、寄付額の30%相当のトラベルクーポンを返礼品として申し込みます。クーポンは寄附翌日から最長3年間利用可能です。
               </p>
             </div>
             <div className="bg-stone-900/60 p-4 rounded-2xl border border-amber-500/20 space-y-2">
@@ -586,6 +590,9 @@ export default function FurusatoArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"道後温泉をふるさと納税でお得に旅する！日本最古の名湯・道後温泉本館＆飛鳥乃湯泉！名門老舗宿ガイド"} url={"https://croud-travel.pages.dev/furusato-tax-dogo-onsen-honkan-heritage-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-dogo-onsen-honkan-heritage-stay" />
 </div>
         </section>

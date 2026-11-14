@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             標高3,000m級の北アルプス白馬連峰が眼前に迫る「白馬」。山頂テラスのブランコから望む三段紅葉と雪山パノラマ。pH11を超える日本最高峰のアルカリ性美肌温泉に浸かり、大自然に抱かれる極上のリゾートへ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"長野・白馬八方尾根：白馬マウンテンハーバー＆北アルプス絶景・温泉宿 厳選ガイド"} url={"https://croud-travel.pages.dev/nagano-hakuba-happo-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"長野・白馬八方尾根：白馬マウンテンハーバー＆北アルプス絶景・温泉宿 厳選ガイド"} url={"https://croud-travel.pages.dev/nagano-hakuba-happo-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="nagano-hakuba-happo-stay" />
 </div>
   );

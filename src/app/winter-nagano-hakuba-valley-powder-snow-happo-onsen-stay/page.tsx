@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -118,6 +119,9 @@ export default function WinterFeaturePage() {
             </p>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"HAKUBA VALLEY極上パウダースノーと白馬八方温泉：2026-2027年冬の白馬山麓！高アルカリ美肌湯と信州牛名宿5選"} url={"https://croud-travel.pages.dev/winter-nagano-hakuba-valley-powder-snow-happo-onsen-stay/"} />
+      </div>
 
         {/* 導入セクション */}
         <section className="max-w-4xl mx-auto px-4 py-8">
@@ -676,6 +680,10 @@ export default function WinterFeaturePage() {
             </div>
           </div>
         </section>
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"HAKUBA VALLEY極上パウダースノーと白馬八方温泉：2026-2027年冬の白馬山麓！高アルカリ美肌湯と信州牛名宿5選"} url={"https://croud-travel.pages.dev/winter-nagano-hakuba-valley-powder-snow-happo-onsen-stay/"} />
+      </div>
       </main>
     </>
   );

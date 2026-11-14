@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             熊野灘の荒波と風雨が刻んだ大自然の彫刻「世界遺産・鬼ヶ城」と、天に向かって咆哮する「獅子岩」。石畳の苔が美しい熊野古道伊勢路。日本一長い砂礫海岸「七里御浜」。幻の深海エビ「ガスエビ」と熊野地鶏・めはり寿司を味わう旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"三重・熊野＆尾鷲・鬼ヶ城：世界遺産鬼ヶ城・獅子岩＆熊野古道伊勢路・尾鷲ガスエビ宿 厳選ガイド"} url={"https://croud-travel.pages.dev/mie-kumano-owase-onigajo-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -361,6 +365,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"三重・熊野＆尾鷲・鬼ヶ城：世界遺産鬼ヶ城・獅子岩＆熊野古道伊勢路・尾鷲ガスエビ宿 厳選ガイド"} url={"https://croud-travel.pages.dev/mie-kumano-owase-onigajo-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="mie-kumano-owase-onigajo-stay" />
 </div>
   );

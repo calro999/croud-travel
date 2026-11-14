@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月福島・会津芦ノ牧温泉の大川渓谷初雪絶景と渓流露天】会津馬刺し・極上会津牛＆源泉かけ流し湯めぐりの宿5選',
     description: '11月から12月にかけて福島県・会津若松の奥座敷「会津芦ノ牧温泉」は、大川（阿賀川）が何万年もの歳月をかけて刻んだ深い渓谷美「大川羽鳥県立自。',
     url: 'https://croud-travel.pages.dev/winter-fukushima-ashinomaki-onsen-okawa-valley-snow-stay/',
-    siteName: 'クラドトラベル (Croud Travel)',
+    siteName: '旅宿クラウド (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -287,6 +288,9 @@ export default function AshinomakiOnsenWinterFeature() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月福島・会津芦ノ牧温泉の大川渓谷初雪絶景と渓流露天】会津馬刺し・極上会津牛＆源泉かけ流し湯めぐりの宿5選"} url={"https://croud-travel.pages.dev/winter-fukushima-ashinomaki-onsen-okawa-valley-snow-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-10 space-y-12">
@@ -480,7 +484,7 @@ export default function AshinomakiOnsenWinterFeature() {
                     <a
                       href={h.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="w-full sm:w-auto inline-flex items-center justify-center gap-2 bg-indigo-700 hover:bg-indigo-800 text-white font-bold text-sm px-6 py-3 rounded-2xl shadow-sm hover:shadow transition group flex-shrink-0"
                     >
                       <span>楽天トラベルでプランを見る</span>
@@ -599,6 +603,9 @@ export default function AshinomakiOnsenWinterFeature() {
               <h3 className="text-sm font-bold group-hover:text-indigo-200 transition">全国の厳選温泉・旬旅特集まとめを見る</h3>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月福島・会津芦ノ牧温泉の大川渓谷初雪絶景と渓流露天】会津馬刺し・極上会津牛＆源泉かけ流し湯めぐりの宿5選"} url={"https://croud-travel.pages.dev/winter-fukushima-ashinomaki-onsen-okawa-valley-snow-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-fukushima-ashinomaki-onsen-okawa-valley-snow-stay" />
 </div>
         </section>

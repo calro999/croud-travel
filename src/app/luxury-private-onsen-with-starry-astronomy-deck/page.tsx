@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -199,6 +200,9 @@ export default function FeatureDetailPage() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"日本一の星空・阿智村！天体観測専用デッキ＆満天星露天風呂付き極上宿5選"} url={"https://croud-travel.pages.dev/luxury-private-onsen-with-starry-astronomy-deck/"} />
+      </div>
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
@@ -864,6 +868,9 @@ export default function FeatureDetailPage() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"日本一の星空・阿智村！天体観測専用デッキ＆満天星露天風呂付き極上宿5選"} url={"https://croud-travel.pages.dev/luxury-private-onsen-with-starry-astronomy-deck/"} />
+      </div>
       <HubRelatedPosts currentSlug="luxury-private-onsen-with-starry-astronomy-deck" />
 </div>
   );

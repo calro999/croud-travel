@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -92,6 +93,9 @@ export default function KusatsuPackingMistakesPage() {
             日本屈指の天下の名湯・草津温泉。毎分3万リットル以上の湧出量とpH2.1前後の圧倒的な酸性度が魅力ですが、そのパワフルさゆえに「知らずに行って大失敗した…」と泣き寝入りする旅行者が後を絶ちません。実際のトラブル事例から学んで、万全の装備で出かけましょう！
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"草津温泉で後悔したことワースト5：銀製品が真っ黒に変色！？強酸性泉の注意点＆必須持ち物チェックリスト"} url={"https://croud-travel.pages.dev/kusatsu-onsen-packing-mistakes-silver-guide/"} />
+      </div>
       </section>
 
       {/* 警告アラートカード */}
@@ -387,6 +391,9 @@ export default function KusatsuPackingMistakesPage() {
         </div>
       </section>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"草津温泉で後悔したことワースト5：銀製品が真っ黒に変色！？強酸性泉の注意点＆必須持ち物チェックリスト"} url={"https://croud-travel.pages.dev/kusatsu-onsen-packing-mistakes-silver-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="kusatsu-onsen-packing-mistakes-silver-guide" />
 </div>
   );

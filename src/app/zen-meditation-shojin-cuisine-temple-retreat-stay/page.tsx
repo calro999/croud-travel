@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
@@ -36,7 +37,7 @@ export default function Page() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "禅寺坐禅体験＆精進料理宿坊完全ガイド【高野山・永平寺・京都リトリート】 | クラウドトラベル",
+    "headline": "禅寺坐禅体験＆精進料理宿坊完全ガイド【高野山・永平寺・京都リトリート】 | 旅宿クラウド",
     "description": "世界遺産高野山の歴史ある宿坊、福井・大本山永平寺門前、京都妙心寺界隈の枯山水庭園を望む禅体験宿を特集。朝のお勤め、護摩祈祷、本格精進料理で雑念を払い心を整えるリトリートステイ。",
     "url": "https://croud-travel.pages.dev/zen-meditation-shojin-cuisine-temple-retreat-stay/",
     "publisher": {
@@ -50,7 +51,7 @@ export default function Page() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "禅寺坐禅体験＆精進料理宿坊完全ガイド【高野山・永平寺・京都リトリート】 | クラウドトラベル", "item": "https://croud-travel.pages.dev/zen-meditation-shojin-cuisine-temple-retreat-stay/" }
+      { "@type": "ListItem", "position": 2, "name": "禅寺坐禅体験＆精進料理宿坊完全ガイド【高野山・永平寺・京都リトリート】 | 旅宿クラウド", "item": "https://croud-travel.pages.dev/zen-meditation-shojin-cuisine-temple-retreat-stay/" }
     ]
   };
 
@@ -81,6 +82,9 @@ export default function Page() {
             朝露に濡れる苔庭、早朝の澄んだ空気に響く鐘の音と読経。日常の喧騒や情報過多のデジタル社会から身を置き、呼吸を整えて無心になる「坐禅（ざぜん）体験」。五味五色五法に基づき命に感謝していただく色彩豊かな「精進料理」、そして僧侶とともに過ごす「朝のお勤め」。現代人の心身を芯からリセットする、本物の禅と宿坊の旅へご案内します。
           </p>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"禅寺坐禅体験＆精進料理宿坊厳選ガイド「高野山・永平寺・京都リトリート」"} url={"https://croud-travel.pages.dev/zen-meditation-shojin-cuisine-temple-retreat-stay/"} />
+      </div>
 
         {/* メインコンテンツセクション */}
         
@@ -308,8 +312,7 @@ export default function Page() {
 
         {/* よくある質問 FAQ */}
         <section className="mb-16 bg-white rounded-2xl shadow-sm border border-stone-200/80 p-6 md:p-8">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2"><span className="w-2 h-7 bg-amber-700 rounded-full inline-block"></span>
-            よくある質問・伝統文化体験＆宿坊の楽しみ方</h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">よくある質問・伝統文化体験＆宿坊の楽しみ方</h2>
           <div className="space-y-4">
             
             <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
@@ -500,6 +503,9 @@ export default function Page() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"禅寺坐禅体験＆精進料理宿坊厳選ガイド「高野山・永平寺・京都リトリート」"} url={"https://croud-travel.pages.dev/zen-meditation-shojin-cuisine-temple-retreat-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="zen-meditation-shojin-cuisine-temple-retreat-stay" />
 </div>
         </section>

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function RailwayActivityHubPage() {
             ゴンドラに乗り込み、一気に雲の上へ！「絶景ロープウェイ＆山頂天空テラス」。琵琶湖を眼下に望むインフィニティウッドデッキ、北アルプスの雲海を見下ろすサンセット、冬の巨大な樹氷モンスター。山頂カフェで贅沢なドリンクを片手に過ごす休日へ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"絶景ロープウェイ＆山頂テラス宿：びわ湖バレイ・蔵王・富士山パノラマ 厳選ガイド"} url={"https://croud-travel.pages.dev/panoramic-ropeway-mountain-terrace-resort-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆厳選宿 */}
@@ -454,6 +458,9 @@ export default function RailwayActivityHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"絶景ロープウェイ＆山頂テラス宿：びわ湖バレイ・蔵王・富士山パノラマ 厳選ガイド"} url={"https://croud-travel.pages.dev/panoramic-ropeway-mountain-terrace-resort-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="panoramic-ropeway-mountain-terrace-resort-stay" />
 </div>
   );

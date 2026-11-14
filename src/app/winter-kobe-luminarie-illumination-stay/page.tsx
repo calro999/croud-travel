@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             11月〜12月にかけて街全体が光の芸術に包まれる神戸の冬！六甲山から見下ろす1000万ドルの夜景や神戸旧居留地のイルミネーションを満喫し、車で約30分の日本三古湯・有馬温泉の赤湯「金泉」と極上神戸牛ディナーに酔いしれる贅沢旅。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月！神戸イルミネーション＆1000万ドル夜景】有馬温泉金泉と神戸牛極上宿5選"} url={"https://croud-travel.pages.dev/winter-kobe-luminarie-illumination-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -354,7 +358,7 @@ export default function FeaturePage() {
                 <span className="inline-block text-[10px] font-bold px-2 py-0.5 rounded bg-amber-100 text-amber-800 mb-2">
                   厳選おすすめ特集
                 </span>
-                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">下呂温泉の紅葉合掌村と飛騨金山巨石群！日本三名泉の美肌湯と極上飛騨牛すき焼きを味わう秋旅 | クラウドトラベルふるさと納税</h3>
+                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">下呂温泉の紅葉合掌村と飛騨金山巨石群！日本三名泉の美肌湯と極上飛騨牛すき焼きを味わう秋旅 | 旅宿クラウドふるさと納税</h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
                 特集を見る →
@@ -500,7 +504,7 @@ export default function FeaturePage() {
                 <span className="inline-block text-[10px] font-bold px-2 py-0.5 rounded bg-amber-100 text-amber-800 mb-2">
                   厳選おすすめ特集
                 </span>
-                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">蔵王エコーラインの絶景ドライブ紅葉＆強酸性白濁名湯・蔵王温泉で味わう極上山形牛 | クラウドトラベルふるさと納税</h3>
+                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">蔵王エコーラインの絶景ドライブ紅葉＆強酸性白濁名湯・蔵王温泉で味わう極上山形牛 | 旅宿クラウドふるさと納税</h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
                 特集を見る →
@@ -528,7 +532,7 @@ export default function FeaturePage() {
                 <span className="inline-block text-[10px] font-bold px-2 py-0.5 rounded bg-amber-100 text-amber-800 mb-2">
                   厳選おすすめ特集
                 </span>
-                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">三重・松阪城跡の紅葉と本場松阪牛！伊勢神宮参拝の宿場町と松阪温泉・老舗すき焼き | クラウドトラベルふるさと納税</h3>
+                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">三重・松阪城跡の紅葉と本場松阪牛！伊勢神宮参拝の宿場町と松阪温泉・老舗すき焼き | 旅宿クラウドふるさと納税</h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
                 特集を見る →
@@ -578,6 +582,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月！神戸イルミネーション＆1000万ドル夜景】有馬温泉金泉と神戸牛極上宿5選"} url={"https://croud-travel.pages.dev/winter-kobe-luminarie-illumination-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-kobe-luminarie-illumination-stay" />
 </div>
         </section>

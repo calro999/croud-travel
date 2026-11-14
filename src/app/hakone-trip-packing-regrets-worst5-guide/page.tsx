@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -219,6 +220,9 @@ export default function HakoneTripPackingRegretsPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"箱根旅行で後悔したことワースト5：大涌谷ロープウェイ強風運休＆夕方カフェ難民！渋滞回避の知恵袋"} url={"https://croud-travel.pages.dev/hakone-trip-packing-regrets-worst5-guide/"} />
+      </div>
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-16">
@@ -588,6 +592,9 @@ export default function HakoneTripPackingRegretsPage() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"箱根旅行で後悔したことワースト5：大涌谷ロープウェイ強風運休＆夕方カフェ難民！渋滞回避の知恵袋"} url={"https://croud-travel.pages.dev/hakone-trip-packing-regrets-worst5-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="hakone-trip-packing-regrets-worst5-guide" />
 </div>
   );

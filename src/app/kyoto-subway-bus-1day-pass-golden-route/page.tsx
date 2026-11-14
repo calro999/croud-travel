@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -98,6 +99,9 @@ export default function KyotoSubwayBusPassPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"地下鉄・バス1日券で巡る京都観光：1,100円で元を取る黄金ルート＆市バス大渋滞を完全回避する裏ワザ"} url={"https://croud-travel.pages.dev/kyoto-subway-bus-1day-pass-golden-route/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
@@ -133,7 +137,7 @@ export default function KyotoSubwayBusPassPage() {
                 </ul>
               </div>
               <div className="bg-teal-50 border border-teal-200 rounded-xl p-5">
-                <h3 className="font-bold text-teal-800 flex items-center gap-2 mb-2"><span className="text-lg">⭕</span> 地下鉄＋バス併用の快感</h3>
+                <h3 className="font-bold text-teal-800 flex items-center gap-2 mb-2">地下鉄＋バス併用の快感</h3>
                 <ul className="text-sm text-teal-900/80 space-y-2 list-disc list-inside">
                   <li>京都駅から烏丸線・東西線で渋滞エリアを地下ワープ</li>
                   <li>主要駅から近距離バス（1〜2停留所）で目的地へ直行</li>
@@ -552,6 +556,9 @@ export default function KyotoSubwayBusPassPage() {
         </div>
       </footer>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"地下鉄・バス1日券で巡る京都観光：1,100円で元を取る黄金ルート＆市バス大渋滞を完全回避する裏ワザ"} url={"https://croud-travel.pages.dev/kyoto-subway-bus-1day-pass-golden-route/"} />
+      </div>
       <HubRelatedPosts currentSlug="kyoto-subway-bus-1day-pass-golden-route" />
 </div>
   );

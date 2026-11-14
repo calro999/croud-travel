@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
@@ -15,7 +16,7 @@ export const metadata: Metadata = {
     title: '標高1400mの白銀カルストと満天の星空：2026-2027年冬の愛媛・久万高原！高原温泉と冬絶景宿5選',
     description: '四国とは思えない白銀の別世界が広がる「四国カルスト天狗高原」と澄み切った満天の星空！四国霊場第44番大寶寺の新春初詣、滋味豊かな愛媛ブランド牛・きじ鍋と心温まる高原の名湯に寛ぐ大自然の冬名宿5選。',
     url: 'https://croud-travel.pages.dev/winter-ehime-kumakogen-shikoku-karst-snow-starry-hoshifuru-stay/',
-    siteName: 'クラウドトラベル',
+    siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -124,6 +125,9 @@ export default function Page() {
             四国とは思えない白銀の別世界が広がる「四国カルスト天狗高原」と澄み切った満天の星空！四国霊場第44番大寶寺の新春初詣、滋味豊かな愛媛ブランド牛・きじ鍋と心温まる高原の名湯に寛ぐ大自然の冬名宿5選。
           </p>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"標高1400mの白銀カルストと満天の星空：2026-2027年冬の愛媛・久万高原！高原温泉と冬絶景宿5選"} url={"https://croud-travel.pages.dev/winter-ehime-kumakogen-shikoku-karst-snow-starry-hoshifuru-stay/"} />
+      </div>
 
         {/* 導入解説セクション */}
         {/* 宿一覧セクション */}
@@ -540,6 +544,10 @@ export default function Page() {
             </div>
           </div>
         </section>
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"標高1400mの白銀カルストと満天の星空：2026-2027年冬の愛媛・久万高原！高原温泉と冬絶景宿5選"} url={"https://croud-travel.pages.dev/winter-ehime-kumakogen-shikoku-karst-snow-starry-hoshifuru-stay/"} />
+      </div>
       </main>
     </>
   );

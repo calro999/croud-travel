@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -12,7 +13,7 @@ export const metadata: Metadata = {
     title: "青森の奥座敷・浅虫温泉ひとり旅・陸奥湾夕日おこもり：開湯1200年名湯・津軽三味線生演奏・名物陸奥湾ホタテづくし",
     description: '棟方志功や太宰治が愛した津軽の名湯・浅虫温泉！毎夜の津軽三味線ライブと陸奥湾一望の展望露天風呂が口コミ★4.6超の「南部屋・海扇閣」、棟方志功ゆかりの美術品と源泉掛け流し岩風呂を誇る「椿館」、自家源泉と落ち着いたモダン和室が心地よい「宿屋つばき」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/aomori-asamushi-solo-retreat-mutsubay-onsen-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -26,12 +27,12 @@ export default function ArticlePage() {
     description: '棟方志功や太宰治が愛した津軽の名湯・浅虫温泉！毎夜の津軽三味線ライブと陸奥湾一望の展望露天風呂が口コミ★4.6超の「南部屋・海扇閣」、棟方志功ゆかりの美術品と源泉掛け流し岩風呂を誇る「椿館」、自家源泉と落ち着いたモダン和室が心地よい「宿屋つばき」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル ひとり旅・出張調査班',
+      name: '旅宿クラウド ひとり旅・出張調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -91,6 +92,9 @@ export default function ArticlePage() {
             </p>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"青森の奥座敷・浅虫温泉ひとり旅・陸奥湾夕日おこもり：開湯1200年名湯・津軽三味線生演奏・名物陸奥湾ホタテづくし"} url={"https://croud-travel.pages.dev/aomori-asamushi-solo-retreat-mutsubay-onsen-stay/"} />
+      </div>
 
         {/* 目次 */}
         <section className="bg-white p-5 rounded-2xl border border-stone-200 shadow-sm mb-10">
@@ -147,7 +151,7 @@ export default function ArticlePage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4962%2F4962.html"
                 target="_blank"
-                rel="noopener noreferrer sponsored"
+                rel="sponsored noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-amber-700 hover:bg-amber-800 text-white text-xs sm:text-sm font-bold px-5 py-2.5 rounded-lg shadow-sm hover:shadow transition"
               >
                 <span>空室状況・最新料金を確認</span>
@@ -202,7 +206,7 @@ export default function ArticlePage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F13755%2F13755.html"
                 target="_blank"
-                rel="noopener noreferrer sponsored"
+                rel="sponsored noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-amber-700 hover:bg-amber-800 text-white text-xs sm:text-sm font-bold px-5 py-2.5 rounded-lg shadow-sm hover:shadow transition"
               >
                 <span>空室状況・最新料金を確認</span>
@@ -256,7 +260,7 @@ export default function ArticlePage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F20710%2F20710.html"
                 target="_blank"
-                rel="noopener noreferrer sponsored"
+                rel="sponsored noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-amber-700 hover:bg-amber-800 text-white text-xs sm:text-sm font-bold px-5 py-2.5 rounded-lg shadow-sm hover:shadow transition"
               >
                 <span>空室状況・最新料金を確認</span>
@@ -316,7 +320,7 @@ export default function ArticlePage() {
           <a
             href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4962%2F4962.html"
             target="_blank"
-            rel="noopener noreferrer sponsored"
+            rel="sponsored noopener noreferrer"
             className="inline-block bg-amber-600 hover:bg-amber-500 text-white text-sm font-bold px-8 py-3.5 rounded-xl shadow-lg transition"
           >
             一番人気の宿をチェックする（楽天トラベル）
@@ -604,6 +608,9 @@ export default function ArticlePage() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"青森の奥座敷・浅虫温泉ひとり旅・陸奥湾夕日おこもり：開湯1200年名湯・津軽三味線生演奏・名物陸奥湾ホタテづくし"} url={"https://croud-travel.pages.dev/aomori-asamushi-solo-retreat-mutsubay-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="aomori-asamushi-solo-retreat-mutsubay-onsen-stay" />
 </div>
   );

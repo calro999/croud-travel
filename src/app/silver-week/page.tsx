@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -122,6 +123,9 @@ export default function SilverWeekPage() {
             爽快な秋晴れの下、家族やカップルで出かけたいシルバーウィーク。軽井沢や富士五湖の高原リゾートから、熱海温泉の美食、秋の沖縄・USJまで、満足度の高い厳選宿泊プランを徹底解説。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"秋の連休：シルバーウィーク旅行・おすすめ人気ホテル＆リゾート"} url={"https://croud-travel.pages.dev/silver-week/"} />
       </div>
 
       {/* デスティネーション別ガイド */}
@@ -339,7 +343,7 @@ export default function SilverWeekPage() {
             </div>
           </div>
           <div className="space-y-3 pt-4 border-t border-stone-200">
-            <h3 className="text-base font-bold text-stone-900">️ 合わせて訪れたい日本の代表的観光名所ガイド</h3>
+            <h3 className="text-base font-bold text-stone-900">合わせて訪れたい日本の代表的観光名所ガイド</h3>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
               <h4 className="text-sm font-bold text-stone-900">清水寺</h4>
@@ -361,6 +365,9 @@ export default function SilverWeekPage() {
           </div>
         </section>
 
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"秋の連休：シルバーウィーク旅行・おすすめ人気ホテル＆リゾート"} url={"https://croud-travel.pages.dev/silver-week/"} />
+      </div>
 <HubRelatedPosts currentSlug="silver-week" />
 </div>
   );

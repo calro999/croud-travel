@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -257,6 +258,9 @@ export default function KyotoOharaSanzeninPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月京都】静寂の洛北・大原三千院の白銀雪景色と宝泉院「額縁庭園」冬参拝＆名物「地鶏味噌鍋」・大原温泉の隠れ家名宿5選"} url={"https://croud-travel.pages.dev/winter-kyoto-ohara-sanzenin-snow-hosenin-misonabe-stay/"} />
+      </div>
 
       {/* Main Content Area */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
@@ -487,7 +491,7 @@ export default function KyotoOharaSanzeninPage() {
                     <a 
                       href={hotel.url} 
                       target="_blank" 
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-xl bg-gradient-to-r from-emerald-600 to-emerald-700 hover:from-emerald-700 hover:to-emerald-800 text-white font-bold text-xs sm:text-sm shadow-md shadow-emerald-600/20 hover:shadow-lg transition-all w-full sm:w-auto"
                     >
                       <span>雪景色の宿は冬限定 ▶ 空室を確認する</span>
@@ -630,6 +634,9 @@ export default function KyotoOharaSanzeninPage() {
               </span>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月京都】静寂の洛北・大原三千院の白銀雪景色と宝泉院「額縁庭園」冬参拝＆名物「地鶏味噌鍋」・大原温泉の隠れ家名宿5選"} url={"https://croud-travel.pages.dev/winter-kyoto-ohara-sanzenin-snow-hosenin-misonabe-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-kyoto-ohara-sanzenin-snow-hosenin-misonabe-stay" />
 </div>
         </section>

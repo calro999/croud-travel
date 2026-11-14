@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月福島・裏磐梯温泉郷の五色沼初雪ウォークと磐梯山雪景色】極上福島牛ステーキ＆会津地鶏鍋・桧原湖ワカサギを味わう高原リゾート名宿5選',
     description: '11月から12月にかけて、標高約800mの磐梯高原に位置する福島県・裏磐梯温泉郷の魅力とおすすめ宿泊施設を詳しくご紹介します。',
     url: 'https://croud-travel.pages.dev/winter-fukushima-urabandai-onsen-goshikinuma-snow-fukushimagyu-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -170,7 +171,7 @@ export default function WinterFukushimaUrabandaiPage() {
         'isPartOf': {
           '@type': 'WebSite',
           '@id': 'https://croud-travel.pages.dev/#website',
-          'name': 'クラドトラベル',
+          'name': '旅宿クラウド',
           'url': 'https://croud-travel.pages.dev/'
         },
         'headline': "【11・12月福島・裏磐梯温泉郷の五色沼初雪ウォークと磐梯山雪景色】極上福島牛ステーキ＆会津地鶏鍋・桧原湖ワカサギを味わう高原リゾート名宿5選",
@@ -181,7 +182,7 @@ export default function WinterFukushimaUrabandaiPage() {
         'dateModified': '2026-10-25T00:00:00+09:00',
         'publisher': {
           '@type': 'Organization',
-          'name': 'クラドトラベル編集部',
+          'name': '旅宿クラウド編集部',
           'url': 'https://croud-travel.pages.dev/'
         }
       },
@@ -273,6 +274,9 @@ export default function WinterFukushimaUrabandaiPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月福島・裏磐梯温泉郷の五色沼初雪ウォークと磐梯山雪景色】極上福島牛ステーキ＆会津地鶏鍋・桧原湖ワカサギを味わう高原リゾート名宿5選"} url={"https://croud-travel.pages.dev/winter-fukushima-urabandai-onsen-goshikinuma-snow-fukushimagyu-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
@@ -452,7 +456,7 @@ export default function WinterFukushimaUrabandaiPage() {
                       <a
                         href={hotel.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-2 bg-gradient-to-r from-teal-700 to-teal-800 hover:from-teal-800 hover:to-teal-900 text-white font-bold text-sm px-6 py-3 rounded-xl shadow-md hover:shadow-lg transition transform hover:-translate-y-0.5"
                       >
                         <span>空室・料金プランを確認</span>
@@ -622,6 +626,9 @@ export default function WinterFukushimaUrabandaiPage() {
               </p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月福島・裏磐梯温泉郷の五色沼初雪ウォークと磐梯山雪景色】極上福島牛ステーキ＆会津地鶏鍋・桧原湖ワカサギを味わう高原リゾート名宿5選"} url={"https://croud-travel.pages.dev/winter-fukushima-urabandai-onsen-goshikinuma-snow-fukushimagyu-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-fukushima-urabandai-onsen-goshikinuma-snow-fukushimagyu-stay" />
 </div>
         </section>

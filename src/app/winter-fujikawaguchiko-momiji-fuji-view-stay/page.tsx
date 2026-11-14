@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             11月に見頃を迎える河口湖紅葉まつり！約60本の巨木モミジが約1.5kmにわたって深紅に染まる「もみじ回廊」ライトアップと、雪化粧した初冠雪の富士山を客室専用露天風呂から真正面に望む贅沢ステイ。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11月河口湖紅葉まつり＆初冠雪富士】もみじ回廊ライトアップと富士山ビュー客室露天宿5選"} url={"https://croud-travel.pages.dev/winter-fujikawaguchiko-momiji-fuji-view-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -463,8 +467,8 @@ export default function FeaturePage() {
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 河口湖駅へ到着。駅から無料送迎有■駐車場無料■河口湖駅から車で4分■富士急から車で7分河口湖ICから車で12分新宿駅からバスで約120分でスムーズに移動。</li>
                 <li>・<strong className="text-stone-800">15:30〜</strong> 「富士河口湖温泉 富士山の見える温泉旅館 大池ホテル」にチェックイン。山梨 富士山 河口湖 露天風呂 温泉 バイキング ブッフェ 温泉　貸切露天風呂を満喫。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 本格サウナと天然温泉のととのい体験で夕暮れの贅沢な湯浴み時間をゆったり過ごす。（河口湖紅葉まつり＆初冠雪富士の晩秋・初冬温泉ガイド！）</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 特選ブランド牛と地場産品を味わう夕食。地元の恵みを五感で味わう至福のディナー。（河口湖紅葉まつり＆初冠雪富士の晩秋・初冬温泉ガイド！）</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 本格サウナと天然温泉のととのい体験で夕暮れの贅沢な湯浴み時間をゆったり過ごす。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 特選ブランド牛と地場産品を味わう夕食。地元の恵みを五感で味わう至福のディナー。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
@@ -473,10 +477,10 @@ export default function FeaturePage() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の澄み渡る空気のなか目覚めの朝風呂。清々しい風を感じる至福のひととき。（河口湖紅葉まつり＆初冠雪富士の晩秋・初冬温泉ガイド！）</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 宿自慢の朝食でエネルギーチャージ。地元食材の優しい味わいを堪能。（河口湖紅葉まつり＆初冠雪富士の晩秋・初冬温泉ガイド！）</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の澄み渡る空気のなか目覚めの朝風呂。清々しい風を感じる至福のひととき。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 宿自慢の朝食でエネルギーチャージ。地元食材の優しい味わいを堪能。</li>
                 <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後、近隣の名所や「河口湖温泉 山岸旅館」周辺の景勝地へ立ち寄り。</li>
-                <li>・<strong className="text-stone-800">12:30〜</strong> ご当地グルメのランチとお土産選びを楽しみ、大満足で家路へ。（河口湖紅葉まつり＆初冠雪富士の晩秋・初冬温泉ガイド！）</li>
+                <li>・<strong className="text-stone-800">12:30〜</strong> ご当地グルメのランチとお土産選びを楽しみ、大満足で家路へ。</li>
               </ul>
             </div>
           </div>
@@ -578,6 +582,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11月河口湖紅葉まつり＆初冠雪富士】もみじ回廊ライトアップと富士山ビュー客室露天宿5選"} url={"https://croud-travel.pages.dev/winter-fujikawaguchiko-momiji-fuji-view-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-fujikawaguchiko-momiji-fuji-view-stay" />
 </div>
         </section>

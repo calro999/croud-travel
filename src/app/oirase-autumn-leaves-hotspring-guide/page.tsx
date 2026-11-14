@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -169,6 +170,9 @@ export default function OiraseAutumnLeavesHotspringPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"奥入瀬渓流・十和田湖 紅葉2026厳選ガイド：見頃・散策モデルコース＆星野リゾート・秘湯酸ヶ湯ステイ"} url={"https://croud-travel.pages.dev/oirase-autumn-leaves-hotspring-guide/"} />
+      </div>
 
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 space-y-16">
       <script
@@ -207,8 +211,7 @@ export default function OiraseAutumnLeavesHotspringPage() {
 
           {/* 散策アドバイスボックス */}
           <div className="bg-gradient-to-r from-emerald-900/60 to-stone-900 p-5 rounded-2xl border border-emerald-700/50 space-y-3">
-            <h4 className="text-sm font-bold text-amber-300 flex items-center gap-2"><span>️</span>
-              <span>奥入瀬散策の重要ポイント＆エコロードフェスタ（マイカー規制）</span></h4>
+            <h4 className="text-sm font-bold text-amber-300 flex items-center gap-2"><span>奥入瀬散策の重要ポイント＆エコロードフェスタ（マイカー規制）</span></h4>
             <p className="text-xs text-emerald-100/90 leading-relaxed">
               例年10月下旬の週末には「奥入瀬渓流エコロードフェスタ」が実施され、惣辺交差点〜子ノ口間（国道102号）の一般車両通行規制が行われます。指定駐車場からのシャトルバス利用が必須となるため、事前に青森県公式サイトで該当日程をご確認ください。また、遊歩道は水滴や落ち葉で滑りやすいため、防水トレッキングシューズと防寒レインウェアの着用を強く推奨します。
             </p>
@@ -703,6 +706,9 @@ export default function OiraseAutumnLeavesHotspringPage() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"奥入瀬渓流・十和田湖 紅葉2026厳選ガイド：見頃・散策モデルコース＆星野リゾート・秘湯酸ヶ湯ステイ"} url={"https://croud-travel.pages.dev/oirase-autumn-leaves-hotspring-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="oirase-autumn-leaves-hotspring-guide" />
 </div>
   );

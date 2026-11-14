@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
@@ -36,7 +37,7 @@ export default function Page() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "客室専用サウナ＆プライベートヴィラ宿完全ガイド【完全貸切・ととのいスイート】 | クラウドトラベル",
+    "headline": "客室専用サウナ＆プライベートヴィラ宿完全ガイド【完全貸切・ととのいスイート】 | 旅宿クラウド",
     "description": "客室専用バレルサウナ、テラス付き水風呂、スイートルーム完備のプライベートサウナ付き宿を厳選。誰の目も気にせず24時間好きな時に自分だけのリズムでととのう至高の贅沢。",
     "url": "https://croud-travel.pages.dev/private-room-sauna-luxury-villa-retreat-stay/",
     "publisher": {
@@ -50,7 +51,7 @@ export default function Page() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "客室専用サウナ＆プライベートヴィラ宿完全ガイド【完全貸切・ととのいスイート】 | クラウドトラベル", "item": "https://croud-travel.pages.dev/private-room-sauna-luxury-villa-retreat-stay/" }
+      { "@type": "ListItem", "position": 2, "name": "客室専用サウナ＆プライベートヴィラ宿完全ガイド【完全貸切・ととのいスイート】 | 旅宿クラウド", "item": "https://croud-travel.pages.dev/private-room-sauna-luxury-villa-retreat-stay/" }
     ]
   };
 
@@ -81,6 +82,9 @@ export default function Page() {
             ドアを開ければ、そこは自分たちだけの完全プライベートサウナ。好みの温度へのセッティング、好きなタイミングでのセルフロウリュ、テラスに備えられた専用水風呂への直行、そしてバスローブのままベッドやテラスチェアへダイブ。順番待ちもマナーの気兼ねも一切ない、サウナーにとっての究極の贅沢がここにあります。大切なパートナーや友人、家族と過ごす至福のステイへご案内します。
           </p>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"客室専用サウナ＆プライベートヴィラ宿厳選ガイド「完全貸切・ととのいスイート」"} url={"https://croud-travel.pages.dev/private-room-sauna-luxury-villa-retreat-stay/"} />
+      </div>
 
         {/* メインコンテンツセクション */}
         
@@ -308,8 +312,7 @@ export default function Page() {
 
         {/* よくある質問 FAQ */}
         <section className="mb-16 bg-white rounded-2xl shadow-sm border border-emerald-900/10 p-6 md:p-8">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2"><span className="w-2 h-7 bg-emerald-700 rounded-full inline-block"></span>
-            よくある質問・サウナリゾートの楽しみ方</h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">よくある質問・サウナリゾートの楽しみ方</h2>
           <div className="space-y-4">
             
             <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
@@ -500,6 +503,9 @@ export default function Page() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"客室専用サウナ＆プライベートヴィラ宿厳選ガイド「完全貸切・ととのいスイート」"} url={"https://croud-travel.pages.dev/private-room-sauna-luxury-villa-retreat-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="private-room-sauna-luxury-villa-retreat-stay" />
 </div>
         </section>

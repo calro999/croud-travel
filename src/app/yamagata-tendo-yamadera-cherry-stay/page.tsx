@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             松尾芭蕉が「閑さや岩にしみ入る蝉の声」と詠んだ奇岩の名刹「山寺（宝珠山立石寺）」。全国の将棋駒の9割以上を生産する「将棋の街・天童」。舞鶴山の桜と人間将棋、美肌の天童温泉、とろける山形牛を味わう山形王道旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"山形・天童温泉＆山寺立石寺：将棋の街・千段の石段絶景＆山形牛・さくらんぼ宿 厳選ガイド"} url={"https://croud-travel.pages.dev/yamagata-tendo-yamadera-cherry-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -423,6 +427,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"山形・天童温泉＆山寺立石寺：将棋の街・千段の石段絶景＆山形牛・さくらんぼ宿 厳選ガイド"} url={"https://croud-travel.pages.dev/yamagata-tendo-yamadera-cherry-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="yamagata-tendo-yamadera-cherry-stay" />
 </div>
   );

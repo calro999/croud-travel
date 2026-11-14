@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -113,6 +114,9 @@ export default function SeasonalFeaturePage() {
             もぎたてのシャインマスカットや巨峰、樽出しの出来立て新酒ワイン。心地よい秋風が吹くぶどう畑を巡り、夜は美肌の温泉とご当地マリアージュディナーに舌鼓を打つ大人の収穫祭ステイ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"秋の味覚狩り：ワイナリー巡り＆フルーツ温泉リゾート 厳選ガイド"} url={"https://croud-travel.pages.dev/autumn-wine-fruit-hunting/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function SeasonalFeaturePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"秋の味覚狩り：ワイナリー巡り＆フルーツ温泉リゾート 厳選ガイド"} url={"https://croud-travel.pages.dev/autumn-wine-fruit-hunting/"} />
+      </div>
       <HubRelatedPosts currentSlug="autumn-wine-fruit-hunting" />
 </div>
   );

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -240,6 +241,9 @@ export default function AichiInuyamaPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月愛知】現存最古の木造天守・国宝犬山城の冬絶景＆三光稲荷神社新春初詣！名美肌湯「白帝の湯」と本場名古屋コーチンを堪能する名宿5選"} url={"https://croud-travel.pages.dev/winter-aichi-inuyama-castle-kiso-river-nagoya-cochin-stay/"} />
+      </div>
 
       {/* Main Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
@@ -493,7 +497,7 @@ export default function AichiInuyamaPage() {
                     <a
                       href={hotel.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center justify-center gap-2 w-full py-3.5 px-6 rounded-xl bg-rose-700 hover:bg-rose-800 text-white font-bold text-sm shadow-xs transition-colors duration-200"
                     >
                       <span>楽天トラベルでプラン・空室を確認</span>
@@ -580,6 +584,9 @@ export default function AichiInuyamaPage() {
               <span className="text-rose-200 text-xs font-normal mt-1">11・12・1月の厳選記事を多数掲載</span>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月愛知】現存最古の木造天守・国宝犬山城の冬絶景＆三光稲荷神社新春初詣！名美肌湯「白帝の湯」と本場名古屋コーチンを堪能する名宿5選"} url={"https://croud-travel.pages.dev/winter-aichi-inuyama-castle-kiso-river-nagoya-cochin-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-aichi-inuyama-castle-kiso-river-nagoya-cochin-stay" />
 </div>
         </section>

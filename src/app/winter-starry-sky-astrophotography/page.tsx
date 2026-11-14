@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -113,6 +114,9 @@ export default function SeasonalFeaturePage() {
             人工の光が届かない大自然の中、見上げれば息をのむ満天の星空と流れ星。星空テラス、天体望遠鏡ドーム、星空案内人によるナイトツアー、露天風呂から星を仰ぐ極上の天体観測ステイをご紹介します。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"冬の天体観測：満天の星空＆天の川！絶景星空ホテル 厳選ガイド"} url={"https://croud-travel.pages.dev/winter-starry-sky-astrophotography/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function SeasonalFeaturePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"冬の天体観測：満天の星空＆天の川！絶景星空ホテル 厳選ガイド"} url={"https://croud-travel.pages.dev/winter-starry-sky-astrophotography/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-starry-sky-astrophotography" />
 </div>
   );

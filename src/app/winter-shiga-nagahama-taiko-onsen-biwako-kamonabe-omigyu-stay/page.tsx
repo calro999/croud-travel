@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月滋賀・長浜太閤温泉の初冬琵琶湖夕景と名物天然鴨鍋】秀吉ゆかりの含鉄泉＆極上近江牛すき焼きを堪能する湖北名宿5選',
     description: '11月から12月にかけて、日本最大の湖・琵琶湖の東岸に位置する長浜は、シベリアから優美なコハクチョウや水鳥が飛来し。',
     url: 'https://croud-travel.pages.dev/winter-shiga-nagahama-taiko-onsen-biwako-kamonabe-omigyu-stay/',
-    siteName: 'クラドトラベル (Croud Travel)',
+    siteName: '旅宿クラウド (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -257,6 +258,9 @@ export default function ShigaNagahamaWinterFeature() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月滋賀・長浜太閤温泉の初冬琵琶湖夕景と名物天然鴨鍋】秀吉ゆかりの含鉄泉＆極上近江牛すき焼きを堪能する湖北名宿5選"} url={"https://croud-travel.pages.dev/winter-shiga-nagahama-taiko-onsen-biwako-kamonabe-omigyu-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 space-y-16">
@@ -377,7 +381,7 @@ export default function ShigaNagahamaWinterFeature() {
                       </div>
                     </div>
 
-                    <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-amber-700 transition-colors"><a href={h.url} target="_blank" rel="noopener noreferrer">
+                    <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-amber-700 transition-colors"><a href={h.url} target="_blank" rel="sponsored noopener noreferrer">
                         {h.name}
                       </a></h3>
 
@@ -415,7 +419,7 @@ export default function ShigaNagahamaWinterFeature() {
                     <a
                       href={h.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-2xl bg-amber-600 hover:bg-amber-700 text-white font-bold text-sm shadow-sm hover:shadow transition-all"
                     >
                       楽天トラベルで空室・プランを見る
@@ -637,6 +641,9 @@ export default function ShigaNagahamaWinterFeature() {
               <p className="text-slate-300 text-[11px] line-clamp-2">日本屈指の高温泉「荒湯」と本場松葉ガニの炭火焼き・但馬牛。</p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月滋賀・長浜太閤温泉の初冬琵琶湖夕景と名物天然鴨鍋】秀吉ゆかりの含鉄泉＆極上近江牛すき焼きを堪能する湖北名宿5選"} url={"https://croud-travel.pages.dev/winter-shiga-nagahama-taiko-onsen-biwako-kamonabe-omigyu-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-shiga-nagahama-taiko-onsen-biwako-kamonabe-omigyu-stay" />
 </div>
         </section>

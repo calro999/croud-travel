@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function HistoryHeritageHubPage() {
             黒板塀にしだれ桜が揺れる武家屋敷、水運で栄えた八幡堀をゆく和舟、商人たちの富の象徴「うだつ」。国が選定した「重要伝統的建造物群保存地区（重伝建）」。職人の息遣いが残る歴史的建造物に泊まり、日本の美意識に浸る上質な休日。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"重要伝統的建造物群保存地区（重伝建）の町並み宿：角館・近江八幡・飛騨高山・美馬 厳選ガイド"} url={"https://croud-travel.pages.dev/japan-traditional-townscape-preservation-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆おすすめ宿 */}
@@ -231,6 +235,9 @@ export default function HistoryHeritageHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"重要伝統的建造物群保存地区（重伝建）の町並み宿：角館・近江八幡・飛騨高山・美馬 厳選ガイド"} url={"https://croud-travel.pages.dev/japan-traditional-townscape-preservation-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="japan-traditional-townscape-preservation-stay" />
 </div>
   );

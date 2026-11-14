@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import FurusatoStepSection from "@/app/components/FurusatoStepSection";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
@@ -96,6 +97,9 @@ export default function FurusatoAllInclusiveLuxuryStayPage() {
             </Link>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"オールインクルーシブで財布を気にせず寛ぐ極上温泉宿×ふるさと納税厳選ガイド作並・箱根宮ノ下・磐梯熱海"} url={"https://croud-travel.pages.dev/furusato-tax-all-inclusive-luxury-onsen-stay/"} />
+      </div>
 
         {/* 3つの醍醐味セクション */}
         <section className="mb-16">
@@ -517,6 +521,9 @@ export default function FurusatoAllInclusiveLuxuryStayPage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"オールインクルーシブで財布を気にせず寛ぐ極上温泉宿×ふるさと納税厳選ガイド作並・箱根宮ノ下・磐梯熱海"} url={"https://croud-travel.pages.dev/furusato-tax-all-inclusive-luxury-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-all-inclusive-luxury-onsen-stay" />
 </div>
         </section>

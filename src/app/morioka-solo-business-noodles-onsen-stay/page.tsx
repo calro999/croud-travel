@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -13,7 +14,7 @@ export const metadata: Metadata = {
     title: '盛岡出張＆麺都ひとり旅：盛岡駅近・天然温泉大浴場・盛岡三大麺（冷麺・じゃじゃ麺・わんこそば）！北東北の要所で整う極上宿 厳選3選',
     description: '東北・秋田新幹線の結節点・岩手県盛岡市！「JR盛岡駅前徒歩すぐで広々バスルーム完備」の「ダイワロイネットホテル盛岡駅前」、最上階に自家源泉の天然温泉大浴場と夜鳴きそば完備の「ドーミーイン盛岡」、駅直結で快適なワーク環境を誇る老舗「ホテルメトロポリタン盛岡 本館」を徹底比較。',
     url: 'https://croud-travel.pages.dev/morioka-solo-business-noodles-onsen-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -27,12 +28,12 @@ export default function ArticlePage() {
     description: '東北・秋田新幹線の結節点・岩手県盛岡市！「JR盛岡駅前徒歩すぐで広々バスルーム完備」の「ダイワロイネットホテル盛岡駅前」、最上階に自家源泉の天然温泉大浴場と夜鳴きそば完備の「ドーミーイン盛岡」、駅直結で快適なワーク環境を誇る老舗「ホテルメトロポリタン盛岡 本館」を徹底比較。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル ひとり旅・出張調査班',
+      name: '旅宿クラウド ひとり旅・出張調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -79,6 +80,9 @@ export default function ArticlePage() {
           東北・秋田新幹線の結節点・岩手県盛岡市！「JR盛岡駅前徒歩すぐで広々バスルーム完備」の「ダイワロイネットホテル盛岡駅前」、最上階に自家源泉の天然温泉大浴場と夜鳴きそば完備の「ドーミーイン盛岡」、駅直結で快適なワーク環境を誇る老舗「ホテルメトロポリタン盛岡 本館」を徹底比較。
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"盛岡出張＆麺都ひとり旅：盛岡駅近・天然温泉大浴場・盛岡三大麺（冷麺・じゃじゃ麺・わんこそば）！北東北の要所で整う極上宿 厳選3選"} url={"https://croud-travel.pages.dev/morioka-solo-business-noodles-onsen-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
@@ -381,7 +385,7 @@ export default function ArticlePage() {
             href="/"
             className="inline-flex items-center gap-2 text-sm text-stone-600 hover:text-stone-900 font-medium transition-colors"
           >
-            ← クラウドトラベル トップページへ戻る
+            ← 旅宿クラウド トップページへ戻る
           </Link>
         </div>
       </div>
@@ -473,6 +477,9 @@ export default function ArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"盛岡出張＆麺都ひとり旅：盛岡駅近・天然温泉大浴場・盛岡三大麺（冷麺・じゃじゃ麺・わんこそば）！北東北の要所で整う極上宿 厳選3選"} url={"https://croud-travel.pages.dev/morioka-solo-business-noodles-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="morioka-solo-business-noodles-onsen-stay" />
 </div>
         </section>

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -185,6 +186,9 @@ export default function DisneyTripPackingRegretsWorst5Page() {
           </p>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"ディズニー旅行で後悔したことワースト5：スマホ電池切れ・開園待ち寒暖差・靴擦れで地獄を見たリアル失敗談"} url={"https://croud-travel.pages.dev/disney-trip-packing-regrets-worst5-guide/"} />
+      </div>
 
       {/* 楽天トラベルクーポンプロモーション */}
       <section className="max-w-4xl mx-auto px-4 -mt-10 relative z-20">
@@ -464,6 +468,9 @@ export default function DisneyTripPackingRegretsWorst5Page() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"ディズニー旅行で後悔したことワースト5：スマホ電池切れ・開園待ち寒暖差・靴擦れで地獄を見たリアル失敗談"} url={"https://croud-travel.pages.dev/disney-trip-packing-regrets-worst5-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="disney-trip-packing-regrets-worst5-guide" />
 </div>
         </section>

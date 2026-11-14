@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             十円硬貨に描かれた極楽浄土の宮殿「平等院鳳凰堂」と、日本最高峰の茶文化が息づく「宇治」。名水・伏水が湧き出る白壁土蔵の酒蔵の街「伏見」。十石舟に揺られながら巡る水郷と、挽きたて宇治抹茶・伏見の銘酒を味わう雅な旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"京都・宇治＆伏見酒蔵：世界遺産平等院・宇治抹茶＆伏見十石舟・酒蔵宿 厳選ガイド"} url={"https://croud-travel.pages.dev/kyoto-uji-fushimi-sake-matcha-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"京都・宇治＆伏見酒蔵：世界遺産平等院・宇治抹茶＆伏見十石舟・酒蔵宿 厳選ガイド"} url={"https://croud-travel.pages.dev/kyoto-uji-fushimi-sake-matcha-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="kyoto-uji-fushimi-sake-matcha-stay" />
 </div>
   );

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Image from 'next/image';
@@ -63,12 +64,14 @@ export default function NagasakiBudgetAutumnPage() {
             長崎駅前や新地中華街周辺には、スタイリッシュなデザイナーズホテルや天然温泉付きホテルが揃い、1泊3,000円〜5,000円台から宿泊可能。坂道観光で歩き疲れた足腰を大浴場でしっかりほぐすことができます。
           </p>
         </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"秋の長崎×格安：グラバー園の秋バラと世界新三大夜景！大浴場付き1泊3,000円〜5,000円台のコスパ最強ホテル5選「2026最新」！大浴場付き1泊3,000円〜5,000円台のコスパ最強ホテル5選「2026最新」"} url={"https://croud-travel.pages.dev/autumn-budget-nagasaki-glover-garden-onsen-hotels-stay/"} />
+      </div>
 
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-teal-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！長崎の大浴場付き格安ホテル5選</h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">楽天トラベル高評価！長崎の大浴場付き格安ホテル5選</h2>
 
           <div className="space-y-8">
 
@@ -498,6 +501,9 @@ export default function NagasakiBudgetAutumnPage() {
               </div>
             </div>
           </div></section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"秋の長崎×格安：グラバー園の秋バラと世界新三大夜景！大浴場付き1泊3,000円〜5,000円台のコスパ最強ホテル5選「2026最新」！大浴場付き1泊3,000円〜5,000円台のコスパ最強ホテル5選「2026最新」"} url={"https://croud-travel.pages.dev/autumn-budget-nagasaki-glover-garden-onsen-hotels-stay/"} />
+      </div>
         <div className="max-w-4xl mx-auto px-4 sm:px-6">
           <HubRelatedPosts currentSlug="autumn-budget-nagasaki-glover-garden-onsen-hotels-stay" />
         </div>

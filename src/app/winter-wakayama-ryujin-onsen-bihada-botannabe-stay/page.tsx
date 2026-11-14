@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月和歌山・龍神温泉の初冬渓谷美と日本三美人の湯】名物紀州天然ぼたん鍋＆最高峰熊野牛会席を味わう隠れ家宿5選',
     description: '11月から12月にかけて、紀伊半島の奥深き山懐・日高川の上流に位置する「龍神温泉」は、山々の晩秋の紅葉が散り落ち。',
     url: 'https://croud-travel.pages.dev/winter-wakayama-ryujin-onsen-bihada-botannabe-stay/',
-    siteName: 'クラドトラベル (Croud Travel)',
+    siteName: '旅宿クラウド (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -257,6 +258,9 @@ export default function WakayamaRyujinWinterFeature() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月和歌山・龍神温泉の初冬渓谷美と日本三美人の湯】名物紀州天然ぼたん鍋＆最高峰熊野牛会席を味わう隠れ家宿5選"} url={"https://croud-travel.pages.dev/winter-wakayama-ryujin-onsen-bihada-botannabe-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 space-y-16">
@@ -384,7 +388,7 @@ export default function WakayamaRyujinWinterFeature() {
                     <a
                       href={h.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center gap-2 px-6 py-3 rounded-2xl bg-gradient-to-r from-emerald-600 to-emerald-700 text-white font-bold text-sm shadow-md hover:from-emerald-700 hover:to-emerald-800 transition-all"
                     >
                       楽天トラベルでプランを見る
@@ -594,6 +598,9 @@ export default function WakayamaRyujinWinterFeature() {
               <p className="text-slate-300 text-[11px] line-clamp-2">京都の奥座敷で味わう伝統の丹波猪肉と静寂の温泉リトリート。</p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月和歌山・龍神温泉の初冬渓谷美と日本三美人の湯】名物紀州天然ぼたん鍋＆最高峰熊野牛会席を味わう隠れ家宿5選"} url={"https://croud-travel.pages.dev/winter-wakayama-ryujin-onsen-bihada-botannabe-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-wakayama-ryujin-onsen-bihada-botannabe-stay" />
 </div>
         </section>

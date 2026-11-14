@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -309,6 +310,9 @@ export default function TakeoWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月武雄温泉の冬名湯と最高峰佐賀牛】国重文・朱塗り楼門と1300年美肌古湯・御船山初冬風情＆極上佐賀牛会席の宿5選"} url={"https://croud-travel.pages.dev/winter-saga-takeo-onsen-romon-saga-beef-stay/"} />
+      </div>
 
       {/* Main Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
@@ -521,7 +525,7 @@ export default function TakeoWinterPage() {
                       <a
                         href={hotel.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-2 px-6 py-3 bg-amber-800 hover:bg-amber-900 text-white text-sm font-bold rounded-xl transition duration-200 shadow-md group"
                       >
                         <span>空室・宿泊プランを確認</span>
@@ -684,6 +688,9 @@ export default function TakeoWinterPage() {
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">全国の厳選温泉・宿特集まとめを見る</h3>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月武雄温泉の冬名湯と最高峰佐賀牛】国重文・朱塗り楼門と1300年美肌古湯・御船山初冬風情＆極上佐賀牛会席の宿5選"} url={"https://croud-travel.pages.dev/winter-saga-takeo-onsen-romon-saga-beef-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-saga-takeo-onsen-romon-saga-beef-stay" />
 </div>
         </section>

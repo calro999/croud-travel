@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             温暖な瀬戸内海に浮かぶ「小豆島」。1日2回干潮時だけに現れる神秘の砂の道「エンジェルロード」。岩肌と紅葉が織りなす「寒霞渓」の絶景。オリーブの風を感じる温泉リゾートと、極上のオリーブ牛に舌鼓を打つ島旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"香川・小豆島：エンジェルロード・寒霞渓＆オリーブ牛・海辺リゾート 厳選ガイド"} url={"https://croud-travel.pages.dev/kagawa-shodoshima-olive-beach-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -423,6 +427,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"香川・小豆島：エンジェルロード・寒霞渓＆オリーブ牛・海辺リゾート 厳選ガイド"} url={"https://croud-travel.pages.dev/kagawa-shodoshima-olive-beach-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="kagawa-shodoshima-olive-beach-stay" />
 </div>
   );

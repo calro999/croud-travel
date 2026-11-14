@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import FurusatoStepSection from "@/app/components/FurusatoStepSection";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
@@ -96,6 +97,9 @@ export default function FurusatoSotoyuMeguriTownStayPage() {
             </Link>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"カランコロンと下駄を鳴らす外湯めぐり＆情緒あふれる浴衣散策名門温泉宿×ふるさと納税厳選ガイド城崎・野沢温泉・渋温泉"} url={"https://croud-travel.pages.dev/furusato-tax-sotoyu-meguri-historic-onsen-town-stay/"} />
+      </div>
 
         {/* 3つの醍醐味セクション */}
         <section className="mb-16">
@@ -517,6 +521,9 @@ export default function FurusatoSotoyuMeguriTownStayPage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"カランコロンと下駄を鳴らす外湯めぐり＆情緒あふれる浴衣散策名門温泉宿×ふるさと納税厳選ガイド城崎・野沢温泉・渋温泉"} url={"https://croud-travel.pages.dev/furusato-tax-sotoyu-meguri-historic-onsen-town-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-sotoyu-meguri-historic-onsen-town-stay" />
 </div>
         </section>

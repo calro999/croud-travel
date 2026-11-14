@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -107,6 +108,9 @@ export default function MicroTouristHubPage() {
             豊後富士と呼ばれる秀峰・由布岳の裾野に広がる日本屈指の温泉保養地「由布院（湯布院）」。清水と温泉が同時に湧き出る不思議な「金鱗湖」に立ちこめる幻想的な朝霧。木立の中に静かに佇む数奇屋造りの離れ宿、鳥のさえずりと共に楽しむ客室専用露天風呂、そして湯の坪街道のアート散策。大人が心から寛げる洗練された隠れ家リゾートへご案内します。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【大分・由布院＆金鱗湖】朝霧の湖・離れ客室露天宿 完全ガイド"} url={"https://croud-travel.pages.dev/oita-yufuin-kinrin-lake-retreat-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【大分・由布院＆金鱗湖】朝霧の湖・離れ客室露天宿 完全ガイド"} url={"https://croud-travel.pages.dev/oita-yufuin-kinrin-lake-retreat-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="oita-yufuin-kinrin-lake-retreat-stay" />
 </div>
   );

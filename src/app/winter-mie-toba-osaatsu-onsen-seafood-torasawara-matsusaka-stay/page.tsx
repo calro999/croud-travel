@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月鳥羽・相差温泉＆答志島】現役海女の里で喰らう冬の豪快舟盛り・旬の答志島トロさわら＆活伊勢海老・的矢牡蠣と極上松阪牛を味わう名宿5選',
     description: '11月中旬から初冬の伊勢志摩は、鳥羽湾と黒潮が交わる相差（おうさつ）において海の幸が一年で最も豊潤に実る奇跡の季節です。',
     url: 'https://croud-travel.pages.dev/winter-mie-toba-osaatsu-onsen-seafood-torasawara-matsusaka-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -49,7 +50,7 @@ export default function MieTobaOsaatsuWinterPage() {
         "isPartOf": {
           "@type": "WebSite",
           "@id": "https://croud-travel.pages.dev/#website",
-          "name": "クラドトラベル",
+          "name": "旅宿クラウド",
           "url": "https://croud-travel.pages.dev/"
         },
         "headline": "【11・12月鳥羽・相差温泉＆答志島】現役海女の里で喰らう冬の豪快舟盛り・旬の答志島トロさわら＆活伊勢海老・的矢牡蠣と極上松阪牛を味わう名宿5選",
@@ -60,7 +61,7 @@ export default function MieTobaOsaatsuWinterPage() {
         "mainEntityOfPage": "https://croud-travel.pages.dev/winter-mie-toba-osaatsu-onsen-seafood-torasawara-matsusaka-stay/",
         "publisher": {
           "@type": "Organization",
-          "name": "クラドトラベル編集部",
+          "name": "旅宿クラウド編集部",
           "url": "https://croud-travel.pages.dev/"
         }
       },
@@ -339,6 +340,9 @@ export default function MieTobaOsaatsuWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月鳥羽・相差温泉＆答志島】現役海女の里で喰らう冬の豪快舟盛り・旬の答志島トロさわら＆活伊勢海老・的矢牡蠣と極上松阪牛を味わう名宿5選"} url={"https://croud-travel.pages.dev/winter-mie-toba-osaatsu-onsen-seafood-torasawara-matsusaka-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-10 sm:pt-14 space-y-12">
@@ -450,7 +454,7 @@ export default function MieTobaOsaatsuWinterPage() {
                         <a
                           href={hotel.url}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="inline-flex items-center gap-1.5 bg-blue-800 hover:bg-blue-900 text-white text-xs sm:text-sm font-bold px-4 py-2.5 rounded-xl transition shadow-xs"
                         >
                           プラン一覧を見る
@@ -620,6 +624,9 @@ export default function MieTobaOsaatsuWinterPage() {
               </p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月鳥羽・相差温泉＆答志島】現役海女の里で喰らう冬の豪快舟盛り・旬の答志島トロさわら＆活伊勢海老・的矢牡蠣と極上松阪牛を味わう名宿5選"} url={"https://croud-travel.pages.dev/winter-mie-toba-osaatsu-onsen-seafood-torasawara-matsusaka-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-mie-toba-osaatsu-onsen-seafood-torasawara-matsusaka-stay" />
 </div>
         </section>

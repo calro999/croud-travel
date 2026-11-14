@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月奈良・大和路奈良町温泉の初冬古都散策と若草山冬景色】名物極上大和牛すき焼き＆飛鳥鍋・東大寺大仏殿を望む歴史名宿5選',
     description: '11月から12月にかけて、1300年の歴史を誇る古都・奈良は、秋の喧騒が落ち着きを取り戻し。',
     url: 'https://croud-travel.pages.dev/winter-nara-yamatoji-wakakusayama-yamatogyu-asukabeef-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -170,7 +171,7 @@ export default function WinterNaraYamatojiPage() {
         'isPartOf': {
           '@type': 'WebSite',
           '@id': 'https://croud-travel.pages.dev/#website',
-          'name': 'クラドトラベル',
+          'name': '旅宿クラウド',
           'url': 'https://croud-travel.pages.dev/'
         },
         'headline': "【11・12月奈良・大和路奈良町温泉の初冬古都散策と若草山冬景色】名物極上大和牛すき焼き＆飛鳥鍋・東大寺大仏殿を望む歴史名宿5選",
@@ -181,7 +182,7 @@ export default function WinterNaraYamatojiPage() {
         'dateModified': '2026-10-25T00:00:00+09:00',
         'publisher': {
           '@type': 'Organization',
-          'name': 'クラドトラベル編集部',
+          'name': '旅宿クラウド編集部',
           'url': 'https://croud-travel.pages.dev/'
         }
       },
@@ -273,6 +274,9 @@ export default function WinterNaraYamatojiPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月奈良・大和路奈良町温泉の初冬古都散策と若草山冬景色】名物極上大和牛すき焼き＆飛鳥鍋・東大寺大仏殿を望む歴史名宿5選"} url={"https://croud-travel.pages.dev/winter-nara-yamatoji-wakakusayama-yamatogyu-asukabeef-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
@@ -397,7 +401,7 @@ export default function WinterNaraYamatojiPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug hover:text-amber-800 transition"><a href={hotel.url} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1.5">
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug hover:text-amber-800 transition"><a href={hotel.url} target="_blank" rel="sponsored noopener noreferrer" className="inline-flex items-center gap-1.5">
                           {hotel.name}
                           <ExternalLink className="w-4 h-4 text-stone-400 inline" />
                         </a></h3>
@@ -440,7 +444,7 @@ export default function WinterNaraYamatojiPage() {
                       <a
                         href={hotel.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center justify-center w-full sm:w-auto px-6 py-3 rounded-xl bg-gradient-to-r from-amber-800 to-stone-950 text-white text-xs sm:text-sm font-bold shadow-md hover:from-amber-900 hover:to-black hover:shadow-lg transition-all gap-2"
                       >
                         <span>楽天トラベルでプラン・空室・最新料金を見る</span>
@@ -610,6 +614,9 @@ export default function WinterNaraYamatojiPage() {
               </p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月奈良・大和路奈良町温泉の初冬古都散策と若草山冬景色】名物極上大和牛すき焼き＆飛鳥鍋・東大寺大仏殿を望む歴史名宿5選"} url={"https://croud-travel.pages.dev/winter-nara-yamatoji-wakakusayama-yamatogyu-asukabeef-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-nara-yamatoji-wakakusayama-yamatogyu-asukabeef-stay" />
 </div>
         </section>

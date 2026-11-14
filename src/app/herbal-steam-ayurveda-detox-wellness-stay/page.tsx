@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
@@ -36,7 +37,7 @@ export default function Page() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "薬草ハーブ蒸し＆本格アーユルヴェーダ宿完全ガイド【酵素風呂・体内浄化】 | クラウドトラベル",
+    "headline": "薬草ハーブ蒸し＆本格アーユルヴェーダ宿完全ガイド【酵素風呂・体内浄化】 | 旅宿クラウド",
     "description": "和草ハーブやよもぎスチームサウナ、本格アーユルヴェーダ（シロダーラ）、米ぬか酵素風呂、発酵薬膳料理で心身をリセットするウェルネスステイ。極上のデトックスリトリート。",
     "url": "https://croud-travel.pages.dev/herbal-steam-ayurveda-detox-wellness-stay/",
     "publisher": {
@@ -50,7 +51,7 @@ export default function Page() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "薬草ハーブ蒸し＆本格アーユルヴェーダ宿完全ガイド【酵素風呂・体内浄化】 | クラウドトラベル", "item": "https://croud-travel.pages.dev/herbal-steam-ayurveda-detox-wellness-stay/" }
+      { "@type": "ListItem", "position": 2, "name": "薬草ハーブ蒸し＆本格アーユルヴェーダ宿完全ガイド【酵素風呂・体内浄化】 | 旅宿クラウド", "item": "https://croud-travel.pages.dev/herbal-steam-ayurveda-detox-wellness-stay/" }
     ]
   };
 
@@ -81,6 +82,9 @@ export default function Page() {
             古来より日本に自生するよもぎや和ハーブの蒸気に包まれる薬草スチームサウナ、数千年の歴史を持つインド・スリランカ伝統医学に基づくアーユルヴェーダの温かいオイルトリートメント、そして微生物の発酵熱で全身を温める米ぬか酵素風呂。単なるリラクゼーションを超え、体内に溜まった老廃物を排出し、本来の生命力と自然治癒力を呼び覚ます大人のヘルスツーリズムをお届けします。
           </p>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"薬草ハーブ蒸し＆本格アーユルヴェーダ宿厳選ガイド「酵素風呂・体内浄化」"} url={"https://croud-travel.pages.dev/herbal-steam-ayurveda-detox-wellness-stay/"} />
+      </div>
 
         {/* メインコンテンツセクション */}
         
@@ -308,8 +312,7 @@ export default function Page() {
 
         {/* よくある質問 FAQ */}
         <section className="mb-16 bg-white rounded-2xl shadow-sm border border-emerald-900/10 p-6 md:p-8">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2"><span className="w-2 h-7 bg-emerald-700 rounded-full inline-block"></span>
-            よくある質問・サウナリゾートの楽しみ方</h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">よくある質問・サウナリゾートの楽しみ方</h2>
           <div className="space-y-4">
             
             <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
@@ -500,6 +503,9 @@ export default function Page() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"薬草ハーブ蒸し＆本格アーユルヴェーダ宿厳選ガイド「酵素風呂・体内浄化」"} url={"https://croud-travel.pages.dev/herbal-steam-ayurveda-detox-wellness-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="herbal-steam-ayurveda-detox-wellness-stay" />
 </div>
         </section>

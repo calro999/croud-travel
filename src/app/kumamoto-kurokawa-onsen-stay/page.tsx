@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             杉木立に囲まれた山あいの渓流沿いに、統一された黒と木目の落ち着いた旅館が連なる「黒川温泉」。入湯手形を首から下げて下駄を鳴らし、個性豊かな露天風呂を巡る極上の癒やし旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"熊本・黒川温泉：入湯手形＆渓流露天風呂めぐり極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/kumamoto-kurokawa-onsen-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"熊本・黒川温泉：入湯手形＆渓流露天風呂めぐり極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/kumamoto-kurokawa-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="kumamoto-kurokawa-onsen-stay" />
 </div>
   );

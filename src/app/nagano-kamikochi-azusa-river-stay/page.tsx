@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             マイカー規制によって守られた日本屈指の山岳景勝地「上高地」。梓川にかかる河童橋から仰ぐ穂高連峰の威容。朝靄に包まれる大正池の静寂と、大自然の中で過ごす贅沢なクラシックホテルステイ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"長野・上高地＆大正池：河童橋・穂高連峰＆梓川クラシック宿 厳選ガイド"} url={"https://croud-travel.pages.dev/nagano-kamikochi-azusa-river-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -423,6 +427,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"長野・上高地＆大正池：河童橋・穂高連峰＆梓川クラシック宿 厳選ガイド"} url={"https://croud-travel.pages.dev/nagano-kamikochi-azusa-river-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="nagano-kamikochi-azusa-river-stay" />
 </div>
   );

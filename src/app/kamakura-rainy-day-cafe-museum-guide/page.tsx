@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -180,6 +181,9 @@ export default function KamakuraRainyDayCafeMuseumPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"鎌倉・江の島 雨の日の過ごし方：しっとり濡れる古刹・小町通りアーケード・新江ノ島水族館デート"} url={"https://croud-travel.pages.dev/kamakura-rainy-day-cafe-museum-guide/"} />
+      </div>
 
       {/* 楽天トラベルスペシャルクーポンバナー */}
       <section className="max-w-4xl mx-auto px-4 sm:px-6 -mt-8 relative z-20">
@@ -612,6 +616,9 @@ export default function KamakuraRainyDayCafeMuseumPage() {
 
       </main>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"鎌倉・江の島 雨の日の過ごし方：しっとり濡れる古刹・小町通りアーケード・新江ノ島水族館デート"} url={"https://croud-travel.pages.dev/kamakura-rainy-day-cafe-museum-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="kamakura-rainy-day-cafe-museum-guide" />
 </div>
   );

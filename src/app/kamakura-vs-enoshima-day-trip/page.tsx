@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -75,10 +76,13 @@ export default function KamakuraVsEnoshimaPage() {
             実は、<strong>使える時間が「半日」か「丸1日」かで、最適なルートは全く異なります。</strong>
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"鎌倉 vs 江の島 日帰りならどっち？：半日・1日コース別の楽しみ方＆費用を厳選ガイド"} url={"https://croud-travel.pages.dev/kamakura-vs-enoshima-day-trip/"} />
+      </div>
       </section>
 
       <section className="px-4">
-        <h2 className="text-2xl md:text-3xl font-bold text-gray-800 mb-8 font-journal-serif text-center">⏳ 時間別ベストアンサー</h2>
+        <h2 className="text-2xl md:text-3xl font-bold text-gray-800 mb-8 font-journal-serif text-center">時間別ベストアンサー</h2>
         <div className="grid md:grid-cols-2 gap-8">
           <div className="bg-white border-t-8 border-indigo-500 rounded-2xl p-8 shadow-lg hover:shadow-xl transition-shadow">
             <div className="text-center mb-6">
@@ -493,6 +497,9 @@ export default function KamakuraVsEnoshimaPage() {
             </div>
           </div></section>
 
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"鎌倉 vs 江の島 日帰りならどっち？：半日・1日コース別の楽しみ方＆費用を厳選ガイド"} url={"https://croud-travel.pages.dev/kamakura-vs-enoshima-day-trip/"} />
+      </div>
       <HubRelatedPosts currentSlug="kamakura-vs-enoshima-day-trip" />
 </div>
   );

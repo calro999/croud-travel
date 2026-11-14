@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -113,6 +114,9 @@ export default function SeasonalFeaturePage() {
             パチパチと薪が爆ぜる焚き火の温もり、冷えた体に染み渡る天然温泉、暖房完備の快適な大型ドームテント。手ぶらで豪華なBBQやアウトドア体験を満喫できる秋・冬の贅沢リゾートステイ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"秋・冬キャンプ：薪ストーブ＆焚き火・天然温泉グランピング 厳選ガイド"} url={"https://croud-travel.pages.dev/autumn-winter-glamping-tent/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function SeasonalFeaturePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"秋・冬キャンプ：薪ストーブ＆焚き火・天然温泉グランピング 厳選ガイド"} url={"https://croud-travel.pages.dev/autumn-winter-glamping-tent/"} />
+      </div>
       <HubRelatedPosts currentSlug="autumn-winter-glamping-tent" />
 </div>
   );

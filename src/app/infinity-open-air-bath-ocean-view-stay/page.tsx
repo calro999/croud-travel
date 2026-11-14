@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function HeritageOnsenHubPage() {
             湯船の縁がなく、視界一面の海や湖、大空と溶け合う奇跡の絶景「インフィニティ露天風呂」。まるで大自然に浮かんでいるかのような圧倒的な開放感。夕陽が水平線に沈む黄金のマジックアワーと、波音に包まれる至高の温泉体験。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"絶景インフィニティ露天風呂の宿：海・空・湖と一体化する圧倒的パノラマ 厳選ガイド"} url={"https://croud-travel.pages.dev/infinity-open-air-bath-ocean-view-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆おすすめ宿 */}
@@ -392,6 +396,9 @@ export default function HeritageOnsenHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"絶景インフィニティ露天風呂の宿：海・空・湖と一体化する圧倒的パノラマ 厳選ガイド"} url={"https://croud-travel.pages.dev/infinity-open-air-bath-ocean-view-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="infinity-open-air-bath-ocean-view-stay" />
 </div>
   );

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             大自然の渓谷や森林の上空を一気に滑走するメガジップライン！爽快なアドベンチャー体験と、疲れた体を癒やす天然温泉・絶景露天風呂を兼ね備えた人気リゾートホテルを厳選紹介。カップルやファミリーにも最適！
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"爽快アクティビティ：森と渓谷を空中滑走ジップライン！自然体験＆温泉が楽しめる大自然リゾート宿5選"} url={"https://croud-travel.pages.dev/super-panoramic-canyon-zip-line-adventure-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"爽快アクティビティ：森と渓谷を空中滑走ジップライン！自然体験＆温泉が楽しめる大自然リゾート宿5選"} url={"https://croud-travel.pages.dev/super-panoramic-canyon-zip-line-adventure-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="super-panoramic-canyon-zip-line-adventure-stay" />
 </div>
         </section>

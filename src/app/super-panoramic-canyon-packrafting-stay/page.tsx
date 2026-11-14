@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -128,6 +129,9 @@ export default function FeaturePage() {
             折りたたんで持ち運べる超軽量ボート「パックラフト」で楽しむ新感覚リバーアクティビティ！エメラルドグリーンの清流を自分のパドルで下った後は、渓谷美を一望する露天風呂とサウナで極上のととのいを。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"超軽量パックラフト冒険：清流の静水と急流を漕ぎ抜ける！奥多摩・みなかみ渓谷温泉宿5選"} url={"https://croud-travel.pages.dev/super-panoramic-canyon-packrafting-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -420,6 +424,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"超軽量パックラフト冒険：清流の静水と急流を漕ぎ抜ける！奥多摩・みなかみ渓谷温泉宿5選"} url={"https://croud-travel.pages.dev/super-panoramic-canyon-packrafting-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="super-panoramic-canyon-packrafting-stay" />
 </div>
         </section>

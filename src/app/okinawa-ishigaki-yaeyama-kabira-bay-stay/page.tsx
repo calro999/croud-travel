@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -107,6 +108,9 @@ export default function MicroTouristHubPage() {
             八重山諸島の玄関口にして、世界屈指の透明度を誇るエメラルドブルーの海に囲まれた南国パラダイス「石垣島」。太陽の光で刻一刻と海の色を変える「川平湾（かびらわん）」の奇跡の美しさ。赤瓦集落が残る竹富島や大自然の西表島へのアイランドホッピング。日本初の国際星空保護区に認定された満天の天の川と、石垣牛の芳醇な肉汁を味わう極上のアイランドリゾートステイへご案内します。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"沖縄・石垣島＆八重山：川平湾・離島ホッピング＆石垣牛宿 厳選ガイド"} url={"https://croud-travel.pages.dev/okinawa-ishigaki-yaeyama-kabira-bay-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"沖縄・石垣島＆八重山：川平湾・離島ホッピング＆石垣牛宿 厳選ガイド"} url={"https://croud-travel.pages.dev/okinawa-ishigaki-yaeyama-kabira-bay-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="okinawa-ishigaki-yaeyama-kabira-bay-stay" />
 </div>
   );

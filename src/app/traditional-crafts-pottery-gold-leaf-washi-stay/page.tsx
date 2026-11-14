@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
@@ -36,7 +37,7 @@ export default function Page() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "伝統工芸体験宿完全ガイド【金沢金箔・越前和紙・有田焼陶芸ステイ】 | クラウドトラベル",
+    "headline": "伝統工芸体験宿完全ガイド【金沢金箔・越前和紙・有田焼陶芸ステイ】 | 旅宿クラウド",
     "description": "金沢の金箔貼り＆九谷焼絵付け、福井の越前和紙漉き・越前焼、佐賀の有田焼・波佐見焼の窯元巡りを特集。職人の手仕事を間近で体感し、自作の器や工芸品を持ち帰る特別なクラフトリゾート。",
     "url": "https://croud-travel.pages.dev/traditional-crafts-pottery-gold-leaf-washi-stay/",
     "publisher": {
@@ -50,7 +51,7 @@ export default function Page() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "伝統工芸体験宿完全ガイド【金沢金箔・越前和紙・有田焼陶芸ステイ】 | クラウドトラベル", "item": "https://croud-travel.pages.dev/traditional-crafts-pottery-gold-leaf-washi-stay/" }
+      { "@type": "ListItem", "position": 2, "name": "伝統工芸体験宿完全ガイド【金沢金箔・越前和紙・有田焼陶芸ステイ】 | 旅宿クラウド", "item": "https://croud-travel.pages.dev/traditional-crafts-pottery-gold-leaf-washi-stay/" }
     ]
   };
 
@@ -81,6 +82,9 @@ export default function Page() {
             金沢の1万分の1ミリまで薄く打ち延ばされた金箔工芸、千五百年の歴史を持つ越前和紙の手漉き体験、そして有田・波佐見の登り窯と白磁の器作り。見るだけでなく、名工の手ほどきを受けながら自分だけの一品を作り上げる贅沢。館内の調度品や料理を彩る器にも最高峰の工芸品が使われ、日本の職人魂と手仕事の温もりに浸るクリエイティブな旅へご案内します。
           </p>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"伝統工芸体験宿厳選ガイド「金沢金箔・越前和紙・有田焼陶芸ステイ」"} url={"https://croud-travel.pages.dev/traditional-crafts-pottery-gold-leaf-washi-stay/"} />
+      </div>
 
         {/* メインコンテンツセクション */}
         
@@ -308,8 +312,7 @@ export default function Page() {
 
         {/* よくある質問 FAQ */}
         <section className="mb-16 bg-white rounded-2xl shadow-sm border border-stone-200/80 p-6 md:p-8">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2"><span className="w-2 h-7 bg-amber-700 rounded-full inline-block"></span>
-            よくある質問・伝統文化体験＆宿坊の楽しみ方</h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">よくある質問・伝統文化体験＆宿坊の楽しみ方</h2>
           <div className="space-y-4">
             
             <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
@@ -500,6 +503,9 @@ export default function Page() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"伝統工芸体験宿厳選ガイド「金沢金箔・越前和紙・有田焼陶芸ステイ」"} url={"https://croud-travel.pages.dev/traditional-crafts-pottery-gold-leaf-washi-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="traditional-crafts-pottery-gold-leaf-washi-stay" />
 </div>
         </section>

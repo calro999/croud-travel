@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function SakeTourismHubPage() {
             湯上がりの火照った身体に、冷えた大吟醸をクイッと一杯。館内ラウンジにズラリと並ぶ銘酒サーバーや利き酒Bar。「日本酒飲み放題＆オールインクルーシブ温泉宿」。財布を気にせず、各地の純米大吟醸や季節のひやおろしを心ゆくまで飲み比べ。贅沢な大人の湯浴みへ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"日本酒飲み放題＆利き酒Bar完備温泉宿：インクルーシブ・銘酒ラウンジ 厳選ガイド"} url={"https://croud-travel.pages.dev/all-inclusive-sake-free-flow-tasting-bar-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆厳選宿 */}
@@ -392,6 +396,9 @@ export default function SakeTourismHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"日本酒飲み放題＆利き酒Bar完備温泉宿：インクルーシブ・銘酒ラウンジ 厳選ガイド"} url={"https://croud-travel.pages.dev/all-inclusive-sake-free-flow-tasting-bar-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="all-inclusive-sake-free-flow-tasting-bar-stay" />
 </div>
   );

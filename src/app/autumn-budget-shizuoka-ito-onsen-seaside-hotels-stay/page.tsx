@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Image from 'next/image';
@@ -63,12 +64,14 @@ export default function ItoBudgetAutumnPage() {
             近隣には湖畔を真っ赤なモミジが包み込む「一碧湖（いっぺきこ）」やすすきが一面に広がる「大室山」など秋の絶景が満載。伊東港直送の金目鯛やアジなどの海の幸も絶品で、1泊数千円台とは思えない大満足の秋旅が叶います。
           </p>
         </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"秋の伊東温泉×格安：伊豆高原の紅葉とオーシャンビュー！1泊4,000円台〜のコスパ最強おすすめ温泉宿5選「2026最新」"} url={"https://croud-travel.pages.dev/autumn-budget-shizuoka-ito-onsen-seaside-hotels-stay/"} />
+      </div>
 
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-teal-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！伊東温泉の格安名宿5選</h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">楽天トラベル高評価！伊東温泉の格安名宿5選</h2>
 
           <div className="space-y-8">
 
@@ -498,6 +501,9 @@ export default function ItoBudgetAutumnPage() {
               </div>
             </div>
           </div></section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"秋の伊東温泉×格安：伊豆高原の紅葉とオーシャンビュー！1泊4,000円台〜のコスパ最強おすすめ温泉宿5選「2026最新」"} url={"https://croud-travel.pages.dev/autumn-budget-shizuoka-ito-onsen-seaside-hotels-stay/"} />
+      </div>
         <div className="max-w-4xl mx-auto px-4 sm:px-6">
           <HubRelatedPosts currentSlug="autumn-budget-shizuoka-ito-onsen-seaside-hotels-stay" />
         </div>

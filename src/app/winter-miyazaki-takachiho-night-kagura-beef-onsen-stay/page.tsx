@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
     title: '【11・12・1月宮崎】国の重要無形民俗文化財・高千穂の「夜神楽」と神秘の高千穂峡・最高峰「高千穂牛」＆天岩戸神社初詣を巡る神話の冬名宿5選',
     description: '11月中旬から2月上旬、神話の里・宮崎県高千穂町では、国の重要無形民俗文化財に指定されている「高千穂の夜神楽（よかぐら）」が奉納される冬の神。',
     url: 'https://croud-travel.pages.dev/winter-miyazaki-takachiho-night-kagura-beef-onsen-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     images: [
       {
         url: 'https://img.travel.rakuten.co.jp/share/HOTEL/30082/30082.jpg',
@@ -49,12 +50,12 @@ export default function MiyazakiTakachihoNightKaguraWinterPage() {
     dateModified: '',
     author: {
       '@type': 'Organization',
-      name: 'クラドトラベル編集部',
+      name: '旅宿クラウド編集部',
       url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png'
@@ -293,6 +294,9 @@ export default function MiyazakiTakachihoNightKaguraWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月宮崎】国の重要無形民俗文化財・高千穂の「夜神楽」と神秘の高千穂峡・最高峰「高千穂牛」＆天岩戸神社初詣を巡る神話の冬名宿5選"} url={"https://croud-travel.pages.dev/winter-miyazaki-takachiho-night-kagura-beef-onsen-stay/"} />
+      </div>
 
       {/* Main Content Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 pt-12 space-y-16">
@@ -492,7 +496,7 @@ export default function MiyazakiTakachihoNightKaguraWinterPage() {
                       <a 
                         href={h.url} 
                         target="_blank" 
-                        rel="noopener noreferrer" 
+                        rel="sponsored noopener noreferrer" 
                         className="w-full sm:w-auto inline-flex items-center justify-center gap-2 bg-gradient-to-r from-rose-800 to-slate-900 hover:from-rose-900 hover:to-slate-950 text-white font-bold px-6 py-3.5 rounded-xl shadow-md transition-all text-sm group"
                       >
                         <span>楽天トラベルで空室・プランを見る</span>
@@ -665,6 +669,9 @@ export default function MiyazakiTakachihoNightKaguraWinterPage() {
               <span className="text-xs text-rose-300 mt-2 block font-medium">全特集をチェック ➔</span>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月宮崎】国の重要無形民俗文化財・高千穂の「夜神楽」と神秘の高千穂峡・最高峰「高千穂牛」＆天岩戸神社初詣を巡る神話の冬名宿5選"} url={"https://croud-travel.pages.dev/winter-miyazaki-takachiho-night-kagura-beef-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-miyazaki-takachiho-night-kagura-beef-onsen-stay" />
 </div>
         </section>

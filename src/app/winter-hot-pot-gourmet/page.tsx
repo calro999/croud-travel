@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -113,6 +114,9 @@ export default function SeasonalFeaturePage() {
             湯気が立ち上る土鍋を囲み、旬の地場食材と秘伝の出汁を味わう至福のひととき。熱々の鍋料理でお腹を満たし、体の芯から温まる温泉旅館で極上の冬籠りステイを。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【冬のご馳走】あったかご当地鍋＆極上温泉旅館 完全ガイド"} url={"https://croud-travel.pages.dev/winter-hot-pot-gourmet/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function SeasonalFeaturePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【冬のご馳走】あったかご当地鍋＆極上温泉旅館 完全ガイド"} url={"https://croud-travel.pages.dev/winter-hot-pot-gourmet/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-hot-pot-gourmet" />
 </div>
   );

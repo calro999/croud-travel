@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
     title: '【11・12・1月栃木】平家落人の隠れ里・湯西川温泉の雪見露天風呂と名物平家囲炉裏会席＆日本夜景遺産かまくら祭を巡る名宿5選',
     description: '11月から1月、日光国立公園の最深部・平家落人伝説が息づく秘境「湯西川（ゆにしがわ）温泉」は、深山幽谷の静寂と白銀の雪景色に包まれます。',
     url: 'https://croud-travel.pages.dev/winter-tochigi-yunishigawa-onsen-kamakura-irori-stay/',
-    siteName: 'クラドトラベル',
+    siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -56,12 +57,12 @@ export default function TochigiYunishigawaOnsenWinterPage() {
         "dateModified": "2026-10-18T00:00:00+09:00",
         "author": {
           "@type": "Organization",
-          "name": "クラドトラベル 秘湯・歴史探訪取材班",
+          "name": "旅宿クラウド 秘湯・歴史探訪取材班",
           "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
-          "name": "クラドトラベル",
+          "name": "旅宿クラウド",
           "url": "https://croud-travel.pages.dev",
           "logo": {
             "@type": "ImageObject",
@@ -256,6 +257,9 @@ export default function TochigiYunishigawaOnsenWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月栃木】平家落人の隠れ里・湯西川温泉の雪見露天風呂と名物平家囲炉裏会席＆日本夜景遺産かまくら祭を巡る名宿5選"} url={"https://croud-travel.pages.dev/winter-tochigi-yunishigawa-onsen-kamakura-irori-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 mt-10 space-y-12">
@@ -361,7 +365,7 @@ export default function TochigiYunishigawaOnsenWinterPage() {
                       <a 
                         href={h.url}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-1.5 bg-amber-700 hover:bg-amber-800 text-white font-bold text-xs px-4 py-2 rounded-xl shadow-xs transition"
                       >
                         楽天トラベルで空室・プランを見る
@@ -550,6 +554,9 @@ export default function TochigiYunishigawaOnsenWinterPage() {
               <p className="font-bold text-stone-800 line-clamp-2">初冬の片品渓谷美と美肌単純硫黄泉・極上上州牛すき焼き名宿</p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月栃木】平家落人の隠れ里・湯西川温泉の雪見露天風呂と名物平家囲炉裏会席＆日本夜景遺産かまくら祭を巡る名宿5選"} url={"https://croud-travel.pages.dev/winter-tochigi-yunishigawa-onsen-kamakura-irori-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-tochigi-yunishigawa-onsen-kamakura-irori-stay" />
 </div>
         </section>

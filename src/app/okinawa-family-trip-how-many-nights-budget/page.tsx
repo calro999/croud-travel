@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -174,6 +175,9 @@ export default function OkinawaFamilyTripNightsBudgetPage() {
             </span>
           </div>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"子連れ沖縄旅行 何泊がベスト？：年齢別おすすめ日数・総額費用＆キッズプール付きリゾートホテル比較"} url={"https://croud-travel.pages.dev/okinawa-family-trip-how-many-nights-budget/"} />
+      </div>
       </section>
 
       {/* 楽天トラベル公式 ファミリー応援クーポンバナー */}
@@ -182,8 +186,7 @@ export default function OkinawaFamilyTripNightsBudgetPage() {
       {/* 内部リンク・関連予算ガイドナビゲーション */}
       <nav className="bg-sky-50/80 border border-sky-200/80 rounded-2xl p-6 shadow-sm">
         <div className="flex items-center justify-between mb-3">
-          <h2 className="text-sm md:text-base font-black text-sky-950 flex items-center gap-2"><span className="w-2.5 h-2.5 rounded-full bg-sky-600"></span>
-            沖縄旅行の費用・予算シミュレーション（あわせて読みたい）</h2>
+          <h2 className="text-sm md:text-base font-black text-sky-950 flex items-center gap-2">沖縄旅行の費用・予算シミュレーション（あわせて読みたい）</h2>
           <span className="text-[10px] text-sky-700 bg-sky-100/70 font-bold px-2 py-0.5 rounded">
             予算詳細ガイド
           </span>
@@ -458,6 +461,9 @@ export default function OkinawaFamilyTripNightsBudgetPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"子連れ沖縄旅行 何泊がベスト？：年齢別おすすめ日数・総額費用＆キッズプール付きリゾートホテル比較"} url={"https://croud-travel.pages.dev/okinawa-family-trip-how-many-nights-budget/"} />
+      </div>
       <HubRelatedPosts currentSlug="okinawa-family-trip-how-many-nights-budget" />
 </div>
   );

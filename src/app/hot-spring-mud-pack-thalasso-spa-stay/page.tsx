@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function WellnessRetreatHubPage() {
             大地のミネラルを全身で吸収する奇跡の美容温泉！霧島や別府の底からすくい上げるクリーミーな「天然温泉泥パック」。海の生命力で細胞を活性化する「海洋深層水タラソテラピー」。エステ要らずのツルツル美肌へ導くビューティーステイ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"温泉泥パック＆タラソテラピー宿：天然クレイ泥湯・海洋深層水スパ 厳選ガイド"} url={"https://croud-travel.pages.dev/hot-spring-mud-pack-thalasso-spa-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function WellnessRetreatHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"温泉泥パック＆タラソテラピー宿：天然クレイ泥湯・海洋深層水スパ 厳選ガイド"} url={"https://croud-travel.pages.dev/hot-spring-mud-pack-thalasso-spa-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="hot-spring-mud-pack-thalasso-spa-stay" />
 </div>
   );

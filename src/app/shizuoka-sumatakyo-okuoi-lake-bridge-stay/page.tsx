@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             チンダル現象が生み出す息を呑むエメラルドグリーンの水面「寸又峡・夢の吊橋」。揺れる橋の中央で祈ると恋が叶うという伝説。大井川のダム湖にぽっかりと浮かぶ神秘の秘境駅「奥大井湖上駅」。日本唯一のアプト式山岳鉄道。トロリとした「美女づくりの湯」で癒やされる秘境旅へ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"静岡・寸又峡＆奥大井湖上駅：死ぬまでに渡りたい夢の吊橋・アプト式鉄道宿 厳選ガイド"} url={"https://croud-travel.pages.dev/shizuoka-sumatakyo-okuoi-lake-bridge-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -231,6 +235,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"静岡・寸又峡＆奥大井湖上駅：死ぬまでに渡りたい夢の吊橋・アプト式鉄道宿 厳選ガイド"} url={"https://croud-travel.pages.dev/shizuoka-sumatakyo-okuoi-lake-bridge-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="shizuoka-sumatakyo-okuoi-lake-bridge-stay" />
 </div>
   );

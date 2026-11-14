@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             富士山を背景に水上を滑走するウェイクボードや、穏やかな湖面を進むSUPクルージング！ウォーターアクティビティを満喫した後は、レイクビュー温泉とサウナで極上のととのいを叶える人気リゾートを厳選。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"湖上アクティビティ：爽快ウェイクボード＆絶景SUPクルーズ！富士五湖・浜名湖のリゾート温泉宿5選"} url={"https://croud-travel.pages.dev/super-panoramic-lake-wakeboard-sup-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"湖上アクティビティ：爽快ウェイクボード＆絶景SUPクルーズ！富士五湖・浜名湖のリゾート温泉宿5選"} url={"https://croud-travel.pages.dev/super-panoramic-lake-wakeboard-sup-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="super-panoramic-lake-wakeboard-sup-stay" />
 </div>
         </section>

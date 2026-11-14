@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             とろける霜降り「熊本特選馬刺し」と、ヘルシーで赤身の旨味が凝縮した「阿蘇あか牛」！全国屈指の人気温泉地・黒川温泉の風情ある露天風呂めぐり（入湯手形）と、阿蘇の大自然に抱かれる至高の美食宿を厳選。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"極上馬刺し＆あか牛炭火焼き：火の国熊本の豪快肉グルメと黒川温泉・阿蘇の秘湯宿5選"} url={"https://croud-travel.pages.dev/traditional-kumamoto-higo-inoshishi-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"極上馬刺し＆あか牛炭火焼き：火の国熊本の豪快肉グルメと黒川温泉・阿蘇の秘湯宿5選"} url={"https://croud-travel.pages.dev/traditional-kumamoto-higo-inoshishi-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="traditional-kumamoto-higo-inoshishi-stay" />
 </div>
         </section>

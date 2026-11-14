@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             11月下旬から札幌の夜をロマンチックに彩る日本初のイルミネーション「さっぽろホワイトイルミネーション」！大通公園の光の芸術を鑑賞した後は、札幌の奥座敷・定山渓温泉の雪見露天風呂と北海道冬グルメを堪能する旅。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月！さっぽろホワイトイルミネーション】光の祭典と定山渓・小樽雪見温泉宿5選"} url={"https://croud-travel.pages.dev/winter-hokkaido-sapporo-white-illumination-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -578,6 +582,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月！さっぽろホワイトイルミネーション】光の祭典と定山渓・小樽雪見温泉宿5選"} url={"https://croud-travel.pages.dev/winter-hokkaido-sapporo-white-illumination-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-hokkaido-sapporo-white-illumination-stay" />
 </div>
         </section>

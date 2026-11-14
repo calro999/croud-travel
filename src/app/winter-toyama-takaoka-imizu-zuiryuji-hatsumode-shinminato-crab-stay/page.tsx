@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -290,6 +291,9 @@ export default function ToyamaTakaokaImizuWinterPage() {
             </p>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12・1月富山】国宝「高岡瑞龍寺」初詣と雨晴海岸の気嵐絶景！新湊紅ズワイガニ＆高岡名宿5選"} url={"https://croud-travel.pages.dev/winter-toyama-takaoka-imizu-zuiryuji-hatsumode-shinminato-crab-stay/"} />
+      </div>
 
         {/* Article Summary Box */}
         <section className="max-w-5xl mx-auto px-4 -mt-8 relative z-20">
@@ -437,7 +441,7 @@ export default function ToyamaTakaokaImizuWinterPage() {
                       <a 
                         href={hotel.url} 
                         target="_blank" 
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-1.5 bg-blue-700 hover:bg-blue-800 text-white font-bold text-xs md:text-sm px-4 py-2.5 rounded-xl transition shadow-sm flex-shrink-0 ml-3"
                       >
                         <span>プラン詳細・予約</span>
@@ -574,6 +578,9 @@ export default function ToyamaTakaokaImizuWinterPage() {
           </section>
         </main>
       
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12・1月富山】国宝「高岡瑞龍寺」初詣と雨晴海岸の気嵐絶景！新湊紅ズワイガニ＆高岡名宿5選"} url={"https://croud-travel.pages.dev/winter-toyama-takaoka-imizu-zuiryuji-hatsumode-shinminato-crab-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-toyama-takaoka-imizu-zuiryuji-hatsumode-shinminato-crab-stay" />
 </div>
     </>

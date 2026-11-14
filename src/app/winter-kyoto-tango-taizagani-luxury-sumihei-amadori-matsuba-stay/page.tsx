@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
@@ -108,6 +109,9 @@ export default function LuxuryStayPage() {
             </p>
           </div>
         </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【幻のブランド蟹・間人ガニと日本海の荒波を望む名旅館】2026-2027年11-12月初冬の京都・丹後間人＆京丹後！創業明治「間人温泉 炭平」＆全室海一望露天スイート・極上活松葉ガニ名宿5選"} url={"https://croud-travel.pages.dev/winter-kyoto-tango-taizagani-luxury-sumihei-amadori-matsuba-stay/"} />
+      </div>
 
         <div className="max-w-5xl mx-auto px-4 mt-12 space-y-16">
           <section className="bg-white p-6 md:p-10 rounded-2xl border border-slate-200/80 shadow-md">
@@ -228,8 +232,7 @@ export default function LuxuryStayPage() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント</h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>150年以上の歴史を誇る間人温泉の最高峰旅館。全客室が日本海の水平線を望むオーシャンビューで、洗練された露天風呂付きスイートが揃います。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>敷地内には趣の異なる6つの貸切露天風呂が点在。海に沈む夕日や満天の星、潮騒を間近に感じる極上の湯浴みが叶います。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>夕食は主人が厳選した本物の間人ガニフルコース。刺身、焼き、茹で、甲羅味噌、鍋と、余すところなく味わい尽くす感動の晩餐です。</span></li>
                 </ul>
@@ -293,8 +296,7 @@ export default function LuxuryStayPage() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント</h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>久美浜のかまぼこ状の美しい海岸沿いに佇む大人のための隠れ宿。わずか7室すべての客室が独立した離れ仕様です。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>客室には敷地内から自噴する良質な蒲井温泉の内湯と露天風呂を完備。24時間いつでも好きな時に極上の湯浴みを楽しめます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>冬の夕食は水揚げされたばかりの極上松葉ガニや丹後牛、近海の地魚を盛り込んだ贅沢会席。プライベートな個室で至福のひとときを過ごせます。</span></li>
                 </ul>
@@ -358,8 +360,7 @@ export default function LuxuryStayPage() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント</h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>夕日ヶ浦温泉の美しい自然に溶け込む数寄屋風の落ち着いた名門旅館。広々とした大浴場と庭園露天風呂で美肌の湯を堪能できます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>客室専用露天風呂付き客室も充実。ゆったりとした和の空間で、日常のストレスを解き放つ贅沢な滞在が叶います。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>夕食は熟練の料理人が腕を振るう活蟹会席。香ばしい焼き蟹の香りと上品な甘みの蟹刺しが冬の旅情を極限まで盛り上げます。</span></li>
                 </ul>
@@ -423,8 +424,7 @@ export default function LuxuryStayPage() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント</h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>夕日百選に選ばれる夕日ヶ浦海岸にほど近い、大人の寛ぎを追求したプレミアム旅館です。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>全客室に海または庭を望む展望温泉風呂を完備。落ち着いたモダン和室で静かなプライベート時間を満喫できます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>冬は選べる蟹料理プランが充実。活蟹刺しや焼き蟹、甲羅酒など、冬の味覚を心ゆくまで堪能できる上質なコースが揃います。</span></li>
                 </ul>
@@ -488,8 +488,7 @@ export default function LuxuryStayPage() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント</h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>間人港のすぐそばに佇み、蟹への確かな目利きで全国の食通に知られる創業昭和の老舗料理宿です。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>昭和の美意識を感じさせるレトロモダンな館内。心地よいジャズが流れるロビーや温もりある客室が迎えてくれます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>主人が間人港で自ら競り落とす極上の間人ガニを炭火で焼き上げる贅沢。蟹を知り尽くした宿ならではの感動の味わいを体験できます。</span></li>
                 </ul>
@@ -622,6 +621,10 @@ export default function LuxuryStayPage() {
             </ul>
           </section>
         </div>
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【幻のブランド蟹・間人ガニと日本海の荒波を望む名旅館】2026-2027年11-12月初冬の京都・丹後間人＆京丹後！創業明治「間人温泉 炭平」＆全室海一望露天スイート・極上活松葉ガニ名宿5選"} url={"https://croud-travel.pages.dev/winter-kyoto-tango-taizagani-luxury-sumihei-amadori-matsuba-stay/"} />
+      </div>
       </div>
     </>
   );

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -113,6 +114,9 @@ export default function SeasonalFeaturePage() {
             心地よいエンジン音とともに、標高とともに移り変わる木々のグラデーションを駆け抜ける爽快ドライブ。展望台から見渡す雲海や富士山、夕暮れに染まる水平線。愛車で巡る極上のパノラマ温泉旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"絶景ロード：紅葉＆白銀パノラマ！ドライブウェイ展望温泉宿 厳選ガイド"} url={"https://croud-travel.pages.dev/autumn-winter-scenic-drive-pass/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function SeasonalFeaturePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"絶景ロード：紅葉＆白銀パノラマ！ドライブウェイ展望温泉宿 厳選ガイド"} url={"https://croud-travel.pages.dev/autumn-winter-scenic-drive-pass/"} />
+      </div>
       <HubRelatedPosts currentSlug="autumn-winter-scenic-drive-pass" />
 </div>
   );

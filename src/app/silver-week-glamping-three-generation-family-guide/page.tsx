@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -222,6 +223,9 @@ export default function SilverWeekGlampingThreeGenerationFamilyPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"3世代家族で行くシルバーウィーク グランピング：祖父母も疲れない！段差なしバリアフリー＆和洋室ヴィラ"} url={"https://croud-travel.pages.dev/silver-week-glamping-three-generation-family-guide/"} />
+      </div>
 
       {/* 楽天トラベル クーポンバナー */}
       <SpecialCouponBanner />
@@ -388,7 +392,7 @@ export default function SilverWeekGlampingThreeGenerationFamilyPage() {
 
       {/* 内部リンク・子連れ＆家族旅行モデルコース */}
       <section className="bg-teal-50/60 border border-teal-100 rounded-3xl p-6 sm:p-8 space-y-4">
-        <h3 className="text-base font-bold text-teal-950 flex items-center gap-2"><span>‍‍</span> あわせて読みたい家族旅行・温泉ガイド</h3>
+        <h3 className="text-base font-bold text-teal-950 flex items-center gap-2">あわせて読みたい家族旅行・温泉ガイド</h3>
         <p className="text-xs text-stone-600">
           乳幼児連れに優しい温泉旅館や、3世代でゆったり巡れる金沢の1泊2日王道ルートもチェック。
         </p>
@@ -431,6 +435,9 @@ export default function SilverWeekGlampingThreeGenerationFamilyPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"3世代家族で行くシルバーウィーク グランピング：祖父母も疲れない！段差なしバリアフリー＆和洋室ヴィラ"} url={"https://croud-travel.pages.dev/silver-week-glamping-three-generation-family-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="silver-week-glamping-three-generation-family-guide" />
 </div>
   );

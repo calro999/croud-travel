@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -79,6 +80,9 @@ export default function FurusatoNoboribetsuJigokudaniStayPage() {
           <span className="bg-green-100 text-green-900 px-2 py-0.5 rounded font-medium">実質負担2,000円対象</span>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"湯量毎分3000L・9種の源泉デパート！登別温泉の地獄谷一望大浴場＆カニ食べ放題名門宿×ふるさと納税完全攻略ガイド【2026年最新】第一滝本館・まほろば・グランドホテル！登別温泉の地獄谷一望大浴場＆カニ食べ放題名門宿×ふるさと納税完全攻略ガイド【2026年最新】第一滝本館・まほろば・グランドホテル"} url={"https://croud-travel.pages.dev/furusato-tax-noboribetsu-jigokudani-onsen-luxury-stay/"} />
+      </div>
 
       {/* リード文ブロック */}
       <section className="bg-gradient-to-br from-amber-50/70 via-orange-50/40 to-yellow-50/60 p-6 md:p-8 rounded-2xl border border-amber-200/80 mb-12 shadow-sm">
@@ -91,7 +95,7 @@ export default function FurusatoNoboribetsuJigokudaniStayPage() {
           <ul className="text-xs md:text-sm text-gray-700 space-y-1.5">
             <li className="flex items-start gap-1">
               <span className="text-amber-600 font-bold">✔</span>
-              <span><strong>寄付額の最大30％が宿泊クーポンとして即時付与</strong>され、楽天ポイントも二重に貯まる</span>
+              <span><strong>寄付額の最大30％が宿泊クーポンとして即時付与</strong>され、最長3年間いつでも宿泊予約に使える</span>
             （湯量毎分3000L・9種の源泉デパート！登別温泉の地獄谷一望大浴場＆カニ食べ放題名門宿×ふるさと納税完全攻略ガイド【2026年最新】第一滝本館・まほろば・グランドホテル！登別温泉の地獄谷一望大浴場＆カニ食べ放題名門宿×ふるさと納税完全攻略ガイド【2026年最新】第一滝本館・まほろば・グランドホテル）</li>
             <li className="flex items-start gap-1">
               <span className="text-amber-600 font-bold">✔</span>
@@ -342,6 +346,9 @@ export default function FurusatoNoboribetsuJigokudaniStayPage() {
             ▸ 【一年中泳げる室内温水プール宿×ふるさと納税】那須・草津・別府リゾート
           </Link>
         
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"湯量毎分3000L・9種の源泉デパート！登別温泉の地獄谷一望大浴場＆カニ食べ放題名門宿×ふるさと納税完全攻略ガイド【2026年最新】第一滝本館・まほろば・グランドホテル！登別温泉の地獄谷一望大浴場＆カニ食べ放題名門宿×ふるさと納税完全攻略ガイド【2026年最新】第一滝本館・まほろば・グランドホテル"} url={"https://croud-travel.pages.dev/furusato-tax-noboribetsu-jigokudani-onsen-luxury-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-noboribetsu-jigokudani-onsen-luxury-stay" />
 </div>
       </section>

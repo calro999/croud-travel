@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -80,6 +81,9 @@ export default function TohokuBudgetGuidePage() {
           </p>
         </div>
       </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"東北旅行 費用：2泊3日で仙台・松島・銀山温泉を巡るといくらかかる？交通費＆宿泊費の完全内訳"} url={"https://croud-travel.pages.dev/tohoku-travel-budget-guide/"} />
+      </div>
 
       {/* 予算別 2泊3日の総額シミュレーション */}
       <section className="px-4 md:px-0">
@@ -132,11 +136,11 @@ export default function TohokuBudgetGuidePage() {
         </p>
         <div className="flex flex-col gap-4 mb-6">
           <Link href="/tokyo-sendai-bus-vs-shinkansen-guide/" className="flex-1 bg-slate-50 hover:bg-slate-100 p-4 rounded-2xl border border-slate-200 transition group">
-            <h3 className="font-bold text-teal-800 text-sm mb-2 group-hover:underline">▶ 東京〜仙台の移動比較</h3>
+            <h3 className="font-bold text-teal-800 text-sm mb-2 group-hover:underline">東京〜仙台の移動比較</h3>
             <p className="text-xs text-slate-600">新幹線はやぶさ（約11,410円） vs 高速バス（約2,500円〜）の詳細解説はこちら。</p>
           </Link>
           <Link href="/tokyo-yamagata-zao-bus-vs-shinkansen-guide/" className="flex-1 bg-slate-50 hover:bg-slate-100 p-4 rounded-2xl border border-slate-200 transition group">
-            <h3 className="font-bold text-teal-800 text-sm mb-2 group-hover:underline">▶ 東京〜山形・蔵王の移動比較</h3>
+            <h3 className="font-bold text-teal-800 text-sm mb-2 group-hover:underline">東京〜山形・蔵王の移動比較</h3>
             <p className="text-xs text-slate-600">山形新幹線（約11,550円） vs 夜行バス（約3,500円〜）の詳細解説はこちら。</p>
           </Link>
         </div>
@@ -144,7 +148,7 @@ export default function TohokuBudgetGuidePage() {
 
       {/* 2泊3日 お金がわかるリアル・タイムライン */}
       <section className="bg-slate-50 rounded-3xl p-8 border border-slate-200">
-        <h2 className="text-2xl font-black font-journal-serif text-slate-900 mb-6">️ 2泊3日 お金がわかるリアル・モデルコース</h2>
+        <h2 className="text-2xl font-black font-journal-serif text-slate-900 mb-6">2泊3日 お金がわかるリアル・モデルコース</h2>
         <div className="space-y-8">
           {/* Day 1 */}
           <div className="bg-white p-6 rounded-2xl shadow-sm border border-slate-100">
@@ -483,6 +487,9 @@ export default function TohokuBudgetGuidePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"東北旅行 費用：2泊3日で仙台・松島・銀山温泉を巡るといくらかかる？交通費＆宿泊費の完全内訳"} url={"https://croud-travel.pages.dev/tohoku-travel-budget-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="tohoku-travel-budget-guide" />
 </div>
   );

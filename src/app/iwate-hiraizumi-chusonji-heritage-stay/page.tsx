@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             奥州藤原氏が築いた黄金郷「平泉」。金箔で覆われた国宝「中尊寺金色堂」と、平安の雅を今に伝える毛越寺の浄土庭園。名勝・厳美渓の渓谷美を眺め、極上の前沢牛とわんこそばに舌鼓を打つ歴史浪漫の旅。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"岩手・平泉中尊寺＆厳美渓：世界遺産金色堂・空飛ぶだんご＆前沢牛極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/iwate-hiraizumi-chusonji-heritage-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"岩手・平泉中尊寺＆厳美渓：世界遺産金色堂・空飛ぶだんご＆前沢牛極上宿 厳選ガイド"} url={"https://croud-travel.pages.dev/iwate-hiraizumi-chusonji-heritage-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="iwate-hiraizumi-chusonji-heritage-stay" />
 </div>
   );

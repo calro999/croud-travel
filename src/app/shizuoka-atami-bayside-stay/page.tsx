@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             青い相模湾とすり鉢状の斜面に広がる熱海の街並み。夜空を彩る大迫力の海上花火大会と、日本屈指の湧出量を誇る美肌温泉。海風を感じながら極上のリゾートステイへ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"静岡・熱海温泉：海上花火＆サンビーチ・相模湾オーシャンビュー宿 厳選ガイド"} url={"https://croud-travel.pages.dev/shizuoka-atami-bayside-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -454,6 +458,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"静岡・熱海温泉：海上花火＆サンビーチ・相模湾オーシャンビュー宿 厳選ガイド"} url={"https://croud-travel.pages.dev/shizuoka-atami-bayside-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="shizuoka-atami-bayside-stay" />
 </div>
   );

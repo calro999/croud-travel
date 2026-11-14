@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -13,7 +14,7 @@ export const metadata: Metadata = {
     title: 'バンテリンドーム・Zepp名古屋遠征泊：名駅直結＆トレインビュー！終演後もスムーズに休める快適拠点ホテル 厳選3選',
     description: 'バンテリンドーム ナゴヤ（ナゴヤドーム）、Zepp Nagoya、Aichi Sky Expo（愛知県国際展示場）へのコンサート・ライブ・舞台遠征へ！地上31階以上からの絶景「名古屋プリンスホテル スカイタワー」、名古屋駅直結で新幹線改札から直行できる「名鉄グランドホテル」、皇室も愛する歴史と格式のクラシック宿「名古屋観光ホテル」を徹底比較。',
     url: 'https://croud-travel.pages.dev/nagoya-dome-live-expedition-comfort-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -27,12 +28,12 @@ export default function ArticlePage() {
     description: 'バンテリンドーム ナゴヤ（ナゴヤドーム）、Zepp Nagoya、Aichi Sky Expo（愛知県国際展示場）へのコンサート・ライブ・舞台遠征へ！地上31階以上からの絶景「名古屋プリンスホテル スカイタワー」、名古屋駅直結で新幹線改札から直行できる「名鉄グランドホテル」、皇室も愛する歴史と格式のクラシック宿「名古屋観光ホテル」を徹底比較。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル ひとり旅・ホテル調査班',
+      name: '旅宿クラウド ひとり旅・ホテル調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -79,6 +80,9 @@ export default function ArticlePage() {
           バンテリンドーム ナゴヤ（ナゴヤドーム）、Zepp Nagoya、Aichi Sky Expo（愛知県国際展示場）へのコンサート・ライブ・舞台遠征へ！地上31階以上からの絶景「名古屋プリンスホテル スカイタワー」、名古屋駅直結で新幹線改札から直行できる「名鉄グランドホテル」、皇室も愛する歴史と格式のクラシック宿「名古屋観光ホテル」を徹底比較。
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"バンテリンドーム・Zepp名古屋遠征泊：名駅直結＆トレインビュー！終演後もスムーズに休める快適拠点ホテル 厳選3選"} url={"https://croud-travel.pages.dev/nagoya-dome-live-expedition-comfort-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
@@ -381,7 +385,7 @@ export default function ArticlePage() {
             href="/"
             className="inline-flex items-center gap-2 text-sm text-stone-600 hover:text-stone-900 font-medium transition-colors"
           >
-            ← クラウドトラベル トップページへ戻る
+            ← 旅宿クラウド トップページへ戻る
           </Link>
         </div>
       </div>
@@ -473,6 +477,9 @@ export default function ArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"バンテリンドーム・Zepp名古屋遠征泊：名駅直結＆トレインビュー！終演後もスムーズに休める快適拠点ホテル 厳選3選"} url={"https://croud-travel.pages.dev/nagoya-dome-live-expedition-comfort-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="nagoya-dome-live-expedition-comfort-stay" />
 </div>
         </section>

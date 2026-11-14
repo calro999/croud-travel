@@ -1,9 +1,19 @@
 # 秋田県の宿泊・観光記事（49件）
 
+## 【仙北・田沢湖（秋田県）の子連れ旅行＆家族向けホテル厳選】和のゐ角館・田沢湖高原温泉 田沢高原ホテルなど赤ちゃん・小学生歓迎宿と2026秋冬モデルコース
+- 記事: https://croud-travel.pages.dev/posts/october-travel-city-senboku-kids-family-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/october-travel-city-senboku-kids-family-guide.md
+- 宿泊施設名: 仙北・田沢湖のファミリー歓迎おすすめ宿
+- エリア: 秋田県（仙北・田沢湖）
+- 参考価格: ¥25650〜
+- 評価: 4.8
+
+仙北・田沢湖（秋田県）へ子連れ・家族旅行に行くならここ！「和のゐ角館」をはじめ、和洋室や貸切風呂・キッズ対応が充実した人気ファミリーホテル、10月〜1月（紅葉・味覚狩り・冬休み）の子供の服装対策、本場きりたんぽ鍋も楽しめる1泊2日モデルコースを徹底解説。
+
 ## 【秋田・横手/湯沢】横手の雪まつり「かまくら2027」＆泥湯・秋ノ宮温泉郷完全攻略！450年の水神様雪夜景と元祖横手やきそば・比内地鶏きりたんぽ鍋を愉しむ雪国名宿5選
 - 記事: https://croud-travel.pages.dev/posts/winter-akita-yokote-kamakura-snow-festival-yuzawa-onsen-hotels-guide/
 - 全文Markdown: https://croud-travel.pages.dev/ai/winter-akita-yokote-kamakura-snow-festival-yuzawa-onsen-hotels-guide.md
-- 宿泊施設名: 秋の宮温泉郷　湯けむりの宿　稲住温泉（共立リゾート）・ホテルプラザアネックス横手 ほか
+- 宿泊施設名: 秋の宮温泉郷 湯けむりの宿 稲住温泉（共立リゾート）・ホテルプラザアネックス横手 ほか
 - エリア: 横手・湯沢・秋ノ宮
 - 参考価格: ¥¥5,200〜〜
 - 評価: 4.69
@@ -63,7 +73,7 @@
 ## 乳頭温泉郷の白銀秘湯めぐりと冬の囲炉裏きりたんぽ鍋！田沢湖・八幡平の豪雪露天と比内地鶏を堪能する厳選名宿ガイド
 - 記事: https://croud-travel.pages.dev/posts/nyuto-onsen-kyo-snow-secret-bath-kiritanpo-akita-guide/
 - 全文Markdown: https://croud-travel.pages.dev/ai/nyuto-onsen-kyo-snow-secret-bath-kiritanpo-akita-guide.md
-- 宿泊施設名: 田沢湖高原温泉　ロッジアイリス
+- 宿泊施設名: 田沢湖高原温泉 ロッジアイリス
 - エリア: 田沢湖・角館・乳頭温泉郷
 - 参考価格: ¥7500〜
 - 評価: 4.43
@@ -79,16 +89,6 @@
 - 評価: 4.3
 
 秋田県男鹿市北浦湯本草木原13-1の「男鹿温泉 湯けむりリゾート 男鹿ホテル」（楽天トラベル評価4.25（500件）／1泊目安¥8,800〜）の魅力と宿泊ポイントを詳しく紹介。【桜露天風呂と名物石焼料理】の宿 日々生まれたての源泉かけ流し温泉をご満喫ください。客室の特徴や館内設備、食事プラン、最寄り駅・駐車場アクセスからお得な予約のコツまで詳しくまとめました。
-
-## 【仙北・田沢湖（秋田県）の子連れ旅行＆家族向けホテル厳選】和のゐ角館・田沢湖高原温泉 田沢高原ホテルなど赤ちゃん・小学生歓迎宿と2026秋冬モデルコース
-- 記事: https://croud-travel.pages.dev/posts/october-travel-city-senboku-kids-family-guide/
-- 全文Markdown: https://croud-travel.pages.dev/ai/october-travel-city-senboku-kids-family-guide.md
-- 宿泊施設名: 仙北・田沢湖のファミリー歓迎おすすめ宿
-- エリア: 秋田県（仙北・田沢湖）
-- 参考価格: ¥25650〜
-- 評価: 4.8
-
-仙北・田沢湖（秋田県）へ子連れ・家族旅行に行くならここ！「和のゐ角館」をはじめ、和洋室や貸切風呂・キッズ対応が充実した人気ファミリーホテル、10月〜1月（紅葉・味覚狩り・冬休み）の子供の服装対策、本場きりたんぽ鍋も楽しめる1泊2日モデルコースを徹底解説。
 
 ## 【男鹿半島おすすめ宿10選】男鹿温泉 結いの宿 別邸 つばき・男鹿温泉郷 元湯雄山閣など楽天トラベル高評価の名宿を徹底比較
 - 記事: https://croud-travel.pages.dev/posts/oga-peninsula-namahage-onsen-hotels-guide/

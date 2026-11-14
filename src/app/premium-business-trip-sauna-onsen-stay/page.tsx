@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -13,7 +14,7 @@ export const metadata: Metadata = {
     title: 'ワンランク上の出張泊：天然温泉・本格サウナ・絶景ビュー完備！仕事の疲れを極限まで癒やすプレミアムビジネスホテル 厳選3選',
     description: '「出張先のホテルはただ寝るだけではもったいない」「翌日の商談やプレゼンに向けて最高のコンディションを整えたい」。そんなビジネスパーソンへ。地上36階の天空露天風呂を誇る「三井ガーデンホテル豊洲プレミア」、銀座のど真ん中で天然温泉と黒湯サウナを満喫する「ドーミーインPREMIUM銀座」、奥湯河原直送の美肌湯が注ぐ「スーパーホテルPremier銀座」を徹底特集。',
     url: 'https://croud-travel.pages.dev/premium-business-trip-sauna-onsen-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -27,12 +28,12 @@ export default function ArticlePage() {
     description: '「出張先のホテルはただ寝るだけではもったいない」「翌日の商談やプレゼンに向けて最高のコンディションを整えたい」。そんなビジネスパーソンへ。地上36階の天空露天風呂を誇る「三井ガーデンホテル豊洲プレミア」、銀座のど真ん中で天然温泉と黒湯サウナを満喫する「ドーミーインPREMIUM銀座」、奥湯河原直送の美肌湯が注ぐ「スーパーホテルPremier銀座」を徹底特集。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル ひとり旅・ホテル調査班',
+      name: '旅宿クラウド ひとり旅・ホテル調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -79,6 +80,9 @@ export default function ArticlePage() {
           「出張先のホテルはただ寝るだけではもったいない」「翌日の商談やプレゼンに向けて最高のコンディションを整えたい」。そんなビジネスパーソンへ。地上36階の天空露天風呂を誇る「三井ガーデンホテル豊洲プレミア」、銀座のど真ん中で天然温泉と黒湯サウナを満喫する「ドーミーインPREMIUM銀座」、奥湯河原直送の美肌湯が注ぐ「スーパーホテルPremier銀座」を徹底特集。
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"ワンランク上の出張泊：天然温泉・本格サウナ・絶景ビュー完備！仕事の疲れを極限まで癒やすプレミアムビジネスホテル 厳選3選"} url={"https://croud-travel.pages.dev/premium-business-trip-sauna-onsen-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
@@ -381,7 +385,7 @@ export default function ArticlePage() {
             href="/"
             className="inline-flex items-center gap-2 text-sm text-stone-600 hover:text-stone-900 font-medium transition-colors"
           >
-            ← クラウドトラベル トップページへ戻る
+            ← 旅宿クラウド トップページへ戻る
           </Link>
         </div>
       </div>
@@ -454,6 +458,10 @@ export default function ArticlePage() {
           </div>
         </section>
 
+      
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"ワンランク上の出張泊：天然温泉・本格サウナ・絶景ビュー完備！仕事の疲れを極限まで癒やすプレミアムビジネスホテル 厳選3選"} url={"https://croud-travel.pages.dev/premium-business-trip-sauna-onsen-stay/"} />
+      </div>
       </main>
   );
 }

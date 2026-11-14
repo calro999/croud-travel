@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             日本の陶磁器の代名詞「瀬戸焼」の器で供される、名物「三河一色産うなぎ」の蒲焼きやひつまぶし！三河湾・伊勢湾のオーシャンビュー温泉と、愛知が誇る食文化・伝統工芸を贅沢に味わう宿を徹底紹介。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"瀬戸焼とうなぎ会席：伝統のやきもの美と三河一色産うなぎ！愛知・蒲郡・南知多の名湯宿5選"} url={"https://croud-travel.pages.dev/traditional-aichi-seto-ware-pottery-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"瀬戸焼とうなぎ会席：伝統のやきもの美と三河一色産うなぎ！愛知・蒲郡・南知多の名湯宿5選"} url={"https://croud-travel.pages.dev/traditional-aichi-seto-ware-pottery-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="traditional-aichi-seto-ware-pottery-stay" />
 </div>
         </section>

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function MicroTouristHubPage() {
             早朝の静寂に包まれる竹林の小径、夕暮れに茜色に染まる渡月橋。京都・嵐山を心ゆくまで味わい尽くすための徒歩観光完全ルートと極上宿ガイド。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"京都・嵐山：竹林の小径・渡月橋＆嵯峨野おこもり宿 厳選ガイド"} url={"https://croud-travel.pages.dev/kyoto-arashiyama-bamboo-stay/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -423,6 +427,9 @@ export default function MicroTouristHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"京都・嵐山：竹林の小径・渡月橋＆嵯峨野おこもり宿 厳選ガイド"} url={"https://croud-travel.pages.dev/kyoto-arashiyama-bamboo-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="kyoto-arashiyama-bamboo-stay" />
 </div>
   );

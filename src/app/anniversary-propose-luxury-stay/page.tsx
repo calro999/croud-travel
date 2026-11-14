@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -104,6 +105,9 @@ export default function TargetAudienceHubPage() {
             二人の特別な日を最高の感動で彩るアニバーサリーステイ！息をのむ大パノラマ夜景を望むラグジュアリースイート、ベッドルームへの花束やバルーンデコレーションサプライズ、記憶に残る極上ディナーへ。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"記念日・プロポーズ極上宿：夜景スイート・サプライズ演出＆フレンチフルコース 厳選ガイド"} url={"https://croud-travel.pages.dev/anniversary-propose-luxury-stay/"} />
       </div>
 
       {/* テーマ別徹底ガイド＆おすすめ宿 */}
@@ -231,6 +235,9 @@ export default function TargetAudienceHubPage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"記念日・プロポーズ極上宿：夜景スイート・サプライズ演出＆フレンチフルコース 厳選ガイド"} url={"https://croud-travel.pages.dev/anniversary-propose-luxury-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="anniversary-propose-luxury-stay" />
 </div>
   );

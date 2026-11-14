@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     title: '【11・12月新潟・瀬波温泉の初冬日本海夕日絶景露天と越後村上鮭三昧】名物塩引鮭・はらこ飯＆極上村上牛会席の海辺宿5選',
     description: '11月から12月にかけて、新潟県北部の日本海沿いに湧く「瀬波温泉」は、水平線に沈む茜色の夕日と荒波が織りなす息を呑むような初冬の絶景を迎えます。',
     url: 'https://croud-travel.pages.dev/winter-niigata-senami-onsen-sunset-ocean-salmon-murakami-beef-stay/',
-    siteName: 'クラドトラベル (Croud Travel)',
+    siteName: '旅宿クラウド (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
     images: [
@@ -257,6 +258,9 @@ export default function NiigataSenamiWinterFeature() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月新潟・瀬波温泉の初冬日本海夕日絶景露天と越後村上鮭三昧】名物塩引鮭・はらこ飯＆極上村上牛会席の海辺宿5選"} url={"https://croud-travel.pages.dev/winter-niigata-senami-onsen-sunset-ocean-salmon-murakami-beef-stay/"} />
+      </div>
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 space-y-16">
@@ -377,7 +381,7 @@ export default function NiigataSenamiWinterFeature() {
                       </div>
                     </div>
 
-                    <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-orange-700 transition-colors"><a href={h.url} target="_blank" rel="noopener noreferrer">
+                    <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-orange-700 transition-colors"><a href={h.url} target="_blank" rel="sponsored noopener noreferrer">
                         {h.name}
                       </a></h3>
 
@@ -415,7 +419,7 @@ export default function NiigataSenamiWinterFeature() {
                     <a
                       href={h.url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-2xl bg-orange-600 hover:bg-orange-700 text-white font-bold text-sm shadow-sm hover:shadow transition-all"
                     >
                       楽天トラベルで空室・プランを見る
@@ -637,6 +641,9 @@ export default function NiigataSenamiWinterFeature() {
               <p className="text-slate-300 text-[11px] line-clamp-2">新幹線直結の白銀の温泉街で楽しむ越後地酒利き酒と名湯巡り。</p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月新潟・瀬波温泉の初冬日本海夕日絶景露天と越後村上鮭三昧】名物塩引鮭・はらこ飯＆極上村上牛会席の海辺宿5選"} url={"https://croud-travel.pages.dev/winter-niigata-senami-onsen-sunset-ocean-salmon-murakami-beef-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-niigata-senami-onsen-sunset-ocean-salmon-murakami-beef-stay" />
 </div>
         </section>

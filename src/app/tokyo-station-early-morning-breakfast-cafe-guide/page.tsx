@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -230,6 +231,9 @@ export default function TokyoStationEarlyMorningBreakfastPage() {
           </div>
         </div>
       </section>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"東京駅 早朝6時・7時オープンの朝食カフェ＆コインロッカー：夜行バス到着後のリフレッシュ厳選ガイド"} url={"https://croud-travel.pages.dev/tokyo-station-early-morning-breakfast-cafe-guide/"} />
+      </div>
 
       {/* コンテンツ本体 */}
       <div className="max-w-4xl mx-auto px-4 sm:px-6 mt-10 space-y-12">
@@ -574,6 +578,9 @@ export default function TokyoStationEarlyMorningBreakfastPage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"東京駅 早朝6時・7時オープンの朝食カフェ＆コインロッカー：夜行バス到着後のリフレッシュ厳選ガイド"} url={"https://croud-travel.pages.dev/tokyo-station-early-morning-breakfast-cafe-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="tokyo-station-early-morning-breakfast-cafe-guide" />
 </div>
         </section>

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -113,6 +114,9 @@ export default function SeasonalFeaturePage() {
             冷え込んだ秋から初冬の早朝、限られた気象条件でのみ現れる幻想的な「雲海」。山頂テラスや客室のバルコニー、展望露天風呂から見下ろす白銀の雲海は、息をのむほどの感動をもたらします。
           </p>
         </div>
+      </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【天空の絶景】雲海テラス＆展望露天風呂の宿 完全ガイド"} url={"https://croud-travel.pages.dev/autumn-winter-sea-of-clouds/"} />
       </div>
 
       {/* エリア別徹底ガイド＆おすすめ宿 */}
@@ -240,6 +244,9 @@ export default function SeasonalFeaturePage() {
         </Link>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【天空の絶景】雲海テラス＆展望露天風呂の宿 完全ガイド"} url={"https://croud-travel.pages.dev/autumn-winter-sea-of-clouds/"} />
+      </div>
       <HubRelatedPosts currentSlug="autumn-winter-sea-of-clouds" />
 </div>
   );

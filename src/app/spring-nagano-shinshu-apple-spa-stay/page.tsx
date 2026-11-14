@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             甘酸っぱい香りに包まれる名物「りんご風呂」と、サクサクの自家製焼きたてアップルパイ！信州サーモンや信州牛とともに、長野の豊かな果実と美肌温泉を丸ごと味わえる魅力あふれる宿を徹底解説。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"信州スイーツ＆名湯：焼きたて信州アップルパイ＆果実の香るりんご風呂！長野の美食温泉宿5選"} url={"https://croud-travel.pages.dev/spring-nagano-shinshu-apple-spa-stay/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"信州スイーツ＆名湯：焼きたて信州アップルパイ＆果実の香るりんご風呂！長野の美食温泉宿5選"} url={"https://croud-travel.pages.dev/spring-nagano-shinshu-apple-spa-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="spring-nagano-shinshu-apple-spa-stay" />
 </div>
         </section>

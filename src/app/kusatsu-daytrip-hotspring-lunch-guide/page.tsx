@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -160,6 +161,9 @@ export default function KusatsuDaytripHotspringLunchPage() {
             </a>
           </div>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"草津温泉 日帰り温泉＆ランチ：湯畑周辺で楽しむ源泉かけ流し名湯＆上州牛・手打ちそば名店ガイド"} url={"https://croud-travel.pages.dev/kusatsu-daytrip-hotspring-lunch-guide/"} />
+      </div>
       </section>
 
       {/* 内部リンクカード（Stoneトーン） */}
@@ -417,7 +421,7 @@ export default function KusatsuDaytripHotspringLunchPage() {
 
       {/* 入浴マナー＆強酸性泉の心得 */}
       <section className="bg-amber-50/60 border border-amber-200 rounded-3xl p-6 md:p-8 space-y-4">
-        <h3 className="text-base md:text-lg font-black font-journal-serif text-amber-950 flex items-center gap-2"><span>️</span> 草津温泉（強酸性泉）日帰り入浴の心得</h3>
+        <h3 className="text-base md:text-lg font-black font-journal-serif text-amber-950 flex items-center gap-2">草津温泉（強酸性泉）日帰り入浴の心得</h3>
         <ul className="space-y-2 text-xs md:text-sm text-stone-700 leading-relaxed list-disc list-inside">
           <li>
             <strong className="text-stone-900">貴金属類（シルバー・アクセサリー）は必ず外す：</strong>
@@ -434,6 +438,9 @@ export default function KusatsuDaytripHotspringLunchPage() {
         </ul>
       </section>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"草津温泉 日帰り温泉＆ランチ：湯畑周辺で楽しむ源泉かけ流し名湯＆上州牛・手打ちそば名店ガイド"} url={"https://croud-travel.pages.dev/kusatsu-daytrip-hotspring-lunch-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="kusatsu-daytrip-hotspring-lunch-guide" />
 </div>
   );

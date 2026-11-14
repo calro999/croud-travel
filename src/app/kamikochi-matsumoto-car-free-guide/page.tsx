@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -249,6 +250,9 @@ export default function KamikochiMatsumotoCarFreePage() {
             </a>
           </div>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"松本・上高地 車なし旅行厳選ガイド：特急あずさ＆上高地線・シャトルバスで行く国宝城下町＆神の降り立つ地"} url={"https://croud-travel.pages.dev/kamikochi-matsumoto-car-free-guide/"} />
+      </div>
       </div>
 
       <div className="max-w-5xl mx-auto px-4 mt-8 space-y-12">
@@ -534,6 +538,9 @@ export default function KamikochiMatsumotoCarFreePage() {
         </div>
       </div>
     
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"松本・上高地 車なし旅行厳選ガイド：特急あずさ＆上高地線・シャトルバスで行く国宝城下町＆神の降り立つ地"} url={"https://croud-travel.pages.dev/kamikochi-matsumoto-car-free-guide/"} />
+      </div>
       <HubRelatedPosts currentSlug="kamikochi-matsumoto-car-free-guide" />
 </div>
   );

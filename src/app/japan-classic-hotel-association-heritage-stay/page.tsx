@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
@@ -36,7 +37,7 @@ export default function Page() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "日本クラシックホテルの会加盟名門宿完全ガイド【明治・大正の薫りと登録有形文化財】 | クラウドトラベル",
+    "headline": "日本クラシックホテルの会加盟名門宿完全ガイド【明治・大正の薫りと登録有形文化財】 | 旅宿クラウド",
     "description": "日光金谷ホテル、富士屋ホテル、奈良ホテルなど日本クラシックホテルの会に加盟する名門建築宿を特集。歴代のVIPや文豪が愛した至高のホスピタリティと往時の美意識を巡る特別な宿泊体験。",
     "url": "https://croud-travel.pages.dev/japan-classic-hotel-association-heritage-stay/",
     "publisher": {
@@ -50,7 +51,7 @@ export default function Page() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "日本クラシックホテルの会加盟名門宿完全ガイド【明治・大正の薫りと登録有形文化財】 | クラウドトラベル", "item": "https://croud-travel.pages.dev/japan-classic-hotel-association-heritage-stay/" }
+      { "@type": "ListItem", "position": 2, "name": "日本クラシックホテルの会加盟名門宿完全ガイド【明治・大正の薫りと登録有形文化財】 | 旅宿クラウド", "item": "https://croud-travel.pages.dev/japan-classic-hotel-association-heritage-stay/" }
     ]
   };
 
@@ -81,6 +82,9 @@ export default function Page() {
             日本にわずか9棟しか存在しない「日本クラシックホテルの会」加盟ホテル。明治から昭和初期にかけて、国の威信をかけて世界各国の国賓やVIPを迎え入れた名建築群は、今なお時を超えた気品と温もりに満ちています。当時のまま大切に手入れされた木製回転ドア、格天井や彫刻の装飾、創業時からの秘伝レシピを受け継ぐ伝統フレンチなど、一度は泊まりたい本物のヘリテージステイへご案内します。
           </p>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"日本クラシックホテルの会加盟名門宿厳選ガイド「明治・大正の薫りと登録有形文化財」"} url={"https://croud-travel.pages.dev/japan-classic-hotel-association-heritage-stay/"} />
+      </div>
 
         {/* メインコンテンツセクション */}
         
@@ -308,8 +312,7 @@ export default function Page() {
 
         {/* よくある質問 FAQ */}
         <section className="mb-16 bg-white rounded-2xl shadow-sm border border-stone-200/80 p-6 md:p-8">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2"><span className="w-2 h-7 bg-amber-700 rounded-full inline-block"></span>
-            よくある質問・歴史建築宿の楽しみ方</h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">よくある質問・歴史建築宿の楽しみ方</h2>
           <div className="space-y-4">
             
             <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
@@ -500,6 +503,9 @@ export default function Page() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"日本クラシックホテルの会加盟名門宿厳選ガイド「明治・大正の薫りと登録有形文化財」"} url={"https://croud-travel.pages.dev/japan-classic-hotel-association-heritage-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="japan-classic-hotel-association-heritage-stay" />
 </div>
         </section>

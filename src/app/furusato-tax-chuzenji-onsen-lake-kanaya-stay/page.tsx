@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -14,7 +15,7 @@ export const metadata: Metadata = {
     title: "中禅寺湖温泉をふるさと納税でお得に旅する！白濁硫黄露天風呂＆湖畔絶景クラシックリゾート！名宿特集",
     description: '男体山の麓・日本一標高の高い湖畔温泉・栃木県日光中禅寺湖温泉を楽天ふるさと納税でお得に満喫！森と湖に抱かれるクラシック名門「中禅寺金谷ホテル」、全室レイクビューと二つの美肌の湯「ホテル花庵」、源泉掛け流しと地酒を味わう「旅籠なごみ」を徹底比較。日光市トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-chuzenji-onsen-lake-kanaya-stay/',
-    siteName: 'トラベルガイド - クラウドトラベル',
+    siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
   },
@@ -28,12 +29,12 @@ export default function FurusatoArticlePage() {
     description: '男体山の麓・日本一標高の高い湖畔温泉・栃木県日光中禅寺湖温泉を楽天ふるさと納税でお得に満喫！森と湖に抱かれるクラシック名門「中禅寺金谷ホテル」、全室レイクビューと二つの美肌の湯「ホテル花庵」、源泉掛け流しと地酒を味わう「旅籠なごみ」を徹底比較。日光市トラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
-      name: 'クラウドトラベル 観光・ふるさと納税調査班',
+      name: '旅宿クラウド 観光・ふるさと納税調査班',
       url: 'https://croud-travel.pages.dev/',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'クラウドトラベル',
+      name: '旅宿クラウド',
       logo: {
         '@type': 'ImageObject',
         url: 'https://croud-travel.pages.dev/logo.png',
@@ -80,6 +81,9 @@ export default function FurusatoArticlePage() {
           男体山の麓・日本一標高の高い湖畔温泉・栃木県日光中禅寺湖温泉を楽天ふるさと納税でお得に満喫！森と湖に抱かれるクラシック名門「中禅寺金谷ホテル」、全室レイクビューと二つの美肌の湯「ホテル花庵」、源泉掛け流しと地酒を味わう「旅籠なごみ」を徹底比較。日光市トラベルクーポン活用術を網羅。
         </p>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"中禅寺湖温泉をふるさと納税でお得に旅する！白濁硫黄露天風呂＆湖畔絶景クラシックリゾート！名宿特集"} url={"https://croud-travel.pages.dev/furusato-tax-chuzenji-onsen-lake-kanaya-stay/"} />
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
@@ -360,7 +364,7 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 中禅寺湖温泉・華厳の滝＆英国大使館別荘記念公園ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">中禅寺湖温泉・華厳の滝＆英国大使館別荘記念公園ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
@@ -586,6 +590,9 @@ export default function FurusatoArticlePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"中禅寺湖温泉をふるさと納税でお得に旅する！白濁硫黄露天風呂＆湖畔絶景クラシックリゾート！名宿特集"} url={"https://croud-travel.pages.dev/furusato-tax-chuzenji-onsen-lake-kanaya-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-chuzenji-onsen-lake-kanaya-stay" />
 </div>
         </section>

@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import FurusatoStepSection from "@/app/components/FurusatoStepSection";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
@@ -96,6 +97,9 @@ export default function FurusatoSoloTravelRetreatStayPage() {
             </Link>
           </div>
         </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"一人旅歓迎！誰にも気兼ねせず自分を癒やす極上おこもり温泉宿×ふるさと納税厳選ガイド箱根湯本・草津・由布院"} url={"https://croud-travel.pages.dev/furusato-tax-solo-travel-retreat-private-onsen-stay/"} />
+      </div>
 
         {/* 3つの醍醐味セクション */}
         <section className="mb-16">
@@ -516,6 +520,9 @@ export default function FurusatoSoloTravelRetreatStayPage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"一人旅歓迎！誰にも気兼ねせず自分を癒やす極上おこもり温泉宿×ふるさと納税厳選ガイド箱根湯本・草津・由布院"} url={"https://croud-travel.pages.dev/furusato-tax-solo-travel-retreat-private-onsen-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="furusato-tax-solo-travel-retreat-private-onsen-stay" />
 </div>
         </section>

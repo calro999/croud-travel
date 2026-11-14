@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -137,6 +138,9 @@ export default function FeaturePage() {
             轟く名瀑の音と舞い上がる水しぶき、降り注ぐマイナスイオン！客室露天風呂や専用ウッドデッキから迫力ある滝の絶景を独占できる、自然のエネルギーに満ちた全国屈指の滝見温泉宿を厳選紹介。
           </p>
         </div>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"滝壺マイナスイオン：客室専用テラスから名瀑を望む！絶景滝見露天風呂の贅沢宿5選"} url={"https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-waterfall-basin/"} />
+      </div>
       </section>
 
       {/* Breadcrumbs */}
@@ -429,6 +433,9 @@ export default function FeaturePage() {
               </Link>
             </div>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"滝壺マイナスイオン：客室専用テラスから名瀑を望む！絶景滝見露天風呂の贅沢宿5選"} url={"https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-waterfall-basin/"} />
+      </div>
       <HubRelatedPosts currentSlug="luxury-private-onsen-with-scenic-waterfall-basin" />
 </div>
         </section>

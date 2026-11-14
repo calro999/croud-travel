@@ -1,3 +1,4 @@
+import ShareButtons from "@/app/components/ShareButtons";
 import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
@@ -296,6 +297,9 @@ export default function AmanohashidateWinterPage() {
           </div>
         </div>
       </header>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-6">
+        <ShareButtons title={"【11・12月天橋立の白砂青松雪景色とカニ漁解禁】日本三景を望む冬の美肌湯・幻の間人ガニ＆寒ブリしゃぶしゃぶの宿5選"} url={"https://croud-travel.pages.dev/winter-kyoto-amanohashidate-matsuba-crab-stay/"} />
+      </div>
 
       {/* Main Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
@@ -518,7 +522,7 @@ export default function AmanohashidateWinterPage() {
                       <a
                         href={h.url}
                         target="_blank"
-                        rel="noopener noreferrer nofollow"
+                        rel="sponsored noopener noreferrer"
                         className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-6 py-3 rounded-xl bg-teal-700 hover:bg-teal-800 text-white text-xs sm:text-sm font-bold shadow-md hover:shadow-lg transition-all duration-200"
                       >
                         <span>空室・料金プランを確認</span>
@@ -718,6 +722,9 @@ export default function AmanohashidateWinterPage() {
               </p>
             </Link>
           
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">
+        <ShareButtons title={"【11・12月天橋立の白砂青松雪景色とカニ漁解禁】日本三景を望む冬の美肌湯・幻の間人ガニ＆寒ブリしゃぶしゃぶの宿5選"} url={"https://croud-travel.pages.dev/winter-kyoto-amanohashidate-matsuba-crab-stay/"} />
+      </div>
       <HubRelatedPosts currentSlug="winter-kyoto-amanohashidate-matsuba-crab-stay" />
 </div>
         </section>
