@@ -406,10 +406,10 @@ export default function KyotoCoupleLuxuryRyokanPage() {
                 奈良県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/yamagata/"
+                href="/prefectures/kyoto/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                山形県の宿・温泉
+                京都府の宿・温泉
               </Link>
               <Link
                 href="/prefectures/niigata/"
@@ -432,11 +432,11 @@ export default function KyotoCoupleLuxuryRyokanPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">京都カップル旅行 おすすめ高級旅館＆町家ホテル：祇園・嵐山で二人きりの特別な夜を過ごす大人の宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「京都カップル旅行 おすすめ高級旅館＆町家ホテル：祇園・嵐山で二人きりの特別な夜を過ごす大人の宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「京都カップル旅行 おすすめ高級旅館＆町家ホテル：祇園・嵐山で二人きりの特別な夜を過ごす大人の宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -456,7 +456,7 @@ export default function KyotoCoupleLuxuryRyokanPage() {
               <tbody className="divide-y divide-stone-200">
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 京都美山　料理旅館　枕川楼</td>
-                <td className="p-3 text-stone-600">北海道</td>
+                <td className="p-3 text-stone-600">京都府南丹市美山町中上前26</td>
                 <td className="p-3 text-stone-600">JR山陰線　日吉駅よりバス60分、京都縦貫自動車道　園部ICより車50</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4（48件）</td>
@@ -465,7 +465,7 @@ export default function KyotoCoupleLuxuryRyokanPage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. Ｎａｚｕｎａ　京都　椿通</td>
-                <td className="p-3 text-stone-600">北海道</td>
+                <td className="p-3 text-stone-600">京都府京都市下京区高辻通大宮西入坊門町838</td>
                 <td className="p-3 text-stone-600">京都駅からタクシー約10分/阪急電鉄京都本「大宮」駅から徒歩約5分/京</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.7（137件）</td>
@@ -526,12 +526,12 @@ export default function KyotoCoupleLuxuryRyokanPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/104819/104819.jpg" alt="京都美山　料理旅館　枕川楼 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「京都カップル旅行 おすすめ高級旅館＆町家ホテル（祇園・嵐山で二人きりの特別な夜を過ごす大人の宿）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：JR山陰線　日吉駅よりバス60分、京都縦貫自動車道　園部ICより車50分、京都市内より車90分。</p>
+                  <p><strong>【宿の特徴・魅力】</strong>京都カップル旅行 おすすめ高級旅館＆町家ホテルエリアの宿泊施設別スペック＆滞在チェックポイントは、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：JR山陰線　日吉駅よりバス60分、京都縦貫自動車道　園部ICより車50分、京都市内より車90分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「絶景のロケーションとおもてなしに心から癒やされました。」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「京都美山 料理旅館 枕川楼での快適な滞在とアクセス面の良さに満足したという評価が寄せられています。」
                   </blockquote>
                 </div>
               </div>
@@ -548,12 +548,12 @@ export default function KyotoCoupleLuxuryRyokanPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/179715/179715.jpg" alt="Ｎａｚｕｎａ　京都　椿通 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「京都カップル旅行 おすすめ高級旅館＆町家ホテル（祇園・嵐山で二人きりの特別な夜を過ごす大人の宿）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：京都駅からタクシー約10分/阪急電鉄京都本「大宮」駅から徒歩約5分/京福電気鉄道嵐山本線「四条大宮」駅から徒歩5分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>築110年以上の町家が立ち並ぶ約1,400平米のL字型路地一体を1つの宿に改修した旅館です</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：京都駅からタクシー約10分/阪急電鉄京都本「大宮」駅から徒歩約5分/京福電気鉄道嵐山本線「四条大宮」駅から徒歩5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「絶景のロケーションとおもてなしに心から癒やされました。」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「Ｎａｚｕｎａ 京都 椿通での快適な滞在とアクセス面の良さに満足したという評価が寄せられています。」
                   </blockquote>
                 </div>
               </div>
@@ -571,7 +571,7 @@ export default function KyotoCoupleLuxuryRyokanPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/129556/129556_ru1.jpg" alt="京都北白川天然ラジウム温泉　えいせん京 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全国トップクラスのラジウム含有量を誇る天然温泉■オリジナルの京料理は絶品！露天付客室がおススメです。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 京都府京都市左京区北白川地蔵谷町1-125 ／ 最寄り駅：出町柳 ／ 交通案内：三条京阪・出町柳駅より京阪バスにて【地蔵谷】バス停下車すぐ■京阪出町柳駅・市バス銀閣寺道より無料お迎えサービスあり</p>
+                  <p><strong>【所在地・アクセス】</strong>京都府京都市左京区北白川地蔵谷町1-125 ／ 最寄り駅：出町柳 ／ 交通案内：三条京阪・出町柳駅より京阪バスにて【地蔵谷】バス停下車すぐ■京阪出町柳駅・市バス銀閣寺道より無料お迎えサービスあり</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -593,7 +593,7 @@ export default function KyotoCoupleLuxuryRyokanPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/179875/179875_kan1.jpg" alt="変なホテルプレミア京都　五条烏丸（旧ウォーターマークホテル京都） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>地下鉄烏丸線京都駅から1駅「五条」駅より徒歩2分！畳のお部屋でリラックス♪小学生以下の添い寝無料♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 京都府京都市下京区室町通五条下る大黒町195 ／ 最寄り駅：五条（京都市営） ／ 交通案内：地下鉄烏丸線「五条」駅4番出口より徒歩約２分</p>
+                  <p><strong>【所在地・アクセス】</strong>京都府京都市下京区室町通五条下る大黒町195 ／ 最寄り駅：五条（京都市営） ／ 交通案内：地下鉄烏丸線「五条」駅4番出口より徒歩約２分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場はございません。近隣のコインパーキングをご利用ください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.29 ／ 立地 ★4.36 ／ 部屋 ★4.5 ／ 設備 ★4.37 ／ 風呂 ★4.33 ／ 食事 ★4.22</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -615,7 +615,7 @@ export default function KyotoCoupleLuxuryRyokanPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/187986/187986.jpg" alt="ロワジールホテル京都東寺 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>京都駅から徒歩10分 | 世界遺産「東寺」ビューと大浴場・サウナ、おばんざい朝食ビュッフェで京都満喫</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 京都府京都市南区西九条蔵王町 31-1 ／ 最寄り駅：京都 ／ 交通案内：JR「京都駅」八条西口より徒歩12分、近鉄「東寺駅」より徒歩3分</p>
+                  <p><strong>【所在地・アクセス】</strong>京都府京都市南区西九条蔵王町 31-1 ／ 最寄り駅：京都 ／ 交通案内：JR「京都駅」八条西口より徒歩12分、近鉄「東寺駅」より徒歩3分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無し/近隣パーキングをご利用ください</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -637,7 +637,7 @@ export default function KyotoCoupleLuxuryRyokanPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1369/1369_kan.jpg" alt="京都センチュリーホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>旅するように過ごす、京都駅前より新しい「旅」が始まります</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 京都府京都市下京区東塩小路町680 ／ 最寄り駅：京都 ／ 交通案内：JR京都駅中央口＜ニデック京都タワー＞より徒歩約2分。地下（JR烏丸東口・地下鉄京都駅）から”出口5”をご利用ください。</p>
+                  <p><strong>【所在地・アクセス】</strong>京都府京都市下京区東塩小路町680 ／ 最寄り駅：京都 ／ 交通案内：JR京都駅中央口＜ニデック京都タワー＞より徒歩約2分。地下（JR烏丸東口・地下鉄京都駅）から”出口5”をご利用ください。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>1泊￥2000(15：00-翌日12：00)(収容台数50台まで・予約不可) 時間外30分￥800</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.51 ／ 立地 ★4.39 ／ 部屋 ★4.47 ／ 設備 ★4.4 ／ 風呂 ★4.26 ／ 食事 ★4.55</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

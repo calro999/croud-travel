@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/winter-crab-gourmet-luxury-inn-ranking/"
   };
 
@@ -186,6 +186,12 @@ export default function Page() {
           </p>
         </div>
 
+        <div className="pt-2">
+          <ShareButtons
+            title="冬の味覚の王様！極上活蟹・松葉ガニ・越前ガニを心ゆくまで堪能できる厳選温泉宿 ｜ 日本全国・旅宿クラウド"
+            url="https://croud-travel.pages.dev/winter-crab-gourmet-luxury-inn-ranking/"
+          />
+        </div>
         {/* クーポン特大バナー */}
         <SpecialCouponBanner />
 
@@ -306,11 +312,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">冬の味覚の王様！極上活蟹・松葉ガニ・越前ガニを心ゆくまで堪能できる厳選温泉宿 ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「冬の味覚の王様！極上活蟹・松葉ガニ・越前ガニを心ゆくまで堪能できる厳選温泉宿 ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「冬の味覚の王様！極上活蟹・松葉ガニ・越前ガニを心ゆくまで堪能できる厳選温泉宿 ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -374,7 +380,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/147534/147534_kan1.jpg" alt="城崎温泉　医食同源の宿　かに庵 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>但馬牛や松葉かになど、地産地消を基本にグルメと健康を両立した6室の宿でございます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県豊岡市城崎町湯島690 ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ　城崎温泉駅より徒歩にて約７分。　大阪方面より中国道～舞鶴道～北近畿豊岡自動車道～但馬空港ＩＣ下車　約30分</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県豊岡市城崎町湯島690 ／ 交通案内：ＪＲ　城崎温泉駅より徒歩にて約７分。　大阪方面より中国道～舞鶴道～北近畿豊岡自動車道～但馬空港ＩＣ下車　約30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>契約駐車場有り(受け入れ15〜18時、翌10時まで）　有料1,650円　　要予約</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -396,7 +402,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/19708/19708_ry.jpg" alt="城崎温泉　網元の宿　蟹宿むつの屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>四季を通じて新鮮な海の幸をお召し上がりいただけます。外湯めぐり（外湯巡り券付き）にも便利です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県豊岡市城崎町湯島652 ／ 最寄り駅：城崎 ／ 交通案内：ＪＲ城崎駅より徒歩１０分、最寄りIC：日高神鍋高原IC</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県豊岡市城崎町湯島652 ／ 最寄り駅：城崎 ／ 交通案内：ＪＲ城崎駅より徒歩１０分、最寄りIC：日高神鍋高原IC</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　1５台　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -418,7 +424,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/14007/14007_room.jpg" alt="城崎温泉　西村屋ホテル招月庭 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>かに・但馬牛など四季折々の味覚と充実したお風呂。五万坪の森林に囲まれ寛ぎのひとときを。無料駐車場有</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県豊岡市城崎町湯島1016-2 ／ 最寄り駅：城崎 ／ 交通案内：【電車】JR城崎温泉駅から旅館組合無料乗合バスで5～15分【車】北近畿豊岡自動車道・豊岡出石ICから約18分</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県豊岡市城崎町湯島1016-2 ／ 最寄り駅：城崎 ／ 交通案内：【電車】JR城崎温泉駅から旅館組合無料乗合バスで5～15分【車】北近畿豊岡自動車道・豊岡出石ICから約18分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場有（100台・予約不要）バイクも可</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

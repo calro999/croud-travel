@@ -236,7 +236,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -681,11 +681,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：天然湖水風呂へダイブ！北欧直輸入バレルサウナ＆レイクフロント温泉宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：天然湖水風呂へダイブ！北欧直輸入バレルサウナ＆レイクフロント温泉宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：天然湖水風呂へダイブ！北欧直輸入バレルサウナ＆レイクフロント温泉宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -767,7 +767,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/30970/30970_ro.jpg" alt="奥札幌の秘湯　湖畔の宿支笏湖　丸駒温泉旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【2024,2025年連続アワード受賞宿】2024年リニューアル、国立公園の絶景温泉とサウナが自慢</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道千歳市幌美内7番地 ／ 最寄り駅：千歳（北海道） ／ 交通案内：ＪＲ千歳駅／新千歳空港より車で５０分、札幌市内、エスコンフィールド、苫小牧港から車で６０分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道千歳市幌美内7番地 ／ 最寄り駅：千歳（北海道） ／ 交通案内：ＪＲ千歳駅／新千歳空港より車で５０分、札幌市内、エスコンフィールド、苫小牧港から車で６０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場は50台分ございます。料金は無料です。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.4 ／ 立地 ★4.6 ／ 部屋 ★4.21 ／ 設備 ★4.24 ／ 風呂 ★4.61 ／ 食事 ★4.44</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -789,7 +789,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/16099/16099_wa.jpg" alt="蓼科温泉　いろりの宿　蓼科パークホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>晴れた夜には満天の星空を眺めながらの温泉　囲炉裏を囲んで愉しむご夕食で思い出に残るご旅行へ</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県茅野市北山5522 ／ 最寄り駅：茅野 ／ 交通案内：ＪＲ茅野駅下車タクシー２０分バス３０分／中央道諏訪ＩＣより約３０分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県茅野市北山5522 ／ 最寄り駅：茅野 ／ 交通案内：ＪＲ茅野駅下車タクシー２０分バス３０分／中央道諏訪ＩＣより約３０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>■有り200台無料　■全館Wi-Fi対応　■禁煙・喫煙ルームあり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.46 ／ 立地 ★3.48 ／ 部屋 ★3.14 ／ 設備 ★2.94 ／ 風呂 ★3.46 ／ 食事 ★3.61</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -811,7 +811,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/11035/11035_pu.jpg" alt="岳温泉　陽日の郷(ゆいのさと)あづま館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>源泉掛け流しの酸性泉とビュッフェの宿　ライブキッチンと旬の食材を生かした料理をご用意しております</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県二本松市岳温泉1-5 ／ 最寄り駅：郡山（福島） ／ 交通案内：東北新幹線「郡山駅」乗換え、東北本線「二本松駅」下車 バス２５分　東北自動車道二本松ＩＣより１５分 福島空港より車６０分</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県二本松市岳温泉1-5 ／ 最寄り駅：郡山（福島） ／ 交通案内：東北新幹線「郡山駅」乗換え、東北本線「二本松駅」下車 バス２５分　東北自動車道二本松ＩＣより１５分 福島空港より車６０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.34 ／ 立地 ★4 ／ 部屋 ★4.28 ／ 設備 ★4.23 ／ 風呂 ★4.41 ／ 食事 ★4.33</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -833,7 +833,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/142731/142731_room.jpg" alt="大芝高原温泉　道の駅【癒しと健康の森】　信州大芝高原 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>伊那IC車で5分！癒しの森の木の温もり溢れるコテージ♪日帰り温泉「大芝の湯」の割引券付！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県上伊那郡南箕輪村2358-5 ／ 最寄り駅：伊那北 ／ 交通案内：伊那北駅よりお車で15分／伊那ICよりお車で約5分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県上伊那郡南箕輪村2358-5 ／ 最寄り駅：伊那北 ／ 交通案内：伊那北駅よりお車で15分／伊那ICよりお車で約5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.05 ／ 立地 ★4.53 ／ 部屋 ★4.37 ／ 設備 ★3.89 ／ 風呂 ★4.21</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -855,7 +855,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/54551/54551_ky.jpg" alt="宝船温泉　湯元　ことぶき 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全4室、食通も絶賛の美食の宿。バレルサウナや源泉かけ流しの水風呂等、サウナエリアも大人気★</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 滋賀県高島市安曇川町下小川2248-2 ／ 最寄り駅：近江高島 ／ 交通案内：ＪＲ近江高島駅よりタクシーにて5分（駅からの送迎有。（要予約））/京都よりＲ161号線（今津・敦賀方面）55分</p>
+                  <p><strong>【所在地・アクセス】</strong>滋賀県高島市安曇川町下小川2248-2 ／ 最寄り駅：近江高島 ／ 交通案内：ＪＲ近江高島駅よりタクシーにて5分（駅からの送迎有。（要予約））/京都よりＲ161号線（今津・敦賀方面）55分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

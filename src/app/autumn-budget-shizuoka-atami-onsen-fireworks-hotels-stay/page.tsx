@@ -317,11 +317,11 @@ export default function AtamiBudgetAutumnPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋の熱海温泉×格安：海上花火大会と相模湾絶景！1泊4,000円台〜のコスパ最強おすすめ温泉宿5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「秋の熱海温泉×格安：海上花火大会と相模湾絶景！1泊4,000円台〜のコスパ最強おすすめ温泉宿5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「秋の熱海温泉×格安：海上花火大会と相模湾絶景！1泊4,000円台〜のコスパ最強おすすめ温泉宿5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -385,7 +385,7 @@ export default function AtamiBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/29878/29878_t.jpg" alt="熱海温泉ホテル　夢いろは 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>青山湯の源泉蒸し体験がおすすめ！炊きたてを味わう釜飯御膳が自慢！源泉掛け流し貸切露天風呂で癒される</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県熱海市咲見町4-6 ／ 最寄り駅：熱海 ／ 交通案内：ＪＲ熱海駅より徒歩１０分ほど　タクシーならたった5分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県熱海市咲見町4-6 ／ 最寄り駅：熱海 ／ 交通案内：ＪＲ熱海駅より徒歩１０分ほど　タクシーならたった5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場は一律1000円予約不可・先着順限定7台でのご案内となります。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -407,7 +407,7 @@ export default function AtamiBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/75267/75267_wa.jpg" alt="熱海温泉　ウオミサキホテル（伊東園ホテルズ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>熱海港前、熱海の旅を満喫できる宿ウオミサキホテル。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県熱海市和田浜南町7-2 ／ 最寄り駅：熱海 ／ 交通案内：ＪＲ東海道新幹線　熱海駅よりバスに乗車、マリンスパあたみ下車で徒歩1分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県熱海市和田浜南町7-2 ／ 最寄り駅：熱海 ／ 交通案内：ＪＲ東海道新幹線　熱海駅よりバスに乗車、マリンスパあたみ下車で徒歩1分</p>
                   <p>【秋の熱海温泉×格安：海上花火大会と相模湾絶景】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.74 ／ 立地 ★3.9 ／ 部屋 ★3.66 ／ 設備 ★3.52 ／ 風呂 ★3.82 ／ 食事 ★3.7</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -429,7 +429,7 @@ export default function AtamiBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/15680/15680_r.jpg" alt="熱海温泉　ホテル　サンミ倶楽部 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>オーシャンビュー客室に海一望の温泉も人気！館内には24 Hコンビニ有り♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県熱海市和田浜南町5-8 ／ 最寄り駅：熱海 ／ 交通案内：JR東海道線『熱海駅』より東海バス『マリンスパあたみ』下車　徒歩1分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県熱海市和田浜南町5-8 ／ 最寄り駅：熱海 ／ 交通案内：JR東海道線『熱海駅』より東海バス『マリンスパあたみ』下車　徒歩1分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>50台　有料（1100円）※ご利用時間はご宿泊日の12時からチェックアウト日の10時までとなります。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

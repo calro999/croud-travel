@@ -243,7 +243,7 @@ export default function Page() {
         <section className="space-y-10">
           <div className="text-center space-y-2">
             <h2 className="text-2xl md:text-3xl font-bold text-slate-900">楽天ふるさと納税で泊まる名宿＆厳選ホテル</h2>
-            <p className="text-xs md:text-sm text-slate-500">楽天トラベル公式APIより最新の宿情報・写真・最低参考価格を取得しています
+            <p className="text-xs md:text-sm text-slate-500">宿泊施設データより最新の宿情報・写真・最低参考価格を取得しています
             </p>
           </div>
 

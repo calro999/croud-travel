@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">【奥日光・中禅寺湖】華厳の滝＆湖畔リゾート極上宿 完全ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「【奥日光・中禅寺湖】華厳の滝＆湖畔リゾート極上宿 完全ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「【奥日光・中禅寺湖】華厳の滝＆湖畔リゾート極上宿 完全ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -252,7 +252,7 @@ export default function MicroTouristHubPage() {
               <tbody className="divide-y divide-stone-200">
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 日光中禅寺湖温泉　ホテル花庵</td>
-                <td className="p-3 text-stone-600">栃木県</td>
+                <td className="p-3 text-stone-600">栃木県日光市中宮祠2480</td>
                 <td className="p-3 text-stone-600">ＪＲ日光駅又は東武日光駅より中禅寺温泉方面行きバス「中禅寺温泉バス停」</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.64（1291件）</td>
@@ -322,8 +322,8 @@ export default function MicroTouristHubPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/54978/54978.jpg" alt="日光中禅寺湖温泉　ホテル花庵 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「奥日光・中禅寺湖（華厳の滝＆湖畔リゾート極上宿 厳選ガイド）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ日光駅又は東武日光駅より中禅寺温泉方面行きバス「中禅寺温泉バス停」下車。バス停より徒歩5分。日光東照宮より車で25分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>奥日光・中禅寺湖エリアの宿泊施設別スペック＆滞在チェックポイントは、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：ＪＲ日光駅又は東武日光駅より中禅寺温泉方面行きバス「中禅寺温泉バス停」下車。バス停より徒歩5分。日光東照宮より車で25分</p>
                   <p>【奥日光・中禅寺湖：華厳の滝＆湖畔リゾート極上宿 厳選】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/28759/28759_meal.jpg" alt="日光中禅寺温泉　中禅寺金谷ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>日光国立公園内、中禅寺湖畔に建つログハウス風洋式ホテル。露天温泉「空ぶろ－ＳＯＲＡＢＵＲＯ－」有り。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県日光市中宮祠2482 ／ 最寄り駅：東武日光 ／ 交通案内：日光宇都宮有料道路清滝IC～車で約25分（いろは坂経由）東武日光駅～無料送迎バス有（運行時間変動有）日光東照宮迄車40分</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県日光市中宮祠2482 ／ 最寄り駅：東武日光 ／ 交通案内：日光宇都宮有料道路清滝IC～車で約25分（いろは坂経由）東武日光駅～無料送迎バス有（運行時間変動有）日光東照宮迄車40分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（屋外）　５０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/149268/149268_kan1.jpg" alt="湯西川温泉　ホテル湯西川（伊東園ホテルズ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>平家の落人伝説の残る温泉地。Ph9.2のアルカリ性単純泉『美肌の湯』と言われています。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県日光市湯西川597 ／ 最寄り駅：湯西川温泉 ／ 交通案内：湯西川温泉駅よりバスにて約20分（ホテル湯西川前下車）</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県日光市湯西川597 ／ 最寄り駅：湯西川温泉 ／ 交通案内：湯西川温泉駅よりバスにて約20分（ホテル湯西川前下車）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4 ／ 立地 ★4.03 ／ 部屋 ★3.88 ／ 設備 ★3.81 ／ 風呂 ★4.17 ／ 食事 ★3.89</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/135482/135482_room.jpg" alt="日光湯元温泉　日光グランドホテル　ほのかな宿樹林 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【全室WiFi完備】★日光湯元白濁硫黄泉・源泉掛け流し♪自然と温泉のテーマパーク★</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県日光市湯元2549-7 ／ 最寄り駅：東武日光 ／ 交通案内：東武日光駅バス湯元温泉行下車5分　日光東照宮車60分</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県日光市湯元2549-7 ／ 最寄り駅：東武日光 ／ 交通案内：東武日光駅バス湯元温泉行下車5分　日光東照宮車60分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/168189/168189_kan1.jpg" alt="日光東照宮晃陽苑 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>4万坪（東京D約2個半）の敷地の中に、四季折々の自然とゆったりと時間を感じられる日光東照宮ゆかりの宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県日光市瀬尾1640-14 ／ 最寄り駅：日光 ／ 交通案内：日光駅よりお車にて約１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県日光市瀬尾1640-14 ／ 最寄り駅：日光 ／ 交通案内：日光駅よりお車にて約１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（無料）　１００台　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31366/31366_kan1.jpg" alt="鬼怒川温泉　鬼怒川グランドホテル　夢の季（ゆめのとき） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【９つの湯めぐり】緑美しい山並みに包まれて、四季の味わいと天然温泉で喧騒から離れた癒しの季に。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県日光市鬼怒川温泉大原1021 ／ 最寄り駅：鬼怒川温泉 ／ 交通案内：鬼怒川温泉駅より徒歩8分／日光・宇都宮有料道路今市ＩＣより車で20分</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県日光市鬼怒川温泉大原1021 ／ 最寄り駅：鬼怒川温泉 ／ 交通案内：鬼怒川温泉駅より徒歩8分／日光・宇都宮有料道路今市ＩＣより車で20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　無料先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.58 ／ 立地 ★4.35 ／ 部屋 ★4.53 ／ 設備 ★4.4 ／ 風呂 ★4.48 ／ 食事 ★4.62</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

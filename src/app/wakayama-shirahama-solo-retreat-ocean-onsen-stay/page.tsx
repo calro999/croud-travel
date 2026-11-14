@@ -77,7 +77,7 @@ export default function ArticlePage() {
             和歌山・南紀白浜温泉ひとり旅＆海一望おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「南紀白浜ひとり旅・海一望名湯おこもり」白良浜オーシャンビュー・日本三古湯・クエ＆伊勢海老！太平洋の絶景に抱かれる厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               関西屈指のビーチリゾートであり、有馬・道後と並ぶ「日本三古湯」の一つに数えられる和歌山県・南紀白浜温泉。南紀白浜空港からは東京・羽田からわずか75分という抜群のアクセスを誇り、海沿いに湧く良質な塩化物泉が旅の疲れを優しく癒やしてくれます。
             </p>
             <p>
-              海を見渡す絶景温泉露天風呂から、旬のクエ料理や海の幸を贅沢に味わえる名宿まで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              海を見渡す絶景温泉露天風呂から、旬のクエ料理や海の幸を贅沢に味わえる名宿まで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -419,11 +419,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">南紀白浜ひとり旅・海一望名湯おこもり：白良浜オーシャンビュー・日本三古湯・クエ＆伊勢海老！太平洋の絶景に抱かれる厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「南紀白浜ひとり旅・海一望名湯おこもり：白良浜オーシャンビュー・日本三古湯・クエ＆伊勢海老！太平洋の絶景に抱かれる厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「南紀白浜ひとり旅・海一望名湯おこもり：白良浜オーシャンビュー・日本三古湯・クエ＆伊勢海老！太平洋の絶景に抱かれる厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -487,7 +487,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/189009/189009.jpg" alt="白浜・温泉リゾート　海岳 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>◆紀州の厳選食材満載の極上グルメと源泉かけ流し温泉をご堪能◆アイス無料御提供</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県西牟婁郡白浜町3212-12 ／ 最寄り駅：白浜 ／ 交通案内：白浜駅から車で8分、南紀白浜空港から車で15分</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県西牟婁郡白浜町3212-12 ／ 最寄り駅：白浜 ／ 交通案内：白浜駅から車で8分、南紀白浜空港から車で15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -509,7 +509,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/18253/18253_onsen.jpg" alt="白浜古賀の井リゾート＆スパ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全室オーシャンビュー。ビュッフェが大好評！水盤に浮かぶような露天風呂で贅沢なリゾートステイを。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県西牟婁郡白浜町3212-1 ／ 最寄り駅：白浜 ／ 交通案内：JR白浜駅から車で約10分※無料送迎バス運行中／南紀白浜空港から車で約8分／大阪から車で阪和道南紀田辺IC経由で約2時間</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県西牟婁郡白浜町3212-1 ／ 最寄り駅：白浜 ／ 交通案内：JR白浜駅から車で約10分※無料送迎バス運行中／南紀白浜空港から車で約8分／大阪から車で阪和道南紀田辺IC経由で約2時間</p>
                   <p><strong>【駐車場・マイカー利用】</strong>110台（無料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.46 ／ 立地 ★4.5 ／ 部屋 ★4.42 ／ 設備 ★4.31 ／ 風呂 ★4.46 ／ 食事 ★4.49</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -531,7 +531,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/19739/19739_lo.jpg" alt="紀州・白浜温泉　むさし 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【白良浜まで徒歩1分】2種類の源泉とライブキッチンバイキングが愉しめる本格和風旅館へ。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県西牟婁郡白浜町868 ／ 最寄り駅：白浜 ／ 交通案内：JR白浜駅より車で約10分／南紀白浜空港より車で約10分／アドベンチャーワールドより車で約15分</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県西牟婁郡白浜町868 ／ 最寄り駅：白浜 ／ 交通案内：JR白浜駅より車で約10分／南紀白浜空港より車で約10分／アドベンチャーワールドより車で約15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場あり（２２０台）　ご到着時、当館玄関までお着け下さいませ</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -256,11 +256,11 @@ export default function TohokuBudgetGuidePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">東北旅行 費用：2泊3日で仙台・松島・銀山温泉を巡るといくらかかる？交通費＆宿泊費の完全内訳：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「東北旅行 費用：2泊3日で仙台・松島・銀山温泉を巡るといくらかかる？交通費＆宿泊費の完全内訳」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「東北旅行 費用：2泊3日で仙台・松島・銀山温泉を巡るといくらかかる？交通費＆宿泊費の完全内訳」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -351,7 +351,7 @@ export default function TohokuBudgetGuidePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/19512/19512_b.jpg" alt="ホテルモントレ仙台 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>アメニティ充実のレディースフロアを新設♪プラハをモチーフとした館内。最上階には天然温泉スパをご用意。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮城県仙台市青葉区中央4-1-8 ／ 最寄り駅：仙台 ／ 交通案内：JR仙台駅西口より徒歩3分</p>
+                  <p><strong>【所在地・アクセス】</strong>宮城県仙台市青葉区中央4-1-8 ／ 最寄り駅：仙台 ／ 交通案内：JR仙台駅西口より徒歩3分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>73台収容立体駐車場あり(1,500円／15：00～翌15：00)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -373,7 +373,7 @@ export default function TohokuBudgetGuidePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/67093/67093_room.jpg" alt="コンフォートホテル仙台西口（２０２６年４月１７日　リニューアル） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>日替わりスムージーが人気★無料朝食サービスがイチオシのコスパ最強ホテル◆小学6年生まで添い寝無料</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮城県仙台市青葉区中央3-5-11 ／ 最寄り駅：仙台 ／ 交通案内：◆JR仙台駅西口より徒歩3分◆仙台空港～仙台駅まで電車（アクセス線）で約20分◆仙台宮城ICより車で約15分◆</p>
+                  <p><strong>【所在地・アクセス】</strong>宮城県仙台市青葉区中央3-5-11 ／ 最寄り駅：仙台 ／ 交通案内：◆JR仙台駅西口より徒歩3分◆仙台空港～仙台駅まで電車（アクセス線）で約20分◆仙台宮城ICより車で約15分◆</p>
                   <p><strong>【駐車場・マイカー利用】</strong>1120～1530円/泊：提携先により条件が異なります。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -395,7 +395,7 @@ export default function TohokuBudgetGuidePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/70972/70972_ru.jpg" alt="ホテルルートイン仙台港北インター 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>■ＷＯＷＯＷ全室で無料視聴可　■大浴場あり　■朝食無料サービス</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮城県多賀城市町前1-1-15 ／ 最寄り駅：多賀城 ／ 交通案内：仙台東部道路【仙台港北IC】より車で１分・JR仙石線中野栄駅（仙台駅から8駅20分）より徒歩12分</p>
+                  <p><strong>【所在地・アクセス】</strong>宮城県多賀城市町前1-1-15 ／ 最寄り駅：多賀城 ／ 交通案内：仙台東部道路【仙台港北IC】より車で１分・JR仙石線中野栄駅（仙台駅から8駅20分）より徒歩12分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場142台完備。予約不要。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -417,7 +417,7 @@ export default function TohokuBudgetGuidePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/68602/68602_room.jpg" alt="銀山温泉　旅館藤屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ステンドガラス・竹・和紙が織りなす独特な空間と、趣の違う五つの貸切風呂をお楽しみ下さいませ。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県尾花沢市銀山新畑443 ／ 最寄り駅：大石田 ／ 交通案内：大石田駅より車にて３０分位（１５ｋｍ）</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県尾花沢市銀山新畑443 ／ 最寄り駅：大石田 ／ 交通案内：大石田駅より車にて３０分位（１５ｋｍ）</p>
                   <p>【東北旅行 費用：2泊3日で仙台・松島・銀山温泉を巡る】 <strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -439,7 +439,7 @@ export default function TohokuBudgetGuidePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/52933/52933_kya.jpg" alt="銀山温泉　旅館松本 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>館内エレベータで移動楽々！ご夕食はお部屋食又は個室、お風呂は源泉かけ流し！全１０室の家庭的な宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県尾花沢市銀山温泉 ／ 最寄り駅：大石田 ／ 交通案内：大石田駅より、バスで４０分（尾花沢経由）※大石田駅までの送迎をご希望の方は、ご予約時に「備考欄」に記載下さい。</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県尾花沢市銀山温泉 ／ 最寄り駅：大石田 ／ 交通案内：大石田駅より、バスで４０分（尾花沢経由）※大石田駅までの送迎をご希望の方は、ご予約時に「備考欄」に記載下さい。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１２台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -461,7 +461,7 @@ export default function TohokuBudgetGuidePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/137447/137447_ru.jpg" alt="銀山温泉　伝統の宿　古山閣 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>木造４階建ての宿。昔の空気が今も流れている・・・そんな感覚を味わいに来てみてはいかがでしょうか。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県尾花沢市銀山温泉423 ／ 最寄り駅：大石田 ／ 交通案内：大石田駅より尾花沢経由銀山行バスにて35分。送迎についてはプラン詳細をご覧ください。</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県尾花沢市銀山温泉423 ／ 最寄り駅：大石田 ／ 交通案内：大石田駅より尾花沢経由銀山行バスにて35分。送迎についてはプラン詳細をご覧ください。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　15台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

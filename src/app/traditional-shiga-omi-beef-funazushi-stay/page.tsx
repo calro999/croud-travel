@@ -418,11 +418,11 @@ export default function FeaturePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">極上近江牛ステーキ＆伝統鮒ずし：琵琶湖の恵みと名湯！おごと温泉の絶景美食宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「極上近江牛ステーキ＆伝統鮒ずし：琵琶湖の恵みと名湯！おごと温泉の絶景美食宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「極上近江牛ステーキ＆伝統鮒ずし：琵琶湖の恵みと名湯！おごと温泉の絶景美食宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -504,7 +504,7 @@ export default function FeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/3165/3165_wa.jpg" alt="おごと温泉　びわこ緑水亭 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>滋賀県おごと温泉、琵琶湖畔の旅館、露天風呂付客室や近江牛のプラン、家族・カップルに人気の旅館。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 滋賀県大津市雄琴6-1-6 ／ 最寄り駅：雄琴 ／ 交通案内：名神京都東Ｉ．Ｃから湖西道路経由で20分。ＪＲおごと温泉駅から送迎あり（要電話）</p>
+                  <p><strong>【所在地・アクセス】</strong>滋賀県大津市雄琴6-1-6 ／ 最寄り駅：雄琴 ／ 交通案内：名神京都東Ｉ．Ｃから湖西道路経由で20分。ＪＲおごと温泉駅から送迎あり（要電話）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.69 ／ 立地 ★4.59 ／ 部屋 ★4.62 ／ 設備 ★4.62 ／ 風呂 ★4.63 ／ 食事 ★4.74</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -526,7 +526,7 @@ export default function FeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/67839/67839_wa.jpg" alt="湖畔の宿　雄琴荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>自慢のお料理に舌鼓。早めのご予約で「おごと温泉」無料貸切＆「レイクビュー客室」をご堪能頂けます◎</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 滋賀県大津市雄琴6-1-24 ／ 最寄り駅：雄琴 ／ 交通案内：ＪＲ湖西線　おごと温泉駅から車で５分（送迎有り）</p>
+                  <p><strong>【所在地・アクセス】</strong>滋賀県大津市雄琴6-1-24 ／ 最寄り駅：雄琴 ／ 交通案内：ＪＲ湖西線　おごと温泉駅から車で５分（送迎有り）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　10台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -548,7 +548,7 @@ export default function FeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/622/622_bt.jpg" alt="─都心の天然温泉─　名古屋クラウンホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【楽天トラベル シルバーアワード2025受賞】伏見駅徒歩約5分！天然温泉×名古屋めしバイキング</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛知県名古屋市中区栄1-8-33 ／ 最寄り駅：名古屋 ／ 交通案内：地下鉄（東山線・鶴舞線）「伏見駅」６番出口より徒歩約５分。ＪＲ「名古屋駅」より車で約５分・徒歩約２０分。</p>
+                  <p><strong>【所在地・アクセス】</strong>愛知県名古屋市中区栄1-8-33 ／ 最寄り駅：名古屋 ／ 交通案内：地下鉄（東山線・鶴舞線）「伏見駅」６番出口より徒歩約５分。ＪＲ「名古屋駅」より車で約５分・徒歩約２０分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>タワー式（車高155cm・タイヤ幅175cm以下）約40台　1泊1200円（15時~翌10時）先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -570,7 +570,7 @@ export default function FeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/927/927_s.jpg" alt="小牧セントラルホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全室高速インターネット有線LAN Wi-Fi環境完備</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛知県小牧市北外山730 ／ 最寄り駅：小牧口 ／ 交通案内：名鉄小牧線「小牧口駅」徒歩３分　小牧ＩＣより車で7分　小牧南ＩＣより車で4分　県営名古屋空港より車で１５分</p>
+                  <p><strong>【所在地・アクセス】</strong>愛知県小牧市北外山730 ／ 最寄り駅：小牧口 ／ 交通案内：名鉄小牧線「小牧口駅」徒歩３分　小牧ＩＣより車で7分　小牧南ＩＣより車で4分　県営名古屋空港より車で１５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　無料 (満車となりましたら徒歩3〜4分の第二駐車場となります）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.16 ／ 立地 ★4.04 ／ 部屋 ★4.05 ／ 設備 ★4.07 ／ 風呂 ★4.04 ／ 食事 ★4.35</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -592,7 +592,7 @@ export default function FeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/970/970_sin.jpg" alt="ハミルトンホテル　－ブラック－ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>モノトーンが特徴のシックなデザイナーズホテル</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛知県名古屋市中区栄1-11-17 ／ 最寄り駅：伏見（愛知） ／ 交通案内：地下鉄東山線・鶴舞線伏見駅6番出口から徒歩約2分</p>
+                  <p><strong>【所在地・アクセス】</strong>愛知県名古屋市中区栄1-11-17 ／ 最寄り駅：伏見（愛知） ／ 交通案内：地下鉄東山線・鶴舞線伏見駅6番出口から徒歩約2分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有料の提携駐車場1か所（事前予約不可）。詳細はホテルにお問合せください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.94 ／ 立地 ★3.89 ／ 部屋 ★3.74 ／ 設備 ★3.67 ／ 風呂 ★3.62</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

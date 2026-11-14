@@ -317,11 +317,11 @@ export default function MatsuyamaBudgetAutumnPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋の松山・道後温泉×格安：松山城の紅葉と最古の名湯外湯めぐり！1泊4,000円台〜のコスパ最強おすすめ宿5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「秋の松山・道後温泉×格安：松山城の紅葉と最古の名湯外湯めぐり！1泊4,000円台〜のコスパ最強おすすめ宿5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「秋の松山・道後温泉×格安：松山城の紅葉と最古の名湯外湯めぐり！1泊4,000円台〜のコスパ最強おすすめ宿5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -403,7 +403,7 @@ export default function MatsuyamaBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/151213/151213_kan1.jpg" alt="ダイワロイネットホテル松山 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★基本セミセパレートバス採用★路面電車「大街道駅」徒歩約1分「道後温泉駅」まで約15分♪観光拠点に◎</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛媛県松山市一番町2-6-5 ／ 最寄り駅：主要駅 ／ 交通案内：市内路面電車「大街道駅」より徒歩約1分の駅ちかホテル。松山空港からリムジンバス（約30分）大街道下車、徒歩約1分</p>
+                  <p><strong>【所在地・アクセス】</strong>愛媛県松山市一番町2-6-5 ／ 交通案内：市内路面電車「大街道駅」より徒歩約1分の駅ちかホテル。松山空港からリムジンバス（約30分）大街道下車、徒歩約1分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>立体 38台／先着順・予約不可／1泊（14:00〜翌11:00）1,200円（税込）／車高2.05m</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.42 ／ 立地 ★4.42 ／ 部屋 ★4.49 ／ 設備 ★4.43 ／ 風呂 ★4.42 ／ 食事 ★4.3</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -425,7 +425,7 @@ export default function MatsuyamaBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/15880/15880_sgl.jpg" alt="道後温泉　にぎたつ会館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>道後温泉内に位置し、観光＆ビジネスに便利！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛媛県松山市道後姫塚118-2 ／ 最寄り駅：道後温泉 ／ 交通案内：ＪＲ松山駅より路面電車２０分→道後温泉駅下車→徒歩５分 伊佐爾波神社の右手</p>
+                  <p><strong>【所在地・アクセス】</strong>愛媛県松山市道後姫塚118-2 ／ 最寄り駅：道後温泉 ／ 交通案内：ＪＲ松山駅より路面電車２０分→道後温泉駅下車→徒歩５分 伊佐爾波神社の右手</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　78台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.07 ／ 立地 ★4.04 ／ 部屋 ★3.89 ／ 設備 ★3.81 ／ 風呂 ★4.14 ／ 食事 ★4.16</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -447,7 +447,7 @@ export default function MatsuyamaBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/188927/188927.jpg" alt="サウナ＆スパホテル　喜助の宿　松山駅前店 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>サウナランキング2023で日本１位を受賞した5つのサウナと地下1,700ｍから湧き出た天然温泉</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛媛県松山市宮田町4　キスケＢＯＸ2階 ／ 最寄り駅：松山（愛媛） ／ 交通案内：ＪＲ　松山駅より徒歩約３分</p>
+                  <p><strong>【所在地・アクセス】</strong>愛媛県松山市宮田町4　キスケＢＯＸ2階 ／ 最寄り駅：松山（愛媛） ／ 交通案内：ＪＲ　松山駅より徒歩約３分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　1,109台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.44 ／ 立地 ★4.51 ／ 部屋 ★4.53 ／ 設備 ★4.6 ／ 風呂 ★4.68</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -469,7 +469,7 @@ export default function MatsuyamaBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/226/226_sgl.jpg" alt="道後温泉　ホテルパティオ・ドウゴ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>道後温泉本館に一番近いヨーロピアンホテル　”HOTEL PATIO DOGO”</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛媛県松山市道後湯之町20-12 ／ 最寄り駅：松山空港 ／ 交通案内：先ずは道後温泉本館を目指して下さい。ホテルは道後温泉本館の北側真向かい。温泉とホテルの間にある石畳の道へお入り下さい。</p>
+                  <p><strong>【所在地・アクセス】</strong>愛媛県松山市道後湯之町20-12 ／ 最寄り駅：松山空港 ／ 交通案内：先ずは道後温泉本館を目指して下さい。ホテルは道後温泉本館の北側真向かい。温泉とホテルの間にある石畳の道へお入り下さい。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>■先着順（予約不可）隣接の立体と屋外平面（かなり急な坂の上）約50台。1泊1台に付き800円。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.4 ／ 立地 ★4.47 ／ 部屋 ★4.35 ／ 設備 ★4.26 ／ 風呂 ★4.28 ／ 食事 ★3.91</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -491,7 +491,7 @@ export default function MatsuyamaBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/183045/183045.jpg" alt="レフ松山市駅　ｂｙ　ベッセルホテルズ｜ＲＥＦ松山市駅｜サウナ付大浴場（松山市駅隣接） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>サウナ付大浴場有！伊予鉄「松山市駅」横。道後温泉へ約20分、松山市内の観光やビジネス利用に便利。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛媛県松山市湊町5-2-2 ／ 最寄り駅：松山市 ／ 交通案内：伊予鉄「松山市駅」から徒歩1分■松山空港から約24分 ■松山自動車道松山ICから車で約15分■松山港から約26分</p>
+                  <p><strong>【所在地・アクセス】</strong>愛媛県松山市湊町5-2-2 ／ 最寄り駅：松山市 ／ 交通案内：伊予鉄「松山市駅」から徒歩1分■松山空港から約24分 ■松山自動車道松山ICから車で約15分■松山港から約26分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>伊予鉄市駅西駐車場（レフ松山市駅から徒歩2分）（自走式立体駐車場 / 先着順）1,000円/泊</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.47 ／ 立地 ★4.57 ／ 部屋 ★4.5 ／ 設備 ★4.46 ／ 風呂 ★4.46 ／ 食事 ★4.7</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

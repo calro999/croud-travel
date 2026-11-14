@@ -416,11 +416,11 @@ export default function FurusatoFeaturePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">地酒BAR＆日本酒利き酒し放題の名湯宿×ふるさと納税厳選ガイド越後湯沢・山形赤湯・京都伏見の酒蔵ステイ：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「地酒BAR＆日本酒利き酒し放題の名湯宿×ふるさと納税厳選ガイド越後湯沢・山形赤湯・京都伏見の酒蔵ステイ」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「地酒BAR＆日本酒利き酒し放題の名湯宿×ふるさと納税厳選ガイド越後湯沢・山形赤湯・京都伏見の酒蔵ステイ」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -493,7 +493,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/40019/40019_gr.jpg" alt="越後湯沢温泉　松泉閣花月 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「お帰りなさいませ「｢いってらっしゃいませ」が花月の合言葉　故郷に帰ってきたようにお過ごしください</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県南魚沼郡湯沢町湯沢318-5 ／ 最寄り駅：越後湯沢 ／ 交通案内：越後湯沢駅から徒歩約５分。越後湯沢駅への送迎も可能です。（要事前連絡）・お車で湯沢IC～１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県南魚沼郡湯沢町湯沢318-5 ／ 最寄り駅：越後湯沢 ／ 交通案内：越後湯沢駅から徒歩約５分。越後湯沢駅への送迎も可能です。（要事前連絡）・お車で湯沢IC～１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１４台　無料　※鍵をフロントでお預かり致します</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.82 ／ 立地 ★4.57 ／ 部屋 ★4.52 ／ 設備 ★4.53 ／ 風呂 ★4.61 ／ 食事 ★4.61</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -515,7 +515,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/14667/14667_room.jpg" alt="赤湯温泉　大正ロマン香る癒しの宿　丹波館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>源泉掛け流しの天然温泉と米沢牛の美味しさに舌鼓！木造3階建ての風情ある老舗旅館をお楽しみ下さい。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県南陽市赤湯1014 ／ 最寄り駅：赤湯 ／ 交通案内：JR東北新幹線「赤湯駅」より車で５分 / 東北道 福島飯坂ICより１３号線経由５５㎞</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県南陽市赤湯1014 ／ 最寄り駅：赤湯 ／ 交通案内：JR東北新幹線「赤湯駅」より車で５分 / 東北道 福島飯坂ICより１３号線経由５５㎞</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -537,7 +537,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/56950/56950_furo.jpg" alt="赤湯温泉　美術館のような宿　旅館やまと屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>源泉かけ流しの湯と四季の会席料理を愉しむ、私設美術館のような食の宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県南陽市赤湯972 ／ 最寄り駅：赤湯 ／ 交通案内：ＪＲ赤湯駅よりタクシーで５分、徒歩２０分　高畠南陽ICより車で10分ほど</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県南陽市赤湯972 ／ 最寄り駅：赤湯 ／ 交通案内：ＪＲ赤湯駅よりタクシーで５分、徒歩２０分　高畠南陽ICより車で10分ほど</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　60台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -559,7 +559,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/184634/184634.jpg" alt="奏　伏見稲荷大社前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>古き良き街並みを再現した連棟の町家ホテル。人気の観光地「伏見稲荷大社」徒歩約５分。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 京都府京都市伏見区深草祓川町11-29 ／ 最寄り駅：伏見稲荷 ／ 交通案内：京阪本線「伏見稲荷」駅、JR奈良線「稲荷」駅徒歩約３分</p>
+                  <p><strong>【所在地・アクセス】</strong>京都府京都市伏見区深草祓川町11-29 ／ 最寄り駅：伏見稲荷 ／ 交通案内：京阪本線「伏見稲荷」駅、JR奈良線「稲荷」駅徒歩約３分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

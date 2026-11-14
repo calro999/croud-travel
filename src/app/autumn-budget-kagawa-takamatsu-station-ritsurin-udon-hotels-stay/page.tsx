@@ -376,11 +376,11 @@ export default function AutumnBudgetHotelsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">高松駅前：特別名勝栗林公園秋ライトアップ＆本場讃岐うどん！3,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「高松駅前：特別名勝栗林公園秋ライトアップ＆本場讃岐うどん！3,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「高松駅前：特別名勝栗林公園秋ライトアップ＆本場讃岐うどん！3,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -462,7 +462,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/167674/167674.jpg" alt="ハイパーイン高松駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR高松駅南口より徒歩３分の好立地、観光・ビジネスにも最適です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 香川県高松市西の丸町10-17 ／ 最寄り駅：高松（香川） ／ 交通案内：ＪＲ　高松駅南口より徒歩にて3分</p>
+                  <p><strong>【所在地・アクセス】</strong>香川県高松市西の丸町10-17 ／ 最寄り駅：高松（香川） ／ 交通案内：ＪＲ　高松駅南口より徒歩にて3分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>当館平面駐車場900円(予約不可)、近隣コインP500円〜</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.96 ／ 立地 ★4.04 ／ 部屋 ★3.77 ／ 設備 ★3.67 ／ 風呂 ★3.64 ／ 食事 ★3.92</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -484,7 +484,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/172707/172707_kan1.jpg" alt="ＡＬＰＨＡＢＥＤ　ＩＮＮ　高松駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>高松駅徒歩５分、あなぶきアリーナにもほど近いグループステイにおすすめのホテル</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 香川県高松市西内町2-6 ／ 最寄り駅：高松（香川） ／ 交通案内：高松駅より徒歩にて約３分</p>
+                  <p><strong>【所在地・アクセス】</strong>香川県高松市西内町2-6 ／ 最寄り駅：高松（香川） ／ 交通案内：高松駅より徒歩にて約３分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>専用駐車場なし。ホテル目の前にコインパーキングあり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.76 ／ 立地 ★4.18 ／ 部屋 ★4.18 ／ 設備 ★3.82</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -506,7 +506,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/182568/182568.jpg" alt="ホテルリブマックス高松駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【2021年OPEN】高松駅徒歩5分　クチコミ4.2　Wi-Fi完備「ワーキングスペース」OPEN</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 香川県高松市錦町1-8-9 ／ 最寄り駅：高松（香川） ／ 交通案内：JR各線「高松」駅 徒歩5分　フェリー高松港徒歩7分　ことでん高松築港駅徒歩6分</p>
+                  <p><strong>【所在地・アクセス】</strong>香川県高松市錦町1-8-9 ／ 最寄り駅：高松（香川） ／ 交通案内：JR各線「高松」駅 徒歩5分　フェリー高松港徒歩7分　ことでん高松築港駅徒歩6分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無し※近隣にコインパーキング多数あり！</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.81 ／ 立地 ★3.96 ／ 部屋 ★3.88 ／ 設備 ★3.77 ／ 風呂 ★3.83</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -528,7 +528,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/193287/193287.jpg" alt="東横ＩＮＮ高松駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>25年3月に東横INNがNEWオープン！高松駅から徒歩圏内の好立地</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 香川県高松市錦町1-1-6 ／ 最寄り駅：高松（香川） ／ 交通案内：JR高徳線・予讃線「高松駅」南口徒歩5分</p>
+                  <p><strong>【所在地・アクセス】</strong>香川県高松市錦町1-1-6 ／ 最寄り駅：高松（香川） ／ 交通案内：JR高徳線・予讃線「高松駅」南口徒歩5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　101台　1000円/泊　平置き7台(予約制)　　機械式：94台(先着順)</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.26 ／ 立地 ★4.26 ／ 部屋 ★4.38 ／ 設備 ★4.25 ／ 風呂 ★4.17 ／ 食事 ★4.13</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -550,7 +550,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/181859/181859.jpg" alt="ＫＯＫＯ　ＨＯＴＥＬ　高松 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>瓦町駅徒歩２分♪バス・トイレ独立で快適な滞在をぜひ。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 香川県高松市瓦町2丁目2-3 ／ 最寄り駅：瓦町 ／ 交通案内：琴平電鉄（ことでん）琴平線・長尾線　瓦町駅より徒歩2分。高松空港リムジンバス「高松駅行き」乗車、「瓦町駅」降車、徒歩2分</p>
+                  <p><strong>【所在地・アクセス】</strong>香川県高松市瓦町2丁目2-3 ／ 最寄り駅：瓦町 ／ 交通案内：琴平電鉄（ことでん）琴平線・長尾線　瓦町駅より徒歩2分。高松空港リムジンバス「高松駅行き」乗車、「瓦町駅」降車、徒歩2分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>なし。徒歩圏内に提携駐車場あり(予約不可)。フロントにて割引券販売 ※途中出庫不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.4 ／ 部屋 ★4.47 ／ 設備 ★4.43 ／ 風呂 ★4.42 ／ 食事 ★4.32</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

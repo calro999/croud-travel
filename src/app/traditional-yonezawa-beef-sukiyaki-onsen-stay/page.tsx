@@ -236,7 +236,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -681,11 +681,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：とろける極上霜降り！A5米沢牛すき焼き会席＆白布・小野川名湯宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：とろける極上霜降り！A5米沢牛すき焼き会席＆白布・小野川名湯宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：とろける極上霜降り！A5米沢牛すき焼き会席＆白布・小野川名湯宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -732,7 +732,7 @@ export default function FeatureDetailPage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 小野川温泉　扇屋旅館</td>
-                <td className="p-3 text-stone-600">北海道</td>
+                <td className="p-3 text-stone-600">山形県米沢市小野川町2432</td>
                 <td className="p-3 text-stone-600">ＪＲ米沢駅より白布温泉行バスで３０分（小野川温泉降車）　東北中央自動車</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（154件）</td>
@@ -767,7 +767,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4890/4890_room.jpg" alt="小野川温泉　鈴の宿　登府屋旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>■ご家族で”親孝行たび”をお考えの方へ♪バリアフリーで車イスもラクラク安心♪掛け流し温泉&amp;サウナ有り</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県米沢市小野川温泉2493 ／ 最寄り駅：米沢 ／ 交通案内：山形新幹線 米沢駅より路線バスで26分。東北自動車道 飯坂ICより60分　小野川温泉の中心に位置する宿です。</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県米沢市小野川温泉2493 ／ 最寄り駅：米沢 ／ 交通案内：山形新幹線 米沢駅より路線バスで26分。東北自動車道 飯坂ICより60分　小野川温泉の中心に位置する宿です。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>■玄関前無料駐車場あり。（30台分）10名様以上の場合、米沢市内の送迎サービス【全館Wi-Fi完備】</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.25 ／ 立地 ★4 ／ 部屋 ★4.39 ／ 設備 ★4.26 ／ 風呂 ★4.41 ／ 食事 ★4.3</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -789,7 +789,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/53064/53064_room.jpg" alt="赤湯温泉　旅館　大文字屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>伊能忠敬が泊まった源泉掛け流し老舗旅館。源泉かけ流しのお風呂でごゆっくり♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県南陽市赤湯1003 ／ 最寄り駅：赤湯 ／ 交通案内：山形新幹線　赤湯駅より車で７分</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県南陽市赤湯1003 ／ 最寄り駅：赤湯 ／ 交通案内：山形新幹線　赤湯駅より車で７分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -811,7 +811,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/27912/27912_heya.jpg" alt="小野川温泉　やな川屋旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>屋上露天風呂の五ツ星源泉宿、「生の源泉」をそのまま注いだ100％源泉かけ流しの湯をお楽しみください。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県米沢市小野川町2486 ／ 最寄り駅：米沢 ／ 交通案内：ＪＲ米沢駅よりバスで30分／福島飯坂ＩＣ⇒Ｒ13号、Ｒ121号⇒小野川温泉／会津若松ＩＣ⇒Ｒ121号⇒小野川温泉へ</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県米沢市小野川町2486 ／ 最寄り駅：米沢 ／ 交通案内：ＪＲ米沢駅よりバスで30分／福島飯坂ＩＣ⇒Ｒ13号、Ｒ121号⇒小野川温泉／会津若松ＩＣ⇒Ｒ121号⇒小野川温泉へ</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -832,8 +832,8 @@ export default function FeatureDetailPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/27908/27908.jpg" alt="小野川温泉　扇屋旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「とろける極上霜降り（A5米沢牛すき焼き会席＆白布・小野川名湯宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ米沢駅より白布温泉行バスで３０分（小野川温泉降車）　東北中央自動車道米沢中央ICより車で２０分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>小野川温泉 扇屋旅館（山形県米沢市小野川町2432）は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：ＪＲ米沢駅より白布温泉行バスで３０分（小野川温泉降車）　東北中央自動車道米沢中央ICより車で２０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -855,7 +855,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/146112/146112_kan1.jpg" alt="白布温泉　東屋（ひがしや） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>開湯700年湧き続ける温泉の歴史を 変わらぬおもてなしの心で未来へ伝える宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県米沢市関1537 ／ 最寄り駅：米沢 ／ 交通案内：ＪＲ米沢駅より「白布天元台行」路線バスにて約50分　　送迎バス：ＪＲ米沢駅発　14:30　旅館発　10:00　要予約</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県米沢市関1537 ／ 最寄り駅：米沢 ／ 交通案内：ＪＲ米沢駅より「白布天元台行」路線バスにて約50分　　送迎バス：ＪＲ米沢駅発　14:30　旅館発　10:00　要予約</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

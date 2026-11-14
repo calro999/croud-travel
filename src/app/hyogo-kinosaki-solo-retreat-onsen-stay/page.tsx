@@ -77,7 +77,7 @@ export default function ArticlePage() {
             兵庫・城崎温泉ひとり旅＆七田外湯めぐりおこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「城崎温泉ひとり旅・七田外湯めぐりおこもり」大谿川柳並木・浴衣散策・松葉ガニ＆但馬牛！千三百年続く文学と名湯の街厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               開湯1300年の歴史を持ち、志賀直哉をはじめ文豪たちに愛された兵庫県・城崎温泉。「駅は玄関、道路は廊下、宿は客室、外湯は大浴場」という言葉通り、街全体が一つの大きな旅館のような温もりに満ちており、一人旅でも気兼ねなく街歩きと湯めぐりを楽しめます。
             </p>
             <p>
-              外湯めぐりの中心に位置し昔ながらの温かいもてなしが心地よい宿から、絶品但馬牛や旬の松葉ガニを贅沢に味わえる美食宿まで、楽天トラベル公式APIより直接取得した最新データをもとに厳選紹介します。
+              外湯めぐりの中心に位置し昔ながらの温かいもてなしが心地よい宿から、絶品但馬牛や旬の松葉ガニを贅沢に味わえる美食宿まで、宿泊施設データより直接取得した最新データをもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -420,11 +420,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">城崎温泉ひとり旅・七田外湯めぐりおこもり：大谿川柳並木・浴衣散策・松葉ガニ＆但馬牛！千三百年続く文学と名湯の街厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「城崎温泉ひとり旅・七田外湯めぐりおこもり：大谿川柳並木・浴衣散策・松葉ガニ＆但馬牛！千三百年続く文学と名湯の街厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「城崎温泉ひとり旅・七田外湯めぐりおこもり：大谿川柳並木・浴衣散策・松葉ガニ＆但馬牛！千三百年続く文学と名湯の街厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -506,7 +506,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/144559/144559_res.jpg" alt="城崎温泉　但馬牛極みの宿　小宿　縁 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>日本で唯一の但馬玄一頭買い肉専門の宿。貸切風呂はじめ湯上りラウンジはビールやワインが楽しめる大人の宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県豊岡市城崎町湯島219 ／ 最寄り駅：主要駅 ／ 交通案内：JR城崎温泉駅より徒歩で３分 。北近畿豊岡道但馬空港ICより国道３１２号線、県道３号線経由で城崎温泉まで約３０分。</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県豊岡市城崎町湯島219 ／ 交通案内：JR城崎温泉駅より徒歩で３分 。北近畿豊岡道但馬空港ICより国道３１２号線、県道３号線経由で城崎温泉まで約３０分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>車1台1泊1000円 バイク1泊500円　利用時間：15：00〜チェックアウト日11：30まで</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.68 ／ 立地 ★4.54 ／ 部屋 ★4.6 ／ 設備 ★4.57 ／ 風呂 ★4.56 ／ 食事 ★4.69</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -528,7 +528,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/147569/147569.jpg" alt="城崎温泉　風月魚匠（ふうげつぎょしょう） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2022年11月貸切風呂＆離れ特別室リニューアル！老舗鮮魚店プロデュース　大人だけの料理旅館！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県豊岡市城崎町湯島636-1 ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ：城崎温泉駅より徒歩20分/旅館組合乗合送迎バスあり　お車：北近畿豊岡道 豊岡出石ICでお降り下さい</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県豊岡市城崎町湯島636-1 ／ 交通案内：ＪＲ：城崎温泉駅より徒歩20分/旅館組合乗合送迎バスあり　お車：北近畿豊岡道 豊岡出石ICでお降り下さい</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場有　（10台予約不要）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -550,7 +550,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/935/935_room.jpg" alt="那須温泉　ホテルフォレストヒルズ那須　ｗｉｔｈ　ＤＯＧＳ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>＜愛犬と泊まる宿＞那須高原の隠れ家リゾート／温泉付客室多数／全館プライベートコテージ ペットと一緒旅</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県那須郡那須町高久乙1880 ／ 最寄り駅：那須塩原 ／ 交通案内：安心＆安全な愛犬との旅をお約束＜全館 独立コテージタイプ・ペットと泊まる宿＞“北関東最大級”愛犬同伴の複合型リゾート♪</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県那須郡那須町高久乙1880 ／ 最寄り駅：那須塩原 ／ 交通案内：安心＆安全な愛犬との旅をお約束＜全館 独立コテージタイプ・ペットと泊まる宿＞“北関東最大級”愛犬同伴の複合型リゾート♪</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　60台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.45 ／ 立地 ★4.35 ／ 部屋 ★4.2 ／ 設備 ★4.22 ／ 風呂 ★4.16 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -572,7 +572,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2338/2338_en.jpg" alt="湯西川温泉　彩り湯かしき　花と華 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>深山の里の「美肌の湯」で湯めぐりを☆伝統の囲炉裏料理「平家お狩場焼」に舌鼓</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県日光市湯西川601 ／ 最寄り駅：湯西川温泉 ／ 交通案内：東武鉄道・野岩鉄道にて湯西川温泉駅下車。路線バスにて20分。（1日1回無料送迎バス運行有※要事前電話予約）</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県日光市湯西川601 ／ 最寄り駅：湯西川温泉 ／ 交通案内：東武鉄道・野岩鉄道にて湯西川温泉駅下車。路線バスにて20分。（1日1回無料送迎バス運行有※要事前電話予約）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>【無料】車50台・バス5台の十分な広さで御座いますので、ご安心してお越し下さい。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.13 ／ 立地 ★4.14 ／ 部屋 ★4.01 ／ 設備 ★3.9 ／ 風呂 ★4.3 ／ 食事 ★4.15</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -594,7 +594,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2477/2477_bi.jpg" alt="大江戸温泉物語Ｐｒｅｍｉｕｍ　ホテルニュー塩原 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【楽しいが、ぜんぶ込み】心ゆくまで楽しむオールインクルーシブ（10/1〜2/28迄※延長の可能性有）</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県那須塩原市塩原705 ／ 最寄り駅：那須塩原 ／ 交通案内：JR那須塩原駅下車　送迎バス運行　迎え13：50　送り10：30（予約制　※電話予約要・定員あり）</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県那須塩原市塩原705 ／ 最寄り駅：那須塩原 ／ 交通案内：JR那須塩原駅下車　送迎バス運行　迎え13：50　送り10：30（予約制　※電話予約要・定員あり）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.02 ／ 立地 ★3.94 ／ 部屋 ★3.95 ／ 設備 ★3.95 ／ 風呂 ★4.11</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

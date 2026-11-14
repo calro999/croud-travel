@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/traditional-kaiseki-in-room-open-air-bath-kyoto/"
   };
 
@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F104819%2F104819.html%26f_flg%3DPLAN",
     "hotelMinCharge": 22000,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/104819/104819.jpg",
-    "userReview": "絶景のロケーションとおもてなしに心から癒やされました。",
+    "userReview": "京都美山　料理旅館　枕川楼ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
     "reviewAverage": 4,
     "reviewCount": 48,
     "address": "京都府南丹市美山町中上前26",
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F179715%2F179715.html%26f_flg%3DPLAN",
     "hotelMinCharge": 45828,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/179715/179715.jpg",
-    "userReview": "絶景のロケーションとおもてなしに心から癒やされました。",
+    "userReview": "Ｎａｚｕｎａ　京都　椿通ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
     "reviewAverage": 4.7,
     "reviewCount": 137,
     "address": "京都府京都市下京区高辻通大宮西入坊門町838",
@@ -270,23 +270,6 @@ export default function Page() {
             ))}
           </div>
         </section>
-
-        {/* 旅のQ&A */}
-        <section className="bg-white rounded-2xl p-6 md:p-8 border border-stone-200 shadow-sm space-y-4">
-          <h2 className="text-lg md:text-xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">よくある質問・失敗しない宿選び</h2>
-          <div className="space-y-4 text-sm">
-            <div className="border border-stone-100 rounded-xl p-4 bg-stone-50/50 space-y-2">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5"><span className="text-emerald-700 font-black">Q.</span> おすすめの予約時期やタイミングは？</h3>
-              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">人気の日程（連休や週末）は1〜2ヶ月前には満室になることが多いため、早期予約（早割プラン）の利用がおすすめです。また楽天トラベルの「5と0のつく日」キャンペーンを活用すると最大20%オフのクーポンが併用でき、最もお得に予約できます。
-              </p>
-            </div>
-            <div className="border border-stone-100 rounded-xl p-4 bg-stone-50/50 space-y-2">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5"><span className="text-emerald-700 font-black">Q.</span> 宿選びで失敗しないためのポイントは？</h3>
-              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">宿泊者レビューのお風呂・お食事・接客評価が4.3以上の宿を選ぶと満足度が非常に高くなります。またアクセス手段（送迎バスの有無など）やプランに含まれる特典を事前に確認しておくと安心です。
-              </p>
-            </div>
-          </div>
-        </section>
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -416,11 +399,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：古都の情緒と旬の京会席！客室露天風呂で贅沢に寛ぐ京都の隠れ家名旅館5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：古都の情緒と旬の京会席！客室露天風呂で贅沢に寛ぐ京都の隠れ家名旅館5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：古都の情緒と旬の京会席！客室露天風呂で贅沢に寛ぐ京都の隠れ家名旅館5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -440,7 +423,7 @@ export default function Page() {
               <tbody className="divide-y divide-stone-200">
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 京都美山　料理旅館　枕川楼</td>
-                <td className="p-3 text-stone-600">栃木県</td>
+                <td className="p-3 text-stone-600">京都府南丹市美山町中上前26</td>
                 <td className="p-3 text-stone-600">JR山陰線　日吉駅よりバス60分、京都縦貫自動車道　園部ICより車50</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4（48件）</td>
@@ -458,7 +441,7 @@ export default function Page() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. Ｎａｚｕｎａ　京都　椿通</td>
-                <td className="p-3 text-stone-600">栃木県</td>
+                <td className="p-3 text-stone-600">京都府京都市下京区高辻通大宮西入坊門町838</td>
                 <td className="p-3 text-stone-600">京都駅からタクシー約10分/阪急電鉄京都本「大宮」駅から徒歩約5分/京</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.7（137件）</td>
@@ -501,12 +484,12 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/104819/104819.jpg" alt="京都美山　料理旅館　枕川楼 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「古都の情緒と旬の京会席（客室露天風呂で贅沢に寛ぐ京都の隠れ家名旅館5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：JR山陰線　日吉駅よりバス60分、京都縦貫自動車道　園部ICより車50分、京都市内より車90分。</p>
+                  <p><strong>【宿の特徴・魅力】</strong>2026年で比較したい各宿のロケーション・駐車場・料金詳細は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：JR山陰線　日吉駅よりバス60分、京都縦貫自動車道　園部ICより車50分、京都市内より車90分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「絶景のロケーションとおもてなしに心から癒やされました。」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2026年で比較したい各宿のロケーション・駐車場・料金詳細での快適な滞在とアクセス面の良さに満足したという評価が寄せられています。」
                   </blockquote>
                 </div>
               </div>
@@ -524,7 +507,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/32464/32464_wa.jpg" alt="貸切風呂旅館　こぶし（ＡＳＯＢＩＹＵＫＵ　京都るり渓温泉） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>京阪神から約1時間！標高550ｍの高原スパリゾートで天然温泉と本格会席料理。3世代で楽しめる！！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 京都府南丹市園部町大河内広谷1-8 ／ 最寄り駅：園部 ／ 交通案内：【車以外】能勢電鉄日生中央駅／JR嵯峨野線園部駅〜送迎バス有（事前予約）　【車】千代川IC・池田木部IC〜るり渓方面へ</p>
+                  <p><strong>【所在地・アクセス】</strong>京都府南丹市園部町大河内広谷1-8 ／ 最寄り駅：園部 ／ 交通案内：【車以外】能勢電鉄日生中央駅／JR嵯峨野線園部駅〜送迎バス有（事前予約）　【車】千代川IC・池田木部IC〜るり渓方面へ</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　700台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.36 ／ 立地 ★4.34 ／ 部屋 ★4.13 ／ 設備 ★4.03 ／ 風呂 ★4.45 ／ 食事 ★4.53</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -545,12 +528,12 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/179715/179715.jpg" alt="Ｎａｚｕｎａ　京都　椿通 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「古都の情緒と旬の京会席（客室露天風呂で贅沢に寛ぐ京都の隠れ家名旅館5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：京都駅からタクシー約10分/阪急電鉄京都本「大宮」駅から徒歩約5分/京福電気鉄道嵐山本線「四条大宮」駅から徒歩5分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>築110年以上の町家が立ち並ぶ約1,400平米のL字型路地一体を1つの宿に改修した旅館です</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：京都駅からタクシー約10分/阪急電鉄京都本「大宮」駅から徒歩約5分/京福電気鉄道嵐山本線「四条大宮」駅から徒歩5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「絶景のロケーションとおもてなしに心から癒やされました。」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「Ｎａｚｕｎａ 京都 椿通での快適な滞在とアクセス面の良さに満足したという評価が寄せられています。」
                   </blockquote>
                 </div>
               </div>
@@ -568,7 +551,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9696/9696_heya.jpg" alt="京都　湯の花温泉　すみや亀峰菴 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>京都の旅館ならではの日本の伝統美と現代アートの空間で四季折々の京懐石とオーストリアワインを愉しむ</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 京都府亀岡市湯の花温泉 ／ 最寄り駅：亀岡 ／ 交通案内：JR亀岡駅より車で２０分/京都縦貫道亀岡ICよりR372で約１０分/阪神高速池田線木部ICよりR423で約４０分</p>
+                  <p><strong>【所在地・アクセス】</strong>京都府亀岡市湯の花温泉 ／ 最寄り駅：亀岡 ／ 交通案内：JR亀岡駅より車で２０分/京都縦貫道亀岡ICよりR372で約１０分/阪神高速池田線木部ICよりR423で約４０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.41 ／ 立地 ★4.26 ／ 部屋 ★4.4 ／ 設備 ★4.28 ／ 風呂 ★4.35 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -590,7 +573,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/171986/171986_sho1.jpg" alt="全室露天風呂付　ｏｎｓｅｎ　ｇａｒｄｅｎ　湯本庵　清姫 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全９室離れのデザイナーズ客室は源泉掛流しの温泉露天風呂付！美肌の湯と旬のお食事をお楽しみください♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県霧島市隼人町姫城3-124 ／ 最寄り駅：隼人 ／ 交通案内：【お車】溝辺鹿児島空港ＩＣより約１５分【電車】九州新幹線鹿児島中央駅乗換、JR日豊本線隼人駅下車後、タクシ－で８分。</p>
+                  <p><strong>【所在地・アクセス】</strong>鹿児島県霧島市隼人町姫城3-124 ／ 最寄り駅：隼人 ／ 交通案内：【お車】溝辺鹿児島空港ＩＣより約１５分【電車】九州新幹線鹿児島中央駅乗換、JR日豊本線隼人駅下車後、タクシ－で８分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -601,6 +584,9 @@ export default function Page() {
             </div>
           </div></section>
 
+              <div className="my-8">
+          <ShareButtons title="【2026年】古都の情緒と旬の京会席！客室露天風呂で贅沢に寛ぐ京都の隠れ家名旅館5選" url="https://croud-travel.pages.dev/traditional-kaiseki-in-room-open-air-bath-kyoto/" />
+        </div>
       </main>
     
       <HubRelatedPosts currentSlug="traditional-kaiseki-in-room-open-air-bath-kyoto" />

@@ -316,11 +316,11 @@ export default function OkinawaBudgetAutumnPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋の沖縄・那覇×格安：快適オフシーズン旅！大浴場付き1泊2,000円〜5,000円台の高コスパリゾートホテル5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「秋の沖縄・那覇×格安：快適オフシーズン旅！大浴場付き1泊2,000円〜5,000円台の高コスパリゾートホテル5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「秋の沖縄・那覇×格安：快適オフシーズン旅！大浴場付き1泊2,000円〜5,000円台の高コスパリゾートホテル5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -402,7 +402,7 @@ export default function OkinawaBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/182884/182884.jpg" alt="ホテルリソルトリニティ那覇 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2022年4月1日開業。国際通りまで徒歩圏の絶好の立地。大浴場を備え、上質なくつろぎをご提供。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県那覇市旭町7 ／ 最寄り駅：那覇空港 ／ 交通案内：ゆいレール「旭橋駅」出入口2より徒歩3分</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県那覇市旭町7 ／ 最寄り駅：那覇空港 ／ 交通案内：ゆいレール「旭橋駅」出入口2より徒歩3分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場50台1泊1,500円(車高制限あり) ※先着順予約不可※満車時は近隣の提携駐車場を案内</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.45 ／ 部屋 ★4.53 ／ 設備 ★4.5 ／ 風呂 ★4.49 ／ 食事 ★4.62</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -424,7 +424,7 @@ export default function OkinawaBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/166949/166949_kan1.jpg" alt="ワイズキャビン＆ホテル那覇国際通り 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ゆったり寛げる男女別サウナ付大浴場併設！キャビン・洋室・和室と幅広いラインナップ！！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県那覇市久茂地3-9-18 ／ 最寄り駅：主要駅 ／ 交通案内：ゆいレール県庁前駅徒歩３分</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県那覇市久茂地3-9-18 ／ 交通案内：ゆいレール県庁前駅徒歩３分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有＊予約制＊1泊1,000円(税込)、2026年2月から￥1200円に改定</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -446,7 +446,7 @@ export default function OkinawaBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/172254/172254_kan1.jpg" alt="グリーンリッチホテル＆カプセル那覇　人工温泉・二股湯の華 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>国際通り徒歩圏内■ホテル＆カプセル融合型■大浴場・最上階プライベートジャグジー完備(プラン販売中)</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県那覇市松山2-15-1 ／ 最寄り駅：那覇空港 ／ 交通案内：那覇空港より車で１０分、ゆいレール美栄橋駅より徒歩８分、ゆいレール県庁前駅より徒歩９分、コンビニ目の前、国際通り徒歩圏内</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県那覇市松山2-15-1 ／ 最寄り駅：那覇空港 ／ 交通案内：那覇空港より車で１０分、ゆいレール美栄橋駅より徒歩８分、ゆいレール県庁前駅より徒歩９分、コンビニ目の前、国際通り徒歩圏内</p>
                   <p><strong>【駐車場・マイカー利用】</strong>15時～翌朝11時　敷地内18台(先着順)1泊1000円■提携駐車場161台(徒歩5分圏に7ヶ所)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -468,7 +468,7 @@ export default function OkinawaBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/128440/128440_sin.jpg" alt="ダイワロイネットホテル那覇国際通り 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【2025.2.1リニューアル♪】 ゆいレール牧志駅直結！観光拠点に！沖縄食材の朝食ビュッフェ♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県那覇市安里2-1-1 ／ 最寄り駅：主要駅 ／ 交通案内：那覇空港からゆいレールで約20分、「牧志」駅下車直結、徒歩約1分！！国際通りに面しています。</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県那覇市安里2-1-1 ／ 交通案内：那覇空港からゆいレールで約20分、「牧志」駅下車直結、徒歩約1分！！国際通りに面しています。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>当館裏手に提携駐車場（商業施設併設の立体駐車場）へのご案内（先着順：1泊1,500円／税込）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.34 ／ 立地 ★4.44 ／ 部屋 ★4.35 ／ 設備 ★4.26 ／ 風呂 ★4.11 ／ 食事 ★4.32</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -490,7 +490,7 @@ export default function OkinawaBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/56974/56974_da.jpg" alt="ホテルルートイン那覇泊港 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>&amp;amp;#9830;14階展望大浴場完備&amp;amp;#9830;朝食無料サービス&amp;amp;#9830;WOWOW無料視聴可能</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県那覇市前島2-12-5 ／ 最寄り駅：那覇空港 ／ 交通案内：那覇空港より車で約１０分（４．５ｋｍ）/モノレール美栄橋駅より徒歩５分。</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県那覇市前島2-12-5 ／ 最寄り駅：那覇空港 ／ 交通案内：那覇空港より車で約１０分（４．５ｋｍ）/モノレール美栄橋駅より徒歩５分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有：72台駐車可能、有料：1000円/泊、先着順、制限有：高さ1.55mまで</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

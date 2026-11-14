@@ -359,11 +359,11 @@ export default function AutumnBudgetMatsuyamaOkaidoHotelsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">松山・大街道：宇和島鯛めし＆現存天守・松山城！2,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「松山・大街道：宇和島鯛めし＆現存天守・松山城！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「松山・大街道：宇和島鯛めし＆現存天守・松山城！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -445,7 +445,7 @@ export default function AutumnBudgetMatsuyamaOkaidoHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/164470/164470_kan1.jpg" alt="ホテル勝山 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>コンパクトな館内で快適に◆2017年OPEN「新館プレミア」とお手頃な「旧館セカンド」から選べる客室</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛媛県松山市勝山町1-11-1 ／ 最寄り駅：主要駅 ／ 交通案内：勝山町駅より徒歩にて約3分</p>
+                  <p><strong>【所在地・アクセス】</strong>愛媛県松山市勝山町1-11-1 ／ 交通案内：勝山町駅より徒歩にて約3分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>【駐車場】50台1000円(税込/泊)先着順【駐輪場】500円(税込/泊)　※旧館セカンドにてご案内</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.91 ／ 立地 ★3.94 ／ 部屋 ★3.84 ／ 設備 ★3.79 ／ 風呂 ★3.9 ／ 食事 ★3.85</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -467,7 +467,7 @@ export default function AutumnBudgetMatsuyamaOkaidoHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/183045/183045.jpg" alt="レフ松山市駅　ｂｙ　ベッセルホテルズ｜ＲＥＦ松山市駅｜サウナ付大浴場（松山市駅隣接） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>サウナ付大浴場有！伊予鉄「松山市駅」横。道後温泉へ約20分、松山市内の観光やビジネス利用に便利。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛媛県松山市湊町5-2-2 ／ 最寄り駅：松山市 ／ 交通案内：伊予鉄「松山市駅」から徒歩1分■松山空港から約24分 ■松山自動車道松山ICから車で約15分■松山港から約26分</p>
+                  <p><strong>【所在地・アクセス】</strong>愛媛県松山市湊町5-2-2 ／ 最寄り駅：松山市 ／ 交通案内：伊予鉄「松山市駅」から徒歩1分■松山空港から約24分 ■松山自動車道松山ICから車で約15分■松山港から約26分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>伊予鉄市駅西駐車場（レフ松山市駅から徒歩2分）（自走式立体駐車場 / 先着順）1,000円/泊</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.47 ／ 立地 ★4.57 ／ 部屋 ★4.5 ／ 設備 ★4.46 ／ 風呂 ★4.46 ／ 食事 ★4.7</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -489,7 +489,7 @@ export default function AutumnBudgetMatsuyamaOkaidoHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/110/110_heya.jpg" alt="リーガロイヤルホテル新居浜 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>癒しの空間をコンセプトにした新居浜随一の広さを誇る客室でお客様をお迎えいたします</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛媛県新居浜市前田町6-9 ／ 最寄り駅：新居浜 ／ 交通案内：ＪＲ「新居浜駅」よりタクシーで約10分、新居浜ICより２０分</p>
+                  <p><strong>【所在地・アクセス】</strong>愛媛県新居浜市前田町6-9 ／ 最寄り駅：新居浜 ／ 交通案内：ＪＲ「新居浜駅」よりタクシーで約10分、新居浜ICより２０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>200台収容の駐車場【無料】バス駐車場についてはお問い合わせください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.12 ／ 立地 ★3.98 ／ 部屋 ★4.13 ／ 設備 ★3.99 ／ 風呂 ★3.94</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -511,7 +511,7 @@ export default function AutumnBudgetMatsuyamaOkaidoHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/191/191_sgl.jpg" alt="ホテルカジワラ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2020年2月新館（東館）オープン♪　JR松山駅前</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛媛県松山市大手町2-9-10 ／ 最寄り駅：松山（愛媛） ／ 交通案内：ＪＲ松山駅から徒歩5分、松山空港から車で約15分、松山観光港から車で約20分</p>
+                  <p><strong>【所在地・アクセス】</strong>愛媛県松山市大手町2-9-10 ／ 最寄り駅：松山（愛媛） ／ 交通案内：ＪＲ松山駅から徒歩5分、松山空港から車で約15分、松山観光港から車で約20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>事前予約が必要です。普通車１泊 800円〜　※満車時は近隣コインPのご紹介となります。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.86 ／ 立地 ★3.91 ／ 部屋 ★3.81 ／ 設備 ★3.72 ／ 風呂 ★3.63 ／ 食事 ★3.72</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -533,7 +533,7 @@ export default function AutumnBudgetMatsuyamaOkaidoHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/226/226_sgl.jpg" alt="道後温泉　ホテルパティオ・ドウゴ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>道後温泉本館に一番近いヨーロピアンホテル　”HOTEL PATIO DOGO”</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛媛県松山市道後湯之町20-12 ／ 最寄り駅：松山空港 ／ 交通案内：先ずは道後温泉本館を目指して下さい。ホテルは道後温泉本館の北側真向かい。温泉とホテルの間にある石畳の道へお入り下さい。</p>
+                  <p><strong>【所在地・アクセス】</strong>愛媛県松山市道後湯之町20-12 ／ 最寄り駅：松山空港 ／ 交通案内：先ずは道後温泉本館を目指して下さい。ホテルは道後温泉本館の北側真向かい。温泉とホテルの間にある石畳の道へお入り下さい。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>■先着順（予約不可）隣接の立体と屋外平面（かなり急な坂の上）約50台。1泊1台に付き800円。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.4 ／ 立地 ★4.47 ／ 部屋 ★4.35 ／ 設備 ★4.26 ／ 風呂 ★4.28 ／ 食事 ★3.91</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

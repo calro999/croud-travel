@@ -516,10 +516,10 @@ export default function Page() {
                 山口県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/yamagata/"
+                href="/prefectures/ishikawa/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                山形県の宿・温泉
+                石川県の宿・温泉
               </Link>
               <Link
                 href="/prefectures/shiga/"
@@ -536,11 +536,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大名園＆大名庭園を愛でる名門宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本三大名園＆大名庭園を愛でる名門宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「日本三大名園＆大名庭園を愛でる名門宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -604,7 +604,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4707/4707_heya.jpg" alt="加賀屋グループ　料理旅館　金沢茶屋 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>金沢駅から徒歩3分の料理旅館。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県金沢市本町2-17-21 ／ 最寄り駅：金沢 ／ 交通案内：ＪＲ金沢駅兼六園口より徒歩３分。</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県金沢市本町2-17-21 ／ 最寄り駅：金沢 ／ 交通案内：ＪＲ金沢駅兼六園口より徒歩３分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（1,000円／泊）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -626,7 +626,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/822/822.jpg" alt="ホテルグランヴィア岡山 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR岡山駅２階から連絡通路で直結。全室無線LAN（WI-FI）接続が無料でご利用いただけます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岡山県岡山市北区駅元町1-5 ／ 最寄り駅：岡山 ／ 交通案内：JR岡山駅直結（徒歩1分）／山陽自動車道　岡山ICより車で20分／岡山空港より車で30分</p>
+                  <p><strong>【所在地・アクセス】</strong>岡山県岡山市北区駅元町1-5 ／ 最寄り駅：岡山 ／ 交通案内：JR岡山駅直結（徒歩1分）／山陽自動車道　岡山ICより車で20分／岡山空港より車で30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル地下に有り　171台　24時間1,300円　事前予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.54 ／ 部屋 ★4.46 ／ 設備 ★4.4 ／ 風呂 ★4.36</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -648,7 +648,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/141247/141247_kya.jpg" alt="ホテル・ザ・ウエストヒルズ・水戸（リッチモンドホテルズ提携ホテル） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>国営ひたち海浜公園へ車で約30分。水戸信用金庫スタジアムへ車で約25分。館内にコンビニ有り。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 茨城県水戸市大工町1-2-1 ／ 最寄り駅：水戸 ／ 交通案内：ＪＲ水戸駅から路線バス大工町下車（約10分）◇常磐道水戸I.Cより約15分、北関東自動車道水戸南I.Cより約25分</p>
+                  <p><strong>【所在地・アクセス】</strong>茨城県水戸市大工町1-2-1 ／ 最寄り駅：水戸 ／ 交通案内：ＪＲ水戸駅から路線バス大工町下車（約10分）◇常磐道水戸I.Cより約15分、北関東自動車道水戸南I.Cより約25分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>自走式立体駐車場、700円（１泊1台）車高制限2.1m、予約不可（満車時は近隣提携駐車場案内）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

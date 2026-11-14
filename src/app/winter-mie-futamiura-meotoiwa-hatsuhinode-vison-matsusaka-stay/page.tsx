@@ -45,8 +45,8 @@ export default function Page() {
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Futamiokitama_jinja_Haiden.jpg/1280px-Futamiokitama_jinja_Haiden.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
         "https://img.travel.rakuten.co.jp/share/HOTEL/40332/40332.jpg"
       ],
-      "datePublished": "",
-      "dateModified": "",
+      "datePublished": "2026-11-01",
+      "dateModified": "2026-11-15",
       "author": {
         "@type": "Organization",
         "name": "Japan Travel Curations"

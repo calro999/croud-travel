@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-shirakawa-gokayama-gassho-autumn-stay/"
   };
 
@@ -379,27 +379,6 @@ export default function Page() {
         </section>
 
         {/* FAQ */}
-        <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-stone-200/80">
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-3 border-b border-stone-200 pb-4">よくある質問（FAQ）</h2>
-          <div className="space-y-6 text-stone-700 text-sm sm:text-base">
-            <div className="border-b border-stone-100 pb-4">
-              <h3 className="font-bold text-stone-900 mb-2">Q. 10月〜11月の紅葉や混雑の状況は？</h3>
-              <p className="text-stone-600 text-xs sm:text-sm leading-relaxed">
-                紅葉の見頃ピーク（10月中旬〜11月下旬（庄川峡紅葉クルーズ・五箇山合掌集落の紅葉・庄川の秋鮎・富山新米））は週末を中心に観光客で賑わいます。ゆっくり散策や温泉を楽しみたい方は平日の宿泊や、早朝の観光スポット訪問がおすすめです。
-              </p>
-            </div>
-            <div className="border-b border-stone-100 pb-4">
-              <h3 className="font-bold text-stone-900 mb-2">Q. クーポンを利用した予約のキャンセル規定はどうなっていますか？</h3>
-              <p className="text-stone-600 text-xs sm:text-sm leading-relaxed">通常の楽天トラベルのキャンセル規定に準じます。期限内であればキャンセル時にクーポンは返還され、有効期限内であれば別の予約で再利用可能です。
-              </p>
-            </div>
-            <div>
-              <h3 className="font-bold text-stone-900 mb-2">Q. ふるさと納税クーポンとポイントは併用できますか？</h3>
-              <p className="text-stone-600 text-xs sm:text-sm leading-relaxed">はい、楽天ふるさと納税トラベルクーポンと通常の楽天ポイントは同時に併用して利用いただけます。
-              </p>
-            </div>
-          </div>
-        </section>
         
 
         {/* FAQ Section */}
@@ -435,11 +414,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">世界遺産・五箇山合掌造りと庄川峡紅葉遊覧船！庄川温泉郷の美肌湯・秋の鮎料理と富山地酒を味わう秋旅｜ふるさと納税で泊まれる名宿ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「世界遺産・五箇山合掌造りと庄川峡紅葉遊覧船！庄川温泉郷の美肌湯・秋の鮎料理と富山地酒を味わう秋旅｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「世界遺産・五箇山合掌造りと庄川峡紅葉遊覧船！庄川温泉郷の美肌湯・秋の鮎料理と富山地酒を味わう秋旅｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -459,7 +438,7 @@ export default function Page() {
               <tbody className="divide-y divide-stone-200">
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 庄川温泉郷　美肌の湯　となみ野庄川荘一萬亭（ＢＢＨホテルグループ）</td>
-                <td className="p-3 text-stone-600">富山県</td>
+                <td className="p-3 text-stone-600">富山県砺波市庄川町庄4984-1</td>
                 <td className="p-3 text-stone-600">JR城端線砺波駅南口より車で15分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.09（151件）</td>
@@ -502,8 +481,8 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/187181/187181.jpg" alt="庄川温泉郷　美肌の湯　となみ野庄川荘一萬亭（ＢＢＨホテルグループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「世界遺産・五箇山合掌造りと庄川峡紅葉遊覧船（庄川温泉郷の美肌湯・秋の鮎料理と富山地酒を味わう秋旅）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：JR城端線砺波駅南口より車で15分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>世界遺産五箇山や金沢観光の拠点に最適な庄川温泉郷「一萬亭」。とろりとした泉質の美肌湯と富山の地酒に酔いしれ、心身を解き放つ至福の滞在を。無料駐車場完備でアクセスも抜群、歴史ある庄川のほとりで特別な旅のひとときをお過ごしください。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：JR城端線砺波駅南口より車で15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -525,7 +504,7 @@ export default function Page() {
                 
                 <div className="md:col-span-3 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>美肌の湯＆極上エステで女性に大人気！富山の海の幸も堪能！！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 富山県砺波市庄川町金屋839 ／ 最寄り駅：主要駅 ／ 交通案内：</p>
+                  <p><strong>【所在地・アクセス】</strong>富山県砺波市庄川町金屋839 ／ 交通案内：</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -547,7 +526,7 @@ export default function Page() {
                 
                 <div className="md:col-span-3 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>庄川峡から広がる散居村にひっそりと佇む温泉宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 富山県砺波市庄川町金屋3531 ／ 最寄り駅：主要駅 ／ 交通案内：</p>
+                  <p><strong>【所在地・アクセス】</strong>富山県砺波市庄川町金屋3531 ／ 交通案内：</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

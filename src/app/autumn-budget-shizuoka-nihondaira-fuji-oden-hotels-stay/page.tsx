@@ -285,11 +285,11 @@ export default function AutumnBudgetShizuokaHotelsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">静岡：日本平の富士山絶景と黒おでん！1,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「静岡：日本平の富士山絶景と黒おでん！1,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「静岡：日本平の富士山絶景と黒おでん！1,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -371,7 +371,7 @@ export default function AutumnBudgetShizuokaHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/172407/172407.jpg" alt="アパホテル〈静岡駅北〉 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【全室禁煙】商店街や観光地に近い好立地！静岡茶でおもてなし♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県静岡市葵区昭和町4-5 ／ 最寄り駅：静岡 ／ 交通案内：「静岡駅」北口から徒歩5分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県静岡市葵区昭和町4-5 ／ 最寄り駅：静岡 ／ 交通案内：「静岡駅」北口から徒歩5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場『稲森パーキング』を1泊　1,800円（先着順） でご案内いたします。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -393,7 +393,7 @@ export default function AutumnBudgetShizuokaHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/161182/161182_kan1.jpg" alt="ガーデンホテル静岡 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>静岡駅徒歩5分の繁華街近く/朝食評価4.5以上★/有名メーカーのマットレス使用/レディースフロア完備</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県静岡市葵区紺屋町3-10 ／ 最寄り駅：静岡 ／ 交通案内：ＪＲ　静岡駅より徒歩にて約５分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県静岡市葵区紺屋町3-10 ／ 最寄り駅：静岡 ／ 交通案内：ＪＲ　静岡駅より徒歩にて約５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有料提携駐車場有</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.2 ／ 立地 ★4.23 ／ 部屋 ★4.24 ／ 設備 ★4.15 ／ 風呂 ★4.13</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -415,7 +415,7 @@ export default function AutumnBudgetShizuokaHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/210/210_room.jpg" alt="富士宮　富士急ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>富士宮駅目の前！ビジネスや観光の拠点に！富士宮焼きそば等、地元食材を取り入れた無料朝食バイキング！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県富士宮市中央町15-18 ／ 最寄り駅：富士宮 ／ 交通案内：ＪＲ身延線富士宮駅北口から徒歩約２分。 東海道新幹線新富士駅下車、車で４０分（駐車場は先着順・約30台収容）</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県富士宮市中央町15-18 ／ 最寄り駅：富士宮 ／ 交通案内：ＪＲ身延線富士宮駅北口から徒歩約２分。 東海道新幹線新富士駅下車、車で４０分（駐車場は先着順・約30台収容）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有（先着順）30台 有料  乗用車1泊1台600円(税込)。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.87 ／ 立地 ★3.93 ／ 部屋 ★3.76 ／ 設備 ★3.7 ／ 風呂 ★3.63 ／ 食事 ★3.95</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -437,7 +437,7 @@ export default function AutumnBudgetShizuokaHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/619/619_sgl.jpg" alt="ハイセットホテル静岡インター 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>無料駐車場完備。静岡インターに最も近いホテル！うなぎご飯、ネギトロ、しらす、静岡茶など朝食が大好評！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県静岡市駿河区中村町322-1 ／ 最寄り駅：静岡 ／ 交通案内：お車で　東名静岡ＩＣ2分　新東名静岡ＳＡ２７分　ＪＲ静岡駅１０分　富士山空港３５分　久能山１９分　ツインメッセ１２分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県静岡市駿河区中村町322-1 ／ 最寄り駅：静岡 ／ 交通案内：お車で　東名静岡ＩＣ2分　新東名静岡ＳＡ２７分　ＪＲ静岡駅１０分　富士山空港３５分　久能山１９分　ツインメッセ１２分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>普通車まで無料でお停めいただけます。※大型車（2t車以上）は事前の申込みが必要です。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.12 ／ 立地 ★4.05 ／ 部屋 ★4.04 ／ 設備 ★3.94 ／ 風呂 ★3.92 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -459,7 +459,7 @@ export default function AutumnBudgetShizuokaHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/859/859_room.jpg" alt="熱海温泉　月の栖　熱海聚楽ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【熱海温泉】楽天トラベルマイスター＆アワード受賞！お部屋へご用意する会席料理がクチコミ高評価！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県熱海市田原本町2-19 ／ 最寄り駅：熱海 ／ 交通案内：ＪＲ東海道線「熱海駅」～仲見世通り商店街を抜けて徒歩３分。高台に建つ和風旅館。海と街の景色が人気。露天風呂付客室3室有り</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県熱海市田原本町2-19 ／ 最寄り駅：熱海 ／ 交通案内：ＪＲ東海道線「熱海駅」～仲見世通り商店街を抜けて徒歩３分。高台に建つ和風旅館。海と街の景色が人気。露天風呂付客室3室有り</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（有料）１泊　1760円（税込）　お車は当館の玄関前に直接お寄せください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

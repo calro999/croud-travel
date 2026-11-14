@@ -77,7 +77,7 @@ export default function ArticlePage() {
             鹿児島・指宿温泉ひとり旅＆砂むし名湯おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「指宿温泉ひとり旅・砂むし温泉おこもり」錦江湾パノラマ・砂むし会席・黒豚しゃぶ！南国薩摩の潮風と地熱に癒やされる厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               薩摩半島の最南端に位置し、年間を通じて温暖な気候に恵まれた鹿児島県・指宿温泉。海岸に湧く温泉の熱を利用した世界でも極めて珍しい「天然砂むし温泉」は、全身のデトックスと驚くほどの爽快感をもたらしてくれます。
             </p>
             <p>
-              料理自慢の極上純和風旅館から、海を一望するパノラマリゾートホテルまで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              料理自慢の極上純和風旅館から、海を一望するパノラマリゾートホテルまで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -418,11 +418,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">指宿温泉ひとり旅・砂むし温泉おこもり：錦江湾パノラマ・砂むし会席・黒豚しゃぶ！南国薩摩の潮風と地熱に癒やされる厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「指宿温泉ひとり旅・砂むし温泉おこもり：錦江湾パノラマ・砂むし会席・黒豚しゃぶ！南国薩摩の潮風と地熱に癒やされる厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「指宿温泉ひとり旅・砂むし温泉おこもり：錦江湾パノラマ・砂むし会席・黒豚しゃぶ！南国薩摩の潮風と地熱に癒やされる厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -486,7 +486,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/15962/15962_room.jpg" alt="指宿温泉　いぶすき秀水園 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>南薩摩の湯の里指宿にて心尽くしの料理とやすらぎのひとときを…</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県指宿市湯の浜5-27-27 ／ 最寄り駅：指宿 ／ 交通案内：ＪＲ指宿枕崎線指宿駅まで送迎あり／九州自動車道谷山インターより５０分</p>
+                  <p><strong>【所在地・アクセス】</strong>鹿児島県指宿市湯の浜5-27-27 ／ 最寄り駅：指宿 ／ 交通案内：ＪＲ指宿枕崎線指宿駅まで送迎あり／九州自動車道谷山インターより５０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.76 ／ 立地 ★4.55 ／ 部屋 ★4.55 ／ 設備 ★4.45 ／ 風呂 ★4.5 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -508,7 +508,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31707/31707_w.jpg" alt="指宿温泉　指宿海上ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>砂蒸し風呂はもちろん、天然砂足湯、足湯、展望大浴場、ジャグジーと温泉三昧楽しめる一押しのホテルです。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県指宿市十二町3750 ／ 最寄り駅：指宿 ／ 交通案内：九州自動車道：鹿児島バリアよりR219経由R226を約50分南下し指宿国立病院前交差点を左折して正面に海が見えたら右側</p>
+                  <p><strong>【所在地・アクセス】</strong>鹿児島県指宿市十二町3750 ／ 最寄り駅：指宿 ／ 交通案内：九州自動車道：鹿児島バリアよりR219経由R226を約50分南下し指宿国立病院前交差点を左折して正面に海が見えたら右側</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　７０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★4.43 ／ 部屋 ★4.16 ／ 設備 ★3.85 ／ 風呂 ★4.12 ／ 食事 ★4.24</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -530,7 +530,7 @@ export default function ArticlePage() {
                 
                 <div className="md:col-span-3 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【指宿こころの宿】湯・食・美と癒しの新スポット!!</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県指宿市東方9227-6 ／ 最寄り駅：主要駅 ／ 交通案内：</p>
+                  <p><strong>【所在地・アクセス】</strong>鹿児島県指宿市東方9227-6 ／ 交通案内：</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

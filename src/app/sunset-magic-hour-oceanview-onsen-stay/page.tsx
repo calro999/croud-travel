@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/sunset-magic-hour-oceanview-onsen-stay/"
   };
 
@@ -186,6 +186,12 @@ export default function Page() {
           </p>
         </div>
 
+        <div className="pt-2">
+          <ShareButtons
+            title="黄金色に染まる海と空のマジックアワー！夕日絶景オーシャンビュー露天風呂宿"
+            url="https://croud-travel.pages.dev/sunset-magic-hour-oceanview-onsen-stay/"
+          />
+        </div>
         {/* クーポン特大バナー */}
         <SpecialCouponBanner />
 
@@ -303,11 +309,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">黄金色に染まる海と空のマジックアワー！夕日絶景オーシャンビュー露天風呂宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「黄金色に染まる海と空のマジックアワー！夕日絶景オーシャンビュー露天風呂宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「黄金色に染まる海と空のマジックアワー！夕日絶景オーシャンビュー露天風呂宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -371,7 +377,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/129440/129440_kya.jpg" alt="夕日ヶ浦温泉　旅館　海の華 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★2023年3月GRAND OPEN！★目の前は「夕日百選」に選ばれた絶景！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 京都府京丹後市網野町浜詰391 ／ 最寄り駅：網野 ／ 交通案内：京都丹後鉄道　夕日ヶ浦木津温泉駅からお車で約5分</p>
+                  <p><strong>【所在地・アクセス】</strong>京都府京丹後市網野町浜詰391 ／ 最寄り駅：網野 ／ 交通案内：京都丹後鉄道　夕日ヶ浦木津温泉駅からお車で約5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.05 ／ 立地 ★3.8 ／ 部屋 ★4.3 ／ 設備 ★4.16 ／ 風呂 ★3.79 ／ 食事 ★4.16</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -393,7 +399,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/67435/67435_k.jpg" alt="窓に広がる夕日と海　美食を奏で１５０有余年　間人温泉　炭平 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ここは、いにしえの皇后が愛した桃源郷、悠久から変わらぬ情景の中で、美食を奏で百五十有余年</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 京都府京丹後市丹後町間人3718 ／ 最寄り駅：網野 ／ 交通案内：京都丹後鉄道・網野駅から約20分無料送迎有（要予約）/　山陰近畿自動車道【京丹後大宮IC】から車で約30分</p>
+                  <p><strong>【所在地・アクセス】</strong>京都府京丹後市丹後町間人3718 ／ 最寄り駅：網野 ／ 交通案内：京都丹後鉄道・網野駅から約20分無料送迎有（要予約）/　山陰近畿自動車道【京丹後大宮IC】から車で約30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場有（予約不要）　※館内の階段を迂回する非常口での入館も出来ますのでご希望の方はお伝え下さい</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.74 ／ 立地 ★4.7 ／ 部屋 ★4.77 ／ 設備 ★4.78 ／ 風呂 ★4.8 ／ 食事 ★4.89</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -415,7 +421,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/79373/79373_wy.jpg" alt="夕日ヶ浦温泉　静花扇 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>目の前が海！小走り3秒で砂浜へ！海岸線に沈む雄大な夕日を見て、温泉にお食事におもてなし致します。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 京都府京丹後市網野町浜詰767 ／ 最寄り駅：木津温泉 ／ 交通案内：京都丹後鉄道　夕日ヶ浦木津温泉駅より送迎（車で約5分）、京都縦貫道/京丹後大宮IC下車約40分</p>
+                  <p><strong>【所在地・アクセス】</strong>京都府京丹後市網野町浜詰767 ／ 最寄り駅：木津温泉 ／ 交通案内：京都丹後鉄道　夕日ヶ浦木津温泉駅より送迎（車で約5分）、京都縦貫道/京丹後大宮IC下車約40分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２５台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.6 ／ 立地 ★4.62 ／ 部屋 ★4.56 ／ 設備 ★4.46 ／ 風呂 ★4.36 ／ 食事 ★4.69</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

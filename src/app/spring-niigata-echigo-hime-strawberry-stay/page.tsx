@@ -236,7 +236,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -681,11 +681,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：みずみずしく芳醇な春いちご！新潟特産「越後姫」スイーツ＆月岡エメラルド硫黄泉の宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：みずみずしく芳醇な春いちご！新潟特産「越後姫」スイーツ＆月岡エメラルド硫黄泉の宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：みずみずしく芳醇な春いちご！新潟特産「越後姫」スイーツ＆月岡エメラルド硫黄泉の宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -767,7 +767,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/29424/29424_heya.jpg" alt="月岡温泉　ホテル清風苑 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>5つ星の宿〇プロが選ぶ日本の旅館１００選受賞！ビュッフェスタイルから特撰会席まで多彩なお料理をご用意</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県新発田市月岡278-2 ／ 最寄り駅：豊栄 ／ 交通案内：ＪＲ月岡駅より車で約５分／ＪＲ豊栄駅より車で１５分／磐越道　安田ＩＣより車で約１５分</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県新発田市月岡278-2 ／ 最寄り駅：豊栄 ／ 交通案内：ＪＲ月岡駅より車で約５分／ＪＲ豊栄駅より車で１５分／磐越道　安田ＩＣより車で約１５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３５０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -789,7 +789,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/53073/53073_room.jpg" alt="月岡温泉　割烹の宿　いま井　五十嵐邸　結 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>癒しの名湯、飾らない格調。その深さの中で静寂を聴くひととき。贅を尽くした至福の空間。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県新発田市月岡温泉350 ／ 最寄り駅：月岡（新潟） ／ 交通案内：豊栄駅・新発田駅より車で２０分、月岡駅より１０分（豊栄駅に限り無料送迎有り、３日前まで要連絡）</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県新発田市月岡温泉350 ／ 最寄り駅：月岡（新潟） ／ 交通案内：豊栄駅・新発田駅より車で２０分、月岡駅より１０分（豊栄駅に限り無料送迎有り、３日前まで要連絡）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -811,7 +811,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/136986/136986_ru1.jpg" alt="月岡温泉　白玉の湯華鳳　別邸越の里 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>豊かな情緒と機能性を両立させたオールスイート。全２０室、すべて趣の異なる設えでご用意しております。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県新発田市月岡温泉134 ／ 最寄り駅：豊栄 ／ 交通案内：ＪＲ新潟駅より月岡温泉行きの路線バスあり（片道1,500円/現金のみ）</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県新発田市月岡温泉134 ／ 最寄り駅：豊栄 ／ 交通案内：ＪＲ新潟駅より月岡温泉行きの路線バスあり（片道1,500円/現金のみ）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.79 ／ 立地 ★4.72 ／ 部屋 ★4.85 ／ 設備 ★4.83 ／ 風呂 ★4.85 ／ 食事 ★4.64</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -833,7 +833,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/29709/29709_f2.jpg" alt="月岡温泉　白玉の湯　泉慶 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>硫黄の効能豊かな自家源泉“白玉の湯”の大露天風呂と旬の越後の創作会席料理が好評。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県新発田市月岡温泉453番地 ／ 最寄り駅：月岡（新潟） ／ 交通案内：ＪＲ月岡駅より車で１０分／ＪＲ豊栄駅より車で２０分／磐越道　安田ＩＣより車で２０分</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県新発田市月岡温泉453番地 ／ 最寄り駅：月岡（新潟） ／ 交通案内：ＪＲ月岡駅より車で１０分／ＪＲ豊栄駅より車で２０分／磐越道　安田ＩＣより車で２０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　１５０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -855,7 +855,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/32388/32388_rb.jpg" alt="月岡温泉　白玉の湯　華鳳 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2025年プロが選ぶ日本のホテル・旅館100選★総合1位★白玉の湯は全国屈指の硫黄含有量</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県新発田市月岡温泉134 ／ 最寄り駅：豊栄 ／ 交通案内：新潟駅や空港から最も近い温泉地／JR新発田駅より有料定時シャトルバス運行</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県新発田市月岡温泉134 ／ 最寄り駅：豊栄 ／ 交通案内：新潟駅や空港から最も近い温泉地／JR新発田駅より有料定時シャトルバス運行</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

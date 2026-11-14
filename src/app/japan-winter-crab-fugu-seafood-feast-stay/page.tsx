@@ -228,11 +228,11 @@ export default function GourmetCuisineHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">冬の四大味覚極上宿：松葉ガニ・越前ガニ・下関とらふぐ・寒ブリ 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「冬の四大味覚極上宿：松葉ガニ・越前ガニ・下関とらふぐ・寒ブリ 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「冬の四大味覚極上宿：松葉ガニ・越前ガニ・下関とらふぐ・寒ブリ 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -270,7 +270,7 @@ export default function GourmetCuisineHubPage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 割烹旅館　寿美礼</td>
-                <td className="p-3 text-stone-600">福井県</td>
+                <td className="p-3 text-stone-600">山口県下関市竹崎町3-13-23</td>
                 <td className="p-3 text-stone-600">ＪＲ　下関駅より徒歩にて3分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.54（174件）</td>
@@ -323,7 +323,7 @@ export default function GourmetCuisineHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/69393/69393_ro.jpg" alt="つるぎ恋月　立山連峰を望む天然温泉旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【美肌効果】で湯上がり時には肌もしっとり。心ゆくまでゆっくりとお寛ぎ下さいませ。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 富山県中新川郡上市町湯上野1 ／ 最寄り駅：上市 ／ 交通案内：立山ICより10分。上市駅より車にて7分。アルペンルート立山駅、宇奈月トロッコまで各50分。</p>
+                  <p><strong>【所在地・アクセス】</strong>富山県中新川郡上市町湯上野1 ／ 最寄り駅：上市 ／ 交通案内：立山ICより10分。上市駅より車にて7分。アルペンルート立山駅、宇奈月トロッコまで各50分。</p>
                   <p>【冬の四大味覚極上宿：松葉ガニ・越前ガニ・下関とらふぐ】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.02 ／ 立地 ★3.99 ／ 部屋 ★4.05 ／ 設備 ★3.88 ／ 風呂 ★4.11 ／ 食事 ★4.27</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function GourmetCuisineHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/165855/165855_kan1.jpg" alt="下関温泉　風の海 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全室オーシャンビュー！温泉展望風呂付客室。海峡の風と海が織りなす極上のときをお過ごしください。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山口県下関市長府外浦町2-1 ／ 最寄り駅：新下関 ／ 交通案内：ＪＲ　新下関駅よりお車にて約２０分</p>
+                  <p><strong>【所在地・アクセス】</strong>山口県下関市長府外浦町2-1 ／ 最寄り駅：新下関 ／ 交通案内：ＪＲ　新下関駅よりお車にて約２０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -366,8 +366,8 @@ export default function GourmetCuisineHubPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/76822/76822.jpg" alt="割烹旅館　寿美礼 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「冬の四大味覚極上宿（松葉ガニ・越前ガニ・下関とらふぐ・寒ブリ 厳選ガイド）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ　下関駅より徒歩にて3分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>とらふぐ、鮟鱇、鯨、雲丹など地消地産の食材を扱う、３代続く老舗の料理宿。人工温泉の貸切風呂も無料！</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：ＪＲ　下関駅より徒歩にて3分</p>
                   <p>【冬の四大味覚極上宿：松葉ガニ・越前ガニ・下関とらふぐ】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function GourmetCuisineHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/72022/72022_furo.jpg" alt="関門の宿　源平荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>◆ ふぐ料理が人気！全１９室の宿！ ◆ ふぐ刺しは日本一のふぐ市場より直送！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山口県下関市みもすそ川町8-8 ／ 最寄り駅：下関 ／ 交通案内：下関駅→車で12分／関門橋まで徒歩5分・唐戸市場、海響館まで車5分！</p>
+                  <p><strong>【所在地・アクセス】</strong>山口県下関市みもすそ川町8-8 ／ 最寄り駅：下関 ／ 交通案内：下関駅→車で12分／関門橋まで徒歩5分・唐戸市場、海響館まで車5分！</p>
                   <p><strong>【駐車場・マイカー利用】</strong>２５台。 全館Ｗｉ-Ｆｉ利用可。禁煙室なし（極力消臭対応）※分煙のご協力お願い致します</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function GourmetCuisineHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/17800/17800_sig.jpg" alt="唐戸セントラルホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>関門海峡エリアの下関界隈と、対岸の門司港レトロの散策、角島など山陰方面へのドライブの観光拠点です！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山口県下関市幸町11-1 ／ 最寄り駅：下関 ／ 交通案内：ＪＲ下関駅より車で7分.下関I..Cから車で10分／バス停「唐戸」から０.6ｋｍ、「西の端」から0.2ｋｍ。</p>
+                  <p><strong>【所在地・アクセス】</strong>山口県下関市幸町11-1 ／ 最寄り駅：下関 ／ 交通案内：ＪＲ下関駅より車で7分.下関I..Cから車で10分／バス停「唐戸」から０.6ｋｍ、「西の端」から0.2ｋｍ。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有料　※現金精算のみ オートバイ、軽・普通車７００円　マイクロバスまでの大型車１３００円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function GourmetCuisineHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/10634/10634_rm.jpg" alt="ＴＯＧＥＮ　黒部　宇奈月温泉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>黒部峡谷や立山黒部アルペンルートの観光の拠点にぴったり！黒部川の眺望抜群♪貸切露天風呂の宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 富山県黒部市宇奈月温泉22-1 ／ 最寄り駅：宇奈月温泉 ／ 交通案内：富山地方鉄道「宇奈月温泉駅」より徒歩５分。北陸HW黒部ＩＣより２０分。立山・黒部アルペンルート立山駅まで約８０分。</p>
+                  <p><strong>【所在地・アクセス】</strong>富山県黒部市宇奈月温泉22-1 ／ 最寄り駅：宇奈月温泉 ／ 交通案内：富山地方鉄道「宇奈月温泉駅」より徒歩５分。北陸HW黒部ＩＣより２０分。立山・黒部アルペンルート立山駅まで約８０分。</p>
                   <p>【冬の四大味覚極上宿：松葉ガニ・越前ガニ・下関とらふぐ】 <strong>【駐車場・マイカー利用】</strong>有り　50台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.47 ／ 部屋 ★4.34 ／ 設備 ★4.27 ／ 風呂 ★4.37 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

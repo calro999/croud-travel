@@ -395,37 +395,6 @@ export default function Page() {
           </div>
         </section>
 
-        {/* よくある質問 FAQ */}
-        <section className="mb-16 bg-white rounded-3xl shadow-sm border border-stone-200/80 p-6 md:p-10">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">よくある質問・ふるさと納税トラベルクーポンの疑問を解消</h2>
-          <div className="space-y-4">
-            
-            <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>楽天ふるさと納税トラベルクーポンはどうやって使うのですか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
-                まずは楽天ふるさと納税で泊まりたい宿のある自治体（例：群馬県草津町、兵庫県神戸市など）の「楽天トラベルクーポン」を選んで寄付します。寄付完了後、通常翌日〜翌々日を目途に楽天IDへクーポンが付与されます。あとは楽天トラベルで対象宿の予約を進める際、予約入力画面でクーポンを選択するだけで自動的に宿泊代金から割引されます。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>1回の宿泊で使えるクーポン枚数や金額に制限はありますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
-                楽天トラベルでは原則として1予約（1部屋）につき利用できるふるさと納税クーポンは1枚です。ただし、他の楽天トラベルキャンペーンクーポン（宿独自クーポンや5と0のつく日クーポンなど）と併用できる場合が多く、さらにお得に宿泊できるケースがあります。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>自分の寄付上限額が分からないのですが、どう調べれば良いですか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
-                楽天ふるさと納税のサイト内にある「かんたんシミュレーター」や「詳細シミュレーター」を使えば、年収・家族構成・住宅ローン控除などを入力するだけで数分で上限目安が算出できます。上限額の範囲内であれば、自己負担2,000円のみで宿泊クーポンを獲得できます。
-              </p>
-            </div>
-          </div>
-        </section>
-
         {/* 相互回遊リンク（記事1〜4の循環導線） */}
         <section className="bg-stone-200/80 rounded-3xl p-6 md:p-10 border border-stone-300">
           <div className="text-center max-w-2xl mx-auto mb-8">

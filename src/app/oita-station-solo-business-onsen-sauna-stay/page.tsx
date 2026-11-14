@@ -77,7 +77,7 @@ export default function ArticlePage() {
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.13 更新</time>
           <span>執筆：旅宿クラウド ひとり旅・出張調査班</span>
-          <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式API提携</span>
+          <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">編集部が厳選</span>
         </div>
 
         {/* リード文 */}
@@ -89,7 +89,7 @@ export default function ArticlePage() {
             臨海工業地帯が広がり、九州東部の経済・産業を牽引する大分市。温泉湧出量・源泉数ともに日本一を誇る大分県らしく、県庁所在地の中心駅前ホテルでも贅沢な天然温泉と本格サウナが当たり前のように楽しめます。
           </p>
           <p>
-            最上階の露天風呂から夜空を仰げる都市型温泉ホテルから、コスパ抜群で朝食にりゅうきゅうやとり天が並ぶビジネスホテルまで、楽天トラベル公式APIより直接取得した最新データをもとに厳選紹介します。
+            最上階の露天風呂から夜空を仰げる都市型温泉ホテルから、コスパ抜群で朝食にりゅうきゅうやとり天が並ぶビジネスホテルまで、宿泊施設データより直接取得した最新データをもとに厳選紹介します。
           </p>
         </div>
       </header>
@@ -344,7 +344,7 @@ export default function ArticlePage() {
           <p className="text-sm text-amber-100 mb-6 max-w-2xl mx-auto">平日限定の一人旅割引や、早期割・直前割など、楽天トラベルならではの特典プランが多数用意されています。人気日程は早めの予約がおすすめです。
           </p>
           <a
-            href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2F"
+            href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fsearch.travel.rakuten.co.jp%2Fds%2Fundated%2Fsearch%3Ff_query%3D%25E5%25A4%25A7%25E5%2588%2586%25E7%259C%258C"
             target="_blank"
             rel="sponsored noopener noreferrer"
             className="inline-flex items-center justify-center bg-white text-amber-900 font-bold px-8 py-3 rounded-xl shadow-lg hover:bg-amber-50 transition transform hover:-translate-y-0.5 text-sm sm:text-base"
@@ -387,11 +387,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">大分駅前出張・天然温泉サウナ：日本一のおんせん県・天然温泉白糸の湯・豊後とり天！九州東部ビジネスを制する厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「大分駅前出張・天然温泉サウナ：日本一のおんせん県・天然温泉白糸の湯・豊後とり天！九州東部ビジネスを制する厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「大分駅前出張・天然温泉サウナ：日本一のおんせん県・天然温泉白糸の湯・豊後とり天！九州東部ビジネスを制する厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -455,7 +455,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/166556/166556.jpg" alt="天然温泉　白糸の湯　ドーミーイン大分（ドーミーイン・御宿野乃　ホテルズグループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>最上階12階に天然温泉大浴場・露天風呂・高温サウナ完備＜水風呂付き＞！★夜鳴きそばサービス実施中！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大分県大分市末広町1-2-1 ／ 最寄り駅：大分 ／ 交通案内：JR大分駅府内中央口より徒歩約１分！大分空港行リムジンバス乗り場へは徒歩1分の好立地♪</p>
+                  <p><strong>【所在地・アクセス】</strong>大分県大分市末広町1-2-1 ／ 最寄り駅：大分 ／ 交通案内：JR大分駅府内中央口より徒歩約１分！大分空港行リムジンバス乗り場へは徒歩1分の好立地♪</p>
                   <p><strong>【駐車場・マイカー利用】</strong>立体駐車場2基完備。全68台収容可能。すべて先着順となります。1泊1,500円(税込)。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.47 ／ 立地 ★4.46 ／ 部屋 ★4.46 ／ 設備 ★4.46 ／ 風呂 ★4.53 ／ 食事 ★4.51</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -477,7 +477,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/193114/193114.jpg" alt="天然温泉　アリストンホテル大分 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>大分駅から徒歩２分！天然温泉と大分郷土料理の朝ごはんバイキング</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大分県大分市金池町1-2-1 ／ 最寄り駅：大分 ／ 交通案内：大分駅から徒歩２分</p>
+                  <p><strong>【所在地・アクセス】</strong>大分県大分市金池町1-2-1 ／ 最寄り駅：大分 ／ 交通案内：大分駅から徒歩２分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り 8台 1泊1,000円(税込) 先着順　提携駐車場有り(先着順)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -499,7 +499,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/104513/104513_ru.jpg" alt="天然温泉　都の湯　ホテルクラウンヒルズ大分（ＢＢＨホテルグループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>朝食バイキング無料！すぐそこ繁華街、天然温泉大浴場併設、客室も天然温泉♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大分県大分市都町4-3-12 ／ 最寄り駅：大分 ／ 交通案内：大分空港より高速バスにて約60分(荷揚町下車)。 大分自動車道・大分インターチェンジより車で10分。</p>
+                  <p><strong>【所在地・アクセス】</strong>大分県大分市都町4-3-12 ／ 最寄り駅：大分 ／ 交通案内：大分空港より高速バスにて約60分(荷揚町下車)。 大分自動車道・大分インターチェンジより車で10分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル立体駐車場（高1.55m幅1.85m長5.00mまで）無料　提携駐車場900円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

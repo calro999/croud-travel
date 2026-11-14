@@ -228,11 +228,11 @@ export default function TransitStyleHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">高速バス直行・バスターミナル直結温泉宿：乗り換えなし・座席指定で楽々アクセス 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「高速バス直行・バスターミナル直結温泉宿：乗り換えなし・座席指定で楽々アクセス 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「高速バス直行・バスターミナル直結温泉宿：乗り換えなし・座席指定で楽々アクセス 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -252,7 +252,7 @@ export default function TransitStyleHubPage() {
               <tbody className="divide-y divide-stone-200">
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 四万温泉　源泉掛け流しの貸切風呂と囲炉裏料理宿　湯の宿　山ばと</td>
-                <td className="p-3 text-stone-600">群馬県</td>
+                <td className="p-3 text-stone-600">群馬県吾妻郡中之条町四万4358-11</td>
                 <td className="p-3 text-stone-600">関越自動車道・渋川伊香保Ｉ.Ｃから国道353経由60分JR中之条駅から</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.61（243件）</td>
@@ -322,8 +322,8 @@ export default function TransitStyleHubPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2628/2628.jpg" alt="四万温泉　源泉掛け流しの貸切風呂と囲炉裏料理宿　湯の宿　山ばと 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「高速バス直行・バスターミナル直結温泉宿（乗り換えなし・座席指定で楽々アクセス 厳選ガイド）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：関越自動車道・渋川伊香保Ｉ.Ｃから国道353経由60分JR中之条駅からバスで30分　終点から徒歩20分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>高速バス直行・バスターミナル直結温泉宿エリアの宿泊施設別スペック＆滞在チェックポイントは、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：関越自動車道・渋川伊香保Ｉ.Ｃから国道353経由60分JR中之条駅からバスで30分　終点から徒歩20分</p>
                   <p>【高速バス直行・バスターミナル直結温泉宿：乗り換えなし】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function TransitStyleHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/6267/6267_ky.jpg" alt="岸権旅館　石段街隣接　希少源泉「黄金の湯」の宿 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>露天・大浴場・貸切など全てが「黄金の湯」地産地消にこだわった創作会席と絶景が自慢の老舗旅館</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県渋川市伊香保町伊香保甲48 ／ 最寄り駅：渋川 ／ 交通案内：関越自動車道　渋川伊香保ＩＣから車で２０分　上越線渋川駅下車バスで３０分、タクシー１５分</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県渋川市伊香保町伊香保甲48 ／ 最寄り駅：渋川 ／ 交通案内：関越自動車道　渋川伊香保ＩＣから車で２０分　上越線渋川駅下車バスで３０分、タクシー１５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場150台あり。旅館専用駐車場は伊香保小学校の道向かいにあり。専用駐車場から送迎いたします。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.44 ／ 立地 ★4.46 ／ 部屋 ★4.39 ／ 設備 ★4.27 ／ 風呂 ★4.49 ／ 食事 ★4.49</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function TransitStyleHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/70236/70236_s.jpg" alt="東横ＩＮＮ前橋駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR前橋駅から徒歩1分で朝食・小学生以下添い寝無料のホテル！敷島公園ばら園まで車で20分</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県前橋市南町3-9-1 ／ 最寄り駅：前橋 ／ 交通案内：ＪＲ両毛線　前橋駅 南口を出ますと目の前にあります！</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県前橋市南町3-9-1 ／ 最寄り駅：前橋 ／ 交通案内：ＪＲ両毛線　前橋駅 南口を出ますと目の前にあります！</p>
                   <p><strong>【駐車場・マイカー利用】</strong>立体50台（大きさ制限あり）￥500／泊、平置き29台￥300／泊。いずれも先着順。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.13 ／ 立地 ★4.17 ／ 部屋 ★4.06 ／ 設備 ★4.02 ／ 風呂 ★3.91 ／ 食事 ★3.98</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function TransitStyleHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/933/933_twn.jpg" alt="河口湖温泉　ホテルレジーナ河口湖 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全室富士山眺望♪温泉大浴場も好評です！！全室Wi-Fi接続無料！！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県南都留郡富士河口湖町船津5239-1 ／ 最寄り駅：河口湖 ／ 交通案内：富士急行線「河口湖駅」・高速バスバス停「河口湖駅・富士急ハイランド」より無料送迎。（要ＴＥＬ）</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県南都留郡富士河口湖町船津5239-1 ／ 最寄り駅：河口湖 ／ 交通案内：富士急行線「河口湖駅」・高速バスバス停「河口湖駅・富士急ハイランド」より無料送迎。（要ＴＥＬ）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　71台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function TransitStyleHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/147723/147723_kan1.jpg" alt="ザ　グラン　リゾート　プリンセス富士河口湖 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>荘厳な富士山が目の前に見え、おいしいお料理と温泉大浴場有り。富士山周辺観光の拠点にも便利な立地。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県南都留郡富士河口湖町小立3919 ／ 最寄り駅：河口湖 ／ 交通案内：河口湖駅より無料送迎（17時半まで）。中央道 河口湖I.Cより車で10分。新宿駅より特急や高速バスで約2時間</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県南都留郡富士河口湖町小立3919 ／ 最寄り駅：河口湖 ／ 交通案内：河口湖駅より無料送迎（17時半まで）。中央道 河口湖I.Cより車で10分。新宿駅より特急や高速バスで約2時間</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２８台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function TransitStyleHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/19965/19965_heya.jpg" alt="くれたけイン御殿場インター／ＧＯＬＤ　ＣＡＢＩＮ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>御殿場・箱根周辺のビジネス出張・観光に最適。天然温泉浴場付♪御殿場プレミアム・アウトレットまで5分！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県御殿場市東田中1243-6 ／ 最寄り駅：御殿場 ／ 交通案内：ＪＲ御殿場駅より車で5分！東名御殿場ＩＣ第一出口より３０秒</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県御殿場市東田中1243-6 ／ 最寄り駅：御殿場 ／ 交通案内：ＪＲ御殿場駅より車で5分！東名御殿場ＩＣ第一出口より３０秒</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　45台　乗用車無料　予約不要　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

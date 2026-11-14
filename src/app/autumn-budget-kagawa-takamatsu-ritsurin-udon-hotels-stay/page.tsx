@@ -285,11 +285,11 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">高松：栗林公園の秋紅葉ライトアップと讃岐うどん巡り！格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「高松：栗林公園の秋紅葉ライトアップと讃岐うどん巡り！格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「高松：栗林公園の秋紅葉ライトアップと讃岐うどん巡り！格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -371,7 +371,7 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/183326/183326.jpg" alt="ホテルエリアワン高松シティ（ホテルエリアワングループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR高松駅徒歩10分・琴電片原町駅徒歩5分！高松中央商店街・ライオン通り目の前で抜群の好立地！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 香川県高松市内町2-20 ／ 最寄り駅：高松（香川） ／ 交通案内：JR高松駅より車3分・徒歩10分　高松空港リムジンバス「兵庫町」バス停より徒歩5分　高松中央IC・高松西ICより約20分</p>
+                  <p><strong>【所在地・アクセス】</strong>香川県高松市内町2-20 ／ 最寄り駅：高松（香川） ／ 交通案内：JR高松駅より車3分・徒歩10分　高松空港リムジンバス「兵庫町」バス停より徒歩5分　高松中央IC・高松西ICより約20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場有　【丸亀町壱番街駐車場／香川県高松市内町2‐1】　1泊1,000円　※予約不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.1 ／ 立地 ★3.97 ／ 部屋 ★3.94 ／ 設備 ★3.86 ／ 風呂 ★3.66 ／ 食事 ★4.15</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -393,7 +393,7 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/84770/84770_room.jpg" alt="ホテル　パールガーデン 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>上位ランクのシモンズベッドでぐっすり☆新館禁煙Ｒのみ・本館喫煙Ｒ有！無料ＷＩＦＩ＆駐車場無料</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 香川県高松市福岡町2-2-1 ／ 最寄り駅：高松（香川） ／ 交通案内：JR高松駅より徒歩約30分(車で約10分)又は路線パスで約5分/高松中央ICより5km（約25分）</p>
+                  <p><strong>【所在地・アクセス】</strong>香川県高松市福岡町2-2-1 ／ 最寄り駅：高松（香川） ／ 交通案内：JR高松駅より徒歩約30分(車で約10分)又は路線パスで約5分/高松中央ICより5km（約25分）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２１７台　無料　予約不要。マイクロバス、中型、大型バス、トラック等は有料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.39 ／ 立地 ★4.23 ／ 部屋 ★4.47 ／ 設備 ★4.38 ／ 風呂 ★4.38 ／ 食事 ★4.49</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -415,7 +415,7 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/13730/13730_sgl.jpg" alt="高松国際ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【車で来るならココ】平面駐車場無料・大型可【2019年リニューアル】全室シモンズベッド、空気清浄機</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 香川県高松市木太町4区2191-1 ／ 最寄り駅：高松（香川） ／ 交通案内：JR高松駅より車で約15分　高松道高松中央IC、サンメッセ香川より車で約10分　市内バス(高松国際ホテル前)下車徒歩1分</p>
+                  <p><strong>【所在地・アクセス】</strong>香川県高松市木太町4区2191-1 ／ 最寄り駅：高松（香川） ／ 交通案内：JR高松駅より車で約15分　高松道高松中央IC、サンメッセ香川より車で約10分　市内バス(高松国際ホテル前)下車徒歩1分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>【無料】平面駐車場200台　大型バス/トラック可　車で高松駅・サンメッセ15分、高松中央IC10分</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -437,7 +437,7 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8869/8869_twn.jpg" alt="リーガホテルゼスト高松 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【好立地】空港高速バス停正面／高松駅まで徒歩10分！香川イチを目指す朝食バイキング★</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 香川県高松市古新町9-1 ／ 最寄り駅：高松（香川） ／ 交通案内：ＪＲ高松駅…徒歩約１０分／あなぶきアリーナ香川…徒歩約１５分／高松空港よりリムジンバス…約３５分※兵庫町バス停ホテル正面</p>
+                  <p><strong>【所在地・アクセス】</strong>香川県高松市古新町9-1 ／ 最寄り駅：高松（香川） ／ 交通案内：ＪＲ高松駅…徒歩約１０分／あなぶきアリーナ香川…徒歩約１５分／高松空港よりリムジンバス…約３５分※兵庫町バス停ホテル正面</p>
                   <p><strong>【駐車場・マイカー利用】</strong>立体駐車場タワーパーキング30台　￥1,200（税込／泊）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -459,7 +459,7 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/193287/193287.jpg" alt="東横ＩＮＮ高松駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>25年3月に東横INNがNEWオープン！高松駅から徒歩圏内の好立地</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 香川県高松市錦町1-1-6 ／ 最寄り駅：高松（香川） ／ 交通案内：JR高徳線・予讃線「高松駅」南口徒歩5分</p>
+                  <p><strong>【所在地・アクセス】</strong>香川県高松市錦町1-1-6 ／ 最寄り駅：高松（香川） ／ 交通案内：JR高徳線・予讃線「高松駅」南口徒歩5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　101台　1000円/泊　平置き7台(予約制)　　機械式：94台(先着順)</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.26 ／ 立地 ★4.26 ／ 部屋 ★4.38 ／ 設備 ★4.25 ／ 風呂 ★4.17 ／ 食事 ★4.13</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -77,7 +77,7 @@ export default function ArticlePage() {
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.13 更新</time>
           <span>執筆：旅宿クラウド ひとり旅・出張調査班</span>
-          <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式API提携</span>
+          <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">編集部が厳選</span>
         </div>
 
         {/* リード文 */}
@@ -89,7 +89,7 @@ export default function ArticlePage() {
             東京と大阪の中間に位置し、リニア中央新幹線の開業に向けて再開発が進む大都市・名古屋。名駅周辺のオフィス街から栄の繁華街、丸の内の官庁街まで、日々多くのビジネスパーソンが行き交います。
           </p>
           <p>
-            サウナ文化が日本一熱い都市とも称される名古屋で、サウナシュラン殿堂入りのサウナ施設から、自家源泉の大浴場で手足を伸ばせる駅近ホテルまで、楽天トラベル公式APIより直接取得した最新データをもとに厳選紹介します。
+            サウナ文化が日本一熱い都市とも称される名古屋で、サウナシュラン殿堂入りのサウナ施設から、自家源泉の大浴場で手足を伸ばせる駅近ホテルまで、宿泊施設データより直接取得した最新データをもとに厳選紹介します。
           </p>
         </div>
       </header>
@@ -368,7 +368,7 @@ export default function ArticlePage() {
           <p className="text-sm text-amber-100 mb-6 max-w-2xl mx-auto">平日限定の一人旅割引や、早期割・直前割など、楽天トラベルならではの特典プランが多数用意されています。人気日程は早めの予約がおすすめです。
           </p>
           <a
-            href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2F"
+            href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fsearch.travel.rakuten.co.jp%2Fds%2Fundated%2Fsearch%3Ff_query%3D%25E5%2590%258D%25E5%258F%25A4%25E5%25B1%258B%25E5%2587%25BA%25E5%25BC%25B5%25E3%2583%25BB%25E3%2582%25B5%25E3%2582%25A6%25E3%2583%258A%25E6%25B8%25A9%25E6%25B3%2589%25E3%2582%25B9%25E3%2583%2586%25E3%2582%25A4%25EF%25BC%259A"
             target="_blank"
             rel="sponsored noopener noreferrer"
             className="inline-flex items-center justify-center bg-white text-amber-900 font-bold px-8 py-3 rounded-xl shadow-lg hover:bg-amber-50 transition transform hover:-translate-y-0.5 text-sm sm:text-base"
@@ -451,11 +451,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">名古屋出張・サウナ温泉ステイ：名駅・栄アクセス・天然温泉錦鯱の湯・聖地ウェルビー今池！中部ビジネスを制する厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「名古屋出張・サウナ温泉ステイ：名駅・栄アクセス・天然温泉錦鯱の湯・聖地ウェルビー今池！中部ビジネスを制する厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「名古屋出張・サウナ温泉ステイ：名駅・栄アクセス・天然温泉錦鯱の湯・聖地ウェルビー今池！中部ビジネスを制する厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -519,7 +519,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/147710/147710_kan.jpg" alt="天然温泉　錦鯱の湯　ドーミーインＰＲＥＭＩＵＭ名古屋栄（ドーミーイン・御宿野乃　ホテルズグループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ゴールドアワード2021受賞！天然温泉大浴場(サウナ＆水風呂)が魅力！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛知県名古屋市中区錦2-20-1 ／ 最寄り駅：栄（愛知） ／ 交通案内：栄駅8番出口徒歩約8分（エスカレーター、エレベーター有り）伏見駅2番出口徒歩約4分（エスカレーター、エレベーター無し）</p>
+                  <p><strong>【所在地・アクセス】</strong>愛知県名古屋市中区錦2-20-1 ／ 最寄り駅：栄（愛知） ／ 交通案内：栄駅8番出口徒歩約8分（エスカレーター、エレベーター有り）伏見駅2番出口徒歩約4分（エスカレーター、エレベーター無し）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>1泊1,800円。全長5.05m 高さ制限2.05m 車幅1.85m 車重1.85t  先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.4 ／ 立地 ★4.32 ／ 部屋 ★4.39 ／ 設備 ★4.43 ／ 風呂 ★4.46 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -541,7 +541,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/17984/17984_man.jpg" alt="サウナ＆カプセルホテル　ウェルビー今池 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>サウナ入り放題！外出OK！Wi-Fi＆コンセント完備！無料朝食サービス！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛知県名古屋市千種区今池5-25-5 ／ 最寄り駅：今池（愛知） ／ 交通案内：JR名古屋駅より地下鉄東山線にて15分　今池駅下車／東名高速道路　名古屋ICより30分　ナゴヤドームまで車で10分</p>
+                  <p><strong>【所在地・アクセス】</strong>愛知県名古屋市千種区今池5-25-5 ／ 最寄り駅：今池（愛知） ／ 交通案内：JR名古屋駅より地下鉄東山線にて15分　今池駅下車／東名高速道路　名古屋ICより30分　ナゴヤドームまで車で10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>提携有り　600円／泊（昼14時〜翌昼12時）※台数制限あり。2ｔ車以上の大型車はご利用頂けません。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.46 ／ 立地 ★4.48 ／ 部屋 ★4.42 ／ 設備 ★4.46 ／ 風呂 ★4.58 ／ 食事 ★4.46</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -563,7 +563,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/182569/182569.jpg" alt="天然温泉ホテルリブマックスＰＲＥＭＩＵＭ名古屋丸の内 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【2021年NEWOPEN】高温サウナ＆天然温泉大浴場を揃えたプレミアムホテルが名古屋初上陸！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛知県名古屋市中区丸の内3-16-20 ／ 最寄り駅：久屋大通 ／ 交通案内：名古屋市営地下鉄桜通線・名城線「久屋大通」駅 徒歩 約3分</p>
+                  <p><strong>【所在地・アクセス】</strong>愛知県名古屋市中区丸の内3-16-20 ／ 最寄り駅：久屋大通 ／ 交通案内：名古屋市営地下鉄桜通線・名城線「久屋大通」駅 徒歩 約3分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場はございません。周辺パーキングをご利用下さいませ。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.85 ／ 立地 ★3.82 ／ 部屋 ★3.92 ／ 設備 ★3.82 ／ 風呂 ★3.73 ／ 食事 ★2.53</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

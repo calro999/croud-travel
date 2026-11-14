@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">千葉・館山＆白浜・野島崎：房総最南端白亜の灯台・フラワーライン＆伊勢海老宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「千葉・館山＆白浜・野島崎：房総最南端白亜の灯台・フラワーライン＆伊勢海老宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「千葉・館山＆白浜・野島崎：房総最南端白亜の灯台・フラワーライン＆伊勢海老宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9662/9662_w.jpg" alt="南房総白浜温泉　白浜オーシャンリゾート 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>南房総最南端の海に１番近いリゾートホテル。全室オーシャンビュー目の前は一面の太平洋！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 千葉県南房総市白浜町白浜2784 ／ 最寄り駅：館山 ／ 交通案内：JR内房線「館山駅西口」より無料送迎バスで30分（要予約）/ 館山自動車道富浦ICより約40分</p>
+                  <p><strong>【所在地・アクセス】</strong>千葉県南房総市白浜町白浜2784 ／ 最寄り駅：館山 ／ 交通案内：JR内房線「館山駅西口」より無料送迎バスで30分（要予約）/ 館山自動車道富浦ICより約40分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５５台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/137018/137018_wa.jpg" alt="グランドホテル太陽 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>大人気！！カニ食べ放題！客室から見おろす太平洋は旅の疲れを癒してくれます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 千葉県南房総市白浜町白浜3535-5 ／ 最寄り駅：主要駅 ／ 交通案内：お車で：アクアラインより館山自動車道経由富浦ICから約３０分／電車で：白浜バス停より徒歩にて７分</p>
+                  <p><strong>【所在地・アクセス】</strong>千葉県南房総市白浜町白浜3535-5 ／ 交通案内：お車で：アクアラインより館山自動車道経由富浦ICから約３０分／電車で：白浜バス停より徒歩にて７分</p>
                   <p>【千葉・館山＆白浜・野島崎：房総最南端白亜の灯台・フラ】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8603/8603_yor.jpg" alt="たてやま温泉　夕日海岸　昇鶴 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>『日本の夕陽百選』鏡ヶ浦の夕日の絶景に出会える宿！料理長自慢の海の幸のお料理をお楽しみください。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 千葉県館山市八幡822 ／ 最寄り駅：館山 ／ 交通案内：東関道館山富浦ICよりお車で約10分／JR内房線　館山駅よりタクシーで5分、徒歩で20分 ／館山駅より送迎有り（要予約）</p>
+                  <p><strong>【所在地・アクセス】</strong>千葉県館山市八幡822 ／ 最寄り駅：館山 ／ 交通案内：東関道館山富浦ICよりお車で約10分／JR内房線　館山駅よりタクシーで5分、徒歩で20分 ／館山駅より送迎有り（要予約）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　無料　先着順　◇◆必ず駐車できます◆◇</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/44003/44003_en.jpg" alt="館山温泉　おさしみの宿　たろべ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>館山の海であがった新鮮な地魚を使った田舎料理が自慢の小さなお宿ならでは！本物の笑顔でお迎えします。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 千葉県館山市塩見225 ／ 最寄り駅：館山 ／ 交通案内：ＪＲ　館山駅よりＪＲバスで２０分、車で１３分</p>
+                  <p><strong>【所在地・アクセス】</strong>千葉県館山市塩見225 ／ 最寄り駅：館山 ／ 交通案内：ＪＲ　館山駅よりＪＲバスで２０分、車で１３分</p>
                   <p>【千葉・館山＆白浜・野島崎：房総最南端白亜の灯台・フラ】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/28010/28010_wa.jpg" alt="お魚料理の宿　魚拓荘　鈴木屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>新鮮な海の幸や山の幸、地酒やワイン等をお部屋か個室で楽しむ時間。お部屋食確約ではございません。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 千葉県南房総市千倉町北朝夷2801 ／ 最寄り駅：千倉 ／ 交通案内：ＪＲ内房線・千倉駅～タクシーにて約５分／富津館山道・富浦ＩＣ～国道127号～128号～410号線経由、約25分</p>
+                  <p><strong>【所在地・アクセス】</strong>千葉県南房総市千倉町北朝夷2801 ／ 最寄り駅：千倉 ／ 交通案内：ＪＲ内房線・千倉駅～タクシーにて約５分／富津館山道・富浦ＩＣ～国道127号～128号～410号線経由、約25分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　15台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1412/1412_heya.jpg" alt="妊婦さんにも赤ちゃんにも優しい宿　南房総白浜　季粋の宿　紋屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>年間のお客様のなんと7割が赤ちゃん連れ！目にも楽しく味わい豊かなお料理と太平洋一望のモダン和風の宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 千葉県南房総市白浜町白浜232 ／ 最寄り駅：館山 ／ 交通案内：JR＞内房線 館山駅から路線バスで40分　高速バス＞東京駅より房総なのはな号で160分　車＞館山道 富浦ＩＣより30分</p>
+                  <p><strong>【所在地・アクセス】</strong>千葉県南房総市白浜町白浜232 ／ 最寄り駅：館山 ／ 交通案内：JR＞内房線 館山駅から路線バスで40分　高速バス＞東京駅より房総なのはな号で160分　車＞館山道 富浦ＩＣより30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台／無料 （敷地内の白線に沿ってお停めください）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -758,10 +758,10 @@ export default function Page() {
                 群馬県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/yamagata/"
+                href="/prefectures/saga/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                山形県の宿・温泉
+                佐賀県の宿・温泉
               </Link>
               <Link
                 href="/prefectures/shiga/"

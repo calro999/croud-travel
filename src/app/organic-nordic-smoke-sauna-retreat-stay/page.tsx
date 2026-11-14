@@ -236,7 +236,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -681,11 +681,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：本場北欧の本格熱波！フィンランドサウナ＆ログハウスヴィラ温泉宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：本場北欧の本格熱波！フィンランドサウナ＆ログハウスヴィラ温泉宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：本場北欧の本格熱波！フィンランドサウナ＆ログハウスヴィラ温泉宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -767,7 +767,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1642/1642_twn.jpg" alt="天然温泉サウナ　ニューニシノ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>天文館電停3分！大浴場＆フィンランドサウナで非日常体験◆観光・ビジネスの拠点に最適【男性専用温泉】</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県鹿児島市千日町13-24 ／ 最寄り駅：鹿児島中央 ／ 交通案内：★JR鹿児島中央駅から車で５分　　　★市電「天文館」電停より徒歩３分　　★天文館の中心にあり、交通に便利！</p>
+                  <p><strong>【所在地・アクセス】</strong>鹿児島県鹿児島市千日町13-24 ／ 最寄り駅：鹿児島中央 ／ 交通案内：★JR鹿児島中央駅から車で５分　　　★市電「天文館」電停より徒歩３分　　★天文館の中心にあり、交通に便利！</p>
                   <p><strong>【駐車場・マイカー利用】</strong>コインパーキング10台　ホテル利用時1泊1,000円　14：30〜11：30　予約不可・高さ制限2m</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.26 ／ 部屋 ★4.19 ／ 設備 ★4.19 ／ 風呂 ★4.46 ／ 食事 ★3.97</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -789,7 +789,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31683/31683_h1.jpg" alt="富士山の見える全室個室サウナ付旅館　しずく 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【5と0の日MAX20％OFF】【得旅ポイント10倍】【スペシャルクーポンWeek&amp;クーポン祭り】</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県南都留郡山中湖村山中172 ／ 最寄り駅：主要駅 ／ 交通案内：【都心から中央道or東名道で車2時間】【新宿からのアクセス◎→高速バス：バスタ新宿→山中局入口徒歩5秒】</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県南都留郡山中湖村山中172 ／ 交通案内：【都心から中央道or東名道で車2時間】【新宿からのアクセス◎→高速バス：バスタ新宿→山中局入口徒歩5秒】</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場25台、屋根付き駐車場無、バイク専用駐車場無</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.89 ／ 立地 ★4.9 ／ 部屋 ★4.89 ／ 設備 ★4.85 ／ 風呂 ★4.83 ／ 食事 ★4.8</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -811,7 +811,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/20516/20516_room.jpg" alt="神戸サウナ＆スパ（ホテルカプセルイン神戸） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>各線三宮駅から５分。天然温泉・サウナを24時間ご利用可　メインサウナリニューアル完成!</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県神戸市中央区下山手通2-2-10 ／ 最寄り駅：三宮 ／ 交通案内：ＪＲ・阪急・阪神・市営地下鉄「三宮駅」から徒歩５分、新神戸駅から一駅です。</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県神戸市中央区下山手通2-2-10 ／ 最寄り駅：三宮 ／ 交通案内：ＪＲ・阪急・阪神・市営地下鉄「三宮駅」から徒歩５分、新神戸駅から一駅です。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場 、P-CLUB…20〜翌10時/1200円 等</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.5 ／ 部屋 ★4.37 ／ 設備 ★4.49 ／ 風呂 ★4.61 ／ 食事 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -833,7 +833,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/184096/184096.jpg" alt="プライベートサウナ付一棟貸切の宿　旅邸　一人十色 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>磯部温泉内のコンテナカフェ「hitoritoiro.cafe」が運営する1棟貸切型のプライベート旅館</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県安中市磯部1-14-22 ／ 最寄り駅：磯部（群馬） ／ 交通案内：信越本線 磯部駅より徒歩約2分／北陸新幹線 安中榛名駅よりバス20分／高崎ICより車で約45分</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県安中市磯部1-14-22 ／ 最寄り駅：磯部（群馬） ／ 交通案内：信越本線 磯部駅より徒歩約2分／北陸新幹線 安中榛名駅よりバス20分／高崎ICより車で約45分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（2台／無料・予約不要）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -855,7 +855,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/194283/194283.jpg" alt="５０００坪の広大な森のモダンハウス、プロサウナ、ＢＢＱ／民泊 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong></p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県那須郡那須町高久乙字遅山　3375-2331　Ｎａｓｕ　Ｐｒｉｖａｔｅ　Ｆｏｒｅｓｔ ／ 最寄り駅：高久 ／ 交通案内：高久駅から車で約２７分</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県那須郡那須町高久乙字遅山　3375-2331　Ｎａｓｕ　Ｐｒｉｖａｔｅ　Ｆｏｒｅｓｔ ／ 最寄り駅：高久 ／ 交通案内：高久駅から車で約２７分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

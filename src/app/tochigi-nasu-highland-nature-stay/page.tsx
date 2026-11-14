@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">栃木・那須高原：茶臼岳・御用邸の森＆ベーカリー・温泉リゾート 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「栃木・那須高原：茶臼岳・御用邸の森＆ベーカリー・温泉リゾート 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「栃木・那須高原：茶臼岳・御用邸の森＆ベーカリー・温泉リゾート 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -305,7 +305,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/109132/109132_room.jpg" alt="那須湯本温泉　鹿の湯源泉かけ流しの宿　旅館　清水屋＜栃木県・那須郡＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>老舗旅館■「鹿の湯」源泉かけ流し白濁温泉　24時間OK■お食事処にて栃木牛と季節の懐石膳</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県那須郡那須町湯本73 ／ 最寄り駅：那須塩原 ／ 交通案内：JR那須塩原駅よりバスにて50分、シャトルバス有(要予約)。東北自動車道那須ICより車15分</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県那須郡那須町湯本73 ／ 最寄り駅：那須塩原 ／ 交通案内：JR那須塩原駅よりバスにて50分、シャトルバス有(要予約)。東北自動車道那須ICより車15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り(10台無料/予約不要) 湯本一丁目バス停が当館の目の前</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.85 ／ 立地 ★3.85 ／ 部屋 ★3.75 ／ 設備 ★3.42 ／ 風呂 ★4.35 ／ 食事 ★4.13</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -327,7 +327,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/15255/15255_room.jpg" alt="那須ハイランドパークオフィシャルホテル　ＴＯＷＡピュアコテージ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>那須ハイランドパーク公式ホテル【お子様無料！】【入園無料！】【30分前入園可能！】</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県那須郡那須町高久乙3375 ／ 最寄り駅：黒磯 ／ 交通案内：【那須塩原駅】無料送迎バスで約40分（要事前予約）／【お車】那須ＩＣより約20分</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県那須郡那須町高久乙3375 ／ 最寄り駅：黒磯 ／ 交通案内：【那須塩原駅】無料送迎バスで約40分（要事前予約）／【お車】那須ＩＣより約20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -349,7 +349,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/149151/149151_kan1.jpg" alt="コテージウッドノート　湯本本館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>カップル・ファミリー大歓迎！木の香がたっぷりのリゾートコテージです。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県那須郡那須町湯本６５６－１９ ／ 最寄り駅：黒磯 ／ 交通案内：那須インターより車で15分（本館）</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県那須郡那須町湯本６５６－１９ ／ 最寄り駅：黒磯 ／ 交通案内：那須インターより車で15分（本館）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>★湯本本館・湯本山荘１５台無料　★「寺子乙」各コテージ前に1台分ずつ無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -371,7 +371,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/184172/184172.jpg" alt="成子の森 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ペニーレインまで徒歩3分！2DKの広々貸別荘で密回避。自然豊かな那須でアウトドアライフを！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県那須郡那須町湯本606-1 ／ 最寄り駅：高久 ／ 交通案内：那須ICより車で約25分。</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県那須郡那須町湯本606-1 ／ 最寄り駅：高久 ／ 交通案内：那須ICより車で約25分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場6台有（予約不要）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

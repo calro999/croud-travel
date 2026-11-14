@@ -77,7 +77,7 @@ export default function ArticlePage() {
             福島・磐梯熱海温泉ひとり旅＆萩姫美肌湯おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「会津郡山・磐梯熱海温泉ひとり旅・萩姫伝説の美肌湯おこもり」pH9超とろとろアルカリ泉・地酒王国ふくしま・清流五百川！郡山新幹線20分の隠れ里厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               平安時代、不治の病に苦しんだ都の萩姫が不動明王のお告げに従い、五百本目の川を遡って辿り着き病を治したという伝説が残る磐梯熱海温泉。pH9を超えるアルカリ性単純温泉は肌角質をやさしく落とす天然のクレンジング効果があり、とろりとした肌触りが自慢です。全国新酒鑑評会金賞受賞数日本一を誇るふくしまの銘酒の数々が迎えます。
             </p>
             <p>
-              貸切風呂と滋味あふれる料理で高評価の隠れ宿から、多彩な湯船で本格湯巡りができる名門ホテルまで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              貸切風呂と滋味あふれる料理で高評価の隠れ宿から、多彩な湯船で本格湯巡りができる名門ホテルまで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -422,11 +422,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">会津郡山・磐梯熱海温泉ひとり旅・萩姫伝説の美肌湯おこもり：pH9超とろとろアルカリ泉・地酒王国ふくしま・清流五百川！郡山新幹線20分の隠れ里厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「会津郡山・磐梯熱海温泉ひとり旅・萩姫伝説の美肌湯おこもり：pH9超とろとろアルカリ泉・地酒王国ふくしま・清流五百川！郡山新幹線20分の隠れ里厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「会津郡山・磐梯熱海温泉ひとり旅・萩姫伝説の美肌湯おこもり：pH9超とろとろアルカリ泉・地酒王国ふくしま・清流五百川！郡山新幹線20分の隠れ里厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -490,7 +490,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5844/5844_kan.jpg" alt="磐梯熱海温泉　湯のやど楽山 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全20室のちいさなお宿〜ふくしま恵みを活かした「かまど料理」と、肌に優しい「極上の温泉」を堪能</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県郡山市熱海町熱海5-39 ／ 最寄り駅：磐梯熱海 ／ 交通案内：磐越自動車道　磐梯熱海ＩＣより7分　ＪＲ磐越西線　磐梯熱海駅より車で５分</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県郡山市熱海町熱海5-39 ／ 最寄り駅：磐梯熱海 ／ 交通案内：磐越自動車道　磐梯熱海ＩＣより7分　ＪＲ磐越西線　磐梯熱海駅より車で５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場は、隣接するホテル華の湯の駐車場をご利用ください『無料』</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.59 ／ 立地 ★4.29 ／ 部屋 ★4.41 ／ 設備 ★4.4 ／ 風呂 ★4.53 ／ 食事 ★4.62</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -512,7 +512,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/15988/15988_kan.jpg" alt="磐梯熱海温泉　ホテル華の湯 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ファミリーに人気のビュッフェダイニングや、露天風呂付客室でゆったり贅沢な大人旅を！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県郡山市熱海町熱海5丁目 8-60 ／ 最寄り駅：磐梯熱海 ／ 交通案内：磐越自動車道磐梯熱海ＩＣより車で8分、磐越西線磐梯熱海駅より送迎可能です。（要連絡）</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県郡山市熱海町熱海5丁目 8-60 ／ 最寄り駅：磐梯熱海 ／ 交通案内：磐越自動車道磐梯熱海ＩＣより車で8分、磐越西線磐梯熱海駅より送迎可能です。（要連絡）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　400台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -534,7 +534,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2094/2094_sgl.jpg" alt="磐梯熱海温泉　紅葉館きらくや 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>露天風呂、貸切風呂、マイナスイオンのぬる湯、と温泉三昧。無料貸切風呂が大人気。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県郡山市熱海町熱海4-39 ／ 最寄り駅：磐梯熱海 ／ 交通案内：●磐梯熱海駅下車、徒歩２分。●磐越自動車道磐梯熱海ICから３Km</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県郡山市熱海町熱海4-39 ／ 最寄り駅：磐梯熱海 ／ 交通案内：●磐梯熱海駅下車、徒歩２分。●磐越自動車道磐梯熱海ICから３Km</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.12 ／ 部屋 ★4.04 ／ 設備 ★3.96 ／ 風呂 ★4.42 ／ 食事 ★4.03</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

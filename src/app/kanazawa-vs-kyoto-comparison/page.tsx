@@ -262,11 +262,11 @@ export default function KanazawaVsKyotoPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">金沢 vs 京都 どっちが面白い？：食べ歩き・美術館・温泉・費用で古都対決：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「金沢 vs 京都 どっちが面白い？：食べ歩き・美術館・温泉・費用で古都対決」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「金沢 vs 京都 どっちが面白い？：食べ歩き・美術館・温泉・費用で古都対決」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -357,7 +357,7 @@ export default function KanazawaVsKyotoPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/180588/180588.jpg" alt="天然温泉　鼓門の湯　スーパーホテルＰｒｅｍｉｅｒ金沢駅東口 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>金沢駅東口より徒歩７分！主要駅からのアクセスが良くビジネスや観光に便利♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県金沢市本町2-5-15 ／ 最寄り駅：金沢 ／ 交通案内：金沢駅東口より徒歩7分。金沢東ICより約15分。</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県金沢市本町2-5-15 ／ 最寄り駅：金沢 ／ 交通案内：金沢駅東口より徒歩7分。金沢東ICより約15分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル専用駐車場、駐輪場はございません。近隣駐車場のご案内となります</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -379,7 +379,7 @@ export default function KanazawaVsKyotoPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/182423/182423.jpg" alt="天然温泉　加賀の宝泉　御宿　野乃金沢（ドーミーイン・御宿野乃　ホテルズグループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「近江町市場」「兼六園」まで徒歩圏内！天然温泉大浴場＆サウナ完備！朝食は「お好み海鮮丼」</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県金沢市下堤町1-1 ／ 最寄り駅：金沢 ／ 交通案内：JR金沢駅より徒歩15分または北鉄バス6～10番乗り場からバスで4分「武蔵が辻・近江町市場」バス停下車後徒歩1分</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県金沢市下堤町1-1 ／ 最寄り駅：金沢 ／ 交通案内：JR金沢駅より徒歩15分または北鉄バス6～10番乗り場からバスで4分「武蔵が辻・近江町市場」バス停下車後徒歩1分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　先着順(76台)　1泊1,500円　長さ:5300㎜　全幅:1940㎜　高さ:2000㎜</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -401,7 +401,7 @@ export default function KanazawaVsKyotoPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9004/9004_dtw.jpg" alt="金沢白鳥路　ホテル山楽 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>金沢城のすぐ側で美肌の湯と金沢美食、そして心温まるおもてなしに癒されて日常をひと休みしませんか。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県金沢市丸の内6-3 ／ 最寄り駅：金沢 ／ 交通案内：■金沢駅⇔ホテル無料送迎バス■金沢駅東口より車で１０分■金沢駅東口⑥、⑦乗り場【兼六園下・金沢城】バス停下車徒歩５分</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県金沢市丸の内6-3 ／ 最寄り駅：金沢 ／ 交通案内：■金沢駅⇔ホテル無料送迎バス■金沢駅東口より車で１０分■金沢駅東口⑥、⑦乗り場【兼六園下・金沢城】バス停下車徒歩５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>地下駐車場50台／料金1泊1台1,000円／24時間入出庫可／高さ制限2.1ｍ未満</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -423,7 +423,7 @@ export default function KanazawaVsKyotoPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/171184/171184.jpg" alt="ＪＲ京都駅から５００ｍ、東本願寺前の築１００年の京町家旅館タイプのゲストハウス。　＾ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>築１００年を越える大きな京町家の旅館タイプのゲストハウスです。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 京都府京都市下京区笹屋町270　ダース ／ 最寄り駅：五条（京阪） ／ 交通案内：五条駅から徒歩で約３分</p>
+                  <p><strong>【所在地・アクセス】</strong>京都府京都市下京区笹屋町270　ダース ／ 最寄り駅：五条（京阪） ／ 交通案内：五条駅から徒歩で約３分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -445,7 +445,7 @@ export default function KanazawaVsKyotoPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/165114/165114_kan1.jpg" alt="京町家貸切宿　高瀬川七条 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>京都の別邸感覚で過ごす一棟貸切の京町家（96.5㎡）</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 京都府京都市下京区上三之宮町279 ／ 最寄り駅：七条 ／ 交通案内：JR「京都駅」より徒歩約14分　京阪本線「七条駅」より徒歩約4分</p>
+                  <p><strong>【所在地・アクセス】</strong>京都府京都市下京区上三之宮町279 ／ 最寄り駅：七条 ／ 交通案内：JR「京都駅」より徒歩約14分　京阪本線「七条駅」より徒歩約4分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無し　近隣のコインパーキングをご案内致します。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -467,7 +467,7 @@ export default function KanazawaVsKyotoPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/148999/148999_kan1.jpg" alt="京町家　八重家といち町 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>鴨川に面し絶景を望む二軒のお宿。京町家【八重家といち町】と京風モダン仕様の【八重家かもがわ】</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 京都府京都市下京区木屋町通六軒上る都市町141-6 ／ 最寄り駅：主要駅 ／ 交通案内：京阪清水五条駅より徒歩2分。JR京都駅より徒歩15分。阪急河原町駅より徒歩15分</p>
+                  <p><strong>【所在地・アクセス】</strong>京都府京都市下京区木屋町通六軒上る都市町141-6 ／ 交通案内：京阪清水五条駅より徒歩2分。JR京都駅より徒歩15分。阪急河原町駅より徒歩15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

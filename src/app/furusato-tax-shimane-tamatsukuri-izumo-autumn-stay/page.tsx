@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-shimane-tamatsukuri-izumo-autumn-stay/"
   };
 
@@ -482,11 +482,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">島根・玉造温泉と出雲大社「神在月」！日本最古の美肌温泉＆宍道湖七道・島根和牛｜ふるさと納税で泊まれる名宿ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「島根・玉造温泉と出雲大社「神在月」！日本最古の美肌温泉＆宍道湖七道・島根和牛｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「島根・玉造温泉と出雲大社「神在月」！日本最古の美肌温泉＆宍道湖七道・島根和牛｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -550,7 +550,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7798/7798_wa.jpg" alt="玉造温泉　佳翠苑　皆美 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>旬を生かした伝統料理と4つのお風呂を満喫できる宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 島根県松江市玉湯町玉造1218-8 ／ 最寄り駅：玉造温泉 ／ 交通案内：米子自動車道　国道9号線で約50分。JR山陰本線　玉造温泉駅。</p>
+                  <p><strong>【所在地・アクセス】</strong>島根県松江市玉湯町玉造1218-8 ／ 最寄り駅：玉造温泉 ／ 交通案内：米子自動車道　国道9号線で約50分。JR山陰本線　玉造温泉駅。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　80台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.72 ／ 立地 ★4.5 ／ 部屋 ★4.63 ／ 設備 ★4.61 ／ 風呂 ★4.63 ／ 食事 ★4.7</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -572,7 +572,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/10743/10743_room.jpg" alt="玉造温泉　玉造グランドホテル長生閣 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>神湯・玉造温泉を美しい“めのう風呂”で堪能出来る宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 島根県松江市玉湯町玉造331 ／ 最寄り駅：玉造温泉 ／ 交通案内：山陰道玉造ICより車で10分/出雲空港より車で30分/玉造温泉駅</p>
+                  <p><strong>【所在地・アクセス】</strong>島根県松江市玉湯町玉造331 ／ 最寄り駅：玉造温泉 ／ 交通案内：山陰道玉造ICより車で10分/出雲空港より車で30分/玉造温泉駅</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場有り　100台　　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -594,7 +594,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/12628/12628_war.jpg" alt="玉造温泉　湯之助の宿　長楽園 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★完成150年超★長楽園にしかない「混浴大露天風呂」は家族みんなで、恋人同士で、仲間同士で楽しもう♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 島根県松江市玉湯町玉造323 ／ 最寄り駅：玉造温泉 ／ 交通案内：JR「玉造温泉駅」下車 ・タクシーで約10分/ 米子自動車道→山陰自動車道→松江・玉造ICより国道９号線経由</p>
+                  <p><strong>【所在地・アクセス】</strong>島根県松江市玉湯町玉造323 ／ 最寄り駅：玉造温泉 ／ 交通案内：JR「玉造温泉駅」下車 ・タクシーで約10分/ 米子自動車道→山陰自動車道→松江・玉造ICより国道９号線経由</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.42 ／ 立地 ★4.43 ／ 部屋 ★4.34 ／ 設備 ★4.21 ／ 風呂 ★4.49 ／ 食事 ★4.41</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/japan-historic-classic-hotel-heritage-stay/"
   };
 
@@ -186,6 +186,12 @@ export default function Page() {
           </p>
         </div>
 
+        <div className="pt-2">
+          <ShareButtons
+            title="文明開化と昭和モダンの薫り！日本が誇る最高峰クラシックホテル＆洋館ステイ"
+            url="https://croud-travel.pages.dev/japan-historic-classic-hotel-heritage-stay/"
+          />
+        </div>
         {/* クーポン特大バナー */}
         <SpecialCouponBanner />
 
@@ -303,11 +309,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">文明開化と昭和モダンの薫り！日本が誇る最高峰クラシックホテル＆洋館ステイ：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「文明開化と昭和モダンの薫り！日本が誇る最高峰クラシックホテル＆洋館ステイ」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「文明開化と昭和モダンの薫り！日本が誇る最高峰クラシックホテル＆洋館ステイ」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -371,7 +377,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/41989/41989_tu.jpg" alt="蒲郡クラシックホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>楽天プレミアム総合評価４.５！三河湾の絶景を眺めるクラシックホテル。最上級のおもてなしと旬彩を堪能。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛知県蒲郡市竹島町15-1 ／ 最寄り駅：蒲郡 ／ 交通案内：蒲郡駅より車で５分／東名高速　音羽蒲郡ＩＣより三河湾オレンジロード経由で１５分</p>
+                  <p><strong>【所在地・アクセス】</strong>愛知県蒲郡市竹島町15-1 ／ 最寄り駅：蒲郡 ／ 交通案内：蒲郡駅より車で５分／東名高速　音羽蒲郡ＩＣより三河湾オレンジロード経由で１５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.4 ／ 立地 ★4.61 ／ 部屋 ★4.22 ／ 設備 ★4.22 ／ 風呂 ★4.03 ／ 食事 ★4.58</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -393,7 +399,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/53713/53713_kan.jpg" alt="日光温泉　カジュアルユーロ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>日光連山が連なる霧降高原でプライベート空間漂う露天風呂付き客室＆バイキング</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県日光市所野1550-38 ／ 最寄り駅：日光 ／ 交通案内：ＪＲ日光駅または東武日光駅より車で約５分 日光宇都宮有料道路日光ICより車で約１０分　日光東照宮まで車で10分</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県日光市所野1550-38 ／ 最寄り駅：日光 ／ 交通案内：ＪＲ日光駅または東武日光駅より車で約５分 日光宇都宮有料道路日光ICより車で約１０分　日光東照宮まで車で10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -415,7 +421,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/28472/28472_ro.jpg" alt="川奈ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>緑と海に囲まれたシーサイドリゾートが、非日常を演出します</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県伊東市川奈1459 ／ 最寄り駅：伊東 ／ 交通案内：伊東駅より無料送迎バス（定時運行・要予約）にて約30分。または、伊東駅からタクシーで15分。</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県伊東市川奈1459 ／ 最寄り駅：伊東 ／ 交通案内：伊東駅より無料送迎バス（定時運行・要予約）にて約30分。または、伊東駅からタクシーで15分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１２０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

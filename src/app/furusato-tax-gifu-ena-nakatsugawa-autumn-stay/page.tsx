@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-gifu-ena-nakatsugawa-autumn-stay/"
   };
 
@@ -482,11 +482,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">岐阜・東濃 恵那峡の奇岩紅葉クルーズ＆中津川！栗きんとん発祥の地と恵那峡温泉・飛騨牛｜ふるさと納税で泊まれる名宿ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「岐阜・東濃 恵那峡の奇岩紅葉クルーズ＆中津川！栗きんとん発祥の地と恵那峡温泉・飛騨牛｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「岐阜・東濃 恵那峡の奇岩紅葉クルーズ＆中津川！栗きんとん発祥の地と恵那峡温泉・飛騨牛｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -550,7 +550,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/108906/108906_war.jpg" alt="大江戸温泉物語Ｐｒｅｍｉｕｍ　恵那峡 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>雄大な峡谷美を誇る恵那峡の四季の彩りを感じる湖畔の温泉宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岐阜県恵那市大井町2709-399 ／ 最寄り駅：恵那 ／ 交通案内：恵那駅より定期巡回バスで約10分（完全予約制）　※詳しくはお問合せ下さい</p>
+                  <p><strong>【所在地・アクセス】</strong>岐阜県恵那市大井町2709-399 ／ 最寄り駅：恵那 ／ 交通案内：恵那駅より定期巡回バスで約10分（完全予約制）　※詳しくはお問合せ下さい</p>
                   <p><strong>【駐車場・マイカー利用】</strong>５０台　予約不要　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -572,7 +572,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/187294/187294.jpg" alt="恵那峡温泉ホテル　ゆずり葉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>四季折々の渓谷美を楽しむ温泉宿＜全室恵那峡ビュー×旬の食材を取り入れた会席料理＞</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岐阜県恵那市大井町2709 ／ 最寄り駅：恵那 ／ 交通案内：JR中央線恵那駅から路線バスで約１５分　バス停「ゆずり葉前」下車目の前 /中央自動車道恵那IC下車10分</p>
+                  <p><strong>【所在地・アクセス】</strong>岐阜県恵那市大井町2709 ／ 最寄り駅：恵那 ／ 交通案内：JR中央線恵那駅から路線バスで約１５分　バス停「ゆずり葉前」下車目の前 /中央自動車道恵那IC下車10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -594,7 +594,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8027/8027_room.jpg" alt="ホテル花更紗 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【2024年7月リニューアル】とろとろ美人の湯が大人気。温泉館も利用可で広々露天風呂も楽しめます！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岐阜県中津川市神坂280 ／ 最寄り駅：中津川 ／ 交通案内：中央自動車道神坂スマートＩＣ約３分、中津川ＩＣ約２０分　駐車場無料　JR中津川駅無料シャトルバス有</p>
+                  <p><strong>【所在地・アクセス】</strong>岐阜県中津川市神坂280 ／ 最寄り駅：中津川 ／ 交通案内：中央自動車道神坂スマートＩＣ約３分、中津川ＩＣ約２０分　駐車場無料　JR中津川駅無料シャトルバス有</p>
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場無料　最大300台　大型バス可</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

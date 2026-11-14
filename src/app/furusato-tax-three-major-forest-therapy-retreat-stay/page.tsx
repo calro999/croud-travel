@@ -504,11 +504,11 @@ export default function FurusatoFeaturePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大美林＆巨樹・森林セラピー癒やしの宿×ふるさと納税厳選ガイド屋久島・木曽ヒノキ・青森ヒバの森：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本三大美林＆巨樹・森林セラピー癒やしの宿×ふるさと納税厳選ガイド屋久島・木曽ヒノキ・青森ヒバの森」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「日本三大美林＆巨樹・森林セラピー癒やしの宿×ふるさと納税厳選ガイド屋久島・木曽ヒノキ・青森ヒバの森」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -599,7 +599,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/43789/43789_kan1.jpg" alt="ホテルオーベルジュ＜屋久島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>おかげさまで＜口コミ総合高評価＞☆家族と島のおばちゃんの素朴なおもてなし♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県熊毛郡屋久島町安房410-165 ／ 最寄り駅：屋久島空港 ／ 交通案内：安房バス停より徒歩１０分／安房港より徒歩２分</p>
+                  <p><strong>【所在地・アクセス】</strong>鹿児島県熊毛郡屋久島町安房410-165 ／ 最寄り駅：屋久島空港 ／ 交通案内：安房バス停より徒歩１０分／安房港より徒歩２分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８台　無料　要予約</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -621,7 +621,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/44946/44946_room.jpg" alt="ｓａｍａｎａ　ｈｏｔｅｌ　Ｙａｋｕｓｈｉｍａ（旧・ホテル屋久島）＜屋久島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>＜4月26日で1周年＞自然豊かな屋久島の特等席で天然温泉とビュッフェを満喫ください</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県熊毛郡屋久島町尾之間136-2 ／ 最寄り駅：屋久島空港 ／ 交通案内：宮之浦港より車で５０分／屋久島空港より４０分</p>
+                  <p><strong>【所在地・アクセス】</strong>鹿児島県熊毛郡屋久島町尾之間136-2 ／ 最寄り駅：屋久島空港 ／ 交通案内：宮之浦港より車で５０分／屋久島空港より４０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　35台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -643,7 +643,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/62680/62680_tok.jpg" alt="ホテル　屋久島山荘　＜屋久島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>宮之浦岳、縄文杉に一番近いホテルです。又部屋からのロケーションが最高です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県熊毛郡屋久町安房2364-35 ／ 最寄り駅：屋久島空港 ／ 交通案内：屋久島安房港より徒歩約１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>鹿児島県熊毛郡屋久町安房2364-35 ／ 最寄り駅：屋久島空港 ／ 交通案内：屋久島安房港より徒歩約１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.45 ／ 立地 ★3.91 ／ 部屋 ★3.3 ／ 設備 ★3.18 ／ 風呂 ★3.22 ／ 食事 ★3.57</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -665,7 +665,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5987/5987_suna.jpg" alt="昼神温泉　癒楽（ゆら）の宿　清風苑 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【2025年楽天トラベルブロンズアワード受賞】★日本一の星空と笑顔のおもてなし</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県下伊那郡阿智村智里338-19 ／ 最寄り駅：主要駅 ／ 交通案内：中央道飯田山本ＩＣ～Ｒ１５３～R２５６（約10分）/　中央道園原IC～（約10分）</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県下伊那郡阿智村智里338-19 ／ 交通案内：中央道飯田山本ＩＣ～Ｒ１５３～R２５６（約10分）/　中央道園原IC～（約10分）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り：４０台（無料）ホテルの前と後にご用意がございます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -687,7 +687,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/79432/79432_tw.jpg" alt="八甲田城ヶ倉温泉　ホテル城ヶ倉－ＨＯＴＥＬ　Ｊｏｇａｋｕｒａ－ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>源泉かけ流し温泉を八甲田の自然と共に楽しむ北欧風マウンテンリゾート。地元青森の旬の味覚をご用意。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 青森県青森市荒川八甲田山中 ／ 最寄り駅：青森 ／ 交通案内：ＪＲ　青森駅よりＪＲバス十和田湖行き乗車後、城ヶ倉温泉前にて下車</p>
+                  <p><strong>【所在地・アクセス】</strong>青森県青森市荒川八甲田山中 ／ 最寄り駅：青森 ／ 交通案内：ＪＲ　青森駅よりＪＲバス十和田湖行き乗車後、城ヶ倉温泉前にて下車</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -709,7 +709,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/32383/32383_ky.jpg" alt="浅虫温泉　絶景の宿　浅虫さくら観光ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【全室海側】陸奥湾を一望★絶景の春夏秋冬★眺望露天風呂★青森の旬な食材★唯一海岸沿に建つ希少な宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 青森県青森市浅虫坂本51-1 ／ 最寄り駅：浅虫温泉 ／ 交通案内：浅虫温泉駅／青森自動車道　青森東ＩＣよりＲ４経由、約１５分</p>
+                  <p><strong>【所在地・アクセス】</strong>青森県青森市浅虫坂本51-1 ／ 最寄り駅：浅虫温泉 ／ 交通案内：浅虫温泉駅／青森自動車道　青森東ＩＣよりＲ４経由、約１５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.01 ／ 立地 ★4.35 ／ 部屋 ★4.05 ／ 設備 ★3.93 ／ 風呂 ★4.13 ／ 食事 ★4.11</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

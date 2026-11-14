@@ -259,11 +259,11 @@ export default function KyotoNightsGuide() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">京都旅行 何泊がベスト？：1泊2日 vs 2泊3日 費用・満足度・モデルコース徹底比較：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「京都旅行 何泊がベスト？：1泊2日 vs 2泊3日 費用・満足度・モデルコース徹底比較」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「京都旅行 何泊がベスト？：1泊2日 vs 2泊3日 費用・満足度・モデルコース徹底比較」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -354,7 +354,7 @@ export default function KyotoNightsGuide() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/171184/171184.jpg" alt="ＪＲ京都駅から５００ｍ、東本願寺前の築１００年の京町家旅館タイプのゲストハウス。　＾ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>築１００年を越える大きな京町家の旅館タイプのゲストハウスです。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 京都府京都市下京区笹屋町270　ダース ／ 最寄り駅：五条（京阪） ／ 交通案内：五条駅から徒歩で約３分</p>
+                  <p><strong>【所在地・アクセス】</strong>京都府京都市下京区笹屋町270　ダース ／ 最寄り駅：五条（京阪） ／ 交通案内：五条駅から徒歩で約３分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -376,7 +376,7 @@ export default function KyotoNightsGuide() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/165114/165114_kan1.jpg" alt="京町家貸切宿　高瀬川七条 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>京都の別邸感覚で過ごす一棟貸切の京町家（96.5㎡）</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 京都府京都市下京区上三之宮町279 ／ 最寄り駅：七条 ／ 交通案内：JR「京都駅」より徒歩約14分　京阪本線「七条駅」より徒歩約4分</p>
+                  <p><strong>【所在地・アクセス】</strong>京都府京都市下京区上三之宮町279 ／ 最寄り駅：七条 ／ 交通案内：JR「京都駅」より徒歩約14分　京阪本線「七条駅」より徒歩約4分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無し　近隣のコインパーキングをご案内致します。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -398,7 +398,7 @@ export default function KyotoNightsGuide() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/148999/148999_kan1.jpg" alt="京町家　八重家といち町 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>鴨川に面し絶景を望む二軒のお宿。京町家【八重家といち町】と京風モダン仕様の【八重家かもがわ】</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 京都府京都市下京区木屋町通六軒上る都市町141-6 ／ 最寄り駅：主要駅 ／ 交通案内：京阪清水五条駅より徒歩2分。JR京都駅より徒歩15分。阪急河原町駅より徒歩15分</p>
+                  <p><strong>【所在地・アクセス】</strong>京都府京都市下京区木屋町通六軒上る都市町141-6 ／ 交通案内：京阪清水五条駅より徒歩2分。JR京都駅より徒歩15分。阪急河原町駅より徒歩15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -420,7 +420,7 @@ export default function KyotoNightsGuide() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/153230/153230.jpg" alt="ダイワロイネットホテル京都駅前　ＰＲＥＭＩＥＲ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「京都駅」より徒歩約4分！地下道も直結！全客室に天井シャワー完備！バス・トイレ別々など多種多様な客室</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 京都府京都市下京区烏丸通七条下る東塩小路町707-2 ／ 最寄り駅：京都 ／ 交通案内：JR「京都駅」中央口より徒歩約4分。「京都駅」地下道と直結（地下道からの入り口は夜間23:30～翌7:00閉鎖）</p>
+                  <p><strong>【所在地・アクセス】</strong>京都府京都市下京区烏丸通七条下る東塩小路町707-2 ／ 最寄り駅：京都 ／ 交通案内：JR「京都駅」中央口より徒歩約4分。「京都駅」地下道と直結（地下道からの入り口は夜間23:30～翌7:00閉鎖）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>当ホテルには駐車場、及び提携駐車場がございません。公共交通機関でご来館をお勧めいたします。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -442,7 +442,7 @@ export default function KyotoNightsGuide() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/177012/177012.jpg" alt="ホテルテトラ京都駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>京都らしいシックなインテリア。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 京都府京都市南区西九条池ノ内町94-3 ／ 最寄り駅：京都 ／ 交通案内：JR京都駅八条口より徒歩にて約5分</p>
+                  <p><strong>【所在地・アクセス】</strong>京都府京都市南区西九条池ノ内町94-3 ／ 最寄り駅：京都 ／ 交通案内：JR京都駅八条口より徒歩にて約5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無し。近隣のコインパーキングでは１日あたり1000円前後です</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -464,7 +464,7 @@ export default function KyotoNightsGuide() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/104701/104701_spa.jpg" alt="天然温泉　花蛍の湯　ドーミーインＰＲＥＭＩＵＭ京都駅前（ドーミーイン・御宿野乃　ホテルズグループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>天然温泉大浴場を完備！高温サウナ＆水風呂あり♪夜鳴きそば等無料サービスも充実！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 京都府京都市下京区東塩小路町558-8 ／ 最寄り駅：京都 ／ 交通案内：ＪＲ京都駅中央口から徒歩約３分</p>
+                  <p><strong>【所在地・アクセス】</strong>京都府京都市下京区東塩小路町558-8 ／ 最寄り駅：京都 ／ 交通案内：ＪＲ京都駅中央口から徒歩約３分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>先着順　2,000円(1泊)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

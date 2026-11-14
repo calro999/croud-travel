@@ -236,7 +236,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -681,11 +681,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：名水と酒蔵の歴史薫る街。京都伏見の酒蔵巡り＆名水仕込み京料理の風情宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：名水と酒蔵の歴史薫る街。京都伏見の酒蔵巡り＆名水仕込み京料理の風情宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：名水と酒蔵の歴史薫る街。京都伏見の酒蔵巡り＆名水仕込み京料理の風情宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -767,7 +767,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/184235/184235.jpg" alt="変なホテルプレミア名古屋　伏見駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全室にLGスタイラー完備★最短10秒チェックイン可能♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛知県名古屋市中区錦1-10-10 ／ 最寄り駅：伏見（愛知） ／ 交通案内：名古屋駅から地下鉄東山線　伏見駅下車。10番出口から徒歩1分！</p>
+                  <p><strong>【所在地・アクセス】</strong>愛知県名古屋市中区錦1-10-10 ／ 最寄り駅：伏見（愛知） ／ 交通案内：名古屋駅から地下鉄東山線　伏見駅下車。10番出口から徒歩1分！</p>
                   <p><strong>【駐車場・マイカー利用】</strong>敷地内3台(事前予約制)　料金 　3,000円／泊</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.22 ／ 立地 ★4.33 ／ 部屋 ★4.45 ／ 設備 ★4.39 ／ 風呂 ★4.24 ／ 食事 ★3.88</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -789,7 +789,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/179147/179147.jpg" alt="レフ京都八条口ｂｙベッセルホテルズ｜ＲＥＦ京都八条口（京都２号店） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2021年開業！Wi-Fi全室無料。京都駅八条口から徒歩約3分。京都の今を感じるホテルです。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 京都府京都市南区東九条室町57番地 ／ 最寄り駅：京都 ／ 交通案内：JR「京都駅」八条口より徒歩にて約３分。京都東ICから約20分■京都南ICから約29分</p>
+                  <p><strong>【所在地・アクセス】</strong>京都府京都市南区東九条室町57番地 ／ 最寄り駅：京都 ／ 交通案内：JR「京都駅」八条口より徒歩にて約３分。京都東ICから約20分■京都南ICから約29分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　3台　1500円　要予約</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.34 ／ 立地 ★4.42 ／ 部屋 ★4.33 ／ 設備 ★4.26 ／ 風呂 ★4.15</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -811,7 +811,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/147994/147994_kan1.jpg" alt="ベッセルホテルカンパーナ京都五条｜サウナ付大浴場（京都１号店） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>サウナ付大浴場完備 京都市営地下鉄烏丸線五条駅3番出口徒歩1分 京都観光に最適 18歳以下添い寝無料</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 京都府京都市下京区東洞院通五条下る下万寿寺町498 ／ 最寄り駅：五条（京都市営） ／ 交通案内：京都市営地下鉄烏丸線五条駅３番出口より徒歩１分■京都駅より徒歩約15分■新京都東ICから約16分■京都南ICから約21分</p>
+                  <p><strong>【所在地・アクセス】</strong>京都府京都市下京区東洞院通五条下る下万寿寺町498 ／ 最寄り駅：五条（京都市営） ／ 交通案内：京都市営地下鉄烏丸線五条駅３番出口より徒歩１分■京都駅より徒歩約15分■新京都東ICから約16分■京都南ICから約21分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>先着順 立体駐車場28台 高さ1.8ｍ　1泊2000円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.45 ／ 立地 ★4.31 ／ 部屋 ★4.43 ／ 設備 ★4.42 ／ 風呂 ★4.47 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -833,7 +833,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1445/1445_room.jpg" alt="アーバンホテル京都 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>伏見稲荷徒歩約10分／Wi-Fi完備／Ｐ有（先着順・大型要予約）／全室禁煙（1階喫煙スペースあり）</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 京都府京都市伏見区深草西浦町4-59 ／ 最寄り駅：京都 ／ 交通案内：車：京都南ＩＣ5分、京都駅10分　電車：JR稲荷10分、京阪龍谷大前深草5分、地下鉄くいな橋12分　バス龍谷大学前3分</p>
+                  <p><strong>【所在地・アクセス】</strong>京都府京都市伏見区深草西浦町4-59 ／ 最寄り駅：京都 ／ 交通案内：車：京都南ＩＣ5分、京都駅10分　電車：JR稲荷10分、京阪龍谷大前深草5分、地下鉄くいな橋12分　バス龍谷大学前3分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>【普通車100台収容】普通車￥1500／滞在　中型￥3000／泊　大型￥4000／泊</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.04 ／ 立地 ★3.95 ／ 部屋 ★3.92 ／ 設備 ★3.89 ／ 風呂 ★3.84 ／ 食事 ★4.17</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -855,7 +855,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/167811/167811.jpg" alt="京都山科　ホテル山楽 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>京都観光の定番「祇園・清水」エリアまで地下鉄で乗換なし。大浴場は女性専用で人気のシャンプーバーあり</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 京都府京都市山科区安朱桟敷町23 ／ 最寄り駅：山科 ／ 交通案内：※新快速停車※京都・大津から約５分！ＪＲ琵琶湖線・湖西線／京阪京津線／市営地下鉄東西線　山科駅より地下道直結で徒歩1分！</p>
+                  <p><strong>【所在地・アクセス】</strong>京都府京都市山科区安朱桟敷町23 ／ 最寄り駅：山科 ／ 交通案内：※新快速停車※京都・大津から約５分！ＪＲ琵琶湖線・湖西線／京阪京津線／市営地下鉄東西線　山科駅より地下道直結で徒歩1分！</p>
                   <p><strong>【駐車場・マイカー利用】</strong>専用駐車場なし。提携駐車場は3台限定です。先着順・ご予約制のためご希望の場合は、必ずお電話ください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.5 ／ 立地 ★4.48 ／ 部屋 ★4.51 ／ 設備 ★4.48 ／ 風呂 ★4.45 ／ 食事 ★4.7</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

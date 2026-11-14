@@ -228,11 +228,11 @@ export default function HeritageOnsenHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">登録有形文化財・名建築の宿：宮大工の木造建築・文豪が愛した老舗旅館 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「登録有形文化財・名建築の宿：宮大工の木造建築・文豪が愛した老舗旅館 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「登録有形文化財・名建築の宿：宮大工の木造建築・文豪が愛した老舗旅館 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function HeritageOnsenHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31865/31865_he.jpg" alt="修善寺温泉　国の登録文化財の宿　新井旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ミシュランで二つ星の竹林の小径まで徒歩2分、修善寺温泉の中心で観光に便利です</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県伊豆市修善寺970 ／ 最寄り駅：修善寺 ／ 交通案内：伊豆箱根鉄道線 修善寺駅よりバスまたはタクシーで10分／東名・新東名高速 沼津ICより伊豆縦貫道経由45分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県伊豆市修善寺970 ／ 最寄り駅：修善寺 ／ 交通案内：伊豆箱根鉄道線 修善寺駅よりバスまたはタクシーで10分／東名・新東名高速 沼津ICより伊豆縦貫道経由45分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>あり　40台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.67 ／ 立地 ★4.67 ／ 部屋 ★4.72 ／ 設備 ★4.56 ／ 風呂 ★4.72 ／ 食事 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function HeritageOnsenHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/76361/76361_ky1.jpg" alt="四万温泉　積善館　佳松亭・山荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>『歴史と浪漫・優雅と静寂』の旅館棟。国の重要文化財のある「山荘」・贅を尽くした「佳松亭」</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県吾妻郡中之条町四万甲4236 ／ 最寄り駅：中之条 ／ 交通案内：中之条駅からバス４０分終点下車・車で２５分／渋川伊香保ＩＣ→Ｒ１７→Ｒ３５３で約３９ｋｍ６０分</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県吾妻郡中之条町四万甲4236 ／ 最寄り駅：中之条 ／ 交通案内：中之条駅からバス４０分終点下車・車で２５分／渋川伊香保ＩＣ→Ｒ１７→Ｒ３５３で約３９ｋｍ６０分</p>
                   <p>【登録有形文化財・名建築の宿：宮大工の木造建築・文豪が】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.67 ／ 立地 ★4.6 ／ 部屋 ★4.6 ／ 設備 ★4.52 ／ 風呂 ★4.69 ／ 食事 ★4.72</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function HeritageOnsenHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/196489/196489.jpg" alt="信玄の湯　湯村温泉　旅館明治　太宰治ゆかりの宿 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2025年8月1日新規オープン！信玄の湯とこだわりの朝ごはんで心ほぐれるひと時を。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県甲府市湯村3-10-14 ／ 最寄り駅：主要駅 ／ 交通案内：甲府駅よりお車で約10分、中央自動車双葉ＩＣより約10分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県甲府市湯村3-10-14 ／ 交通案内：甲府駅よりお車で約10分、中央自動車双葉ＩＣより約10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>15台　無料　★要予約※駐車場所についてはご到着先着順です。近くの空地スペースになる場合がございます</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function HeritageOnsenHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/25164/25164_t.jpg" alt="島崎藤村ゆかりの宿　中棚荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>文豪・島崎藤村が愛した創業百年の老舗宿。源泉かけ流し天然温泉で自然を感じるひと時を＜軽井沢観光にも＞</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県小諸市乙1210 ／ 最寄り駅：小諸 ／ 交通案内：しなの鉄道「小諸駅」又はJR小海線「小諸駅」／上信越自動車道 小諸ＩＣより車で10分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県小諸市乙1210 ／ 最寄り駅：小諸 ／ 交通案内：しなの鉄道「小諸駅」又はJR小海線「小諸駅」／上信越自動車道 小諸ＩＣより車で10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function HeritageOnsenHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/70675/70675_f.jpg" alt="田沢温泉　ますや旅館＜長野県小県郡＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>■全国旅行支援利用の際はクーポンを獲得下さい■最大5000円オフ＋地域クーポン券最大3,000円分</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県小県郡青木村田沢温泉2686 ／ 最寄り駅：上田（長野） ／ 交通案内：上信越自動車道上田菅平ＩＣ若しくは長野自動車道麻績より30分／新幹線上田駅下車、バスで30分（タクシー20分）青木行</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県小県郡青木村田沢温泉2686 ／ 最寄り駅：上田（長野） ／ 交通案内：上信越自動車道上田菅平ＩＣ若しくは長野自動車道麻績より30分／新幹線上田駅下車、バスで30分（タクシー20分）青木行</p>
                   <p>【登録有形文化財・名建築の宿：宮大工の木造建築・文豪が】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.81 ／ 立地 ★4.54 ／ 部屋 ★4.62 ／ 設備 ★4.44 ／ 風呂 ★4.62 ／ 食事 ★4.77</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function HeritageOnsenHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/14172/14172_heya.jpg" alt="半月庵 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>創業明治2年。多くの著名人に愛されてきた老舗宿。美しい庭園の中で厳選食材を使った料理をご賞味ください</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山口県岩国市岩国1-17-27 ／ 最寄り駅：岩国 ／ 交通案内：JR岩国駅から車で約10分、山陽新幹線・新岩国駅より車で約10分、山陽自動車道・岩国ICより約10分</p>
+                  <p><strong>【所在地・アクセス】</strong>山口県岩国市岩国1-17-27 ／ 最寄り駅：岩国 ／ 交通案内：JR岩国駅から車で約10分、山陽新幹線・新岩国駅より車で約10分、山陽自動車道・岩国ICより約10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

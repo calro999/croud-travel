@@ -228,11 +228,11 @@ export default function LuxuryPremiumHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">ミシュラン星付きシェフ監修＆ワイナリー宿：極上オーベルジュ・美食ステイ 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「ミシュラン星付きシェフ監修＆ワイナリー宿：極上オーベルジュ・美食ステイ 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「ミシュラン星付きシェフ監修＆ワイナリー宿：極上オーベルジュ・美食ステイ 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function LuxuryPremiumHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/151479/151479_kan1.jpg" alt="綾ニセコ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>名峰羊蹄山を望む世界的スキーリゾート・グランヒラフの麓に佇む、高級感溢れるコンドミニアム型ホテルです</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道虻田郡倶知安町ニセコひらふ1条4丁目4番5号 ／ 最寄り駅：倶知安 ／ 交通案内：倶知安駅よりお車にて約１５分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道虻田郡倶知安町ニセコひらふ1条4丁目4番5号 ／ 最寄り駅：倶知安 ／ 交通案内：倶知安駅よりお車にて約１５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　約25台　無料　(先着順）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function LuxuryPremiumHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8320/8320_kya.jpg" alt="ホテルルートインコート山梨 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>桃畑に囲まれた閑静な場所にあるホテルです</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県山梨市上石森字吉原187番3号 ／ 最寄り駅：山梨市 ／ 交通案内：中央道一宮御坂I.C/勝沼I.Cより車で約15分。山梨市駅より車で約5分。</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県山梨市上石森字吉原187番3号 ／ 最寄り駅：山梨市 ／ 交通案内：中央道一宮御坂I.C/勝沼I.Cより車で約15分。山梨市駅より車で約5分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　45台　無料　（大型車・中型車は駐車できません）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function LuxuryPremiumHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/41435/41435.jpg" alt="勝沼ぶどう郷ユースホステル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ぶどう畑に囲まれたぬくもりのある小さな宿です。甲府盆地の夜景を眺めながら勝沼ワインをお楽しみ下さい。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県甲州市勝沼町菱山861-2 ／ 最寄り駅：勝沼ぶどう郷 ／ 交通案内：ＪＲ中央線　勝沼ぶどう郷駅より徒歩１３分／中央道　勝沼ＩＣより車で１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県甲州市勝沼町菱山861-2 ／ 最寄り駅：勝沼ぶどう郷 ／ 交通案内：ＪＲ中央線　勝沼ぶどう郷駅より徒歩１３分／中央道　勝沼ＩＣより車で１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７台　無料　要予約</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function LuxuryPremiumHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/29393/29393_m1.jpg" alt="湯村温泉　湯志摩の郷　楽水園 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全14室「生そば処 らくすい」隣接★天然温泉と生蕎麦自慢の湯宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県甲府市湯村1-11-5 ／ 最寄り駅：甲府 ／ 交通案内：JR中央線・甲府駅より車で約10分／中央自動車道　甲府昭和ICより約20分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県甲府市湯村1-11-5 ／ 最寄り駅：甲府 ／ 交通案内：JR中央線・甲府駅より車で約10分／中央自動車道　甲府昭和ICより約20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　15台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function LuxuryPremiumHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/68084/68084_w.jpg" alt="富士山石和温泉郷　春日居びゅーほてる 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>カニ食べ放題！充実のバイキング！姉妹館への無料湯めぐりで温泉三昧！館内は無線LAN対応。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県笛吹市春日居町鎮目178 ／ 最寄り駅：石和温泉 ／ 交通案内：JR中央本線 石和温泉駅より車で5分／中央自動車道 一宮御坂ICより車で10分／中央高速バス 石和バス停より車で5分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県笛吹市春日居町鎮目178 ／ 最寄り駅：石和温泉 ／ 交通案内：JR中央本線 石和温泉駅より車で5分／中央自動車道 一宮御坂ICより車で10分／中央高速バス 石和バス停より車で5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り 100台 無料 予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function LuxuryPremiumHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/10734/10734_d.jpg" alt="信州車山高原の宿泊できるレストラン　オーベルジュ　ラ・メイジュ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>オーナーシェフが心と技で奏でるフレンチと、ソムリエールの選んだワインを御堪能下さい。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県茅野市　車山高原 ／ 最寄り駅：茅野 ／ 交通案内：お車の場合・中央自動車道諏訪ＩＣより約４０分、諏訪南ＩＣより約４０分　　バスの場合・JR茅野駅→車山高原約６０分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県茅野市　車山高原 ／ 最寄り駅：茅野 ／ 交通案内：お車の場合・中央自動車道諏訪ＩＣより約４０分、諏訪南ＩＣより約４０分　　バスの場合・JR茅野駅→車山高原約６０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　10台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

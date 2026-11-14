@@ -317,11 +317,11 @@ export default function FukuokaBudgetAutumnPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋の福岡・博多×格安：太宰府の紅葉と中洲屋台グルメ！天然温泉＆大浴場付き1泊6,000円台〜のコスパ最強ホテル5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「秋の福岡・博多×格安：太宰府の紅葉と中洲屋台グルメ！天然温泉＆大浴場付き1泊6,000円台〜のコスパ最強ホテル5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「秋の福岡・博多×格安：太宰府の紅葉と中洲屋台グルメ！天然温泉＆大浴場付き1泊6,000円台〜のコスパ最強ホテル5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -403,7 +403,7 @@ export default function FukuokaBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/180583/180583.jpg" alt="ホテル・トリフィート博多祇園 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>■大浴場完備■自慢の朝食■ 地下鉄「祇園駅」徒歩5分「櫛田神社前」徒歩6分■3名宿泊可■無料WIFI</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福岡県福岡市博多区冷泉町8-24 ／ 最寄り駅：祇園（福岡） ／ 交通案内：■地下鉄「祇園駅」徒歩5分■西鉄バス停「奥の堂」徒歩3分■福岡空港 地下鉄利用で最短15分■マリンメッセまでバスで7分</p>
+                  <p><strong>【所在地・アクセス】</strong>福岡県福岡市博多区冷泉町8-24 ／ 最寄り駅：祇園（福岡） ／ 交通案内：■地下鉄「祇園駅」徒歩5分■西鉄バス停「奥の堂」徒歩3分■福岡空港 地下鉄利用で最短15分■マリンメッセまでバスで7分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（屋外/高さ制限無し）　7台　1980円（税込み/泊）　先着順（事前予約不可）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -425,7 +425,7 @@ export default function FukuokaBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/163065/163065.jpg" alt="スーパーホテルＰｒｅｍｉｅｒ博多駅・筑紫口天然温泉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>博多駅から徒歩約８分☆福岡「原鶴温泉」直送の天然温泉＆ウェルカムバーでリフレッシュ☆</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福岡県福岡市博多区博多駅南2-1-32 ／ 最寄り駅：博多 ／ 交通案内：JR博多駅・筑紫口徒歩約８分！福岡空港から車で約10分！地下鉄博多駅東5番出口！博多駅東３丁目交差点セブンイレブン前</p>
+                  <p><strong>【所在地・アクセス】</strong>福岡県福岡市博多区博多駅南2-1-32 ／ 最寄り駅：博多 ／ 交通案内：JR博多駅・筑紫口徒歩約８分！福岡空港から車で約10分！地下鉄博多駅東5番出口！博多駅東３丁目交差点セブンイレブン前</p>
                   <p><strong>【駐車場・マイカー利用】</strong>7台分（事前予約制） 1泊2，000円 ※高さ制限なし 　　近隣にコインパーキング多数あり</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -447,7 +447,7 @@ export default function FukuokaBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/161262/161262_kan1.jpg" alt="ＫＯＫＯ　ＨＯＴＥＬ　博多新幹線口 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>無料軽朝食は個包装パンで安心、大浴場完備で快適ステイ</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福岡県福岡市博多区博多駅東1-17-17 ／ 最寄り駅：博多 ／ 交通案内：JR博多駅より徒歩4分。地下鉄空港線博多駅 東6出口より徒歩2分。都市高速博多駅東ICまで1分！</p>
+                  <p><strong>【所在地・アクセス】</strong>福岡県福岡市博多区博多駅東1-17-17 ／ 最寄り駅：博多 ／ 交通案内：JR博多駅より徒歩4分。地下鉄空港線博多駅 東6出口より徒歩2分。都市高速博多駅東ICまで1分！</p>
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場有　里馨(リカ)パーキング(24時間1500円の駐車券をフロント販売、当館から徒歩3分）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.1 ／ 立地 ★4.21 ／ 部屋 ★4.08 ／ 設備 ★3.92 ／ 風呂 ★3.97</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -469,7 +469,7 @@ export default function FukuokaBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/182017/182017.jpg" alt="アパホテル＆リゾート〈博多駅東〉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>博多駅至近、ビジネス・観光に便利！最上階に大浴殿・プール完備の全室禁煙新都市型ホテル！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福岡県福岡市博多区博多駅東1-18-1 ／ 最寄り駅：博多 ／ 交通案内：福岡市営地下鉄空港線「博多駅」東7番出口から徒歩2分／JR各線「博多駅」筑紫口から徒歩4分</p>
+                  <p><strong>【所在地・アクセス】</strong>福岡県福岡市博多区博多駅東1-18-1 ／ 最寄り駅：博多 ／ 交通案内：福岡市営地下鉄空港線「博多駅」東7番出口から徒歩2分／JR各線「博多駅」筑紫口から徒歩4分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>11台有、1,500円 / 1泊（15：00～翌11：00）※連泊の場合24時間　※予約不可先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -491,7 +491,7 @@ export default function FukuokaBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5012/5012_sgl.jpg" alt="天然温泉　八百治の湯　八百治博多ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>博多駅徒歩5分!!天然温泉大浴場完備!!Wi-Fi無料＆加湿機能付空気清浄機完備♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福岡県福岡市博多区博多駅前4-9-2 ／ 最寄り駅：博多 ／ 交通案内：博多駅博多口より徒歩５分（福岡空港から博多駅まで地下鉄で５分。）</p>
+                  <p><strong>【所在地・アクセス】</strong>福岡県福岡市博多区博多駅前4-9-2 ／ 最寄り駅：博多 ／ 交通案内：博多駅博多口より徒歩５分（福岡空港から博多駅まで地下鉄で５分。）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>契約駐車場　1,500円（税込）/14時～翌日14時</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -228,11 +228,11 @@ export default function RailwayActivityHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">グランピング＆バレルサウナ体験宿：北欧テント・星空BBQ＆ととのい 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「グランピング＆バレルサウナ体験宿：北欧テント・星空BBQ＆ととのい 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「グランピング＆バレルサウナ体験宿：北欧テント・星空BBQ＆ととのい 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function RailwayActivityHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/72689/72689_gr1.jpg" alt="河口湖カントリーコテージＢａｎ＆グランピングリゾート 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>富士山と河口湖が一望できる一棟貸切リゾート！楽天トラベル　グランピング人気宿「全国1位」</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県南都留郡富士河口湖町河口2092 ／ 最寄り駅：河口湖 ／ 交通案内：中央道河口湖ＩＣ10分、富士急河口湖駅から車10分＜10名様以上河口湖駅より無料送迎あり(要予約） ＞</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県南都留郡富士河口湖町河口2092 ／ 最寄り駅：河口湖 ／ 交通案内：中央道河口湖ＩＣ10分、富士急河口湖駅から車10分＜10名様以上河口湖駅より無料送迎あり(要予約） ＞</p>
                   <p><strong>【駐車場・マイカー利用】</strong>大型駐車場有り　60台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function RailwayActivityHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/180435/180435.jpg" alt="ＨＡＮＺ　ＯＵＴＤＯＯＲ　ＲＥＳＯＲＴ（旧：グランピングヴィラハンズ河口湖） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>Relax if you can... 自然と寄り添い、遊びつくす</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県南都留郡富士河口湖町勝山3283－1 ／ 最寄り駅：河口湖 ／ 交通案内：河口湖ＩＣよりお車にて約９分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県南都留郡富士河口湖町勝山3283－1 ／ 最寄り駅：河口湖 ／ 交通案内：河口湖ＩＣよりお車にて約９分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２７台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function RailwayActivityHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/197832/197832.jpg" alt="ＧＬＡＭＰＩＮＧ　ＨＡＮＺ　ＰＡＯ（旧：グランピングヴィラハンズ河口湖） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>Relax if you can... 自然と寄り添い、遊びつくす</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県南都留郡富士河口湖町勝山3250 ／ 最寄り駅：河口湖 ／ 交通案内：河口湖駅タクシーで約10分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県南都留郡富士河口湖町勝山3250 ／ 最寄り駅：河口湖 ／ 交通案内：河口湖駅タクシーで約10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>あり　30台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function RailwayActivityHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/191908/191908.jpg" alt="ｅｎｉｃｏ．Ｍｔ．Ｆｕｊｉ　Ｒｅｓｏｒｔ　＆　Ｇｌａｍｐｉｎｇ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【河口湖駅送迎あり】富士山麓の大自然の中で、ラグジュアリーな非日常体験を</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県南都留郡鳴沢村字猿口7472-11 ／ 最寄り駅：河口湖 ／ 交通案内：河口湖駅よりお車で約２０分、中央自動車道河口湖ＩＣより約１５分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県南都留郡鳴沢村字猿口7472-11 ／ 最寄り駅：河口湖 ／ 交通案内：河口湖駅よりお車で約２０分、中央自動車道河口湖ＩＣより約１５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１４台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function RailwayActivityHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/128423/128423_kya.jpg" alt="キャメルホテル＆グランピングリゾート 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>都心から90分、大自然でアクティビティを満喫、愛犬と泊まれるグランピング併設のスパ＆リゾートホテル！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 千葉県夷隅郡御宿町上布施3360 ／ 最寄り駅：御宿 ／ 交通案内：お車：圏央道市原鶴舞IC下車３５分　電車：外房線御宿駅下車　９：００～１７：００送迎可※要事前予約　タクシー１３分要予約</p>
+                  <p><strong>【所在地・アクセス】</strong>千葉県夷隅郡御宿町上布施3360 ／ 最寄り駅：御宿 ／ 交通案内：お車：圏央道市原鶴舞IC下車３５分　電車：外房線御宿駅下車　９：００～１７：００送迎可※要事前予約　タクシー１３分要予約</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function RailwayActivityHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/79303/79303_naka.jpg" alt="旅館＆グランピングリゾート　花山水　－ＨＡＮＡＳＡＮＳＵＩ－ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【ゴールドアワード2025受賞】【グランピング人気宿千葉県1位】★クーポン発行中★</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 千葉県夷隅郡大多喜町会所49 ／ 最寄り駅：上総中野 ／ 交通案内：上総興津駅からタクシー１５分。アクアライン利用で、都内・川崎・横浜より1時間半。一部道路不通によりGoogleナビ推奨。</p>
+                  <p><strong>【所在地・アクセス】</strong>千葉県夷隅郡大多喜町会所49 ／ 最寄り駅：上総中野 ／ 交通案内：上総興津駅からタクシー１５分。アクアライン利用で、都内・川崎・横浜より1時間半。一部道路不通によりGoogleナビ推奨。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料　予約不要です</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">京都・嵐山：竹林の小径・渡月橋＆嵯峨野おこもり宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「京都・嵐山：竹林の小径・渡月橋＆嵯峨野おこもり宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「京都・嵐山：竹林の小径・渡月橋＆嵯峨野おこもり宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -314,7 +314,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9696/9696_heya.jpg" alt="京都　湯の花温泉　すみや亀峰菴 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>京都の旅館ならではの日本の伝統美と現代アートの空間で四季折々の京懐石とオーストリアワインを愉しむ</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 京都府亀岡市湯の花温泉 ／ 最寄り駅：亀岡 ／ 交通案内：JR亀岡駅より車で２０分/京都縦貫道亀岡ICよりR372で約１０分/阪神高速池田線木部ICよりR423で約４０分</p>
+                  <p><strong>【所在地・アクセス】</strong>京都府亀岡市湯の花温泉 ／ 最寄り駅：亀岡 ／ 交通案内：JR亀岡駅より車で２０分/京都縦貫道亀岡ICよりR372で約１０分/阪神高速池田線木部ICよりR423で約４０分</p>
                   <p>【京都・嵐山：竹林の小径・渡月橋＆嵯峨野おこもり宿 厳】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.41 ／ 立地 ★4.26 ／ 部屋 ★4.4 ／ 設備 ★4.28 ／ 風呂 ★4.35 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -336,7 +336,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/130702/130702_ru1.jpg" alt="京都　嵐山温泉　花伝抄（共立リゾート）（２０２６年５月１日リニューアルオープン） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>渡月橋まで徒歩約5分！目の前の阪急嵐山駅より京都の中心街まですぐ！天然温泉と5つの貸切風呂が無料！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 京都府京都市西京区嵐山西一川町5-4 ／ 最寄り駅：嵐山（阪急） ／ 交通案内：阪急嵐山線「嵐山駅」より徒歩１分。JR「京都駅」より約30分、阪急「梅田駅」より約50分。</p>
+                  <p><strong>【所在地・アクセス】</strong>京都府京都市西京区嵐山西一川町5-4 ／ 最寄り駅：嵐山（阪急） ／ 交通案内：阪急嵐山線「嵐山駅」より徒歩１分。JR「京都駅」より約30分、阪急「梅田駅」より約50分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>全27台  予約不要 / 先着順  有料※満車の場合、周辺コインパーキングをご利用下さい。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.42 ／ 立地 ★4.5 ／ 部屋 ★4.49 ／ 設備 ★4.46 ／ 風呂 ★4.39 ／ 食事 ★4.47</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -358,7 +358,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8838/8838_gen.jpg" alt="京都　嵐山温泉　渡月亭 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【料亭旅館】嵐山・嵯峨野散策に最適な京都・嵐山温泉の宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 京都府京都市西京区嵐山中尾下町54-4（渡月橋南詰め） ／ 最寄り駅：嵯峨嵐山 ／ 交通案内：京都駅よりＪＲ嵯峨野線嵯峨嵐山駅下車徒歩１５分。阪急京都線桂駅より嵐山線嵐山駅下車徒歩５分。名神京都南ＩＣより約４０分</p>
+                  <p><strong>【所在地・アクセス】</strong>京都府京都市西京区嵐山中尾下町54-4（渡月橋南詰め） ／ 最寄り駅：嵯峨嵐山 ／ 交通案内：京都駅よりＪＲ嵯峨野線嵯峨嵐山駅下車徒歩１５分。阪急京都線桂駅より嵐山線嵐山駅下車徒歩５分。名神京都南ＩＣより約４０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -380,7 +380,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/73923/73923_bath.jpg" alt="嵐山温泉彩四季の宿　花筏 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>嵐山散策に便利な渡月橋南詰に位置し、嵐山温泉と京懐石が自慢の癒しの宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 京都府京都市西京区嵐山中尾下町57 ／ 最寄り駅：嵯峨嵐山 ／ 交通案内：阪急嵐山駅より徒歩５分（渡月橋渡らず）、ＪＲ嵯峨嵐山駅より徒歩約１５分(渡月橋渡る)。JR京都駅３０分、阪急梅田駅５０分</p>
+                  <p><strong>【所在地・アクセス】</strong>京都府京都市西京区嵐山中尾下町57 ／ 最寄り駅：嵯峨嵐山 ／ 交通案内：阪急嵐山駅より徒歩５分（渡月橋渡らず）、ＪＲ嵯峨嵐山駅より徒歩約１５分(渡月橋渡る)。JR京都駅３０分、阪急梅田駅５０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　要予約。最寄りICは大原野IC(花筏まで１５分）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.2 ／ 立地 ★4.48 ／ 部屋 ★4.2 ／ 設備 ★3.98 ／ 風呂 ★4.14 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -402,7 +402,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/18908/18908_heya.jpg" alt="京都嵐山　花のいえ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【渡月橋すぐ】全21室の純和風旅館。歴史情緒に包まれ味わう京会席。京の風情に浸る特別なひとときを。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 京都府京都市右京区嵯峨天龍寺角倉町9 ／ 最寄り駅：嵯峨嵐山 ／ 交通案内：ＪＲ嵯峨野線（山陰線）「嵯峨嵐山」駅南口より徒歩７分／阪急電車嵐山線「嵐山」駅より徒歩１２分</p>
+                  <p><strong>【所在地・アクセス】</strong>京都府京都市右京区嵯峨天龍寺角倉町9 ／ 最寄り駅：嵯峨嵐山 ／ 交通案内：ＪＲ嵯峨野線（山陰線）「嵯峨嵐山」駅南口より徒歩７分／阪急電車嵐山線「嵐山」駅より徒歩１２分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　12台　令和8年12月末まで無料　先着順（令和9年1月より駐車料金1台1泊につき1000円）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.51 ／ 立地 ★4.62 ／ 部屋 ★4.36 ／ 設備 ★4.28 ／ 風呂 ★4.26 ／ 食事 ★4.67</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

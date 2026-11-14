@@ -236,7 +236,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -681,11 +681,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：湯けむりとカフェ＆カクテルの至福。絶景足湯テラス・足湯BAR付き温泉宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：湯けむりとカフェ＆カクテルの至福。絶景足湯テラス・足湯BAR付き温泉宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：湯けむりとカフェ＆カクテルの至福。絶景足湯テラス・足湯BAR付き温泉宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -767,7 +767,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31896/31896_fu1.jpg" alt="いわき湯本温泉　旅館　こいと 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>こだわりの湯使い、本当の源泉かけ流しをご堪能ください&amp;#9832;</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県いわき市常磐湯本町笠井1 ／ 最寄り駅：湯本 ／ 交通案内：ＪＲ常磐線湯本駅より徒歩８分　常磐自動車道いわき湯本ＩＣから４ｋｍ（車で７分）　ハワイアンズまで車で約７分</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県いわき市常磐湯本町笠井1 ／ 最寄り駅：湯本 ／ 交通案内：ＪＲ常磐線湯本駅より徒歩８分　常磐自動車道いわき湯本ＩＣから４ｋｍ（車で７分）　ハワイアンズまで車で約７分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>普通乗用車タイプ28台、無料、道路を挟んで旅館の向かい側。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.39 ／ 立地 ★4.38 ／ 部屋 ★4.22 ／ 設備 ★4.19 ／ 風呂 ★4.6 ／ 食事 ★4.54</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -789,7 +789,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5839/5839_bath.jpg" alt="鬼怒川温泉　ホテルサンシャイン鬼怒川 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>『でっかい。けど、あったかい。』これが、宿のスローガン！鬼怒川立岩は眼前☆全室渓谷沿いで風光明媚♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県日光市鬼怒川温泉大原1437-1 ／ 最寄り駅：鬼怒川温泉 ／ 交通案内：東北自動車道宇都宮ICから宇都宮・日光有料道路今市IC下車R121より30分</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県日光市鬼怒川温泉大原1437-1 ／ 最寄り駅：鬼怒川温泉 ／ 交通案内：東北自動車道宇都宮ICから宇都宮・日光有料道路今市IC下車R121より30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台　無料（先着順）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.21 ／ 立地 ★4.25 ／ 部屋 ★4.09 ／ 設備 ★3.98 ／ 風呂 ★4.12 ／ 食事 ★4.17</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -811,7 +811,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/75162/75162_gr.jpg" alt="草津温泉　草津ホテル１９１３ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>1913年創業、日本旅館の伝統的建築そして草津の自然と文化を体験できます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県吾妻郡草津町草津479 ／ 最寄り駅：長野原草津口 ／ 交通案内：長野原草津口駅よりＪＲバスに２５分乗車 徒歩8分（長野原までのシャトルバスはございません、最終バスは８４８pm発です）</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県吾妻郡草津町草津479 ／ 最寄り駅：長野原草津口 ／ 交通案内：長野原草津口駅よりＪＲバスに２５分乗車 徒歩8分（長野原までのシャトルバスはございません、最終バスは８４８pm発です）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>敷地内に４０台 無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.27 ／ 立地 ★4.22 ／ 部屋 ★4.37 ／ 設備 ★4.33 ／ 風呂 ★4.63 ／ 食事 ★4.38</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -833,7 +833,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/19271/19271_heya.jpg" alt="伊香保温泉　ホテル松本楼 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>露天風呂付客室、サウナ付客室、展望部屋、バリアフリールームなど8種以上の客室タイプ。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県渋川市伊香保町伊香保164 ／ 最寄り駅：渋川 ／ 交通案内：ＪＲ上越線渋川駅よりバスで見晴下下車／関越自動車道渋川・伊香保ＩＣより約１０ｋｍ</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県渋川市伊香保町伊香保164 ／ 最寄り駅：渋川 ／ 交通案内：ＪＲ上越線渋川駅よりバスで見晴下下車／関越自動車道渋川・伊香保ＩＣより約１０ｋｍ</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台　無料　余裕有り</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.65 ／ 立地 ★4.33 ／ 部屋 ★4.5 ／ 設備 ★4.47 ／ 風呂 ★4.59 ／ 食事 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -855,7 +855,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/44948/44948_w.jpg" alt="定山渓温泉　女性のための宿　翠蝶館（旧：定山渓温泉　Ｓｐａ＆Ｅｓｔｈｅｔｉｑｕｅ　翠蝶館） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「体の内外からキレイになる」がコンセプト。身体にやさしいお料理とエステで自分にご褒美を。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道札幌市南区定山渓温泉西3-57 ／ 最寄り駅：札幌 ／ 交通案内：札幌より無料送迎バス運行（要予約） ／ＪＲ札幌駅より車で60分／新千歳空港より車で約2時間</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道札幌市南区定山渓温泉西3-57 ／ 最寄り駅：札幌 ／ 交通案内：札幌より無料送迎バス運行（要予約） ／ＪＲ札幌駅より車で60分／新千歳空港より車で約2時間</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.63 ／ 立地 ★4.45 ／ 部屋 ★4.54 ／ 設備 ★4.55 ／ 風呂 ★4.53 ／ 食事 ★4.67</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

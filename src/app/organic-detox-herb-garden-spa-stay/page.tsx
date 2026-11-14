@@ -236,7 +236,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -680,11 +680,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：摘みたてハーブの癒やし。自家菜園ハーブ料理＆ハーバルサウナの温泉リゾート5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：摘みたてハーブの癒やし。自家菜園ハーブ料理＆ハーバルサウナの温泉リゾート5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：摘みたてハーブの癒やし。自家菜園ハーブ料理＆ハーバルサウナの温泉リゾート5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -766,7 +766,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5300/5300_pool.jpg" alt="ホテルリステル猪苗代ウイングタワー 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ヨーロピアンクラシカル調の高層ホテル。全室より猪苗代湖を一望する四季のパノラマが魅力です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県耶麻郡猪苗代町大字川桁字天王坂2414 ／ 最寄り駅：猪苗代 ／ 交通案内：磐越西線猪苗代駅より送迎バス有※前日17:00までに要予約　磐越自動車道猪苗代ICより１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県耶麻郡猪苗代町大字川桁字天王坂2414 ／ 最寄り駅：猪苗代 ／ 交通案内：磐越西線猪苗代駅より送迎バス有※前日17:00までに要予約　磐越自動車道猪苗代ICより１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　敷地内各駐車場合計　450台　無料　（先着順予約無し）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.09 ／ 立地 ★4.21 ／ 部屋 ★4.13 ／ 設備 ★3.99 ／ 風呂 ★3.93 ／ 食事 ★4.1</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -788,7 +788,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/29349/29349_br.jpg" alt="たきのうえホテル渓谷 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>紋別より内陸に30Km入った山あいの町滝上町。冬の醍醐味、流氷観光やスノーシューで錦仙峡を散策</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道紋別郡滝上町元町 ／ 最寄り駅：旭川 ／ 交通案内：JR旭川駅より紋別行都市間バスで約140分「滝上」下車</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道紋別郡滝上町元町 ／ 最寄り駅：旭川 ／ 交通案内：JR旭川駅より紋別行都市間バスで約140分「滝上」下車</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.34 ／ 立地 ★4.2 ／ 部屋 ★4.22 ／ 設備 ★4.1 ／ 風呂 ★4.21 ／ 食事 ★4.29</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -810,7 +810,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/19237/19237_r.jpg" alt="十勝川温泉　観月苑 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>十勝川温泉初！２０２０年５月フィンランド式サウナへリニューアル！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道河東郡音更町十勝川温泉南14-2 ／ 最寄り駅：帯広 ／ 交通案内：【バス】JR帯広駅より30分（観月苑前下車）｜【お車】帯広駅より20分、音更帯広ICより20分、帯広空港より40分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道河東郡音更町十勝川温泉南14-2 ／ 最寄り駅：帯広 ／ 交通案内：【バス】JR帯広駅より30分（観月苑前下車）｜【お車】帯広駅より20分、音更帯広ICより20分、帯広空港より40分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -832,7 +832,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/164/164_ky.jpg" alt="ＡＮＡクラウンプラザホテル神戸　ｂｙ　ＩＨＧ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>神戸の陸の玄関口、新神戸駅直結の37階高層ホテル。アクセス抜群！大阪まで約25分。全室Wi-fi無料</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県神戸市中央区北野町1 ／ 最寄り駅：新神戸 ／ 交通案内：新幹線・地下鉄「新神戸駅」直結 。三宮まで１駅2分。大阪まで約25分。</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県神戸市中央区北野町1 ／ 最寄り駅：新神戸 ／ 交通案内：新幹線・地下鉄「新神戸駅」直結 。三宮まで１駅2分。大阪まで約25分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>650台(1台1,500円/泊)　※クラブフロア宿泊者は1室1台無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -854,7 +854,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/70934/70934_ww.jpg" alt="セトレ　ハイランドヴィラ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【絶景＆貸切風呂＆サウナ】食と体験でココロとカラダがととのうオーベルジュ</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県姫路市広嶺山224-26 ／ 最寄り駅：姫路 ／ 交通案内：ＪＲ　姫路駅から車で２０分 　※送迎はお電話にてご相談下さいませ。</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県姫路市広嶺山224-26 ／ 最寄り駅：姫路 ／ 交通案内：ＪＲ　姫路駅から車で２０分 　※送迎はお電話にてご相談下さいませ。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.43 ／ 立地 ★4.41 ／ 部屋 ★4.39 ／ 設備 ★4.23 ／ 風呂 ★4.14 ／ 食事 ★4.47</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

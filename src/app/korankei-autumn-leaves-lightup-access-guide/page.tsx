@@ -526,11 +526,11 @@ export default function KorankeiAutumnLeavesAccessPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">香嵐渓 紅葉もみじまつり2026：4000本の絶景ライトアップ・大渋滞回避アクセス＆名古屋発日帰りバス：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「香嵐渓 紅葉もみじまつり2026：4000本の絶景ライトアップ・大渋滞回避アクセス＆名古屋発日帰りバス」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「香嵐渓 紅葉もみじまつり2026：4000本の絶景ライトアップ・大渋滞回避アクセス＆名古屋発日帰りバス」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -594,7 +594,7 @@ export default function KorankeiAutumnLeavesAccessPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/180318/180318.jpg" alt="アットインホテル豊田市駅 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全室トゥルースリーパー導入！1名様でもゆったりお寛ぎいただけるダブル以上の客室のみ完備。全室禁煙。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛知県豊田市喜多町2-97 ／ 最寄り駅：豊田市 ／ 交通案内：名鉄豊田市駅より徒歩約50秒。豊田市駅から一番近いホテル。新豊田駅からも徒歩3分。</p>
+                  <p><strong>【所在地・アクセス】</strong>愛知県豊田市喜多町2-97 ／ 最寄り駅：豊田市 ／ 交通案内：名鉄豊田市駅より徒歩約50秒。豊田市駅から一番近いホテル。新豊田駅からも徒歩3分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（有料）　約1000台　駐車場2カ所　■予約不要　■二輪駐車不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.21 ／ 立地 ★4.3 ／ 部屋 ★4.2 ／ 設備 ★4.15 ／ 風呂 ★4.04 ／ 食事 ★3.95</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -616,7 +616,7 @@ export default function KorankeiAutumnLeavesAccessPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/167225/167225_kan1.jpg" alt="東横ＩＮＮ豊田市駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>名鉄豊田市駅から徒歩2分で朝食・小学生以下添い寝無料のホテル！豊田スタジアムまで車/名鉄バスで10分</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛知県豊田市西町6-7-2 ／ 最寄り駅：豊田市 ／ 交通案内：豊田市駅</p>
+                  <p><strong>【所在地・アクセス】</strong>愛知県豊田市西町6-7-2 ／ 最寄り駅：豊田市 ／ 交通案内：豊田市駅</p>
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル併設駐車場：14台（先着順）1泊/1.200円　　提携駐車場有：27時間/1,000円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -638,7 +638,7 @@ export default function KorankeiAutumnLeavesAccessPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/69257/69257_s.jpg" alt="ＡＢホテル　豊田元町 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>豊田ICより約５分、豊田市駅よりタクシーで約10分♪朝食バイキング・お手軽夕食・大浴場・駐車場も無料</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛知県豊田市東新町3-63-1 ／ 最寄り駅：豊田市 ／ 交通案内：名鉄　豊田市駅よりタクシーで約7分(3.5km)　東名　豊田ICより約５分　トヨタスタジアム・スカイホール　車で約１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>愛知県豊田市東新町3-63-1 ／ 最寄り駅：豊田市 ／ 交通案内：名鉄　豊田市駅よりタクシーで約7分(3.5km)　東名　豊田ICより約５分　トヨタスタジアム・スカイホール　車で約１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>敷地内無料駐車場あり※満車の場合は、第２無料駐車場（徒歩約5分）をフロントにてご案内</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.19 ／ 立地 ★4.01 ／ 部屋 ★4.16 ／ 設備 ★4.12 ／ 風呂 ★4.03 ／ 食事 ★4.14</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

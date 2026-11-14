@@ -423,10 +423,10 @@ export default function SilverWeekGlampingLargeGroupCharterPage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/yamagata/"
+                href="/prefectures/kagoshima/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                山形県の宿・温泉
+                鹿児島県の宿・温泉
               </Link>
               <Link
                 href="/prefectures/kumamoto/"
@@ -455,11 +455,11 @@ export default function SilverWeekGlampingLargeGroupCharterPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">大人数・10人以上OK グランピング：シルバーウィーク全棟貸切・サークル合宿・3世代家族旅行：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「大人数・10人以上OK グランピング：シルバーウィーク全棟貸切・サークル合宿・3世代家族旅行」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「大人数・10人以上OK グランピング：シルバーウィーク全棟貸切・サークル合宿・3世代家族旅行」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -532,7 +532,7 @@ export default function SilverWeekGlampingLargeGroupCharterPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/171946/171946_kan1.jpg" alt="全室源泉かけ流し温泉付き旅館＆グランピング　美肌の湯　こしかの温泉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>温泉宿・グランピング全室で源泉掛け流しの天然炭酸泉が満喫できます。ペットOKの客室もございます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県霧島市隼人町松永2625 ／ 最寄り駅：日当山 ／ 交通案内：鹿児島空港より車で約15分【19時までなら鹿児島空港・国分駅まで無料送迎（要予約）】</p>
+                  <p><strong>【所在地・アクセス】</strong>鹿児島県霧島市隼人町松永2625 ／ 最寄り駅：日当山 ／ 交通案内：鹿児島空港より車で約15分【19時までなら鹿児島空港・国分駅まで無料送迎（要予約）】</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（無料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.55 ／ 立地 ★4.38 ／ 部屋 ★4.47 ／ 設備 ★4.51 ／ 風呂 ★4.68 ／ 食事 ★4.55</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -554,7 +554,7 @@ export default function SilverWeekGlampingLargeGroupCharterPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/184648/184648.jpg" alt="全室富士山ビュー　ビジョングランピングリゾート山中湖 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>山中湖｜全室富士山ビューでBBQ｜各客室内に専用の露天風呂・サウナ付き完全プライベートグランピング</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県南都留郡山中湖村山中字栗木林１３８５－４３ ／ 最寄り駅：富士吉田 ／ 交通案内：富士山駅からバスで30分／山中湖ICより車で5分／河口湖ICより車で15分／御殿場ICより車で30分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県南都留郡山中湖村山中字栗木林１３８５－４３ ／ 最寄り駅：富士吉田 ／ 交通案内：富士山駅からバスで30分／山中湖ICより車で5分／河口湖ICより車で15分／御殿場ICより車で30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料（20台、予約不要）　無料送迎あり（富士山駅・富士山山中湖バス停付近）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -576,7 +576,7 @@ export default function SilverWeekGlampingLargeGroupCharterPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/195575/195575.jpg" alt="グランピング×古民家　ＭＡＳＡＺＵＭＩ邸／民泊 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>古民家グランピング!13名まで宿泊可。BBQ、焚き火、スポーツ、星空を満喫。室内遊びも充実。大...</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県三田市波豆川1723 ／ 最寄り駅：三田（兵庫） ／ 交通案内：三田駅より車で20分</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県三田市波豆川1723 ／ 最寄り駅：三田（兵庫） ／ 交通案内：三田駅より車で20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>あり</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -598,7 +598,7 @@ export default function SilverWeekGlampingLargeGroupCharterPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/38313/38313_ka1.jpg" alt="貸し別荘　Ｏｒｋ（オーク）ひるがの 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【全室一棟貸し】「遊ぶ、食べる、休む」をテーマにした自然体験リゾート。プライベートサウナ付客室も♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岐阜県郡上市高鷲町鷲見上野2363-988 ／ 最寄り駅：高鷲 ／ 交通案内：東海北陸自動車道「ひるがの高原ＳＡ」【ＥＴＣインター】下車「牧歌の里」方面へ約3分及び「高鷲ＩＣ」下車北へ約15分</p>
+                  <p><strong>【所在地・アクセス】</strong>岐阜県郡上市高鷲町鷲見上野2363-988 ／ 最寄り駅：高鷲 ／ 交通案内：東海北陸自動車道「ひるがの高原ＳＡ」【ＥＴＣインター】下車「牧歌の里」方面へ約3分及び「高鷲ＩＣ」下車北へ約15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１棟当たり２台　無料　それ以上の方はご相談ください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

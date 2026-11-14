@@ -77,7 +77,7 @@ export default function ArticlePage() {
             北海道・阿寒湖温泉ひとり旅＆阿寒摩周国立公園おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「阿寒摩周・阿寒湖温泉ひとり旅・雄阿寒岳とマリモおこもり」全室温泉露天風呂・アイヌコタン木彫り文化・オホーツク会席！道東国立公園厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               阿寒摩周国立公園の中心、原始林に囲まれた阿寒湖の南岸に湧く阿寒湖温泉。神経痛や冷え性に効能の高い単純温泉・硫黄泉がこんこんと湧き出し、湖面を渡る清らかな風が旅人の心を深く癒やします。湖畔に隣接する北海道最大級のアイヌコタンでは、伝統的な木彫り工芸やアイヌ古式舞踊の幽玄な世界に一人静かに浸ることができます。
             </p>
             <p>
-              静寂を愛する大人のための最高峰ラグジュアリー隠れ宿から、阿寒湖パノラマ露天風呂を誇る名門ホテルまで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              静寂を愛する大人のための最高峰ラグジュアリー隠れ宿から、阿寒湖パノラマ露天風呂を誇る名門ホテルまで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -421,11 +421,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">阿寒摩周・阿寒湖温泉ひとり旅・雄阿寒岳とマリモおこもり：全室温泉露天風呂・アイヌコタン木彫り文化・オホーツク会席！道東国立公園厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「阿寒摩周・阿寒湖温泉ひとり旅・雄阿寒岳とマリモおこもり：全室温泉露天風呂・アイヌコタン木彫り文化・オホーツク会席！道東国立公園厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「阿寒摩周・阿寒湖温泉ひとり旅・雄阿寒岳とマリモおこもり：全室温泉露天風呂・アイヌコタン木彫り文化・オホーツク会席！道東国立公園厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -489,7 +489,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/37362/37362_kan.jpg" alt="阿寒湖温泉　あかん鶴雅別荘鄙の座 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【全25室 温泉露天風呂付き客室】鄙とは故郷のこと。鄙の座は皆様のこころの故郷としてお迎えいたします</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道釧路市阿寒町阿寒湖温泉2丁目8-1 ／ 最寄り駅：釧路 ／ 交通案内：釧路空港より車で約６０分／女満別空港より車で約９０分。　※アクセスの詳細は公式サイトの「アクセスページ」をご覧ください。</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道釧路市阿寒町阿寒湖温泉2丁目8-1 ／ 最寄り駅：釧路 ／ 交通案内：釧路空港より車で約６０分／女満別空港より車で約９０分。　※アクセスの詳細は公式サイトの「アクセスページ」をご覧ください。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.87 ／ 立地 ★4.78 ／ 部屋 ★4.83 ／ 設備 ★4.78 ／ 風呂 ★4.74 ／ 食事 ★4.96</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -511,7 +511,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/40045/40045_kan.jpg" alt="あかん遊久の里鶴雅 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>和のこころ、阿寒のおもてなしをさらに深めて。日本の旅館文化を継承するおもてなしをご堪能ください。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道釧路市阿寒町阿寒湖温泉4-6-10 ／ 最寄り駅：釧路 ／ 交通案内：釧路空港より車で約６０分／女満別空港より車で約９０分。　※アクセスの詳細は公式サイトの「アクセスページ」をご覧ください。</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道釧路市阿寒町阿寒湖温泉4-6-10 ／ 最寄り駅：釧路 ／ 交通案内：釧路空港より車で約６０分／女満別空港より車で約９０分。　※アクセスの詳細は公式サイトの「アクセスページ」をご覧ください。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（無料）150台※駐車場は当館から離れた場所にあります（駐車場とホテル間はシャトルバス運行あり）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.48 ／ 立地 ★4.42 ／ 部屋 ★4.45 ／ 設備 ★4.44 ／ 風呂 ★4.55 ／ 食事 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -533,7 +533,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/41841/41841_kan.jpg" alt="ＴＨＥ　ＦＯＲＥＳＴ阿寒　ＴＳＵＲＵＧＡＲＥＳＯＲＴ（旧：阿寒の森鶴雅リゾート花ゆう香） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>フォレスト阿寒は源泉かけ流し！阿寒の森と湖に佇むカジュアルリゾート【トゥラノのご予約もこちらから】</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道釧路市阿寒町阿寒湖温泉1-6-1 ／ 最寄り駅：釧路 ／ 交通案内：釧路空港より車で約６０分／女満別空港より車で約９０分。　※アクセスの詳細は公式サイトの「アクセスページ」をご覧ください。</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道釧路市阿寒町阿寒湖温泉1-6-1 ／ 最寄り駅：釧路 ／ 交通案内：釧路空港より車で約６０分／女満別空港より車で約９０分。　※アクセスの詳細は公式サイトの「アクセスページ」をご覧ください。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>※駐車場は当館から離れた場所にあります（無料）正面玄関車寄せにて係が駐車場までの行き方をご案内します</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.26 ／ 立地 ★4.3 ／ 部屋 ★4.05 ／ 設備 ★3.99 ／ 風呂 ★3.85 ／ 食事 ★4.28</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">群馬・四万温泉＆奥四万湖：奇跡の四万ブルー・千と千尋レトロ木造湯宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「群馬・四万温泉＆奥四万湖：奇跡の四万ブルー・千と千尋レトロ木造湯宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「群馬・四万温泉＆奥四万湖：奇跡の四万ブルー・千と千尋レトロ木造湯宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -261,7 +261,7 @@ export default function MicroTouristHubPage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 四万温泉　春木亭　なかざわ旅館</td>
-                <td className="p-3 text-stone-600">群馬県</td>
+                <td className="p-3 text-stone-600">群馬県吾妻郡中之条町大字四万4238-41</td>
                 <td className="p-3 text-stone-600">関越自動車道『渋川伊香保IC』→R１７→R３５３で５０分　JR吾妻線『</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.82（704件）</td>
@@ -270,7 +270,7 @@ export default function MicroTouristHubPage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 四万温泉　源泉掛け流しの貸切風呂と囲炉裏料理宿　湯の宿　山ばと</td>
-                <td className="p-3 text-stone-600">群馬県</td>
+                <td className="p-3 text-stone-600">群馬県吾妻郡中之条町四万4358-11</td>
                 <td className="p-3 text-stone-600">関越自動車道・渋川伊香保Ｉ.Ｃから国道353経由60分JR中之条駅から</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.61（243件）</td>
@@ -323,7 +323,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/76361/76361_ky1.jpg" alt="四万温泉　積善館　佳松亭・山荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>『歴史と浪漫・優雅と静寂』の旅館棟。国の重要文化財のある「山荘」・贅を尽くした「佳松亭」</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県吾妻郡中之条町四万甲4236 ／ 最寄り駅：中之条 ／ 交通案内：中之条駅からバス４０分終点下車・車で２５分／渋川伊香保ＩＣ→Ｒ１７→Ｒ３５３で約３９ｋｍ６０分</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県吾妻郡中之条町四万甲4236 ／ 最寄り駅：中之条 ／ 交通案内：中之条駅からバス４０分終点下車・車で２５分／渋川伊香保ＩＣ→Ｒ１７→Ｒ３５３で約３９ｋｍ６０分</p>
                   <p>【群馬・四万温泉＆奥四万湖：奇跡の四万ブルー・千と千尋】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.67 ／ 立地 ★4.6 ／ 部屋 ★4.6 ／ 設備 ★4.52 ／ 風呂 ★4.69 ／ 食事 ★4.72</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -344,8 +344,8 @@ export default function MicroTouristHubPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/13630/13630.jpg" alt="四万温泉　春木亭　なかざわ旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「群馬・四万温泉＆奥四万湖（奇跡の四万ブルー・千と千尋レトロ木造湯宿 厳選ガイド）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：関越自動車道『渋川伊香保IC』→R１７→R３５３で５０分　JR吾妻線『中之条駅』下車バス四万温泉『桐の木平』下車徒歩２分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>山間をのぞむ高台の和の宿５室と離れ１室の現代の旅籠(はたご)</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：関越自動車道『渋川伊香保IC』→R１７→R３５３で５０分　JR吾妻線『中之条駅』下車バス四万温泉『桐の木平』下車徒歩２分</p>
                   <p>【群馬・四万温泉＆奥四万湖：奇跡の四万ブルー・千と千尋】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -366,8 +366,8 @@ export default function MicroTouristHubPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2628/2628.jpg" alt="四万温泉　源泉掛け流しの貸切風呂と囲炉裏料理宿　湯の宿　山ばと 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「群馬・四万温泉＆奥四万湖（奇跡の四万ブルー・千と千尋レトロ木造湯宿 厳選ガイド）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：関越自動車道・渋川伊香保Ｉ.Ｃから国道353経由60分JR中之条駅からバスで30分　終点から徒歩20分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>夕食は個室ダイニングで炭火焼きやここならではの【温泉蒸し】など地産地消料理をお召し上がりください。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：関越自動車道・渋川伊香保Ｉ.Ｃから国道353経由60分JR中之条駅からバスで30分　終点から徒歩20分</p>
                   <p>【群馬・四万温泉＆奥四万湖：奇跡の四万ブルー・千と千尋】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/32125/32125_kan1.jpg" alt="四万温泉　四万グランドホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2025年3月放映「マツコの知らない世界」で四万温泉が紹介されました！当館でも「美肌の湯」を満喫！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県吾妻郡中之条町四万4228 ／ 最寄り駅：中之条 ／ 交通案内：ＪＲ吾妻線中之条駅／関越交通四万温泉行き終点１分／関越道渋川伊香保ＩＣより約３９ｋｍ６０分</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県吾妻郡中之条町四万4228 ／ 最寄り駅：中之条 ／ 交通案内：ＪＲ吾妻線中之条駅／関越交通四万温泉行き終点１分／関越道渋川伊香保ＩＣより約３９ｋｍ６０分</p>
                   <p>【群馬・四万温泉＆奥四万湖：奇跡の四万ブルー・千と千尋】 <strong>【駐車場・マイカー利用】</strong>有り　８０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/182402/182402.jpg" alt="ＳＨＩＮ　湯治　ＨＯＴＥＬ　ＬＵＬＵＤ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>&amp;amp;#9832;上信越高原国立公園内に位置するリノベーションアートホテル</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県吾妻郡中之条町四万4138-1 ／ 最寄り駅：中之条 ／ 交通案内：四万温泉バス停より徒歩10分　JR中之条駅より車20分</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県吾妻郡中之条町四万4138-1 ／ 最寄り駅：中之条 ／ 交通案内：四万温泉バス停より徒歩10分　JR中之条駅より車20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>当館の目の前に5台ほど。もしくは当館の向かい側駐車場をご利用ください。無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/129668/129668_room.jpg" alt="四万温泉　料理旅館くれない 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【愛郷ぐんま全国割対象宿】テレビでお馴染の四万温泉“湯蒸し鰻重”＆源泉かけ流しが好評の宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県吾妻郡中之条町四万4143-2 ／ 最寄り駅：中之条 ／ 交通案内：中之条駅よりバスにて４０分、バス下車後徒歩２分</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県吾妻郡中之条町四万4143-2 ／ 最寄り駅：中之条 ／ 交通案内：中之条駅よりバスにて４０分、バス下車後徒歩２分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

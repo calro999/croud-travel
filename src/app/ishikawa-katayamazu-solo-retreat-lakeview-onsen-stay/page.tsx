@@ -77,7 +77,7 @@ export default function ArticlePage() {
             石川・片山津温泉ひとり旅＆柴山潟レイクビューおこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「加賀温泉郷・片山津温泉ひとり旅・柴山潟パノラマおこもり」白山連峰一望・湖畔絶景露天風呂・加賀会席＆ズワイガニ！北陸新幹線加賀温泉駅厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               加賀三代藩主・前田利常公の時代に柴山潟の湖底から湧出しているのが発見された片山津温泉。塩分を非常に多く含むナトリウム・カルシウム-塩化物泉は「温まりの湯」として名高く、湯上がりも汗が引かないほどの保温効果があります。夕暮れ時に湖面へ打ち上がる大噴水や、遠く白山連峰の雄姿を眺めながら一人湯に浸かる贅沢は格別です。
             </p>
             <p>
-              湖の最前列で息を呑むレイクパノラマを堪能できる老舗宿から、加賀の伝統美と快適性を両立した大型温泉旅館まで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              湖の最前列で息を呑むレイクパノラマを堪能できる老舗宿から、加賀の伝統美と快適性を両立した大型温泉旅館まで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -422,11 +422,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">加賀温泉郷・片山津温泉ひとり旅・柴山潟パノラマおこもり：白山連峰一望・湖畔絶景露天風呂・加賀会席＆ズワイガニ！北陸新幹線加賀温泉駅厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「加賀温泉郷・片山津温泉ひとり旅・柴山潟パノラマおこもり：白山連峰一望・湖畔絶景露天風呂・加賀会席＆ズワイガニ！北陸新幹線加賀温泉駅厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「加賀温泉郷・片山津温泉ひとり旅・柴山潟パノラマおこもり：白山連峰一望・湖畔絶景露天風呂・加賀会席＆ズワイガニ！北陸新幹線加賀温泉駅厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -508,7 +508,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/28355/28355_kw.jpg" alt="加賀片山津温泉　佳水郷（アパホテルズ＆リゾーツ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全室絶景湖畔を望む割烹温泉旅館。霊峰白山と柴山潟を一望できる大浴殿、サウナ、旬の逸品会席が好評！！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県加賀市潮津町イ72-1 ／ 最寄り駅：加賀温泉 ／ 交通案内：【電車】JR加賀温泉駅から車で10分（無料送迎有、要予約）【車】片山津ICから5分【飛行機】小松空港から車で20分</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県加賀市潮津町イ72-1 ／ 最寄り駅：加賀温泉 ／ 交通案内：【電車】JR加賀温泉駅から車で10分（無料送迎有、要予約）【車】片山津ICから5分【飛行機】小松空港から車で20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>250台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.44 ／ 立地 ★4.52 ／ 部屋 ★4.46 ／ 設備 ★4.32 ／ 風呂 ★4.39</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -530,7 +530,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4997/4997_rm.jpg" alt="片山津温泉　源泉元湯の宿　かのや光楽苑 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>柴山潟に面し、客室からは湖が望めます。源泉を流し込む湯量豊富な温泉と加賀料理が自慢の元湯の宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県加賀市片山津温泉乙64-1 ／ 最寄り駅：加賀温泉 ／ 交通案内：JR加賀温泉駅より車で10分（無料送迎有／定時運行／要事前予約）、北陸自動車道片山津ＩＣより10分</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県加賀市片山津温泉乙64-1 ／ 最寄り駅：加賀温泉 ／ 交通案内：JR加賀温泉駅より車で10分（無料送迎有／定時運行／要事前予約）、北陸自動車道片山津ＩＣより10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.13 ／ 立地 ★4.13 ／ 部屋 ★4.11 ／ 設備 ★3.94 ／ 風呂 ★4.16 ／ 食事 ★4.34</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -552,7 +552,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/263/263_kyk.jpg" alt="ＡＮＡクラウンプラザホテル金沢　ｂｙ　ＩＨＧ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>金沢駅隣接、全館Wi-Fi接続無料！ワンランク上のご滞在を</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県金沢市昭和町16-3 JR金沢駅前 ／ 最寄り駅：金沢 ／ 交通案内：ＪＲ「金沢駅」東口より徒歩1分。もてなしドームから雨に濡れずにホテル到着。小松空港から車で４０分。コンビニ徒歩１分。</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県金沢市昭和町16-3 JR金沢駅前 ／ 最寄り駅：金沢 ／ 交通案内：ＪＲ「金沢駅」東口より徒歩1分。もてなしドームから雨に濡れずにホテル到着。小松空港から車で４０分。コンビニ徒歩１分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有（45台）　料金1500円(1泊15:00～翌11:00)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -574,7 +574,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/362/362_sgl.jpg" alt="ガーデンホテル金沢 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>金沢駅正面というフットワークの良さが自慢。兼六園・ひがし茶屋街などへの観光の拠点に最適。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県金沢市本町2-16-16 ／ 最寄り駅：金沢 ／ 交通案内：ＪＲ金沢駅東口ガラスドーム正面－駅舎より横断歩道を１つ渡るだけ 徒歩1分です。金沢が初めての方でも迷わずご来館頂けます。</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県金沢市本町2-16-16 ／ 最寄り駅：金沢 ／ 交通案内：ＪＲ金沢駅東口ガラスドーム正面－駅舎より横断歩道を１つ渡るだけ 徒歩1分です。金沢が初めての方でも迷わずご来館頂けます。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>平地駐車場（7台）がホテル裏手にございます。1泊1,000円で先着順でございます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -596,7 +596,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/547/547_sgl.jpg" alt="アパホテル〈金沢駅前〉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>コンパクトながらも機能性を追求した金沢駅目前の大浴殿付ホテル！ビジネス、観光に最適な駅前立地！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県金沢市広岡1-9-28 ／ 最寄り駅：金沢 ／ 交通案内：「金沢駅」西口を出て左手すぐ（徒歩1分）小松空港から金沢駅直通バスで40分　東京駅⇔金沢駅間 北陸新幹線にて2時間30分</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県金沢市広岡1-9-28 ／ 最寄り駅：金沢 ／ 交通案内：「金沢駅」西口を出て左手すぐ（徒歩1分）小松空港から金沢駅直通バスで40分　東京駅⇔金沢駅間 北陸新幹線にて2時間30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>78台 1泊/1,300円【車高1.9ｍ　先着順・予約不可】提携P：立体1,500台 1泊/800円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.14 ／ 立地 ★4.22 ／ 部屋 ★4.03 ／ 設備 ★4.04 ／ 風呂 ★4.13 ／ 食事 ★4.33</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

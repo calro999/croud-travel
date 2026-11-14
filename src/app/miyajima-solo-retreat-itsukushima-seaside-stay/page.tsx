@@ -78,7 +78,7 @@ export default function ArticlePage() {
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.12 更新</time>
           <span>執筆：旅宿クラウド ひとり旅・出張調査班</span>
-          <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式API提携</span>
+          <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">編集部が厳選</span>
         </div>
 
         {/* リード文 */}
@@ -90,7 +90,7 @@ export default function ArticlePage() {
             日本三景のひとつであり、世界遺産・厳島神社を抱く安芸の宮島。日中は多くの参拝客で賑わうこの島ですが、夕方に最後の観光客が島を後にした瞬間、静謐な祈りの島本来の姿が現れます。
           </p>
           <p>
-            海上に浮かぶ大鳥居のライトアップを眺めながら島内唯一の温泉に身を浸す贅沢から、手つかずの原生林が息づく紅葉谷の老舗旅館での宿泊まで、楽天トラベル公式APIより取得した最新の宿泊データをもとに厳選紹介します。
+            海上に浮かぶ大鳥居のライトアップを眺めながら島内唯一の温泉に身を浸す贅沢から、手つかずの原生林が息づく紅葉谷の老舗旅館での宿泊まで、宿泊施設データより取得した最新の宿泊データをもとに厳選紹介します。
           </p>
         </div>
       </header>
@@ -370,7 +370,7 @@ export default function ArticlePage() {
           <p className="text-sm text-amber-100 mb-6 max-w-2xl mx-auto">平日限定の一人旅割引や、早期割・直前割など、楽天トラベルならではの特典プランが多数用意されています。人気日程は早めの予約がおすすめです。
           </p>
           <a
-            href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2F"
+            href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fsearch.travel.rakuten.co.jp%2Fds%2Fundated%2Fsearch%3Ff_query%3D%25E5%25BA%2583%25E5%25B3%25B6%25E7%259C%258C"
             target="_blank"
             rel="sponsored noopener noreferrer"
             className="inline-flex items-center justify-center bg-white text-amber-900 font-bold px-8 py-3 rounded-xl shadow-lg hover:bg-amber-50 transition transform hover:-translate-y-0.5 text-sm sm:text-base"
@@ -479,11 +479,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">宮島ひとり旅・瀬戸内海絶景おこもり：厳島神社大鳥居ビュー・宮島潮湯温泉・名物穴子飯！神の島で心洗われる厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「宮島ひとり旅・瀬戸内海絶景おこもり：厳島神社大鳥居ビュー・宮島潮湯温泉・名物穴子飯！神の島で心洗われる厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「宮島ひとり旅・瀬戸内海絶景おこもり：厳島神社大鳥居ビュー・宮島潮湯温泉・名物穴子飯！神の島で心洗われる厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -547,7 +547,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/6271/6271_room.jpg" alt="宮島潮湯温泉　錦水館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★2025年、温泉付スイートOPEN！●ルーフトップテラス・半露天風呂付客室・お部屋食プランも人気</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 広島県廿日市市宮島町1133 ／ 最寄り駅：宮島口 ／ 交通案内：宮島口駅よりフェリーで約10分。宮島桟橋より徒歩5分</p>
+                  <p><strong>【所在地・アクセス】</strong>広島県廿日市市宮島町1133 ／ 最寄り駅：宮島口 ／ 交通案内：宮島口駅よりフェリーで約10分。宮島桟橋より徒歩5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り：4台。島内は交通規制がございますので、できるだけ宮島口の有料駐車場をご利用下さい。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.75 ／ 立地 ★4.77 ／ 部屋 ★4.63 ／ 設備 ★4.68 ／ 風呂 ★4.43 ／ 食事 ★4.67</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -569,7 +569,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/145390/145390_kan.jpg" alt="みやじまの宿　岩惣 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>創業以来160年もの歴史と伝統を誇る、多くの著名人に愛された老舗旅館。自慢の温泉とお料理を心ゆくまで</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 広島県廿日市市宮島町もみじ谷 ／ 最寄り駅：主要駅 ／ 交通案内：宮島桟橋より徒歩にて約１５分。無料送迎有り（要ご乗船時連絡）</p>
+                  <p><strong>【所在地・アクセス】</strong>広島県廿日市市宮島町もみじ谷 ／ 交通案内：宮島桟橋より徒歩にて約１５分。無料送迎有り（要ご乗船時連絡）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５台　無料　要予約</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.78 ／ 立地 ★4.65 ／ 部屋 ★4.57 ／ 設備 ★4.43 ／ 風呂 ★4.7 ／ 食事 ★4.82</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -591,7 +591,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/17769/17769_sgl.jpg" alt="宮島コーラルホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>宮島フェリー乗り場まで徒歩約30秒！JR宮島口駅から徒歩５分！無料駐車場完備</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 広島県廿日市市宮島口1-9-8 ／ 最寄り駅：宮島口 ／ 交通案内：ＪＲ宮島口駅下車　徒歩5分・広島電鉄宮島口駅下車　徒歩３分</p>
+                  <p><strong>【所在地・アクセス】</strong>広島県廿日市市宮島口1-9-8 ／ 最寄り駅：宮島口 ／ 交通案内：ＪＲ宮島口駅下車　徒歩5分・広島電鉄宮島口駅下車　徒歩３分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　55台　到着日の15時〜出立日の正午まで無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.26 ／ 立地 ★4.4 ／ 部屋 ★4.21 ／ 設備 ★4.12 ／ 風呂 ★4.06 ／ 食事 ★4.29</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

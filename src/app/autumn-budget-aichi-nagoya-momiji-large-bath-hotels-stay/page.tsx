@@ -317,11 +317,11 @@ export default function NagoyaBudgetAutumnPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋の名古屋×格安：東山動植物園の紅葉ライトアップと名古屋めし！大浴場付き1泊3,000円台〜のコスパ最強ホテル5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「秋の名古屋×格安：東山動植物園の紅葉ライトアップと名古屋めし！大浴場付き1泊3,000円台〜のコスパ最強ホテル5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「秋の名古屋×格安：東山動植物園の紅葉ライトアップと名古屋めし！大浴場付き1泊3,000円台〜のコスパ最強ホテル5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -403,7 +403,7 @@ export default function NagoyaBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/622/622_bt.jpg" alt="─都心の天然温泉─　名古屋クラウンホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【楽天トラベル シルバーアワード2025受賞】伏見駅徒歩約5分！天然温泉×名古屋めしバイキング</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛知県名古屋市中区栄1-8-33 ／ 最寄り駅：名古屋 ／ 交通案内：地下鉄（東山線・鶴舞線）「伏見駅」６番出口より徒歩約５分。ＪＲ「名古屋駅」より車で約５分・徒歩約２０分。</p>
+                  <p><strong>【所在地・アクセス】</strong>愛知県名古屋市中区栄1-8-33 ／ 最寄り駅：名古屋 ／ 交通案内：地下鉄（東山線・鶴舞線）「伏見駅」６番出口より徒歩約５分。ＪＲ「名古屋駅」より車で約５分・徒歩約２０分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>タワー式（車高155cm・タイヤ幅175cm以下）約40台　1泊1200円（15時~翌10時）先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -425,7 +425,7 @@ export default function NagoyaBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/142606/142606_kya.jpg" alt="ＡＢホテル名古屋栄 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>繁華街まで徒歩4分の好立地に和洋バイキング無料朝食・男女別浴場完備・ネット接続無料</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛知県名古屋市中区栄5-3-5 ／ 最寄り駅：栄（愛知） ／ 交通案内：地下鉄東山線・名城線　栄駅１３番出口より徒歩６分、地下鉄名城線　矢場町駅１番出口より徒歩５分　　繁華街まで徒歩圏内</p>
+                  <p><strong>【所在地・アクセス】</strong>愛知県名古屋市中区栄5-3-5 ／ 最寄り駅：栄（愛知） ／ 交通案内：地下鉄東山線・名城線　栄駅１３番出口より徒歩６分、地下鉄名城線　矢場町駅１番出口より徒歩５分　　繁華街まで徒歩圏内</p>
                   <p><strong>【駐車場・マイカー利用】</strong>1300円（税込）/泊15：00〜翌10：00　提携駐車場『栄Mパーキング』　※出し入別料金</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.11 ／ 立地 ★4.04 ／ 部屋 ★4.04 ／ 設備 ★4 ／ 風呂 ★4.05</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -447,7 +447,7 @@ export default function NagoyaBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/180672/180672.jpg" alt="グリーンリッチホテル名古屋錦　人工温泉・二股湯の華 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>■ＪＲ名古屋駅から車で１０分■繁華街錦町・栄町も徒歩圏内■ 男女別大浴場完備■</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛知県名古屋市中区錦2丁目7番4号 ／ 最寄り駅：名古屋 ／ 交通案内：名古屋駅より車で１０分■丸の内駅から徒歩１分・地下鉄伏見駅から徒歩４分■丸の内ＩＣより車で５分■</p>
+                  <p><strong>【所在地・アクセス】</strong>愛知県名古屋市中区錦2丁目7番4号 ／ 最寄り駅：名古屋 ／ 交通案内：名古屋駅より車で１０分■丸の内駅から徒歩１分・地下鉄伏見駅から徒歩４分■丸の内ＩＣより車で５分■</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　4台　２０００円（税込み／泊）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.08 ／ 立地 ★4.05 ／ 部屋 ★4.16 ／ 設備 ★4.08 ／ 風呂 ★3.98 ／ 食事 ★4.01</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -469,7 +469,7 @@ export default function NagoyaBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/166452/166452_kan1.jpg" alt="ホテル・アンドルームス名古屋栄 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【男女露天風呂付大浴場あり＆ベーカリーカフェ併設】久屋大通駅より徒歩５分！男性にはサウナも☆</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛知県名古屋市中区丸の内三丁目6-8 ／ 最寄り駅：久屋大通 ／ 交通案内：名古屋市営地下鉄名城線・桜通線「久屋大通駅」２A出口より徒歩５分</p>
+                  <p><strong>【所在地・アクセス】</strong>愛知県名古屋市中区丸の内三丁目6-8 ／ 最寄り駅：久屋大通 ／ 交通案内：名古屋市営地下鉄名城線・桜通線「久屋大通駅」２A出口より徒歩５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.21 ／ 立地 ★4.11 ／ 部屋 ★4.22 ／ 設備 ★4.18 ／ 風呂 ★4.16 ／ 食事 ★4.3</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -491,7 +491,7 @@ export default function NagoyaBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/70971/70971_yo.jpg" alt="ホテルルートイン名古屋栄 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>VODルームシアター視聴可能(一般映画のみ：コンフォートルームのみ無料特典）</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛知県名古屋市中区栄4-7-12 ／ 最寄り駅：栄（愛知） ／ 交通案内：地下鉄東山線　栄駅１２番出口より徒歩約10分／名古屋高速　東新町インターより車で約２分 　新栄・鶴舞からも至近！</p>
+                  <p><strong>【所在地・アクセス】</strong>愛知県名古屋市中区栄4-7-12 ／ 最寄り駅：栄（愛知） ／ 交通案内：地下鉄東山線　栄駅１２番出口より徒歩約10分／名古屋高速　東新町インターより車で約２分 　新栄・鶴舞からも至近！</p>
                   <p><strong>【駐車場・マイカー利用】</strong>予約は承っておりません。先着順でのご案内です。　タワー型立体駐車場（制限あり）有料：1500円/泊</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★4.01 ／ 部屋 ★4.16 ／ 設備 ★4.12 ／ 風呂 ★4.16</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

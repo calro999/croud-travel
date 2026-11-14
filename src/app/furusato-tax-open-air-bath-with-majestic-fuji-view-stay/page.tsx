@@ -504,11 +504,11 @@ export default function FurusatoFeaturePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">富士山ビュー客室露天風呂宿×ふるさと納税厳選ガイド河口湖・日本平・箱根芦ノ湖の霊峰一望リゾート：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「富士山ビュー客室露天風呂宿×ふるさと納税厳選ガイド河口湖・日本平・箱根芦ノ湖の霊峰一望リゾート」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「富士山ビュー客室露天風呂宿×ふるさと納税厳選ガイド河口湖・日本平・箱根芦ノ湖の霊峰一望リゾート」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -599,7 +599,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2946/2946_wa.jpg" alt="富士河口湖温泉　富士山の見える温泉旅館　大池ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>山梨 富士山 河口湖 露天風呂 温泉 バイキング ブッフェ 温泉　貸切露天風呂</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県南都留郡富士河口湖町船津6713-103 ／ 最寄り駅：河口湖 ／ 交通案内：駅から無料送迎有■駐車場無料■河口湖駅から車で4分■富士急から車で7分河口湖ICから車で12分新宿駅からバスで約120分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県南都留郡富士河口湖町船津6713-103 ／ 最寄り駅：河口湖 ／ 交通案内：駅から無料送迎有■駐車場無料■河口湖駅から車で4分■富士急から車で7分河口湖ICから車で12分新宿駅からバスで約120分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場50台・河口湖駅からの無料送迎有・バイク専用の駐車場無・富士急ハイランドまで車で7分</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.5 ／ 立地 ★4.4 ／ 部屋 ★4.23 ／ 設備 ★4.29 ／ 風呂 ★4.31 ／ 食事 ★4.45</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -621,7 +621,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31787/31787_w.jpg" alt="河口湖温泉　山岸旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>河口湖駅から徒歩７分好立地の宿。遊覧船やロープウエイは目の前。富士急ハイランドは車で１０分。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県南都留郡富士河口湖町船津4030-1 ／ 最寄り駅：河口湖 ／ 交通案内：河口湖駅より徒歩7分（送迎有・駅到着時連絡）・河口湖インターチェンジより約３Ｋｍ車で７分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県南都留郡富士河口湖町船津4030-1 ／ 最寄り駅：河口湖 ／ 交通案内：河口湖駅より徒歩7分（送迎有・駅到着時連絡）・河口湖インターチェンジより約３Ｋｍ車で７分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　40台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -643,7 +643,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/40916/40916_hu.jpg" alt="山梨県の温泉旅館　下部温泉郷　下部ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>泉質の異なる「三種類の源泉」を、七つの露天風呂を含む大浴場など「十二の湯舟」でご堪能いただけます</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県南巨摩郡身延町上之平1900 ／ 最寄り駅：下部温泉 ／ 交通案内：ＪＲ身延線下部温泉駅徒歩１分／車：中部横断道下部温泉早川ＩＣより５分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県南巨摩郡身延町上之平1900 ／ 最寄り駅：下部温泉 ／ 交通案内：ＪＲ身延線下部温泉駅徒歩１分／車：中部横断道下部温泉早川ＩＣより５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.58 ／ 立地 ★4.31 ／ 部屋 ★4.27 ／ 設備 ★4.27 ／ 風呂 ★4.54 ／ 食事 ★4.45</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -665,7 +665,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/17888/17888_room.jpg" alt="ホテルプリヴェ静岡 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【2020年9月グランドオープン】JR静岡駅南口から徒歩1分！駅近唯一の最上階スカイスパ完備！！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県静岡市駿河区南町8-5 ／ 最寄り駅：静岡 ／ 交通案内：ＪＲ静岡駅より徒歩1分／東名静岡ＩＣより車で１０分　日本平久能山スマートICより約１２分。</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県静岡市駿河区南町8-5 ／ 最寄り駅：静岡 ／ 交通案内：ＪＲ静岡駅より徒歩1分／東名静岡ＩＣより車で１０分　日本平久能山スマートICより約１２分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>20台有。1,430円（税込／泊）・先着順（予約不可）※満車の場合は、周辺パーキングご案内</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -687,7 +687,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/151426/151426.jpg" alt="ホテルルートイン清水インター 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>独立型デスクとソファで機能的な客室■人工温泉大浴場・ランドリー完備■朝食バイキング・駐車場無料</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県静岡市清水区八坂東1-20-20 ／ 最寄り駅：清水（静岡） ／ 交通案内：東名高速道路『清水インター』より車で1分／ＪＲ東海道線『清水駅』より車で10分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県静岡市清水区八坂東1-20-20 ／ 最寄り駅：清水（静岡） ／ 交通案内：東名高速道路『清水インター』より車で1分／ＪＲ東海道線『清水駅』より車で10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場128台（敷地内104台、第2駐車場24台）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -709,7 +709,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/39496/39496_room.jpg" alt="強羅温泉　自家源泉掛け流しの宿　強羅環翠楼 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>箱根強羅の自然に包まれた14室の和室。自家源泉の湯、旬の素材を活かした会席料理に癒される贅沢な時間</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県足柄下郡箱根町強羅1300-20 ／ 最寄り駅：強羅 ／ 交通案内：箱根登山鉄道　強羅駅より徒歩３分</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県足柄下郡箱根町強羅1300-20 ／ 最寄り駅：強羅 ／ 交通案内：箱根登山鉄道　強羅駅より徒歩３分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

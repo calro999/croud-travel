@@ -448,7 +448,7 @@ export default function WakayamaKoyasanShukuboWinterPage() {
             <span className="text-indigo-900 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Selected Accommodations</span>
             <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の高野山で心身を清める厳選宿坊名宿5選</h2>
             <p className="text-stone-600 text-sm sm:text-base mt-1">
-              楽天トラベル公式APIより取得した最新データに基づく、由緒・精進料理・暖房設備が高評価の宿。
+              施設スペックと宿泊者評価に基づく、由緒・精進料理・暖房設備が高評価の宿。
             </p>
           </div>
 

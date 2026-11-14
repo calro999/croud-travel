@@ -460,11 +460,11 @@ export default function FurusatoFeaturePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">クラフトシードル＆ご当地ホップ醸造宿×ふるさと納税厳選ガイド弘前・遠野・南信州飯田の果実酒ステイ：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「クラフトシードル＆ご当地ホップ醸造宿×ふるさと納税厳選ガイド弘前・遠野・南信州飯田の果実酒ステイ」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「クラフトシードル＆ご当地ホップ醸造宿×ふるさと納税厳選ガイド弘前・遠野・南信州飯田の果実酒ステイ」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -520,7 +520,7 @@ export default function FurusatoFeaturePage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 高遠温泉　高遠さくらホテル</td>
-                <td className="p-3 text-stone-600">青森県</td>
+                <td className="p-3 text-stone-600">長野県 伊那市高遠町勝間217</td>
                 <td className="p-3 text-stone-600">ＪＲ飯田線 伊那市駅より車で２５分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.34（420件）</td>
@@ -546,7 +546,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/856/856_si.jpg" alt="スマイルホテル青森 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>官庁街に隣接しビジネスに最適な立地・繁華街もすぐ近くです！インターネット無料で接続できます！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 青森県青森市本町2-4-7 ／ 最寄り駅：青森 ／ 交通案内：JR・青い森鉄道青森駅から徒歩13分/JR新青森駅から車で約15分/青森中央I.C.から車10分/青森空港から車30分</p>
+                  <p><strong>【所在地・アクセス】</strong>青森県青森市本町2-4-7 ／ 最寄り駅：青森 ／ 交通案内：JR・青い森鉄道青森駅から徒歩13分/JR新青森駅から車で約15分/青森中央I.C.から車10分/青森空港から車30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場あり1泊（15時〜翌10時） 600円〜、到着順。■バイク：不可。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.87 ／ 立地 ★3.72 ／ 部屋 ★3.66 ／ 設備 ★3.67 ／ 風呂 ★3.69 ／ 食事 ★3.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -568,7 +568,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/56915/56915_wa.jpg" alt="花巻温泉郷　台温泉　いやしろの湯　ホテル三右ェ門 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>閑静で落ち着いた昔変らぬ宿心。移り変わる風情とともに、台温泉で過ごすお時間をごゆるりとお寛ぎ下さい</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岩手県花巻市台２－４５ ／ 最寄り駅：花巻 ／ 交通案内：ＪＲ東北本線　花巻駅より車で１５分／東北新幹線　新花巻駅より車で２０分／花巻空港より車で１５分</p>
+                  <p><strong>【所在地・アクセス】</strong>岩手県花巻市台２－４５ ／ 最寄り駅：花巻 ／ 交通案内：ＪＲ東北本線　花巻駅より車で１５分／東北新幹線　新花巻駅より車で２０分／花巻空港より車で１５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.04 ／ 立地 ★3.83 ／ 部屋 ★3.89 ／ 設備 ★3.74 ／ 風呂 ★4.03 ／ 食事 ★4.11</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -590,7 +590,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/167781/167781.jpg" alt="ホテル狩野 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>花巻駅前のホテル狩野。女将手作りの日替り料理と24時間入浴OKのミネラル泉が好評。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岩手県花巻市大通り1-7-41 ／ 最寄り駅：花巻 ／ 交通案内：ＪＲ花巻駅より徒歩30秒</p>
+                  <p><strong>【所在地・アクセス】</strong>岩手県花巻市大通り1-7-41 ／ 最寄り駅：花巻 ／ 交通案内：ＪＲ花巻駅より徒歩30秒</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -612,7 +612,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/13482/13482_w.jpg" alt="花巻温泉　佳松園 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>とろとろの湯と心に残るおもてなし。特別な日を佳松園で過ごす愉しみ。花巻ICよりわずか5分の別世界。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岩手県花巻市湯本第1地割125-2 ／ 最寄り駅：新花巻 ／ 交通案内：花巻IC：右折後直進4km（5分）、JR新花巻駅・JR花巻駅：無料送迎バス20分（定時運行・完全予約制）</p>
+                  <p><strong>【所在地・アクセス】</strong>岩手県花巻市湯本第1地割125-2 ／ 最寄り駅：新花巻 ／ 交通案内：花巻IC：右折後直進4km（5分）、JR新花巻駅・JR花巻駅：無料送迎バス20分（定時運行・完全予約制）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.74 ／ 立地 ★4.61 ／ 部屋 ★4.64 ／ 設備 ★4.68 ／ 風呂 ★4.79 ／ 食事 ★4.72</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -633,8 +633,8 @@ export default function FurusatoFeaturePage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/39539/39539_room.jpg" alt="高遠温泉　高遠さくらホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「クラフトシードル＆ご当地ホップ醸造宿×ふるさと納税厳選ガイド弘前・遠野・南信州飯田の果実酒ステイ」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ飯田線 伊那市駅より車で２５分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>■pH9.7トロトロ肌触りの天然温泉／露天風呂＆貸切風呂／城址公園・高遠湖望む全室レイクビュー■</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：ＪＲ飯田線 伊那市駅より車で２５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

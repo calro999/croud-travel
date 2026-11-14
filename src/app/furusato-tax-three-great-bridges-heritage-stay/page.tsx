@@ -326,11 +326,11 @@ export default function FurusatoUpgradedPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大名橋の歴史美と城下町名門宿×ふるさと納税厳選ガイド日本橋・錦帯橋・長崎眼鏡橋：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本三大名橋の歴史美と城下町名門宿×ふるさと納税厳選ガイド日本橋・錦帯橋・長崎眼鏡橋」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「日本三大名橋の歴史美と城下町名門宿×ふるさと納税厳選ガイド日本橋・錦帯橋・長崎眼鏡橋」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -393,8 +393,8 @@ export default function FurusatoUpgradedPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/184009/184009.jpg" alt="マンダリン　オリエンタル　東京 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「日本三大名橋の歴史美と城下町名門宿×ふるさと納税厳選ガイド日本橋・錦帯橋・長崎眼鏡橋」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 東京都中央区日本橋室町2-1-1 ／ 最寄り駅：三越前 ／ 交通案内：東京メトロ　銀座線・半蔵門線「三越前」駅地下通路直結 / JR　総武本線　「新日本橋」駅地下通路直結　徒歩3分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>マンダリン オリエンタル 東京（東京都中央区日本橋室町2-1-1）は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>東京都中央区日本橋室町2-1-1 ／ 最寄り駅：三越前 ／ 交通案内：東京メトロ　銀座線・半蔵門線「三越前」駅地下通路直結 / JR　総武本線　「新日本橋」駅地下通路直結　徒歩3分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>バレーパーキング　6,500円（税込み／泊／24時間）　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -415,8 +415,8 @@ export default function FurusatoUpgradedPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/11295/11295_war.jpg" alt="錦帯橋温泉　岩国国際観光ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「日本三大名橋の歴史美と城下町名門宿×ふるさと納税厳選ガイド日本橋・錦帯橋・長崎眼鏡橋」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山口県岩国市岩国1-1-7 ／ 最寄り駅：新岩国 ／ 交通案内：JR山陽新幹線新岩国駅より車で10分 山陽自動車道岩国ICより車で8分 岩国錦帯橋空港より車で15分、宮島より車で40分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>錦帯橋温泉 岩国国際観光ホテル（山口県岩国市岩国1-1-7）は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>山口県岩国市岩国1-1-7 ／ 最寄り駅：新岩国 ／ 交通案内：JR山陽新幹線新岩国駅より車で10分 山陽自動車道岩国ICより車で8分 岩国錦帯橋空港より車で15分、宮島より車で40分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　無料　先着順　★ただし万一満車の場合、駐車の事は必ず責任持って対応いたします★</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -437,8 +437,8 @@ export default function FurusatoUpgradedPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/15449/15449_room.jpg" alt="にっしょうかん別邸紅葉亭 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「日本三大名橋の歴史美と城下町名門宿×ふるさと納税厳選ガイド日本橋・錦帯橋・長崎眼鏡橋」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長崎県長崎市立山5-13-65 ／ 最寄り駅：長崎（長崎） ／ 交通案内：ＪＲ長崎本線長崎駅から車で15分　＜ＪＲ長崎駅西口より定時無料送迎バスあり＞　長崎自動車道『多良見IC』より約20分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>にっしょうかん別邸紅葉亭（長崎県長崎市立山5-13-65）は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>長崎県長崎市立山5-13-65 ／ 最寄り駅：長崎（長崎） ／ 交通案内：ＪＲ長崎本線長崎駅から車で15分　＜ＪＲ長崎駅西口より定時無料送迎バスあり＞　長崎自動車道『多良見IC』より約20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>20台/無料　先着順　（長崎駅より、無料送迎バスあり）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -77,7 +77,7 @@ export default function ArticlePage() {
             群馬・四万温泉ひとり旅＆四万ブルーおこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「四万温泉ひとり旅・四万ブルーおこもり」四万川清流露天・四万の病を癒す霊泉・上州牛会席！大自然に抱かれる奥群馬の秘湯厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               群馬県北西部の山深く、四万川の最上流に位置する四万温泉。飲めば胃腸によく、入れば肌によいとされる名湯は国民保養温泉地第1号に指定された折り紙付き。エメラルドブルーに輝く四万湖や奥四万湖の絶景とともに、豊かな自然に抱かれたソロ滞在が叶います。
             </p>
             <p>
-              アットホームなもてなしで一人旅歓迎の温泉宿から、川のせせらぎを間近に感じる料理自慢の隠れ宿まで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              アットホームなもてなしで一人旅歓迎の温泉宿から、川のせせらぎを間近に感じる料理自慢の隠れ宿まで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -418,11 +418,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">四万温泉ひとり旅・四万ブルーおこもり：四万川清流露天・四万の病を癒す霊泉・上州牛会席！大自然に抱かれる奥群馬の秘湯厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「四万温泉ひとり旅・四万ブルーおこもり：四万川清流露天・四万の病を癒す霊泉・上州牛会席！大自然に抱かれる奥群馬の秘湯厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「四万温泉ひとり旅・四万ブルーおこもり：四万川清流露天・四万の病を癒す霊泉・上州牛会席！大自然に抱かれる奥群馬の秘湯厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -486,7 +486,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/13902/13902_wa.jpg" alt="四万温泉　あやめや旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>☆お子様の温泉デビューもお勧め！もう一度「ただいま」したくなる手作りのおもてなし</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県吾妻郡中之条町四万4238-45 ／ 最寄り駅：中之条 ／ 交通案内：ＪＲ吾妻線中之条駅</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県吾妻郡中之条町四万4238-45 ／ 最寄り駅：中之条 ／ 交通案内：ＪＲ吾妻線中之条駅</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（無料）　12台　先着順   ご利用のお客様は、四万温泉入り口で事前にお電話お願いいたします。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.77 ／ 立地 ★4.35 ／ 部屋 ★4.44 ／ 設備 ★4.2 ／ 風呂 ★4.49 ／ 食事 ★4.76</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -508,7 +508,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/193286/193286.jpg" alt="叶　ＫＡＮＯＵＹＡ　四万温泉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全客室露天風呂付き、川に面したオーベルジュホテル</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県吾妻郡中之条町四万4139-12 ／ 最寄り駅：中之条 ／ 交通案内：ＪＲ吾妻線　中之条駅／四万温泉行バス40分→終点下車徒歩15分（終点バス停まで送迎あり要予約）</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県吾妻郡中之条町四万4139-12 ／ 最寄り駅：中之条 ／ 交通案内：ＪＲ吾妻線　中之条駅／四万温泉行バス40分→終点下車徒歩15分（終点バス停まで送迎あり要予約）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り 無料 先着順 　5台→叶前、6台以上→ルルド駐車場</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.51 ／ 立地 ★4.43 ／ 部屋 ★4.51 ／ 設備 ★4.4 ／ 風呂 ★4.63 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -530,7 +530,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/129668/129668_room.jpg" alt="四万温泉　料理旅館くれない 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【愛郷ぐんま全国割対象宿】テレビでお馴染の四万温泉“湯蒸し鰻重”＆源泉かけ流しが好評の宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県吾妻郡中之条町四万4143-2 ／ 最寄り駅：中之条 ／ 交通案内：中之条駅よりバスにて４０分、バス下車後徒歩２分</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県吾妻郡中之条町四万4143-2 ／ 最寄り駅：中之条 ／ 交通案内：中之条駅よりバスにて４０分、バス下車後徒歩２分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

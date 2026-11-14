@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">宮城・鳴子温泉郷＆鳴子峡：日本屈指の多彩な泉質・紅葉深雪橋＆栗だんご宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「宮城・鳴子温泉郷＆鳴子峡：日本屈指の多彩な泉質・紅葉深雪橋＆栗だんご宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「宮城・鳴子温泉郷＆鳴子峡：日本屈指の多彩な泉質・紅葉深雪橋＆栗だんご宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -270,7 +270,7 @@ export default function MicroTouristHubPage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 鳴子温泉郷　極上の貸切露天風呂　旅館大沼</td>
-                <td className="p-3 text-stone-600">宮城県</td>
+                <td className="p-3 text-stone-600">宮城県大崎市鳴子温泉赤湯34</td>
                 <td className="p-3 text-stone-600">東北新幹線『古川駅』よりＪＲ陸羽東線に乗り換え、『鳴子御殿湯駅』下車、</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（614件）</td>
@@ -323,7 +323,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/109391/109391_hya.jpg" alt="旅館　なんぶ屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>岩、ひのき、寝湯、露天風呂等あり。泉質は美肌で話題の重曹泉。食事は、和食中心の創作料理。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮城県大崎市鳴子温泉鷲の巣90-18 ／ 最寄り駅：鳴子御殿湯 ／ 交通案内：鳴子御殿湯駅から徒歩で３分</p>
+                  <p><strong>【所在地・アクセス】</strong>宮城県大崎市鳴子温泉鷲の巣90-18 ／ 最寄り駅：鳴子御殿湯 ／ 交通案内：鳴子御殿湯駅から徒歩で３分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>施設前に無料駐車場あり。40台まで。予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/19373/19373_heya.jpg" alt="鳴子・中山平温泉　旅館　三之亟湯（さんのじょうゆ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>鳴子温泉郷のひとつ「中山平温泉」の小さな宿。24時間入れる源泉かけ流しの湯で心身を癒やしませんか</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮城県大崎市鳴子温泉星沼77-53 ／ 最寄り駅：中山平温泉 ／ 交通案内：JR陸羽東線「中山平温泉駅」より徒歩約5分／東北自動車道・古川ICより約43分</p>
+                  <p><strong>【所在地・アクセス】</strong>宮城県大崎市鳴子温泉星沼77-53 ／ 最寄り駅：中山平温泉 ／ 交通案内：JR陸羽東線「中山平温泉駅」より徒歩約5分／東北自動車道・古川ICより約43分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料　先着順  バイク用車庫有り 無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -366,8 +366,8 @@ export default function MicroTouristHubPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/106139/106139.jpg" alt="鳴子温泉郷　極上の貸切露天風呂　旅館大沼 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「宮城・鳴子温泉郷＆鳴子峡（日本屈指の多彩な泉質・紅葉深雪橋＆栗だんご宿 厳選ガイド）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：東北新幹線『古川駅』よりＪＲ陸羽東線に乗り換え、『鳴子御殿湯駅』下車、徒歩５分。鳴子温泉からはタクシーで約5分。</p>
+                  <p><strong>【宿の特徴・魅力】</strong>美肌湯が自慢の宮城・東鳴子温泉の秘湯宿。源泉かけ流しの天然温泉を使用した大浴場・家族風呂をご堪能。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：東北新幹線『古川駅』よりＪＲ陸羽東線に乗り換え、『鳴子御殿湯駅』下車、徒歩５分。鳴子温泉からはタクシーで約5分。</p>
                   <p>【宮城・鳴子温泉郷＆鳴子峡：日本屈指の多彩な泉質・紅葉】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/134823/134823_room.jpg" alt="赤倉温泉　みどりや旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>100％源泉掛け流しの天然温泉と創作料理が楽しめるやすらぎの宿。全室川面でゆっくり寛げます</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県最上郡最上町富沢847 ／ 最寄り駅：赤倉温泉 ／ 交通案内：JR陸羽東線赤倉温泉駅下車、車で5分。東北自動車道古川ICより車で50分</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県最上郡最上町富沢847 ／ 最寄り駅：赤倉温泉 ／ 交通案内：JR陸羽東線赤倉温泉駅下車、車で5分。東北自動車道古川ICより車で50分</p>
                   <p>【宮城・鳴子温泉郷＆鳴子峡：日本屈指の多彩な泉質・紅葉】 <strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/111169/111169_kya.jpg" alt="鳴子温泉　和みの湯　民宿旅館　二宮荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>自然に囲まれた和風の宿。自家産ひとめぼれの御飯と家庭菜園で育てた有機野菜が主役の御料理をどうぞ！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮城県大崎市鳴子温泉136 ／ 最寄り駅：鳴子御殿湯 ／ 交通案内：鳴子御殿湯駅からお車で５分</p>
+                  <p><strong>【所在地・アクセス】</strong>宮城県大崎市鳴子温泉136 ／ 最寄り駅：鳴子御殿湯 ／ 交通案内：鳴子御殿湯駅からお車で５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31108/31108_h.jpg" alt="鳴子温泉　鳴子旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>家庭的な雰囲気でのんびりくつろげる様に心がけている小さな温泉旅館</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮城県大崎市鳴子温泉車湯54-11 ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ陸羽東線　鳴子温泉駅より徒歩１７分位／東北道古川ＩＣより国道４７号線（約３０ｋｍ）</p>
+                  <p><strong>【所在地・アクセス】</strong>宮城県大崎市鳴子温泉車湯54-11 ／ 交通案内：ＪＲ陸羽東線　鳴子温泉駅より徒歩１７分位／東北道古川ＩＣより国道４７号線（約３０ｋｍ）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　２０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

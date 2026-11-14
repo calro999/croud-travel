@@ -504,11 +504,11 @@ export default function FurusatoFeaturePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">古民家かまど炊きご飯＆囲炉裏郷土料理の宿×ふるさと納税厳選ガイド白川郷・遠野・丹波篠山のおばあちゃん家ステイ：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「古民家かまど炊きご飯＆囲炉裏郷土料理の宿×ふるさと納税厳選ガイド白川郷・遠野・丹波篠山のおばあちゃん家ステイ」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「古民家かまど炊きご飯＆囲炉裏郷土料理の宿×ふるさと納税厳選ガイド白川郷・遠野・丹波篠山のおばあちゃん家ステイ」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -599,7 +599,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4992/4992_heya.jpg" alt="飛騨高山温泉　飛騨の里　旅館　むら山 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>飛騨高山温泉◎カップル・ファミリーにうれしい無料貸切風呂あり♪個室食事処も★駐車場無料♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岐阜県高山市西之一色町3-829 ／ 最寄り駅：高山 ／ 交通案内：高山駅・濃飛バスセンターよりさるぼぼバスにて約１０分（飛騨の里下下車）徒歩１分。</p>
+                  <p><strong>【所在地・アクセス】</strong>岐阜県高山市西之一色町3-829 ／ 最寄り駅：高山 ／ 交通案内：高山駅・濃飛バスセンターよりさるぼぼバスにて約１０分（飛騨の里下下車）徒歩１分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　12台　無料　駐輪OK！</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.66 ／ 立地 ★4.24 ／ 部屋 ★4.51 ／ 設備 ★4.46 ／ 風呂 ★4.45 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -621,7 +621,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/105996/105996.jpg" alt="料理旅館　備前屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>一期一会の気持ちを込めて郡上の季節をお届けします。明治創業、日本庭園には四季の移り変わりが見られます</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岐阜県郡上市八幡町柳町264 ／ 最寄り駅：郡上八幡 ／ 交通案内：長良川鉄道　郡上八幡駅より岐阜バス「城下町プラザ」下車３分</p>
+                  <p><strong>【所在地・アクセス】</strong>岐阜県郡上市八幡町柳町264 ／ 最寄り駅：郡上八幡 ／ 交通案内：長良川鉄道　郡上八幡駅より岐阜バス「城下町プラザ」下車３分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -643,7 +643,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/106058/106058_ka1.jpg" alt="日本の宿　ひだ高山　倭乃里 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全室スイートのやすらぎの一室　絶景、美食、清流の宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岐阜県高山市一之宮町1682 ／ 最寄り駅：高山 ／ 交通案内：高山駅よりお車で20分　（高山駅⇔倭乃里送迎あり／7日前までの予約制）</p>
+                  <p><strong>【所在地・アクセス】</strong>岐阜県高山市一之宮町1682 ／ 最寄り駅：高山 ／ 交通案内：高山駅よりお車で20分　（高山駅⇔倭乃里送迎あり／7日前までの予約制）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　（10台／無料／予約不要）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -665,7 +665,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9536/9536_ky.jpg" alt="岩手　花巻温泉郷　鉛温泉　藤三旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2024年6月宮沢賢治をテーマにした「なめとこ山サウナ」がグランドオープン</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岩手県花巻市鉛中平75-1 ／ 最寄り駅：花巻 ／ 交通案内：新花巻駅より４０分・花巻駅より３０分（送迎バスあり、協力金：片道100円、予約必須）。花巻南ＩＣよりお車で２０分。</p>
+                  <p><strong>【所在地・アクセス】</strong>岩手県花巻市鉛中平75-1 ／ 最寄り駅：花巻 ／ 交通案内：新花巻駅より４０分・花巻駅より３０分（送迎バスあり、協力金：片道100円、予約必須）。花巻南ＩＣよりお車で２０分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　60台先着順無料　湯治部のご利用は第2駐車場をご利用ください</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.37 ／ 部屋 ★4.12 ／ 設備 ★4.11 ／ 風呂 ★4.64 ／ 食事 ★4.41</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -687,7 +687,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/56915/56915_wa.jpg" alt="花巻温泉郷　台温泉　いやしろの湯　ホテル三右ェ門 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>閑静で落ち着いた昔変らぬ宿心。移り変わる風情とともに、台温泉で過ごすお時間をごゆるりとお寛ぎ下さい</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岩手県花巻市台２－４５ ／ 最寄り駅：花巻 ／ 交通案内：ＪＲ東北本線　花巻駅より車で１５分／東北新幹線　新花巻駅より車で２０分／花巻空港より車で１５分</p>
+                  <p><strong>【所在地・アクセス】</strong>岩手県花巻市台２－４５ ／ 最寄り駅：花巻 ／ 交通案内：ＪＲ東北本線　花巻駅より車で１５分／東北新幹線　新花巻駅より車で２０分／花巻空港より車で１５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.04 ／ 立地 ★3.83 ／ 部屋 ★3.89 ／ 設備 ★3.74 ／ 風呂 ★4.03 ／ 食事 ★4.11</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -709,7 +709,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/196237/196237.jpg" alt="豆家 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>十件の文化財と灯る石庭に包まれ過ごす一棟宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県丹波篠山市立町15 ／ 最寄り駅：篠山口 ／ 交通案内：篠山口駅よりお車で約１３分、舞鶴若狭自動車道丹南篠山口ＩＣより約１１分</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県丹波篠山市立町15 ／ 最寄り駅：篠山口 ／ 交通案内：篠山口駅よりお車で約１３分、舞鶴若狭自動車道丹南篠山口ＩＣより約１１分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３台　無料　要予約</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

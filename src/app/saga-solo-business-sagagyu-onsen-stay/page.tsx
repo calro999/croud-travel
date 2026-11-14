@@ -78,7 +78,7 @@ export default function ArticlePage() {
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.12 更新</time>
           <span>執筆：旅宿クラウド ひとり旅・出張調査班</span>
-          <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式API提携</span>
+          <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">編集部が厳選</span>
         </div>
 
         {/* リード文 */}
@@ -90,7 +90,7 @@ export default function ArticlePage() {
             九州新幹線西九州ルートの開通や半導体関連産業の発展で注目を集める佐賀県。県庁所在地である佐賀市は、福岡・博多からのアクセスも極めて良く、出張や一人旅の拠点として高い利便性を誇ります。
           </p>
           <p>
-            佐賀城公園の美しい水辺と緑に囲まれた上質なシティホテルから、駅前直結で快適なワークスペースを備えるビジネスホテルまで、楽天トラベル公式APIより取得した最新の宿泊データとレビュー評価をもとに厳選紹介します。
+            佐賀城公園の美しい水辺と緑に囲まれた上質なシティホテルから、駅前直結で快適なワークスペースを備えるビジネスホテルまで、宿泊施設データより取得した最新の宿泊データとレビュー評価をもとに厳選紹介します。
           </p>
         </div>
       </header>
@@ -371,7 +371,7 @@ export default function ArticlePage() {
           <p className="text-sm text-amber-100 mb-6 max-w-2xl mx-auto">平日限定の一人旅割引や、早期割・直前割など、楽天トラベルならではの特典プランが多数用意されています。人気日程は早めの予約がおすすめです。
           </p>
           <a
-            href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2F"
+            href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fsearch.travel.rakuten.co.jp%2Fds%2Fundated%2Fsearch%3Ff_query%3D%25E4%25BD%2590%25E8%25B3%2580%25E7%259C%258C"
             target="_blank"
             rel="sponsored noopener noreferrer"
             className="inline-flex items-center justify-center bg-white text-amber-900 font-bold px-8 py-3 rounded-xl shadow-lg hover:bg-amber-50 transition transform hover:-translate-y-0.5 text-sm sm:text-base"
@@ -454,11 +454,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">佐賀出張・男一人旅：お濠の水辺ビュー・佐賀牛グルメ・駅前快適ビジネス！城下町の静けさで整う厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「佐賀出張・男一人旅：お濠の水辺ビュー・佐賀牛グルメ・駅前快適ビジネス！城下町の静けさで整う厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「佐賀出張・男一人旅：お濠の水辺ビュー・佐賀牛グルメ・駅前快適ビジネス！城下町の静けさで整う厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -540,7 +540,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5830/5830_twn.jpg" alt="ホテルニューオータニ佐賀 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>佐賀県唯一のシティホテル。歴史とモダンが調和する上質なひとときを。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 佐賀県佐賀市与賀町1-2 ／ 最寄り駅：佐賀 ／ 交通案内：JR佐賀駅より車にて8分、空港バス利用～県庁前バス停下車～徒歩にて約10分、佐賀空港より車にて20分</p>
+                  <p><strong>【所在地・アクセス】</strong>佐賀県佐賀市与賀町1-2 ／ 最寄り駅：佐賀 ／ 交通案内：JR佐賀駅より車にて8分、空港バス利用～県庁前バス停下車～徒歩にて約10分、佐賀空港より車にて20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.32 ／ 立地 ★4.26 ／ 部屋 ★4.11 ／ 設備 ★4.08 ／ 風呂 ★3.99 ／ 食事 ★4.38</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -562,7 +562,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/67850/67850_d.jpg" alt="コンフォートホテル佐賀 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>日替わりスムージーが人気★無料朝食サービスがイチオシのコスパ最強ホテル◆小学6年生まで添い寝無料</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 佐賀県佐賀市駅前中央1-14-38 ／ 最寄り駅：佐賀 ／ 交通案内：ＪＲ「佐賀駅」徒歩１分◆佐賀空港からバスにて佐賀駅バスセンター下車徒歩３分◆長崎自動車道「佐賀大和ＩＣ」約１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>佐賀県佐賀市駅前中央1-14-38 ／ 最寄り駅：佐賀 ／ 交通案内：ＪＲ「佐賀駅」徒歩１分◆佐賀空港からバスにて佐賀駅バスセンター下車徒歩３分◆長崎自動車道「佐賀大和ＩＣ」約１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場20台◆1泊800円・先着順◆入出庫不可◆幅2.0m　長さ5.0m　※大型不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.15 ／ 立地 ★4.15 ／ 部屋 ★4.13 ／ 設備 ★4.01 ／ 風呂 ★3.94 ／ 食事 ★4.07</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -584,7 +584,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/448/448_room.jpg" alt="アパホテル〈佐賀駅南口〉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>佐賀駅より徒歩3分。福岡空港より車で65分。博多駅より列車で約35分。北部九州の拠点に最適なホテル。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 佐賀県佐賀市駅前中央1-164 ／ 最寄り駅：佐賀 ／ 交通案内：ＪＲ佐賀駅南口から徒歩３分、 博多駅から列車で約35分、福岡空港からバスで65分</p>
+                  <p><strong>【所在地・アクセス】</strong>佐賀県佐賀市駅前中央1-164 ／ 最寄り駅：佐賀 ／ 交通案内：ＪＲ佐賀駅南口から徒歩３分、 博多駅から列車で約35分、福岡空港からバスで65分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>平面駐車場25台　1000円/1泊　大型車要予約　マイクロ2000円〜/1泊</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4 ／ 立地 ★4.03 ／ 部屋 ★3.98 ／ 設備 ★3.93 ／ 風呂 ★3.82 ／ 食事 ★3.98</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -606,7 +606,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5552/5552_heya.jpg" alt="武雄温泉　大正浪漫の宿　京都屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>古き良き大正時代を思わせる宿。無料モーニングサービスあり。25年6月男女大浴場にドライサウナ新設</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 佐賀県武雄市武雄町大字武雄7266-7 ／ 最寄り駅：武雄温泉 ／ 交通案内：JR佐世保線武雄温泉駅下車徒歩8分</p>
+                  <p><strong>【所在地・アクセス】</strong>佐賀県武雄市武雄町大字武雄7266-7 ／ 最寄り駅：武雄温泉 ／ 交通案内：JR佐世保線武雄温泉駅下車徒歩8分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　60台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -628,7 +628,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/6006/6006_heya.jpg" alt="竹崎かにと日本酒の宿　鶴荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>前菜ビュッフェと日本酒サーバー&amp;貸切サウナは竹崎では当館だけ！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 佐賀県藤津郡太良町大浦丙928 ／ 最寄り駅：肥前大浦 ／ 交通案内：ＪＲ長崎線肥前大浦駅下車無料送迎あり（要予約）／九州自動車道長崎武雄北方ＩＣ下車国道２０７を塩田、鹿島へ1時間</p>
+                  <p><strong>【所在地・アクセス】</strong>佐賀県藤津郡太良町大浦丙928 ／ 最寄り駅：肥前大浦 ／ 交通案内：ＪＲ長崎線肥前大浦駅下車無料送迎あり（要予約）／九州自動車道長崎武雄北方ＩＣ下車国道２０７を塩田、鹿島へ1時間</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　３０台(無料)　先着順＊満車の場合、近くの無料駐車場にご案内します</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.74 ／ 立地 ★4.46 ／ 部屋 ★4.66 ／ 設備 ★4.54 ／ 風呂 ★4.42 ／ 食事 ★4.72</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

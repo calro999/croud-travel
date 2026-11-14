@@ -77,7 +77,7 @@ export default function ArticlePage() {
             群馬・水上温泉郷ひとり旅＆谷川岳渓谷おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「水上温泉郷ひとり旅・谷川岳大自然おこもり」利根川源流の渓谷美・満天星空露天風呂・太宰治逗留の歴史！上越新幹線直通のリフレッシュ厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               水上温泉郷は、水上・谷川・湯檜曽・宝川・猿ヶ京など多様な温泉地からなる一大湯処。古くから越後と上州を結ぶ三国街道の要所として栄え、太宰治や若山牧水ら多くの文人が逗留しました。無色透明でさらりとした弱アルカリ性の石膏泉は、疲れた筋肉を優しくほぐし、一人旅の深いリフレッシュを約束します。
             </p>
             <p>
-              谷川岳の星空を眺める屋上露天が人気の宿から、文学の歴史薫る静かな老舗旅館まで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              谷川岳の星空を眺める屋上露天が人気の宿から、文学の歴史薫る静かな老舗旅館まで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -420,11 +420,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">水上温泉郷ひとり旅・谷川岳大自然おこもり：利根川源流の渓谷美・満天星空露天風呂・太宰治逗留の歴史！上越新幹線直通のリフレッシュ厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「水上温泉郷ひとり旅・谷川岳大自然おこもり：利根川源流の渓谷美・満天星空露天風呂・太宰治逗留の歴史！上越新幹線直通のリフレッシュ厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「水上温泉郷ひとり旅・谷川岳大自然おこもり：利根川源流の渓谷美・満天星空露天風呂・太宰治逗留の歴史！上越新幹線直通のリフレッシュ厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -488,7 +488,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2370/2370_heya.jpg" alt="水上温泉郷　湯檜曽温泉　天空の湯　なかや旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>4万組以上のママパパに選ばれた赤ちゃんファーストの温泉宿★安心の設備でママもほっと一息できる癒し時間</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県利根郡みなかみ町湯桧曽93 ／ 最寄り駅：上毛高原 ／ 交通案内：車：水上ICから約15分　車以外：上越線ゆびそ駅より徒歩5分、又は水上駅よりバス・タクシーで約10分</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県利根郡みなかみ町湯桧曽93 ／ 最寄り駅：上毛高原 ／ 交通案内：車：水上ICから約15分　車以外：上越線ゆびそ駅より徒歩5分、又は水上駅よりバス・タクシーで約10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　16台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.84 ／ 立地 ★4.6 ／ 部屋 ★4.62 ／ 設備 ★4.65 ／ 風呂 ★4.77 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -510,7 +510,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/6999/6999_room.jpg" alt="水上温泉郷　谷川温泉　旅館たにがわ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>太宰治ゆかりの宿【スタッフの笑顔と創作料理・おもてなしの心】・貸切露天風呂・足湯も大好評</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県利根郡みなかみ町谷川524-1 ／ 最寄り駅：水上 ／ 交通案内：ＪＲ水上駅より車で７分（送迎あり）、関越自動車道水上ＩＣより１５分</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県利根郡みなかみ町谷川524-1 ／ 最寄り駅：水上 ／ 交通案内：ＪＲ水上駅より車で７分（送迎あり）、関越自動車道水上ＩＣより１５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.53 ／ 立地 ★4.3 ／ 部屋 ★4.49 ／ 設備 ★4.37 ／ 風呂 ★4.37 ／ 食事 ★4.47</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -532,7 +532,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9340/9340_rote.jpg" alt="１１種類の貸切露天風呂　水上高原／奥利根温泉　ホテルサンバード 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>１１種の貸切露天風呂や滝を望む高台の露天風呂など湯めぐりを満喫！高原ＢＢＱプランも大人気！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県利根郡みなかみ町藤原4957-1 ／ 最寄り駅：水上 ／ 交通案内：車で関越自動車道・水上ＩＣから３０分・ＪＲで上越線　水上駅より　湯ノ小屋行きバスで藤原スキー場入口下車900M</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県利根郡みなかみ町藤原4957-1 ／ 最寄り駅：水上 ／ 交通案内：車で関越自動車道・水上ＩＣから３０分・ＪＲで上越線　水上駅より　湯ノ小屋行きバスで藤原スキー場入口下車900M</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り ３００台 無料 先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.03 ／ 立地 ★4.08 ／ 部屋 ★3.94 ／ 設備 ★3.75 ／ 風呂 ★4.19 ／ 食事 ★4.16</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -531,11 +531,11 @@ export default function AtamiIzuRainyDayIndoorMuseumSpaPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">熱海 雨の日の観光＆温泉：MOA美術館・起雲閣・昭和レトロ喫茶＆インフィニティ露天風呂：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「熱海 雨の日の観光＆温泉：MOA美術館・起雲閣・昭和レトロ喫茶＆インフィニティ露天風呂」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「熱海 雨の日の観光＆温泉：MOA美術館・起雲閣・昭和レトロ喫茶＆インフィニティ露天風呂」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -617,7 +617,7 @@ export default function AtamiIzuRainyDayIndoorMuseumSpaPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/15680/15680_r.jpg" alt="熱海温泉　ホテル　サンミ倶楽部 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>オーシャンビュー客室に海一望の温泉も人気！館内には24 Hコンビニ有り♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県熱海市和田浜南町5-8 ／ 最寄り駅：熱海 ／ 交通案内：JR東海道線『熱海駅』より東海バス『マリンスパあたみ』下車　徒歩1分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県熱海市和田浜南町5-8 ／ 最寄り駅：熱海 ／ 交通案内：JR東海道線『熱海駅』より東海バス『マリンスパあたみ』下車　徒歩1分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>50台　有料（1100円）※ご利用時間はご宿泊日の12時からチェックアウト日の10時までとなります。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -639,7 +639,7 @@ export default function AtamiIzuRainyDayIndoorMuseumSpaPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/123/123_room.jpg" alt="ホテル法華クラブ湘南藤沢 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>大好評、男・女別浴場あり！旅・ビジネスの疲れを癒してくれます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県藤沢市鵠沼石上1-6-1 ／ 最寄り駅：藤沢 ／ 交通案内：ＪＲ・小田急・江ノ電「藤沢駅」南口より徒歩５分。繁華街の中心に位置し、江ノ島、鎌倉観光に最適♪</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県藤沢市鵠沼石上1-6-1 ／ 最寄り駅：藤沢 ／ 交通案内：ＪＲ・小田急・江ノ電「藤沢駅」南口より徒歩５分。繁華街の中心に位置し、江ノ島、鎌倉観光に最適♪</p>
                   <p><strong>【駐車場・マイカー利用】</strong>車高1.9ｍ長さ5.1ｍ重さ2ｔ以内は先着順にて駐車可能。1泊1,100円。その他の場合は要問合せ。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -661,7 +661,7 @@ export default function AtamiIzuRainyDayIndoorMuseumSpaPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1428/1428_tu.jpg" alt="ホテルプラム（ＨＯＴＥＬ　ＰＬＵＭＭ）横浜 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>選べる朝食&amp;パン食べ放題が大人気！「暮らすように泊まる」時間を充実させる大浴場が5/15新規オープン</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県横浜市西区北幸2-9-1 ／ 最寄り駅：横浜 ／ 交通案内：【ＪＲ・私鉄／横浜駅】西口出口より徒歩7分。  【横浜市営地下鉄／横浜駅】９番出口より徒歩５分。</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県横浜市西区北幸2-9-1 ／ 最寄り駅：横浜 ／ 交通案内：【ＪＲ・私鉄／横浜駅】西口出口より徒歩7分。  【横浜市営地下鉄／横浜駅】９番出口より徒歩５分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有 （1600円/泊、先着順、車種制限有）出入庫時間 7:00〜22:00   近隣駐車場も有</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.4 ／ 立地 ★4.15 ／ 部屋 ★4.37 ／ 設備 ★4.34 ／ 風呂 ★4.35</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -683,7 +683,7 @@ export default function AtamiIzuRainyDayIndoorMuseumSpaPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1598/1598_twn.jpg" alt="横浜ベイシェラトンホテル＆タワーズ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>横浜駅西口から徒歩１分。添い寝12歳まで無料！ビジネス・観光・コンサートへ最適／マリオットグループ</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県横浜市西区北幸1-3-23 ／ 最寄り駅：横浜 ／ 交通案内：JR・私鉄 横浜駅徒歩1分(直結)。新横浜駅から地下鉄11分、品川駅からＪＲ20分。羽田空港よりリムジンYCAT迄30分</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県横浜市西区北幸1-3-23 ／ 最寄り駅：横浜 ／ 交通案内：JR・私鉄 横浜駅徒歩1分(直結)。新横浜駅から地下鉄11分、品川駅からＪＲ20分。羽田空港よりリムジンYCAT迄30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（駐車台数には限りがあります）　１９００円／泊（税込）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -705,7 +705,7 @@ export default function AtamiIzuRainyDayIndoorMuseumSpaPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1679/1679_twn.jpg" alt="鎌倉プリンスホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>相模湾を望む、七里ヶ浜の丘に建つホテル。すべてのお部屋から相模湾の風景が望めます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県鎌倉市七里ヶ浜東1-2-18 ／ 最寄り駅：七里ヶ浜 ／ 交通案内：江ノ島電鉄七里ヶ浜駅～徒歩約8分。無料送迎バスあり。または有料バスにて潮騒通り下車徒歩約1分。</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県鎌倉市七里ヶ浜東1-2-18 ／ 最寄り駅：七里ヶ浜 ／ 交通案内：江ノ島電鉄七里ヶ浜駅～徒歩約8分。無料送迎バスあり。または有料バスにて潮騒通り下車徒歩約1分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>あり、有料（入庫より24時間￥1,000）。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

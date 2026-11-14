@@ -236,7 +236,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -681,11 +681,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：勇壮なねぶたの熱気に包まれる！ねぶたアート空間＆青森ヒバ名湯と海鮮極上宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：勇壮なねぶたの熱気に包まれる！ねぶたアート空間＆青森ヒバ名湯と海鮮極上宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：勇壮なねぶたの熱気に包まれる！ねぶたアート空間＆青森ヒバ名湯と海鮮極上宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -767,7 +767,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/142919/142919_gen.jpg" alt="蔦温泉旅館－足元から源泉湧出の自噴温泉－ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>約千年前から源泉のやさしい湯が湧き出てくる全国でも希少な「源泉湧き流し」の湯をお楽しみ下さい</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 青森県十和田市奥瀬蔦野湯1 ／ 最寄り駅：青森 ／ 交通案内：七戸十和田駅よりお車にて１時間／青森駅よりお車にて1時間20分</p>
+                  <p><strong>【所在地・アクセス】</strong>青森県十和田市奥瀬蔦野湯1 ／ 最寄り駅：青森 ／ 交通案内：七戸十和田駅よりお車にて１時間／青森駅よりお車にて1時間20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.82 ／ 立地 ★4.71 ／ 部屋 ★4.76 ／ 設備 ★4.64 ／ 風呂 ★4.87 ／ 食事 ★4.8</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -789,7 +789,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/41009/41009_ka.jpg" alt="酸ヶ湯温泉旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>広さ１６０畳の大浴場「ひば千人風呂」にぜひ一度お入り下さい。昔ながらの混浴を守っています。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 青森県青森市荒川字南荒川山国有林小字酸湯沢50 ／ 最寄り駅：青森 ／ 交通案内：ＪＲ　青森駅より十和田湖行ＪＲバスで７０分</p>
+                  <p><strong>【所在地・アクセス】</strong>青森県青森市荒川字南荒川山国有林小字酸湯沢50 ／ 最寄り駅：青森 ／ 交通案内：ＪＲ　青森駅より十和田湖行ＪＲバスで７０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.32 ／ 立地 ★4.43 ／ 部屋 ★4.09 ／ 設備 ★4.14 ／ 風呂 ★4.65 ／ 食事 ★4.29</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -811,7 +811,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7026/7026_room.jpg" alt="浅虫温泉　津軽藩本陣の宿　旅館柳の湯 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>浅虫温泉湯本｜源泉かけ流し×津軽藩本陣の宿 柳の湯 静かに過ごす温泉旅</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 青森県青森市大字浅虫字山下236 ／ 最寄り駅：浅虫温泉 ／ 交通案内：ＪＲ浅虫温泉駅から徒歩6分/東北自動車道青森東出口より10分【浅虫温泉駅⇔当館まで無料送迎OK(要予約）】</p>
+                  <p><strong>【所在地・アクセス】</strong>青森県青森市大字浅虫字山下236 ／ 最寄り駅：浅虫温泉 ／ 交通案内：ＪＲ浅虫温泉駅から徒歩6分/東北自動車道青森東出口より10分【浅虫温泉駅⇔当館まで無料送迎OK(要予約）】</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り：15台(無料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.02 ／ 部屋 ★4 ／ 設備 ★3.94 ／ 風呂 ★4.34 ／ 食事 ★4.34</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -833,7 +833,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/108987/108987_sy1.jpg" alt="沢渡温泉　まるほん旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「婦人風呂」JCDデザインアワード2016金賞受賞！「一浴玉の肌」といわれる美肌の湯</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県吾妻郡中之条町上沢渡甲2301 ／ 最寄り駅：中之条 ／ 交通案内：ＪＲ　中之条駅よりバスで２５分</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県吾妻郡中之条町上沢渡甲2301 ／ 最寄り駅：中之条 ／ 交通案内：ＪＲ　中之条駅よりバスで２５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -855,7 +855,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/84875/84875_kan.jpg" alt="温湯温泉　飯塚旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>大正建造物の館内は情趣たっぷり。かけ流しの天然温泉を堪能し、季節の料理お部屋でお楽しみ下さい。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 青森県黒石市温湯鶴泉60 ／ 最寄り駅：黒石（青森） ／ 交通案内：黒石駅よりバスにて20分／東北道黒石ICより10分</p>
+                  <p><strong>【所在地・アクセス】</strong>青森県黒石市温湯鶴泉60 ／ 最寄り駅：黒石（青森） ／ 交通案内：黒石駅よりバスにて20分／東北道黒石ICより10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料の駐車場12台分ご用意しています（※要予約）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.47 ／ 立地 ★4.33 ／ 部屋 ★4.07 ／ 風呂 ★4.33 ／ 食事 ★4.47</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

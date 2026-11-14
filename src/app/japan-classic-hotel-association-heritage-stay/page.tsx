@@ -310,37 +310,6 @@ export default function Page() {
           </div>
         </section>
 
-        {/* よくある質問 FAQ */}
-        <section className="mb-16 bg-white rounded-2xl shadow-sm border border-stone-200/80 p-6 md:p-8">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">よくある質問・歴史建築宿の楽しみ方</h2>
-          <div className="space-y-4">
-            
-            <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-amber-700 font-serif font-black text-lg">Q.</span>
-                <span>「日本クラシックホテルの会」とはどのような団体ですか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
-                第二次世界大戦以前に建てられ、現存する歴史的価値の高い建物を維持・保存しながら営業を続けている日本の名門クラシックホテル9社によって2017年に設立された会です。加盟ホテルには日光金谷ホテル、富士屋ホテル、奈良ホテル、東京ステーションホテル、ホテルニューグランドなどが名を連ねています。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-amber-700 font-serif font-black text-lg">Q.</span>
-                <span>クラシックホテルの客室設備や水回りは近代化されていますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
-                歴史的建築美やアンティーク家具の風合いは大切に残しつつ、水回り・空調・ベッドマットレス・Wi-Fiなどは現代の一流ホテル基準に最新リノベーションされています。快適性とクラシカルな情緒を両立して過ごすことができます。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-amber-700 font-serif font-black text-lg">Q.</span>
-                <span>館内ツアーや歴史案内などのサービスはありますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
-                多くのクラシックホテルでは、ホテルスタッフによる館内ヘリテージツアーや歴史展示室（ミュージアム）の見学が実施・常設されています。建物の彫刻や歴代著名人のエピソードを深く知ることで、滞在がより一層味わい深いものになります。
-              </p>
-            </div>
-          </div>
-        </section>
-
         {/* 関連リンク */}
         <section className="bg-stone-200/70 rounded-2xl p-6 md:p-8 text-center border border-stone-300">
           <h3 className="text-xl font-bold text-stone-900 mb-3 font-serif">他のこだわり・テーマ特化ステイを探す</h3>

@@ -77,7 +77,7 @@ export default function ArticlePage() {
             奈良・十津川温泉郷ひとり旅＆紀伊山地秘境おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「日本一広い村・十津川温泉郷ひとり旅・源泉かけ流し宣言おこもり」100%完全かけ流し・世界遺産熊野参詣道小辺路・谷瀬の吊り橋！紀伊山地秘境厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               近鉄大和八木駅から日本一長い路線バス（八木新宮線）で揺られること約4時間、または新宮駅からバスで約1時間。紀伊半島の中央、世界遺産・熊野古道小辺路が縦断する十津川村は、平成16年に全国で初めて「源泉かけ流し宣言」を行った本物の温泉郷。すべての温泉施設で加水・加温・循環・塩素消毒を一切行わない純粋な地球の恵みが一人旅の疲弊した心身を芯から蘇らせます。
             </p>
             <p>
-              源泉温泉プールも備えた充実の大型温泉ホテルから、湖畔の静けさに包まれる素朴な秘湯宿まで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              源泉温泉プールも備えた充実の大型温泉ホテルから、湖畔の静けさに包まれる素朴な秘湯宿まで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -361,11 +361,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本一広い村・十津川温泉郷ひとり旅・源泉かけ流し宣言おこもり：100%完全かけ流し・世界遺産熊野参詣道小辺路・谷瀬の吊り橋！紀伊山地秘境厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本一広い村・十津川温泉郷ひとり旅・源泉かけ流し宣言おこもり：100%完全かけ流し・世界遺産熊野参詣道小辺路・谷瀬の吊り橋！紀伊山地秘境厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「日本一広い村・十津川温泉郷ひとり旅・源泉かけ流し宣言おこもり：100%完全かけ流し・世界遺産熊野参詣道小辺路・谷瀬の吊り橋！紀伊山地秘境厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -429,7 +429,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/38871/38871_wa.jpg" alt="十津川温泉　ホテル昴 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>源泉100％かけ流し　極めて贅沢な『極上な温泉』。良質な温泉とお料理が自慢★世界遺産小辺路沿いの宿！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 奈良県吉野郡十津川村平谷909-4 ／ 最寄り駅：八木 ／ 交通案内：近鉄八木駅より奈良交通バス新宮駅行き～十津川温泉下車（約４時間）／京奈和五条ICよりＲ２４～Ｒ１６８で１００分</p>
+                  <p><strong>【所在地・アクセス】</strong>奈良県吉野郡十津川村平谷909-4 ／ 最寄り駅：八木 ／ 交通案内：近鉄八木駅より奈良交通バス新宮駅行き～十津川温泉下車（約４時間）／京奈和五条ICよりＲ２４～Ｒ１６８で１００分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１８０台　無料　自由</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.38 ／ 立地 ★4.29 ／ 部屋 ★4.25 ／ 設備 ★4.15 ／ 風呂 ★4.49 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -451,7 +451,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/44885/44885_hu.jpg" alt="十津川温泉郷　ゑびす荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>地産地消・野菜と温泉の旅館。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 奈良県吉野郡十津川村平谷425-1 ／ 最寄り駅：五条（奈良） ／ 交通案内：お車、五条より国道168号を南へ約80分。新宮より国道168号を北へ約60分。バス、十津川温泉停留所より徒歩で約5分。</p>
+                  <p><strong>【所在地・アクセス】</strong>奈良県吉野郡十津川村平谷425-1 ／ 最寄り駅：五条（奈良） ／ 交通案内：お車、五条より国道168号を南へ約80分。新宮より国道168号を北へ約60分。バス、十津川温泉停留所より徒歩で約5分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　4台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.43 ／ 立地 ★4.05 ／ 部屋 ★4.05 ／ 設備 ★4.22 ／ 風呂 ★4.52 ／ 食事 ★4.62</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -473,7 +473,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/104663/104663_wa.jpg" alt="十津川温泉　旅館平谷荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>十津川の自然の恵みは、あたたかい。まごころのお宿で、こころゆくまでおくつろぎください。杉・ひのき造り露天風呂あり。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 奈良県吉野郡十津川村平谷697-2 ／ 最寄り駅：主要駅 ／ 交通案内：五條駅よりバスにて３時間</p>
+                  <p><strong>【所在地・アクセス】</strong>奈良県吉野郡十津川村平谷697-2 ／ 交通案内：五條駅よりバスにて３時間</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.27 ／ 立地 ★4.18 ／ 部屋 ★4.03 ／ 設備 ★3.76 ／ 風呂 ★4.3 ／ 食事 ★4.42</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

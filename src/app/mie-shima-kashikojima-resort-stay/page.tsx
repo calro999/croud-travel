@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">三重・志摩賢島：英虞湾リアス多島美＆志摩観光ホテル・伊勢海老極上宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「三重・志摩賢島：英虞湾リアス多島美＆志摩観光ホテル・伊勢海老極上宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「三重・志摩賢島：英虞湾リアス多島美＆志摩観光ホテル・伊勢海老極上宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1150/1150_twn.jpg" alt="志摩観光ホテル　ザ　クラシック 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>伊勢志摩サミット開催ホテル。落ち着いた空間で時を過ごせるリゾートホテル。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 三重県志摩市阿児町神明731 ／ 最寄り駅：賢島 ／ 交通案内：近鉄「賢島駅」から徒歩約5分、シャトルバス2分。（定時運行・予約不要）</p>
+                  <p><strong>【所在地・アクセス】</strong>三重県志摩市阿児町神明731 ／ 最寄り駅：賢島 ／ 交通案内：近鉄「賢島駅」から徒歩約5分、シャトルバス2分。（定時運行・予約不要）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>屋外、無料、66台</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.72 ／ 立地 ★4.81 ／ 部屋 ★4.73 ／ 設備 ★4.69 ／ 風呂 ★4.43 ／ 食事 ★4.76</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/16258/16258_heya.jpg" alt="クインテッサホテル伊勢志摩 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>人気の朝食ブッフェや大浴場もありゆったりとお過ごし頂けます。鵜方駅ホテル間の無料送迎あり。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 三重県志摩市阿児町鵜方1210-1 ／ 最寄り駅：鵜方 ／ 交通案内：車:伊勢西ＩＣを降り伊勢道路&amp;amp;国道１６７号経由で約４５分　電車:近鉄鵜方駅(特急停車駅)から徒歩約12分</p>
+                  <p><strong>【所在地・アクセス】</strong>三重県志摩市阿児町鵜方1210-1 ／ 最寄り駅：鵜方 ／ 交通案内：車:伊勢西ＩＣを降り伊勢道路&amp;amp;国道１６７号経由で約４５分　電車:近鉄鵜方駅(特急停車駅)から徒歩約12分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料先着70台※地上43台 地下27台 高さ2.3mまで※トラック・バスは事前予約制（有料）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/105964/105964_liv.jpg" alt="志摩観光ホテル　ザ　ベイスイート 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>伊勢志摩サミット開催ホテル。すべてのお部屋がスイートルーム。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 三重県志摩市阿児町神明731 ／ 最寄り駅：賢島 ／ 交通案内：近鉄「賢島駅」まで個別送迎にて約3分（電車の到着時間をご連絡ください）、徒歩約10分。</p>
+                  <p><strong>【所在地・アクセス】</strong>三重県志摩市阿児町神明731 ／ 最寄り駅：賢島 ／ 交通案内：近鉄「賢島駅」まで個別送迎にて約3分（電車の到着時間をご連絡ください）、徒歩約10分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>屋外、無料、49台</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/966/966_sgl.jpg" alt="フレックスホテル（FREX　HOTEL） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>■松阪駅より徒歩５分、無料車場有。松阪牛のお食事もございます。伊勢志摩、熊野古道にも</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 三重県松阪市中央町36-18 ／ 最寄り駅：松阪 ／ 交通案内：ＪＲ・近鉄松阪駅北口から直進徒歩５分。松阪ICより約１５分。伊勢神宮内宮まで約２９キロ、鈴鹿まで約３５キロ。</p>
+                  <p><strong>【所在地・アクセス】</strong>三重県松阪市中央町36-18 ／ 最寄り駅：松阪 ／ 交通案内：ＪＲ・近鉄松阪駅北口から直進徒歩５分。松阪ICより約１５分。伊勢神宮内宮まで約２９キロ、鈴鹿まで約３５キロ。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場約300台あり！ホテル建物周りおよび建物裏に有ります。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7770/7770_twn.jpg" alt="ホテル志摩スペイン村 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>南スペインの優雅な雰囲気が漂うリゾートホテル</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 三重県志摩市磯部町坂崎 ／ 最寄り駅：志摩赤崎 ／ 交通案内：伊勢自動車道伊勢西ICより約40分／近鉄鵜方駅より三交バスにて約13分</p>
+                  <p><strong>【所在地・アクセス】</strong>三重県志摩市磯部町坂崎 ／ 最寄り駅：志摩赤崎 ／ 交通案内：伊勢自動車道伊勢西ICより約40分／近鉄鵜方駅より三交バスにて約13分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　170台　先着順　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/27854/27854_y.jpg" alt="石鏡温泉源泉の宿　ホテルいじか荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>伊勢湾を望む全室オーシャンビュー！絶景の天然温泉「岬の湯」と伊勢志摩の幸で極上の鳥羽ステイ♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 三重県鳥羽市石鏡町368-2 ／ 最寄り駅：鳥羽 ／ 交通案内：近鉄・鳥羽駅〜ホテルバス１日２便(15:15と16:15（要予約）)／パールロード経由にて鳥羽駅より約25分</p>
+                  <p><strong>【所在地・アクセス】</strong>三重県鳥羽市石鏡町368-2 ／ 最寄り駅：鳥羽 ／ 交通案内：近鉄・鳥羽駅〜ホテルバス１日２便(15:15と16:15（要予約）)／パールロード経由にて鳥羽駅より約25分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.66 ／ 立地 ★4.68 ／ 部屋 ★4.7 ／ 設備 ★4.5 ／ 風呂 ★4.63 ／ 食事 ★4.72</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

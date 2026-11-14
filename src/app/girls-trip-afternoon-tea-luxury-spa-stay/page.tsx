@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/girls-trip-afternoon-tea-luxury-spa-stay/"
   };
 
@@ -186,6 +186,12 @@ export default function Page() {
           </p>
         </div>
 
+        <div className="pt-2">
+          <ShareButtons
+            title="至福のアフタヌーンティー＆本格極上スパ！女子旅・母娘旅で行きたいご褒美ラグジュアリーホテル"
+            url="https://croud-travel.pages.dev/girls-trip-afternoon-tea-luxury-spa-stay/"
+          />
+        </div>
         {/* クーポン特大バナー */}
         <SpecialCouponBanner />
 
@@ -303,11 +309,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">至福のアフタヌーンティー＆本格極上スパ！女子旅・母娘旅で行きたいご褒美ラグジュアリーホテル：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「至福のアフタヌーンティー＆本格極上スパ！女子旅・母娘旅で行きたいご褒美ラグジュアリーホテル」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「至福のアフタヌーンティー＆本格極上スパ！女子旅・母娘旅で行きたいご褒美ラグジュアリーホテル」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -371,7 +377,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/182630/182630.jpg" alt="オリエンタルホテル　沖縄リゾート＆スパ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2024年4月23日客室リニューアル。世界自然遺産「やんばる」を体験する旅の拠点にふさわしいホテルへ</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県名護市喜瀬1490-1 ／ 最寄り駅：那覇空港 ／ 交通案内：那覇空港より最短で約70分。沖縄美ら海水族館まで60分、ジャングリア沖縄まで40分と沖縄観光に最適なホテルです。</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県名護市喜瀬1490-1 ／ 最寄り駅：那覇空港 ／ 交通案内：那覇空港より最短で約70分。沖縄美ら海水族館まで60分、ジャングリア沖縄まで40分と沖縄観光に最適なホテルです。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　1滞在1,000円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.44 ／ 立地 ★4.48 ／ 部屋 ★4.55 ／ 設備 ★4.45 ／ 風呂 ★4.3 ／ 食事 ★4.44</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -393,7 +399,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/141596/141596_kya1.jpg" alt="ホテルモントレ沖縄　スパ＆リゾート 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>沖縄有数のビーチ“タイガービーチ”に面して建つ全客室オーシャンビューのホテル。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県国頭郡恩納村字冨着1550-1 ／ 最寄り駅：那覇空港 ／ 交通案内：（那覇空港より）リムジンバス利用にて約65分　エアポートシャトルにて約80分　路線バス 系統番号120番にて約110分</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県国頭郡恩納村字冨着1550-1 ／ 最寄り駅：那覇空港 ／ 交通案内：（那覇空港より）リムジンバス利用にて約65分　エアポートシャトルにて約80分　路線バス 系統番号120番にて約110分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り238台500円（税込／泊）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.67 ／ 立地 ★4.74 ／ 部屋 ★4.7 ／ 設備 ★4.63 ／ 風呂 ★4.5 ／ 食事 ★4.63</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -415,7 +421,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/153269/153269.jpg" alt="龍宮城スパ・ホテル三日月　富士見亭 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「世界初！純プラチナ風呂」「豪華！K18の黄金風呂」で至福の時間♪毎週金・土・日花火イベント開催中！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 千葉県木更津市北浜町1 ／ 最寄り駅：木更津 ／ 交通案内：アクアライン木更津金田ＩＣ下車約５分　ＪＲ木更津駅　高速金田バスターミナル　より無料送迎バス</p>
+                  <p><strong>【所在地・アクセス】</strong>千葉県木更津市北浜町1 ／ 最寄り駅：木更津 ／ 交通案内：アクアライン木更津金田ＩＣ下車約５分　ＪＲ木更津駅　高速金田バスターミナル　より無料送迎バス</p>
                   <p><strong>【駐車場・マイカー利用】</strong>宿泊:無料　日帰りスパ：5時間まで無料、以降300円/h　※税込み</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.38 ／ 立地 ★4.45 ／ 部屋 ★4.52 ／ 設備 ★4.38 ／ 風呂 ★4.32 ／ 食事 ★4.5</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -228,11 +228,11 @@ export default function RailwayActivityHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">絶景ロープウェイ＆山頂テラス宿：びわ湖バレイ・蔵王・富士山パノラマ 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「絶景ロープウェイ＆山頂テラス宿：びわ湖バレイ・蔵王・富士山パノラマ 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「絶景ロープウェイ＆山頂テラス宿：びわ湖バレイ・蔵王・富士山パノラマ 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function RailwayActivityHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/107682/107682_w.jpg" alt="ホテル琵琶レイクオーツカ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2024年7月リニューアルOPEN！雄大な比良連峰を背に、琵琶湖の雄大な眺望が広がる静かなリトリート</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 滋賀県大津市南小松1054-3 ／ 最寄り駅：近江舞子 ／ 交通案内：JR近江舞子駅より徒歩５分  京都東ＩC経由、志賀バイパス近江舞子ランプ5分</p>
+                  <p><strong>【所在地・アクセス】</strong>滋賀県大津市南小松1054-3 ／ 最寄り駅：近江舞子 ／ 交通案内：JR近江舞子駅より徒歩５分  京都東ＩC経由、志賀バイパス近江舞子ランプ5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３５台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function RailwayActivityHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/38663/38663_ky.jpg" alt="蔵王温泉　堺屋森のホテルヴァルトベルク 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>蔵王の森に囲まれた　愛らしさあふれる宿／大自然の恵み＜湯量豊富な白濁の温泉＞に身をゆだねる至福の時間</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県山形市蔵王温泉清水坂889-1 ／ 最寄り駅：山形 ／ 交通案内：山形駅よりバスで蔵王温泉行終点まで約40分。下車徒歩15分／バスターミナル送迎有り（要予約）</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県山形市蔵王温泉清水坂889-1 ／ 最寄り駅：山形 ／ 交通案内：山形駅よりバスで蔵王温泉行終点まで約40分。下車徒歩15分／バスターミナル送迎有り（要予約）</p>
                   <p>【絶景ロープウェイ＆山頂テラス宿：びわ湖バレイ・蔵王・】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function RailwayActivityHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/183171/183171.jpg" alt="竜王マウンテンホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【竜王スキーパーク直結】ロープーウェイ乗場すぐ■リーズナブルな宿泊料金■レンタル割引雪上車で送迎</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県下高井郡山ノ内町大字夜間瀬字戸ヶ崎11700-243 ／ 最寄り駅：湯田中 ／ 交通案内：長野電鉄湯田中駅からタクシーにて約15分/上信越自動車道・中野ICより中野有料道路経由にて約20分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県下高井郡山ノ内町大字夜間瀬字戸ヶ崎11700-243 ／ 最寄り駅：湯田中 ／ 交通案内：長野電鉄湯田中駅からタクシーにて約15分/上信越自動車道・中野ICより中野有料道路経由にて約20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>冬季シーズンはゲレンデ内となる為、竜王スキーパークの駐車場をご利用ください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function RailwayActivityHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/38584/38584_da.jpg" alt="信州湯田中温泉　ホテルゆだなか　～大浴場「吉の湯」～ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>エリア最大級の温泉大浴場　湯田中駅から徒歩3分『源泉掛け流しの宿』良質な温泉とサウナを楽しめる♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県下高井郡山ノ内町平穏3246-2　湯田中温泉 ／ 最寄り駅：湯田中 ／ 交通案内：長野電鉄　湯田中駅から車で１分、徒歩で３分『ホテルゆだなか』ソラテラスやスノーモンキーアクセス抜群</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県下高井郡山ノ内町平穏3246-2　湯田中温泉 ／ 最寄り駅：湯田中 ／ 交通案内：長野電鉄　湯田中駅から車で１分、徒歩で３分『ホテルゆだなか』ソラテラスやスノーモンキーアクセス抜群</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料　コンビニまで徒歩5分　 湯田中駅徒歩3分</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function RailwayActivityHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2441/2441_heya.jpg" alt="湯田中温泉　一茶のこみち　美湯の宿 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>自慢の源泉かけ流し100%の温泉は、美容にも湯治目的にも大変人気！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県下高井郡山ノ内町平穏2951-1　湯田中温泉 ／ 最寄り駅：湯田中 ／ 交通案内：旧ロマンスカー走る長野電鉄の湯田中駅より徒歩７分／北陸自動車道　信州中野I.C.より志賀高原方面へ向かって約２０分。</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県下高井郡山ノ内町平穏2951-1　湯田中温泉 ／ 最寄り駅：湯田中 ／ 交通案内：旧ロマンスカー走る長野電鉄の湯田中駅より徒歩７分／北陸自動車道　信州中野I.C.より志賀高原方面へ向かって約２０分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>旅館前にあり事前予約は必要ございません。バイクの駐車も可能。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function RailwayActivityHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/41634/41634_fu.jpg" alt="信州・湯田中温泉　清風荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★無料貸切風呂や天然温泉の露天風呂。卓球台もあります。人気の信州牛も☆食事は個室</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県下高井郡山ノ内町平穏3268 ／ 最寄り駅：湯田中 ／ 交通案内：長野電鉄　湯田中駅より徒歩２分／上信越自動車道　信州中野ＩＣよりＲ２９２経由で１５分。</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県下高井郡山ノ内町平穏3268 ／ 最寄り駅：湯田中 ／ 交通案内：長野電鉄　湯田中駅より徒歩２分／上信越自動車道　信州中野ＩＣよりＲ２９２経由で１５分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り 10台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

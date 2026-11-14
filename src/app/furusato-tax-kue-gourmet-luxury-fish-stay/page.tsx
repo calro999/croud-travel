@@ -548,11 +548,11 @@ export default function FurusatoFeaturePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">天然クエ鍋＆幻の高級魚グルメ宿×ふるさと納税厳選ガイド南紀白浜・長崎五島・高知室戸の本クエ会席：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「天然クエ鍋＆幻の高級魚グルメ宿×ふるさと納税厳選ガイド南紀白浜・長崎五島・高知室戸の本クエ会席」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「天然クエ鍋＆幻の高級魚グルメ宿×ふるさと納税厳選ガイド南紀白浜・長崎五島・高知室戸の本クエ会席」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -643,7 +643,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9133/9133_war.jpg" alt="白浜温泉　家族とすごす白浜の宿　柳屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【ファミリーにおすすめ】源泉かけ流しで寛ぎの一日を。露天風呂付き客室や貸切風呂が自慢の家族とすごす宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県西牟婁郡白浜町1870 ／ 最寄り駅：白浜 ／ 交通案内：ＪＲ白浜駅：車で約１１分／南紀白浜空港：車で約７分／南紀白浜ＩＣ：車で約１5分／アドベンチャーワールド：車で約１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県西牟婁郡白浜町1870 ／ 最寄り駅：白浜 ／ 交通案内：ＪＲ白浜駅：車で約１１分／南紀白浜空港：車で約７分／南紀白浜ＩＣ：車で約１5分／アドベンチャーワールド：車で約１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -665,7 +665,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/17665/17665_w.jpg" alt="白浜温泉　ＫＫＲ白浜　美浜荘（国家公務員共済組合連合会白浜保養所） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>白良浜海水浴場まで徒歩2分！源泉かけ流し温泉と紀州海の幸が自慢の宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県西牟婁郡白浜町1564-2 ／ 最寄り駅：白浜 ／ 交通案内：JRきのくに線 白浜駅下車 路線バス 温泉行き 白良浜バス停より徒歩２分  阪和自動車道を南紀田辺ＩＣ～車で25分</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県西牟婁郡白浜町1564-2 ／ 最寄り駅：白浜 ／ 交通案内：JRきのくに線 白浜駅下車 路線バス 温泉行き 白良浜バス停より徒歩２分  阪和自動車道を南紀田辺ＩＣ～車で25分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　【20台】　　無料です。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -687,7 +687,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/145306/145306_room.jpg" alt="紀州みなべ温泉　料理宿　朝日楼 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★2025年7月リニューアル客室OPEN★絶景と名湯、朝獲れ紀州の幸を愉しむ料理宿朝日楼</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県日高郡みなべ町埴田1589-2 ／ 最寄り駅：南部 ／ 交通案内：ＪＲ　南部駅よりお車にて５分</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県日高郡みなべ町埴田1589-2 ／ 最寄り駅：南部 ／ 交通案内：ＪＲ　南部駅よりお車にて５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２５台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -709,7 +709,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/177048/177048_kan1.jpg" alt="五島列島リゾートホテル　マルゲリータ奈良尾＜五島・中通島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>奈良尾港の高台に建つ五島食材を和食で堪能する小さなホテル～29の教会が点在する祈りの島～</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長崎県南松浦郡新上五島町奈良尾郷712-3 ／ 最寄り駅：主要駅 ／ 交通案内：奈良尾港高台に建つ五島灘の眺望と食を堪能できるリゾートホテル（送迎あり）長崎港・福江港発ジェットフォイル、フェリー直通</p>
+                  <p><strong>【所在地・アクセス】</strong>長崎県南松浦郡新上五島町奈良尾郷712-3 ／ 交通案内：奈良尾港高台に建つ五島灘の眺望と食を堪能できるリゾートホテル（送迎あり）長崎港・福江港発ジェットフォイル、フェリー直通</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場20台。近隣レンタカー会社あり。電気自動車充電器あり。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -731,7 +731,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/188159/188159.jpg" alt="みやこ別邸＜五島・福江島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>五島　福江島で唯一の源泉かけ流し温泉付き一棟貸し宿　みやこ別邸</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長崎県五島市玉之浦町荒川265 ／ 最寄り駅：福江空港 ／ 交通案内：福江空港より車で約３０分 福江港より車で約３０分</p>
+                  <p><strong>【所在地・アクセス】</strong>長崎県五島市玉之浦町荒川265 ／ 最寄り駅：福江空港 ／ 交通案内：福江空港より車で約３０分 福江港より車で約３０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料の駐車スペースをご案内</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -753,7 +753,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/188157/188157.jpg" alt="アパートメント五島＜五島・福江島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>港や飲み屋街まで５分の好立地。広々４０㎡のワンフロア</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長崎県五島市末広町7-13　アドバンス五常205 ／ 最寄り駅：福江空港 ／ 交通案内：福江空港より車で約１０分 福江港より車で約３分</p>
+                  <p><strong>【所在地・アクセス】</strong>長崎県五島市末広町7-13　アドバンス五常205 ／ 最寄り駅：福江空港 ／ 交通案内：福江空港より車で約１０分 福江港より車で約３分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>専用駐車場はございません。近隣の有料駐車場をご案内いたします。（徒歩3&amp;#12316;5分の場所）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.55 ／ 立地 ★4.52 ／ 部屋 ★4.55 ／ 設備 ★4.26 ／ 風呂 ★4.2</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

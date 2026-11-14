@@ -186,7 +186,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -476,11 +476,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：初夏の極上フルーツ！房州名産びわ会席＆びわ葉エキス温浴スパの風情宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：初夏の極上フルーツ！房州名産びわ会席＆びわ葉エキス温浴スパの風情宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：初夏の極上フルーツ！房州名産びわ会席＆びわ葉エキス温浴スパの風情宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -544,7 +544,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/32247/32247_s2.jpg" alt="南房総癒しの宿　聖山荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>秋は釣り＆ハイキングがオススメ！季節の磯料理、海の幸をご堪能ください♪お部屋食OK！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 千葉県南房総市富浦町豊岡124-1 ／ 最寄り駅：富浦（千葉） ／ 交通案内：ＪＲ内房線　富浦駅／館山道　富浦ＩＣより５分／アクアライン～１２７号（１時間）</p>
+                  <p><strong>【所在地・アクセス】</strong>千葉県南房総市富浦町豊岡124-1 ／ 最寄り駅：富浦（千葉） ／ 交通案内：ＪＲ内房線　富浦駅／館山道　富浦ＩＣより５分／アクアライン～１２７号（１時間）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　１０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.54 ／ 立地 ★3.21 ／ 部屋 ★3.17 ／ 設備 ★2.92 ／ 風呂 ★3.25 ／ 食事 ★3.88</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -566,7 +566,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2955/2955_bas1.jpg" alt="美味しい温泉　夢みさき 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>食いしん坊に愛を込めて 話題の☆豪華な少食☆公式HPにご褒美いっぱい☆美味しい夢を見てほしい</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 千葉県南房総市千倉町瀬戸2980-133 ／ 最寄り駅：千倉 ／ 交通案内：館山道富浦ＩＣより車で約２５分、ＪＲ千倉駅よりタクシーで３分位、ご宿泊のお客様はお迎えのバスあり（１４時～１８時）</p>
+                  <p><strong>【所在地・アクセス】</strong>千葉県南房総市千倉町瀬戸2980-133 ／ 最寄り駅：千倉 ／ 交通案内：館山道富浦ＩＣより車で約２５分、ＪＲ千倉駅よりタクシーで３分位、ご宿泊のお客様はお迎えのバスあり（１４時～１８時）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場あり　８０台（駐車場入り口は国道４１０号線沿い</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.53 ／ 立地 ★4.37 ／ 部屋 ★4.34 ／ 設備 ★4.2 ／ 風呂 ★4.34</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -588,7 +588,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/193323/193323.jpg" alt="弁天鉱泉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>1日4組限定。千葉で唯一の色が変わる源泉掛け流しの硫黄泉や、近海で取れた地魚料理で至福のひと時を。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 千葉県南房総市小浦487-3 ／ 最寄り駅：岩井 ／ 交通案内：【車】岩井駅---施設(10分)。【車】館山自動車道鋸南富山IC---施設(20分)</p>
+                  <p><strong>【所在地・アクセス】</strong>千葉県南房総市小浦487-3 ／ 最寄り駅：岩井 ／ 交通案内：【車】岩井駅---施設(10分)。【車】館山自動車道鋸南富山IC---施設(20分)</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.22 ／ 立地 ★4.36 ／ 部屋 ★4.26 ／ 設備 ★4.08 ／ 風呂 ★4.38 ／ 食事 ★4.48</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

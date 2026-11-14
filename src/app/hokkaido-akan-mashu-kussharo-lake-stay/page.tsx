@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">北海道・阿寒湖＆摩周湖・屈斜路湖：神秘のカルデラ三湖・阿寒アイヌコタン＆まりも・硫黄山温泉宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「北海道・阿寒湖＆摩周湖・屈斜路湖：神秘のカルデラ三湖・阿寒アイヌコタン＆まりも・硫黄山温泉宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「北海道・阿寒湖＆摩周湖・屈斜路湖：神秘のカルデラ三湖・阿寒アイヌコタン＆まりも・硫黄山温泉宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -314,7 +314,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/37362/37362_kan.jpg" alt="阿寒湖温泉　あかん鶴雅別荘鄙の座 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【全25室 温泉露天風呂付き客室】鄙とは故郷のこと。鄙の座は皆様のこころの故郷としてお迎えいたします</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道釧路市阿寒町阿寒湖温泉2丁目8-1 ／ 最寄り駅：釧路 ／ 交通案内：釧路空港より車で約６０分／女満別空港より車で約９０分。　※アクセスの詳細は公式サイトの「アクセスページ」をご覧ください。</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道釧路市阿寒町阿寒湖温泉2丁目8-1 ／ 最寄り駅：釧路 ／ 交通案内：釧路空港より車で約６０分／女満別空港より車で約９０分。　※アクセスの詳細は公式サイトの「アクセスページ」をご覧ください。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.87 ／ 立地 ★4.78 ／ 部屋 ★4.83 ／ 設備 ★4.78 ／ 風呂 ★4.74 ／ 食事 ★4.96</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -336,7 +336,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/40045/40045_kan.jpg" alt="あかん遊久の里鶴雅 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>和のこころ、阿寒のおもてなしをさらに深めて。日本の旅館文化を継承するおもてなしをご堪能ください。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道釧路市阿寒町阿寒湖温泉4-6-10 ／ 最寄り駅：釧路 ／ 交通案内：釧路空港より車で約６０分／女満別空港より車で約９０分。　※アクセスの詳細は公式サイトの「アクセスページ」をご覧ください。</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道釧路市阿寒町阿寒湖温泉4-6-10 ／ 最寄り駅：釧路 ／ 交通案内：釧路空港より車で約６０分／女満別空港より車で約９０分。　※アクセスの詳細は公式サイトの「アクセスページ」をご覧ください。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（無料）150台※駐車場は当館から離れた場所にあります（駐車場とホテル間はシャトルバス運行あり）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.48 ／ 立地 ★4.42 ／ 部屋 ★4.45 ／ 設備 ★4.44 ／ 風呂 ★4.55 ／ 食事 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -358,7 +358,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/68130/68130_ky.jpg" alt="知床天然温泉ルートイングランティア知床斜里駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>■知床斜里駅目の前■源泉100％かけ流しの大浴場・露天風呂■知床の海と山々の眺望が人気</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道斜里郡斜里町港町16-10 ／ 最寄り駅：知床斜里 ／ 交通案内：ＪＲ釧網本線　知床斜里駅より徒歩にて1分　、　斜里バスターミナルより徒歩にて1分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道斜里郡斜里町港町16-10 ／ 最寄り駅：知床斜里 ／ 交通案内：ＪＲ釧網本線　知床斜里駅より徒歩にて1分　、　斜里バスターミナルより徒歩にて1分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６４台（敷地内２０台・第２駐車場４４台）　無料　予約不要（先着順）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -380,7 +380,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/182124/182124.jpg" alt="お宿欣喜湯　別邸　すいかずら 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2021年4月リニューアルオープン！ 川湯温泉の食とサービスをリブランディングしていく旅館です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道川上郡弟子屈町川湯温泉1丁目2-3 ／ 最寄り駅：川湯温泉 ／ 交通案内：ＪＲ川湯温泉駅より8分　女満別空港より車で60分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道川上郡弟子屈町川湯温泉1丁目2-3 ／ 最寄り駅：川湯温泉 ／ 交通案内：ＪＲ川湯温泉駅より8分　女満別空港より車で60分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -402,7 +402,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/170992/170992.jpg" alt="ファームイン　トーチ　Ｂ棟　＾ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>＊２０２１年９月１０日リスティング公開した、オープンしたばかりの宿です＊</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道阿寒郡鶴居村字雪裡原野北26線西13-3　Ｆａｒｍ　ｉｎ　Ｔｏｒｃｈ　Ｂ ／ 最寄り駅：茅沼 ／ 交通案内：釧路駅から車で約４０分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道阿寒郡鶴居村字雪裡原野北26線西13-3　Ｆａｒｍ　ｉｎ　Ｔｏｒｃｈ　Ｂ ／ 最寄り駅：茅沼 ／ 交通案内：釧路駅から車で約４０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

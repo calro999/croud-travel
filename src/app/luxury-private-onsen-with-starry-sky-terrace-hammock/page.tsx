@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/luxury-private-onsen-with-starry-sky-terrace-hammock/"
   };
 
@@ -104,7 +104,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F167316%2F167316.html%26f_flg%3DPLAN",
     "hotelMinCharge": 3850,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/167316/167316.jpg",
-    "userReview": "絶景のロケーションとおもてなしに心から癒やされました。",
+    "userReview": "宙の森ホテル　花郷里ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
     "reviewAverage": 4.3,
     "reviewCount": 41,
     "address": "兵庫県美方郡香美町小代区大谷300",
@@ -270,23 +270,6 @@ export default function Page() {
             ))}
           </div>
         </section>
-
-        {/* 旅のQ&A */}
-        <section className="bg-white rounded-2xl p-6 md:p-8 border border-stone-200 shadow-sm space-y-4">
-          <h2 className="text-lg md:text-xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">よくある質問・失敗しない宿選び</h2>
-          <div className="space-y-4 text-sm">
-            <div className="border border-stone-100 rounded-xl p-4 bg-stone-50/50 space-y-2">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5"><span className="text-emerald-700 font-black">Q.</span> おすすめの予約時期やタイミングは？</h3>
-              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">人気の日程（連休や週末）は1〜2ヶ月前には満室になることが多いため、早期予約（早割プラン）の利用がおすすめです。また楽天トラベルの「5と0のつく日」キャンペーンを活用すると最大20%オフのクーポンが併用でき、最もお得に予約できます。
-              </p>
-            </div>
-            <div className="border border-stone-100 rounded-xl p-4 bg-stone-50/50 space-y-2">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5"><span className="text-emerald-700 font-black">Q.</span> 宿選びで失敗しないためのポイントは？</h3>
-              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">宿泊者レビューのお風呂・お食事・接客評価が4.3以上の宿を選ぶと満足度が非常に高くなります。またアクセス手段（送迎バスの有無など）やプランに含まれる特典を事前に確認しておくと安心です。
-              </p>
-            </div>
-          </div>
-        </section>
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -416,11 +399,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：星空ハンモックテラス＆貸切露天風呂！心地よい夜風と天の川に癒やされる宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：星空ハンモックテラス＆貸切露天風呂！心地よい夜風と天の川に癒やされる宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：星空ハンモックテラス＆貸切露天風呂！心地よい夜風と天の川に癒やされる宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -502,7 +485,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/109464/109464_twn.jpg" alt="芦別温泉スターライトホテル＆おふろｃａｆｅ星遊館　満天の星空×サウナリゾート 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>おふろcafeでのんびり！星空露天風呂と３種のサウナでととのう旅を♪　空知・旭川・富良野美瑛観光に！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道芦別市旭町油谷1 ／ 最寄り駅：芦別 ／ 交通案内：芦別駅から10分／旭川駅から約60分／旭川空港から約80分／札幌・新千歳空港から約120分（車移動）</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道芦別市旭町油谷1 ／ 最寄り駅：芦別 ／ 交通案内：芦別駅から10分／旭川駅から約60分／旭川空港から約80分／札幌・新千歳空港から約120分（車移動）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場約２５０台！予約不要／電気自動車充電器あり／大型車OK／屋根付きバイク駐輪場あり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.22 ／ 部屋 ★4.17 ／ 設備 ★4.31 ／ 風呂 ★4.5 ／ 食事 ★4.4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -524,7 +507,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/29835/29835_d.jpg" alt="妙義温泉　妙義グリーンホテル＆テラス 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【オールインクルーシブ】日本三大奇景「妙義山」を望む、緑豊かなホテルとグランピング</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県富岡市妙義町菅原2678 ／ 最寄り駅：松井田 ／ 交通案内：JR松井田駅よりタクシー12分／磯部駅よりタクシー17分／松井田妙義IC（上信越自動車道）より１２分</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県富岡市妙義町菅原2678 ／ 最寄り駅：松井田 ／ 交通案内：JR松井田駅よりタクシー12分／磯部駅よりタクシー17分／松井田妙義IC（上信越自動車道）より１２分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　２００台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★4.4 ／ 部屋 ★4.19 ／ 設備 ★4.14 ／ 風呂 ★4.2 ／ 食事 ★4.39</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -546,7 +529,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/167316/167316_kan1.jpg" alt="宙の森ホテル　花郷里 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>宙（そら）を見上げて心も体もリフレッシュ！メイン客室の他にグランピングやキャンピングカーもあり♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県美方郡香美町小代区大谷300 ／ 最寄り駅：八鹿 ／ 交通案内：八鹿駅より全但バス「秋岡」行に乗車（約1時間）、「小代大谷」バス停下車、徒歩で約10分</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県美方郡香美町小代区大谷300 ／ 最寄り駅：八鹿 ／ 交通案内：八鹿駅より全但バス「秋岡」行に乗車（約1時間）、「小代大谷」バス停下車、徒歩で約10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -568,7 +551,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/59633/59633_ky.jpg" alt="ＨＯＴＥＬ　ＡＺＵＭＡ＜佐渡島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>夕陽と大海原をひとり占め　〜寄り添う　心温かいおもてなし〜</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県佐渡市相川大浦548-1 ／ 最寄り駅：佐渡空港 ／ 交通案内：両津港より車で５０分／小木港より車で６０分</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県佐渡市相川大浦548-1 ／ 最寄り駅：佐渡空港 ／ 交通案内：両津港より車で５０分／小木港より車で６０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　57台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.67 ／ 部屋 ★4.35 ／ 設備 ★4.31 ／ 風呂 ★4.21 ／ 食事 ★4.49</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -590,7 +573,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/184085/184085.jpg" alt="ＧＲＡＸ（ＡＳＯＢＩＹＵＫＵ　京都るり渓温泉） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>エアコン完備で人気のドームテントもあり、道具や食材の準備もいらないグランピングスタイルのキャンプ。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 京都府南丹市園部町大河内広谷1-20 ／ 最寄り駅：園部 ／ 交通案内：【車以外】能勢電鉄日生中央駅／JR嵯峨野線園部駅～送迎バス有（事前予約）　【車】千代川IC・池田木部IC～るり渓方面へ</p>
+                  <p><strong>【所在地・アクセス】</strong>京都府南丹市園部町大河内広谷1-20 ／ 最寄り駅：園部 ／ 交通案内：【車以外】能勢電鉄日生中央駅／JR嵯峨野線園部駅～送迎バス有（事前予約）　【車】千代川IC・池田木部IC～るり渓方面へ</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　700台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.36 ／ 立地 ★4.47 ／ 部屋 ★4.28 ／ 設備 ★4.39 ／ 風呂 ★4.54 ／ 食事 ★4.38</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -601,6 +584,9 @@ export default function Page() {
             </div>
           </div></section>
 
+              <div className="my-8">
+          <ShareButtons title="【2026年】星空ハンモックテラス＆貸切露天風呂！心地よい夜風と天の川に癒やされる宿5選" url="https://croud-travel.pages.dev/luxury-private-onsen-with-starry-sky-terrace-hammock/" />
+        </div>
       </main>
     
       <HubRelatedPosts currentSlug="luxury-private-onsen-with-starry-sky-terrace-hammock" />

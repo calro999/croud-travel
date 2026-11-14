@@ -77,7 +77,7 @@ export default function ArticlePage() {
             鳥取・皆生温泉ひとり旅＆日本海オーシャンおこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「皆生温泉ひとり旅・日本海オーシャンおこもり」弓ヶ浜パノラマ・美肌塩化物泉・境港松葉ガニ！「米子の奥座敷」で癒やされる厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               鳥取県米子市の日本海沿いに広がる「山陰の熱海」こと皆生温泉。明治時代に地元の漁師が海中に湧き出す温泉を発見したことが始まりとされ、塩分濃度の高い源泉は抜群の保温・美肌効果を誇ります。米子空港や米子駅からアクセス抜群で、一人旅でも快適に海のリゾートステイが楽しめます。
             </p>
             <p>
-              波打ち際に建ち海と一体化するインフィニティ露天風呂を持つ名宿から、境港直送の新鮮な松葉ガニやマグロを贅沢に味わえる美食宿まで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              波打ち際に建ち海と一体化するインフィニティ露天風呂を持つ名宿から、境港直送の新鮮な松葉ガニやマグロを贅沢に味わえる美食宿まで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -418,11 +418,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">皆生温泉ひとり旅・日本海オーシャンおこもり：弓ヶ浜パノラマ・美肌塩化物泉・境港松葉ガニ！「米子の奥座敷」で癒やされる厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「皆生温泉ひとり旅・日本海オーシャンおこもり：弓ヶ浜パノラマ・美肌塩化物泉・境港松葉ガニ！「米子の奥座敷」で癒やされる厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「皆生温泉ひとり旅・日本海オーシャンおこもり：弓ヶ浜パノラマ・美肌塩化物泉・境港松葉ガニ！「米子の奥座敷」で癒やされる厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -486,7 +486,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5666/5666_furo.jpg" alt="皆生松月 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>アワード14年連続受賞（鳥取県1位）★地上27ｍの眺望大浴場と4つの貸切露天、露天風呂付き客室も</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鳥取県米子市皆生温泉3-4-25 ／ 最寄り駅：米子 ／ 交通案内：お車で米子自動車道米子ICより車10分。JR米子駅より公共バス・タクシー利用で15分、米子空港よりタクシー利用で20分。</p>
+                  <p><strong>【所在地・アクセス】</strong>鳥取県米子市皆生温泉3-4-25 ／ 最寄り駅：米子 ／ 交通案内：お車で米子自動車道米子ICより車10分。JR米子駅より公共バス・タクシー利用で15分、米子空港よりタクシー利用で20分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　無料　予約不要　旅館目の前（姉妹館の皆生游月と共有）　平面駐車場</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -508,7 +508,7 @@ export default function ArticlePage() {
                 
                 <div className="md:col-span-3 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【部屋食・個室食確約プラン有】部屋から日本海一望♪又行きたくなる宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鳥取県米子市皆生温泉4-29-10 ／ 最寄り駅：主要駅 ／ 交通案内：</p>
+                  <p><strong>【所在地・アクセス】</strong>鳥取県米子市皆生温泉4-29-10 ／ 交通案内：</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -530,7 +530,7 @@ export default function ArticlePage() {
                 
                 <div className="md:col-span-3 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【絶景オーシャンビュー】皆生の老舗旅館で心安らぐひとときをお過ごしください</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鳥取県米子市皆生温泉3-12-33 ／ 最寄り駅：主要駅 ／ 交通案内：</p>
+                  <p><strong>【所在地・アクセス】</strong>鳥取県米子市皆生温泉3-12-33 ／ 交通案内：</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

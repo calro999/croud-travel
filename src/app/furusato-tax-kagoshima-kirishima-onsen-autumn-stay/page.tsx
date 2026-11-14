@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-kagoshima-kirishima-onsen-autumn-stay/"
   };
 
@@ -481,11 +481,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">鹿児島・霧島温泉郷＆霧島神宮！天孫降臨の山紅葉と黒豚・黒毛和牛会席｜ふるさと納税で泊まれる名宿ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「鹿児島・霧島温泉郷＆霧島神宮！天孫降臨の山紅葉と黒豚・黒毛和牛会席｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「鹿児島・霧島温泉郷＆霧島神宮！天孫降臨の山紅葉と黒豚・黒毛和牛会席｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -549,7 +549,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/151207/151207_kan1.jpg" alt="霧島温泉　摘み草の宿　こまつ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>霧島丸尾森の温泉郷 露天風呂付客室の旅館</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県霧島市牧園町高千穂3908 ／ 最寄り駅：鹿児島空港 ／ 交通案内：鹿児島空港よりお車にて約３０分</p>
+                  <p><strong>【所在地・アクセス】</strong>鹿児島県霧島市牧園町高千穂3908 ／ 最寄り駅：鹿児島空港 ／ 交通案内：鹿児島空港よりお車にて約３０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -571,7 +571,7 @@ export default function Page() {
                 
                 <div className="md:col-span-3 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>宿から雄大な桜島を一望。霧島の大自然に包まれながら深まる絆 / 貸切露天(無料)・露天風呂付客室あり</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県霧島市牧園町高千穂3761 ／ 最寄り駅：主要駅 ／ 交通案内：</p>
+                  <p><strong>【所在地・アクセス】</strong>鹿児島県霧島市牧園町高千穂3761 ／ 交通案内：</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -593,7 +593,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/30120/30120_r1.jpg" alt="霧島温泉　いで湯の宿　霧島花紫 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>館内に露天風呂と内風呂が２ヶ所ずつ有り、いづれも貸切で御利用頂けます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県霧島市牧園町高千穂3254-23 ／ 最寄り駅：霧島神宮 ／ 交通案内：霧島温泉駅・霧島神宮駅より車で１５分　鹿児島空港から車で２５分、路線バスにて３０分（柳平バス停から徒歩１分含）</p>
+                  <p><strong>【所在地・アクセス】</strong>鹿児島県霧島市牧園町高千穂3254-23 ／ 最寄り駅：霧島神宮 ／ 交通案内：霧島温泉駅・霧島神宮駅より車で１５分　鹿児島空港から車で２５分、路線バスにて３０分（柳平バス停から徒歩１分含）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　3０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

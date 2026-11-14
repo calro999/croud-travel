@@ -317,11 +317,11 @@ export default function BeppuBudgetAutumnPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋の別府温泉×格安：地獄めぐりと鶴見岳紅葉！源泉かけ流し1泊3,000円台〜のコスパ最強おすすめ宿5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「秋の別府温泉×格安：地獄めぐりと鶴見岳紅葉！源泉かけ流し1泊3,000円台〜のコスパ最強おすすめ宿5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「秋の別府温泉×格安：地獄めぐりと鶴見岳紅葉！源泉かけ流し1泊3,000円台〜のコスパ最強おすすめ宿5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -403,7 +403,7 @@ export default function BeppuBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/28628/28628_r.jpg" alt="別府温泉　天空湯房　清海荘 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>別府で唯一の別府湾の絶景をお楽しみいただける展望貸切露天風呂を十分ご堪能下さい。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大分県別府市北浜3丁目14-3 ／ 最寄り駅：別府（大分） ／ 交通案内：ＪＲ別府駅～徒歩１5分／別府ＩＣ～お車で１５分</p>
+                  <p><strong>【所在地・アクセス】</strong>大分県別府市北浜3丁目14-3 ／ 最寄り駅：別府（大分） ／ 交通案内：ＪＲ別府駅～徒歩１5分／別府ＩＣ～お車で１５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.45 ／ 立地 ★4.4 ／ 部屋 ★4.3 ／ 設備 ★4.07 ／ 風呂 ★4.2 ／ 食事 ★4.44</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -425,7 +425,7 @@ export default function BeppuBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1938/1938_room.jpg" alt="別府温泉　ホテルニューツルタ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>別府湾を望む、まちなかに立地。地上20ｍにある大浴場からは別府湾が一望！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大分県別府市北浜1-14-15 ／ 最寄り駅：大分 ／ 交通案内：ＪＲ別府駅より徒歩8分。別府ＩＣより車で約15分。駐車場先着順、入庫後21時間最大700円。全室ロビー無料Wi-fi</p>
+                  <p><strong>【所在地・アクセス】</strong>大分県別府市北浜1-14-15 ／ 最寄り駅：大分 ／ 交通案内：ＪＲ別府駅より徒歩8分。別府ＩＣより車で約15分。駐車場先着順、入庫後21時間最大700円。全室ロビー無料Wi-fi</p>
                   <p><strong>【駐車場・マイカー利用】</strong>入庫後21時間：最大700円・駐車場は有料＆先着順。満車の場合はご利用いただけないことがございます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -447,7 +447,7 @@ export default function BeppuBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9243/9243.jpg" alt="別府温泉　別府ステーションホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>別府駅まで徒歩１分！ 駐車場無料！ 天然温泉掛け流し100％ あり！！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大分県別府市駅前町13-4 ／ 最寄り駅：別府（大分） ／ 交通案内：ＪＲ別府駅が目の前（表玄関　東口）徒歩30秒</p>
+                  <p><strong>【所在地・アクセス】</strong>大分県別府市駅前町13-4 ／ 最寄り駅：別府（大分） ／ 交通案内：ＪＲ別府駅が目の前（表玄関　東口）徒歩30秒</p>
                   <p><strong>【駐車場・マイカー利用】</strong>専用ならびに契約駐車場有り　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.09 ／ 立地 ★4.17 ／ 部屋 ★4.03 ／ 設備 ★3.92 ／ 風呂 ★4.18 ／ 食事 ★4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -469,7 +469,7 @@ export default function BeppuBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/189223/189223.jpg" alt="別府観光ホテルエース 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>部屋は広々４０平米以上　添寝のお子様０円！　別府湾を一望できるオーシャンビュールームあり</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大分県別府市堀田町28番23号 ／ 最寄り駅：別府（大分） ／ 交通案内：別府ICから車で約１分、ＪＲ別府駅から車で約１２分、大分空港から車で約４０分</p>
+                  <p><strong>【所在地・アクセス】</strong>大分県別府市堀田町28番23号 ／ 最寄り駅：別府（大分） ／ 交通案内：別府ICから車で約１分、ＪＲ別府駅から車で約１２分、大分空港から車で約４０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り：普通車34台、軽自動車2台 駐車可能　※無料　ご予約は不要です。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★4.24 ／ 部屋 ★4.29 ／ 設備 ★4.06 ／ 風呂 ★4.27 ／ 食事 ★4.19</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -491,7 +491,7 @@ export default function BeppuBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/196409/196409.jpg" alt="別府温泉　ホテル三泉閣 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【2025年5月全館リニューアルオープン】別府の歴史と文化が息づく地に新たな温泉リゾート</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大分県別府市北浜3-6-23 ／ 最寄り駅：別府（大分） ／ 交通案内：JR別府駅より徒歩にて約10分（タクシーにて約3分）／別府国際観光港よりタクシーにて約6分／別府ICより車で約10分</p>
+                  <p><strong>【所在地・アクセス】</strong>大分県別府市北浜3-6-23 ／ 最寄り駅：別府（大分） ／ 交通案内：JR別府駅より徒歩にて約10分（タクシーにて約3分）／別府国際観光港よりタクシーにて約6分／別府ICより車で約10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（500円／泊）予約不可・先着順。※トキハ駐車場は途中出庫不可・チェックイン時に駐車券を要提示</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

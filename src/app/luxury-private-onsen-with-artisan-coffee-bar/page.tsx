@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/luxury-private-onsen-with-artisan-coffee-bar/"
   };
 
@@ -270,23 +270,6 @@ export default function Page() {
             ))}
           </div>
         </section>
-
-        {/* 旅のQ&A */}
-        <section className="bg-white rounded-2xl p-6 md:p-8 border border-stone-200 shadow-sm space-y-4">
-          <h2 className="text-lg md:text-xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">よくある質問・失敗しない宿選び</h2>
-          <div className="space-y-4 text-sm">
-            <div className="border border-stone-100 rounded-xl p-4 bg-stone-50/50 space-y-2">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5"><span className="text-emerald-700 font-black">Q.</span> おすすめの予約時期やタイミングは？</h3>
-              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">人気の日程（連休や週末）は1〜2ヶ月前には満室になることが多いため、早期予約（早割プラン）の利用がおすすめです。また楽天トラベルの「5と0のつく日」キャンペーンを活用すると最大20%オフのクーポンが併用でき、最もお得に予約できます。
-              </p>
-            </div>
-            <div className="border border-stone-100 rounded-xl p-4 bg-stone-50/50 space-y-2">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5"><span className="text-emerald-700 font-black">Q.</span> 宿選びで失敗しないためのポイントは？</h3>
-              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">宿泊者レビューのお風呂・お食事・接客評価が4.3以上の宿を選ぶと満足度が非常に高くなります。またアクセス手段（送迎バスの有無など）やプランに含まれる特典を事前に確認しておくと安心です。
-              </p>
-            </div>
-          </div>
-        </section>
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -411,6 +394,9 @@ export default function Page() {
           </div>
         </section>
 
+              <div className="my-8">
+          <ShareButtons title="【2026年】専属バリスタのスペシャリティコーヒー！自家焙煎BAR＆カフェラウンジ付き温泉宿5選" url="https://croud-travel.pages.dev/luxury-private-onsen-with-artisan-coffee-bar/" />
+        </div>
       </main>
     
       <HubRelatedPosts currentSlug="luxury-private-onsen-with-artisan-coffee-bar" />

@@ -57,7 +57,7 @@ export default function SiteHeader() {
           <BookmarksModal />
           <span className="text-emerald-950/20">/</span>
           <a
-            href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2F"
+            href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fsearch.travel.rakuten.co.jp%2Fds%2Fundated%2Fsearch%3Ff_query%3D%25E4%25BA%25BA%25E6%25B0%2597%25E6%25B8%25A9%25E6%25B3%2589%25E5%25AE%25BF"
             target="_blank"
             rel="sponsored noopener noreferrer"
             className="hover:text-teal-700 transition text-teal-900/60 font-medium"
@@ -167,7 +167,7 @@ export default function SiteHeader() {
           </div>
           <div className="pt-1">
             <a
-              href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2F"
+              href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fsearch.travel.rakuten.co.jp%2Fds%2Fundated%2Fsearch%3Ff_query%3D%25E4%25BA%25BA%25E6%25B0%2597%25E6%25B8%25A9%25E6%25B3%2589%25E5%25AE%25BF"
               target="_blank"
               rel="sponsored noopener noreferrer"
               className="block w-full text-center py-2.5 rounded-xl bg-gradient-to-r from-teal-800 to-emerald-800 text-white font-bold shadow-xs hover:opacity-90 transition"

@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/stargazing-telescope-planetarium-night-sky-resort/"
   };
 
@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F6116%2F6116.html%26f_flg%3DPLAN",
     "hotelMinCharge": 5500,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/6116/6116.jpg",
-    "userReview": "絶景のロケーションとおもてなしに心から癒やされました。",
+    "userReview": "露天風呂の宿　開運の湯　ロイヤルホテル河口湖ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
     "reviewAverage": 3.2,
     "reviewCount": 493,
     "address": "山梨県南都留郡富士河口湖町船津6713-22",
@@ -270,23 +270,6 @@ export default function Page() {
             ))}
           </div>
         </section>
-
-        {/* 旅のQ&A */}
-        <section className="bg-white rounded-2xl p-6 md:p-8 border border-stone-200 shadow-sm space-y-4">
-          <h2 className="text-lg md:text-xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">よくある質問・失敗しない宿選び</h2>
-          <div className="space-y-4 text-sm">
-            <div className="border border-stone-100 rounded-xl p-4 bg-stone-50/50 space-y-2">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5"><span className="text-emerald-700 font-black">Q.</span> おすすめの予約時期やタイミングは？</h3>
-              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">人気の日程（連休や週末）は1〜2ヶ月前には満室になることが多いため、早期予約（早割プラン）の利用がおすすめです。また楽天トラベルの「5と0のつく日」キャンペーンを活用すると最大20%オフのクーポンが併用でき、最もお得に予約できます。
-              </p>
-            </div>
-            <div className="border border-stone-100 rounded-xl p-4 bg-stone-50/50 space-y-2">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5"><span className="text-emerald-700 font-black">Q.</span> 宿選びで失敗しないためのポイントは？</h3>
-              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">宿泊者レビューのお風呂・お食事・接客評価が4.3以上の宿を選ぶと満足度が非常に高くなります。またアクセス手段（送迎バスの有無など）やプランに含まれる特典を事前に確認しておくと安心です。
-              </p>
-            </div>
-          </div>
-        </section>
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -416,11 +399,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">本格天体望遠鏡＆星空ガイド付き！満天の星と天の川に包まれる高原星空リゾート：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「本格天体望遠鏡＆星空ガイド付き！満天の星と天の川に包まれる高原星空リゾート」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「本格天体望遠鏡＆星空ガイド付き！満天の星と天の川に包まれる高原星空リゾート」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -440,7 +423,7 @@ export default function Page() {
               <tbody className="divide-y divide-stone-200">
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 星空の見えるリゾートホテル　峰山高原ホテルリラクシア</td>
-                <td className="p-3 text-stone-600">北海道</td>
+                <td className="p-3 text-stone-600">兵庫県神崎郡神河町上小田881-146</td>
                 <td className="p-3 text-stone-600">■播但道神崎南ICより県道8号線を約30分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.37（306件）</td>
@@ -458,7 +441,7 @@ export default function Page() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. かえで庵　伊豆高原　英国調アンティークホテル　全室露天風呂付き客室の宿</td>
-                <td className="p-3 text-stone-600">北海道</td>
+                <td className="p-3 text-stone-600">静岡県伊東市八幡野1258-11</td>
                 <td className="p-3 text-stone-600">東名厚木ＩＣ、沼津ＩＣより約９０分／伊豆急伊豆高原駅よりタクシー５分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.78（762件）</td>
@@ -467,7 +450,7 @@ export default function Page() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 露天風呂の宿　開運の湯　ロイヤルホテル河口湖</td>
-                <td className="p-3 text-stone-600">北海道</td>
+                <td className="p-3 text-stone-600">山梨県南都留郡富士河口湖町船津6713-22</td>
                 <td className="p-3 text-stone-600">中央道河口湖ＩＣ－Ｒ１３９を河口湖方面へ約１０分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★3.2（493件）</td>
@@ -501,8 +484,8 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/67476/67476.jpg" alt="星空の見えるリゾートホテル　峰山高原ホテルリラクシア 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「本格天体望遠鏡＆星空ガイド付き（満天の星と天の川に包まれる高原星空リゾート）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：■播但道神崎南ICより県道8号線を約30分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>「本格天体望遠鏡＆星空ガイド付き！満天の星と天の川に包まれる高原星空リゾート」掲載宿の所在地・アクセス・特徴データ一覧は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：■播但道神崎南ICより県道8号線を約30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -524,7 +507,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/109464/109464_twn.jpg" alt="芦別温泉スターライトホテル＆おふろｃａｆｅ星遊館　満天の星空×サウナリゾート 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>おふろcafeでのんびり！星空露天風呂と３種のサウナでととのう旅を♪　空知・旭川・富良野美瑛観光に！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道芦別市旭町油谷1 ／ 最寄り駅：芦別 ／ 交通案内：芦別駅から10分／旭川駅から約60分／旭川空港から約80分／札幌・新千歳空港から約120分（車移動）</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道芦別市旭町油谷1 ／ 最寄り駅：芦別 ／ 交通案内：芦別駅から10分／旭川駅から約60分／旭川空港から約80分／札幌・新千歳空港から約120分（車移動）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場約２５０台！予約不要／電気自動車充電器あり／大型車OK／屋根付きバイク駐輪場あり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.22 ／ 部屋 ★4.17 ／ 設備 ★4.31 ／ 風呂 ★4.5 ／ 食事 ★4.4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -545,8 +528,8 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/14738/14738.jpg" alt="かえで庵　伊豆高原　英国調アンティークホテル　全室露天風呂付き客室の宿 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「本格天体望遠鏡＆星空ガイド付き（満天の星と天の川に包まれる高原星空リゾート）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：東名厚木ＩＣ、沼津ＩＣより約９０分／伊豆急伊豆高原駅よりタクシー５分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>かえで庵 伊豆高原 英国調アンティークホテル 全室露天風呂付き客室の宿（静岡県伊東市八幡野1258-11）は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：東名厚木ＩＣ、沼津ＩＣより約９０分／伊豆急伊豆高原駅よりタクシー５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -567,12 +550,12 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/6116/6116.jpg" alt="露天風呂の宿　開運の湯　ロイヤルホテル河口湖 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「本格天体望遠鏡＆星空ガイド付き（満天の星と天の川に包まれる高原星空リゾート）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：中央道河口湖ＩＣ－Ｒ１３９を河口湖方面へ約１０分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>温泉好きも絶賛！湖畔の風吹き抜ける庭園風露天風呂など３種の【開運の湯】は滞在中何度でも入り放題♪</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：中央道河口湖ＩＣ－Ｒ１３９を河口湖方面へ約１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「絶景のロケーションとおもてなしに心から癒やされました。」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂の宿 開運の湯 ロイヤルホテル河口湖での快適な滞在とアクセス面の良さに満足したという評価が寄せられています。」
                   </blockquote>
                 </div>
               </div>
@@ -590,7 +573,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9340/9340_rote.jpg" alt="１１種類の貸切露天風呂　水上高原／奥利根温泉　ホテルサンバード 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>１１種の貸切露天風呂や滝を望む高台の露天風呂など湯めぐりを満喫！高原ＢＢＱプランも大人気！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県利根郡みなかみ町藤原4957-1 ／ 最寄り駅：水上 ／ 交通案内：車で関越自動車道・水上ＩＣから３０分・ＪＲで上越線　水上駅より　湯ノ小屋行きバスで藤原スキー場入口下車900M</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県利根郡みなかみ町藤原4957-1 ／ 最寄り駅：水上 ／ 交通案内：車で関越自動車道・水上ＩＣから３０分・ＪＲで上越線　水上駅より　湯ノ小屋行きバスで藤原スキー場入口下車900M</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り ３００台 無料 先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.03 ／ 立地 ★4.08 ／ 部屋 ★3.94 ／ 設備 ★3.75 ／ 風呂 ★4.19 ／ 食事 ★4.16</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -601,6 +584,9 @@ export default function Page() {
             </div>
           </div></section>
 
+              <div className="my-8">
+          <ShareButtons title="本格天体望遠鏡＆星空ガイド付き！満天の星と天の川に包まれる高原星空リゾート" url="https://croud-travel.pages.dev/stargazing-telescope-planetarium-night-sky-resort/" />
+        </div>
       </main>
     
       <HubRelatedPosts currentSlug="stargazing-telescope-planetarium-night-sky-resort" />

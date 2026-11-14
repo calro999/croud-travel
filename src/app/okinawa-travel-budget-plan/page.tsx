@@ -238,11 +238,11 @@ export default function OkinawaTravelBudgetPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">沖縄旅行 予算：2泊3日・3泊4日それぞれいくら？航空券・レンタカー・リゾートホテルのリアル費用：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「沖縄旅行 予算：2泊3日・3泊4日それぞれいくら？航空券・レンタカー・リゾートホテルのリアル費用」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「沖縄旅行 予算：2泊3日・3泊4日それぞれいくら？航空券・レンタカー・リゾートホテルのリアル費用」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -333,7 +333,7 @@ export default function OkinawaTravelBudgetPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/104526/104526_ro.jpg" alt="ダイワロイネットホテル沖縄県庁前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ゆいレール「旭橋駅」より徒歩約3分。国際通りへは徒歩約5分。別館1階にコンビニ有。ビジネスや観光に。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県那覇市泉崎1-11-2 ／ 最寄り駅：主要駅 ／ 交通案内：「那覇空港」よりゆいレールで（約15分）「旭橋駅」下車、 徒歩約3分。那覇空港より車で約15分。国際通りへは徒歩約5分</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県那覇市泉崎1-11-2 ／ 交通案内：「那覇空港」よりゆいレールで（約15分）「旭橋駅」下車、 徒歩約3分。那覇空港より車で約15分。国際通りへは徒歩約5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>立体駐車場36台（内ハイルーフ8台）／1,500円税込（1泊：14時〜翌11時）／先着順（予約不可）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.26 ／ 立地 ★4.25 ／ 部屋 ★4.28 ／ 設備 ★4.19 ／ 風呂 ★4.16</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -355,7 +355,7 @@ export default function OkinawaTravelBudgetPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/198402/198402.jpg" alt="ＢＬＩＳＳＴＩＡ　ＳＵＩＴＥＳ＆ＲＥＳＯＲＴ　沖縄恩納村（２０２６年７月１５日開業） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>恩納村の森に佇むリゾートホテルが誕生。インフィニティプールやSPAなど、優雅な空間が五感を満たす。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県国頭郡恩納村字前兼久497番6 ／ 最寄り駅：那覇空港 ／ 交通案内：那覇国際空港より車で約53分（沖縄自動車道を利用し石川ICより１０分）</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県国頭郡恩納村字前兼久497番6 ／ 最寄り駅：那覇空港 ／ 交通案内：那覇国際空港より車で約53分（沖縄自動車道を利用し石川ICより１０分）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>あり　124台　１泊１台1,000円（最大2,000円）　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -377,7 +377,7 @@ export default function OkinawaTravelBudgetPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/173949/173949.jpg" alt="綺麗な海Ｖｉｌｌａ　オーシャンビュー～広々一軒家貸切３００ｍ２沖縄屈指のリゾートエリア恩納村　＾ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>沖縄屈指のリゾートエリア恩納村の高台に位置する「綺麗な海ｖｉｌｌａ」はその名前通りｖｉｌｌａからの眺望が自慢です。（３００㎡）</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県国頭郡恩納村字仲泊1425-5 ／ 最寄り駅：那覇空港 ／ 交通案内：儀保駅よりお車にて約３５分</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県国頭郡恩納村字仲泊1425-5 ／ 最寄り駅：那覇空港 ／ 交通案内：儀保駅よりお車にて約３５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -399,7 +399,7 @@ export default function OkinawaTravelBudgetPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/191787/191787.jpg" alt="ブルーシャローズ恩納村リゾート 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>恩納村の海辺に立地するホテル。海が一望できるプライベートプール付のお部屋もございます</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県国頭郡恩納村真栄田3378-12　　2Ｆ ／ 最寄り駅：那覇空港 ／ 交通案内：那覇空港から沖縄自動車道経由→石川ICをでて県道78号線を西に進みます。所要時間/約1時間約15分</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県国頭郡恩納村真栄田3378-12　　2Ｆ ／ 最寄り駅：那覇空港 ／ 交通案内：那覇空港から沖縄自動車道経由→石川ICをでて県道78号線を西に進みます。所要時間/約1時間約15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -421,7 +421,7 @@ export default function OkinawaTravelBudgetPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2906/2906_heya.jpg" alt="琉球オリオンホテル　那覇国際通り（旧：オリオンホテル那覇） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【2025年リブランド】国際通り沿い、牧志駅徒歩3分！「沖縄をもっと楽しくする」旅の拠点となるホテル</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県那覇市安里1-2-21 ／ 最寄り駅：那覇空港 ／ 交通案内：那覇空港よりモノレールで約20分、牧志駅より徒歩3分、国際通り沿い、コンビニ、スーパーも目の前の好立地</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県那覇市安里1-2-21 ／ 最寄り駅：那覇空港 ／ 交通案内：那覇空港よりモノレールで約20分、牧志駅より徒歩3分、国際通り沿い、コンビニ、スーパーも目の前の好立地</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（先着順）　1泊1台1,500円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -443,7 +443,7 @@ export default function OkinawaTravelBudgetPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/166949/166949_kan1.jpg" alt="ワイズキャビン＆ホテル那覇国際通り 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ゆったり寛げる男女別サウナ付大浴場併設！キャビン・洋室・和室と幅広いラインナップ！！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県那覇市久茂地3-9-18 ／ 最寄り駅：主要駅 ／ 交通案内：ゆいレール県庁前駅徒歩３分</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県那覇市久茂地3-9-18 ／ 交通案内：ゆいレール県庁前駅徒歩３分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有＊予約制＊1泊1,000円(税込)、2026年2月から￥1200円に改定</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">和歌山・南紀白浜：白良浜・アドベンチャーワールド＆崎の湯・クエ極上宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「和歌山・南紀白浜：白良浜・アドベンチャーワールド＆崎の湯・クエ極上宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「和歌山・南紀白浜：白良浜・アドベンチャーワールド＆崎の湯・クエ極上宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -305,7 +305,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8226/8226_room.jpg" alt="白浜温泉　ホテル三楽荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>得旅ポイント最大15倍■全室オーシャンビュー&amp;amp;白良浜徒歩1分■露天風呂付き客室はすべて源泉掛け流し</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県西牟婁郡白浜町3078 ／ 最寄り駅：白浜 ／ 交通案内：車：紀勢自動車道南紀白浜ICより県道34号線を白浜温泉方面へ約20分 電車：JR白浜駅よりバスで15分</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県西牟婁郡白浜町3078 ／ 最寄り駅：白浜 ／ 交通案内：車：紀勢自動車道南紀白浜ICより県道34号線を白浜温泉方面へ約20分 電車：JR白浜駅よりバスで15分</p>
                   <p>【和歌山・南紀白浜：白良浜・アドベンチャーワールド＆崎】 <strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -327,7 +327,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/44251/44251_wa.jpg" alt="白浜温泉　ホテルサンリゾート白浜 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>本館”全室で露天壺湯が楽しめる温泉宿♪お得なクーポン配布中！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県西牟婁郡白浜町堅田2500-185 ／ 最寄り駅：白浜 ／ 交通案内：JR白浜駅より車で約5分・南紀白浜空港より車で約10分・JR白浜駅より旅館組合運営無料シャトルバス運行（運休日あり）</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県西牟婁郡白浜町堅田2500-185 ／ 最寄り駅：白浜 ／ 交通案内：JR白浜駅より車で約5分・南紀白浜空港より車で約10分・JR白浜駅より旅館組合運営無料シャトルバス運行（運休日あり）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　35台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -349,7 +349,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/183409/183409.jpg" alt="南紀白浜　和みの湯　花鳥風月 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【楽天アワード2023Ｗ受賞の宿】海抜27ｍの高台にございます全室天然温泉半露天風呂付の宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県西牟婁郡白浜町3729-32 ／ 最寄り駅：白浜 ／ 交通案内：JR白浜駅より車で15分／南紀白浜空港より車で約15分／アドベンチャーワールドより車で約15分</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県西牟婁郡白浜町3729-32 ／ 最寄り駅：白浜 ／ 交通案内：JR白浜駅より車で15分／南紀白浜空港より車で約15分／アドベンチャーワールドより車で約15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>24台（無料）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -371,7 +371,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/17665/17665_w.jpg" alt="白浜温泉　ＫＫＲ白浜　美浜荘（国家公務員共済組合連合会白浜保養所） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>白良浜海水浴場まで徒歩2分！源泉かけ流し温泉と紀州海の幸が自慢の宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県西牟婁郡白浜町1564-2 ／ 最寄り駅：白浜 ／ 交通案内：JRきのくに線 白浜駅下車 路線バス 温泉行き 白良浜バス停より徒歩２分  阪和自動車道を南紀田辺ＩＣ～車で25分</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県西牟婁郡白浜町1564-2 ／ 最寄り駅：白浜 ／ 交通案内：JRきのくに線 白浜駅下車 路線バス 温泉行き 白良浜バス停より徒歩２分  阪和自動車道を南紀田辺ＩＣ～車で25分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　【20台】　　無料です。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

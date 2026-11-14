@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">石川・加賀温泉郷：山中温泉・山代温泉＆鶴仙渓川床・加能ガニ極上宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「石川・加賀温泉郷：山中温泉・山代温泉＆鶴仙渓川床・加能ガニ極上宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「石川・加賀温泉郷：山中温泉・山代温泉＆鶴仙渓川床・加能ガニ極上宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/67124/67124_gen.jpg" alt="山中温泉　吉祥やまなか 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>清流と名湯、美食に包まれるラグジュアリー宿。山中温泉の文化に触れ、心ほどける静寂の滞在。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県加賀市山中温泉東町1-ホ14-3 ／ 最寄り駅：加賀温泉 ／ 交通案内：加賀温泉駅・小松空港から無料送迎あり（要予約/定時便）【車】加賀ICより14分。金沢・福井へは車で1時間</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県加賀市山中温泉東町1-ホ14-3 ／ 最寄り駅：加賀温泉 ／ 交通案内：加賀温泉駅・小松空港から無料送迎あり（要予約/定時便）【車】加賀ICより14分。金沢・福井へは車で1時間</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有（無料）２０台　※正面玄関前にお越しください。スタッフがご案内いたします。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.77 ／ 立地 ★4.51 ／ 部屋 ★4.54 ／ 設備 ★4.61 ／ 風呂 ★4.67 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/68251/68251_j.jpg" alt="山中温泉　かがり吉祥亭 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>≪全室リバービュー・夕食時飲み放題≫渓流沿いの露天風呂と旬の加賀料理を堪能。こおろぎ橋・ゆげ街道すぐ</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県加賀市山中温泉こおろぎ町ニ1-1 ／ 最寄り駅：加賀温泉 ／ 交通案内：加賀温泉駅・小松空港から無料送迎あり（要予約/定時便）【車】加賀ICより16分。金沢・福井へは車で1時間</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県加賀市山中温泉こおろぎ町ニ1-1 ／ 最寄り駅：加賀温泉 ／ 交通案内：加賀温泉駅・小松空港から無料送迎あり（要予約/定時便）【車】加賀ICより16分。金沢・福井へは車で1時間</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有（無料）３０台  ※正面玄関へお越しください。スタッフが駐車場へご案内いたします。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.67 ／ 立地 ★4.56 ／ 部屋 ★4.5 ／ 設備 ★4.42 ／ 風呂 ★4.6 ／ 食事 ★4.7</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/68544/68544_o.jpg" alt="山中温泉　厨八十八 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>温泉宿は日常から離れ、癒され、疲れをとり、鋭気を養うところ。ゆっくりと贅沢な時間をお楽しみください。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県加賀市山中温泉菅谷町ロ62 ／ 最寄り駅：加賀温泉 ／ 交通案内：加賀温泉駅より車で約20分（事前予約制の送迎がございます。時間など詳細よくある質問をご確認ください）</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県加賀市山中温泉菅谷町ロ62 ／ 最寄り駅：加賀温泉 ／ 交通案内：加賀温泉駅より車で約20分（事前予約制の送迎がございます。時間など詳細よくある質問をご確認ください）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３５台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5174/5174_ro.jpg" alt="温泉めい想倶楽部　富士屋旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【料理高評価】ライブラリ・ギャラリー・無料卓球・など嬉しいがいっぱい♪◆楽天トラベルアワード受賞の宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県加賀市山代温泉桔梗ヶ丘2-121-3 ／ 最寄り駅：加賀温泉 ／ 交通案内：【ＪＲ】北陸本線加賀温泉駅より送迎有（１4：３０～１８：００）要事前予約／【車】北陸道加賀IC又は片山津ICより約20分</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県加賀市山代温泉桔梗ヶ丘2-121-3 ／ 最寄り駅：加賀温泉 ／ 交通案内：【ＪＲ】北陸本線加賀温泉駅より送迎有（１4：３０～１８：００）要事前予約／【車】北陸道加賀IC又は片山津ICより約20分</p>
                   <p>【石川・加賀温泉郷：山中温泉・山代温泉＆鶴仙渓川床・加】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.09 ／ 立地 ★3.81 ／ 部屋 ★3.96 ／ 設備 ★3.73 ／ 風呂 ★3.97 ／ 食事 ★4.26</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7955/7955_war.jpg" alt="山代温泉　料理自慢の宿　ホテルききょう 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>18部屋の料理自慢の宿　新しくなった「くろ」と「しろ」を基調とした天然温泉が心と体を癒します</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県加賀市山代温泉16-162-5 ／ 最寄り駅：加賀温泉 ／ 交通案内：◆JR加賀温泉駅より車で10分◆JR金沢駅より車で55分◆小松空港より車で25分</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県加賀市山代温泉16-162-5 ／ 最寄り駅：加賀温泉 ／ 交通案内：◆JR加賀温泉駅より車で10分◆JR金沢駅より車で55分◆小松空港より車で25分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>【有り】　50台  先着順/ 駐車料金　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.54 ／ 立地 ★4.29 ／ 部屋 ★4.62 ／ 設備 ★4.53 ／ 風呂 ★4.57 ／ 食事 ★4.74</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/40312/40312_ya.jpg" alt="山中温泉　白鷺湯たわらや 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【2023年4月・露天風呂付特別室OPEN】創業800年/老舗/渓流露天風呂/蟹/のどぐろ/能登牛</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県加賀市山中温泉東町２丁目ヘ-1 ／ 最寄り駅：加賀温泉 ／ 交通案内：ＪＲ加賀温泉駅からバスで山中温泉バスターミナル２５分。さらに徒歩３分。（無料送迎有。要予約１４：００～１８：００）。</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県加賀市山中温泉東町２丁目ヘ-1 ／ 最寄り駅：加賀温泉 ／ 交通案内：ＪＲ加賀温泉駅からバスで山中温泉バスターミナル２５分。さらに徒歩３分。（無料送迎有。要予約１４：００～１８：００）。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>８０台分有り（無料）　※スタッフが場所をご案内しますので、正面玄関まで車をお寄せくださいませ。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.59 ／ 立地 ★4.42 ／ 部屋 ★4.37 ／ 設備 ★4.34 ／ 風呂 ★4.55 ／ 食事 ★4.62</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

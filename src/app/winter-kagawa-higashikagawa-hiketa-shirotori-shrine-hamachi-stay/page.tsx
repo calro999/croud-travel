@@ -48,8 +48,8 @@ export default function Page() {
       "headline": "【讃岐の風待ち港町・引田の商家町と白鳥神社新春初詣】2026-2027年冬の香川・東かがわ！安戸池の冬オリーブハマチと瀬戸内温泉名宿5選",
       "description": "日本初のハマチ養殖発祥・安戸池の冬オリーブハマチと、日本武尊白鳥伝説の白鳥神社新春初詣！風待ち港町・引田のレトロ商家町散策。瀬戸内海の潮騒と美肌温泉で心身を解きほぐす冬の東かがわ・さぬき厳選名宿5選。",
       "image": "https://img.travel.rakuten.co.jp/share/HOTEL/68660/68660.jpg",
-      "datePublished": "",
-      "dateModified": "",
+      "datePublished": "2026-11-01",
+      "dateModified": "2026-11-15",
       "author": {
         "@type": "Organization",
         "name": "Japan Travel Curations"

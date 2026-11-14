@@ -48,8 +48,8 @@ export default function Page() {
       "headline": "【日本三大山城・岩村城跡の霧氷美と女城主の里重伝建】2026-2027年冬の岐阜・恵那！恵那峡温泉の絶景露天と飛騨牛朴葉味噌・五平餅名宿5選",
       "description": "霧氷と白雪に抱かれる日本三大山城「岩村城跡」と江戸情緒残る城下町重伝建地区！冬の奇岩パノラマ恵那峡温泉の絶景露天風呂。香ばしい郷土の五平餅や極上飛騨牛の朴葉味噌焼きに満たされる冬の東濃・恵那の厳選名宿5選。",
       "image": "https://img.travel.rakuten.co.jp/share/HOTEL/80774/80774.jpg",
-      "datePublished": "",
-      "dateModified": "",
+      "datePublished": "2026-11-01",
+      "dateModified": "2026-11-15",
       "author": {
         "@type": "Organization",
         "name": "Japan Travel Curations"

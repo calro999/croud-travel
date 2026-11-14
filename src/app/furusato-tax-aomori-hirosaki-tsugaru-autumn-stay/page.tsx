@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-aomori-hirosaki-tsugaru-autumn-stay/"
   };
 
@@ -482,11 +482,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">青森・弘前城菊と紅葉まつり＆津軽の秋！岩木山麓温泉と津軽りんご収穫・極上大間まぐろ｜ふるさと納税で泊まれる名宿ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「青森・弘前城菊と紅葉まつり＆津軽の秋！岩木山麓温泉と津軽りんご収穫・極上大間まぐろ｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「青森・弘前城菊と紅葉まつり＆津軽の秋！岩木山麓温泉と津軽りんご収穫・極上大間まぐろ｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -550,7 +550,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/20508/20508_st.jpg" alt="ブロッサムホテル弘前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>■2022年4月全館リニューアル■弘前駅より徒歩２分！お部屋もベッドも広々！全室WiFi対応</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 青森県弘前市駅前町7-3 ／ 最寄り駅：弘前 ／ 交通案内：ＪＲ弘前駅より徒歩2分 東北自動車道・大鰐弘前ＩＣより車で約20分 青森空港より国道７号経由で車で約60分</p>
+                  <p><strong>【所在地・アクセス】</strong>青森県弘前市駅前町7-3 ／ 最寄り駅：弘前 ／ 交通案内：ＪＲ弘前駅より徒歩2分 東北自動車道・大鰐弘前ＩＣより車で約20分 青森空港より国道７号経由で車で約60分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>併設有料駐車場有(1泊550円(込))。満車時は提携駐車場へご案内致します。大型車は要問合せ。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -572,7 +572,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/10983/10983_sgl.jpg" alt="弘前プラザホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>R3.9/30 Wi-Fi増強工事完了！コンビニ近くに2件、館内コインランドリーで便利。全室禁煙！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 青森県弘前市代官町101-1 ／ 最寄り駅：弘前 ／ 交通案内：ＪＲ奥羽本線弘前駅より徒歩１5分／東北自動車道大鰐弘前ＩＣより２０分</p>
+                  <p><strong>【所在地・アクセス】</strong>青森県弘前市代官町101-1 ／ 最寄り駅：弘前 ／ 交通案内：ＪＲ奥羽本線弘前駅より徒歩１5分／東北自動車道大鰐弘前ＩＣより２０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　70台平面駐車場　普通車1泊500円 先着順・予約不可・大型車不可</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -594,7 +594,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1506/1506_sgl.jpg" alt="スマイルホテル弘前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ビジネス・観光に！メニュー豊富な朝食ビュッフェ・全室にTEMPUR(R)製寝具</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 青森県弘前市大字土手町73-2 ／ 最寄り駅：弘前 ／ 交通案内：JR弘前駅から徒歩で20分・車で5分</p>
+                  <p><strong>【所在地・アクセス】</strong>青森県弘前市大字土手町73-2 ／ 最寄り駅：弘前 ／ 交通案内：JR弘前駅から徒歩で20分・車で5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（100台）：1泊500円　大型車：1泊 3,000円～6,000円　※全て税込、バイク不可</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

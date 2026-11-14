@@ -236,7 +236,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -681,11 +681,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：紫の絨毯が広がる夏の富良野！ラベンダー畑パノラマ＆ふらの和牛ディナーの宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：紫の絨毯が広がる夏の富良野！ラベンダー畑パノラマ＆ふらの和牛ディナーの宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：紫の絨毯が広がる夏の富良野！ラベンダー畑パノラマ＆ふらの和牛ディナーの宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -767,7 +767,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/16240/16240_trp.jpg" alt="富良野リゾートホテル　エーデルヴェルメ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>大雪山・十勝岳連峰と富良野の雄大な景色を堪能できる北欧風リゾートホテルでコンセプトルームを多数ご用意</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道富良野市北の峰町9-20 ／ 最寄り駅：富良野 ／ 交通案内：札幌ICから道央自動車道、三笠ICまで約30分、道道116号岩見沢三笠線/国道38号線、北の峰経由で約1時間30分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道富良野市北の峰町9-20 ／ 最寄り駅：富良野 ／ 交通案内：札幌ICから道央自動車道、三笠ICまで約30分、道道116号岩見沢三笠線/国道38号線、北の峰経由で約1時間30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -789,7 +789,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/75270/75270_room.jpg" alt="ホテル　ナトゥールヴァルト富良野 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>富良野の女性と子どもに優しい宿♪心が温かくなる接客・富良野スキー場目の前</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道富良野市北の峰町14-46 ／ 最寄り駅：富良野 ／ 交通案内：車札幌から約3時間、旭川・旭山動物園から約1時間/旭川空港 富良野バス（旭川-富良野駅）で1時間</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道富良野市北の峰町14-46 ／ 最寄り駅：富良野 ／ 交通案内：車札幌から約3時間、旭川・旭山動物園から約1時間/旭川空港 富良野バス（旭川-富良野駅）で1時間</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（もちろんハイルーフ車もOK）　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -811,7 +811,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/30804/30804_kan1.jpg" alt="新富良野プリンスホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>冬の富良野を満喫するチャンス！期間限定タイムセール開催中。今だけ使えるクーポン配布中！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道富良野市中御料 ／ 最寄り駅：富良野 ／ 交通案内：ＪＲ富良野駅タクシー10分／道央自動車道 三笠ＩＣより車で約60分／旭川空港・新千歳空港から路線バスあり（終点当ホテル）</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道富良野市中御料 ／ 最寄り駅：富良野 ／ 交通案内：ＪＲ富良野駅タクシー10分／道央自動車道 三笠ＩＣより車で約60分／旭川空港・新千歳空港から路線バスあり（終点当ホテル）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　390台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -833,7 +833,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9215/9215_twn.jpg" alt="富良野リゾート　オリカ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>上質で魅力あるステイを「丘の上の邸宅」で。　※11月と4月は休館</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道空知郡中富良野町西2線北17号 ／ 最寄り駅：中富良野 ／ 交通案内：■新千歳空港からお車で約2時間30分　■札幌からお車で約2時間　■旭川空港からお車で約45分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道空知郡中富良野町西2線北17号 ／ 最寄り駅：中富良野 ／ 交通案内：■新千歳空港からお車で約2時間30分　■札幌からお車で約2時間　■旭川空港からお車で約45分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有（無料）　162台まで収容可能（事前予約不要）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -855,7 +855,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/69358/69358_k1.jpg" alt="ハイランドふらの 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>森林浴と一緒に露天風呂☆十勝連邦を始め広大な自然に囲まれた宿☆</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道富良野市島ノ下 ／ 最寄り駅：富良野 ／ 交通案内：JR富良野駅下車、タクシーで１５分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道富良野市島ノ下 ／ 最寄り駅：富良野 ／ 交通案内：JR富良野駅下車、タクシーで１５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２５０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

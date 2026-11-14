@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">長野・阿智村＆昼神温泉：日本一の星空ナイトツアー・美肌名湯＆信州牛極上宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「長野・阿智村＆昼神温泉：日本一の星空ナイトツアー・美肌名湯＆信州牛極上宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「長野・阿智村＆昼神温泉：日本一の星空ナイトツアー・美肌名湯＆信州牛極上宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/72733/72733_room.jpg" alt="昼神温泉　昼神グランドホテル天心 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★全館Ｗｉ-Ｆｉ対応★種類豊富な湯船で「美人の湯」を愉しめる宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県下伊那郡阿智村智里331-5 ／ 最寄り駅：飯田（長野） ／ 交通案内：中央自動車道  (名古屋方面から)園原ICより車で約10分　(東京・長野方面から)飯田山本インターより車で約10分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県下伊那郡阿智村智里331-5 ／ 最寄り駅：飯田（長野） ／ 交通案内：中央自動車道  (名古屋方面から)園原ICより車で約10分　(東京・長野方面から)飯田山本インターより車で約10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　70台　無料　予約不要 【EV・PHEV用の充電器1台あり(普通充電200V)】</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/37440/37440_he.jpg" alt="昼神温泉　ユルイの宿　恵山 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>大石を配した庭園露天風呂が好評。全客室から昼神温泉郷を一望でき、ゆったりと過ごしていただけます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県下伊那郡阿智村智里407 ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ飯田線より清内路・昼神温泉行きバスで４０分　昼神西口下車　徒歩１分   中央自動車道飯田山本ＩＣより１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県下伊那郡阿智村智里407 ／ 交通案内：ＪＲ飯田線より清内路・昼神温泉行きバスで４０分　昼神西口下車　徒歩１分   中央自動車道飯田山本ＩＣより１０分</p>
                   <p>【長野・阿智村＆昼神温泉：日本一の星空ナイトツアー・美】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5987/5987_suna.jpg" alt="昼神温泉　癒楽（ゆら）の宿　清風苑 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【2025年楽天トラベルブロンズアワード受賞】★日本一の星空と笑顔のおもてなし</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県下伊那郡阿智村智里338-19 ／ 最寄り駅：主要駅 ／ 交通案内：中央道飯田山本ＩＣ～Ｒ１５３～R２５６（約10分）/　中央道園原IC～（約10分）</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県下伊那郡阿智村智里338-19 ／ 交通案内：中央道飯田山本ＩＣ～Ｒ１５３～R２５６（約10分）/　中央道園原IC～（約10分）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り：４０台（無料）ホテルの前と後にご用意がございます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/17720/17720_heya.jpg" alt="昼神温泉　石苔亭いしだ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>平屋造り全17室純和風旅館◇露天風呂付き客室◇能舞台定期公演◇信州会席、美肌の湯、スパ、貸切風呂</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県下伊那郡阿智村智里332-3 ／ 最寄り駅：飯田（長野） ／ 交通案内：中央道・飯田山本ＩＣより約７分／ＪＲ飯田駅より無料送迎約２５分（要事前予約）／名古屋より高速バスで約１２０分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県下伊那郡阿智村智里332-3 ／ 最寄り駅：飯田（長野） ／ 交通案内：中央道・飯田山本ＩＣより約７分／ＪＲ飯田駅より無料送迎約２５分（要事前予約）／名古屋より高速バスで約１２０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台まで　屋外　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.85 ／ 立地 ★4.7 ／ 部屋 ★4.72 ／ 設備 ★4.76 ／ 風呂 ★4.73 ／ 食事 ★4.81</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5624/5624_room.jpg" alt="昼神温泉　日長庵　桂月 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【楽天トラベルブロンズアワード2024受賞】歴史ある老舗料亭を姉妹館に持つ料理自慢の宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県下伊那郡阿智村智里425 ／ 最寄り駅：飯田（長野） ／ 交通案内：JR飯田駅より無料送迎（要事前予約最終17:00） 中央道飯田山本ICより10分。園原ICより10分。</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県下伊那郡阿智村智里425 ／ 最寄り駅：飯田（長野） ／ 交通案内：JR飯田駅より無料送迎（要事前予約最終17:00） 中央道飯田山本ICより10分。園原ICより10分。</p>
                   <p>【長野・阿智村＆昼神温泉：日本一の星空ナイトツアー・美】 <strong>【駐車場・マイカー利用】</strong>有り　30台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.24 ／ 立地 ★4 ／ 部屋 ★4.23 ／ 設備 ★3.97 ／ 風呂 ★4.24 ／ 食事 ★4.37</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/51693/51693_oh.jpg" alt="昼神温泉郷　懐石と炉ばたの宿　吉弥 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>昼神温泉のとろりとした美肌の湯と炉ばた／懐石料理が自慢の宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県下伊那郡阿智村智里503-2 ／ 最寄り駅：飯田（長野） ／ 交通案内：中央道　名古屋方面から：園原ＩＣより約１０分　　東京方面から：飯田山本ＩＣより約１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県下伊那郡阿智村智里503-2 ／ 最寄り駅：飯田（長野） ／ 交通案内：中央道　名古屋方面から：園原ＩＣより約１０分　　東京方面から：飯田山本ＩＣより約１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　4０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

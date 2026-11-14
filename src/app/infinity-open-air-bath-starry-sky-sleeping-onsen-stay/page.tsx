@@ -228,11 +228,11 @@ export default function StargazingHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">満天の星空露天風呂＆寝湯インフィニティ宿：天然プラネタリウム温泉 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「満天の星空露天風呂＆寝湯インフィニティ宿：天然プラネタリウム温泉 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「満天の星空露天風呂＆寝湯インフィニティ宿：天然プラネタリウム温泉 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function StargazingHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7517/7517_bath.jpg" alt="伊香保温泉　ホテルいかほ銀水 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ペットと泊まれます♪上州三山や関東平野一望（谷川・白根・赤城）。新潟米と山海の幸を満喫。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県渋川市伊香保町伊香保557-23 ／ 最寄り駅：渋川 ／ 交通案内：関越道 伊香保・渋川ＩＣより１５分。ＪＲ上越線「渋川駅」から乗り継ぎバス２０分。</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県渋川市伊香保町伊香保557-23 ／ 最寄り駅：渋川 ／ 交通案内：関越道 伊香保・渋川ＩＣより１５分。ＪＲ上越線「渋川駅」から乗り継ぎバス２０分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り：５０台（無料・予約制）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function StargazingHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/108903/108903_kya.jpg" alt="天空の大地　久住高原ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>源泉かけ流しの天然温泉で癒しの休日、広大なくじゅう連山に抱かれて、大自然の癒しの恵みを.</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大分県竹田市久住町久住4031 ／ 最寄り駅：豊後竹田 ／ 交通案内：やまなみハイウェイ『瀬の本』から車で10分/豊後竹田駅より車で30分</p>
+                  <p><strong>【所在地・アクセス】</strong>大分県竹田市久住町久住4031 ／ 最寄り駅：豊後竹田 ／ 交通案内：やまなみハイウェイ『瀬の本』から車で10分/豊後竹田駅より車で30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　200台　無料（事前予約不要）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function StargazingHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/147507/147507_room.jpg" alt="久住温泉　フリューゲル久住　輝く星の大地 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全室スイートルーム。離れには源泉かけ流しの内湯、露天風呂付。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大分県竹田市久住町都野6049-89 ／ 最寄り駅：豊後竹田 ／ 交通案内：豊後竹田駅からお車にて約３０分　 大分自動車道湯布院ICから６０分　熊本空港から１時間３０分</p>
+                  <p><strong>【所在地・アクセス】</strong>大分県竹田市久住町都野6049-89 ／ 最寄り駅：豊後竹田 ／ 交通案内：豊後竹田駅からお車にて約３０分　 大分自動車道湯布院ICから６０分　熊本空港から１時間３０分</p>
                   <p>【満天の星空露天風呂＆寝湯インフィニティ宿：天然プラネ】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function StargazingHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/28133/28133_r.jpg" alt="くじゅう高原温泉　レゾネイトクラブくじゅう 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>阿蘇くじゅう国立公園の敷地内、標高８６５ｍの久住高原に佇む自然との共鳴がコンセプトのリゾートホテル。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大分県竹田市久住町大字有氏字広内1773 ／ 最寄り駅：豊後竹田 ／ 交通案内：JR豊後竹田駅から約３０分／大分道・日田ＩＣから約９０分</p>
+                  <p><strong>【所在地・アクセス】</strong>大分県竹田市久住町大字有氏字広内1773 ／ 最寄り駅：豊後竹田 ／ 交通案内：JR豊後竹田駅から約３０分／大分道・日田ＩＣから約９０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　屋外６０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.36 ／ 部屋 ★4.19 ／ 設備 ★4.02 ／ 風呂 ★4.09 ／ 食事 ★4.44</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function StargazingHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/176716/176716_kan1.jpg" alt="クアパーク長湯 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>クチコミ評価4.42★希少な自然炭酸泉と景観を楽しむ往復100mの「水着で入れる歩行湯」が自慢です◎</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大分県竹田市直入町長湯3041-1 ／ 最寄り駅：豊後竹田 ／ 交通案内：JR豊後竹田駅よりお車にて約２０分</p>
+                  <p><strong>【所在地・アクセス】</strong>大分県竹田市直入町長湯3041-1 ／ 最寄り駅：豊後竹田 ／ 交通案内：JR豊後竹田駅よりお車にて約２０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function StargazingHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/54497/54497_ky.jpg" alt="奥日光湯元温泉　ゆの森 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全12室◇天然温泉100％のにごり湯掛流しの露天風呂付◇美食＆名湯のスロータイムな癒し旅</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県日光市湯元2549-3 ／ 最寄り駅：東武日光 ／ 交通案内：東武日光駅から東武バス乗車、終点「湯元温泉」下車（約６０分）　日光東照宮まで車60分</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県日光市湯元2549-3 ／ 最寄り駅：東武日光 ／ 交通案内：東武日光駅から東武バス乗車、終点「湯元温泉」下車（約６０分）　日光東照宮まで車60分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１２台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.83 ／ 立地 ★4.67 ／ 部屋 ★4.61 ／ 設備 ★4.67 ／ 風呂 ★4.83 ／ 食事 ★4.83</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

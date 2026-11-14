@@ -444,11 +444,11 @@ export default function SilverWeekGlampingWithDogsPetsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">愛犬と泊まるシルバーウィーク グランピング：プライベートドッグラン付き＆ノーリードOKの極上ヴィラ：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「愛犬と泊まるシルバーウィーク グランピング：プライベートドッグラン付き＆ノーリードOKの極上ヴィラ」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「愛犬と泊まるシルバーウィーク グランピング：プライベートドッグラン付き＆ノーリードOKの極上ヴィラ」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -530,7 +530,7 @@ export default function SilverWeekGlampingWithDogsPetsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/198865/198865.jpg" alt="里山グランピングむすび 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>古き良き日本の自然を体験する◆多彩な食のアクティビティと 日本の四季を感じる 里山グランピング</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岐阜県瑞浪市日吉町3768 ／ 最寄り駅：瑞浪 ／ 交通案内：瑞浪駅よりお車で約12分</p>
+                  <p><strong>【所在地・アクセス】</strong>岐阜県瑞浪市日吉町3768 ／ 最寄り駅：瑞浪 ／ 交通案内：瑞浪駅よりお車で約12分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>あり　4台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -552,7 +552,7 @@ export default function SilverWeekGlampingWithDogsPetsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/128423/128423_kya.jpg" alt="キャメルホテル＆グランピングリゾート 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>都心から90分、大自然でアクティビティを満喫、愛犬と泊まれるグランピング併設のスパ＆リゾートホテル！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 千葉県夷隅郡御宿町上布施3360 ／ 最寄り駅：御宿 ／ 交通案内：お車：圏央道市原鶴舞IC下車３５分　電車：外房線御宿駅下車　９：００～１７：００送迎可※要事前予約　タクシー１３分要予約</p>
+                  <p><strong>【所在地・アクセス】</strong>千葉県夷隅郡御宿町上布施3360 ／ 最寄り駅：御宿 ／ 交通案内：お車：圏央道市原鶴舞IC下車３５分　電車：外房線御宿駅下車　９：００～１７：００送迎可※要事前予約　タクシー１３分要予約</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -574,7 +574,7 @@ export default function SilverWeekGlampingWithDogsPetsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/189179/189179.jpg" alt="グランピングリゾート　ブリリアントヴィレッジ日光 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>日光初のドームグランピング施設。四季折々、全18棟ドームテントと地元素材BBQを堪能！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県日光市瀬尾2010 ／ 最寄り駅：東武日光 ／ 交通案内：日光有料道路今市インターから車で約１５分、東武日光線下今市駅から車で約１５分</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県日光市瀬尾2010 ／ 最寄り駅：東武日光 ／ 交通案内：日光有料道路今市インターから車で約１５分、東武日光線下今市駅から車で約１５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>18台の無料駐車場有り／ご予約不要／他臨時駐車場有</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.98 ／ 立地 ★4.83 ／ 部屋 ★4.93 ／ 設備 ★4.76 ／ 風呂 ★4.62 ／ 食事 ★4.94</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -596,7 +596,7 @@ export default function SilverWeekGlampingWithDogsPetsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/184095/184095.jpg" alt="ファームグランピング　ルクロ　かいづかいぶきヴィレッジ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>シェフ自慢のこだわり料理が大自然の中でのグランピングの至福な時と空間をエレガントに演出＜ペット可＞</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大阪府貝塚市馬場3081 ／ 最寄り駅：水間 ／ 交通案内：大阪方面より阪和自動車道経由、約45分で貝塚ICへ。貝塚ICより約4分/水間鉄道水間観音駅より徒歩約３０分</p>
+                  <p><strong>【所在地・アクセス】</strong>大阪府貝塚市馬場3081 ／ 最寄り駅：水間 ／ 交通案内：大阪方面より阪和自動車道経由、約45分で貝塚ICへ。貝塚ICより約4分/水間鉄道水間観音駅より徒歩約３０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料　ご予約不要　※テント横まで車を横付けできます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -618,7 +618,7 @@ export default function SilverWeekGlampingWithDogsPetsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/189016/189016.jpg" alt="オーシャングランピング日立 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>1日2組限定！全室オーシャンビューで開放的な空間を1フロア貸切◎愛犬とも特別空間をお楽しみ頂けます！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 茨城県日立市旭町3-15-2 ／ 最寄り駅：日立 ／ 交通案内：日立駅より徒歩約７分</p>
+                  <p><strong>【所在地・アクセス】</strong>茨城県日立市旭町3-15-2 ／ 最寄り駅：日立 ／ 交通案内：日立駅より徒歩約７分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　4台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

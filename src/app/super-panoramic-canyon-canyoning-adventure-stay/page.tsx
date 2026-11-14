@@ -236,7 +236,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -655,10 +655,10 @@ export default function FeatureDetailPage() {
                 静岡県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/yamagata/"
+                href="/prefectures/gunma/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                山形県の宿・温泉
+                群馬県の宿・温泉
               </Link>
               <Link
                 href="/prefectures/gunma/"
@@ -681,11 +681,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：天然ウォータースライダーを滑走！キャニオニング体験＆爽快森林露天リゾート5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：天然ウォータースライダーを滑走！キャニオニング体験＆爽快森林露天リゾート5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：天然ウォータースライダーを滑走！キャニオニング体験＆爽快森林露天リゾート5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -767,7 +767,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/52877/52877_yo.jpg" alt="土出温泉　尾瀬岩鞍リゾートホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★ゲレンデはすぐそこ・・・　フロント、ラウンジ、スキーロッカー室、更衣室などがリニューアル！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県利根郡片品村土出2609 ／ 最寄り駅：沼田 ／ 交通案内：ＪＲ上越線：沼田駅よりバスにて約60分　　車：関越自動車道沼田ＩＣより約40分　　尾瀬岩鞍のゲレンデはすぐ目の前！</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県利根郡片品村土出2609 ／ 最寄り駅：沼田 ／ 交通案内：ＪＲ上越線：沼田駅よりバスにて約60分　　車：関越自動車道沼田ＩＣより約40分　　尾瀬岩鞍のゲレンデはすぐ目の前！</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（無料）　200台以上　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.21 ／ 立地 ★3.96 ／ 部屋 ★4.07 ／ 設備 ★4.04 ／ 風呂 ★4 ／ 食事 ★4.19</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -789,7 +789,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/137094/137094_ru.jpg" alt="猿ヶ京温泉　温泉民宿　ふじや 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>24時間入浴可能×かけ流しの天然温泉が魅力！専用の体育館3つ所有し、スポーツなどの合宿にも最適です♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県利根郡みなかみ町猿ヶ京876 ／ 最寄り駅：上毛高原 ／ 交通案内：上毛高原駅よりお車にて２０分</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県利根郡みなかみ町猿ヶ京876 ／ 最寄り駅：上毛高原 ／ 交通案内：上毛高原駅よりお車にて２０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -811,7 +811,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/13902/13902_wa.jpg" alt="四万温泉　あやめや旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>☆お子様の温泉デビューもお勧め！もう一度「ただいま」したくなる手作りのおもてなし</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県吾妻郡中之条町四万4238-45 ／ 最寄り駅：中之条 ／ 交通案内：ＪＲ吾妻線中之条駅</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県吾妻郡中之条町四万4238-45 ／ 最寄り駅：中之条 ／ 交通案内：ＪＲ吾妻線中之条駅</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（無料）　12台　先着順   ご利用のお客様は、四万温泉入り口で事前にお電話お願いいたします。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.77 ／ 立地 ★4.35 ／ 部屋 ★4.44 ／ 設備 ★4.2 ／ 風呂 ★4.49 ／ 食事 ★4.76</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -833,7 +833,7 @@ export default function FeatureDetailPage() {
                 
                 <div className="md:col-span-3 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>谷川温泉の源泉と、お手製の欧風家庭料理や焼き立てクロワッサンを堪能できるペンション。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県利根郡みなかみ町綱子294-1 ／ 最寄り駅：主要駅 ／ 交通案内：</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県利根郡みなかみ町綱子294-1 ／ 交通案内：</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -855,7 +855,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/128369/128369_ru.jpg" alt="尾瀬国立公園　尾瀬戸倉温泉　旅館　みゆき 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>源泉かけ流し天然温泉。地元の素材をふんだんに取り入れたお料理は全て自家製なので体にも優しい。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県利根郡片品村戸倉248-1 ／ 最寄り駅：沼田 ／ 交通案内：ＪＲ　沼田駅よりバスにて約１時間</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県利根郡片品村戸倉248-1 ／ 最寄り駅：沼田 ／ 交通案内：ＪＲ　沼田駅よりバスにて約１時間</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

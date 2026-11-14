@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">福島・会津若松＆芦ノ牧温泉：鶴ヶ城・大内宿ねぎそば＆渓谷露天・ねこ駅長宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「福島・会津若松＆芦ノ牧温泉：鶴ヶ城・大内宿ねぎそば＆渓谷露天・ねこ駅長宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「福島・会津若松＆芦ノ牧温泉：鶴ヶ城・大内宿ねぎそば＆渓谷露天・ねこ駅長宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -279,7 +279,7 @@ export default function MicroTouristHubPage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 会津柳津温泉　瀞流の宿　かわち</td>
-                <td className="p-3 text-stone-600">福島県</td>
+                <td className="p-3 text-stone-600">福島県 河沼郡柳津町柳津下平乙150-1</td>
                 <td className="p-3 text-stone-600">磐越自動車道『会津坂下IC』下車R252直進5分/只見線『会津柳津駅』</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.57（402件）</td>
@@ -314,7 +314,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/20623/20623_kan.jpg" alt="会津芦ノ牧温泉　丸峰観光ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2024年3月1日ビュッフェレストランオープン！山々に抱かれた渓谷美を望む【露天風呂付き客室】が人気</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県会津若松市大戸町芦ノ牧下夕平1128 ／ 最寄り駅：会津若松 ／ 交通案内：会津鉄道・芦ノ牧温泉駅／JR会津若松駅～タクシーで40分／磐越道・会津若松IC～40分/東北道・白河ＩＣ～60分</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県会津若松市大戸町芦ノ牧下夕平1128 ／ 最寄り駅：会津若松 ／ 交通案内：会津鉄道・芦ノ牧温泉駅／JR会津若松駅～タクシーで40分／磐越道・会津若松IC～40分/東北道・白河ＩＣ～60分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１７０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.35 ／ 立地 ★4.31 ／ 部屋 ★4.26 ／ 設備 ★4.19 ／ 風呂 ★4.34 ／ 食事 ★4.39</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -336,7 +336,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7330/7330_war.jpg" alt="東山温泉　元湯有馬屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>囲炉裏でのお食事と源泉掛け流しの宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県会津若松市東山町湯本居平118 ／ 最寄り駅：会津若松 ／ 交通案内：JR磐越西線会津若松駅よりバスで20分／磐越自動車道会津若松ICより車で15分</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県会津若松市東山町湯本居平118 ／ 最寄り駅：会津若松 ／ 交通案内：JR磐越西線会津若松駅よりバスで20分／磐越自動車道会津若松ICより車で15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　先着順　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -358,7 +358,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7526/7526_fr.jpg" alt="会津東山温泉　くつろぎ宿　新滝 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>明治、大正、昭和と多くの文人、墨客に愛された宿です。趣の異なる多彩な湯処が自慢。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県会津若松市東山町湯本川向222 ／ 最寄り駅：会津若松 ／ 交通案内：【お車】会津若松ＩＣ～約２０分【会津若松駅より】タクシー１３分／周遊バス「あかべぇ」１６分「東山温泉駅バス停」～徒歩３分</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県会津若松市東山町湯本川向222 ／ 最寄り駅：会津若松 ／ 交通案内：【お車】会津若松ＩＣ～約２０分【会津若松駅より】タクシー１３分／周遊バス「あかべぇ」１６分「東山温泉駅バス停」～徒歩３分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場は80台まで無料で可能です★予約は不要です★大型車でのご来館は事前にご相談ください★</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.62 ／ 立地 ★4.49 ／ 部屋 ★4.66 ／ 設備 ★4.57 ／ 風呂 ★4.7 ／ 食事 ★4.72</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -379,8 +379,8 @@ export default function MicroTouristHubPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/10686/10686_room.jpg" alt="会津柳津温泉　瀞流の宿　かわち 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「福島・会津若松＆芦ノ牧温泉（鶴ヶ城・大内宿ねぎそば＆渓谷露天・ねこ駅長宿 厳選ガイド）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：磐越自動車道『会津坂下IC』下車R252直進5分/只見線『会津柳津駅』</p>
+                  <p><strong>【宿の特徴・魅力】</strong>奥会津の玄関口、会津柳津温泉の宿。只見川の眺めや会津の郷土料理（桜刺し・鯉の甘煮・岩魚等）が楽しめる</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：磐越自動車道『会津坂下IC』下車R252直進5分/只見線『会津柳津駅』</p>
                   <p>【福島・会津若松＆芦ノ牧温泉：鶴ヶ城・大内宿ねぎそば＆】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -402,7 +402,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5887/5887_nk.jpg" alt="会津東山温泉　いろりの宿　芦名 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>7つの囲炉裏に7つの客室。懐かしい佇まいのいろりの宿。お客様より４つ星以上の人気宿に選ばれました</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県会津若松市東山町湯本下原232-1 ／ 最寄り駅：会津若松 ／ 交通案内：最寄駅：会津若松駅からタクシー又は「東山温泉」へ向かう路線バスで約20分　最寄IC:会津若松から約15分</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県会津若松市東山町湯本下原232-1 ／ 最寄り駅：会津若松 ／ 交通案内：最寄駅：会津若松駅からタクシー又は「東山温泉」へ向かう路線バスで約20分　最寄IC:会津若松から約15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　10台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

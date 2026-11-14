@@ -526,11 +526,11 @@ export default function IkahoAutumnLeavesGuidePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">伊香保温泉 河鹿橋紅葉ライトアップ2026：見頃時期・石段街散策＆黄金の湯に浸かる秋の湯治旅：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「伊香保温泉 河鹿橋紅葉ライトアップ2026：見頃時期・石段街散策＆黄金の湯に浸かる秋の湯治旅」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「伊香保温泉 河鹿橋紅葉ライトアップ2026：見頃時期・石段街散策＆黄金の湯に浸かる秋の湯治旅」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -603,7 +603,7 @@ export default function IkahoAutumnLeavesGuidePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/29387/29387_furo1.jpg" alt="伊香保温泉　名物畳風呂と料理自慢の宿　ホテルきむら 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【北関東最大級の畳風呂とメガ貸切露天風呂】伊香保の綺麗な景色を一望！お料理とお風呂自慢の宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県渋川市伊香保町伊香保557-32 ／ 最寄り駅：渋川 ／ 交通案内：ＪＲ渋川駅→路線バス（30分）→伊香保バスターミナル下車、またはタクシー（15分）／関越自動車道・渋川伊香保ＩＣ～20分</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県渋川市伊香保町伊香保557-32 ／ 最寄り駅：渋川 ／ 交通案内：ＪＲ渋川駅→路線バス（30分）→伊香保バスターミナル下車、またはタクシー（15分）／関越自動車道・渋川伊香保ＩＣ～20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>車100台・バイクの方は屋根付き駐車場がございます。料金無料・予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.79 ／ 立地 ★3.7 ／ 部屋 ★3.64 ／ 設備 ★3.49 ／ 風呂 ★3.71 ／ 食事 ★3.86</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -625,7 +625,7 @@ export default function IkahoAutumnLeavesGuidePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7050/7050_room.jpg" alt="伊香保温泉　人気の露天風呂付客室と美味に和む宿　かのうや 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ケーブルカーで、四季を感じながら玄関へ☆彡 大自然に囲まれた静かな宿♪石段街や河鹿橋まで徒歩5分</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県渋川市伊香保町伊香保591 ／ 最寄り駅：渋川 ／ 交通案内：関越自動車道「渋川伊香保IC」より30分　※電車・高速バスでお越しの際は伊香保町内お迎えいたします（14～18時）</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県渋川市伊香保町伊香保591 ／ 最寄り駅：渋川 ／ 交通案内：関越自動車道「渋川伊香保IC」より30分　※電車・高速バスでお越しの際は伊香保町内お迎えいたします（14～18時）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　30台（無料） ※迷われる方が多いので事前に当館HP「交通アクセス」をご覧くださいませ</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -647,7 +647,7 @@ export default function IkahoAutumnLeavesGuidePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/40805/40805_gr.jpg" alt="伊香保温泉　伊香保グランドホテル（伊東園ホテルズ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>万葉の時代から涌出したと言われる、歴史ある伊香保温泉郷の入口に位置する近代和風旅館</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県渋川市伊香保町伊香保550 ／ 最寄り駅：渋川 ／ 交通案内：車：関越自動車道　渋川伊香保I.Cより20分　公共交通機関：ＪＲ渋川駅よりバスで２０分</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県渋川市伊香保町伊香保550 ／ 最寄り駅：渋川 ／ 交通案内：車：関越自動車道　渋川伊香保I.Cより20分　公共交通機関：ＪＲ渋川駅よりバスで２０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　250台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -669,7 +669,7 @@ export default function IkahoAutumnLeavesGuidePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/84597/84597_spa1.jpg" alt="伊香保温泉　とどろき（伊東園ホテルズ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>石段街まで徒歩1分！伊香保の中心にたたずむ情緒あふれる湯の宿で、安らぎのひとときを</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県渋川市伊香保町伊香保106 ／ 最寄り駅：渋川 ／ 交通案内：ＪＲ上越線　渋川駅よりバス（伊香保榛名口行、八千代坂下バス停降車）又はお車にて２5分</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県渋川市伊香保町伊香保106 ／ 最寄り駅：渋川 ／ 交通案内：ＪＲ上越線　渋川駅よりバス（伊香保榛名口行、八千代坂下バス停降車）又はお車にて２5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>当館より離れた場所にございます。午後1時より案内開始となります。一度玄関前にお越しください。（無料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.89 ／ 立地 ★3.99 ／ 部屋 ★3.87 ／ 設備 ★3.74 ／ 風呂 ★3.99 ／ 食事 ★3.78</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

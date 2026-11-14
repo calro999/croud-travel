@@ -310,37 +310,6 @@ export default function Page() {
           </div>
         </section>
 
-        {/* よくある質問 FAQ */}
-        <section className="mb-16 bg-white rounded-2xl shadow-sm border border-stone-200/80 p-6 md:p-8">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">よくある質問・伝統文化体験＆宿坊の楽しみ方</h2>
-          <div className="space-y-4">
-            
-            <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-amber-700 font-serif font-black text-lg">Q.</span>
-                <span>作った工芸品や陶器はその日に持ち帰ることができますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
-                金箔貼りや和紙漉き体験はその場で乾かして当日持ち帰ることができます。陶芸（ろくろ・手びねり・絵付け）は窯での素焼き・本焼きが必要なため、後日（約1〜2ヶ月後）完成品が自宅へ郵送されます。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-amber-700 font-serif font-black text-lg">Q.</span>
-                <span>小さな子どもや不器用な大人でも体験できますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
-                専任の職人やインストラクターがマンツーマンで優しくサポートしてくれるため、お子様からご年配の方まで誰でも簡単に素晴らしい作品を完成させることができます。家族旅行の思い出作りにも最適です。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-amber-700 font-serif font-black text-lg">Q.</span>
-                <span>宿の中で工芸体験ができるプランはありますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
-                はい、旅館のワークショップルームやサロンで金箔体験や匂い袋作り、水引アートなどができる宿泊プランを用意している施設が多数あります。移動の手間なく滞在中に楽しめます。
-              </p>
-            </div>
-          </div>
-        </section>
-
         {/* 関連リンク */}
         <section className="bg-stone-200/70 rounded-2xl p-6 md:p-8 text-center border border-stone-300">
           <h3 className="text-xl font-bold text-stone-900 mb-3 font-serif">他の伝統文化・リトリート宿を探す</h3>

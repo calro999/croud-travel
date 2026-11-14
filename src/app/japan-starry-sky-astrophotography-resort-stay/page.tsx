@@ -228,11 +228,11 @@ export default function ScenicViewHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">満天の星空＆星空案内人の宿：阿智村・野辺山・石垣島＆星空露天風呂 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「満天の星空＆星空案内人の宿：阿智村・野辺山・石垣島＆星空露天風呂 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「満天の星空＆星空案内人の宿：阿智村・野辺山・石垣島＆星空露天風呂 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function ScenicViewHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/72733/72733_room.jpg" alt="昼神温泉　昼神グランドホテル天心 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★全館Ｗｉ-Ｆｉ対応★種類豊富な湯船で「美人の湯」を愉しめる宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県下伊那郡阿智村智里331-5 ／ 最寄り駅：飯田（長野） ／ 交通案内：中央自動車道  (名古屋方面から)園原ICより車で約10分　(東京・長野方面から)飯田山本インターより車で約10分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県下伊那郡阿智村智里331-5 ／ 最寄り駅：飯田（長野） ／ 交通案内：中央自動車道  (名古屋方面から)園原ICより車で約10分　(東京・長野方面から)飯田山本インターより車で約10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　70台　無料　予約不要 【EV・PHEV用の充電器1台あり(普通充電200V)】</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function ScenicViewHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/38754/38754_he.jpg" alt="八ヶ岳グレイスホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全客室より八ヶ岳を一望★星空観察会★毎晩開催中！清里まで車で5分。直前割や一人旅も大歓迎！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県南佐久郡南牧村野辺山217-1 ／ 最寄り駅：野辺山 ／ 交通案内：野辺山駅より車で約5分（無料送迎あり・予約制／お電話または公式HPのご予約フォームより） 中央道・長坂ICより約20分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県南佐久郡南牧村野辺山217-1 ／ 最寄り駅：野辺山 ／ 交通案内：野辺山駅より車で約5分（無料送迎あり・予約制／お電話または公式HPのご予約フォームより） 中央道・長坂ICより約20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function ScenicViewHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/29370/29370_twi.jpg" alt="八ヶ岳・清里高原　清泉寮　ホテル＆コテージ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>標高１４００ｍ！八ヶ岳南麓に位置する清泉寮◆眺望の良さと温かいおもてなしが自慢の宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県北杜市高根町清里3545 ／ 最寄り駅：清里 ／ 交通案内：中央自動車道長坂ICより２０分　／　JR小海線清里駅　※無料送迎便(ご予約制)あり</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県北杜市高根町清里3545 ／ 最寄り駅：清里 ／ 交通案内：中央自動車道長坂ICより２０分　／　JR小海線清里駅　※無料送迎便(ご予約制)あり</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function ScenicViewHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/40083/40083_ky.jpg" alt="八ヶ岳南麓　バーク清里 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>忙しすぎた日々に少しだけ距離を。標高１４００ｍの別荘地内、森に包まれる一日２〜３組までのゆったり宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県北杜市高根町清里3545　清里の森1-3-11 ／ 最寄り駅：清里 ／ 交通案内：JR清里駅下車、徒歩２５分。お車は中央道長坂・須玉各インターから約25分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県北杜市高根町清里3545　清里の森1-3-11 ／ 最寄り駅：清里 ／ 交通案内：JR清里駅下車、徒歩２５分。お車は中央道長坂・須玉各インターから約25分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り、終日無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function ScenicViewHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/37944/37944_wa.jpg" alt="八ヶ岳温泉　樅の木荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>＜八ヶ岳中央高原＞標高１２００ｍの豊かな大自然と源泉掛け流しの天然温泉が、心と身体を癒してくれます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県諏訪郡原村原山17217-1729 ／ 最寄り駅：茅野 ／ 交通案内：中央道諏訪南ＩＣより車で15分 ＪＲ茅野駅より車30分/JRすずらんの里駅より10分＜団体ご予約は送迎可能＞</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県諏訪郡原村原山17217-1729 ／ 最寄り駅：茅野 ／ 交通案内：中央道諏訪南ＩＣより車で15分 ＪＲ茅野駅より車30分/JRすずらんの里駅より10分＜団体ご予約は送迎可能＞</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function ScenicViewHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/183909/183909.jpg" alt="リゾートイン西表島＜西表島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2023年2月新築オープン。お得・好立地・おもてなしの三拍子が揃った西表島旅行を失敗させないホテル！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県八重山郡竹富町上原681-64 ／ 最寄り駅：石垣空港 ／ 交通案内：西表島上原港から徒歩5分（石垣港離島ターミナルより西表島上原行きのフェリーに約50分乗船）</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県八重山郡竹富町上原681-64 ／ 最寄り駅：石垣空港 ／ 交通案内：西表島上原港から徒歩5分（石垣港離島ターミナルより西表島上原行きのフェリーに約50分乗船）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料　先着順（4台）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

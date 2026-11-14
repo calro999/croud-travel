@@ -228,11 +228,11 @@ export default function HeritageOnsenHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">絶景インフィニティ露天風呂の宿：海・空・湖と一体化する圧倒的パノラマ 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「絶景インフィニティ露天風呂の宿：海・空・湖と一体化する圧倒的パノラマ 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「絶景インフィニティ露天風呂の宿：海・空・湖と一体化する圧倒的パノラマ 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -305,7 +305,7 @@ export default function HeritageOnsenHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/40498/40498_he.jpg" alt="犬吠埼潮の湯温泉　犬吠埼観光ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全室オーシャンビュー！まるで海と繋がるかのような露天風呂？！◆温泉宿ホテル総選挙´２１犬吠埼地区１位</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 千葉県銚子市犬吠埼10293 ／ 最寄り駅：犬吠 ／ 交通案内：銚子電鉄　犬吠駅より車で３分　犬吠駅よりお電話にて送迎承ります。銚子駅より車で15分</p>
+                  <p><strong>【所在地・アクセス】</strong>千葉県銚子市犬吠埼10293 ／ 最寄り駅：犬吠 ／ 交通案内：銚子電鉄　犬吠駅より車で３分　犬吠駅よりお電話にて送迎承ります。銚子駅より車で15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.55 ／ 部屋 ★4.02 ／ 設備 ★3.94 ／ 風呂 ★4.31 ／ 食事 ★4.27</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -327,7 +327,7 @@ export default function HeritageOnsenHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/28514/28514_heya1.jpg" alt="貸切温泉のコンドミニアム　グランビュー熱海 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>熱海駅徒歩7分☆海まで3分！3室限定の半露天風呂客室と７つの開発業務が人気のコンドミニアムホテル！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県熱海市咲見町8-9 ／ 最寄り駅：熱海 ／ 交通案内：熱海駅から徒歩7分！熱海サンビーチまで徒歩3分！熱海滞在に便利な立地で飲食店は周辺に多数あり♪</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県熱海市咲見町8-9 ／ 最寄り駅：熱海 ／ 交通案内：熱海駅から徒歩7分！熱海サンビーチまで徒歩3分！熱海滞在に便利な立地で飲食店は周辺に多数あり♪</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　1泊1台1,300円( 要予約）※駐車場は20台のみです。ご予約はお早目にお願い致します。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -349,7 +349,7 @@ export default function HeritageOnsenHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/38574/38574_ku.jpg" alt="亀の井ホテル　筑波山 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>絶景が楽しめるインフィニティ露天風呂。関東平野を一望する筑波山の自然に囲まれたホテル。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 茨城県つくば市筑波1050-1 ／ 最寄り駅：土浦 ／ 交通案内：ＴＸつくば駅より筑波山直行シャトルバスにて約40分。筑波山神社入口バス停下車後、徒歩約2分</p>
+                  <p><strong>【所在地・アクセス】</strong>茨城県つくば市筑波1050-1 ／ 最寄り駅：土浦 ／ 交通案内：ＴＸつくば駅より筑波山直行シャトルバスにて約40分。筑波山神社入口バス停下車後、徒歩約2分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　65台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -371,7 +371,7 @@ export default function HeritageOnsenHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/16089/16089_ba.jpg" alt="湯田上温泉　ホテル小柳 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>新潟市へ一番近い美食を満喫できる温泉宿★インフィニティ露天風呂とこだわりのサウナが人気！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県南蒲原郡田上町田上乙1322-1 ／ 最寄り駅：新津 ／ 交通案内：関越道 三条・燕ICよりR403を車で30分／JR信越線 田上駅下車（無料送迎あり）</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県南蒲原郡田上町田上乙1322-1 ／ 最寄り駅：新津 ／ 交通案内：関越道 三条・燕ICよりR403を車で30分／JR信越線 田上駅下車（無料送迎あり）</p>
                   <p>【絶景インフィニティ露天風呂の宿：海・空・湖と一体化す】 <strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

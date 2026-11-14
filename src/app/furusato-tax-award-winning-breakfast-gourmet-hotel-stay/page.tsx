@@ -596,11 +596,11 @@ export default function FurusatoTaxPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">朝食日本一受賞・究極の朝ごはんホテル×ふるさと納税厳選ガイド函館・神戸・金沢の美食宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「朝食日本一受賞・究極の朝ごはんホテル×ふるさと納税厳選ガイド函館・神戸・金沢の美食宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「朝食日本一受賞・究極の朝ごはんホテル×ふるさと納税厳選ガイド函館・神戸・金沢の美食宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -629,7 +629,7 @@ export default function FurusatoTaxPage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 神戸ベイシェラトンホテル＆タワーズ</td>
-                <td className="p-3 text-stone-600">北海道</td>
+                <td className="p-3 text-stone-600">兵庫県神戸市東灘区向洋町中2-13</td>
                 <td className="p-3 text-stone-600">ＪＲ「住吉駅」→六甲ライナー「アイランドセンター駅」から徒歩1分。ＪＲ</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.47（4867件）</td>
@@ -673,7 +673,7 @@ export default function FurusatoTaxPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/69295/69295_da.jpg" alt="ラビスタ函館ベイ（共立リゾート） 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>最上階の展望温泉と和洋朝食バイキングが彩る、どこよりも「函館らしい」ホテル。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道函館市豊川町12-6 ／ 最寄り駅：函館 ／ 交通案内：ＪＲ函館駅より徒歩15分  函館空港よりタクシーで約20分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道函館市豊川町12-6 ／ 最寄り駅：函館 ／ 交通案内：ＪＲ函館駅より徒歩15分  函館空港よりタクシーで約20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　1,000円（税込／泊）先着順／170台</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -694,8 +694,8 @@ export default function FurusatoTaxPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1524/1524.jpg" alt="神戸ベイシェラトンホテル＆タワーズ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「朝食日本一受賞・究極の朝ごはんホテル×ふるさと納税厳選ガイド函館・神戸・金沢の美食宿」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ「住吉駅」→六甲ライナー「アイランドセンター駅」から徒歩1分。ＪＲ「三ノ宮駅」から直通バスで２０分。駐車場無料。</p>
+                  <p><strong>【宿の特徴・魅力】</strong>兵庫県で歴史とレトロな街並み散策を満喫！神戸の異人館から姫路城まで巡るモデルコースと、天然温泉や朝食ビュッフェが自慢の厳選宿泊施設3選を旅のエキスパートがご紹介します。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：ＪＲ「住吉駅」→六甲ライナー「アイランドセンター駅」から徒歩1分。ＪＲ「三ノ宮駅」から直通バスで２０分。駐車場無料。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -717,7 +717,7 @@ export default function FurusatoTaxPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9004/9004_dtw.jpg" alt="金沢白鳥路　ホテル山楽 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>金沢城のすぐ側で美肌の湯と金沢美食、そして心温まるおもてなしに癒されて日常をひと休みしませんか。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県金沢市丸の内6-3 ／ 最寄り駅：金沢 ／ 交通案内：■金沢駅⇔ホテル無料送迎バス■金沢駅東口より車で１０分■金沢駅東口⑥、⑦乗り場【兼六園下・金沢城】バス停下車徒歩５分</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県金沢市丸の内6-3 ／ 最寄り駅：金沢 ／ 交通案内：■金沢駅⇔ホテル無料送迎バス■金沢駅東口より車で１０分■金沢駅東口⑥、⑦乗り場【兼六園下・金沢城】バス停下車徒歩５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>地下駐車場50台／料金1泊1台1,000円／24時間入出庫可／高さ制限2.1ｍ未満</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -739,7 +739,7 @@ export default function FurusatoTaxPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/184275/184275.jpg" alt="ＴＨＥ　ＨＯＴＥＬ　ＳＡＮＲＡＫＵ　ＫＡＮＡＺＡＷＡ（ザ　ホテル山楽　金沢） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2022年12月21日開業！クラブラウンジや四季を彩る中庭を誇るラグジュアリーホテル</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県金沢市尾張町1丁目1番1号 ／ 最寄り駅：金沢 ／ 交通案内：JR金沢駅東口よりバスで約１０分「武蔵が辻・近江町市場」下車徒歩４分／近江町市場へ徒歩１分、金沢城公園へ徒歩３分</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県金沢市尾張町1丁目1番1号 ／ 最寄り駅：金沢 ／ 交通案内：JR金沢駅東口よりバスで約１０分「武蔵が辻・近江町市場」下車徒歩４分／近江町市場へ徒歩１分、金沢城公園へ徒歩３分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>地下駐車場58台／1泊1台につき1,200円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

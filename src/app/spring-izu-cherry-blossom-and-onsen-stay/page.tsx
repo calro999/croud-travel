@@ -236,7 +236,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -681,11 +681,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：一足早い春の訪れ！早咲き河津桜＆伊豆金目鯛姿煮と海一望露天風呂の宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：一足早い春の訪れ！早咲き河津桜＆伊豆金目鯛姿煮と海一望露天風呂の宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：一足早い春の訪れ！早咲き河津桜＆伊豆金目鯛姿煮と海一望露天風呂の宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -767,7 +767,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/158403/158403_kan1.jpg" alt="伊豆高原温泉ホテル　森の泉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>広大な大自然に佇む大人の癒し空間でオールインクルーシブを満喫◇伊豆の味覚と四季折々の景色を味わう</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県伊東市吉田901-75 ／ 最寄り駅：川奈（静岡） ／ 交通案内：【最寄り駅】川奈駅より車で約15分（※無料送迎／予約制）【最寄りIC】小田原西ICから車で約90分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県伊東市吉田901-75 ／ 最寄り駅：川奈（静岡） ／ 交通案内：【最寄り駅】川奈駅より車で約15分（※無料送迎／予約制）【最寄りIC】小田原西ICから車で約90分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　35台（無料）予約不要　　　Wi-fi　：有り（館内全て）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★4.21 ／ 部屋 ★4.25 ／ 設備 ★4.1 ／ 風呂 ★4.3 ／ 食事 ★4.47</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -789,7 +789,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/128493/128493_room.jpg" alt="伊豆高原　記念日を祝う宿　自然家．Ｈａｃｏ（しぜんや．ハコ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【全室露天風呂付客室＆お部屋食の安心Relaxスタイル】海一望、絶景ロケーションで二人きり癒しステイ</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県伊東市富戸1160-11 ／ 最寄り駅：富戸 ／ 交通案内：富戸駅より送迎可能（要予約）徒歩２０分／東名厚木ＩＣ、沼津ＩＣより約９０分 電気自動車でお越しの方 充電可能！</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県伊東市富戸1160-11 ／ 最寄り駅：富戸 ／ 交通案内：富戸駅より送迎可能（要予約）徒歩２０分／東名厚木ＩＣ、沼津ＩＣより約９０分 電気自動車でお越しの方 充電可能！</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.78 ／ 立地 ★4.69 ／ 部屋 ★4.67 ／ 設備 ★4.64 ／ 風呂 ★4.89 ／ 食事 ★4.92</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -811,7 +811,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/52947/52947_w.jpg" alt="Ｇａｌｌｅｒｙ　Ｃｏｕｒｔ　Ｏｆａ　ａｔｕ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>吹き抜けの館内は海洋画の小美術館。潮の薫りを添えたディナーが好評。無料貸切露天は24時間対応。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県賀茂郡河津町谷津233-7 ／ 最寄り駅：河津 ／ 交通案内：伊豆急河津駅より徒歩１０分。伊豆高原よりR135車で30分、沼津ICからR414車で90分。</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県賀茂郡河津町谷津233-7 ／ 最寄り駅：河津 ／ 交通案内：伊豆急河津駅より徒歩１０分。伊豆高原よりR135車で30分、沼津ICからR414車で90分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　敷地内22台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -833,7 +833,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/128262/128262_ru.jpg" alt="旅師の宿　やかた 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>地魚は水揚げ即下処理　当宿ならではの美味しい地魚を味わってください</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県賀茂郡河津町谷津333 ／ 最寄り駅：河津 ／ 交通案内：河津駅より徒歩５分　河津桜並木迄徒歩1分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県賀茂郡河津町谷津333 ／ 最寄り駅：河津 ／ 交通案内：河津駅より徒歩５分　河津桜並木迄徒歩1分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>専用無料駐車場　車３０台　大型バス駐車可能　バイク専用屋内駐輪場 駐車場２０台</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.4 ／ 立地 ★4.07 ／ 部屋 ★3.87 ／ 設備 ★4 ／ 風呂 ★4.2 ／ 食事 ★4.73</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -855,7 +855,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/138065/138065_rm1.jpg" alt="野の花亭こむらさき 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>１日僅か５組みだけ　おもてなしの日本旅館　全室露天風呂付き客室</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県下田市西本郷1-5-30 ／ 最寄り駅：伊豆急下田 ／ 交通案内：伊豆急下田駅から徒歩３分　降車改札を出て右に進む、線路沿いを進みビジネスホテルTSUMEKIの角を左に曲がり道路を渡る。</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県下田市西本郷1-5-30 ／ 最寄り駅：伊豆急下田 ／ 交通案内：伊豆急下田駅から徒歩３分　降車改札を出て右に進む、線路沿いを進みビジネスホテルTSUMEKIの角を左に曲がり道路を渡る。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>同敷地内旅館建物沿い裏手に屋外駐車場有り　宿泊者無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

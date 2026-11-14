@@ -395,37 +395,6 @@ export default function Page() {
           </div>
         </section>
 
-        {/* よくある質問 FAQ */}
-        <section className="mb-16 bg-white rounded-3xl shadow-sm border border-stone-200/80 p-6 md:p-10">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">よくある質問・ふるさと納税トラベルクーポンの疑問を解消</h2>
-          <div className="space-y-4">
-            
-            <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>料理のグレードアッププランでもふるさと納税クーポンは使えますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
-                はい、楽天トラベル上で販売されているプランであれば、夕食が豪華会席やブランド牛食べ比べなどのアップグレードプランであってもクーポン割引の対象となります。宿泊代金の総額からクーポンの金額分がそのまま差し引かれます。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>寄付してからクーポンが使えるようになるまで何日かかりますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
-                楽天ふるさと納税で寄付が完了してから、通常翌日〜翌々日の間にクーポンが自動付与されます。旅行の計画を立てたら、早めに寄付手続きを済ませておくのがおすすめです。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>グルメ旅で人気の季節（旬の時期）に合わせて寄付すべきですか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
-                クーポンの有効期限は「3年間」と非常に長いため、必ずしも旬の時期に寄付する必要はありません。例えば年末に寄付してクーポンを確保しておき、春のあなご、秋の伊勢海老解禁、冬のジビエや和牛など、お目当ての食材のベストシーズンに合わせてゆっくり予約・宿泊できます。
-              </p>
-            </div>
-          </div>
-        </section>
-
         {/* 相互回遊リンク（記事1〜4の循環導線） */}
         <section className="bg-stone-200/80 rounded-3xl p-6 md:p-10 border border-stone-300">
           <div className="text-center max-w-2xl mx-auto mb-8">

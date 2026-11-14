@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">静岡・熱海温泉：海上花火＆サンビーチ・相模湾オーシャンビュー宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「静岡・熱海温泉：海上花火＆サンビーチ・相模湾オーシャンビュー宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「静岡・熱海温泉：海上花火＆サンビーチ・相模湾オーシャンビュー宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/14505/14505_war.jpg" alt="熱海温泉　旅館　立花 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>海まで徒歩１分！熱海中心街で観光に好立地。口コミ料理部門★４，５★源泉100％露天風呂有。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県熱海市昭和町5-13 ／ 最寄り駅：熱海 ／ 交通案内：東名厚木ＩＣより小田原厚木有料道路経由、国道１３５号で熱海へ／ＪＲ熱海駅</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県熱海市昭和町5-13 ／ 最寄り駅：熱海 ／ 交通案内：東名厚木ＩＣより小田原厚木有料道路経由、国道１３５号で熱海へ／ＪＲ熱海駅</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り２５台　料金：1,000円（税込／泊）お車でご来館の際は一度玄関前にお越しください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/15680/15680_r.jpg" alt="熱海温泉　ホテル　サンミ倶楽部 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>オーシャンビュー客室に海一望の温泉も人気！館内には24 Hコンビニ有り♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県熱海市和田浜南町5-8 ／ 最寄り駅：熱海 ／ 交通案内：JR東海道線『熱海駅』より東海バス『マリンスパあたみ』下車　徒歩1分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県熱海市和田浜南町5-8 ／ 最寄り駅：熱海 ／ 交通案内：JR東海道線『熱海駅』より東海バス『マリンスパあたみ』下車　徒歩1分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>50台　有料（1100円）※ご利用時間はご宿泊日の12時からチェックアウト日の10時までとなります。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/859/859_room.jpg" alt="熱海温泉　月の栖　熱海聚楽ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【熱海温泉】楽天トラベルマイスター＆アワード受賞！お部屋へご用意する会席料理がクチコミ高評価！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県熱海市田原本町2-19 ／ 最寄り駅：熱海 ／ 交通案内：ＪＲ東海道線「熱海駅」～仲見世通り商店街を抜けて徒歩３分。高台に建つ和風旅館。海と街の景色が人気。露天風呂付客室3室有り</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県熱海市田原本町2-19 ／ 最寄り駅：熱海 ／ 交通案内：ＪＲ東海道線「熱海駅」～仲見世通り商店街を抜けて徒歩３分。高台に建つ和風旅館。海と街の景色が人気。露天風呂付客室3室有り</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（有料）１泊　1760円（税込）　お車は当館の玄関前に直接お寄せください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/76775/76775_wa.jpg" alt="湯宿　みかんの木 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【金目鯛姿煮】が旨い宿！熱海駅徒歩約12分、熱海サンビーチ徒歩2分の立地の良さ◎</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県熱海市東海岸町1-11 ／ 最寄り駅：熱海 ／ 交通案内：徒歩：ＪＲ熱海駅より約12分。坂の途中のため御御足が悪い方はタクシーがオススメです。車：「ホテルかつら」脇の路地を３０ｍ</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県熱海市東海岸町1-11 ／ 最寄り駅：熱海 ／ 交通案内：徒歩：ＪＲ熱海駅より約12分。坂の途中のため御御足が悪い方はタクシーがオススメです。車：「ホテルかつら」脇の路地を３０ｍ</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　7台　駐車場利用は1100円税込　要予約</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/54209/54209_k.jpg" alt="熱海温泉　ホテル大野屋（伊東園ホテルズ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>４本の自家源泉を所有し、３００人同時入浴可能なローマ風呂など、大小９ヶ所自慢のお風呂がございます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県熱海市和田浜南町3-9 ／ 最寄り駅：主要駅 ／ 交通案内：熱海駅より路線バス（乗り場７）にて、「マリンスパあたみ」下車　／　車で「長泉IC」から伊豆縦貫・函熱道路で６０分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県熱海市和田浜南町3-9 ／ 交通案内：熱海駅より路線バス（乗り場７）にて、「マリンスパあたみ」下車　／　車で「長泉IC」から伊豆縦貫・函熱道路で６０分</p>
                   <p>【静岡・熱海温泉：海上花火＆サンビーチ・相模湾オーシャ】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/108115/108115_ru.jpg" alt="熱海温泉　伊東園ホテル熱海館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ＪＲ熱海駅より徒歩１分。ホテル直下より汲み上げられる自家源泉がお楽しみ頂けます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県熱海市田原本町4-16 ／ 最寄り駅：熱海 ／ 交通案内：熱海駅より徒歩にて２分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県熱海市田原本町4-16 ／ 最寄り駅：熱海 ／ 交通案内：熱海駅より徒歩にて２分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　マイクロバス不可　ご利用可能時間：チェックイン日１３時～チェックアウト日１1時まで</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

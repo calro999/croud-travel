@@ -228,11 +228,11 @@ export default function TransitStyleHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">愛車・ドライブ旅の温泉宿：絶景ワインディング・屋内ガレージ＆EV充電 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「愛車・ドライブ旅の温泉宿：絶景ワインディング・屋内ガレージ＆EV充電 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「愛車・ドライブ旅の温泉宿：絶景ワインディング・屋内ガレージ＆EV充電 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function TransitStyleHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/186406/186406.jpg" alt="ガレージホテル石内ＢＡＳＥ　無人チェックインシステム導入／民泊 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong></p>
-                  <p><strong>【所在地・アクセス】</strong>〒 広島県広島市佐伯区石内南1-18-14　ガレージホテル石内ＢＡＳＥ　　ＢＡＳＥ ／ 最寄り駅：広域公園前 ／ 交通案内：広域公園前駅から車で約８分</p>
+                  <p><strong>【所在地・アクセス】</strong>広島県広島市佐伯区石内南1-18-14　ガレージホテル石内ＢＡＳＥ　　ＢＡＳＥ ／ 最寄り駅：広域公園前 ／ 交通案内：広域公園前駅から車で約８分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function TransitStyleHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/6088/6088_yor.jpg" alt="白樺湖　サンシャイン　ロッジ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★信州一の人気【ビーナスライン】を拠点に！眼下に白樺湖、大パノラマのロケーション！最高の立地！★</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県茅野市白樺湖3419 ／ 最寄り駅：茅野 ／ 交通案内：中央道諏訪IC→ビーナスライン→R152→白樺湖</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県茅野市白樺湖3419 ／ 最寄り駅：茅野 ／ 交通案内：中央道諏訪IC→ビーナスライン→R152→白樺湖</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　15台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function TransitStyleHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5193/5193_war.jpg" alt="白樺湖レイクサイドホテル山幸閣 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>目の前に広がる白樺湖を眺めながらリーズナブルに宿泊！白樺湖エリアの観光や冬はスキースノボの拠点に！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県茅野市白樺湖3418 ／ 最寄り駅：茅野 ／ 交通案内：中央線茅野駅よりバス西白樺湖下車１分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県茅野市白樺湖3418 ／ 最寄り駅：茅野 ／ 交通案内：中央線茅野駅よりバス西白樺湖下車１分</p>
                   <p>【愛車・ドライブ旅の温泉宿：絶景ワインディング・屋内ガ】 <strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function TransitStyleHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/18948/18948_heya.jpg" alt="湯檜曾（ゆびそ）温泉　清風かおる湯宿　林屋旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>お一人様歓迎★大正時代より続く掛け流しの小さな湯宿。地場産食材を生かしたお料理を朝夕お部屋食でどうぞ</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県利根郡みなかみ町湯桧曽124 ／ 最寄り駅：湯檜曽 ／ 交通案内：ＪＲ上越線　湯檜曽駅下車徒歩５分／関越水上ＩＣより１５分／上越新幹線　上毛高原駅よりバス４５分</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県利根郡みなかみ町湯桧曽124 ／ 最寄り駅：湯檜曽 ／ 交通案内：ＪＲ上越線　湯檜曽駅下車徒歩５分／関越水上ＩＣより１５分／上越新幹線　上毛高原駅よりバス４５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function TransitStyleHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2008/2008_heya.jpg" alt="大湯温泉　湯元庄屋　和泉屋旅館＜新潟県＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>西暦718年から溢れ出る歴史ある温泉は源泉100％</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県魚沼市大湯温泉298 ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ小出駅よりバス３０分。関越道魚沼Ｉ．Ｃより２０分。交通規制等、ご来館前に最新の道路情報をご確認ください。</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県魚沼市大湯温泉298 ／ 交通案内：ＪＲ小出駅よりバス３０分。関越道魚沼Ｉ．Ｃより２０分。交通規制等、ご来館前に最新の道路情報をご確認ください。</p>
                   <p>【愛車・ドライブ旅の温泉宿：絶景ワインディング・屋内ガ】 <strong>【駐車場・マイカー利用】</strong>有り　４０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function TransitStyleHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/13902/13902_wa.jpg" alt="四万温泉　あやめや旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>☆お子様の温泉デビューもお勧め！もう一度「ただいま」したくなる手作りのおもてなし</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県吾妻郡中之条町四万4238-45 ／ 最寄り駅：中之条 ／ 交通案内：ＪＲ吾妻線中之条駅</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県吾妻郡中之条町四万4238-45 ／ 最寄り駅：中之条 ／ 交通案内：ＪＲ吾妻線中之条駅</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（無料）　12台　先着順   ご利用のお客様は、四万温泉入り口で事前にお電話お願いいたします。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.77 ／ 立地 ★4.35 ／ 部屋 ★4.44 ／ 設備 ★4.2 ／ 風呂 ★4.49 ／ 食事 ★4.76</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

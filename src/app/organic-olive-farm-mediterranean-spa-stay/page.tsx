@@ -236,7 +236,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -681,11 +681,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：日本の地中海・小豆島！搾りたてオリーブオイル会席＆極上オリーブスパの海宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：日本の地中海・小豆島！搾りたてオリーブオイル会席＆極上オリーブスパの海宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：日本の地中海・小豆島！搾りたてオリーブオイル会席＆極上オリーブスパの海宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -767,7 +767,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7592/7592_ss.jpg" alt="小豆島温泉　オリビアン小豆島　夕陽ヶ丘ホテル　＜小豆島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>瀬戸内海を望む23万㎡の高台リゾートホテル。絶景の夕陽と天然温泉、小豆島の味覚を満喫。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 香川県小豆郡土庄町屋形崎甲63-1 ／ 最寄り駅：日生 ／ 交通案内：★土庄港より車で約15分★土庄港より無料定期送迎あり（予約要）</p>
+                  <p><strong>【所在地・アクセス】</strong>香川県小豆郡土庄町屋形崎甲63-1 ／ 最寄り駅：日生 ／ 交通案内：★土庄港より車で約15分★土庄港より無料定期送迎あり（予約要）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -789,7 +789,7 @@ export default function FeatureDetailPage() {
                 
                 <div className="md:col-span-3 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>小豆島の名所「エンジェルロード」が眼下に広がる当館にて、小豆島の海の景色や潮の香りをご堪能下さい</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 香川県小豆郡土庄町甲1135 ／ 最寄り駅：主要駅 ／ 交通案内：</p>
+                  <p><strong>【所在地・アクセス】</strong>香川県小豆郡土庄町甲1135 ／ 交通案内：</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -811,7 +811,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/14108/14108_war.jpg" alt="小豆島温泉“瀬戸の御湯”ホテルニュー海風　＜小豆島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>瀬戸内の海を一望　四季折々新鮮な瀬戸の幸でおもてなしの宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 香川県小豆郡土庄町甲2111-1 ／ 最寄り駅：高松（香川） ／ 交通案内：土庄港（とのしょうこう）より２㎞ 車で約５分【送迎15：00～17：30有り・要予約】</p>
+                  <p><strong>【所在地・アクセス】</strong>香川県小豆郡土庄町甲2111-1 ／ 最寄り駅：高松（香川） ／ 交通案内：土庄港（とのしょうこう）より２㎞ 車で約５分【送迎15：00～17：30有り・要予約】</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -833,7 +833,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/44874/44874_yso.jpg" alt="ベイリゾートホテル小豆島 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>◆全室オーシャンビュー◆自家源泉の最上階展望露天風呂＆個室貸切露天風呂が魅力★</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 香川県小豆郡小豆島町古江乙16-3 ／ 最寄り駅：坂出 ／ 交通案内：（車）坂手港3分/福田港30分/土庄港30分/草壁港10分/池田港20分★大部港以外の無料送迎有（2日前までに予約要）</p>
+                  <p><strong>【所在地・アクセス】</strong>香川県小豆郡小豆島町古江乙16-3 ／ 最寄り駅：坂出 ／ 交通案内：（車）坂手港3分/福田港30分/土庄港30分/草壁港10分/池田港20分★大部港以外の無料送迎有（2日前までに予約要）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.4 ／ 立地 ★4.48 ／ 部屋 ★4.25 ／ 設備 ★4.11 ／ 風呂 ★4.28 ／ 食事 ★4.23</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -855,7 +855,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/28288/28288_m1.jpg" alt="国民宿舎　小豆島　＜小豆島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>瀬戸内海を一望する風景や日本夕陽百選の夕陽が自慢♪地元食材にこだわった料理も人気！◇全館WiFi完備</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 香川県小豆郡小豆島町池田1500-4 ／ 最寄り駅：高松（香川） ／ 交通案内：池田港より車で5分（池田港バス停より無料送迎。要連絡）、土庄港より車で15分、坂手港より車で25分、福田港より車で40分</p>
+                  <p><strong>【所在地・アクセス】</strong>香川県小豆郡小豆島町池田1500-4 ／ 最寄り駅：高松（香川） ／ 交通案内：池田港より車で5分（池田港バス停より無料送迎。要連絡）、土庄港より車で15分、坂手港より車で25分、福田港より車で40分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★4.43 ／ 部屋 ★3.97 ／ 設備 ★3.84 ／ 風呂 ★3.89 ／ 食事 ★4.43</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

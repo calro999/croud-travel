@@ -78,7 +78,7 @@ export default function ArticlePage() {
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.12 更新</time>
           <span>執筆：旅宿クラウド ひとり旅・出張調査班</span>
-          <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式API提携</span>
+          <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">編集部が厳選</span>
         </div>
 
         {/* リード文 */}
@@ -90,7 +90,7 @@ export default function ArticlePage() {
             かつて「北のウォール街」として栄え、今も石造りの倉庫群や歴史的建造物が情緒豊かに立ち並ぶ小樽。札幌からのアクセスも抜群で、喧騒から離れた一人旅の目的地として圧倒的な人気を誇ります。
           </p>
           <p>
-            いくら掛け放題の海鮮朝食と自家源泉サウナを備える駅前ホテルから、運河の静かな夜景を部屋から眺められる温泉旅館まで、楽天トラベル公式APIより取得した最新の宿泊データとレビュー評価をもとに厳選紹介します。
+            いくら掛け放題の海鮮朝食と自家源泉サウナを備える駅前ホテルから、運河の静かな夜景を部屋から眺められる温泉旅館まで、宿泊施設データより取得した最新の宿泊データとレビュー評価をもとに厳選紹介します。
           </p>
         </div>
       </header>
@@ -371,7 +371,7 @@ export default function ArticlePage() {
           <p className="text-sm text-amber-100 mb-6 max-w-2xl mx-auto">平日限定の一人旅割引や、早期割・直前割など、楽天トラベルならではの特典プランが多数用意されています。人気日程は早めの予約がおすすめです。
           </p>
           <a
-            href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2F"
+            href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fsearch.travel.rakuten.co.jp%2Fds%2Fundated%2Fsearch%3Ff_query%3D%25E5%258C%2597%25E6%25B5%25B7%25E9%2581%2593"
             target="_blank"
             rel="sponsored noopener noreferrer"
             className="inline-flex items-center justify-center bg-white text-amber-900 font-bold px-8 py-3 rounded-xl shadow-lg hover:bg-amber-50 transition transform hover:-translate-y-0.5 text-sm sm:text-base"

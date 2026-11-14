@@ -236,7 +236,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -681,11 +681,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：風紋が描く黄金の大地！鳥取砂丘サンライズ＆日本海極上松葉ガニ・海鮮の宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：風紋が描く黄金の大地！鳥取砂丘サンライズ＆日本海極上松葉ガニ・海鮮の宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：風紋が描く黄金の大地！鳥取砂丘サンライズ＆日本海極上松葉ガニ・海鮮の宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -714,7 +714,7 @@ export default function FeatureDetailPage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 三朝温泉　旅館　大橋</td>
-                <td className="p-3 text-stone-600">福井県</td>
+                <td className="p-3 text-stone-600">鳥取県東伯郡三朝町三朝302-1</td>
                 <td className="p-3 text-stone-600">JR山陰本線-倉吉駅下車～バス20分／中国道-院庄ICよりＲ１７９号を</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.42（278件）</td>
@@ -732,7 +732,7 @@ export default function FeatureDetailPage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 吉岡温泉　北川旅館</td>
-                <td className="p-3 text-stone-600">福井県</td>
+                <td className="p-3 text-stone-600">鳥取県鳥取市吉岡温泉町765</td>
                 <td className="p-3 text-stone-600">JR鳥取駅より車で約20分/鳥取空港より車で約15分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（18件）</td>
@@ -767,7 +767,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/51176/51176_wa.jpg" alt="皆生温泉　旅館三井 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>夕食はお部屋食！カニコースが好評です。海まで３分！潮の香りに心やすらぐ、癒しとくつろぎの純和風旅館。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鳥取県米子市皆生温泉4-24-21 ／ 最寄り駅：主要駅 ／ 交通案内：JR米子駅より皆生温泉行きバス約20分、観光センターバスターミナルより徒歩約1分／米子道米子ICより車で10分</p>
+                  <p><strong>【所在地・アクセス】</strong>鳥取県米子市皆生温泉4-24-21 ／ 交通案内：JR米子駅より皆生温泉行きバス約20分、観光センターバスターミナルより徒歩約1分／米子道米子ICより車で10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -788,8 +788,8 @@ export default function FeatureDetailPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/40046/40046.jpg" alt="三朝温泉　旅館　大橋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「風紋が描く黄金の大地（鳥取砂丘サンライズ＆日本海極上松葉ガニ・海鮮の宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：JR山陰本線-倉吉駅下車～バス20分／中国道-院庄ICよりＲ１７９号を倉吉方面に約50分/ANA羽田～鳥取～バス～倉吉</p>
+                  <p><strong>【宿の特徴・魅力】</strong>鳥取県東伯郡三朝町三朝302-1の「三朝温泉 旅館 大橋」（楽天トラベル評価4.36（278件）／1泊目安¥14,300〜）の魅力と宿泊ポイントを詳しく紹介。舘は国登録有形文化財。自家源泉５ヶ所の内、自噴泉が３ヶ所ある「巌窟の湯」が名物風呂。部屋タイプ選びのポイントや入浴・食事情報、交通アクセス・駐車場データ、楽天トラベルでの賢い予約方法を紹介します。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：JR山陰本線-倉吉駅下車～バス20分／中国道-院庄ICよりＲ１７９号を倉吉方面に約50分/ANA羽田～鳥取～バス～倉吉</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -811,7 +811,7 @@ export default function FeatureDetailPage() {
                 
                 <div className="md:col-span-3 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>鳥取駅から徒歩５分。街中ながら自家源泉のかけ流し温泉。地元の素材を活かした料理も自慢です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鳥取県鳥取市永楽温泉町458 ／ 最寄り駅：主要駅 ／ 交通案内：</p>
+                  <p><strong>【所在地・アクセス】</strong>鳥取県鳥取市永楽温泉町458 ／ 交通案内：</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -832,12 +832,12 @@ export default function FeatureDetailPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/134797/134797.jpg" alt="吉岡温泉　北川旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「風紋が描く黄金の大地（鳥取砂丘サンライズ＆日本海極上松葉ガニ・海鮮の宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：JR鳥取駅より車で約20分/鳥取空港より車で約15分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>吉岡温泉 北川旅館（鳥取県鳥取市吉岡温泉町765）は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：JR鳥取駅より車で約20分/鳥取空港より車で約15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「絶景のロケーションとおもてなしに心から癒やされました。」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「吉岡温泉 北川旅館での快適な滞在とアクセス面の良さに満足したという評価が寄せられています。」
                   </blockquote>
                 </div>
               </div>
@@ -855,7 +855,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4772/4772_heya.jpg" alt="しあわせひょうたんの宿　旅館水郷 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>食事は部屋食か完全個室。源泉かけ流し。エレベーター完備。サイクリストに優しい宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鳥取県東伯郡湯梨浜町はわい温泉6-1 ／ 最寄り駅：倉吉 ／ 交通案内：山陰本線倉吉駅より車で１０分。</p>
+                  <p><strong>【所在地・アクセス】</strong>鳥取県東伯郡湯梨浜町はわい温泉6-1 ／ 最寄り駅：倉吉 ／ 交通案内：山陰本線倉吉駅より車で１０分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場無料。バイク歓迎、屋根付き部分あり。大型車可。自転車館内保管。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

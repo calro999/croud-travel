@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">長野・松本＆浅間温泉・美ヶ原：国宝松本城・クラフトの街＆信州そば・雲海宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「長野・松本＆浅間温泉・美ヶ原：国宝松本城・クラフトの街＆信州そば・雲海宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「長野・松本＆浅間温泉・美ヶ原：国宝松本城・クラフトの街＆信州そば・雲海宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7179/7179_twn.jpg" alt="松本　浅間温泉　ホテル玉之湯 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「心と体を元気に」バリアフリーの宿  個室で愉しむ郷土の味＜3つの無料貸切露天風呂＞</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県松本市浅間温泉1-28-16 ／ 最寄り駅：松本 ／ 交通案内：JR松本駅よりバスで約20分／松本ICよりお車で約20分　■当館から国宝松本城まではお車で約10分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県松本市浅間温泉1-28-16 ／ 最寄り駅：松本 ／ 交通案内：JR松本駅よりバスで約20分／松本ICよりお車で約20分　■当館から国宝松本城まではお車で約10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有 40台無料   　■全館Wi-Fi対応 ■個室お食事処 ■バリアフリー対応風呂あり</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5191/5191_bas1.jpg" alt="美ヶ原温泉　ホテルニューことぶき 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>天然温泉はジェットバスとバイブラ付大浴場とかわいい露天風呂。貸切露天風呂（有料）もございます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県松本市里山辺484-1 ／ 最寄り駅：松本 ／ 交通案内：長野道松本ＩＣより松本城を経由し約２５分。ＪＲ中央線松本駅下車、美ヶ原温泉行きバスで18分、美ヶ原温泉下車徒歩2分です。</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県松本市里山辺484-1 ／ 最寄り駅：松本 ／ 交通案内：長野道松本ＩＣより松本城を経由し約２５分。ＪＲ中央線松本駅下車、美ヶ原温泉行きバスで18分、美ヶ原温泉下車徒歩2分です。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>宿泊者普通車駐車場無料。中型車以上1台2200円（事前予約）。いずれも先着順チェックイン〜アウト迄</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★3.98 ／ 部屋 ★4.04 ／ 設備 ★3.98 ／ 風呂 ★4.29 ／ 食事 ★4.41</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/38930/38930_ni.jpg" alt="信州松本　美ヶ原温泉　翔峰 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>楽天アワード2021受賞★松本エリア唯一の5つ星の宿◆北アルプスと松本城下町を一望！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県松本市里山辺527 ／ 最寄り駅：松本 ／ 交通案内：ＪＲ　松本駅から車で20分／松本駅前バスターミナルより美ヶ原温泉行きのバスで20分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県松本市里山辺527 ／ 最寄り駅：松本 ／ 交通案内：ＪＲ　松本駅から車で20分／松本駅前バスターミナルより美ヶ原温泉行きのバスで20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.63 ／ 立地 ★4.59 ／ 部屋 ★4.56 ／ 設備 ★4.54 ／ 風呂 ★4.64 ／ 食事 ★4.66</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/41832/41832_k.jpg" alt="ホテルルートイン　塩尻北インター 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ＷＯＷＯＷ全室で無料視聴可！長野自動車道　塩尻北ＩＣより車で3分。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県塩尻市広丘吉田842-1 ／ 最寄り駅：広丘 ／ 交通案内：長野自動車道　塩尻北I.Cより１ｋｍ</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県塩尻市広丘吉田842-1 ／ 最寄り駅：広丘 ／ 交通案内：長野自動車道　塩尻北I.Cより１ｋｍ</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　71台（立体：37、平面：25、第2駐車場：9）　無料・先着順　※大型車駐車は要事前連絡</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/38989/38989_kya.jpg" alt="信州安曇野穂高温泉郷　旅館　山のたこ平 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>信州安曇野を味わい尽くすお料理★エリア随一の広々とした温泉★松本上高地や白馬へのアクセス良好</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県安曇野市穂高有明8969 ／ 最寄り駅：有明（長野） ／ 交通案内：長野自動車道安曇野ICより車で２０分、JR穂高駅より車で１５分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県安曇野市穂高有明8969 ／ 最寄り駅：有明（長野） ／ 交通案内：長野自動車道安曇野ICより車で２０分、JR穂高駅より車で１５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　1００台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/67348/67348_k.jpg" alt="白骨温泉　白船荘新宅旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>極上の自家源泉は８ヶ所の浴槽で掛け流し、加温なしの天然源泉をお楽しみいただけます</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県松本市安曇4201 ／ 最寄り駅：新島々 ／ 交通案内：JR松本駅から私鉄上高地線　新島々駅より白骨温泉行バス乗車→終点白骨温泉下車</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県松本市安曇4201 ／ 最寄り駅：新島々 ／ 交通案内：JR松本駅から私鉄上高地線　新島々駅より白骨温泉行バス乗車→終点白骨温泉下車</p>
                   <p>【長野・松本＆浅間温泉・美ヶ原：国宝松本城・クラフトの】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.63 ／ 立地 ★4.39 ／ 部屋 ★4.44 ／ 設備 ★4.24 ／ 風呂 ★4.66 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

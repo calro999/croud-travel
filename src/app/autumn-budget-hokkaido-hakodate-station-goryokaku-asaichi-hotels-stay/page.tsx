@@ -376,11 +376,11 @@ export default function AutumnBudgetHotelsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">函館駅前：五稜郭紅葉＆函館朝市・活イカ・塩ラーメン！2,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「函館駅前：五稜郭紅葉＆函館朝市・活イカ・塩ラーメン！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「函館駅前：五稜郭紅葉＆函館朝市・活イカ・塩ラーメン！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -462,7 +462,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/39297/39297_kan.jpg" alt="函館天然温泉ルートイングランティア函館駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>函館駅前！　展望天然温泉大浴場完備　　観光にビジネスに最適　　全室空気清浄機あり</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道函館市若松町21-3 ／ 最寄り駅：函館 ／ 交通案内：ＪＲ　函館駅より徒歩２分／函館ＩＣより車で２０分／函館空港より車で２０分／函館港より車で２０分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道函館市若松町21-3 ／ 最寄り駅：函館 ／ 交通案内：ＪＲ　函館駅より徒歩２分／函館ＩＣより車で２０分／函館空港より車で２０分／函館港より車で２０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>１０２台５００円（税込/１泊）■身障者用、大型車等は事前連絡を。近隣にバス専用Ｐ有（当ホテル所轄外）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -484,7 +484,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/177009/177009_kan1.jpg" alt="ラ・ジェント・ステイ函館駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ＪＲ函館駅から徒歩1分・函館空港からバス約20分の好立地　市内観光・ビジネスの拠点として便利</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道函館市若松町12-8 ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ函館駅から徒歩1分・函館空港からバス約20分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道函館市若松町12-8 ／ 交通案内：ＪＲ函館駅から徒歩1分・函館空港からバス約20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -506,7 +506,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/167475/167475.jpg" alt="アパホテル〈函館駅前〉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>■JR函館駅徒歩4分 ■朝市徒歩3分 ■金森赤レンガ倉庫徒歩圏内 ■函館山・五稜郭もアクセス良好！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道函館市大手町19-13 ／ 最寄り駅：函館 ／ 交通案内：JR函館本線　函館駅から徒歩5分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道函館市大手町19-13 ／ 最寄り駅：函館 ／ 交通案内：JR函館本線　函館駅から徒歩5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル専用駐車場なし。提携駐車場あり：先着順 14台、予約不可、 1泊500円（15時から翌11時）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.14 ／ 立地 ★4.07 ／ 部屋 ★4.09 ／ 設備 ★4.07 ／ 風呂 ★3.96 ／ 食事 ★3.95</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -528,7 +528,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1477/1477_sgl.jpg" alt="Ｔａｂｉｓｔ　ホテルテトラ函館駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>寿司屋自慢の朝ごはん！活海鮮　★函館駅から徒歩3分★バス・市電乗り場も近く便利なホテル☆</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道函館市若松町19-11 ／ 最寄り駅：函館 ／ 交通案内：ＪＲ函館駅から徒歩で5分。函館空港よりシャトルバスで20分。</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道函館市若松町19-11 ／ 最寄り駅：函館 ／ 交通案内：ＪＲ函館駅から徒歩で5分。函館空港よりシャトルバスで20分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>1台１泊800円　 数に限りあり　 GWなど特別期間は別料金。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.99 ／ 立地 ★3.78 ／ 部屋 ★3.42 ／ 設備 ★3.28 ／ 風呂 ★3.23</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -550,7 +550,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/168451/168451_kan1.jpg" alt="フォーポイント　フレックス　ｂｙ　シェラトン　函館駅 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>北海道の玄関口、函館の駅前に、シンプルで心地よい、カジュアル・ビジネスホテル誕生。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道函館市若松町18-19 ／ 最寄り駅：函館 ／ 交通案内：ＪＲ函館駅より徒歩にて約５分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道函館市若松町18-19 ／ 最寄り駅：函館 ／ 交通案内：ＪＲ函館駅より徒歩にて約５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>専用駐車場30台　800円／日（15時〜翌11時）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.88 ／ 立地 ★4.07 ／ 部屋 ★3.84 ／ 設備 ★3.76 ／ 風呂 ★3.51 ／ 食事 ★3.31</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

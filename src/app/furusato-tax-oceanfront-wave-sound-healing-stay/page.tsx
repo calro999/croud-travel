@@ -747,11 +747,11 @@ export default function FurusatoTaxPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">絶景オーシャンフロント×波音ヒーリングの海宿ふるさと納税厳選ガイド全室オーシャンビューと潮騒露天風呂：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「絶景オーシャンフロント×波音ヒーリングの海宿ふるさと納税厳選ガイド全室オーシャンビューと潮騒露天風呂」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「絶景オーシャンフロント×波音ヒーリングの海宿ふるさと納税厳選ガイド全室オーシャンビューと潮騒露天風呂」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -842,7 +842,7 @@ export default function FurusatoTaxPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/40803/40803_he.jpg" alt="稲取温泉　伊東園ホテル　稲取 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>雄大な自然、潮騒と大海原の景観がおもてなし</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県賀茂郡東伊豆町1021-24 ／ 最寄り駅：伊豆稲取 ／ 交通案内：伊豆急　伊豆稲取駅より送迎車で約５分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県賀茂郡東伊豆町1021-24 ／ 最寄り駅：伊豆稲取 ／ 交通案内：伊豆急　伊豆稲取駅より送迎車で約５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -864,7 +864,7 @@ export default function FurusatoTaxPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8711/8711_room.jpg" alt="稲取温泉　稲取銀水荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>［夏季限定］屋外プール　大人用の広いプールと、すべり台付きのお子さまプールで家族みんなで楽しめる♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県賀茂郡東伊豆町稲取1624-1 ／ 最寄り駅：伊豆稲取 ／ 交通案内：東京駅より特急【踊子号】にて伊豆稲取駅下車。送迎バスにて５分。（お迎え時間　13:00～19:00）</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県賀茂郡東伊豆町稲取1624-1 ／ 最寄り駅：伊豆稲取 ／ 交通案内：東京駅より特急【踊子号】にて伊豆稲取駅下車。送迎バスにて５分。（お迎え時間　13:00～19:00）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５０台　無料　制限なし</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -886,7 +886,7 @@ export default function FurusatoTaxPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5261/5261_kw.jpg" alt="絶景温泉と魚介満腹の宿　稲取東海ホテル湯苑 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>伊豆七島を一望する波打際のホテル。新鮮な魚介を使った海鮮料理を満喫頂けます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県賀茂郡東伊豆町稲取1599-1 ／ 最寄り駅：伊豆稲取 ／ 交通案内：伊豆急線伊豆稲取駅下車。徒歩約１５分。無料送迎バスあり　※要事前予約（13：30～18：00）　明朝は定期便あります。</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県賀茂郡東伊豆町稲取1599-1 ／ 最寄り駅：伊豆稲取 ／ 交通案内：伊豆急線伊豆稲取駅下車。徒歩約１５分。無料送迎バスあり　※要事前予約（13：30～18：00）　明朝は定期便あります。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -908,7 +908,7 @@ export default function FurusatoTaxPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9292/9292_lob.jpg" alt="房総白浜ウミサトホテル（旧紀州鉄道　房総白浜ホテル） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>海岸まで徒歩30秒！ロケーション＆海鮮浜焼きバイキングが自慢。南房総の海と里の恵みを感じるホテル</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 千葉県南房総市白浜町白浜7034 ／ 最寄り駅：千倉 ／ 交通案内：JR千倉駅から送迎バス15分(要予約)／JRバスなのはな号にて白浜郵便局前下車徒歩5分／富浦ICより車で40分</p>
+                  <p><strong>【所在地・アクセス】</strong>千葉県南房総市白浜町白浜7034 ／ 最寄り駅：千倉 ／ 交通案内：JR千倉駅から送迎バス15分(要予約)／JRバスなのはな号にて白浜郵便局前下車徒歩5分／富浦ICより車で40分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>80台あり　無料・予約不要（バス・工事車両等の大型車の場合はスペース確保のため事前にご連絡ください）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -930,7 +930,7 @@ export default function FurusatoTaxPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8603/8603_yor.jpg" alt="たてやま温泉　夕日海岸　昇鶴 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>『日本の夕陽百選』鏡ヶ浦の夕日の絶景に出会える宿！料理長自慢の海の幸のお料理をお楽しみください。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 千葉県館山市八幡822 ／ 最寄り駅：館山 ／ 交通案内：東関道館山富浦ICよりお車で約10分／JR内房線　館山駅よりタクシーで5分、徒歩で20分 ／館山駅より送迎有り（要予約）</p>
+                  <p><strong>【所在地・アクセス】</strong>千葉県館山市八幡822 ／ 最寄り駅：館山 ／ 交通案内：東関道館山富浦ICよりお車で約10分／JR内房線　館山駅よりタクシーで5分、徒歩で20分 ／館山駅より送迎有り（要予約）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　無料　先着順　◇◆必ず駐車できます◆◇</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -952,7 +952,7 @@ export default function FurusatoTaxPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/129416/129416_ka1.jpg" alt="平砂浦ビーチホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全室圧倒的オーシャンビュー。海を望む絶景ダイニング！大自然と一体化するインフィニティデザインプール</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 千葉県館山市伊戸1535 ／ 最寄り駅：館山 ／ 交通案内：館山駅よりバスにて３０分</p>
+                  <p><strong>【所在地・アクセス】</strong>千葉県館山市伊戸1535 ／ 最寄り駅：館山 ／ 交通案内：館山駅よりバスにて３０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　38台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

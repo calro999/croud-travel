@@ -77,7 +77,7 @@ export default function ArticlePage() {
             山形・かみのやま温泉ひとり旅＆奥羽三楽郷おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「かみのやま温泉ひとり旅・蔵王連峰パノラマおこもり」城下町足湯・山形牛会席・ワイン王国！奥羽三楽郷の名湯に癒やされる厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               山形新幹線で東京から乗り換えなしでアクセスできる山形県・かみのやま温泉。湯の浜・天童と並び「奥羽三楽郷」の一つに数えられ、保温・保湿効果の高い塩化物・硫酸塩泉は「美肌の湯」として親しまれています。近年は日本有数のワイン産地としても大注目されています。
             </p>
             <p>
-              全国屈指の知名度を誇る名門旅館から、一人旅でも温かく迎えてくれる老舗の隠れ宿まで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              全国屈指の知名度を誇る名門旅館から、一人旅でも温かく迎えてくれる老舗の隠れ宿まで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -419,11 +419,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">かみのやま温泉ひとり旅・蔵王連峰パノラマおこもり：城下町足湯・山形牛会席・ワイン王国！奥羽三楽郷の名湯に癒やされる厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「かみのやま温泉ひとり旅・蔵王連峰パノラマおこもり：城下町足湯・山形牛会席・ワイン王国！奥羽三楽郷の名湯に癒やされる厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「かみのやま温泉ひとり旅・蔵王連峰パノラマおこもり：城下町足湯・山形牛会席・ワイン王国！奥羽三楽郷の名湯に癒やされる厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -505,7 +505,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/27923/27923_ky.jpg" alt="かみのやま温泉　日本の宿　古窯 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>山形県上山の緑豊かな葉山高台に建つ。山形かみのやまの風土風味を伝える料理も自慢の宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県上山市葉山5-20 ／ 最寄り駅：かみのやま温泉 ／ 交通案内：ＪＲかみのやま温泉駅より車で６分(定期便送迎有）/山形自動車道 山形蔵王ＩＣより国道１３号線経由約２０分</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県上山市葉山5-20 ／ 最寄り駅：かみのやま温泉 ／ 交通案内：ＪＲかみのやま温泉駅より車で６分(定期便送迎有）/山形自動車道 山形蔵王ＩＣより国道１３号線経由約２０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り 333台 無料 先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.74 ／ 立地 ★4.49 ／ 部屋 ★4.62 ／ 設備 ★4.57 ／ 風呂 ★4.58 ／ 食事 ★4.73</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -527,7 +527,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31208/31208_kan1.jpg" alt="かみのやま温泉　葉山舘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>蔵王連峰を望む全室温泉内風呂付の宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県上山市葉山5-10 ／ 最寄り駅：かみのやま温泉 ／ 交通案内：ＪＲかみのやま温泉駅より車で５分　無料送迎あり（要予約）　東北中央道かみのやま温泉ＩＣより約１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県上山市葉山5-10 ／ 最寄り駅：かみのやま温泉 ／ 交通案内：ＪＲかみのやま温泉駅より車で５分　無料送迎あり（要予約）　東北中央道かみのやま温泉ＩＣより約１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　50台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.46 ／ 立地 ★4.16 ／ 部屋 ★4.32 ／ 設備 ★4.21 ／ 風呂 ★4.35 ／ 食事 ★4.31</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -549,7 +549,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/912/912_sgl.jpg" alt="仙台国際ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>仙台国際ホテルらしさが光る逸品や、宮城の農家さんの想いを伝える品々が並ぶ、朝食ビュッフェが人気！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮城県仙台市青葉区中央4-6-1 ／ 最寄り駅：仙台 ／ 交通案内：東北新幹線「仙台駅」徒歩10分。SS30ビルホテル棟。</p>
+                  <p><strong>【所在地・アクセス】</strong>宮城県仙台市青葉区中央4-6-1 ／ 最寄り駅：仙台 ／ 交通案内：東北新幹線「仙台駅」徒歩10分。SS30ビルホテル棟。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル地下2階に駐車場「タイムズSS30」あり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.22 ／ 立地 ★4.14 ／ 部屋 ★4.13 ／ 設備 ★4.03 ／ 風呂 ★4.02 ／ 食事 ★4.26</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -571,7 +571,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1665/1665_twi.jpg" alt="ホテルＪＡＬシティ仙台 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2017年夏 客室・ロビーをリニューアル！◆全室LAN＆Wi-Fi接続無料</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮城県仙台市青葉区花京院1-2-12 ／ 最寄り駅：仙台 ／ 交通案内：ＪＲ仙台駅西口側ペデストリアンデッキを使用し徒歩約3分・地下鉄仙台駅徒歩7分・駅前バスターミナル徒歩5分</p>
+                  <p><strong>【所在地・アクセス】</strong>宮城県仙台市青葉区花京院1-2-12 ／ 最寄り駅：仙台 ／ 交通案内：ＪＲ仙台駅西口側ペデストリアンデッキを使用し徒歩約3分・地下鉄仙台駅徒歩7分・駅前バスターミナル徒歩5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　1泊1500円／現金精算のみ※予約はお受けしておりません。満車時は契約駐車場をご案内いたします。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -593,7 +593,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2047/2047_bas.jpg" alt="松島温泉　ホテル大松荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>松島海岸駅から徒歩１分、天然温泉とおいしいお料理でおもてなしいたします。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮城県宮城郡松島町松島字町内25 ／ 最寄り駅：松島海岸 ／ 交通案内：ＪＲ松島海岸駅より徒歩１分。東北自動車道仙台南IC～南部道路～三陸自動車道　松島海岸ICより３分</p>
+                  <p><strong>【所在地・アクセス】</strong>宮城県宮城郡松島町松島字町内25 ／ 最寄り駅：松島海岸 ／ 交通案内：ＪＲ松島海岸駅より徒歩１分。東北自動車道仙台南IC～南部道路～三陸自動車道　松島海岸ICより３分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

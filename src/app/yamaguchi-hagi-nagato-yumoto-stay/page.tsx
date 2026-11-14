@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">山口・萩＆長門湯本温泉：維新の城下町・川床テラス＆元乃隅神社・瓦そば宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「山口・萩＆長門湯本温泉：維新の城下町・川床テラス＆元乃隅神社・瓦そば宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「山口・萩＆長門湯本温泉：維新の城下町・川床テラス＆元乃隅神社・瓦そば宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -297,7 +297,7 @@ export default function MicroTouristHubPage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 割烹旅館　寿美礼</td>
-                <td className="p-3 text-stone-600">山口県</td>
+                <td className="p-3 text-stone-600">山口県下関市竹崎町3-13-23</td>
                 <td className="p-3 text-stone-600">ＪＲ　下関駅より徒歩にて3分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.54（174件）</td>
@@ -323,7 +323,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7243/7243_heya.jpg" alt="長門湯本温泉　湯本観光ホテル　西京 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>広々とした大浴場や多彩な館内施設をお楽しみいただける温泉旅館■無料屋外駐車場100台収容可能！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山口県長門市深川湯本1051 ／ 最寄り駅：長門湯本 ／ 交通案内：中国道美称ICより車で30分／JR美祢線長門湯本駅より徒歩10分</p>
+                  <p><strong>【所在地・アクセス】</strong>山口県長門市深川湯本1051 ／ 最寄り駅：長門湯本 ／ 交通案内：中国道美称ICより車で30分／JR美祢線長門湯本駅より徒歩10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>屋外駐車場有り（無料）、乗用車100台収容可能</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4755/4755_kya.jpg" alt="磐梯熱海温泉　萩姫の湯　栄楽館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>最上級の泉質　アルカリ性単純泉の自家源泉と市営泉の湯量豊富なブレンド天然温泉でお肌もつるつる</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県郡山市熱海町熱海4-47 ／ 最寄り駅：主要駅 ／ 交通案内：■郡山駅から磐越西線で15分　磐梯熱海駅から徒歩３分 ■磐越道 磐梯熱海ＩＣ下車　車で約5分</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県郡山市熱海町熱海4-47 ／ 交通案内：■郡山駅から磐越西線で15分　磐梯熱海駅から徒歩３分 ■磐越道 磐梯熱海ＩＣ下車　車で約5分</p>
                   <p>【山口・萩＆長門湯本温泉：維新の城下町・川床テラス＆元】 <strong>【駐車場・マイカー利用】</strong>有り　８０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/54096/54096_room.jpg" alt="萩温泉郷　夕景の宿　海のゆりかご　萩小町 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【楽天トラベルアワード　10年連続受賞】～日本海の絶景が楽しめる・癒し＆遊びが盛り沢山の宿～</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山口県萩市椿東越ヶ浜6509 ／ 最寄り駅：東萩 ／ 交通案内：「JR東萩駅」より車で10分／世界遺産「松下村塾」より車で10分／無料送迎サービスも有り！詳細はお気軽に問合せ下さい。</p>
+                  <p><strong>【所在地・アクセス】</strong>山口県萩市椿東越ヶ浜6509 ／ 最寄り駅：東萩 ／ 交通案内：「JR東萩駅」より車で10分／世界遺産「松下村塾」より車で10分／無料送迎サービスも有り！詳細はお気軽に問合せ下さい。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>60台（無料）／予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/29841/29841_lou.jpg" alt="萩温泉郷　萩の宿・常茂恵 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>＜大正14年創業＞文化と歴史の薫る「萩」の迎賓館で癒しのひと時をお過ごしください。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山口県萩市土原弘法寺608-53 ／ 最寄り駅：東萩 ／ 交通案内：「JR東萩駅」より車で約3分／世界遺産「松下村塾」より車で約7分／「美祢東JCT」経由「絵堂IC」より車で約20分</p>
+                  <p><strong>【所在地・アクセス】</strong>山口県萩市土原弘法寺608-53 ／ 最寄り駅：東萩 ／ 交通案内：「JR東萩駅」より車で約3分／世界遺産「松下村塾」より車で約7分／「美祢東JCT」経由「絵堂IC」より車で約20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>25台（無料）／予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.73 ／ 立地 ★4.56 ／ 部屋 ★4.7 ／ 設備 ★4.43 ／ 風呂 ★4.28 ／ 食事 ★4.73</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2948/2948_bas1.jpg" alt="四万温泉　柏屋旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2つの露天風呂付き客室、3つの無料貸切風呂、チェックアウト12時。カップルや記念日におすすめの小宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県吾妻郡中之条町四万3829 ／ 最寄り駅：中之条 ／ 交通案内：車：関越道渋川伊香保ICよりR17、353を四万温泉方面６０分。電車：中之条駅から四万温泉行バス３５分、清流の湯入口下車</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県吾妻郡中之条町四万3829 ／ 最寄り駅：中之条 ／ 交通案内：車：関越道渋川伊香保ICよりR17、353を四万温泉方面６０分。電車：中之条駅から四万温泉行バス３５分、清流の湯入口下車</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　15台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -432,8 +432,8 @@ export default function MicroTouristHubPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/76822/76822.jpg" alt="割烹旅館　寿美礼 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「山口・萩＆長門湯本温泉（維新の城下町・川床テラス＆元乃隅神社・瓦そば宿 厳選ガイド）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ　下関駅より徒歩にて3分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>とらふぐ、鮟鱇、鯨、雲丹など地消地産の食材を扱う、３代続く老舗の料理宿。人工温泉の貸切風呂も無料！</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：ＪＲ　下関駅より徒歩にて3分</p>
                   <p>【山口・萩＆長門湯本温泉：維新の城下町・川床テラス＆元】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

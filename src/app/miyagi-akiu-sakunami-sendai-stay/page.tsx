@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">宮城・秋保温泉＆作並温泉：仙台奥座敷・磊々峡＆ニッカウヰスキー・仙台牛宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「宮城・秋保温泉＆作並温泉：仙台奥座敷・磊々峡＆ニッカウヰスキー・仙台牛宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「宮城・秋保温泉＆作並温泉：仙台奥座敷・磊々峡＆ニッカウヰスキー・仙台牛宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/15989/15989_war.jpg" alt="秋保温泉　篝火の湯　緑水亭 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>仙台駅から車で約30分。秋保温泉の高台に佇む一軒宿！篝火を灯す幻想的な露天風呂が人気です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮城県仙台市太白区秋保町湯元上原27-2 ／ 最寄り駅：仙台 ／ 交通案内：東北自動車道仙台南ICから約15分。仙台中心部まで車で約30分。JR仙台駅東口より無料シャトルバス毎日運行（※要予約）</p>
+                  <p><strong>【所在地・アクセス】</strong>宮城県仙台市太白区秋保町湯元上原27-2 ／ 最寄り駅：仙台 ／ 交通案内：東北自動車道仙台南ICから約15分。仙台中心部まで車で約30分。JR仙台駅東口より無料シャトルバス毎日運行（※要予約）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場完備（予約不要、３００台駐車可能です）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.24 ／ 立地 ★4.2 ／ 部屋 ★4.26 ／ 設備 ★4.14 ／ 風呂 ★4.26 ／ 食事 ★4.32</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/38345/38345_room.jpg" alt="秋保温泉　茶寮宗園 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>美食・温泉・建築「三つの美」を五感で楽しむ秋保温泉の上質な湯宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮城県仙台市太白区秋保町湯元釜土東1 ／ 最寄り駅：仙台 ／ 交通案内：仙台駅～車で約30分/仙台南IC～車で15分/仙台宮城IC～車で約20分/JR仙台駅～送迎バス（要予約）</p>
+                  <p><strong>【所在地・アクセス】</strong>宮城県仙台市太白区秋保町湯元釜土東1 ／ 最寄り駅：仙台 ／ 交通案内：仙台駅～車で約30分/仙台南IC～車で15分/仙台宮城IC～車で約20分/JR仙台駅～送迎バス（要予約）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5770/5770_bas1.jpg" alt="秋保温泉　心和む名湯の宿　曽良一 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>客室は全１６室。華やかさではなく、静かに寄り添う“こころなごむひととき”を。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮城県仙台市太白区秋保町湯元字薬師108 ／ 最寄り駅：仙台 ／ 交通案内：ＪＲ仙台駅よりバス５０分。秋保温泉湯元バス停下車１分。仙台南インターよりお車で１５分。</p>
+                  <p><strong>【所在地・アクセス】</strong>宮城県仙台市太白区秋保町湯元字薬師108 ／ 最寄り駅：仙台 ／ 交通案内：ＪＲ仙台駅よりバス５０分。秋保温泉湯元バス停下車１分。仙台南インターよりお車で１５分。</p>
                   <p>【宮城・秋保温泉＆作並温泉：仙台奥座敷・磊々峡＆ニッカ】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/15098/15098_room.jpg" alt="秋保温泉　秋保グランドホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>楽天アワード「レジャー部門」銀賞連続受賞　人気のビュッフェ　にぎり鮨などが食べ放題</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮城県仙台市太白区秋保町湯元枇杷原12-2 ／ 最寄り駅：仙台 ／ 交通案内：JR仙台駅よりバスで５０分、車で３０分/東北自動車道仙台南ICより車で１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>宮城県仙台市太白区秋保町湯元枇杷原12-2 ／ 最寄り駅：仙台 ／ 交通案内：JR仙台駅よりバスで５０分、車で３０分/東北自動車道仙台南ICより車で１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　150台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★4.24 ／ 部屋 ★4.16 ／ 設備 ★4.12 ／ 風呂 ★4.3 ／ 食事 ★4.38</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/38433/38433_iw.jpg" alt="大江戸温泉物語Ｐｒｅｍｉｕｍ　仙台作並（旧：作並温泉　鷹泉閣岩松旅館） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>４つの天然岩風呂で館内湯めぐりをお楽しみください。広瀬川に溶け込む贅沢な時間をお過ごしいただけます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮城県仙台市青葉区作並元木16 ／ 最寄り駅：作並 ／ 交通案内：JR作並駅より車で約5分。東北自動車道 仙台宮城ICより約25分。</p>
+                  <p><strong>【所在地・アクセス】</strong>宮城県仙台市青葉区作並元木16 ／ 最寄り駅：作並 ／ 交通案内：JR作並駅より車で約5分。東北自動車道 仙台宮城ICより約25分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場有(約90台)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7328/7328_kan.jpg" alt="ＴＡＯＹＡ秋保 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>クラシックなインテリアに囲まれたラウンジでオールインクルーシブをお楽しみください。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮城県仙台市太白区秋保町湯元字薬師107 ／ 最寄り駅：仙台 ／ 交通案内：【車】仙台南IC約20分　仙台駅約40分　秋保神社約15分　秋保大滝約25分【徒歩】おはぎのさいち約1分　磊々峡約10分</p>
+                  <p><strong>【所在地・アクセス】</strong>宮城県仙台市太白区秋保町湯元字薬師107 ／ 最寄り駅：仙台 ／ 交通案内：【車】仙台南IC約20分　仙台駅約40分　秋保神社約15分　秋保大滝約25分【徒歩】おはぎのさいち約1分　磊々峡約10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>敷地内に300台収容可能の無料の平面駐車場を完備　（予約不要）屋根付きの玄関に一旦横付けできます</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

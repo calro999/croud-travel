@@ -236,7 +236,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -680,11 +680,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：博多名物・濃厚鶏白湯水炊き！呼子イカ活造り＆福岡名湯・サウナの極上宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：博多名物・濃厚鶏白湯水炊き！呼子イカ活造り＆福岡名湯・サウナの極上宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：博多名物・濃厚鶏白湯水炊き！呼子イカ活造り＆福岡名湯・サウナの極上宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -766,7 +766,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/165706/165706.jpg" alt="エスペリアホテル博多 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>割引クーポン配布中。バス・トイレ・洗面台が独立、高セキュリティーのＩＣカードシステム導入。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福岡県福岡市博多区博多駅前2-11-4 ／ 最寄り駅：主要駅 ／ 交通案内：</p>
+                  <p><strong>【所在地・アクセス】</strong>福岡県福岡市博多区博多駅前2-11-4 ／ 交通案内：</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -788,7 +788,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/180583/180583.jpg" alt="ホテル・トリフィート博多祇園 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>■大浴場完備■自慢の朝食■ 地下鉄「祇園駅」徒歩5分「櫛田神社前」徒歩6分■3名宿泊可■無料WIFI</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福岡県福岡市博多区冷泉町8-24 ／ 最寄り駅：祇園（福岡） ／ 交通案内：■地下鉄「祇園駅」徒歩5分■西鉄バス停「奥の堂」徒歩3分■福岡空港 地下鉄利用で最短15分■マリンメッセまでバスで7分</p>
+                  <p><strong>【所在地・アクセス】</strong>福岡県福岡市博多区冷泉町8-24 ／ 最寄り駅：祇園（福岡） ／ 交通案内：■地下鉄「祇園駅」徒歩5分■西鉄バス停「奥の堂」徒歩3分■福岡空港 地下鉄利用で最短15分■マリンメッセまでバスで7分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（屋外/高さ制限無し）　7台　1980円（税込み/泊）　先着順（事前予約不可）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -810,7 +810,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/41372/41372_dai.jpg" alt="西鉄ホテル　クルーム博多 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>天然温泉・サウナ完備／博多駅すぐ隣／開放的で居心地のよいロビー空間／コンビニ併設</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福岡県福岡市博多区博多駅前一丁目１７番６号 ／ 最寄り駅：博多 ／ 交通案内：ＪＲ　博多駅「博多口」より徒歩約４分    　　　地下鉄　博多駅「西４番出口」より徒歩約４分</p>
+                  <p><strong>【所在地・アクセス】</strong>福岡県福岡市博多区博多駅前一丁目１７番６号 ／ 最寄り駅：博多 ／ 交通案内：ＪＲ　博多駅「博多口」より徒歩約４分    　　　地下鉄　博多駅「西４番出口」より徒歩約４分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>１泊1台２，０００円（税込）14:30～翌12：30</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -832,7 +832,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/179590/179590_kan1.jpg" alt="ホテルリファレンス博多冷泉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2020年4月開業 祇園駅徒歩3分 博多駅徒歩11分。閑静でシンプルなビジネスホテルです。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福岡県福岡市博多区冷泉町9-29 ／ 最寄り駅：祇園（福岡） ／ 交通案内：地下鉄祇園駅2番出口より徒歩で約3分　博多駅からも徒歩12分　福岡空港から地下鉄祇園駅までは7分</p>
+                  <p><strong>【所在地・アクセス】</strong>福岡県福岡市博多区冷泉町9-29 ／ 最寄り駅：祇園（福岡） ／ 交通案内：地下鉄祇園駅2番出口より徒歩で約3分　博多駅からも徒歩12分　福岡空港から地下鉄祇園駅までは7分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>先着順 6台 ご宿泊者様は1泊1,500円(チェックアウトまで) 通常25分200円(最大料金無し)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -854,7 +854,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/177601/177601.jpg" alt="ホテルトラッド博多 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ツイン以上はバス・トイレ・洗面台がセパレート！朝は博多駅まで無料シャトルバス運行中！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福岡県福岡市博多区住吉3-12-1 ／ 最寄り駅：博多 ／ 交通案内：博多駅から散歩気分で徒歩12分。バスは「博多駅前Ａ（300番台）・Ｂ乗場」から約5分「住吉」バス停下車、すぐ。</p>
+                  <p><strong>【所在地・アクセス】</strong>福岡県福岡市博多区住吉3-12-1 ／ 最寄り駅：博多 ／ 交通案内：博多駅から散歩気分で徒歩12分。バスは「博多駅前Ａ（300番台）・Ｂ乗場」から約5分「住吉」バス停下車、すぐ。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>タワー式22台：先着順 15時～11時30分 税込1500円現金のみ 入出庫不可(22時～7時)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

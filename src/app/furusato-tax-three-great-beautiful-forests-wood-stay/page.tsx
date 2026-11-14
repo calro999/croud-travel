@@ -536,11 +536,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大美林＆天然木アロマ温泉宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本三大美林＆天然木アロマ温泉宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「日本三大美林＆天然木アロマ温泉宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -578,7 +578,7 @@ export default function Page() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. きそふくしま温泉　街道浪漫　おん宿　蔦屋</td>
-                <td className="p-3 text-stone-600">青森県</td>
+                <td className="p-3 text-stone-600">長野県木曽郡木曽町福島本町5162</td>
                 <td className="p-3 text-stone-600">JR木曽福島駅～徒歩約10分【15：30分16：40分送迎有要予約】伊</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.25（582件）</td>
@@ -604,7 +604,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/11145/11145_room.jpg" alt="むつグランドホテル　斗南温泉 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【Ｗｉ-Ｆｉ利用可】むつ市の東部に位置し、下北を一望できるホテルです。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 青森県むつ市田名部下道4 ／ 最寄り駅：下北 ／ 交通案内：JR大湊線下北駅から車で８分</p>
+                  <p><strong>【所在地・アクセス】</strong>青森県むつ市田名部下道4 ／ 最寄り駅：下北 ／ 交通案内：JR大湊線下北駅から車で８分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り 500台 無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -626,7 +626,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/149238/149238_kan1.jpg" alt="大館ぽかぽか温泉ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★ＪＲ大館駅、国道７号線から１Ｋｍ以内★人気の温泉施設がリーズナブルな料金で広々とご利用頂けます♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 秋田県大館市清水4-4-34 ／ 最寄り駅：大館 ／ 交通案内：JR大館駅より徒歩12分/秋田道大館北ICより車で10分/大館能代空港よりリムジンバス約40分「清水四丁目」下車目の前</p>
+                  <p><strong>【所在地・アクセス】</strong>秋田県大館市清水4-4-34 ／ 最寄り駅：大館 ／ 交通案内：JR大館駅より徒歩12分/秋田道大館北ICより車で10分/大館能代空港よりリムジンバス約40分「清水四丁目」下車目の前</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料平面駐車場１００台完備</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -647,8 +647,8 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/6067/6067.jpg" alt="きそふくしま温泉　街道浪漫　おん宿　蔦屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「日本三大美林＆天然木アロマ温泉宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：JR木曽福島駅～徒歩約10分【15：30分16：40分送迎有要予約】伊那IC約40分塩尻IC約60分中津川I約70分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>創業300年☆評判料理と木曽川沿い露天風呂【きそふくしま温泉】で心もからだもリフレッシュ♪</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：JR木曽福島駅～徒歩約10分【15：30分16：40分送迎有要予約】伊那IC約40分塩尻IC約60分中津川I約70分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

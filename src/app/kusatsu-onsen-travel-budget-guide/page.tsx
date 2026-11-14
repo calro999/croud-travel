@@ -225,11 +225,11 @@ export default function KusatsuBudgetGuidePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">草津温泉旅行 費用：1泊2日いくらかかる？東京からの交通費＆湯畑周辺の宿泊費を完全計算：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「草津温泉旅行 費用：1泊2日いくらかかる？東京からの交通費＆湯畑周辺の宿泊費を完全計算」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「草津温泉旅行 費用：1泊2日いくらかかる？東京からの交通費＆湯畑周辺の宿泊費を完全計算」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -320,7 +320,7 @@ export default function KusatsuBudgetGuidePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31675/31675_room.jpg" alt="草津温泉　中村屋旅館＜群馬県＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2024シルバーアワード受賞☆看板猫のなかにゃんずがお出迎え！/湯畑まで30秒♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県吾妻郡草津町草津98 ／ 最寄り駅：主要駅 ／ 交通案内：■JR吾妻線■長野原草津口駅下車→草津温泉行きバスで20分→草津温泉バスターミナルより徒歩2分</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県吾妻郡草津町草津98 ／ 交通案内：■JR吾妻線■長野原草津口駅下車→草津温泉行きバスで20分→草津温泉バスターミナルより徒歩2分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>湯畑観光駐車場1階　ご来館時に当日15時〜翌日10時までの駐車サービス券をお渡ししております。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.79 ／ 立地 ★4.74 ／ 部屋 ★4.42 ／ 設備 ★4.48 ／ 風呂 ★4.75 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -342,7 +342,7 @@ export default function KusatsuBudgetGuidePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/41000/41000_wa.jpg" alt="草津温泉　十二屋旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>湯畑まで徒歩１分♪　 全１０室の静かな大人宿♪　人気の露天風呂付和室は４部屋あり♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県吾妻郡草津町草津155 ／ 最寄り駅：長野原草津口 ／ 交通案内：草津温泉バスターミナルより徒歩3分</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県吾妻郡草津町草津155 ／ 最寄り駅：長野原草津口 ／ 交通案内：草津温泉バスターミナルより徒歩3分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　10台　無料　（７台目以降はつめこみ駐車です）　当日は１３時から駐車可能</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.52 ／ 立地 ★3.48 ／ 部屋 ★3.67 ／ 設備 ★3.48 ／ 風呂 ★3.92 ／ 食事 ★3.28</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -364,7 +364,7 @@ export default function KusatsuBudgetGuidePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/136294/136294_wa.jpg" alt="草津温泉　松坂屋旅館＜群馬県＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>湯畑源泉とヒノキ（檜）のお風呂。湯治滞在歓迎。湯畑源泉の貸切風呂とおふくろの味、素泊まりも大歓迎！！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県吾妻郡草津町178-4 ／ 最寄り駅：長野原草津口 ／ 交通案内：吾妻線JR長野原草津口駅から路線バスに乗り換え、終点草津バスターミナルまで約25分、下車後徒歩5分</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県吾妻郡草津町178-4 ／ 最寄り駅：長野原草津口 ／ 交通案内：吾妻線JR長野原草津口駅から路線バスに乗り換え、終点草津バスターミナルまで約25分、下車後徒歩5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有／無料（普通乗用車のみ・必ず事前にご利用の有無をお知らせ下さい）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -386,7 +386,7 @@ export default function KusatsuBudgetGuidePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/139908/139908_kya1.jpg" alt="草津温泉　湯畑草菴（そうあん） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>露天風呂付客室は”湯畑源泉かけ流し”良質な温泉を存分に楽しめる。湯畑前の好立地、街歩きに最適。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県吾妻郡草津町118-1 ／ 最寄り駅：長野原草津口 ／ 交通案内：ＪＲ吾妻線　長野原草津口駅下車、接続ＪＲバス草津行きバスにて草津温泉下車、バスターミナルより徒歩5分※送迎なし</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県吾妻郡草津町118-1 ／ 最寄り駅：長野原草津口 ／ 交通案内：ＪＲ吾妻線　長野原草津口駅下車、接続ＪＲバス草津行きバスにて草津温泉下車、バスターミナルより徒歩5分※送迎なし</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無し　※姉妹館「草津ナウリゾートホテル」の駐車場を無料でご利用いただけます。往復シャトルバス運行中。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -408,7 +408,7 @@ export default function KusatsuBudgetGuidePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/189254/189254.jpg" alt="草津温泉　湯畑泉水 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「湯畑」から徒歩１分、温泉街のドまん中　全室露天風呂付の素泊まりの宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県吾妻郡草津町草津392ー1 ／ 最寄り駅：長野原草津口 ／ 交通案内：長野原草津口駅より路線バスで約２約５分、草津温泉バスターミナルより徒歩約５分</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県吾妻郡草津町草津392ー1 ／ 最寄り駅：長野原草津口 ／ 交通案内：長野原草津口駅より路線バスで約２約５分、草津温泉バスターミナルより徒歩約５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無し※姉妹館「草津ナウリゾートホテル」の駐車場を無料でご利用いただけます。往復シャトルバス運行中。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -430,7 +430,7 @@ export default function KusatsuBudgetGuidePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/183532/183532.jpg" alt="亀の井ホテル　草津湯畑 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>当館専用通路『湯畑小路』利用で【湯畑】までわずか徒歩3分！三種の源泉を堪能出来る温泉宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県吾妻郡草津町草津512-3 ／ 最寄り駅：長野原草津口 ／ 交通案内：JR長野原草津口駅よりバスで25分、JR軽井沢駅よりバスで80分 草津温泉バスターミナルから徒歩10分</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県吾妻郡草津町草津512-3 ／ 最寄り駅：長野原草津口 ／ 交通案内：JR長野原草津口駅よりバスで25分、JR軽井沢駅よりバスで80分 草津温泉バスターミナルから徒歩10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>敷地25台+近隣駐車場（無料）アクセスページの駐車場MAPをご確認ください</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -238,7 +238,7 @@ export default function Page() {
         <section className="space-y-10">
           <div className="text-center space-y-2">
             <h2 className="text-2xl md:text-3xl font-bold text-slate-900">楽天ふるさと納税で泊まる名宿＆厳選ホテル</h2>
-            <p className="text-xs md:text-sm text-slate-500">楽天トラベル公式APIより最新の宿情報・写真・最低参考価格を取得しています
+            <p className="text-xs md:text-sm text-slate-500">宿泊施設データより最新の宿情報・写真・最低参考価格を取得しています
             </p>
           </div>
 
@@ -541,11 +541,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大急流＆爽快川下り舟と清流鮎グルメ宿×ふるさと納税厳選ガイド最上川・富士川・球磨川：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本三大急流＆爽快川下り舟と清流鮎グルメ宿×ふるさと納税厳選ガイド最上川・富士川・球磨川」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「日本三大急流＆爽快川下り舟と清流鮎グルメ宿×ふるさと納税厳選ガイド最上川・富士川・球磨川」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -609,7 +609,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/147592/147592_room.jpg" alt="高見屋　最上川別邸　紅 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>～名湯一門　高見屋～全ての窓から最上川の風雅な景色を眺める、寛ぎの温泉旅館-ＢＥＮＩ-</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県最上郡戸沢村古口3058 ／ 最寄り駅：高屋 ／ 交通案内：東京・仙台方面→東北自動車道→村田JCT→山形自動車道→山形北IC→国道13号→国道47号→宿</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県最上郡戸沢村古口3058 ／ 最寄り駅：高屋 ／ 交通案内：東京・仙台方面→東北自動車道→村田JCT→山形自動車道→山形北IC→国道13号→国道47号→宿</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -631,7 +631,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/158683/158683_kan1.jpg" alt="ホテルルートイン富士中央公園東 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★繁華街に立地★独立型デスク＆ソファで機能的な客室■人工温泉大浴場完備■朝食バイキング・駐車場無料</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県富士市永田町2-81-1 ／ 最寄り駅：富士 ／ 交通案内：東名高速道路『富士インター』より車で7分／ＪＲ東海道新幹線『新富士駅』より車で9分／JR東海道線『富士駅』より車で10分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県富士市永田町2-81-1 ／ 最寄り駅：富士 ／ 交通案内：東名高速道路『富士インター』より車で7分／ＪＲ東海道新幹線『新富士駅』より車で9分／JR東海道線『富士駅』より車で10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料　87台（敷地内自走式立体駐車場）　※制限あり（高さ制限2.1m）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -653,7 +653,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/16280/16280_w.jpg" alt="国登録有形文化財の宿　人吉温泉　芳野旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【国登録有形文化財の宿】歴史感じる純和風旅館　源泉掛け流し天然温泉と旬の会席料理で心和むひと時を</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 熊本県人吉市上青井町180 ／ 最寄り駅：人吉 ／ 交通案内：人吉ICより車で約8分</p>
+                  <p><strong>【所在地・アクセス】</strong>熊本県人吉市上青井町180 ／ 最寄り駅：人吉 ／ 交通案内：人吉ICより車で約8分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.66 ／ 立地 ★4.29 ／ 部屋 ★4.54 ／ 設備 ★4.4 ／ 風呂 ★4.51 ／ 食事 ★4.3</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -668,7 +668,7 @@ export default function Page() {
 
       {/* フッター */}
       <footer className="bg-slate-950 text-slate-400 py-8 px-4 text-center text-xs border-t border-slate-800">
-        <p>© 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の楽天トラベル公式APIに基づきます。</p>
+        <p>© 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の宿泊施設データに基づきます。</p>
       </footer>
     
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

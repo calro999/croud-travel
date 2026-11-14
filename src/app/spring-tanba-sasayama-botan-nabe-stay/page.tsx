@@ -236,7 +236,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -681,11 +681,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：本場・丹波篠山の極上ぼたん鍋！丹波黒豆スイーツ＆城下町古民家分散型ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：本場・丹波篠山の極上ぼたん鍋！丹波黒豆スイーツ＆城下町古民家分散型ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：本場・丹波篠山の極上ぼたん鍋！丹波黒豆スイーツ＆城下町古民家分散型ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -767,7 +767,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/134758/134758_ky1.jpg" alt="丹波篠山・料理旅館　たかさご 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>今から約１６０年前の嘉永元年に開業。篠山観光の中心に位置し、観光拠点にもオススメの老舗旅館。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県丹波篠山市二階町6 ／ 最寄り駅：篠山口 ／ 交通案内：ＪＲ福知山線　篠山口駅よりお車で約15分/舞鶴若狭自動車道　丹南篠山口よりお車で約10分</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県丹波篠山市二階町6 ／ 最寄り駅：篠山口 ／ 交通案内：ＪＲ福知山線　篠山口駅よりお車で約15分/舞鶴若狭自動車道　丹南篠山口よりお車で約10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４台まで先着無料。満車の場合は、(有料 500円/1日)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -789,7 +789,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8534/8534_heya1.jpg" alt="丹波篠山　近又 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>リニューアルOPEN│2026年10月以降の予約受付中■天皇陛下もご賞味！拘りの名物ぼたん鍋発祥の宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県丹波篠山市二階町81 ／ 最寄り駅：篠山口 ／ 交通案内：舞鶴若狭自動車道「丹南篠山口I.C」より3km/JR福知山線「篠山口」駅よりバス約15分</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県丹波篠山市二階町81 ／ 最寄り駅：篠山口 ／ 交通案内：舞鶴若狭自動車道「丹南篠山口I.C」より3km/JR福知山線「篠山口」駅よりバス約15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　4台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -811,7 +811,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/18267/18267_wa1.jpg" alt="丹波篠山　潯陽楼 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>篠山の中心部にあり、観光旅行の拠点にも◎。篠山の名物『丹波篠山むぎとろ御膳』発祥の当館。絶品です！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県丹波篠山市二階町79 ／ 最寄り駅：篠山口 ／ 交通案内：ＪＲ福知山線　篠山口駅よりバスで１０分、二階町バス停下車すぐ</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県丹波篠山市二階町79 ／ 最寄り駅：篠山口 ／ 交通案内：ＪＲ福知山線　篠山口駅よりバスで１０分、二階町バス停下車すぐ</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１１台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -833,7 +833,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/129481/129481_kya.jpg" alt="生駒のお宿　城山旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>女将の暖かいおもてなしや料理長が手掛けた本格会席をご用意。 当館自慢の夜景と朝日はとびきり！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 奈良県生駒市門前町15-12 ／ 最寄り駅：主要駅 ／ 交通案内：近鉄ケーブル線宝山寺駅から徒歩5分/近鉄生駒駅から車またはタクシーで5分/第二阪奈壱分ICから15分</p>
+                  <p><strong>【所在地・アクセス】</strong>奈良県生駒市門前町15-12 ／ 交通案内：近鉄ケーブル線宝山寺駅から徒歩5分/近鉄生駒駅から車またはタクシーで5分/第二阪奈壱分ICから15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場（2台）はアルス駐車場（生駒市門前町16-52）26・27番/その他旅館組合の駐車場あり　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -855,7 +855,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/52878/52878_yo.jpg" alt="ｔａｎｏｓｈｉｃ　ｒｅｓｏｒｔ　西紀荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>丹波篠山の奥座敷　ジビエ、温泉と自然豊かな環境で心と身体の満足を。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県丹波篠山市遠方122-1 ／ 最寄り駅：篠山口 ／ 交通案内：ＪＲ　篠山口駅より神姫バスで３０分</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県丹波篠山市遠方122-1 ／ 最寄り駅：篠山口 ／ 交通案内：ＪＲ　篠山口駅より神姫バスで３０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.95 ／ 立地 ★3.84 ／ 部屋 ★4.03 ／ 設備 ★3.86 ／ 風呂 ★3.79 ／ 食事 ★3.94</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

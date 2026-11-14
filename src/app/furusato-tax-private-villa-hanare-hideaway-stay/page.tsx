@@ -395,37 +395,6 @@ export default function Page() {
           </div>
         </section>
 
-        {/* よくある質問 FAQ */}
-        <section className="mb-16 bg-white rounded-3xl shadow-sm border border-stone-200/80 p-6 md:p-10">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">よくある質問・ふるさと納税トラベルクーポンの疑問を解消</h2>
-          <div className="space-y-4">
-            
-            <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>「離れ」と通常の客室では具体的に何が違いますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
-                離れは本館から渡り廊下や庭園の小径を通った別棟に位置しており、隣接する部屋の物音や廊下の足音が一切届かない完全な独立構造になっています。客室専用の露天風呂やテラス、庭園が備えられているのが一般的です。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>お食事は完全にお部屋食になりますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
-                宿によって「客室内の座敷・ダイニングでの部屋食」または「宿泊者ごとに完全に仕切られた個室食事処」のいずれかになります。どちらの形式でも他のお客さんと相席になることはなく、プライベートな食事空間が確保されます。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>記念日のサプライズ対応やケーキの持ち込みは可能ですか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
-                離れの宿は記念日利用のお客さんが非常に多いため、花束の手配やアニバーサリーケーキ、シャンパンの事前準備などを柔軟に相談できます。予約後に宿へ希望を伝えておくのがおすすめです。
-              </p>
-            </div>
-          </div>
-        </section>
-
         {/* 相互回遊リンク */}
         <section className="bg-stone-200/80 rounded-3xl p-6 md:p-10 border border-stone-300">
           <div className="text-center max-w-2xl mx-auto mb-8">

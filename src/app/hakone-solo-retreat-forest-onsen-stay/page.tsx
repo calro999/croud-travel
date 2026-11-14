@@ -78,7 +78,7 @@ export default function ArticlePage() {
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.12 更新</time>
           <span>執筆：旅宿クラウド ひとり旅・出張調査班</span>
-          <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式API提携</span>
+          <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">編集部が厳選</span>
         </div>
 
         {/* リード文 */}
@@ -90,7 +90,7 @@ export default function ArticlePage() {
             日本を代表する温泉リゾート・箱根。新宿からロマンスカー1本でアクセスできる圧倒的な利便性に加え、泉質の異なる多様な温泉、美術館、四季折々の雄大な山々が広がるこの地は、自分へのご褒美ステイやデジタルデトックスの一人旅に最高の舞台です。
           </p>
           <p>
-            開放感あふれる天空露天風呂を備える箱根湯本の名宿から、全室露天風呂付きのラグジュアリーな隠れ家リゾートまで、楽天トラベル公式APIより取得した最新の宿泊データをもとに厳選紹介します。
+            開放感あふれる天空露天風呂を備える箱根湯本の名宿から、全室露天風呂付きのラグジュアリーな隠れ家リゾートまで、宿泊施設データより取得した最新の宿泊データをもとに厳選紹介します。
           </p>
         </div>
       </header>
@@ -369,7 +369,7 @@ export default function ArticlePage() {
           <p className="text-sm text-amber-100 mb-6 max-w-2xl mx-auto">平日限定の一人旅割引や、早期割・直前割など、楽天トラベルならではの特典プランが多数用意されています。人気日程は早めの予約がおすすめです。
           </p>
           <a
-            href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2F"
+            href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fsearch.travel.rakuten.co.jp%2Fds%2Fundated%2Fsearch%3Ff_query%3D%25E7%25A5%259E%25E5%25A5%2588%25E5%25B7%259D%25E7%259C%258C"
             target="_blank"
             rel="sponsored noopener noreferrer"
             className="inline-flex items-center justify-center bg-white text-amber-900 font-bold px-8 py-3 rounded-xl shadow-lg hover:bg-amber-50 transition transform hover:-translate-y-0.5 text-sm sm:text-base"

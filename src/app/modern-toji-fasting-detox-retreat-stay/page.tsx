@@ -228,11 +228,11 @@ export default function WellnessRetreatHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">現代版プチ湯治＆ファスティング宿：デトックス・薬膳料理＆温泉リトリート 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「現代版プチ湯治＆ファスティング宿：デトックス・薬膳料理＆温泉リトリート 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「現代版プチ湯治＆ファスティング宿：デトックス・薬膳料理＆温泉リトリート 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -252,7 +252,7 @@ export default function WellnessRetreatHubPage() {
               <tbody className="divide-y divide-stone-200">
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 鳴子温泉郷　極上の貸切露天風呂　旅館大沼</td>
-                <td className="p-3 text-stone-600">群馬県</td>
+                <td className="p-3 text-stone-600">宮城県大崎市鳴子温泉赤湯34</td>
                 <td className="p-3 text-stone-600">東北新幹線『古川駅』よりＪＲ陸羽東線に乗り換え、『鳴子御殿湯駅』下車、</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（614件）</td>
@@ -322,8 +322,8 @@ export default function WellnessRetreatHubPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/106139/106139.jpg" alt="鳴子温泉郷　極上の貸切露天風呂　旅館大沼 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「現代版プチ湯治＆ファスティング宿（デトックス・薬膳料理＆温泉リトリート 厳選ガイド）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：東北新幹線『古川駅』よりＪＲ陸羽東線に乗り換え、『鳴子御殿湯駅』下車、徒歩５分。鳴子温泉からはタクシーで約5分。</p>
+                  <p><strong>【宿の特徴・魅力】</strong>旅の目的に合わせて選ぶ「現代版プチ湯治＆ファスティング宿」各宿の強みと基本情報は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：東北新幹線『古川駅』よりＪＲ陸羽東線に乗り換え、『鳴子御殿湯駅』下車、徒歩５分。鳴子温泉からはタクシーで約5分。</p>
                   <p>【現代版プチ湯治＆ファスティング宿：デトックス・薬膳料】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function WellnessRetreatHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/143278/143278_kya.jpg" alt="草津温泉　ホテルクアビオ（Ｈｏｔｅｌ　ＫＵＲＢＩＯ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>マクロビ料理やファスティング。草津の上質な湯で生まれ変わる、心と体。木々のなかのウェルネスリゾート。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県吾妻郡草津町草津226-63 ／ 最寄り駅：長野原草津口 ／ 交通案内：ＪＲ長野原草津口駅よりバス草津バスターミナル行きにて２５分草津バスターミナル下車徒歩にて１３分、お車にて５分（送迎あり）</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県吾妻郡草津町草津226-63 ／ 最寄り駅：長野原草津口 ／ 交通案内：ＪＲ長野原草津口駅よりバス草津バスターミナル行きにて２５分草津バスターミナル下車徒歩にて１３分、お車にて５分（送迎あり）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function WellnessRetreatHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1406/1406_rb.jpg" alt="湯田上温泉　なつかしの宿　末廣館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>緑あふれる露天風呂と新潟の新鮮な海の幸・里の幸を味わえるお宿★</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県南蒲原郡田上町大字田上乙535-3 ／ 最寄り駅：田上（新潟） ／ 交通案内：北陸自動車道三条燕ＩＣより車で30分。ＪＲ信越線田上駅より車で5分（田上駅前タクシー無し）</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県南蒲原郡田上町大字田上乙535-3 ／ 最寄り駅：田上（新潟） ／ 交通案内：北陸自動車道三条燕ＩＣより車で30分。ＪＲ信越線田上駅より車で5分（田上駅前タクシー無し）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function WellnessRetreatHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5948/5948_bath.jpg" alt="渓谷に佇む源泉湯宿　四万やまぐち館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>四季の味覚を織り交ぜた美食と美肌の湯、女将の紙芝居に和む。檜香る渓流露天で過ごす癒しの湯宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県吾妻郡中之条町四万3876-1 ／ 最寄り駅：中之条 ／ 交通案内：高崎駅→中之条駅→関越交通バス「山口」下車0分。関越道→月夜野IC・渋川伊香保ICより約60分。</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県吾妻郡中之条町四万3876-1 ／ 最寄り駅：中之条 ／ 交通案内：高崎駅→中之条駅→関越交通バス「山口」下車0分。関越道→月夜野IC・渋川伊香保ICより約60分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　90台　無料、まずは当館玄関前にお越しください、お車のキーはお預かりしております。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.41 ／ 立地 ★4.43 ／ 部屋 ★4.33 ／ 設備 ★4.24 ／ 風呂 ★4.67 ／ 食事 ★4.33</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function WellnessRetreatHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/76361/76361_ky1.jpg" alt="四万温泉　積善館　佳松亭・山荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>『歴史と浪漫・優雅と静寂』の旅館棟。国の重要文化財のある「山荘」・贅を尽くした「佳松亭」</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県吾妻郡中之条町四万甲4236 ／ 最寄り駅：中之条 ／ 交通案内：中之条駅からバス４０分終点下車・車で２５分／渋川伊香保ＩＣ→Ｒ１７→Ｒ３５３で約３９ｋｍ６０分</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県吾妻郡中之条町四万甲4236 ／ 最寄り駅：中之条 ／ 交通案内：中之条駅からバス４０分終点下車・車で２５分／渋川伊香保ＩＣ→Ｒ１７→Ｒ３５３で約３９ｋｍ６０分</p>
                   <p>【現代版プチ湯治＆ファスティング宿：デトックス・薬膳料】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.67 ／ 立地 ★4.6 ／ 部屋 ★4.6 ／ 設備 ★4.52 ／ 風呂 ★4.69 ／ 食事 ★4.72</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function WellnessRetreatHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/167316/167316_kan1.jpg" alt="宙の森ホテル　花郷里 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>宙（そら）を見上げて心も体もリフレッシュ！メイン客室の他にグランピングやキャンピングカーもあり♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県美方郡香美町小代区大谷300 ／ 最寄り駅：八鹿 ／ 交通案内：八鹿駅より全但バス「秋岡」行に乗車（約1時間）、「小代大谷」バス停下車、徒歩で約10分</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県美方郡香美町小代区大谷300 ／ 最寄り駅：八鹿 ／ 交通案内：八鹿駅より全但バス「秋岡」行に乗車（約1時間）、「小代大谷」バス停下車、徒歩で約10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -395,37 +395,6 @@ export default function Page() {
           </div>
         </section>
 
-        {/* よくある質問 FAQ */}
-        <section className="mb-16 bg-white rounded-3xl shadow-sm border border-stone-200/80 p-6 md:p-10">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">よくある質問・ふるさと納税トラベルクーポンの疑問を解消</h2>
-          <div className="space-y-4">
-            
-            <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>秘湯宿はスマートフォンやインターネットの電波は通じますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
-                山奥の秘湯では、携帯キャリアによって圏外になる場所や、館内ロビー周辺のみWi-Fiが繋がる宿が多いです。あらかじめ仕事の連絡を済ませ、「意図的にスマホを見ないデジタルデトックスの休日」として滞在するのが最高の過ごし方です。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>冬期のアクセスや道路状況（雪道）はどうですか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
-                酸ヶ湯温泉や法師温泉などは冬に数メートルの積雪を記録する豪雪地帯です。冬場はJR主要駅（新青森駅や上毛高原駅など）からの宿送迎バスや路線バスの利用が強く推奨されます。ふるさと納税クーポンは公共交通機関で向かう旅にも安心してお使いいただけます。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>混浴の大浴場に女性が入る際の配慮や女性専用時間はありますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
-                法師乃湯やヒバ千人風呂など歴史ある混浴大浴場では、女性専用の入浴時間帯が毎日しっかりと設定されているほか、専用の女性湯（内湯・露天）も完備されています。女性の方でも安心して名湯を満喫できます。
-              </p>
-            </div>
-          </div>
-        </section>
-
         {/* 相互回遊リンク */}
         <section className="bg-stone-200/80 rounded-3xl p-6 md:p-10 border border-stone-300">
           <div className="text-center max-w-2xl mx-auto mb-8">

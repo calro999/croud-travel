@@ -77,7 +77,7 @@ export default function ArticlePage() {
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.13 更新</time>
           <span>執筆：旅宿クラウド ひとり旅・出張調査班</span>
-          <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式API提携</span>
+          <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">編集部が厳選</span>
         </div>
 
         {/* リード文 */}
@@ -89,7 +89,7 @@ export default function ArticlePage() {
             日本屈指のコンパクトシティであり、アジアの玄関口として躍動する福岡・博多。空港から主要駅・中心街へのアクセスが抜群で、全国から多くのビジネスパーソンや一人旅トラベラーが訪れます。
           </p>
           <p>
-            都会のど真ん中にありながら本格的な天然温泉と高温サウナを備え、出張の疲れを芯から癒やしてくれる高機能ホテルを、楽天トラベル公式APIより直接取得した最新データ（評価・設備・料金）をもとに厳選紹介します。
+            都会のど真ん中にありながら本格的な天然温泉と高温サウナを備え、出張の疲れを芯から癒やしてくれる高機能ホテルを、宿泊施設データより直接取得した最新データ（評価・設備・料金）をもとに厳選紹介します。
           </p>
         </div>
       </header>
@@ -368,7 +368,7 @@ export default function ArticlePage() {
           <p className="text-sm text-amber-100 mb-6 max-w-2xl mx-auto">平日限定の一人旅割引や、早期割・直前割など、楽天トラベルならではの特典プランが多数用意されています。人気日程は早めの予約がおすすめです。
           </p>
           <a
-            href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2F"
+            href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fsearch.travel.rakuten.co.jp%2Fds%2Fundated%2Fsearch%3Ff_query%3D%25E7%25A6%258F%25E5%25B2%25A1%25E7%259C%258C"
             target="_blank"
             rel="sponsored noopener noreferrer"
             className="inline-flex items-center justify-center bg-white text-amber-900 font-bold px-8 py-3 rounded-xl shadow-lg hover:bg-amber-50 transition transform hover:-translate-y-0.5 text-sm sm:text-base"

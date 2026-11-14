@@ -297,7 +297,7 @@ export default function NaraDorogawaOnsenPage() {
             </div>
             <h2 className="text-2xl sm:text-3xl font-black text-stone-900">雪景色とぼたん鍋に癒やされる洞川温泉の名宿5選</h2>
             <p className="text-stone-500 text-xs sm:text-sm">
-              全宿楽天トラベル公式APIより最新宿泊プラン＆空室情報をリアルタイム取得中
+              全宿宿泊施設データより最新宿泊プラン＆空室情報をリアルタイム取得中
             </p>
           </div>
 

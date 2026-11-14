@@ -199,11 +199,11 @@ export default function HokkaidoHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">北海道旅行 完全計画ガイド 2026：2泊3日・3泊4日モデルコース＆札幌・小樽・函館・富良野・海鮮グルメ・絶景温泉宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「北海道旅行 完全計画ガイド 2026：2泊3日・3泊4日モデルコース＆札幌・小樽・函館・富良野・海鮮グルメ・絶景温泉宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「北海道旅行 完全計画ガイド 2026：2泊3日・3泊4日モデルコース＆札幌・小樽・函館・富良野・海鮮グルメ・絶景温泉宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -294,7 +294,7 @@ export default function HokkaidoHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/56806/56806.jpg" alt="ホテルルートイン　札幌駅前北口 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>札幌駅北口から徒歩1分■ＷＯＷＯＷ全室で無料視聴可■朝食無料サービス＆大浴場あり！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道札幌市北区北7条西4-2-2 ／ 最寄り駅：札幌 ／ 交通案内：ＪＲ札幌駅下車、北口より徒歩１分。新千歳空港からJR線快速列車で４０分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道札幌市北区北7条西4-2-2 ／ 最寄り駅：札幌 ／ 交通案内：ＪＲ札幌駅下車、北口より徒歩１分。新千歳空港からJR線快速列車で４０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>ご到着順にてご案内。ご予約は承れません。１泊につき１５００円／１台。ハイルーフタイプ用もございます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -316,7 +316,7 @@ export default function HokkaidoHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/178964/178964.jpg" alt="ＦＯＲＺＡ　ホテルフォルツァ札幌駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>テレビでYouTube視聴やミラーリングが可能。朝食ブッフェで北海道名物もお楽しみいただけます！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道札幌市中央区北三条西2丁目1-1 ／ 最寄り駅：札幌 ／ 交通案内：JR札幌駅南口より徒歩にて約４分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道札幌市中央区北三条西2丁目1-1 ／ 最寄り駅：札幌 ／ 交通案内：JR札幌駅南口より徒歩にて約４分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>近隣の提携駐車場をご案内いたします。詳細は公式ホームページ内「周辺提携駐車場情報」をご確認ください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.4 ／ 立地 ★4.45 ／ 部屋 ★4.44 ／ 設備 ★4.4 ／ 風呂 ★4.35 ／ 食事 ★4.4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -338,7 +338,7 @@ export default function HokkaidoHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/50125/50125_tw.jpg" alt="リッチモンドホテル札幌駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>札幌駅徒歩7分。大通公園至近。大和ハウスプレミストドーム(旧:札幌ドーム)約30分。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道札幌市中央区北3西1丁目1-7 ／ 最寄り駅：札幌 ／ 交通案内：◆ＪＲ札幌駅南口より徒歩7分（地下鉄東豊線22番出口徒歩0分！荷物の多い方は23番出口がおすすめ）</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道札幌市中央区北3西1丁目1-7 ／ 最寄り駅：札幌 ／ 交通案内：◆ＪＲ札幌駅南口より徒歩7分（地下鉄東豊線22番出口徒歩0分！荷物の多い方は23番出口がおすすめ）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　1,400円（税込／泊）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -360,7 +360,7 @@ export default function HokkaidoHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/635/635_heya.jpg" alt="ホテルグレイスリー札幌 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ＪＲ札幌駅より地下街直結。JR札幌駅南口からの地上アクセスは徒歩1分　全室wi-fi接続無料</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道札幌市中央区北4条西4丁目 ／ 最寄り駅：札幌 ／ 交通案内：札幌駅地下街（アピア・フードウォーク）より直結。JR札幌駅南口より徒歩1分とアクセス抜群。北海道読売新聞ビル7階</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道札幌市中央区北4条西4丁目 ／ 最寄り駅：札幌 ／ 交通案内：札幌駅地下街（アピア・フードウォーク）より直結。JR札幌駅南口より徒歩1分とアクセス抜群。北海道読売新聞ビル7階</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有料 (但し、オートバイは利用不可）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -382,7 +382,7 @@ export default function HokkaidoHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1432/1432_room.jpg" alt="プレミアホテル－ＴＳＵＢＡＫＩ－札幌 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ご宿泊者様専用サウナ＆フィットネス◇すすきの徒歩圏内◇ご宿泊者様専用ラウンジ（利用条件有り）</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道札幌市豊平区豊平4条1丁目1-1 ／ 最寄り駅：札幌 ／ 交通案内：《新千歳空港から》空港連絡バス「プレミアホテルTSUBAKI」下車 《お車》地下駐車場有《JR札幌駅から》シャトルバス有</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道札幌市豊平区豊平4条1丁目1-1 ／ 最寄り駅：札幌 ／ 交通案内：《新千歳空港から》空港連絡バス「プレミアホテルTSUBAKI」下車 《お車》地下駐車場有《JR札幌駅から》シャトルバス有</p>
                   <p><strong>【駐車場・マイカー利用】</strong>地下駐車場200台◇1泊1台1000円◇高さ制限2.1m◇24時間出し入れ自由</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.5 ／ 立地 ★4.24 ／ 部屋 ★4.42 ／ 設備 ★4.34 ／ 風呂 ★4.26 ／ 食事 ★4.62</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -404,7 +404,7 @@ export default function HokkaidoHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/79254/79254_ka.jpg" alt="ホテル京阪　札幌 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR「札幌」駅より徒歩約4分！全客室にReFa製シャワーヘッド・ドライヤーを新しく導入しました！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道札幌市北区北6条西6丁目1-9 ／ 最寄り駅：札幌 ／ 交通案内：【新千歳空港からホテルまで約44分】JR「札幌」駅西口より徒歩約4分★詳しくはアクセスページをご覧ください。</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道札幌市北区北6条西6丁目1-9 ／ 最寄り駅：札幌 ／ 交通案内：【新千歳空港からホテルまで約44分】JR「札幌」駅西口より徒歩約4分★詳しくはアクセスページをご覧ください。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>20台有り予約不可・先着順　一泊1,500円　満車時は同料金にて提携駐車場をご案内いたします</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

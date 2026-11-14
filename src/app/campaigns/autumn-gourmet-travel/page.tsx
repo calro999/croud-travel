@@ -4,6 +4,7 @@ import { Metadata } from "next";
 import Link from "next/link";
 import AutumnSpecialHubClient from "./AutumnSpecialHubClient";
 import autumnPostsData from "@/data/autumnFeaturesData.json";
+import ShareButtons from "@/app/components/ShareButtons";
 
 export const metadata: Metadata = {
   title: "秋の味覚＆紅葉を満喫する絶品温泉宿特集まとめ",
@@ -74,6 +75,11 @@ export default function AutumnGourmetTravelPage() {
         </div>
       </section>
 
+      <ShareButtons
+        title="秋の味覚＆紅葉を満喫する絶品温泉宿特集まとめ"
+        url="https://croud-travel.pages.dev/campaigns/autumn-gourmet-travel/"
+      />
+
       {/* 目的別＆エリア別インタラクティブ絞り込みナビゲーション */}
       <AutumnSpecialHubClient posts={autumnPostsData} />
 
@@ -95,6 +101,11 @@ export default function AutumnGourmetTravelPage() {
           </Link>
         </div>
       </section>
+
+      <ShareButtons
+        title="秋の味覚＆紅葉を満喫する絶品温泉宿特集まとめ"
+        url="https://croud-travel.pages.dev/campaigns/autumn-gourmet-travel/"
+      />
     </div>
   );
 }

@@ -376,11 +376,11 @@ export default function AutumnBudgetHotelsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">宇都宮駅前：日光紅葉前泊＆名物宇都宮餃子・大谷石地下宮殿！2,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「宇都宮駅前：日光紅葉前泊＆名物宇都宮餃子・大谷石地下宮殿！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「宇都宮駅前：日光紅葉前泊＆名物宇都宮餃子・大谷石地下宮殿！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -462,7 +462,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/37936/37936_he.jpg" alt="リッチモンドホテル宇都宮駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>◆宇都宮出張はリッチモンドへ◆JR宇都宮駅南口徒歩2分の好立地！【全室】18平米以上＆シモンズベッド</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県宇都宮市駅前通り3-5-12 ／ 最寄り駅：宇都宮 ／ 交通案内：ＪＲ宇都宮駅(西口側)南口より徒歩2分。東北自動車道　鹿沼ＩＣより車で約35分</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県宇都宮市駅前通り3-5-12 ／ 最寄り駅：宇都宮 ／ 交通案内：ＪＲ宇都宮駅(西口側)南口より徒歩2分。東北自動車道　鹿沼ＩＣより車で約35分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>◇先着順◇立体駐車場：88台(ハイルーフ対応：20台)◇1泊税込1200円◇</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -484,7 +484,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/30679/30679_room.jpg" alt="アパホテル〈宇都宮駅前〉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR宇都宮駅東口徒歩5分の好立地！JR日光駅まで電車とバスで約70分！ビジネス・観光の拠点に最適！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県宇都宮市東宿郷2-4-4 ／ 最寄り駅：宇都宮 ／ 交通案内：JR宇都宮駅東口より徒歩5分　ライトレール（LRT）東宿郷停留場より徒歩2分　東北道宇都宮ICより車で30分</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県宇都宮市東宿郷2-4-4 ／ 最寄り駅：宇都宮 ／ 交通案内：JR宇都宮駅東口より徒歩5分　ライトレール（LRT）東宿郷停留場より徒歩2分　東北道宇都宮ICより車で30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>1,000円（税込）　15時〜翌11時　地下12台・屋外36台　先着順でのご案内です　※取り置き不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.17 ／ 立地 ★4.21 ／ 部屋 ★4.11 ／ 設備 ★4.08 ／ 風呂 ★4.01 ／ 食事 ★4.11</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -506,7 +506,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/108189/108189_kan.jpg" alt="リッチモンドホテル宇都宮駅前アネックス 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全室禁煙◇各フロアにウォーターサーバー設置◇ロビーにコーヒーマシーン設置してます♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県宇都宮市駅前通り3-6-5 ／ 最寄り駅：宇都宮 ／ 交通案内：ＪＲ　宇都宮駅(西口側)南口から徒歩2分</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県宇都宮市駅前通り3-6-5 ／ 最寄り駅：宇都宮 ／ 交通案内：ＪＲ　宇都宮駅(西口側)南口から徒歩2分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　72台(立体駐車場　全ハイルーフ車対応）　1,200円（税込み／泊）　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.55 ／ 立地 ★4.48 ／ 部屋 ★4.56 ／ 設備 ★4.5 ／ 風呂 ★4.39 ／ 食事 ★4.63</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -528,7 +528,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/199220/199220.jpg" alt="ほてる寛楽プレミア　宇都宮駅東口（２０２６年７月３日ＯＰＥＮ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2026年7月オープン。宇都宮駅東口徒歩7分、地元食材を活かした朝食と、大浴場で寛ぐステイを。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県宇都宮市元今泉1-2-2 ／ 最寄り駅：宇都宮 ／ 交通案内：JR宇都宮駅東口より徒歩7分</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県宇都宮市元今泉1-2-2 ／ 最寄り駅：宇都宮 ／ 交通案内：JR宇都宮駅東口より徒歩7分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>なし※提携コインパーキング有￥1500円/1泊(ファーストパーク宇都宮宮みらい第一または第三)</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.08 ／ 立地 ★3.74 ／ 部屋 ★4.14 ／ 設備 ★4.06 ／ 風呂 ★3.95 ／ 食事 ★3.89</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -550,7 +550,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/108346/108346.jpg" alt="東横ＩＮＮ宇都宮駅前１ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR宇都宮駅から徒歩1分で朝食・小学生以下添い寝無料のホテル！二荒山神社まで車で5分</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県宇都宮市今泉１－４－２９ ／ 最寄り駅：宇都宮 ／ 交通案内：ＪＲ宇都宮駅西口より徒歩1分</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県宇都宮市今泉１－４－２９ ／ 最寄り駅：宇都宮 ／ 交通案内：ＪＲ宇都宮駅西口より徒歩1分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　平地35台：1,000円（税込み／泊）　立体駐車場64台：500円／泊　　※先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.09 ／ 立地 ★4.15 ／ 部屋 ★4.14 ／ 設備 ★4.01 ／ 風呂 ★4.01 ／ 食事 ★3.94</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -236,7 +236,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -681,11 +681,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：朝霧立つ静寂の湖へ。早朝カヤック体験＆湖畔一望のインフィニティ露天宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：朝霧立つ静寂の湖へ。早朝カヤック体験＆湖畔一望のインフィニティ露天宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：朝霧立つ静寂の湖へ。早朝カヤック体験＆湖畔一望のインフィニティ露天宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -767,7 +767,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/197358/197358.jpg" alt="ＴＨＥ　ＬＡＫＥ　河口湖暮らし 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>静かに過ぎる湖畔の一棟貸し古民家、懐かしさと優しさを感じる上質なスロウSTAY！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県南都留郡富士河口湖町長浜388 ／ 最寄り駅：河口湖 ／ 交通案内：河口湖駅：車で約15分 /バス停・長浜：徒歩で約5分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県南都留郡富士河口湖町長浜388 ／ 最寄り駅：河口湖 ／ 交通案内：河口湖駅：車で約15分 /バス停・長浜：徒歩で約5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要 ※足和田ホテルの駐車場をご利用ください</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -789,7 +789,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8883/8883_ryo.jpg" alt="グランパークホテルエクセル福島恵比寿 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>大浴場・サウナ（男性のみ）・宴会場を有する、福島駅東口のデザイナーズホテル。朝食は6時から営業</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県福島市曾根田町10-6 ／ 最寄り駅：福島（福島） ／ 交通案内：東北新幹線　福島駅東口から徒歩約5分</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県福島市曾根田町10-6 ／ 最寄り駅：福島（福島） ／ 交通案内：東北新幹線　福島駅東口から徒歩約5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>専用駐車場無し。近隣のコインパーキングをご利用ください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.99 ／ 立地 ★3.88 ／ 部屋 ★3.82 ／ 設備 ★3.79 ／ 風呂 ★3.89 ／ 食事 ★4.06</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -811,7 +811,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/50833/50833_room.jpg" alt="リゾート　イン　ボンシック 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>静かで落ち着く小粋な宿・地産地消のお料理自慢のゲストハウス・Wi-Fi完備</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県南佐久郡小海町豊里5907-1 ／ 最寄り駅：小海 ／ 交通案内：上信越道→中部横断道八千穂高原ＩＣより２０分／中央自動車道須玉又は長坂ＩＣより５０分／ＪＲ小海線小海駅より車で２０分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県南佐久郡小海町豊里5907-1 ／ 最寄り駅：小海 ／ 交通案内：上信越道→中部横断道八千穂高原ＩＣより２０分／中央自動車道須玉又は長坂ＩＣより５０分／ＪＲ小海線小海駅より車で２０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料　玄関と反対側の道路を挟んだ向かい側にあります。荷物積み下ろしは玄関前にお車をお付け下さい。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -833,7 +833,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2468/2468_lob.jpg" alt="シャレー　ラ・ネージュ＜群馬県＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>緑の森に佇む洋館♪大自然に癒されます。スキー場アクセスは徒歩３０秒！お夕食は洋食フルコース！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県利根郡みなかみ町藤原3831-7 ／ 最寄り駅：水上 ／ 交通案内：関越道水上Ｉ．Ｃよりお車で30分。ＪＲ上越線水上駅、もしくは、上越新幹線上毛高原駅よりバス。バス停まで送迎有。（要予約）</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県利根郡みなかみ町藤原3831-7 ／ 最寄り駅：水上 ／ 交通案内：関越道水上Ｉ．Ｃよりお車で30分。ＪＲ上越線水上駅、もしくは、上越新幹線上毛高原駅よりバス。バス停まで送迎有。（要予約）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -855,7 +855,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/11199/11199_rm.jpg" alt="猿ヶ京温泉　山と湖の絶景に浮かぶ宿　料理旅館　樋口 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>神秘的な湖と山々のおりなす絶景を望む【小さな温泉宿】5室だからできるやさしい“おもてなし”</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県利根郡みなかみ町猿ヶ京1167 ／ 最寄り駅：上毛高原 ／ 交通案内：車　月夜野ＩＣから新潟方面へ２０分　猿ヶ京温泉信号右　新幹線⇒上毛高原駅　在来線⇒後閑駅下車</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県利根郡みなかみ町猿ヶ京1167 ／ 最寄り駅：上毛高原 ／ 交通案内：車　月夜野ＩＣから新潟方面へ２０分　猿ヶ京温泉信号右　新幹線⇒上毛高原駅　在来線⇒後閑駅下車</p>
                   <p><strong>【駐車場・マイカー利用】</strong>【無料】当館前に駐車　7台</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

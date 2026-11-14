@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">長野・信州渋温泉：九湯めぐり＆金具屋・スノーモンキー極上宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「長野・信州渋温泉：九湯めぐり＆金具屋・スノーモンキー極上宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「長野・信州渋温泉：九湯めぐり＆金具屋・スノーモンキー極上宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -288,7 +288,7 @@ export default function MicroTouristHubPage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 湯田中渋温泉郷　ホテル水明館（伊東園ホテルズ）</td>
-                <td className="p-3 text-stone-600">長野県</td>
+                <td className="p-3 text-stone-600">長野県下高井郡山ノ内町平穏2941</td>
                 <td className="p-3 text-stone-600">長野電鉄　湯田中駅より徒歩にて約5分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★3.81（755件）</td>
@@ -323,7 +323,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/32044/32044_r1.jpg" alt="渋温泉　歴史の宿　金具屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>国登録文化財の建築や豊富な源泉からなるかけ流しの風呂など、昔ながらの温泉旅情をお楽しみ下さい。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県下高井郡山ノ内町平穏2202 ／ 最寄り駅：湯田中 ／ 交通案内：長野電鉄線　湯田中駅／上信越自動車道　信州中野ＩＣより国道２９２号線を志賀高原方面へ約１５分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県下高井郡山ノ内町平穏2202 ／ 最寄り駅：湯田中 ／ 交通案内：長野電鉄線　湯田中駅／上信越自動車道　信州中野ＩＣより国道２９２号線を志賀高原方面へ約１５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　３０台　無料　屋外のみ　マイクロバス以上は有料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/51754/51754_wa.jpg" alt="渋温泉　ふる里の宿　天川荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>九つの外湯めぐりが楽しめる信州・渋温泉の一番奥に位置する閑静な宿。貸し切り露天風呂有。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県下高井郡山ノ内町平穏1263-イ ／ 最寄り駅：湯田中 ／ 交通案内：長野電鉄　湯田中駅より車で２ｋｍ／上林温泉行バス乗車約７分、渋和合橋下車、徒歩５分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県下高井郡山ノ内町平穏1263-イ ／ 最寄り駅：湯田中 ／ 交通案内：長野電鉄　湯田中駅より車で２ｋｍ／上林温泉行バス乗車約７分、渋和合橋下車、徒歩５分</p>
                   <p>【長野・信州渋温泉：九湯めぐり＆金具屋・スノーモンキー】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/162792/162792_kan1.jpg" alt="虎杖浜温泉ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>２０２４年３月２日、温泉棟新築！豊富な湯量の源泉かけ流し温泉！ 登別駅ー当館の無料バス運行中</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道白老郡白老町虎杖浜73-5 ／ 最寄り駅：新千歳空港 ／ 交通案内：新千歳空港よりお車にて約１時間(マップコード：603 145 860*56) JR登別駅より無料送迎バスで約10分.</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道白老郡白老町虎杖浜73-5 ／ 最寄り駅：新千歳空港 ／ 交通案内：新千歳空港よりお車にて約１時間(マップコード：603 145 860*56) JR登別駅より無料送迎バスで約10分.</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/187457/187457.jpg" alt="天然温泉　旅人の湯（源泉名：延徳温泉）ホテルルートインＧｒａｎｄ中野小布施－信州中野駅前－ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>長野電鉄信州中野駅より徒歩3分！無料駐車場・天然温泉大浴場完備！小布施町・志賀高原へ良アクセス！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県中野市西1-3-27 ／ 最寄り駅：信州中野 ／ 交通案内：信州中野駅より徒歩で約3分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県中野市西1-3-27 ／ 最寄り駅：信州中野 ／ 交通案内：信州中野駅より徒歩で約3分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　109台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -410,8 +410,8 @@ export default function MicroTouristHubPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/146144/146144.jpg" alt="湯田中渋温泉郷　ホテル水明館（伊東園ホテルズ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「長野・信州渋温泉（九湯めぐり＆金具屋・スノーモンキー極上宿 厳選ガイド）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：長野電鉄　湯田中駅より徒歩にて約5分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>東に志賀高原の山並み、西に北アルプスを一望.源泉掛け流しの大浴場・露天風呂。湯の香漂うおもてなし</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：長野電鉄　湯田中駅より徒歩にて約5分</p>
                   <p>【長野・信州渋温泉：九湯めぐり＆金具屋・スノーモンキー】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/43824/43824_k.jpg" alt="湯田中温泉　ホテル豊生 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>自館で温泉の源泉をお見せできる、湯田中唯一のホテル</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県下高井郡山ノ内町佐野2562 ／ 最寄り駅：湯田中 ／ 交通案内：湯田中駅より徒歩５分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県下高井郡山ノ内町佐野2562 ／ 最寄り駅：湯田中 ／ 交通案内：湯田中駅より徒歩５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

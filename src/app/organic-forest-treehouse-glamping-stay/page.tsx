@@ -211,7 +211,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -599,11 +599,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：子どもの頃の夢を叶える！ツリーハウス＆森林薪サウナ付き極上グランピング5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：子どもの頃の夢を叶える！ツリーハウス＆森林薪サウナ付き極上グランピング5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：子どもの頃の夢を叶える！ツリーハウス＆森林薪サウナ付き極上グランピング5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -676,7 +676,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/184655/184655.jpg" alt="和心村ー古民家とグランピング　と自然森山川海 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>房総、富津の里山に立地する自由度抜群のグランピング。猫と自然に触れ合いながらのんびり過ごせます</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 千葉県富津市高溝14 ／ 最寄り駅：上総湊 ／ 交通案内：JR内房線・上総湊駅より車で約15分。館山自動車道・富津中央ICより車で約15分。高速バス・浅間山バス停から車で約15分</p>
+                  <p><strong>【所在地・アクセス】</strong>千葉県富津市高溝14 ／ 最寄り駅：上総湊 ／ 交通案内：JR内房線・上総湊駅より車で約15分。館山自動車道・富津中央ICより車で約15分。高速バス・浅間山バス停から車で約15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.74 ／ 立地 ★4.78 ／ 部屋 ★4.78 ／ 設備 ★4.71 ／ 風呂 ★4.69 ／ 食事 ★4.76</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -698,7 +698,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/16403/16403_twn.jpg" alt="舞子温泉　飯士の湯　舞子高原ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>夏休みの早期予約がオススメ！！ホテル館内で宝探し、謎解きも開催中！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県南魚沼市舞子2056-108 ／ 最寄り駅：越後湯沢 ／ 交通案内：関越自動車道「塩沢石打IC」より直進1km、約2分！越後湯沢駅からは無料シャトルバスで約20分(春～秋は予約制)</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県南魚沼市舞子2056-108 ／ 最寄り駅：越後湯沢 ／ 交通案内：関越自動車道「塩沢石打IC」より直進1km、約2分！越後湯沢駅からは無料シャトルバスで約20分(春～秋は予約制)</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台　宿泊者専用（無料）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -720,7 +720,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/189097/189097.jpg" alt="Ｍｉｍｏｚａ　Ｒｅｔｒｅａｔ　ＮＡＳＵ（ミモザ・リトリート那須） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>那須高原の＂森のアクティビティリゾート＂大人から子どもまで、ペットも一緒に森林を楽しみ尽くせます！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県那須塩原市戸田178-4 ／ 最寄り駅：那須塩原 ／ 交通案内：那須塩原駅より車で約25分（30分圏内であれば、送迎無料※要電話予約）</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県那須塩原市戸田178-4 ／ 最寄り駅：那須塩原 ／ 交通案内：那須塩原駅より車で約25分（30分圏内であれば、送迎無料※要電話予約）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -742,7 +742,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/165006/165006_kan1.jpg" alt="３６５ＢＡＳＥ　ｏｕｔｄｏｏｒ　ｈｏｓｔｅｌ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>みんなで楽しむならここ！宿泊エンターテイメント！グループやカップル・ファミリーで楽しめる宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県浜松市中央区曳馬2-1-25 ／ 最寄り駅：助信 ／ 交通案内：◆JR浜松駅より遠州鉄道 新浜松駅に乗り換え、4駅目の助信駅で下車　徒歩約４分　◆東名浜松ＩＣより16分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県浜松市中央区曳馬2-1-25 ／ 最寄り駅：助信 ／ 交通案内：◆JR浜松駅より遠州鉄道 新浜松駅に乗り換え、4駅目の助信駅で下車　徒歩約４分　◆東名浜松ＩＣより16分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>1台500円/泊　平面駐車場で24時間出し入れ自由、最大34台(予約不可・1部屋に付き1台まで)</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.08 ／ 立地 ★3.92 ／ 部屋 ★4.33 ／ 設備 ★4.47 ／ 風呂 ★3.83</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -349,11 +349,11 @@ export default function HighwayBusArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">東京〜名古屋：新幹線 vs 高速バス徹底比較！片道2,000円〜行く名古屋めし爆食1泊2日モデルコース：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「東京〜名古屋：新幹線 vs 高速バス徹底比較！片道2,000円〜行く名古屋めし爆食1泊2日モデルコース」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「東京〜名古屋：新幹線 vs 高速バス徹底比較！片道2,000円〜行く名古屋めし爆食1泊2日モデルコース」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -417,7 +417,7 @@ export default function HighwayBusArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/68242/68242_lo.jpg" alt="ダイワロイネットホテル名古屋駅前（２０２６年５月リニューアル） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>■2026年5月リニューアル■JR名古屋駅【桜通口】より徒歩約5分</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛知県名古屋市中村区名駅南1-23-20 ／ 最寄り駅：名古屋 ／ 交通案内：◆ＪＲ名古屋駅桜通口より徒歩５分◆近鉄、名鉄名古屋駅より徒歩3分◆中部国際空港からミュースカイ利用で最短２８分◆</p>
+                  <p><strong>【所在地・アクセス】</strong>愛知県名古屋市中村区名駅南1-23-20 ／ 最寄り駅：名古屋 ／ 交通案内：◆ＪＲ名古屋駅桜通口より徒歩５分◆近鉄、名鉄名古屋駅より徒歩3分◆中部国際空港からミュースカイ利用で最短２８分◆</p>
                   <p><strong>【駐車場・マイカー利用】</strong>1500円／14：00～翌11：00（税込／泊）※先着順、車両制限有、営業時間外入出庫不可</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -439,7 +439,7 @@ export default function HighwayBusArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/182742/182742.jpg" alt="アパホテル〈名古屋駅前〉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>名古屋駅太閤通口より徒歩7分！大浴殿が宿泊者無料！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛知県名古屋市中村区則武1-5-3 ／ 最寄り駅：名古屋 ／ 交通案内：JR、東海道新幹線「名古屋駅」接続エスカ地下街(E7出口)徒歩4分、（太閤通口）徒歩7分。</p>
+                  <p><strong>【所在地・アクセス】</strong>愛知県名古屋市中村区則武1-5-3 ／ 最寄り駅：名古屋 ／ 交通案内：JR、東海道新幹線「名古屋駅」接続エスカ地下街(E7出口)徒歩4分、（太閤通口）徒歩7分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>9台（1泊2,000円・先着順・予約不可）　詳細は宿ニュース「駐車場のご案内」をご確認ください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -461,7 +461,7 @@ export default function HighwayBusArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/179997/179997.jpg" alt="アパホテル〈名古屋駅前北〉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>■大浴殿完備　仕事・旅の疲れを癒せるホテル　■2階以上吹き抜けで、新鮮な空気でお出迎え</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛知県名古屋市中村区則武1-2-4 ／ 最寄り駅：名古屋 ／ 交通案内：JR、東海道新幹線「名古屋駅」接続エスカ地下街(E7出口)徒歩4分。（太閤通口）徒歩7分。地下鉄(桜通口)徒歩10分。</p>
+                  <p><strong>【所在地・アクセス】</strong>愛知県名古屋市中村区則武1-2-4 ／ 最寄り駅：名古屋 ／ 交通案内：JR、東海道新幹線「名古屋駅」接続エスカ地下街(E7出口)徒歩4分。（太閤通口）徒歩7分。地下鉄(桜通口)徒歩10分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>あり。15:00から翌11:00まで2,000円。  ※ホテル専用ではありません。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

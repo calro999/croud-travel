@@ -504,11 +504,11 @@ export default function FurusatoFeaturePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">最高級黒毛和牛ステーキ＆鉄板焼きカウンター宿×ふるさと納税厳選ガイド松阪牛・近江牛・米沢牛の美食ホテル：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「最高級黒毛和牛ステーキ＆鉄板焼きカウンター宿×ふるさと納税厳選ガイド松阪牛・近江牛・米沢牛の美食ホテル」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「最高級黒毛和牛ステーキ＆鉄板焼きカウンター宿×ふるさと納税厳選ガイド松阪牛・近江牛・米沢牛の美食ホテル」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -555,7 +555,7 @@ export default function FurusatoFeaturePage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. びわ湖畔　おいしい湯の宿　長浜太閤温泉　浜湖月</td>
-                <td className="p-3 text-stone-600">山形県</td>
+                <td className="p-3 text-stone-600">滋賀県 長浜市公園町4-25</td>
                 <td className="p-3 text-stone-600">ＪＲ長浜駅より徒歩５分／北陸自動車道長浜ＩＣより約１０分 無料駐車場</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.75（69件）</td>
@@ -564,7 +564,7 @@ export default function FurusatoFeaturePage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. びわ湖畔　味覚の宿　双葉荘</td>
-                <td className="p-3 text-stone-600">山形県</td>
+                <td className="p-3 text-stone-600">滋賀県彦根市松原町網代口1377</td>
                 <td className="p-3 text-stone-600">JR琵琶湖線彦根駅下車、タクシー約7分　名神高速道路彦根ＩＣより湖岸方</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.6（131件）</td>
@@ -599,7 +599,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/12599/12599_war.jpg" alt="湯の山温泉　旅館寿亭 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>選べる6つの貸切風呂と部屋食で味わう三重の旬。大切な人と気兼ねなく過ごす湯の山温泉の老舗旅館</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 三重県三重郡菰野町菰野8585 ／ 最寄り駅：湯の山温泉 ／ 交通案内：【車】新名神：菰野ＩＣ（※ＥＴＣ専用）約１０分　東名阪：四日市ＩＣ約２５分【電車】湯の山温泉駅から無料送迎（約１０分）</p>
+                  <p><strong>【所在地・アクセス】</strong>三重県三重郡菰野町菰野8585 ／ 最寄り駅：湯の山温泉 ／ 交通案内：【車】新名神：菰野ＩＣ（※ＥＴＣ専用）約１０分　東名阪：四日市ＩＣ約２５分【電車】湯の山温泉駅から無料送迎（約１０分）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有４０台無料　係員が駐車場までご案内します　Google map「寿亭専用駐車場」と検索してください</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.69 ／ 立地 ★4.44 ／ 部屋 ★4.44 ／ 設備 ★4.31 ／ 風呂 ★4.51 ／ 食事 ★4.65</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -621,7 +621,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/13536/13536_room.jpg" alt="湯の山温泉　鹿の湯ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>露天風呂付き客室・貸切風呂・無料スイーツカフェが人気■女性に色浴衣無料サービス■長島・鈴鹿近い温泉地</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 三重県三重郡菰野町菰野8520-1 ／ 最寄り駅：湯の山温泉 ／ 交通案内：湯の山駅まで無料送迎有（21時まで）／湯の山駅よりタクシー5分／新名神菰野ICより約5分（ナビでは湯の山郵便局で検索）</p>
+                  <p><strong>【所在地・アクセス】</strong>三重県三重郡菰野町菰野8520-1 ／ 最寄り駅：湯の山温泉 ／ 交通案内：湯の山駅まで無料送迎有（21時まで）／湯の山駅よりタクシー5分／新名神菰野ICより約5分（ナビでは湯の山郵便局で検索）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　先着順　（ナビでは湯の山郵便局で検索）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.55 ／ 立地 ★4.3 ／ 部屋 ★4.5 ／ 設備 ★4.38 ／ 風呂 ★4.39 ／ 食事 ★4.54</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -643,7 +643,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4723/4723_room.jpg" alt="リゾートヒルズ豊浜蒼空の風　～ＳＯＲＡ　ｎｏ　ＫＡＺＥ～ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全プラン舟盛付！ハンモックやフィッシュ足湯で笑顔いっぱいの思い出を♪温泉を満喫できるアットホームな宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 三重県鳥羽市相差町1471 ◆千鳥ヶ浜沿い高台／伊勢神宮３５分 ／ 最寄り駅：鳥羽 ／ 交通案内：鳥羽南白木IC→15分【電車】鳥羽駅送迎(15時/16時30分前日までの予約必要)◆伊勢神宮35分◆ビーチすぐ</p>
+                  <p><strong>【所在地・アクセス】</strong>三重県鳥羽市相差町1471 ◆千鳥ヶ浜沿い高台／伊勢神宮３５分 ／ 最寄り駅：鳥羽 ／ 交通案内：鳥羽南白木IC→15分【電車】鳥羽駅送迎(15時/16時30分前日までの予約必要)◆伊勢神宮35分◆ビーチすぐ</p>
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場無料♪５０台C/IN前、OUT後の利用可。無料温水シャワー・ロッカー有◆海まで徒歩１分強</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -664,8 +664,8 @@ export default function FurusatoFeaturePage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/13910/13910_room.jpg" alt="びわ湖畔　おいしい湯の宿　長浜太閤温泉　浜湖月 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「最高級黒毛和牛ステーキ＆鉄板焼きカウンター宿×ふるさと納税厳選ガイド松阪牛・近江牛・米沢牛の美食ホテル」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ長浜駅より徒歩５分／北陸自動車道長浜ＩＣより約１０分 無料駐車場</p>
+                  <p><strong>【宿の特徴・魅力】</strong>滋賀県長浜市公園町4-25の「びわ湖畔 おいしい湯の宿 長浜太閤温泉 浜湖月」（楽天トラベル評価4.78（72件）／1泊目安¥16,500〜）の魅力と宿泊ポイントを詳しく紹介。琵琶湖を眺め、新鮮な湖国の幸を活かした料理自慢。客室の特徴や館内設備、食事プラン、最寄り駅・駐車場アクセスからお得な予約のコツまで詳しくまとめました。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：ＪＲ長浜駅より徒歩５分／北陸自動車道長浜ＩＣより約１０分 無料駐車場</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -686,8 +686,8 @@ export default function FurusatoFeaturePage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/38783/38783.jpg" alt="びわ湖畔　味覚の宿　双葉荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「最高級黒毛和牛ステーキ＆鉄板焼きカウンター宿×ふるさと納税厳選ガイド松阪牛・近江牛・米沢牛の美食ホテル」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：JR琵琶湖線彦根駅下車、タクシー約7分　名神高速道路彦根ＩＣより湖岸方面へ10分 　無料駐車場</p>
+                  <p><strong>【宿の特徴・魅力】</strong>びわ湖まで徒歩1分。 レイクビューの客室で美しい夕日と料理を堪能！</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：JR琵琶湖線彦根駅下車、タクシー約7分　名神高速道路彦根ＩＣより湖岸方面へ10分 　無料駐車場</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -709,7 +709,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/14534/14534_room.jpg" alt="小野川温泉　湯杜　匠味庵　山川　ｙｕｍｏｒｉ－ｓｈｏｍｉａｎ　ＹＡＭＡＫＡＷＡ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>～名湯一門　高見屋～★ 湯×味 ★ 「美人の湯」で癒されて、ここでしか味わえない美食の時間♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県米沢市小野川町2436 ／ 最寄り駅：米沢 ／ 交通案内：【山形新幹線】米沢駅より市内バスで小野川温泉へ約２５分【東北中央自動車道】米沢中央ICよりR１２１で約２０分</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県米沢市小野川町2436 ／ 最寄り駅：米沢 ／ 交通案内：【山形新幹線】米沢駅より市内バスで小野川温泉へ約２５分【東北中央自動車道】米沢中央ICよりR１２１で約２０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　敷地内・外に30台無料　共同駐車場100台無料。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

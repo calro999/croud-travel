@@ -536,11 +536,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大原生林＆世界遺産ネイチャーリゾート×ふるさと納税ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本三大原生林＆世界遺産ネイチャーリゾート×ふるさと納税ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「日本三大原生林＆世界遺産ネイチャーリゾート×ふるさと納税ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -604,7 +604,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4902/4902_heya.jpg" alt="ウトロ温泉　知床第一ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ウトロ温泉の高台にあり、夕日に映えるオホーツク海を一望する知床の絶景自慢ホテル。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道斜里郡斜里町ウトロ香川 306 ／ 最寄り駅：知床斜里 ／ 交通案内：女満別空港から車で約2時間、ＪＲ知床斜里駅より車で50分。</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道斜里郡斜里町ウトロ香川 306 ／ 最寄り駅：知床斜里 ／ 交通案内：女満別空港から車で約2時間、ＪＲ知床斜里駅より車で50分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１２０台　無料　到着順にご案内</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.47 ／ 立地 ★4.48 ／ 部屋 ★4.48 ／ 設備 ★4.33 ／ 風呂 ★4.48 ／ 食事 ★4.6</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -626,7 +626,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7499/7499_ja.jpg" alt="屋久島いわさきホテル　＜屋久島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>雄大な自然をバックに近代的な設備のラグジュアリーなホテル</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県熊毛郡屋久島町尾之間1306 ／ 最寄り駅：鹿児島 ／ 交通案内：宮之浦港または屋久島空港から路線バスまたはタクシー・レンタカー</p>
+                  <p><strong>【所在地・アクセス】</strong>鹿児島県熊毛郡屋久島町尾之間1306 ／ 最寄り駅：鹿児島 ／ 交通案内：宮之浦港または屋久島空港から路線バスまたはタクシー・レンタカー</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り：５０台（無料・先着順）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -648,7 +648,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/80717/80717_kya.jpg" alt="黄金崎不老ふ死温泉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>雄大な日本海の波打ち際にある露天風呂。網元である幣社自慢の海の幸を、存分にお楽しみ下さい。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 青森県西津軽郡深浦町舮作下清滝15 ／ 最寄り駅：ウェスパ椿山 ／ 交通案内：ウェスパ椿山駅よりお車で５分。</p>
+                  <p><strong>【所在地・アクセス】</strong>青森県西津軽郡深浦町舮作下清滝15 ／ 最寄り駅：ウェスパ椿山 ／ 交通案内：ウェスパ椿山駅よりお車で５分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.46 ／ 立地 ★4.65 ／ 部屋 ★4.39 ／ 設備 ★4.29 ／ 風呂 ★4.65 ／ 食事 ★4.41</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

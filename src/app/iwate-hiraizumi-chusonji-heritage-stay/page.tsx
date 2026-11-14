@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">岩手・平泉中尊寺＆厳美渓：世界遺産金色堂・空飛ぶだんご＆前沢牛極上宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「岩手・平泉中尊寺＆厳美渓：世界遺産金色堂・空飛ぶだんご＆前沢牛極上宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「岩手・平泉中尊寺＆厳美渓：世界遺産金色堂・空飛ぶだんご＆前沢牛極上宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/13482/13482_w.jpg" alt="花巻温泉　佳松園 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>とろとろの湯と心に残るおもてなし。特別な日を佳松園で過ごす愉しみ。花巻ICよりわずか5分の別世界。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岩手県花巻市湯本第1地割125-2 ／ 最寄り駅：新花巻 ／ 交通案内：花巻IC：右折後直進4km（5分）、JR新花巻駅・JR花巻駅：無料送迎バス20分（定時運行・完全予約制）</p>
+                  <p><strong>【所在地・アクセス】</strong>岩手県花巻市湯本第1地割125-2 ／ 最寄り駅：新花巻 ／ 交通案内：花巻IC：右折後直進4km（5分）、JR新花巻駅・JR花巻駅：無料送迎バス20分（定時運行・完全予約制）</p>
                   <p>【岩手・平泉中尊寺＆厳美渓：世界遺産金色堂・空飛ぶだん】 <strong>【駐車場・マイカー利用】</strong>有り　30台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.74 ／ 立地 ★4.61 ／ 部屋 ★4.64 ／ 設備 ★4.68 ／ 風呂 ★4.79 ／ 食事 ★4.72</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/72032/72032_kan.jpg" alt="祭畤温泉　かみくら 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全7室のリトリート宿。泡付き温泉と着物で愉しむJapanese French。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岩手県一ノ関市厳美町祭畤32 ／ 最寄り駅：一ノ関 ／ 交通案内：【公共交通】タクシーのみ　【乗用車】一関駅よりお車にて約45分／世界遺産「平泉」へ約35分</p>
+                  <p><strong>【所在地・アクセス】</strong>岩手県一ノ関市厳美町祭畤32 ／ 最寄り駅：一ノ関 ／ 交通案内：【公共交通】タクシーのみ　【乗用車】一関駅よりお車にて約45分／世界遺産「平泉」へ約35分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２５台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/172092/172092_kan1.jpg" alt="旅館　舞鶴＜岩手県＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>楽天トラベルブロンズアワード2020受賞｜世界遺産平泉の中心♪料理が高評価のおもてなしの宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岩手県西磐井郡平泉町平泉志羅山130 ／ 最寄り駅：平泉 ／ 交通案内：平泉駅より徒歩にて約8分</p>
+                  <p><strong>【所在地・アクセス】</strong>岩手県西磐井郡平泉町平泉志羅山130 ／ 最寄り駅：平泉 ／ 交通案内：平泉駅より徒歩にて約8分</p>
                   <p>【岩手・平泉中尊寺＆厳美渓：世界遺産金色堂・空飛ぶだん】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/196603/196603.jpg" alt="奥州・平泉温泉旅館　ＩＴＳＵＭＵ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【いわて割第2弾 9/1～開催】世界遺産の地・平泉に佇む古都奥州の宿。東北観光の拠点に。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岩手県奥州市衣川日向60-2 ／ 最寄り駅：平泉 ／ 交通案内：平泉駅より車で約７分、東北自動車道平泉・前沢ＩＣより車で約３分</p>
+                  <p><strong>【所在地・アクセス】</strong>岩手県奥州市衣川日向60-2 ／ 最寄り駅：平泉 ／ 交通案内：平泉駅より車で約７分、東北自動車道平泉・前沢ＩＣより車で約３分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４０台　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/54928/54928_kan.jpg" alt="奥州平泉温泉　そば庵　しづか亭 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>源泉かけ流しの大浴場と、自家菜園から収穫する野菜の美味しさ。岩手名産「前沢牛」も味わえる</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岩手県西磐井郡平泉町平泉長倉10-5 ／ 最寄り駅：平泉 ／ 交通案内：中尊寺より奥へ約６キロ懐かしい里山にぽつんと佇む一軒宿。平泉駅から車１０分。平泉にある唯一の源泉かけ流し　露天風呂あり</p>
+                  <p><strong>【所在地・アクセス】</strong>岩手県西磐井郡平泉町平泉長倉10-5 ／ 最寄り駅：平泉 ／ 交通案内：中尊寺より奥へ約６キロ懐かしい里山にぽつんと佇む一軒宿。平泉駅から車１０分。平泉にある唯一の源泉かけ流し　露天風呂あり</p>
                   <p>【岩手・平泉中尊寺＆厳美渓：世界遺産金色堂・空飛ぶだん】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/54152/54152_w.jpg" alt="厳美渓温泉　滝の湯　いつくし園 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【厳美渓から徒歩5分】天然温泉と本格中華や前沢牛など旬の味覚を楽しむ、平泉観光に最適な歴史ある温泉宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岩手県一関市巌美町南滝の上15 ／ 最寄り駅：主要駅 ／ 交通案内：一関駅より車で１５分／岩手交通　「巌美渓」行きバス終点まで</p>
+                  <p><strong>【所在地・アクセス】</strong>岩手県一関市巌美町南滝の上15 ／ 交通案内：一関駅より車で１５分／岩手交通　「巌美渓」行きバス終点まで</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -376,11 +376,11 @@ export default function AutumnBudgetHotelsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">下関駅前：唐戸市場の旬とらふく＆名物瓦そば！2,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「下関駅前：唐戸市場の旬とらふく＆名物瓦そば！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「下関駅前：唐戸市場の旬とらふく＆名物瓦そば！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -462,7 +462,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1024/1024_room.jpg" alt="下関駅西ワシントンホテルプラザ 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ビジネス・観光に便利！全室高速インターネット無料接続・ＶＯＤシステム完備！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山口県下関市大和町1-4-1 ／ 最寄り駅：下関 ／ 交通案内：ＪＲ下関駅西口より徒歩2分。</p>
+                  <p><strong>【所在地・アクセス】</strong>山口県下関市大和町1-4-1 ／ 最寄り駅：下関 ／ 交通案内：ＪＲ下関駅西口より徒歩2分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　14時から10時　700円~1100円（税込み／泊）　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.88 ／ 立地 ★3.91 ／ 部屋 ★3.91 ／ 設備 ★3.83 ／ 風呂 ★3.83 ／ 食事 ★3.72</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -484,7 +484,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/198912/198912.jpg" alt="ネットルーム下関駅前．キャビンホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>リーズナブルで駅近素泊まりに最適！ビジネス出張や一人旅にも連泊大歓迎！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山口県下関市竹崎町3-7-10 ／ 最寄り駅：下関 ／ 交通案内：下関駅より徒歩2分</p>
+                  <p><strong>【所在地・アクセス】</strong>山口県下関市竹崎町3-7-10 ／ 最寄り駅：下関 ／ 交通案内：下関駅より徒歩2分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場は無料ですが、4台しか無い為、必ず電話確認して下さい。（出入口が狭い為普プリウス位まで）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -506,7 +506,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4831/4831_ys.jpg" alt="ＫＯＫＯ　ＳＴＡＹ　下関 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR下関駅徒歩2分／平面駐車場完備でアクセス至便！自慢のふく雑炊を始め選べる6種類の朝食をぜひ。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山口県下関市竹崎町3-11-2 ／ 最寄り駅：下関 ／ 交通案内：ＪＲ下関駅西口より徒歩２分。下関Ｉ・Ｃより市街地方面に進み車で約１５分。山口宇部空港よりバスで75分。</p>
+                  <p><strong>【所在地・アクセス】</strong>山口県下関市竹崎町3-11-2 ／ 最寄り駅：下関 ／ 交通案内：ＪＲ下関駅西口より徒歩２分。下関Ｉ・Ｃより市街地方面に進み車で約１５分。山口宇部空港よりバスで75分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>平面駐車場先着順（普通車700円〜）／大型車事前電話予約必須￥1400〜￥2800</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.95 ／ 立地 ★3.88 ／ 部屋 ★3.81 ／ 設備 ★3.71 ／ 風呂 ★3.62 ／ 食事 ★4.14</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -528,7 +528,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/151341/151341.jpg" alt="スマイルホテル下関 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ＪＲ下関駅より徒歩２分。観る・買う・食べるを満喫したあとはスマイルで快適な宿泊を。全室ＷｉＦｉ完備。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山口県下関市竹崎町4-4-1 ／ 最寄り駅：下関 ／ 交通案内：ＪＲ下関駅より徒歩にて約２分.</p>
+                  <p><strong>【所在地・アクセス】</strong>山口県下関市竹崎町4-4-1 ／ 最寄り駅：下関 ／ 交通案内：ＪＲ下関駅より徒歩にて約２分.</p>
                   <p><strong>【駐車場・マイカー利用】</strong>シーモール下関駐車場 　ご一泊500円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.8 ／ 立地 ★3.82 ／ 部屋 ★3.66 ／ 設備 ★3.59 ／ 風呂 ★3.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -550,7 +550,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9134/9134_kan.jpg" alt="プラザホテル下関 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2022年12月リニューアルオープン♪１０階展望レストランでのお食事付きプランがおすすめ！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山口県下関市岬之町11-10 ／ 最寄り駅：下関 ／ 交通案内：下関駅①～④バス乗り場から４分三百目バス停下車すぐ☆下関ＩＣより車で１0分</p>
+                  <p><strong>【所在地・アクセス】</strong>山口県下関市岬之町11-10 ／ 最寄り駅：下関 ／ 交通案内：下関駅①～④バス乗り場から４分三百目バス停下車すぐ☆下関ＩＣより車で１0分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>600円/日　ご宿泊予約時に備考欄に記載ください。※記載がない場合はお取りできません。ご了承ください</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.2 ／ 立地 ★4.08 ／ 部屋 ★4.15 ／ 設備 ★3.99 ／ 風呂 ★3.93 ／ 食事 ★4.4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

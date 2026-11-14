@@ -498,10 +498,10 @@ export default function FeatureArticlePage() {
                 岐阜県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/yamagata/"
+                href="/prefectures/ishikawa/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                山形県の宿・温泉
+                石川県の宿・温泉
               </Link>
               <Link
                 href="/prefectures/saga/"

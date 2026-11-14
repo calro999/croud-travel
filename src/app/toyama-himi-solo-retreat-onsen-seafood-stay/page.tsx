@@ -77,7 +77,7 @@ export default function ArticlePage() {
             富山・氷見温泉郷ひとり旅＆富山湾立山絶景おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「富山・氷見温泉郷ひとり旅・富山湾越しの立山連峰おこもり」海越しの立山連峰・氷見寒ブリ＆白えび・自家源泉かけ流し！能越道直通の海の秘境厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               能登半島の付け根に位置し、富山湾に面した氷見温泉郷。約1500年前の化石塩水が湧き出すナトリウム・塩化物泉は「熱の湯」と呼ばれ、湯上がり後もポカポカが持続します。冬の寒ブリをはじめ、白えび、ホタルイカ、氷見牛など、富山屈指の美食と潮騒の露天風呂が一人旅の心と体を根本から満たします。
             </p>
             <p>
-              アットホームな魚屋直営ならではの絶品海鮮民宿から、海と立山連峰を見渡す展望露天風呂を備えた名門旅館まで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              アットホームな魚屋直営ならではの絶品海鮮民宿から、海と立山連峰を見渡す展望露天風呂を備えた名門旅館まで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -423,11 +423,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">富山・氷見温泉郷ひとり旅・富山湾越しの立山連峰おこもり：海越しの立山連峰・氷見寒ブリ＆白えび・自家源泉かけ流し！能越道直通の海の秘境厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「富山・氷見温泉郷ひとり旅・富山湾越しの立山連峰おこもり：海越しの立山連峰・氷見寒ブリ＆白えび・自家源泉かけ流し！能越道直通の海の秘境厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「富山・氷見温泉郷ひとり旅・富山湾越しの立山連峰おこもり：海越しの立山連峰・氷見寒ブリ＆白えび・自家源泉かけ流し！能越道直通の海の秘境厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -491,7 +491,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/108622/108622_kya.jpg" alt="氷見温泉郷　民宿すがた 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>海鮮料理はキトキト！思う存分、美味や珍味を味わった後は、ゆっくりと湯につかって疲れを癒して頂けます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 富山県氷見市阿尾653 ／ 最寄り駅：氷見 ／ 交通案内：氷見駅よりお車で５分</p>
+                  <p><strong>【所在地・アクセス】</strong>富山県氷見市阿尾653 ／ 最寄り駅：氷見 ／ 交通案内：氷見駅よりお車で５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>２０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.6 ／ 立地 ★4.63 ／ 部屋 ★4.53 ／ 設備 ★4.31 ／ 風呂 ★4.33 ／ 食事 ★4.81</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -513,7 +513,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/20589/20589_hon.jpg" alt="氷見温泉郷　くつろぎの宿　うみあかり 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>朝夕に輝く富山湾の海や雄大な立山連峰の自然の景色の中で氷見の海の幸・山の幸を堪能。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 富山県氷見市宇波10-1 ／ 最寄り駅：氷見 ／ 交通案内：ＪＲ氷見駅よりお車で約１５分／灘浦ＩＣより約3分／小杉ＩＣより約５０分</p>
+                  <p><strong>【所在地・アクセス】</strong>富山県氷見市宇波10-1 ／ 最寄り駅：氷見 ／ 交通案内：ＪＲ氷見駅よりお車で約１５分／灘浦ＩＣより約3分／小杉ＩＣより約５０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.34 ／ 立地 ★4.47 ／ 部屋 ★4.37 ／ 設備 ★4.16 ／ 風呂 ★4.38 ／ 食事 ★4.54</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -535,7 +535,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/29954/29954_rei.jpg" alt="氷見温泉郷　魚巡りの宿　永芳閣（ＢＢＨホテルグループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>北陸の富山を代表する、お魚処氷見の旅館。評判の魚料理と絶景の露天。海一望の客室。貸切風呂無料プランも</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 富山県氷見市阿尾3257 ／ 最寄り駅：氷見 ／ 交通案内：【ＪＲ】氷見線　氷見駅から車で１０分（無料送迎あり）/【車】北陸（東海北陸）自動車道⇒能越自動車道　氷見北ＩＣより５分</p>
+                  <p><strong>【所在地・アクセス】</strong>富山県氷見市阿尾3257 ／ 最寄り駅：氷見 ／ 交通案内：【ＪＲ】氷見線　氷見駅から車で１０分（無料送迎あり）/【車】北陸（東海北陸）自動車道⇒能越自動車道　氷見北ＩＣより５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料　屋内60台　お車、バイクのお客様は旅館の正面までお越し下さい。係がご案内いたします。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

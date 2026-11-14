@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">静岡・伊豆伊東＆城ヶ崎海岸：門脇つり橋・大室山リフト＆東海館・地魚海鮮宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「静岡・伊豆伊東＆城ヶ崎海岸：門脇つり橋・大室山リフト＆東海館・地魚海鮮宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「静岡・伊豆伊東＆城ヶ崎海岸：門脇つり橋・大室山リフト＆東海館・地魚海鮮宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/14377/14377_w.jpg" alt="伊東温泉　ホテル　ラヴィエ川良 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>湯舟から溢れる天然100％の温泉と、海の幸が網焼きできる60種類のバイキングを堪能！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県伊東市竹の内1-1-3 ／ 最寄り駅：伊東 ／ 交通案内：JR伊東線「伊東駅」下車 徒歩７分／車で東名高速沼津ICから1時間20分・厚木ICから1時間40分／送迎バスあり</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県伊東市竹の内1-1-3 ／ 最寄り駅：伊東 ／ 交通案内：JR伊東線「伊東駅」下車 徒歩７分／車で東名高速沼津ICから1時間20分・厚木ICから1時間40分／送迎バスあり</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -344,8 +344,8 @@ export default function MicroTouristHubPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/195256/195256.jpg" alt="城ケ崎海岸と伊豆高原の間　Ｎｅｗ　Ｖｉｌｌａ　Ｎａｔｕｒａｌ　Ｑ．　＾ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「静岡・伊豆伊東＆城ヶ崎海岸（門脇つり橋・大室山リフト＆東海館・地魚海鮮宿 厳選ガイド）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県伊東市八幡野1083-72 　New Villa Natural Q. ／ 最寄り駅：伊豆高原 ／ 交通案内：伊豆高原駅より徒歩で3分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>城ケ崎海岸と伊豆高原の間 Ｎｅｗ Ｖｉｌｌａ Ｎａｔｕｒａｌ Ｑ． ＾（静岡県伊東市八幡野1083-72 New Villa Natural Q.）は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県伊東市八幡野1083-72 　New Villa Natural Q. ／ 最寄り駅：伊豆高原 ／ 交通案内：伊豆高原駅より徒歩で3分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>なし</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/194361/194361.jpg" alt="貸別荘　大室山の角　＾ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「貸別荘　大室山の角」露天風呂リゾート静岡県・伊東市のおすすめ民泊・貸別荘・コテージ</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県伊東市池632-50　Ｏｍｕｒｏｙａｍａ　ｎｏ　Ｋａｄｏ ／ 最寄り駅：城ヶ崎海岸 ／ 交通案内：城ヶ崎海岸駅から車で約９分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県伊東市池632-50　Ｏｍｕｒｏｙａｍａ　ｎｏ　Ｋａｄｏ ／ 最寄り駅：城ヶ崎海岸 ／ 交通案内：城ヶ崎海岸駅から車で約９分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/172820/172820.jpg" alt="ｔｈｅ　ｓａｌｏｎ　伊豆高原　Ｈｏｔｅｌｓ　＆　Ｒｅｓｏｒｔ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【全10室温泉付きの隠れ家ホテル】伊豆高原の別荘地に佇む地元の食材にこだわった絶品イタリアンが大人気</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県伊東市八幡野1253-25 ／ 最寄り駅：伊豆高原 ／ 交通案内：伊豆高原駅よりタクシーで8分前後（お車でのアクセスは公式ホームぺージBLOGをご確認ください。）</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県伊東市八幡野1253-25 ／ 最寄り駅：伊豆高原 ／ 交通案内：伊豆高原駅よりタクシーで8分前後（お車でのアクセスは公式ホームぺージBLOGをご確認ください。）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>10台（無料）駐車場はホテルの正面にございますので、空いているスペースにお停めください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/184583/184583.jpg" alt="Ｒｅｓｏｒｔ　ｓｔａｙ　Ｂｏｗｅｎ～伊豆高原～ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【NEW OPEN】眺望最高★大室山すぐ近く★広いお庭で溶岩石BBQ★ラグジュアリーな貸切一軒家</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県伊東市池635-107 ／ 最寄り駅：伊豆高原 ／ 交通案内：伊豆高原駅から車で約７分／無料駐車場３台分（マイクロバスも駐車可）</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県伊東市池635-107 ／ 最寄り駅：伊豆高原 ／ 交通案内：伊豆高原駅から車で約７分／無料駐車場３台分（マイクロバスも駐車可）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場３台／予約不要／マイクロバス駐車可</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7473/7473_ky.jpg" alt="伊東温泉　陽気館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>明治43年創業、朝夕お部屋食の老舗宿。２つの自家源泉かけ流し・登山電車で向かう絶景露天が人気です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県伊東市末広町2-24 ／ 最寄り駅：伊東 ／ 交通案内：＜電車＞JR「伊東駅」より徒歩12分／＜お車＞東名厚木IC→小田原厚木道路経由→国道135号線、約90分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県伊東市末広町2-24 ／ 最寄り駅：伊東 ／ 交通案内：＜電車＞JR「伊東駅」より徒歩12分／＜お車＞東名厚木IC→小田原厚木道路経由→国道135号線、約90分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料　※カーナビは名称・電話ではなく住所（静岡県伊東市末広町1－21）で検索して下さい</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

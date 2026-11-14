@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/sulfur-springs-milky-white-onsen-town-stay/"
   };
 
@@ -186,6 +186,12 @@ export default function Page() {
           </p>
         </div>
 
+        <div className="pt-2">
+          <ShareButtons
+            title="立ち上る湯けむりと濃密な硫黄の香り！乳白色のにごり湯と風情ある温泉街めぐりの宿"
+            url="https://croud-travel.pages.dev/sulfur-springs-milky-white-onsen-town-stay/"
+          />
+        </div>
         {/* クーポン特大バナー */}
         <SpecialCouponBanner />
 
@@ -303,11 +309,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">立ち上る湯けむりと濃密な硫黄の香り！乳白色のにごり湯と風情ある温泉街めぐりの宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「立ち上る湯けむりと濃密な硫黄の香り！乳白色のにごり湯と風情ある温泉街めぐりの宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「立ち上る湯けむりと濃密な硫黄の香り！乳白色のにごり湯と風情ある温泉街めぐりの宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -371,7 +377,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/106120/106120_spa.jpg" alt="秘湯にごり湯の宿　渓雲閣 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>硫黄の香り漂う秘湯にごり湯！展望風呂や無料の貸切露天風呂からの四季絶景！食事お部屋出し料理も絶品！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県那須塩原市湯本塩原37 ／ 最寄り駅：那須塩原 ／ 交通案内：ＪＲ　那須塩原駅より路線バスにて69分「塩原温泉バスターミナル」下車後定時送迎有（要予約）</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県那須塩原市湯本塩原37 ／ 最寄り駅：那須塩原 ／ 交通案内：ＪＲ　那須塩原駅より路線バスにて69分「塩原温泉バスターミナル」下車後定時送迎有（要予約）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.46 ／ 立地 ★4.23 ／ 部屋 ★4.15 ／ 設備 ★4.1 ／ 風呂 ★4.59 ／ 食事 ★4.58</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -393,7 +399,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5650/5650_bath.jpg" alt="塩原温泉　やまの宿　下藤屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>平成温泉旅館番付にも掲載された栃木県を代表する　にごり湯の温泉です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県那須塩原市湯本塩原11 ／ 最寄り駅：那須塩原 ／ 交通案内：東北自動車道　西那須野塩原I.Cより35分。東北新幹線那須塩原より路線バス55分終点下車。送迎車有り、要予約。</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県那須塩原市湯本塩原11 ／ 最寄り駅：那須塩原 ／ 交通案内：東北自動車道　西那須野塩原I.Cより35分。東北新幹線那須塩原より路線バス55分終点下車。送迎車有り、要予約。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　25台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.62 ／ 立地 ★4.13 ／ 部屋 ★4.43 ／ 設備 ★4.34 ／ 風呂 ★4.65 ／ 食事 ★4.7</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -415,7 +421,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/32030/32030_kan.jpg" alt="塩原温泉　奥塩原高原ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>にごり湯(硫黄泉）掛流しの温泉が自慢です。　柔らかな木漏れ日と爽やかな風が渡る高原の温泉ホテル</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県那須塩原市湯本塩原113-4 ／ 最寄り駅：那須塩原 ／ 交通案内：JR東北新幹線　那須塩原駅　東北自動車道　西那須野塩原I.C　R400　日塩もみじライン経由</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県那須塩原市湯本塩原113-4 ／ 最寄り駅：那須塩原 ／ 交通案内：JR東北新幹線　那須塩原駅　東北自動車道　西那須野塩原I.C　R400　日塩もみじライン経由</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　３０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.46 ／ 立地 ★4.38 ／ 部屋 ★4.29 ／ 設備 ★4.21 ／ 風呂 ★4.63 ／ 食事 ★4.53</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

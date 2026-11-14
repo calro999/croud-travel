@@ -356,28 +356,6 @@ export default function ArticlePage() {
         </section>
 
         {/* よくある質問 FAQ */}
-        <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-6">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-stone-900 border-b border-stone-200 pb-3">よくある質問（FAQ）</h2>
-          <div className="space-y-4">
-            
-            <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
-                <span>チェックインが深夜（24時以降）になっても大丈夫ですか？</span></h3>
-              <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
-                はい、ご紹介した3ホテルはすべて24時間フロントが常駐しており、事前連絡を入れておけば深夜の到着でもスムーズにチェックイン可能です。
-              </p>
-            </div>
-            
-            <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
-                <span>部屋でテレワークやPC作業は快適に行えますか？</span></h3>
-              <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
-                全館高速Wi-Fiを完備しており、デスクや座り心地の良いチェアが設置されているため、長時間のオンラインミーティングや資料作成も快適に行えます。
-              </p>
-            </div>
-            
-          </div>
-        </section>
 
         {/* 関連リンク・ナビゲーション */}
         <div className="text-center pt-8 border-t border-stone-200">

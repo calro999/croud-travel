@@ -236,7 +236,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -649,10 +649,10 @@ export default function FeatureDetailPage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/yamagata/"
+                href="/prefectures/hyogo/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                山形県の宿・温泉
+                兵庫県の宿・温泉
               </Link>
               <Link
                 href="/prefectures/hokkaido/"
@@ -681,11 +681,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：天空の絶景ととのい体験！断崖絶壁パノラマサウナ＆インフィニティ水風呂の宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：天空の絶景ととのい体験！断崖絶壁パノラマサウナ＆インフィニティ水風呂の宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：天空の絶景ととのい体験！断崖絶壁パノラマサウナ＆インフィニティ水風呂の宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -705,7 +705,7 @@ export default function FeatureDetailPage() {
               <tbody className="divide-y divide-stone-200">
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 赤穂温泉　絶景露天風呂の宿　銀波荘</td>
-                <td className="p-3 text-stone-600">北海道</td>
+                <td className="p-3 text-stone-600">兵庫県赤穂市御崎2-8</td>
                 <td className="p-3 text-stone-600">JR山陽本線・播州赤穂駅より路線バス約20分「御崎バス停」より徒歩1分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.45（1381件）</td>
@@ -714,7 +714,7 @@ export default function FeatureDetailPage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 海絶景とギネス認定の宿　全室露天風呂付離れ　ＸＹＺスペチアーレ</td>
-                <td className="p-3 text-stone-600">北海道</td>
+                <td className="p-3 text-stone-600">和歌山県西牟婁郡白浜町椿1063-21</td>
                 <td className="p-3 text-stone-600">【お車の場合】：道の駅椿はなの湯から約２分【空港、電車等でお越しの場合</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.77（61件）</td>
@@ -723,7 +723,7 @@ export default function FeatureDetailPage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 三河湾を一望■天下の絶景　西浦温泉　ホテル東海園</td>
-                <td className="p-3 text-stone-600">北海道</td>
+                <td className="p-3 text-stone-600">愛知県蒲郡市西浦町大山17-1</td>
                 <td className="p-3 text-stone-600">名鉄西浦駅より無料送迎バスで１０分（14：20～16：20）／音羽蒲郡</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★3.66（828件）</td>
@@ -766,8 +766,8 @@ export default function FeatureDetailPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/19403/19403.jpg" alt="赤穂温泉　絶景露天風呂の宿　銀波荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「天空の絶景ととのい体験（断崖絶壁パノラマサウナ＆インフィニティ水風呂の宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：JR山陽本線・播州赤穂駅より路線バス約20分「御崎バス停」より徒歩1分・無料送迎あり／山陽自動車道・赤穂ＩＣより約10分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>旅の目的に合わせて選ぶ「天空の絶景ととのい体験（断崖絶壁パノラマサウナ＆インフィニティ水風呂の宿5選）」各宿の強みと基本情報は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：JR山陽本線・播州赤穂駅より路線バス約20分「御崎バス停」より徒歩1分・無料送迎あり／山陽自動車道・赤穂ＩＣより約10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -788,8 +788,8 @@ export default function FeatureDetailPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/182811/182811.jpg" alt="海絶景とギネス認定の宿　全室露天風呂付離れ　ＸＹＺスペチアーレ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「天空の絶景ととのい体験（断崖絶壁パノラマサウナ＆インフィニティ水風呂の宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：【お車の場合】：道の駅椿はなの湯から約２分【空港、電車等でお越しの場合】：無料の送迎サービスをご利用いただけます</p>
+                  <p><strong>【宿の特徴・魅力】</strong>海絶景とギネス認定の宿 全室露天風呂付離れ ＸＹＺスペチアーレ（和歌山県西牟婁郡白浜町椿1063-21）は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：【お車の場合】：道の駅椿はなの湯から約２分【空港、電車等でお越しの場合】：無料の送迎サービスをご利用いただけます</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -810,8 +810,8 @@ export default function FeatureDetailPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31209/31209.jpg" alt="三河湾を一望■天下の絶景　西浦温泉　ホテル東海園 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「天空の絶景ととのい体験（断崖絶壁パノラマサウナ＆インフィニティ水風呂の宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：名鉄西浦駅より無料送迎バスで１０分（14：20～16：20）／音羽蒲郡ICより車で３０分／ラグーナまで車で３０分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>三河湾を一望■天下の絶景 西浦温泉 ホテル東海園（愛知県蒲郡市西浦町大山17-1）は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：名鉄西浦駅より無料送迎バスで１０分（14：20～16：20）／音羽蒲郡ICより車で３０分／ラグーナまで車で３０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -833,7 +833,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/13515/13515_room1.jpg" alt="湖上に浮かぶ絶景の宿　はわい温泉　千年亭 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2023＆2024年【客室露天風呂付】【サウナ付】新客室OPEN！東郷湖の絶景と、鳥取の美食を楽しむ</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鳥取県東伯郡湯梨浜町はわい温泉4-62 ／ 最寄り駅：倉吉 ／ 交通案内：中国自動車道『院庄IC』より179号線70km／JR山陰本線『倉吉駅』より無料送迎あり。タクシー10分『はわい温泉』</p>
+                  <p><strong>【所在地・アクセス】</strong>鳥取県東伯郡湯梨浜町はわい温泉4-62 ／ 最寄り駅：倉吉 ／ 交通案内：中国自動車道『院庄IC』より179号線70km／JR山陰本線『倉吉駅』より無料送迎あり。タクシー10分『はわい温泉』</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場(60台)</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.41 ／ 立地 ★4.52 ／ 部屋 ★4.41 ／ 設備 ★4.24 ／ 風呂 ★4.48 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -855,7 +855,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5261/5261_kw.jpg" alt="絶景温泉と魚介満腹の宿　稲取東海ホテル湯苑 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>伊豆七島を一望する波打際のホテル。新鮮な魚介を使った海鮮料理を満喫頂けます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県賀茂郡東伊豆町稲取1599-1 ／ 最寄り駅：伊豆稲取 ／ 交通案内：伊豆急線伊豆稲取駅下車。徒歩約１５分。無料送迎バスあり　※要事前予約（13：30～18：00）　明朝は定期便あります。</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県賀茂郡東伊豆町稲取1599-1 ／ 最寄り駅：伊豆稲取 ／ 交通案内：伊豆急線伊豆稲取駅下車。徒歩約１５分。無料送迎バスあり　※要事前予約（13：30～18：00）　明朝は定期便あります。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

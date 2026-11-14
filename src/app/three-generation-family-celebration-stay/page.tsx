@@ -228,11 +228,11 @@ export default function TargetAudienceHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">三世代旅行＆還暦・長寿祝い温泉宿：バリアフリー・個室宴会＆二間続き客室 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「三世代旅行＆還暦・長寿祝い温泉宿：バリアフリー・個室宴会＆二間続き客室 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「三世代旅行＆還暦・長寿祝い温泉宿：バリアフリー・個室宴会＆二間続き客室 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -288,7 +288,7 @@ export default function TargetAudienceHubPage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 赤穂温泉　絶景露天風呂の宿　銀波荘</td>
-                <td className="p-3 text-stone-600">山梨県</td>
+                <td className="p-3 text-stone-600">兵庫県 赤穂市御崎2-8</td>
                 <td className="p-3 text-stone-600">JR山陽本線・播州赤穂駅より路線バス約20分「御崎バス停」より徒歩1分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.45（1381件）</td>
@@ -297,7 +297,7 @@ export default function TargetAudienceHubPage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 湯田川温泉　つかさや旅館</td>
-                <td className="p-3 text-stone-600">山梨県</td>
+                <td className="p-3 text-stone-600">山形県鶴岡市湯田川乙52</td>
                 <td className="p-3 text-stone-600">ＪＲ　鶴岡駅よりタクシーにて２０分／バスにて３０分　庄内空港より車30</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.83（104件）</td>
@@ -323,7 +323,7 @@ export default function TargetAudienceHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/196489/196489.jpg" alt="信玄の湯　湯村温泉　旅館明治　太宰治ゆかりの宿 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2025年8月1日新規オープン！信玄の湯とこだわりの朝ごはんで心ほぐれるひと時を。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県甲府市湯村3-10-14 ／ 最寄り駅：主要駅 ／ 交通案内：甲府駅よりお車で約10分、中央自動車双葉ＩＣより約10分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県甲府市湯村3-10-14 ／ 交通案内：甲府駅よりお車で約10分、中央自動車双葉ＩＣより約10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>15台　無料　★要予約※駐車場所についてはご到着先着順です。近くの空地スペースになる場合がございます</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function TargetAudienceHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/80886/80886_dai.jpg" alt="嬉野温泉　割烹旅館　鯉登苑（りとうえん） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【総合★4.5】趣異なる全10室の料理旅館。日本三大美肌の湯嬉野温泉と絶品料理で心を満たす滞在を</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 佐賀県嬉野市嬉野町岩屋川内甲437 ／ 最寄り駅：主要駅 ／ 交通案内：嬉野ICより車で約５分、嬉野温泉駅から約１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>佐賀県嬉野市嬉野町岩屋川内甲437 ／ 交通案内：嬉野ICより車で約５分、嬉野温泉駅から約１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　25台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.46 ／ 立地 ★4.15 ／ 部屋 ★4.45 ／ 設備 ★4.33 ／ 風呂 ★4.51 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function TargetAudienceHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/17741/17741_rote.jpg" alt="伊香保温泉　森秋旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★名湯「黄金の湯」源泉掛け流しが自慢の宿♪ ★観光名所「石段街」まで徒歩３分♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県渋川市伊香保町伊香保60 ／ 最寄り駅：渋川 ／ 交通案内：ＪＲ渋川駅下車バスで25分！新宿から高速バスで2時間半！伊香保の名物石段街から徒歩３分と好立地♪散策に抜群の好立地</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県渋川市伊香保町伊香保60 ／ 最寄り駅：渋川 ／ 交通案内：ＪＲ渋川駅下車バスで25分！新宿から高速バスで2時間半！伊香保の名物石段街から徒歩３分と好立地♪散策に抜群の好立地</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有（無料）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function TargetAudienceHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/147688/147688_kan1.jpg" alt="赤穂温泉　料理旅館　呑海楼 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>美しい瀬戸内海を望む全室オーシャンビュー赤穂温泉の宿。趣向を凝らした料理と絶景露天風呂を是非。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県赤穂市御崎131 ／ 最寄り駅：播州赤穂 ／ 交通案内：ＪＲ　播州赤穂駅よりお車にて約１０分（無料送迎バス有り）。</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県赤穂市御崎131 ／ 最寄り駅：播州赤穂 ／ 交通案内：ＪＲ　播州赤穂駅よりお車にて約１０分（無料送迎バス有り）。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２５台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.55 ／ 立地 ★4.63 ／ 部屋 ★4.49 ／ 設備 ★4.28 ／ 風呂 ★4.45 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -410,8 +410,8 @@ export default function TargetAudienceHubPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/19403/19403.jpg" alt="赤穂温泉　絶景露天風呂の宿　銀波荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「三世代旅行＆還暦・長寿祝い温泉宿（バリアフリー・個室宴会＆二間続き客室 厳選ガイド）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：JR山陽本線・播州赤穂駅より路線バス約20分「御崎バス停」より徒歩1分・無料送迎あり／山陽自動車道・赤穂ＩＣより約10分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>ＴＶや雑誌でも多数掲載！海と温泉が一体になって全身を包みこむ体験を堪能できる絶景露天風呂が自慢の宿。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：JR山陽本線・播州赤穂駅より路線バス約20分「御崎バス停」より徒歩1分・無料送迎あり／山陽自動車道・赤穂ＩＣより約10分</p>
                   <p>【三世代旅行＆還暦・長寿祝い温泉宿：バリアフリー・個室】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -432,12 +432,12 @@ export default function TargetAudienceHubPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/79497/79497.jpg" alt="湯田川温泉　つかさや旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「三世代旅行＆還暦・長寿祝い温泉宿（バリアフリー・個室宴会＆二間続き客室 厳選ガイド）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ　鶴岡駅よりタクシーにて２０分／バスにて３０分　庄内空港より車30分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>1日5組限定。個室でゆったり食事。源泉かけ流しの湯と野菜や魚介類の味を生かした料理に日本酒。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：ＪＲ　鶴岡駅よりタクシーにて２０分／バスにて３０分　庄内空港より車30分</p>
                   <p>【三世代旅行＆還暦・長寿祝い温泉宿：バリアフリー・個室】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「絶景のロケーションとおもてなしに心から癒やされました。」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「湯田川温泉 つかさや旅館での快適な滞在とアクセス面の良さに満足したという評価が寄せられています。」
                   </blockquote>
                 </div>
               </div>

@@ -236,7 +236,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -681,11 +681,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：糖度際立つ春メロン！肥後グリーン会席＆阿蘇カルデラ大パノラマ温泉宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：糖度際立つ春メロン！肥後グリーン会席＆阿蘇カルデラ大パノラマ温泉宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：糖度際立つ春メロン！肥後グリーン会席＆阿蘇カルデラ大パノラマ温泉宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -767,7 +767,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/38542/38542_kya.jpg" alt="阿蘇内牧温泉　御料理旅館　親和苑 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>料理長が贈る美味しい芸術！【源泉掛け流し】露天風呂（男女別）／貸切家族風呂／離れ露天風呂付客室あり</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 熊本県阿蘇市内牧1354 ／ 最寄り駅：阿蘇 ／ 交通案内：肥後豊肥線　阿蘇駅より車で１５分程／肥後豊肥線　内牧駅より車で１５分程</p>
+                  <p><strong>【所在地・アクセス】</strong>熊本県阿蘇市内牧1354 ／ 最寄り駅：阿蘇 ／ 交通案内：肥後豊肥線　阿蘇駅より車で１５分程／肥後豊肥線　内牧駅より車で１５分程</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.68 ／ 立地 ★4.44 ／ 部屋 ★4.61 ／ 設備 ★4.46 ／ 風呂 ★4.18 ／ 食事 ★4.78</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -789,7 +789,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/52882/52882_on.jpg" alt="阿蘇　梅園　ＳＰＡ　ＲＥＳＯＲＴ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>阿蘇観光に最適な立地と、珍しい「緑白色」の源泉をもつ1万坪の敷地をほこるホテル</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 熊本県阿蘇郡南阿蘇村下野147-10 ／ 最寄り駅：赤水 ／ 交通案内：熊本インターより車で約45分・阿蘇くまもと空港より車で約45分　※ＪＲ赤水駅よりタクシーで約３分。</p>
+                  <p><strong>【所在地・アクセス】</strong>熊本県阿蘇郡南阿蘇村下野147-10 ／ 最寄り駅：赤水 ／ 交通案内：熊本インターより車で約45分・阿蘇くまもと空港より車で約45分　※ＪＲ赤水駅よりタクシーで約３分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -811,7 +811,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31796/31796_r1.jpg" alt="黒川温泉　湯峡の響き　優彩 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>竹林、渓流、檜の香りに抱かれながら広い浴槽でゆっくりと癒しの時間を。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 熊本県阿蘇郡南小国町満願寺北黒川6554-1 ／ 最寄り駅：阿蘇 ／ 交通案内：ＪＲ豊肥線　阿蘇駅より別府行バスで約５０分　黒川温泉下車徒歩１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>熊本県阿蘇郡南小国町満願寺北黒川6554-1 ／ 最寄り駅：阿蘇 ／ 交通案内：ＪＲ豊肥線　阿蘇駅より別府行バスで約５０分　黒川温泉下車徒歩１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　５０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -833,7 +833,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/202120/202120.jpg" alt="阿蘇リトリートＨＯＮＯ　ｂｙ温故知新 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【開業】人間本来の感覚を取り戻す、原始の記憶を辿る滞在</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 熊本県阿蘇郡南阿蘇村河陰5298-1 ／ 最寄り駅：熊本空港 ／ 交通案内：熊本空港からお車で約30分、南阿蘇鉄道/長陽駅よりお車で約9分</p>
+                  <p><strong>【所在地・アクセス】</strong>熊本県阿蘇郡南阿蘇村河陰5298-1 ／ 最寄り駅：熊本空港 ／ 交通案内：熊本空港からお車で約30分、南阿蘇鉄道/長陽駅よりお車で約9分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>あり 14台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -855,7 +855,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/68266/68266_ro.jpg" alt="ＣＡＮＤＥＯ　ＨＯＴＥＬＳ（カンデオホテルズ）大津熊本空港 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>最上階にある展望露天風呂、シモンズベッド完備、体にやさしい和朝食でワンランク上のホテルステイを。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 熊本県菊池郡大津町室736-1 ／ 最寄り駅：肥後大津 ／ 交通案内：ＪＲ豊肥本線　肥後大津駅から徒歩１５分／阿蘇くまもと空港から車で１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>熊本県菊池郡大津町室736-1 ／ 最寄り駅：肥後大津 ／ 交通案内：ＪＲ豊肥本線　肥後大津駅から徒歩１５分／阿蘇くまもと空港から車で１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　大型車有料　事前予約制 　※満車の場合は臨時駐車場（徒歩1分）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

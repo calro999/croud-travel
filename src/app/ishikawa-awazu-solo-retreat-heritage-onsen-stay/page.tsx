@@ -77,7 +77,7 @@ export default function ArticlePage() {
             石川・粟津温泉ひとり旅＆加賀最古名湯おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「加賀温泉郷・粟津温泉ひとり旅・開湯1300年最古の湯おこもり」自家掘り純度100%源泉・加賀会席＆のどぐろ・那谷寺の美林！北陸名湯厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               小松空港や北陸新幹線・小松駅および加賀温泉駅からアクセスできる粟津温泉。加賀温泉郷の中で最も古い1300年の歴史を持ち、無色透明でほのかな塩気と芒硝を含む純度100%の硫酸塩泉が自慢です。美肌効果が高く、古くから湯治場として多くの人々を癒やしてきました。ミシュラン・グリーンガイド掲載の国指定名勝「那谷寺」への参拝拠点としても最適です。
             </p>
             <p>
-              加賀会席と贅沢な露天風呂空間を誇る名門宿から、悠久の歴史を刻む老舗旅館まで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              加賀会席と贅沢な露天風呂空間を誇る名門宿から、悠久の歴史を刻む老舗旅館まで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -420,11 +420,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">加賀温泉郷・粟津温泉ひとり旅・開湯1300年最古の湯おこもり：自家掘り純度100%源泉・加賀会席＆のどぐろ・那谷寺の美林！北陸名湯厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「加賀温泉郷・粟津温泉ひとり旅・開湯1300年最古の湯おこもり：自家掘り純度100%源泉・加賀会席＆のどぐろ・那谷寺の美林！北陸名湯厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「加賀温泉郷・粟津温泉ひとり旅・開湯1300年最古の湯おこもり：自家掘り純度100%源泉・加賀会席＆のどぐろ・那谷寺の美林！北陸名湯厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -506,7 +506,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/14380/14380_ky.jpg" alt="粟津温泉　旅亭懐石　のとや 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>伝統と現代の融合、700年こんこんと湧き続ける純生の湯の老舗宿！活蟹プラン販売中！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県小松市粟津温泉　ワ85 ／ 最寄り駅：加賀温泉 ／ 交通案内：北陸道加賀ＩＣより２５分　加賀温泉駅・粟津駅・小松空港までの送迎もお問い合わせください</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県小松市粟津温泉　ワ85 ／ 最寄り駅：加賀温泉 ／ 交通案内：北陸道加賀ＩＣより２５分　加賀温泉駅・粟津駅・小松空港までの送迎もお問い合わせください</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料　（直接玄関前までお越しください・駐車場へご移動させていただきます）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -528,7 +528,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/28073/28073_heya1.jpg" alt="粟津温泉　法師 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>養老二年開湯！伝承一千三百年の歴史ある日本の宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県小松市粟津温泉ワ46 ／ 最寄り駅：加賀温泉 ／ 交通案内：加賀温泉駅・粟津駅無料送迎有（要事前予約）／北陸自動車道 加賀ＩＣより２０分</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県小松市粟津温泉ワ46 ／ 最寄り駅：加賀温泉 ／ 交通案内：加賀温泉駅・粟津駅無料送迎有（要事前予約）／北陸自動車道 加賀ＩＣより２０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　60台　無料　※3箇所有り</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.14 ／ 立地 ★4.12 ／ 部屋 ★4.01 ／ 設備 ★3.93 ／ 風呂 ★4.21</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -550,7 +550,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1350/1350_ks.jpg" alt="ホテル小田島 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【ＷＩＦＩ接続無料】盛岡の中心ビジネス街に位置し、繁華街までも徒歩2分</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岩手県盛岡市中央通1-12-24 ／ 最寄り駅：盛岡 ／ 交通案内：盛岡駅から車で5分徒歩17分。県庁、市役所まで徒歩5分　☆1階のファミマが目印です♪☆彡</p>
+                  <p><strong>【所在地・アクセス】</strong>岩手県盛岡市中央通1-12-24 ／ 最寄り駅：盛岡 ／ 交通案内：盛岡駅から車で5分徒歩17分。県庁、市役所まで徒歩5分　☆1階のファミマが目印です♪☆彡</p>
                   <p><strong>【駐車場・マイカー利用】</strong>先着順40台迄　1泊880円（税込）14時〜翌11時  満車の際は契約駐車場へご案内</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.16 ／ 立地 ★4.06 ／ 部屋 ★4.07 ／ 設備 ★4.03 ／ 風呂 ★4.02 ／ 食事 ★4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -572,7 +572,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1702/1702_y.jpg" alt="八幡平マウンテンホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>大自然のなかでアクティブな休日を！スキー場直結でお子様連れでも快適♪夏期はトレッキングが人気</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岩手県八幡平市松尾寄木第1地割509-1 ／ 最寄り駅：盛岡 ／ 交通案内：東北自動車道 松尾ICより15分。盛岡駅より岩手県北バスで約80分。</p>
+                  <p><strong>【所在地・アクセス】</strong>岩手県八幡平市松尾寄木第1地割509-1 ／ 最寄り駅：盛岡 ／ 交通案内：東北自動車道 松尾ICより15分。盛岡駅より岩手県北バスで約80分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　200台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -594,7 +594,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1710/1710_sgl.jpg" alt="ＪＲ東日本ホテルメッツ北上 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR北上駅西口徒歩1分！！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岩手県北上市大通1-1-34 ／ 最寄り駅：北上 ／ 交通案内：ＪＲ東北本線・新幹線　北上駅西口から徒歩１分  国道４号線より車で３分</p>
+                  <p><strong>【所在地・アクセス】</strong>岩手県北上市大通1-1-34 ／ 最寄り駅：北上 ／ 交通案内：ＪＲ東北本線・新幹線　北上駅西口から徒歩１分  国道４号線より車で３分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>【 駐車料金：1泊800円 】敷地内17台。満車の場合は提携駐車場をご案内します。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.17 ／ 立地 ★4.23 ／ 部屋 ★4.15 ／ 設備 ★4.1 ／ 風呂 ★4.06</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

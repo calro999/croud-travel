@@ -376,11 +376,11 @@ export default function AutumnBudgetHotelsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">金沢駅前：兼六園秋の雪吊り＆のどぐろ・金沢おでん！2,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「金沢駅前：兼六園秋の雪吊り＆のどぐろ・金沢おでん！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「金沢駅前：兼六園秋の雪吊り＆のどぐろ・金沢おでん！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -462,7 +462,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/171908/171908.jpg" alt="ＡＲＩＧＡＴＯ　ＳＴＡＹ金沢駅前（旧　ホテルトレンド金沢駅前） 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR金沢駅から徒歩約3分！金沢城や兼六園など金沢の名所にアクセス抜群！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県金沢市広岡1-3-36 ／ 最寄り駅：金沢 ／ 交通案内：金沢駅西口より徒歩約3分</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県金沢市広岡1-3-36 ／ 最寄り駅：金沢 ／ 交通案内：金沢駅西口より徒歩約3分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場はありません。 近隣コインパーキング「金沢駅西口時計駐車場」 ※提携駐車場ではございません。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -484,7 +484,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/180588/180588.jpg" alt="天然温泉　鼓門の湯　スーパーホテルＰｒｅｍｉｅｒ金沢駅東口 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>金沢駅東口より徒歩７分！主要駅からのアクセスが良くビジネスや観光に便利♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県金沢市本町2-5-15 ／ 最寄り駅：金沢 ／ 交通案内：金沢駅東口より徒歩7分。金沢東ICより約15分。</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県金沢市本町2-5-15 ／ 最寄り駅：金沢 ／ 交通案内：金沢駅東口より徒歩7分。金沢東ICより約15分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル専用駐車場、駐輪場はございません。近隣駐車場のご案内となります</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -506,7 +506,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/153512/153512_kan1.jpg" alt="金沢駅前ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>金沢駅鼓門（東口）から徒歩約3分。ひがし茶屋街、金沢城、兼六園、近江町市場まで周遊バス1本。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県金沢市此花町2-24 ／ 最寄り駅：金沢 ／ 交通案内：金沢駅鼓門より徒歩約3分</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県金沢市此花町2-24 ／ 最寄り駅：金沢 ／ 交通案内：金沢駅鼓門より徒歩約3分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>1泊:1,000円頂いております。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -528,7 +528,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/54537/54537_ky.jpg" alt="ホテルルートイン金沢駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ＷＯＷＯＷ全室で無料視聴可■VODルームシアター(一般映画のみ)無料視聴可（コンフォート特典）</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県金沢市昭和町22-5 ／ 最寄り駅：金沢 ／ 交通案内：ＪＲ北陸本線・新幹線　金沢駅より徒歩５分／北陸自動車道　金沢西ＩＣより５．５ｋｍ</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県金沢市昭和町22-5 ／ 最寄り駅：金沢 ／ 交通案内：ＪＲ北陸本線・新幹線　金沢駅より徒歩５分／北陸自動車道　金沢西ＩＣより５．５ｋｍ</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１６６台　１，０００円（税込み／泊）　先着順・高さ制限２．１M迄</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -550,7 +550,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/183231/183231.jpg" alt="チサンバジェット金沢駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR金沢駅徒歩5分の好立地！いつでも清潔、空間はシンプルに。そして何よりも、カジュアルなプライスで。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県金沢市堀川新町8-16 ／ 最寄り駅：金沢 ／ 交通案内：JR線「金沢」駅徒歩5分</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県金沢市堀川新町8-16 ／ 最寄り駅：金沢 ／ 交通案内：JR線「金沢」駅徒歩5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>1,100円（1台1泊）※ 先着順。満車の場合は金沢駅西口時計駐車場（徒歩3分）をご案内いたします。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

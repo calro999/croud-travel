@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/organic-flower-bath-rose-herb-spa-stay/"
   };
 
@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F37464%2F37464.html%26f_flg%3DPLAN",
     "hotelMinCharge": 7700,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/37464/37464.jpg",
-    "userReview": "絶景のロケーションとおもてなしに心から癒やされました。",
+    "userReview": "寒河江温泉　割烹旅館　吉本ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
     "reviewAverage": 3.33,
     "reviewCount": 60,
     "address": "山形県寒河江市本町2丁目1-23",
@@ -270,23 +270,6 @@ export default function Page() {
             ))}
           </div>
         </section>
-
-        {/* 旅のQ&A */}
-        <section className="bg-white rounded-2xl p-6 md:p-8 border border-stone-200 shadow-sm space-y-4">
-          <h2 className="text-lg md:text-xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">よくある質問・失敗しない宿選び</h2>
-          <div className="space-y-4 text-sm">
-            <div className="border border-stone-100 rounded-xl p-4 bg-stone-50/50 space-y-2">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5"><span className="text-emerald-700 font-black">Q.</span> おすすめの予約時期やタイミングは？</h3>
-              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">人気の日程（連休や週末）は1〜2ヶ月前には満室になることが多いため、早期予約（早割プラン）の利用がおすすめです。また楽天トラベルの「5と0のつく日」キャンペーンを活用すると最大20%オフのクーポンが併用でき、最もお得に予約できます。
-              </p>
-            </div>
-            <div className="border border-stone-100 rounded-xl p-4 bg-stone-50/50 space-y-2">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5"><span className="text-emerald-700 font-black">Q.</span> 宿選びで失敗しないためのポイントは？</h3>
-              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">宿泊者レビューのお風呂・お食事・接客評価が4.3以上の宿を選ぶと満足度が非常に高くなります。またアクセス手段（送迎バスの有無など）やプランに含まれる特典を事前に確認しておくと安心です。
-              </p>
-            </div>
-          </div>
-        </section>
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -416,11 +399,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：生バラの花びらが浮かぶ優美な湯船！華やかなローズ風呂＆フラワーアロマ宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：生バラの花びらが浮かぶ優美な湯船！華やかなローズ風呂＆フラワーアロマ宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：生バラの花びらが浮かぶ優美な湯船！華やかなローズ風呂＆フラワーアロマ宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -440,7 +423,7 @@ export default function Page() {
               <tbody className="divide-y divide-stone-200">
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 寒河江温泉　割烹旅館　吉本</td>
-                <td className="p-3 text-stone-600">山形県</td>
+                <td className="p-3 text-stone-600">山形県寒河江市本町2丁目1-23</td>
                 <td className="p-3 text-stone-600">寒河江駅より徒歩５分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★3.33（60件）</td>
@@ -449,7 +432,7 @@ export default function Page() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 割烹旅館　城山</td>
-                <td className="p-3 text-stone-600">山形県</td>
+                <td className="p-3 text-stone-600">茨城県笠間市笠間14-1</td>
                 <td className="p-3 text-stone-600">JR水戸線笠間駅より約1.5km　タクシーで約3分／北関東自動車道友部</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（80件）</td>
@@ -458,7 +441,7 @@ export default function Page() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 古湯温泉　旅館　大和屋</td>
-                <td className="p-3 text-stone-600">山形県</td>
+                <td className="p-3 text-stone-600">佐賀県佐賀市富士町古湯860</td>
                 <td className="p-3 text-stone-600">佐賀大和ICよりお車にて15分、JR長崎本線佐賀駅→昭和バス乗車→古湯</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.62（320件）</td>
@@ -467,7 +450,7 @@ export default function Page() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 蒲郡温泉　銀河伝説煌めく天空の宿　天の丸</td>
-                <td className="p-3 text-stone-600">山形県</td>
+                <td className="p-3 text-stone-600">愛知県額田郡幸田町荻遠峰10</td>
                 <td className="p-3 text-stone-600">ＪＲ東海道本線　蒲郡駅／東名岡崎ＩＣより県道２６号、国道２４８号経由三</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.17（1611件）</td>
@@ -501,12 +484,12 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/37464/37464.jpg" alt="寒河江温泉　割烹旅館　吉本 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「生バラの花びらが浮かぶ優美な湯船（華やかなローズ風呂＆フラワーアロマ宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：寒河江駅より徒歩５分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>旅の目的に合わせて選ぶ「生バラの花びらが浮かぶ優美な湯船（華やかなローズ風呂＆フラワーアロマ宿5選）」各宿の強みと基本情報は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：寒河江駅より徒歩５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「絶景のロケーションとおもてなしに心から癒やされました。」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「旅の目的に合わせて選ぶ「生バラの花びらが浮かぶ優美な湯船（華やかなローズ風呂＆フラワーアロマ宿5選）」各宿の強みと基本情報での快適な滞在とアクセス面の良さに満足したという評価が寄せられています。」
                   </blockquote>
                 </div>
               </div>
@@ -523,8 +506,8 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/29364/29364.jpg" alt="割烹旅館　城山 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「生バラの花びらが浮かぶ優美な湯船（華やかなローズ風呂＆フラワーアロマ宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：JR水戸線笠間駅より約1.5km　タクシーで約3分／北関東自動車道友部ICよりR３５５にて１０分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>清閑な数奇屋造りの和風旅館──季節の味を巧みに引き立てる繊細な月替わり会席料理をお楽しみください</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：JR水戸線笠間駅より約1.5km　タクシーで約3分／北関東自動車道友部ICよりR３５５にて１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -545,8 +528,8 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/108575/108575.jpg" alt="古湯温泉　旅館　大和屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「生バラの花びらが浮かぶ優美な湯船（華やかなローズ風呂＆フラワーアロマ宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：佐賀大和ICよりお車にて15分、JR長崎本線佐賀駅→昭和バス乗車→古湯温泉前下車→徒歩2分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>高千穂神社まで徒歩10分 約105年続く田舎料理が自慢のお宿です</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：佐賀大和ICよりお車にて15分、JR長崎本線佐賀駅→昭和バス乗車→古湯温泉前下車→徒歩2分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -567,8 +550,8 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31249/31249.jpg" alt="蒲郡温泉　銀河伝説煌めく天空の宿　天の丸 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「生バラの花びらが浮かぶ優美な湯船（華やかなローズ風呂＆フラワーアロマ宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ東海道本線　蒲郡駅／東名岡崎ＩＣより県道２６号、国道２４８号経由三河湾スカイラインへ ※送迎バス送り10時発</p>
+                  <p><strong>【宿の特徴・魅力】</strong>蒲郡温泉 銀河伝説煌めく天空の宿 天の丸（愛知県額田郡幸田町荻遠峰10）は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：ＪＲ東海道本線　蒲郡駅／東名岡崎ＩＣより県道２６号、国道２４８号経由三河湾スカイラインへ ※送迎バス送り10時発</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -590,7 +573,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/52574/52574_syo.jpg" alt="南あわじ温泉郷　うずしお温泉　淡路島海上ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>淡路島・福良湾が目の前！全室で夕日と海が見え、旬食材を取り入れた会席料理と温泉と当館専用釣り桟橋！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県南あわじ市福良甲21-1 ／ 最寄り駅：主要駅 ／ 交通案内：明石海峡大橋海峡　垂水ＪＣＴより車で約１時間（６７ｋｍ）</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県南あわじ市福良甲21-1 ／ 交通案内：明石海峡大橋海峡　垂水ＪＣＴより車で約１時間（６７ｋｍ）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　70台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★4.3 ／ 部屋 ★4.13 ／ 設備 ★3.85 ／ 風呂 ★3.94 ／ 食事 ★4.32</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -601,6 +584,9 @@ export default function Page() {
             </div>
           </div></section>
 
+              <div className="my-8">
+          <ShareButtons title="【2026年】生バラの花びらが浮かぶ優美な湯船！華やかなローズ風呂＆フラワーアロマ宿5選" url="https://croud-travel.pages.dev/organic-flower-bath-rose-herb-spa-stay/" />
+        </div>
       </main>
     
       <HubRelatedPosts currentSlug="organic-flower-bath-rose-herb-spa-stay" />

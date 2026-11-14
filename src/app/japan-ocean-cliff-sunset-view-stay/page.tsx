@@ -228,11 +228,11 @@ export default function ScenicViewHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">絶景断崖オーシャン＆夕陽パノラマ宿：三陸・男鹿・越前・室戸岬・天草 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「絶景断崖オーシャン＆夕陽パノラマ宿：三陸・男鹿・越前・室戸岬・天草 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「絶景断崖オーシャン＆夕陽パノラマ宿：三陸・男鹿・越前・室戸岬・天草 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function ScenicViewHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/52102/52102_wa.jpg" alt="男鹿温泉　湯けむりリゾート　セイコーグランドホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>源泉かけ流し！当館自慢の「美肌の湯」と日本海の海幸を満喫。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 秋田県男鹿市北浦湯本草木原50-1 ／ 最寄り駅：羽立 ／ 交通案内：秋田自動車道秋田北IC下車６０ｋｍ７０分／JR羽立駅～路線バスで４５分／JR男鹿駅～無料送迎バスあり詳しくは公式HPへ</p>
+                  <p><strong>【所在地・アクセス】</strong>秋田県男鹿市北浦湯本草木原50-1 ／ 最寄り駅：羽立 ／ 交通案内：秋田自動車道秋田北IC下車６０ｋｍ７０分／JR羽立駅～路線バスで４５分／JR男鹿駅～無料送迎バスあり詳しくは公式HPへ</p>
                   <p>【絶景断崖オーシャン＆夕陽パノラマ宿：三陸・男鹿・越前】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★3.93 ／ 部屋 ★4.01 ／ 設備 ★3.86 ／ 風呂 ★4.11 ／ 食事 ★4.3</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function ScenicViewHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/188978/188978.jpg" alt="オーベルジュほまち　三國湊（ミシュランセレクテッド２０２５） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>Forbes JAPAN「The 30 Collection」選出★ミシュランシェフが贈るフレンチ</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福井県坂井市三国町南本町三丁目4-39 ／ 最寄り駅：三国（福井） ／ 交通案内：えちぜん鉄道三国芦原線「三国」下車 徒歩約５分。/北陸新幹線東京⇔JR芦原温泉約３時間/金沢⇔JR芦原温泉・約25分</p>
+                  <p><strong>【所在地・アクセス】</strong>福井県坂井市三国町南本町三丁目4-39 ／ 最寄り駅：三国（福井） ／ 交通案内：えちぜん鉄道三国芦原線「三国」下車 徒歩約５分。/北陸新幹線東京⇔JR芦原温泉約３時間/金沢⇔JR芦原温泉・約25分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>フロント棟・レストラン棟・各客室棟には無料駐車場を完備いたしております。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function ScenicViewHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/173017/173017_kan1.jpg" alt="大江戸温泉物語　天草ホテル亀屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「日本の夕陽百選」に選ばれた絶景を眺める温泉と 天草ならではの海の幸をご堪能ください</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 熊本県上天草市大矢野町中4463-2 ／ 最寄り駅：三角 ／ 交通案内：ＪＲ三角駅より＞車で約２０分　熊本空港より＞車で約９０分　熊本新港より＞車で約６０分</p>
+                  <p><strong>【所在地・アクセス】</strong>熊本県上天草市大矢野町中4463-2 ／ 最寄り駅：三角 ／ 交通案内：ＪＲ三角駅より＞車で約２０分　熊本空港より＞車で約９０分　熊本新港より＞車で約６０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有）８０台/無料（先着順）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function ScenicViewHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/67290/67290_wa.jpg" alt="天草温泉　ホテルアレグリアガーデンズ天草 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>広大なリゾート、ゆっくりと楽しめる楽園、藍の島をお楽しみ下さい。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 熊本県天草市本渡町広瀬996 ／ 最寄り駅：天草空港 ／ 交通案内：ＪＲ熊本駅から車で１５０分／本渡バスセンターから車で１０分／天草空港から車で１５分</p>
+                  <p><strong>【所在地・アクセス】</strong>熊本県天草市本渡町広瀬996 ／ 最寄り駅：天草空港 ／ 交通案内：ＪＲ熊本駅から車で１５０分／本渡バスセンターから車で１０分／天草空港から車で１５分</p>
                   <p>【絶景断崖オーシャン＆夕陽パノラマ宿：三陸・男鹿・越前】 <strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function ScenicViewHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/37953/37953_fu.jpg" alt="天草温泉　ホテル松竜園　海星 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>眼下にひろがる海のパノラマ。天草発！豪快な海鮮料理。やさしさあふれる海の温泉をたっぷりどうぞ。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 熊本県上天草市大矢野町上6494 ／ 最寄り駅：三角 ／ 交通案内：九州自動車道　松橋ICより国道266号線を天草方面へ50分。JR三角駅より車で15分　バスで25分。</p>
+                  <p><strong>【所在地・アクセス】</strong>熊本県上天草市大矢野町上6494 ／ 最寄り駅：三角 ／ 交通案内：九州自動車道　松橋ICより国道266号線を天草方面へ50分。JR三角駅より車で15分　バスで25分。</p>
                   <p>【絶景断崖オーシャン＆夕陽パノラマ宿：三陸・男鹿・越前】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function ScenicViewHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/160683/160683_kan1.jpg" alt="ビジネスホテル天草 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>リーズナブルな価格で天草旅の拠点に。一般のビジネスホテルと違い広い和室も有り。家族旅行にもピッタリ！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 熊本県上天草市大矢野町中4302-1 ／ 最寄り駅：三角 ／ 交通案内：三角駅よりお車にて約２０分</p>
+                  <p><strong>【所在地・アクセス】</strong>熊本県上天草市大矢野町中4302-1 ／ 最寄り駅：三角 ／ 交通案内：三角駅よりお車にて約２０分</p>
                   <p>【絶景断崖オーシャン＆夕陽パノラマ宿：三陸・男鹿・越前】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

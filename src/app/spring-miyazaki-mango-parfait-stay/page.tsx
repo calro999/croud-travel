@@ -236,7 +236,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -681,11 +681,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：とろける黄金の果肉・太陽のタマゴ！宮崎完熟マンゴースイーツ＆青島オーシャン宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：とろける黄金の果肉・太陽のタマゴ！宮崎完熟マンゴースイーツ＆青島オーシャン宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：とろける黄金の果肉・太陽のタマゴ！宮崎完熟マンゴースイーツ＆青島オーシャン宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -767,7 +767,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/191880/191880.jpg" alt="マンゴーホテル宮崎 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>宮崎最大の飲食店街ニシタチが徒歩圏内！マンゴージュースとアイスを24時間無料提供中！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮崎県宮崎市橘通東1-5-8 ／ 最寄り駅：宮崎 ／ 交通案内：ＪＲ日豊本線　宮崎駅から車で約１０分。宮崎空港から空港リムジンバスで約１５分。</p>
+                  <p><strong>【所在地・アクセス】</strong>宮崎県宮崎市橘通東1-5-8 ／ 最寄り駅：宮崎 ／ 交通案内：ＪＲ日豊本線　宮崎駅から車で約１０分。宮崎空港から空港リムジンバスで約１５分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有/有料【普通車まで】1泊1000円/予約不可先着順【中型車】1泊3000円/要予約【駐輪】無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.88 ／ 立地 ★3.88 ／ 部屋 ★4.07 ／ 設備 ★4 ／ 風呂 ★3.83 ／ 食事 ★3.77</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -789,7 +789,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/182521/182521.jpg" alt="マンゴーホテル日南（旧：日南第一ホテル） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>日南の市街地、国道沿いに位置しアクセス抜群。都会的なシンプルなデザインと清潔感あふれる内装。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮崎県日南市岩崎3-3-13 ／ 最寄り駅：油津 ／ 交通案内：JR日南線油津駅より徒歩７分、宮崎ICより車約50分。宮崎空港より車で約50分。</p>
+                  <p><strong>【所在地・アクセス】</strong>宮崎県日南市岩崎3-3-13 ／ 最寄り駅：油津 ／ 交通案内：JR日南線油津駅より徒歩７分、宮崎ICより車約50分。宮崎空港より車で約50分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　43台　1泊1台：1000円　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -811,7 +811,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/30939/30939_t.jpg" alt="ホテルシーズン日南 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全室、太平洋を一望できるオーシャンビュー。キャンプでは広島東洋カープ選手常宿のホテルです。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮崎県日南市園田3-11-1 ／ 最寄り駅：油津 ／ 交通案内：宮崎ICから車で約40分/宮崎空港より車で約50分・宮崎交通バス梅ヶ浜下車徒歩3分/日南線JR油津駅より車で約3分</p>
+                  <p><strong>【所在地・アクセス】</strong>宮崎県日南市園田3-11-1 ／ 最寄り駅：油津 ／ 交通案内：宮崎ICから車で約40分/宮崎空港より車で約50分・宮崎交通バス梅ヶ浜下車徒歩3分/日南線JR油津駅より車で約3分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　第一駐車場38台　第二駐車場12台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -833,7 +833,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/19738/19738_twn.jpg" alt="ホテルルートイン熊本駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ＷＯＷＯＷ全室で無料視聴可■VODルームシアター無料視聴可能（一般映画のみ：コンフォートルーム特典）</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 熊本県熊本市西区春日1-14-19 ／ 最寄り駅：熊本 ／ 交通案内：ＪＲ熊本駅白川口(東口)より徒歩3分！熊本ＩＣから車で35分、熊本空港からリムジンバス50分</p>
+                  <p><strong>【所在地・アクセス】</strong>熊本県熊本市西区春日1-14-19 ／ 最寄り駅：熊本 ／ 交通案内：ＪＲ熊本駅白川口(東口)より徒歩3分！熊本ＩＣから車で35分、熊本空港からリムジンバス50分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>自走式立体駐車場６０台完備・立体に比べ楽々出庫　1000円（税込/泊）　高さ制限２．１Ｍ　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -855,7 +855,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/138067/138067_you.jpg" alt="ＴＨＥ　ＭＥＩＢＩＡ　ＭＩＹＡＺＡＫＩ（ザ・メイビア宮崎） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>静寂の中に佇む凛とした空間。竹林が奏でるシンフォニー。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮崎県宮崎市下原町247-18 ／ 最寄り駅：宮崎 ／ 交通案内：宮崎駅東口から徒歩10分。宮崎駅から要予約で送迎可。(16時～18時/9時～12時)宮崎自動車道宮崎ＩＣから車で20分。</p>
+                  <p><strong>【所在地・アクセス】</strong>宮崎県宮崎市下原町247-18 ／ 最寄り駅：宮崎 ／ 交通案内：宮崎駅東口から徒歩10分。宮崎駅から要予約で送迎可。(16時～18時/9時～12時)宮崎自動車道宮崎ＩＣから車で20分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>平面駐車場完備(無料)/24時間出し入れ自由。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

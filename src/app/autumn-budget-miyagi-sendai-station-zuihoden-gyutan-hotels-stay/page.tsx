@@ -376,11 +376,11 @@ export default function AutumnBudgetHotelsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">仙台駅前：瑞鳳殿紅葉ライトアップ＆名物牛たん炭火焼き！2,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「仙台駅前：瑞鳳殿紅葉ライトアップ＆名物牛たん炭火焼き！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「仙台駅前：瑞鳳殿紅葉ライトアップ＆名物牛たん炭火焼き！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -444,7 +444,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/188111/188111.jpg" alt="ＫＯＫＯ　ＨＯＴＥＬ　仙台駅前　Ｓｏｕｔｈ 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2023年9月リブランドオープン★ビジネスはもちろん観光にも最適の立地。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮城県仙台市青葉区中央 4-7-1 ／ 最寄り駅：仙台 ／ 交通案内：仙台駅西口より徒歩7分</p>
+                  <p><strong>【所在地・アクセス】</strong>宮城県仙台市青葉区中央 4-7-1 ／ 最寄り駅：仙台 ／ 交通案内：仙台駅西口より徒歩7分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無し　提携駐車場エンタツパーキング16:00～翌11:00 ￥1,200（割引適用後）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -466,7 +466,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/188112/188112.jpg" alt="ＫＯＫＯ　ＨＯＴＥＬ　仙台駅前　Ｗｅｓｔ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2023年9月リブランドオープン★ビジネスはもちろん観光にも最適の立地。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮城県仙台市青葉区中央3-8-27 ／ 最寄り駅：仙台 ／ 交通案内：仙台駅西口より徒歩5分</p>
+                  <p><strong>【所在地・アクセス】</strong>宮城県仙台市青葉区中央3-8-27 ／ 最寄り駅：仙台 ／ 交通案内：仙台駅西口より徒歩5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -488,7 +488,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/57055/57055_o.jpg" alt="天然温泉　萩の湯　ドーミーイン仙台駅前（ドーミーイン・御宿野乃　ホテルズグループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>天然温泉大浴場と高温サウナ完備。アイス乳酸菌飲料無料サービスと朝食 は海鮮丼と和洋食バイキング！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮城県仙台市青葉区本町1-5-38 ／ 最寄り駅：仙台 ／ 交通案内：JR仙台駅西口より徒歩約5分。東北道宮城ＩＣより１５分。仙台空港線で約３０分。高速バス停留所より徒歩２分。駅前通沿い。</p>
+                  <p><strong>【所在地・アクセス】</strong>宮城県仙台市青葉区本町1-5-38 ／ 最寄り駅：仙台 ／ 交通案内：JR仙台駅西口より徒歩約5分。東北道宮城ＩＣより１５分。仙台空港線で約３０分。高速バス停留所より徒歩２分。駅前通沿い。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>平面駐車場１泊2,000円(15台分)高さ２．３ｍ以下まで（要電話予約）満車時は近隣駐車場案内</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

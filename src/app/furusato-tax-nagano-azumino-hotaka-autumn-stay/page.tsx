@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-nagano-azumino-hotaka-autumn-stay/"
   };
 
@@ -482,11 +482,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">長野・安曇野の田園紅葉＆北アルプス眺望！穂高温泉郷の秘湯と名水わさび・信州サーモン｜ふるさと納税で泊まれる名宿ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「長野・安曇野の田園紅葉＆北アルプス眺望！穂高温泉郷の秘湯と名水わさび・信州サーモン｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「長野・安曇野の田園紅葉＆北アルプス眺望！穂高温泉郷の秘湯と名水わさび・信州サーモン｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -550,7 +550,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7149/7149_to.jpg" alt="穂高温泉郷　安曇野穂高ビューホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>松本エリアから車で約40分★口コミ朝食４．7 心癒す旅を</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県安曇野市穂高牧2200-3 ／ 最寄り駅：松本 ／ 交通案内：長野自動車道【安曇野IC】よりお車で約25分。【松本IC】よりお車で約40分／JR大糸線穂高駅よりバスで約15分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県安曇野市穂高牧2200-3 ／ 最寄り駅：松本 ／ 交通案内：長野自動車道【安曇野IC】よりお車で約25分。【松本IC】よりお車で約40分／JR大糸線穂高駅よりバスで約15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　80台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -572,7 +572,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/19342/19342_r.jpg" alt="安曇野　にし屋別荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>北アルプス山麓安曇野の里に静かに佇む6室だけの宿。囲炉裏端で料理を楽しみ、天然露天風呂でお寛ぎ下さい</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県安曇野市穂高有明3613－42 ／ 最寄り駅：穂高 ／ 交通案内：ＪＲ大糸線・穂高駅／長野道・安曇野ＩＣから約２０分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県安曇野市穂高有明3613－42 ／ 最寄り駅：穂高 ／ 交通案内：ＪＲ大糸線・穂高駅／長野道・安曇野ＩＣから約２０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -594,7 +594,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/197362/197362.jpg" alt="森のオーベルジュ　ｇｒｅｅｎ　ｂｅｌｌ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>本格フレンチと自然に癒される、安曇野の小さなオーベルジュ。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県安曇野市穂高有明3613-14 ／ 最寄り駅：穂高 ／ 交通案内：穂高駅よりお車で約１０分、長野自動車道 安曇野インターより約２５分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県安曇野市穂高有明3613-14 ／ 最寄り駅：穂高 ／ 交通案内：穂高駅よりお車で約１０分、長野自動車道 安曇野インターより約２５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

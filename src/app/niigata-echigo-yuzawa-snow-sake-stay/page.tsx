@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">新潟・越後湯沢＆魚沼：川端康成雪国・ぽんしゅ館利き酒＆魚沼産コシヒカリ極上宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「新潟・越後湯沢＆魚沼：川端康成雪国・ぽんしゅ館利き酒＆魚沼産コシヒカリ極上宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「新潟・越後湯沢＆魚沼：川端康成雪国・ぽんしゅ館利き酒＆魚沼産コシヒカリ極上宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/52880/52880_ky.jpg" alt="越後湯沢温泉　湯沢東映ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【クチコミ高評価の温泉宿】 上越最大級の露天大岩風呂が自慢、料理が美味しいクチコミ人気宿も受賞♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県南魚沼郡湯沢町湯沢3459 ／ 最寄り駅：越後湯沢 ／ 交通案内：JR越後湯沢駅西口より徒歩8分。関越自動車道・越後湯沢ICより約5分。越後湯沢駅西口・高速バス乗り場の無料送迎有。</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県南魚沼郡湯沢町湯沢3459 ／ 最寄り駅：越後湯沢 ／ 交通案内：JR越後湯沢駅西口より徒歩8分。関越自動車道・越後湯沢ICより約5分。越後湯沢駅西口・高速バス乗り場の無料送迎有。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>第1～第4駐車場まで82台駐車可能　（無料・予約不要）。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/30694/30694_r1.jpg" alt="苗場プリンスホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>1年中楽しい！四季折々の魅力がたくさん詰まった オールシーズンリゾートMt.Naeba</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県南魚沼郡湯沢町三国202 ／ 最寄り駅：越後湯沢 ／ 交通案内：関越自動車道月夜野ＩＣから33km（約50分）／湯沢ＩＣから21km（約35分）／越後湯沢駅より専用バス有（事前予約制）</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県南魚沼郡湯沢町三国202 ／ 最寄り駅：越後湯沢 ／ 交通案内：関越自動車道月夜野ＩＣから33km（約50分）／湯沢ＩＣから21km（約35分）／越後湯沢駅より専用バス有（事前予約制）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有3,800台　★12月より駐車場有料（宿泊者：1泊につき1,000円）（越後湯沢駅より送迎バス有）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5735/5735_war.jpg" alt="越後湯沢温泉　音羽屋旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>温泉街中央高台にあり、料理自慢・風呂自慢のこじんまりとした純和風宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県南魚沼郡湯沢町湯沢419 ／ 最寄り駅：越後湯沢 ／ 交通案内：JR上越新幹線、越後湯沢駅西口より徒歩７分。関越自動車道、越後湯沢ＩＣより、越後湯沢駅方面に向かって約6分。駐車場完備。</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県南魚沼郡湯沢町湯沢419 ／ 最寄り駅：越後湯沢 ／ 交通案内：JR上越新幹線、越後湯沢駅西口より徒歩７分。関越自動車道、越後湯沢ＩＣより、越後湯沢駅方面に向かって約6分。駐車場完備。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　15台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.96 ／ 立地 ★4.02 ／ 部屋 ★4.09 ／ 設備 ★3.94 ／ 風呂 ★4.21 ／ 食事 ★4.14</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/28757/28757_lg.jpg" alt="越後湯沢温泉　一望千里　御湯宿　中屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【温泉口コミ4.68】源泉かけ流し露天風呂の眺望は絶景。人気の露天風呂付客室で季節の旬の味を堪能！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県南魚沼郡湯沢町湯沢924 ／ 最寄り駅：越後湯沢 ／ 交通案内：越後湯沢駅西口よりお車で約3分・徒歩約20分／湯沢IC→国道17号線約10分　★駅から送迎あり（要連絡20時迄）</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県南魚沼郡湯沢町湯沢924 ／ 最寄り駅：越後湯沢 ／ 交通案内：越後湯沢駅西口よりお車で約3分・徒歩約20分／湯沢IC→国道17号線約10分　★駅から送迎あり（要連絡20時迄）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　無料　冬期は関越道のチェーン規制がございます。予めご注意ください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.3 ／ 部屋 ★4.36 ／ 設備 ★4.22 ／ 風呂 ★4.56 ／ 食事 ★4.38</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/38764/38764_wa.jpg" alt="越後湯沢温泉　湯沢グランドホテル＜新潟県＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★楽天シルバーアワード3年連続受賞★湯沢旅館部門売上1位★出来立ての美味しさが自慢のバイキング★</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県南魚沼郡湯沢町大字湯沢2494 ／ 最寄り駅：越後湯沢 ／ 交通案内：駅から徒歩3分＆湯沢ＩＣから5分！入口はセブンイレブンが目印！※ホテル前の坂道は急なので遠慮なく送迎をご依頼ください。</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県南魚沼郡湯沢町大字湯沢2494 ／ 最寄り駅：越後湯沢 ／ 交通案内：駅から徒歩3分＆湯沢ＩＣから5分！入口はセブンイレブンが目印！※ホテル前の坂道は急なので遠慮なく送迎をご依頼ください。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　約８０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/40019/40019_gr.jpg" alt="越後湯沢温泉　松泉閣花月 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「お帰りなさいませ「｢いってらっしゃいませ」が花月の合言葉　故郷に帰ってきたようにお過ごしください</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県南魚沼郡湯沢町湯沢318-5 ／ 最寄り駅：越後湯沢 ／ 交通案内：越後湯沢駅から徒歩約５分。越後湯沢駅への送迎も可能です。（要事前連絡）・お車で湯沢IC～１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県南魚沼郡湯沢町湯沢318-5 ／ 最寄り駅：越後湯沢 ／ 交通案内：越後湯沢駅から徒歩約５分。越後湯沢駅への送迎も可能です。（要事前連絡）・お車で湯沢IC～１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１４台　無料　※鍵をフロントでお預かり致します</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.82 ／ 立地 ★4.57 ／ 部屋 ★4.52 ／ 設備 ★4.53 ／ 風呂 ★4.61 ／ 食事 ★4.61</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

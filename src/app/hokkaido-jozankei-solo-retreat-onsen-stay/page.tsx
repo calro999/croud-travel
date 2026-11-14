@@ -77,7 +77,7 @@ export default function ArticlePage() {
             北海道・定山渓温泉ひとり旅＆札幌奥座敷おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「定山渓温泉ひとり旅・渓谷美おこもり」札幌から60分・豊平川渓流露天・道産美食！札幌の奥座敷で静寂にととのう厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               「札幌の奥座敷」として古くから親しまれる定山渓温泉。無色透明でまろやかなナトリウム塩化物泉は体の芯まで温まり、秋の紅葉や冬の雪見露天風呂など、四季折々の北海道の大自然をダイレクトに感じられます。
             </p>
             <p>
-              一人旅専用のサービスが充実したリトリートホテルから、渓谷を望む名門旅館まで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              一人旅専用のサービスが充実したリトリートホテルから、渓谷を望む名門旅館まで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -419,11 +419,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">定山渓温泉ひとり旅・渓谷美おこもり：札幌から60分・豊平川渓流露天・道産美食！札幌の奥座敷で静寂にととのう厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「定山渓温泉ひとり旅・渓谷美おこもり：札幌から60分・豊平川渓流露天・道産美食！札幌の奥座敷で静寂にととのう厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「定山渓温泉ひとり旅・渓谷美おこもり：札幌から60分・豊平川渓流露天・道産美食！札幌の奥座敷で静寂にととのう厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -487,7 +487,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/44948/44948_w.jpg" alt="定山渓温泉　女性のための宿　翠蝶館（旧：定山渓温泉　Ｓｐａ＆Ｅｓｔｈｅｔｉｑｕｅ　翠蝶館） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「体の内外からキレイになる」がコンセプト。身体にやさしいお料理とエステで自分にご褒美を。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道札幌市南区定山渓温泉西3-57 ／ 最寄り駅：札幌 ／ 交通案内：札幌より無料送迎バス運行（要予約） ／ＪＲ札幌駅より車で60分／新千歳空港より車で約2時間</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道札幌市南区定山渓温泉西3-57 ／ 最寄り駅：札幌 ／ 交通案内：札幌より無料送迎バス運行（要予約） ／ＪＲ札幌駅より車で60分／新千歳空港より車で約2時間</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.63 ／ 立地 ★4.45 ／ 部屋 ★4.54 ／ 設備 ★4.55 ／ 風呂 ★4.53 ／ 食事 ★4.67</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -509,7 +509,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2911/2911_heya1.jpg" alt="定山渓温泉　章月グランドホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>定山渓屈指の眺望とラウンジサービスの「蜂蜜バイキング」が大好評！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道札幌市南区定山渓温泉東3-239 ／ 最寄り駅：札幌 ／ 交通案内：札幌駅より片道1000円で送迎バス運行！要予約・運休日有／札幌中心部より車で約50分、駐車場有</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道札幌市南区定山渓温泉東3-239 ／ 最寄り駅：札幌 ／ 交通案内：札幌駅より片道1000円で送迎バス運行！要予約・運休日有／札幌中心部より車で約50分、駐車場有</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料平面屋外駐車場有り（35台分）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.59 ／ 立地 ★4.52 ／ 部屋 ★4.56 ／ 設備 ★4.44 ／ 風呂 ★4.46 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -531,7 +531,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/130162/130162_wa.jpg" alt="定山渓温泉　悠久の宿白糸 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>≪楽天トラベルアワード2016☆リトルスター賞受賞≫小規模ながら温かな宿の雰囲気をご満喫ください。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道札幌市南区定山渓温泉東2-138-1 ／ 最寄り駅：札幌 ／ 交通案内：ＪＲ　札幌駅バスにて７０分「白糸の滝」バス停にて下車</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道札幌市南区定山渓温泉東2-138-1 ／ 最寄り駅：札幌 ／ 交通案内：ＪＲ　札幌駅バスにて７０分「白糸の滝」バス停にて下車</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

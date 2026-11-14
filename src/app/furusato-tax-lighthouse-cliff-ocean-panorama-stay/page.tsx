@@ -504,11 +504,11 @@ export default function FurusatoFeaturePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">白亜の灯台＆断崖絶景オーシャンビュー宿×ふるさと納税厳選ガイド日御碕・犬吠埼・室戸岬の岬リゾート：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「白亜の灯台＆断崖絶景オーシャンビュー宿×ふるさと納税厳選ガイド日御碕・犬吠埼・室戸岬の岬リゾート」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「白亜の灯台＆断崖絶景オーシャンビュー宿×ふるさと納税厳選ガイド日御碕・犬吠埼・室戸岬の岬リゾート」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -528,7 +528,7 @@ export default function FurusatoFeaturePage() {
               <tbody className="divide-y divide-stone-200">
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 湖畔の温泉宿くにびき　グランピングベースＩＺＵＭＯ</td>
-                <td className="p-3 text-stone-600">千葉県</td>
+                <td className="p-3 text-stone-600">島根県出雲市湖陵町二部1230</td>
                 <td className="p-3 text-stone-600">ＪＲ江南駅よりお車で約５分　送迎をご希望の際は事前にお問い合わせ下さい</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（456件）</td>
@@ -589,8 +589,8 @@ export default function FurusatoFeaturePage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/165626/165626.jpg" alt="湖畔の温泉宿くにびき　グランピングベースＩＺＵＭＯ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「白亜の灯台＆断崖絶景オーシャンビュー宿×ふるさと納税厳選ガイド日御碕・犬吠埼・室戸岬の岬リゾート」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ江南駅よりお車で約５分　送迎をご希望の際は事前にお問い合わせ下さい。時間帯や状況によって送迎できない場合がございます</p>
+                  <p><strong>【宿の特徴・魅力】</strong>白亜の灯台＆断崖絶景オーシャンビュー宿×ふるさと納税厳選ガイド日御碕・犬吠埼・室戸岬の岬リゾートで比較したい各宿のロケーション・駐車場・料金詳細は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：ＪＲ江南駅よりお車で約５分　送迎をご希望の際は事前にお問い合わせ下さい。時間帯や状況によって送迎できない場合がございます</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -612,7 +612,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/184687/184687.jpg" alt="犬吠埼温泉　黒潮の湯　ホテルルートイン銚子駅西 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>天然温泉「犬吠埼温泉黒潮の湯」大浴場完備！銚子駅より徒歩4分！無料朝食バイキングで大満足★</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 千葉県銚子市三軒町16-13 ／ 最寄り駅：銚子 ／ 交通案内：★銚子駅より徒歩で約4分　◆神栖市波崎まではお車で5分</p>
+                  <p><strong>【所在地・アクセス】</strong>千葉県銚子市三軒町16-13 ／ 最寄り駅：銚子 ／ 交通案内：★銚子駅より徒歩で約4分　◆神栖市波崎まではお車で5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　先着順41台　800円/泊　※満車の際は近隣のコインパーキングをご利用下さい</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -634,7 +634,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/40498/40498_he.jpg" alt="犬吠埼潮の湯温泉　犬吠埼観光ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全室オーシャンビュー！まるで海と繋がるかのような露天風呂？！◆温泉宿ホテル総選挙´２１犬吠埼地区１位</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 千葉県銚子市犬吠埼10293 ／ 最寄り駅：犬吠 ／ 交通案内：銚子電鉄　犬吠駅より車で３分　犬吠駅よりお電話にて送迎承ります。銚子駅より車で15分</p>
+                  <p><strong>【所在地・アクセス】</strong>千葉県銚子市犬吠埼10293 ／ 最寄り駅：犬吠 ／ 交通案内：銚子電鉄　犬吠駅より車で３分　犬吠駅よりお電話にて送迎承ります。銚子駅より車で15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.55 ／ 部屋 ★4.02 ／ 設備 ★3.94 ／ 風呂 ★4.31 ／ 食事 ★4.27</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -656,7 +656,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4691/4691_heya1.jpg" alt="‐犬吠埼温泉元湯　黒潮の湯‐　絶景の宿　犬吠埼ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全室から太平洋が一望、新鮮魚介類中心の料理自慢の宿。海の見える露天風呂が人気です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 千葉県銚子市犬吠埼9574-1 ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ銚子駅よりバスで２０分</p>
+                  <p><strong>【所在地・アクセス】</strong>千葉県銚子市犬吠埼9574-1 ／ 交通案内：ＪＲ銚子駅よりバスで２０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -678,7 +678,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8724/8724_ja.jpg" alt="メルキュール高知土佐リゾート＆スパ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2024年4月より「メルキュール高知土佐リゾート＆スパ」へリブランド</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 高知県安芸郡芸西村西分甲2995 ／ 最寄り駅：土佐山田 ／ 交通案内：土佐くろしお鉄道夜須駅より車約7分、空港より車約20分、芸西西ICより車約1分の好アクセス。</p>
+                  <p><strong>【所在地・アクセス】</strong>高知県安芸郡芸西村西分甲2995 ／ 最寄り駅：土佐山田 ／ 交通案内：土佐くろしお鉄道夜須駅より車約7分、空港より車約20分、芸西西ICより車約1分の好アクセス。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料平面駐車場有り</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

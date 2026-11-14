@@ -316,7 +316,7 @@ export default function SaitamaOmiyaHikawaWinterPage() {
           <div className="text-center space-y-3">
             <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900 tracking-tight">大宮・さいたま新都心で冬を満喫する厳選宿5選</h2>
             <p className="text-slate-600 text-sm sm:text-base max-w-2xl mx-auto">
-              楽天トラベル公式APIからリアルタイムに取得した信頼のホテル群。駅直結の高級シティホテルから天然温泉大浴場・サウナ完備の宿まで特選しました。
+              宿泊施設データからリアルタイムに取得した信頼のホテル群。駅直結の高級シティホテルから天然温泉大浴場・サウナ完備の宿まで特選しました。
             </p>
           </div>
 

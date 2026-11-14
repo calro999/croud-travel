@@ -236,7 +236,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -681,11 +681,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：朝からいくら・ウニ・ホタテかけ放題！北海道の海鮮勝手丼朝食が凄すぎるホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：朝からいくら・ウニ・ホタテかけ放題！北海道の海鮮勝手丼朝食が凄すぎるホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：朝からいくら・ウニ・ホタテかけ放題！北海道の海鮮勝手丼朝食が凄すぎるホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -767,7 +767,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/137023/137023_kan.jpg" alt="イマジンホテル＆リゾート函館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【楽天トラベルゴールドアワード2025受賞！】海と星空が広がる【絶景露天風呂】</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道函館市湯川町3-1-17 ／ 最寄り駅：函館 ／ 交通案内：『函館空港』からお車にて約6分/『函館駅』よりお車にて約12分/バス停『熱帯植物園前』から徒歩約3分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道函館市湯川町3-1-17 ／ 最寄り駅：函館 ／ 交通案内：『函館空港』からお車にて約6分/『函館駅』よりお車にて約12分/バス停『熱帯植物園前』から徒歩約3分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料　約90台　湯の川最大級青空平面</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -789,7 +789,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1477/1477_sgl.jpg" alt="Ｔａｂｉｓｔ　ホテルテトラ函館駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>寿司屋自慢の朝ごはん！活海鮮　★函館駅から徒歩3分★バス・市電乗り場も近く便利なホテル☆</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道函館市若松町19-11 ／ 最寄り駅：函館 ／ 交通案内：ＪＲ函館駅から徒歩で5分。函館空港よりシャトルバスで20分。</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道函館市若松町19-11 ／ 最寄り駅：函館 ／ 交通案内：ＪＲ函館駅から徒歩で5分。函館空港よりシャトルバスで20分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>1台１泊800円　 数に限りあり　 GWなど特別期間は別料金。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.99 ／ 立地 ★3.78 ／ 部屋 ★3.42 ／ 設備 ★3.28 ／ 風呂 ★3.23</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -811,7 +811,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1341/1341_room.jpg" alt="函館国際ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>3つのレストランを備えた全435室のシティホテル。本館最上階には函館港を望む天然温泉展望大浴場も。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道函館市大手町5-10 ／ 最寄り駅：函館 ／ 交通案内：ＪＲ函館駅から徒歩約8分／函館空港から車で約20分 バスで約30分（函館国際ホテル前下車 バス停目の前）</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道函館市大手町5-10 ／ 最寄り駅：函館 ／ 交通案内：ＪＲ函館駅から徒歩約8分／函館空港から車で約20分 バスで約30分（函館国際ホテル前下車 バス停目の前）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>1泊1000円 (宿泊日当日の11時〜出発日の14時まで出し入れ自由／先着順）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.37 ／ 立地 ★4.38 ／ 部屋 ★4.37 ／ 設備 ★4.3 ／ 風呂 ★4.25 ／ 食事 ★4.46</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -833,7 +833,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/168681/168681.jpg" alt="センチュリーマリーナ函館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2026年5月1日で開業7周年！　宿泊者専用の無料フィットネスジムを新設♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道函館市大手町22-13 ／ 最寄り駅：函館 ／ 交通案内：ＪＲ　函館駅より徒歩にて約５分　　函館空港より車にて約２０分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道函館市大手町22-13 ／ 最寄り駅：函館 ／ 交通案内：ＪＲ　函館駅より徒歩にて約５分　　函館空港より車にて約２０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り(1,000円/日）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.62 ／ 立地 ★4.63 ／ 部屋 ★4.69 ／ 設備 ★4.63 ／ 風呂 ★4.66</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -855,7 +855,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/67479/67479_h.jpg" alt="Ｔａｂｉｓｔ　竹葉新葉亭　函館　湯の川温泉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>今年で創業から七十年の節目の年を迎えます。一期一會の心を大切に北の味覚を部屋食でご提供。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道函館市湯川町2-6-22 ／ 最寄り駅：函館 ／ 交通案内：ＪＲ　函館駅から車で１５分／函館空港から車で５分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道函館市湯川町2-6-22 ／ 最寄り駅：函館 ／ 交通案内：ＪＲ　函館駅から車で１５分／函館空港から車で５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.24 ／ 立地 ★4.14 ／ 部屋 ★4.28 ／ 設備 ★4.12 ／ 風呂 ★4.32 ／ 食事 ★4.25</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -356,28 +356,6 @@ export default function ArticlePage() {
         </section>
 
         {/* よくある質問 FAQ */}
-        <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-6">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-stone-900 border-b border-stone-200 pb-3">よくある質問（FAQ）</h2>
-          <div className="space-y-4">
-            
-            <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
-                <span>秋田空港から秋田駅やホテルへのアクセスはどうですか？</span></h3>
-              <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
-                秋田空港から秋田駅直行リムジンバスが航空便に合わせて運行しており、約35〜40分で秋田駅西口へアクセスできます。
-              </p>
-            </div>
-            
-            <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
-                <span>一人で稲庭うどんを食べられる有名店はありますか？</span></h3>
-              <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
-                秋田駅前やトピコ内に「無限堂」や「佐藤養助」などの直営店があり、カウンター席で一人でも気軽に本場の手綯い稲庭うどんを味わえます。
-              </p>
-            </div>
-            
-          </div>
-        </section>
 
         {/* 関連リンク・ナビゲーション */}
         <div className="text-center pt-8 border-t border-stone-200">

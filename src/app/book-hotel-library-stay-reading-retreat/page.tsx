@@ -228,11 +228,11 @@ export default function WomenSoloRetreatHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">週末おこもり・読書＆ブックホテル：数万冊の本に囲まれるライブラリー宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「週末おこもり・読書＆ブックホテル：数万冊の本に囲まれるライブラリー宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「週末おこもり・読書＆ブックホテル：数万冊の本に囲まれるライブラリー宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -279,7 +279,7 @@ export default function WomenSoloRetreatHubPage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 箱根湯本温泉　女性に優しい癒しの宿　ホテルマイユクール祥月</td>
-                <td className="p-3 text-stone-600">神奈川県</td>
+                <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町湯本468-1</td>
                 <td className="p-3 text-stone-600">箱根湯本駅下車徒歩１２分／小田原厚木道路箱根口ＩＣから2ｋｍ　箱根神社</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（6648件）</td>
@@ -323,7 +323,7 @@ export default function WomenSoloRetreatHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/183509/183509.jpg" alt="ＳＹＬＡ　ＨＯＴＥＬ　箱根強羅　ＷＥＳＴ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>２０２１年秋オープンした強羅駅直ぐの貸切戸建。日帰り温泉やグルメが徒歩圏内にあります。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県足柄下郡箱根町強羅1300-763 ／ 最寄り駅：強羅 ／ 交通案内：強羅駅より徒歩約８分</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県足柄下郡箱根町強羅1300-763 ／ 最寄り駅：強羅 ／ 交通案内：強羅駅より徒歩約８分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>お客様専用の駐車場あり　無料　徒歩2分</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function WomenSoloRetreatHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/183508/183508.jpg" alt="ＳＹＬＡ　ＨＯＴＥＬ　箱根強羅　ＥＡＳＴ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>２０２１年秋オープンした強羅駅直ぐの貸切戸建。日帰り温泉やグルメが徒歩圏内にあります。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県足柄下郡箱根町強羅1300-45 ／ 最寄り駅：強羅 ／ 交通案内：強羅駅より徒歩約８分</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県足柄下郡箱根町強羅1300-45 ／ 最寄り駅：強羅 ／ 交通案内：強羅駅より徒歩約８分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>お客様専用の駐車場あり　無料　徒歩2分</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function WomenSoloRetreatHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/40781/40781_wa.jpg" alt="箱根湯本温泉　伊東園ホテル　箱根湯本 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>箱根湯本駅から車で10分　アルカリ性の温泉とバイキング(夕食飲み放題付き)が魅力のホテルです</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県足柄下郡箱根町湯本茶屋95-1 ／ 最寄り駅：箱根湯本 ／ 交通案内：小田急　箱根湯本駅より徒歩２０分、バス５分、車で５分.カーナビは0460-85-5743小田原湯本カントリークラブ途中。</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県足柄下郡箱根町湯本茶屋95-1 ／ 最寄り駅：箱根湯本 ／ 交通案内：小田急　箱根湯本駅より徒歩２０分、バス５分、車で５分.カーナビは0460-85-5743小田原湯本カントリークラブ途中。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>屋根付きあり　収容台数36台　1部屋あたり1台までとさせていただいております</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.03 ／ 立地 ★3.78 ／ 部屋 ★3.98 ／ 設備 ★3.84 ／ 風呂 ★4.11 ／ 食事 ★4.06</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -388,8 +388,8 @@ export default function WomenSoloRetreatHubPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/19786/19786.jpg" alt="箱根湯本温泉　女性に優しい癒しの宿　ホテルマイユクール祥月 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「週末おこもり・読書＆ブックホテル（数万冊の本に囲まれるライブラリー宿 厳選ガイド）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：箱根湯本駅下車徒歩１２分／小田原厚木道路箱根口ＩＣから2ｋｍ　箱根神社約40分／箱根ターンパイク約10分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>神奈川県足柄下郡箱根町湯本468-1の「箱根湯本温泉 女性に優しい癒しの宿 ホテルマイユクール祥月」（楽天トラベル評価4.55（6588件）／1泊目安¥8,500〜）の魅力と宿泊ポイントを詳しく紹介。◆全室禁煙、女性に優しい美肌の湯が自慢の縁結びの宿。実際の口コミ評価や施設スペック、周辺観光スポット、1泊2日の滞在モデルコースまで分かりやすく案内します。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：箱根湯本駅下車徒歩１２分／小田原厚木道路箱根口ＩＣから2ｋｍ　箱根神社約40分／箱根ターンパイク約10分</p>
                   <p>【週末おこもり・読書＆ブックホテル：数万冊の本に囲まれ】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function WomenSoloRetreatHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/10832/10832_heya.jpg" alt="指宿温泉　指宿ロイヤルホテル　～すべての女性へ美と健康を楽しむホテル～ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>南九州鹿児島。薩摩半島最南端に位置するホテルからの海の眺めは最高！女性に喜ばれるホテルです</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県指宿市十二町4232-1 ／ 最寄り駅：指宿 ／ 交通案内：鹿児島空港→指宿駅　空港バス約１１０分。指宿駅→タクシー約５分。屋久島、霧島、大隅、南薩等指宿を拠点に観光がおすすめ</p>
+                  <p><strong>【所在地・アクセス】</strong>鹿児島県指宿市十二町4232-1 ／ 最寄り駅：指宿 ／ 交通案内：鹿児島空港→指宿駅　空港バス約１１０分。指宿駅→タクシー約５分。屋久島、霧島、大隅、南薩等指宿を拠点に観光がおすすめ</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場完備（全50台）バイク・大型車両OK予約不要。指宿を観光するなら車での移動がおすすめ</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function WomenSoloRetreatHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/192299/192299.jpg" alt="ねをはす　Ｂｏｏｋ＆Ｈｏｔｅｌ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>新下関駅から徒歩6分。WiFi無料・全館禁煙+浴室独立・フロント24時間対応の「泊まれる本屋さん」</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山口県下関市秋根西町2-7-2 ／ 最寄り駅：新下関 ／ 交通案内：JR新下関駅西口より徒歩6分、中国自動車道・下関ICより車で約10分</p>
+                  <p><strong>【所在地・アクセス】</strong>山口県下関市秋根西町2-7-2 ／ 最寄り駅：新下関 ／ 交通案内：JR新下関駅西口より徒歩6分、中国自動車道・下関ICより車で約10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料／33台　※駐車可能車両サイズ：長さ5.0ｍ、車幅2.0ｍ以内　※トラック不可　※満車の場合有</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

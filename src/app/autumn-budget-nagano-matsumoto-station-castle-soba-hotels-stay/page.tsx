@@ -376,11 +376,11 @@ export default function AutumnBudgetHotelsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">松本駅前：国宝松本城紅葉＆秋の新そば・山賊焼！4,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「松本駅前：国宝松本城紅葉＆秋の新そば・山賊焼！4,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「松本駅前：国宝松本城紅葉＆秋の新そば・山賊焼！4,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -462,7 +462,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1562/1562_sgl.jpg" alt="松本駅から一番近い大浴場のある　ホテルニューステーション＜長野県＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>創業50年の老舗ホテル◆松本駅東口徒歩１分◆檜の男女大浴場◆和食レストラン◆長期連泊プラン好評受付中</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県松本市中央1-1-11 ／ 最寄り駅：松本 ／ 交通案内：ＪＲ松本駅北隣り徒歩１分。駅（東口）を出て左手４軒目。長野道松本ＩＣから車で１０分。松本バスターミナルから徒歩４分。</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県松本市中央1-1-11 ／ 最寄り駅：松本 ／ 交通案内：ＪＲ松本駅北隣り徒歩１分。駅（東口）を出て左手４軒目。長野道松本ＩＣから車で１０分。松本バスターミナルから徒歩４分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>1000円/泊　アメニティパーク（中央1-15-25）高さ155cm以下　不適合車は別の場所へご案内</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -484,7 +484,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/172342/172342_kan1.jpg" alt="いろはグランホテル松本駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>◆ReFaルーム販売中！ ◆人気マットレスAir採用の快眠ルーム新登場　◆選べる夜食サービス無料！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県松本市中央1-14-9 ／ 最寄り駅：松本 ／ 交通案内：JR松本駅より徒歩4分/長野自動車道松本ICより車で約10分/伊勢町通り沿いMウイング斜め前</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県松本市中央1-14-9 ／ 最寄り駅：松本 ／ 交通案内：JR松本駅より徒歩4分/長野自動車道松本ICより車で約10分/伊勢町通り沿いMウイング斜め前</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有料提携駐車場有(詳細はホテルまでお問い合わせください)当館隣の病院は当駐車場ではありません</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.43 ／ 立地 ★4.36 ／ 部屋 ★4.45 ／ 設備 ★4.41 ／ 風呂 ★4.31 ／ 食事 ★4.38</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -506,7 +506,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/72772/72772_ro.jpg" alt="スーパーホテル松本駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>松本駅より徒歩3分の好立地！！JDパワー顧客満足度調査で11年連続満足度NO．1受賞！！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県松本市中央1-1-7 ／ 最寄り駅：松本 ／ 交通案内：ＪＲ松本駅より徒歩3分。松本駅お城口（東口）を出て左手に進みの1つ目の信号手前「SUPERHOTEL」の看板が目印です。</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県松本市中央1-1-7 ／ 最寄り駅：松本 ／ 交通案内：ＪＲ松本駅より徒歩3分。松本駅お城口（東口）を出て左手に進みの1つ目の信号手前「SUPERHOTEL」の看板が目印です。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>事前予約制（8台）　【1泊1,000円】※満車時は近隣の有料パーキングをご利用下さい。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★4.17 ／ 部屋 ★4.18 ／ 設備 ★4.11 ／ 風呂 ★4 ／ 食事 ★4.26</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -528,7 +528,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/178249/178249_kan1.jpg" alt="東横ＩＮＮ松本駅東口 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>松本駅から徒歩3分で朝食・小学生以下添い寝無料のホテル！松本城まで車で10分</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県松本市深志1-1-4 ／ 最寄り駅：松本 ／ 交通案内：松本駅東口より徒歩約3分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県松本市深志1-1-4 ／ 最寄り駅：松本 ／ 交通案内：松本駅東口より徒歩約3分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>平置き：18台（ \1,000/1泊）先着順　※1台：身障者用</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.98 ／ 立地 ★4.2 ／ 部屋 ★4.15 ／ 設備 ★4.02 ／ 風呂 ★3.97 ／ 食事 ★3.93</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -550,7 +550,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/67273/67273_si.jpg" alt="東横ＩＮＮ松本駅前本町 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR松本駅から徒歩6分で朝食・小学生以下添い寝無料のホテル！松本城まで車で3分</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県松本市中央２－１－２３ ／ 最寄り駅：松本 ／ 交通案内：JR松本駅より徒歩6分。【花時計公園】の目の前です。</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県松本市中央２－１－２３ ／ 最寄り駅：松本 ／ 交通案内：JR松本駅より徒歩6分。【花時計公園】の目の前です。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（先着順）　500円/泊（立体）、1000円/泊（平地）。オートバイ 300円/泊</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.04 ／ 立地 ★3.98 ／ 部屋 ★4.08 ／ 設備 ★4.04 ／ 風呂 ★3.88 ／ 食事 ★3.87</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

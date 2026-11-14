@@ -211,7 +211,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -598,11 +598,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：日本の夕日百選！黄金に染まる海と砂浜パノラマ露天風呂リゾート5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：日本の夕日百選！黄金に染まる海と砂浜パノラマ露天風呂リゾート5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：日本の夕日百選！黄金に染まる海と砂浜パノラマ露天風呂リゾート5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -675,7 +675,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/178912/178912.jpg" alt="宇久須温泉　西伊豆クリスタルビューホテル（伊東園ホテルズ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>クリスタルビーチを眼下に望む温泉リゾート。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県賀茂郡西伊豆町宇久須2102-1 ／ 最寄り駅：修善寺 ／ 交通案内：修善寺駅よりお車にて約７５分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県賀茂郡西伊豆町宇久須2102-1 ／ 最寄り駅：修善寺 ／ 交通案内：修善寺駅よりお車にて約７５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.94 ／ 立地 ★4.21 ／ 部屋 ★3.94 ／ 設備 ★3.89 ／ 風呂 ★4.01 ／ 食事 ★3.7</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -697,7 +697,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/147160/147160_kan1.jpg" alt="萩温泉郷　海が奏でる癒しの宿　リゾートホテル美萩 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【★楽天アワード受賞★】“快水浴場百選”の美しいビーチ【菊ヶ浜】と日本の夕日百選の宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山口県萩市堀内485-2 ／ 最寄り駅：東萩 ／ 交通案内：「JR東萩駅」より車で約5分／世界遺産「萩城下町」は徒歩圏内／「美祢東JCT」経由「絵堂IC」より車で約30分</p>
+                  <p><strong>【所在地・アクセス】</strong>山口県萩市堀内485-2 ／ 最寄り駅：東萩 ／ 交通案内：「JR東萩駅」より車で約5分／世界遺産「萩城下町」は徒歩圏内／「美祢東JCT」経由「絵堂IC」より車で約30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>50台（無料）／予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★4.38 ／ 部屋 ★4.19 ／ 設備 ★4.04 ／ 風呂 ★4.14 ／ 食事 ★4.33</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -719,7 +719,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/191950/191950.jpg" alt="湯野浜ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>本格的な韓国料理を楽しめる海辺の温泉旅館。全部屋トイレ付でプライバシーも安心です&amp;#9836;</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県鶴岡市湯野浜1-3-36 ／ 最寄り駅：鶴岡 ／ 交通案内：鶴岡駅 バス約４０分・車約２５分</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県鶴岡市湯野浜1-3-36 ／ 最寄り駅：鶴岡 ／ 交通案内：鶴岡駅 バス約４０分・車約２５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★4.09 ／ 部屋 ★4.22 ／ 設備 ★4.06 ／ 風呂 ★4.38</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -741,7 +741,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/161194/161194.jpg" alt="グランパスＳｅａ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>千畳敷まで徒歩圏内。３種類の露天風呂と四季折々の夕食がお楽しみ頂けます♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県西牟婁郡白浜町1688-2 ／ 最寄り駅：白浜 ／ 交通案内：白浜駅からお車で約15分,JR難波から高速バス約3時間千畳口下車１分,　南紀白浜IC・白浜空港から約10分。</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県西牟婁郡白浜町1688-2 ／ 最寄り駅：白浜 ／ 交通案内：白浜駅からお車で約15分,JR難波から高速バス約3時間千畳口下車１分,　南紀白浜IC・白浜空港から約10分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.33 ／ 立地 ★3.55 ／ 部屋 ★3 ／ 設備 ★2.92 ／ 風呂 ★3.25 ／ 食事 ★3.09</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

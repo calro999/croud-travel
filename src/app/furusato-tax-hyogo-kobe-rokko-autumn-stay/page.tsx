@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-hyogo-kobe-rokko-autumn-stay/"
   };
 
@@ -482,11 +482,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">兵庫・神戸 六甲山紅葉パノラマ＆日本三古湯 有馬温泉！金泉・銀泉の極上湯処と神戸牛会席｜ふるさと納税で泊まれる名宿ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「兵庫・神戸 六甲山紅葉パノラマ＆日本三古湯 有馬温泉！金泉・銀泉の極上湯処と神戸牛会席｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「兵庫・神戸 六甲山紅葉パノラマ＆日本三古湯 有馬温泉！金泉・銀泉の極上湯処と神戸牛会席｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -550,7 +550,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/25128/25128_heya.jpg" alt="有馬温泉　有馬グランドホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>小高い丘の上に立つ絶景のホテル。 最上階の展望大浴苑「雲海」からの景色は壮観です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県神戸市北区有馬町1304-1 ／ 最寄り駅：有馬温泉 ／ 交通案内：有馬温泉駅（電車、バス、ロープウェイ）より送迎サービス有（要電話）　神戸電鉄有馬温泉駅より徒歩10分</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県神戸市北区有馬町1304-1 ／ 最寄り駅：有馬温泉 ／ 交通案内：有馬温泉駅（電車、バス、ロープウェイ）より送迎サービス有（要電話）　神戸電鉄有馬温泉駅より徒歩10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４００台　無料　　　中国自動車道西宮北ＩＣより５㎞</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -572,7 +572,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/41797/41797_kan2.jpg" alt="有馬温泉　メープル有馬 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>馴染むほどにくつろぐ普段使いの別邸</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県神戸市北区有馬町406-3 ／ 最寄り駅：有馬温泉 ／ 交通案内：有馬温泉駅より徒歩10分送迎有★連絡要★神戸空港から電車40分三宮、谷上、有馬口乗換◆伊丹空港からバス45分宝塚乗換◆</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県神戸市北区有馬町406-3 ／ 最寄り駅：有馬温泉 ／ 交通案内：有馬温泉駅より徒歩10分送迎有★連絡要★神戸空港から電車40分三宮、谷上、有馬口乗換◆伊丹空港からバス45分宝塚乗換◆</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -594,7 +594,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1206/1206_heya.jpg" alt="神戸牛と有馬温泉　天然金泉・銀泉の宿　有馬御苑 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【楽天ゴールド＆日本の宿アワード受賞】部屋食プラン多数★温泉街すぐ！金銀２種の温泉と神戸牛が自慢♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県神戸市北区有馬町1296 ／ 最寄り駅：有馬温泉 ／ 交通案内：神戸電鉄線有馬温泉駅から徒歩２分、阪急バス有馬停より徒歩２分、阪神高速有馬口ＩＣより車３分、中国道西宮北ＩＣより車１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県神戸市北区有馬町1296 ／ 最寄り駅：有馬温泉 ／ 交通案内：神戸電鉄線有馬温泉駅から徒歩２分、阪急バス有馬停より徒歩２分、阪神高速有馬口ＩＣより車３分、中国道西宮北ＩＣより車１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有（50台）ご宿泊者様は利用室数分まで無料　※場所が分かりづらいため当館HPアクセスページ参照下さい</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

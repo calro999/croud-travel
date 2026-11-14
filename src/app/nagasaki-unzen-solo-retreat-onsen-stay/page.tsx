@@ -77,7 +77,7 @@ export default function ArticlePage() {
             長崎・雲仙温泉ひとり旅＆雲仙地獄おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「雲仙温泉ひとり旅・雲仙地獄白濁おこもり」日本最初の国立公園・硫黄香る乳白色露天・島原半島美食！島原の歴史薫る高原リトリート厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               長崎・島原半島の中央にそびえる雲仙岳の山懐に抱かれた雲仙温泉。明治時代には外国人居留地の人々の避暑地として栄え、クラシックホテルやレトロな洋風文化が今も息づく情緒豊かな温泉郷です。
             </p>
             <p>
-              民芸調の落ち着いたデザイナーズ空間で雲仙牛を味わえる極上宿から、一人旅でも温かく迎えてくれるコスパ抜群の温泉民宿まで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              民芸調の落ち着いたデザイナーズ空間で雲仙牛を味わえる極上宿から、一人旅でも温かく迎えてくれるコスパ抜群の温泉民宿まで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -419,11 +419,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">雲仙温泉ひとり旅・雲仙地獄白濁おこもり：日本最初の国立公園・硫黄香る乳白色露天・島原半島美食！島原の歴史薫る高原リトリート厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「雲仙温泉ひとり旅・雲仙地獄白濁おこもり：日本最初の国立公園・硫黄香る乳白色露天・島原半島美食！島原の歴史薫る高原リトリート厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「雲仙温泉ひとり旅・雲仙地獄白濁おこもり：日本最初の国立公園・硫黄香る乳白色露天・島原半島美食！島原の歴史薫る高原リトリート厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -487,7 +487,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/6194/6194_ky.jpg" alt="雲仙温泉　民芸モダンの宿　雲仙福田屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2023年客室リニューアル！四季の恵みの会席料理、厳選かけ流しの絶景露天風呂が自慢の福を結ぶ癒しの宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長崎県雲仙市小浜町雲仙380-2 ／ 最寄り駅：諫早 ／ 交通案内：長崎自動車道 諫早ＩＣ及びＪＲ諌早駅より車で５５分</p>
+                  <p><strong>【所在地・アクセス】</strong>長崎県雲仙市小浜町雲仙380-2 ／ 最寄り駅：諫早 ／ 交通案内：長崎自動車道 諫早ＩＣ及びＪＲ諌早駅より車で５５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>40台無料。お客様ご自身でのご移動をお願いしております。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -509,7 +509,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/139757/139757_wa.jpg" alt="民宿　関荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>客室の窓からはおしどり池を一望。落ち着いた雰囲気の空間です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長崎県雲仙市小浜町雲仙212 ／ 最寄り駅：諫早 ／ 交通案内：ＪＲ長崎本線　諫早（イサハヤ）駅から雲仙行きバスで６０分</p>
+                  <p><strong>【所在地・アクセス】</strong>長崎県雲仙市小浜町雲仙212 ／ 最寄り駅：諫早 ／ 交通案内：ＪＲ長崎本線　諫早（イサハヤ）駅から雲仙行きバスで６０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　10台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.53 ／ 立地 ★4.56 ／ 部屋 ★4.11 ／ 設備 ★4 ／ 食事 ★4.63</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -531,7 +531,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/30046/30046_k.jpg" alt="民宿　雲仙 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>心がホッと落ち着く場所...昔ながらの民宿のおもてなしと旬の素材を用いた家庭料理で歓迎いたします。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長崎県雲仙市小浜町雲仙140 ／ 最寄り駅：諫早 ／ 交通案内：JR諫早駅よりバスで約８０分／雲仙バス停留所より徒歩５分</p>
+                  <p><strong>【所在地・アクセス】</strong>長崎県雲仙市小浜町雲仙140 ／ 最寄り駅：諫早 ／ 交通案内：JR諫早駅よりバスで約８０分／雲仙バス停留所より徒歩５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　8台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

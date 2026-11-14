@@ -236,7 +236,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -681,11 +681,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：南の島の至高の美食！極上石垣牛ステーキ＆川平湾エメラルドビーチリゾート5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：南の島の至高の美食！極上石垣牛ステーキ＆川平湾エメラルドビーチリゾート5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：南の島の至高の美食！極上石垣牛ステーキ＆川平湾エメラルドビーチリゾート5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -767,7 +767,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/160779/160779_kan1.jpg" alt="Ｔｈｅ　ＢＲＥＡＫＦＡＳＴ　ＨＯＴＥＬ　ＰＯＲＴＯ石垣島＜石垣島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>キッチン・洗濯機・ラウンジ付きの「コンドミニアム棟」、シンプルな「ホテル棟」からお部屋をチョイス♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県石垣市登野城67 ／ 最寄り駅：石垣空港 ／ 交通案内：南ぬ島石垣空港から車で約25分（タクシーで約3,000円）離島ターミナルより徒歩8分。公設市場から徒歩5分。</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県石垣市登野城67 ／ 最寄り駅：石垣空港 ／ 交通案内：南ぬ島石垣空港から車で約25分（タクシーで約3,000円）離島ターミナルより徒歩8分。公設市場から徒歩5分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　1500円（税込み／泊）　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.32 ／ 立地 ★4.24 ／ 部屋 ★4.29 ／ 設備 ★4.26 ／ 風呂 ★4.08 ／ 食事 ★4.57</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -789,7 +789,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/168549/168549.jpg" alt="Ｔｈｅ　ＢＲＥＡＫＦＡＳＴ　ＨＯＴＥＬ　ＭＡＲＣＨＥ石垣島＜石垣島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>離島ターミナル近くでふらっと自由な気まま旅♪大人気！特選石垣牛やアグー豚　多種類の地中海料理</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県石垣市大川217 ／ 最寄り駅：主要駅 ／ 交通案内：石垣島離島ターミナル徒歩5分！バスターミナル徒歩3分！ユーグレナモール徒歩30秒！</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県石垣市大川217 ／ 交通案内：石垣島離島ターミナル徒歩5分！バスターミナル徒歩3分！ユーグレナモール徒歩30秒！</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　先着順　5台　1500円（税込み／泊）※予約不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.25 ／ 部屋 ★4.11 ／ 設備 ★4.04 ／ 風呂 ★3.91 ／ 食事 ★4.65</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -811,7 +811,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/160889/160889_kan1.jpg" alt="さくらリゾートホテル石垣＜石垣島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>八重山ブルーの海、八重山の島々を見下ろす絶好のロケーション。島内でも屈指のサンセットをご堪能下さい。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県石垣市新川1585-218 ／ 最寄り駅：石垣空港 ／ 交通案内：■レンタカー■石垣空港より約25分。離島ターミナルより約10分　■路線バス■バス停フサキビーチリゾートより徒歩約5分。</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県石垣市新川1585-218 ／ 最寄り駅：石垣空港 ／ 交通案内：■レンタカー■石垣空港より約25分。離島ターミナルより約10分　■路線バス■バス停フサキビーチリゾートより徒歩約5分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -833,7 +833,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/38599/38599_kan.jpg" alt="フサキビーチリゾート　ホテル＆ヴィラズ　＜石垣島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【楽天トラベルアワード受賞】島内随一の天然ビーチとプールエリアで極上の休日を</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県石垣市新川1625番地 ／ 最寄り駅：石垣空港 ／ 交通案内：石垣空港より　車で約35分。石垣港より車で約15分。空港・ホテル間の無料送迎バスもございます。</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県石垣市新川1625番地 ／ 最寄り駅：石垣空港 ／ 交通案内：石垣空港より　車で約35分。石垣港より車で約15分。空港・ホテル間の無料送迎バスもございます。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（299台/先着順）：宿泊者無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -855,7 +855,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/67844/67844_b.jpg" alt="ホテル　リゾートイン石垣島＜石垣島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>新空港⇔港・市街地を結ぶバス停/石垣唯一の大型ショッピングモール目の前！全室キッチン＆充実家電☆</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県石垣市真栄里491-2 ／ 最寄り駅：石垣空港 ／ 交通案内：駐車場無料！新石垣空港→車：約20分　路線バス：白保経由空港線30分（サンエー前バス停 ）</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県石垣市真栄里491-2 ／ 最寄り駅：石垣空港 ／ 交通案内：駐車場無料！新石垣空港→車：約20分　路線バス：白保経由空港線30分（サンエー前バス停 ）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>・24時間出し入れ自由な駐車場を無料駐車場を完備　※無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

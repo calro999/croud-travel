@@ -77,7 +77,7 @@ export default function ArticlePage() {
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.13 更新</time>
           <span>執筆：旅宿クラウド ひとり旅・出張調査班</span>
-          <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式API提携</span>
+          <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">編集部が厳選</span>
         </div>
 
         {/* リード文 */}
@@ -89,7 +89,7 @@ export default function ArticlePage() {
             北陸新幹線の延伸開業により首都圏・関西双方からの機動力が飛躍的に向上した福井県・福井市。眼鏡産業や化学・繊維などのものづくり産業が集積する福井駅前には、出張需要に応える最新鋭の天然温泉ホテルが続々と誕生しています。
           </p>
           <p>
-            オープンしたばかりの全館畳敷き和風リゾートホテルから、自家源泉の大浴場とサウナを備えるハイスペック宿まで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+            オープンしたばかりの全館畳敷き和風リゾートホテルから、自家源泉の大浴場とサウナを備えるハイスペック宿まで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
           </p>
         </div>
       </header>
@@ -346,7 +346,7 @@ export default function ArticlePage() {
           <p className="text-sm text-amber-100 mb-6 max-w-2xl mx-auto">平日限定の一人旅割引や、早期割・直前割など、楽天トラベルならではの特典プランが多数用意されています。人気日程は早めの予約がおすすめです。
           </p>
           <a
-            href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2F"
+            href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fsearch.travel.rakuten.co.jp%2Fds%2Fundated%2Fsearch%3Ff_query%3D%25E7%25A6%258F%25E4%25BA%2595%25E7%259C%258C"
             target="_blank"
             rel="sponsored noopener noreferrer"
             className="inline-flex items-center justify-center bg-white text-amber-900 font-bold px-8 py-3 rounded-xl shadow-lg hover:bg-amber-50 transition transform hover:-translate-y-0.5 text-sm sm:text-base"
@@ -389,11 +389,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">福井駅前出張・天然温泉サウナ：北陸新幹線延伸・越前の湯・越前ガニ＆ソースカツ丼！新幹線新拠点を制する厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「福井駅前出張・天然温泉サウナ：北陸新幹線延伸・越前の湯・越前ガニ＆ソースカツ丼！新幹線新拠点を制する厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「福井駅前出張・天然温泉サウナ：北陸新幹線延伸・越前の湯・越前ガニ＆ソースカツ丼！新幹線新拠点を制する厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -475,7 +475,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4898/4898_heya.jpg" alt="東尋坊温泉　三国オーシャンリゾート＆ホテル（旧：三国観光ホテル） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全室オーシャンビュー！日本海に沈む美しい夕陽をお部屋から◆東尋坊まで車で10分＆“和畳の湯”も人気♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福井県坂井市三国町緑ヶ丘4-4-8 ／ 最寄り駅：芦原温泉 ／ 交通案内：ＪＲ北陸新幹線・ハピライン芦原温泉下車　京福バス東尋坊経由　終点　龍翔博物館前下車</p>
+                  <p><strong>【所在地・アクセス】</strong>福井県坂井市三国町緑ヶ丘4-4-8 ／ 最寄り駅：芦原温泉 ／ 交通案内：ＪＲ北陸新幹線・ハピライン芦原温泉下車　京福バス東尋坊経由　終点　龍翔博物館前下車</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -497,7 +497,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5677/5677_heya1.jpg" alt="あわら温泉　伝統旅館のぬくもり　灰屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【ガーデンサウナOPEN】明治１７年創業当時の趣を残す伝統旅館。奥深いおもてなしを提供いたします</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福井県あわら市温泉2-205 ／ 最寄り駅：芦原温泉 ／ 交通案内：ＪＲ北陸本線芦原温泉駅から路線バスにて１５分/無料送迎あり。北陸道金津ＩＣより車で１５分。駐車場無料(係が案内します。)</p>
+                  <p><strong>【所在地・アクセス】</strong>福井県あわら市温泉2-205 ／ 最寄り駅：芦原温泉 ／ 交通案内：ＪＲ北陸本線芦原温泉駅から路線バスにて１５分/無料送迎あり。北陸道金津ＩＣより車で１５分。駐車場無料(係が案内します。)</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料 （エントランスにはスロープもございます。係がご案内いたします。）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.39 ／ 立地 ★4.16 ／ 部屋 ★4.3 ／ 設備 ★4.23 ／ 風呂 ★4.31 ／ 食事 ★4.5</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -519,7 +519,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/6113/6113_sig.jpg" alt="ホテルクラウンヒルズ武生駅前（ＢＢＨホテルグループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ハピライン武生駅より徒歩1分以内の好立地。9Fスカイレストランからは、越前市街を一望できます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福井県越前市府中1-2-3 ／ 最寄り駅：武生 ／ 交通案内：ハピラインふくい武生駅下車徒歩1分！　 北陸自動車道武生IC車で10分</p>
+                  <p><strong>【所在地・アクセス】</strong>福井県越前市府中1-2-3 ／ 最寄り駅：武生 ／ 交通案内：ハピラインふくい武生駅下車徒歩1分！　 北陸自動車道武生IC車で10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　840円／泊</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -541,7 +541,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8114/8114_heya.jpg" alt="北陸　福井　あわら温泉　美松 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>◆充実！美松のドリンクインクルーシブスタート◆別邸「美悠」など趣の異なる温泉露天風呂付客室が好評◆</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福井県あわら市舟津26-10 ／ 最寄り駅：芦原温泉 ／ 交通案内：JR北陸新幹線芦原温泉駅より約15分（要予約）／北陸自動車道金津ICより約15分／小松空港より車で約50分</p>
+                  <p><strong>【所在地・アクセス】</strong>福井県あわら市舟津26-10 ／ 最寄り駅：芦原温泉 ／ 交通案内：JR北陸新幹線芦原温泉駅より約15分（要予約）／北陸自動車道金津ICより約15分／小松空港より車で約50分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>先着順の無料駐車場（100台）お体の不自由なお客様には駐車場の確保も致します。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -563,7 +563,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/10952/10952_war.jpg" alt="若狭美浜温泉　悠久乃碧　ホテル湾彩 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>若狭湾一望のホテル！オーシャンビュー＆獲れたての海幸が自慢</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福井県三方郡美浜町久々子海岸 ／ 最寄り駅：美浜 ／ 交通案内：JR美浜駅から車で５分。 敦賀ICから車で２０分。</p>
+                  <p><strong>【所在地・アクセス】</strong>福井県三方郡美浜町久々子海岸 ／ 最寄り駅：美浜 ／ 交通案内：JR美浜駅から車で５分。 敦賀ICから車で２０分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

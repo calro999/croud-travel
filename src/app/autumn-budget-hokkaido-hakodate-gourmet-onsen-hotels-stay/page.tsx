@@ -317,11 +317,11 @@ export default function HakodateBudgetAutumnPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋の函館×格安：五稜郭の紅葉と海鮮グルメ！1泊2,000円〜5,000円台の高コスパおすすめホテル5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「秋の函館×格安：五稜郭の紅葉と海鮮グルメ！1泊2,000円〜5,000円台の高コスパおすすめホテル5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「秋の函館×格安：五稜郭の紅葉と海鮮グルメ！1泊2,000円〜5,000円台の高コスパおすすめホテル5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -403,7 +403,7 @@ export default function HakodateBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/192816/192816.jpg" alt="ホテルエノエ函館 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>24年10月OPEN♪宿泊者限定ラウンジで地酒を愉しみ＆海鮮含む70種の朝食ブッフェで舌鼓</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道函館市宝来町22-15 ／ 最寄り駅：宝来町 ／ 交通案内：函館市電『宝来町』徒歩約3分・『十字街』徒歩約5分、JR函館駅より車で約5分、函館空港よりバスにて約40分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道函館市宝来町22-15 ／ 最寄り駅：宝来町 ／ 交通案内：函館市電『宝来町』徒歩約3分・『十字街』徒歩約5分、JR函館駅より車で約5分、函館空港よりバスにて約40分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り：44台￥1,000-（税込み／泊）　先着順となり予約は不可となります。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.45 ／ 立地 ★4.34 ／ 部屋 ★4.48 ／ 設備 ★4.35 ／ 風呂 ★4.17</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -425,7 +425,7 @@ export default function HakodateBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/165825/165825.jpg" alt="ホテルオールインステイ函館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ＪＲ函館駅から徒歩にて７分の好立地、観光やビジネス、小グループの拠点として最適です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道函館市若松町32-8 ／ 最寄り駅：函館 ／ 交通案内：ＪＲ　函館駅から0.7K徒歩にて約７分。函館空港より車15分、空港より函館駅までシャトルバス有り</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道函館市若松町32-8 ／ 最寄り駅：函館 ／ 交通案内：ＪＲ　函館駅から0.7K徒歩にて約７分。函館空港より車15分、空港より函館駅までシャトルバス有り</p>
                   <p><strong>【駐車場・マイカー利用】</strong>1階が12台（先着順）他に第2、第3駐車場がございます。お車の出し入れは自由です。1泊500円/台</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.43 ／ 立地 ★4.34 ／ 部屋 ★4.43 ／ 設備 ★4.31 ／ 風呂 ★4.23</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -447,7 +447,7 @@ export default function HakodateBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/179797/179797_kan1.jpg" alt="スマイルホテルプレミアム函館五稜郭 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【全館全室禁煙】すべてのお部屋に空気清浄機完備★五稜郭公園まで徒歩約5分♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道函館市本町8-15 ／ 最寄り駅：主要駅 ／ 交通案内：市電「五稜郭公園前」より徒歩約3分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道函館市本町8-15 ／ 交通案内：市電「五稜郭公園前」より徒歩約3分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>1泊 800円（立体駐車場14台・先着順）事前予約不可　近隣に有料駐車場あり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.32 ／ 部屋 ★4.4 ／ 設備 ★4.31 ／ 風呂 ★4.26 ／ 食事 ★4.34</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -469,7 +469,7 @@ export default function HakodateBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9561/9561_room.jpg" alt="函館大沼プリンスホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>大沼公園の自然を感じるホテル。無料駐車場完備・和洋ブッフェ・温泉を満喫。ゴルフ場も隣接しています♪。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道亀田郡七飯町西大沼温泉 ／ 最寄り駅：函館空港 ／ 交通案内：函館空港から車で約31分／新函館北斗駅から車で約17分／大沼公園駅から定期無料送迎バス運行/屋外無料駐車場完備</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道亀田郡七飯町西大沼温泉 ／ 最寄り駅：函館空港 ／ 交通案内：函館空港から車で約31分／新函館北斗駅から車で約17分／大沼公園駅から定期無料送迎バス運行/屋外無料駐車場完備</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２３０台　先着順　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.11 ／ 立地 ★4.23 ／ 部屋 ★4.16 ／ 設備 ★3.98 ／ 風呂 ★4.09 ／ 食事 ★4.1</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -491,7 +491,7 @@ export default function HakodateBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/137023/137023_kan.jpg" alt="イマジンホテル＆リゾート函館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【楽天トラベルゴールドアワード2025受賞！】海と星空が広がる【絶景露天風呂】</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道函館市湯川町3-1-17 ／ 最寄り駅：函館 ／ 交通案内：『函館空港』からお車にて約6分/『函館駅』よりお車にて約12分/バス停『熱帯植物園前』から徒歩約3分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道函館市湯川町3-1-17 ／ 最寄り駅：函館 ／ 交通案内：『函館空港』からお車にて約6分/『函館駅』よりお車にて約12分/バス停『熱帯植物園前』から徒歩約3分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料　約90台　湯の川最大級青空平面</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

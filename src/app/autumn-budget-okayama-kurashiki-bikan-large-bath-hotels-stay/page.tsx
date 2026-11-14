@@ -317,11 +317,11 @@ export default function KurashikiBudgetAutumnPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋の倉敷美観地区×格安：白壁の町並み紅葉と大原美術館！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「秋の倉敷美観地区×格安：白壁の町並み紅葉と大原美術館！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「秋の倉敷美観地区×格安：白壁の町並み紅葉と大原美術館！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -403,7 +403,7 @@ export default function KurashikiBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/178392/178392.jpg" alt="たびのホテル倉敷水島 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>約30種類の手作り朝食が人気◎コンビニ隣接◆大浴場＆無料駐車場有り◆大型車両もOK（有料・要予約）</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岡山県倉敷市水島西常盤町4-25 ／ 最寄り駅：常盤（岡山） ／ 交通案内：水島臨海鉄道水島本線常盤駅より徒歩5分。瀬戸内中央自動車道水島ICより約14分。</p>
+                  <p><strong>【所在地・アクセス】</strong>岡山県倉敷市水島西常盤町4-25 ／ 最寄り駅：常盤（岡山） ／ 交通案内：水島臨海鉄道水島本線常盤駅より徒歩5分。瀬戸内中央自動車道水島ICより約14分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>施設内、隣地に合計120台分の無料駐車場有（トラック・バス等の大型車は有料2000円／泊・要予約）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -425,7 +425,7 @@ export default function KurashikiBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/182714/182714.jpg" alt="ホテル　グラン・ココエ倉敷 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR倉敷駅から徒歩3分、湯と癒しの上質なひとときを♪　ビジネス・観光に最適なホテルです。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岡山県倉敷市阿知3-9-1 ／ 最寄り駅：倉敷 ／ 交通案内：山陽本線ＪＲ倉敷駅から徒歩で３分。</p>
+                  <p><strong>【所在地・アクセス】</strong>岡山県倉敷市阿知3-9-1 ／ 最寄り駅：倉敷 ／ 交通案内：山陽本線ＪＲ倉敷駅から徒歩で３分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>◆駐車場なし　近隣駐車場：市営あちてらす倉敷駐車場（ホテルから徒歩２分）1２時間830円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -447,7 +447,7 @@ export default function KurashikiBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/684/684_sing.jpg" alt="岡山ビューホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>マイホームのような「靴を脱ぐ、床に座る」コンセプトルーム★お布団敷のファミリールームも有</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岡山県岡山市北区中山下1-11-17 ／ 最寄り駅：岡山 ／ 交通案内：バス「天満屋」下車徒歩約2分◆JR岡山駅東口より車で約5分◆路面電車「清輝橋行」「郵便局前」下車徒歩約3分</p>
+                  <p><strong>【所在地・アクセス】</strong>岡山県岡山市北区中山下1-11-17 ／ 最寄り駅：岡山 ／ 交通案内：バス「天満屋」下車徒歩約2分◆JR岡山駅東口より車で約5分◆路面電車「清輝橋行」「郵便局前」下車徒歩約3分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル１Ｆ(フロントは2F)　約20台収容　一泊800~1000円　高さ2.5m迄2t車も可　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.2 ／ 立地 ★3.95 ／ 部屋 ★4.18 ／ 設備 ★3.99 ／ 風呂 ★3.91</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -469,7 +469,7 @@ export default function KurashikiBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/799/799_tw.jpg" alt="倉敷シーサイドホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>瀬戸内海を眺望できる大浴場サウナ付きホテル。夏はプール営業やガーデンBBQあり。研修施設充実。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岡山県倉敷市児島塩生2767-21 ／ 最寄り駅：児島 ／ 交通案内：■水島ICから車15分■水島工場C地区に隣接■鷲羽山ハイランドまで車10分■倉敷由加山まで車30分■駐車場無料■</p>
+                  <p><strong>【所在地・アクセス】</strong>岡山県倉敷市児島塩生2767-21 ／ 最寄り駅：児島 ／ 交通案内：■水島ICから車15分■水島工場C地区に隣接■鷲羽山ハイランドまで車10分■倉敷由加山まで車30分■駐車場無料■</p>
                   <p>【秋の倉敷美観地区×格安：白壁の町並み紅葉と大原美術館！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」】 <strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -491,7 +491,7 @@ export default function KurashikiBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/822/822.jpg" alt="ホテルグランヴィア岡山 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR岡山駅２階から連絡通路で直結。全室無線LAN（WI-FI）接続が無料でご利用いただけます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岡山県岡山市北区駅元町1-5 ／ 最寄り駅：岡山 ／ 交通案内：JR岡山駅直結（徒歩1分）／山陽自動車道　岡山ICより車で20分／岡山空港より車で30分</p>
+                  <p><strong>【所在地・アクセス】</strong>岡山県岡山市北区駅元町1-5 ／ 最寄り駅：岡山 ／ 交通案内：JR岡山駅直結（徒歩1分）／山陽自動車道　岡山ICより車で20分／岡山空港より車で30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル地下に有り　171台　24時間1,300円　事前予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.54 ／ 部屋 ★4.46 ／ 設備 ★4.4 ／ 風呂 ★4.36</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -236,7 +236,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -681,11 +681,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：長崎名物・海鮮ちゃんぽん＆卓袱料理！雲仙地獄・小浜温泉の絶景名湯宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：長崎名物・海鮮ちゃんぽん＆卓袱料理！雲仙地獄・小浜温泉の絶景名湯宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：長崎名物・海鮮ちゃんぽん＆卓袱料理！雲仙地獄・小浜温泉の絶景名湯宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -767,7 +767,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/6000/6000_k.jpg" alt="雲仙温泉　名湯の宿　　雲仙いわき旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【避暑にもオススメの雲仙エリア！】雲仙地獄まで徒歩3分！源泉100%かけ流しの名湯をどうぞ</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長崎県雲仙市小浜町雲仙318 ／ 最寄り駅：諫早 ／ 交通案内：JR長崎本線諌早駅よりバスにて80分（雲仙行）</p>
+                  <p><strong>【所在地・アクセス】</strong>長崎県雲仙市小浜町雲仙318 ／ 最寄り駅：諫早 ／ 交通案内：JR長崎本線諌早駅よりバスにて80分（雲仙行）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　25台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -789,7 +789,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/41803/41803_kan1.jpg" alt="雲仙温泉・源泉かけ流し＆おしどりの池を望む美食の宿　東園 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>和の贅を尽くした客室からの眺めが素晴らしい。湯処「莉園」は池を一望することが出来るかけ流し温泉です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長崎県雲仙市小浜町雲仙181 ／ 最寄り駅：諫早 ／ 交通案内：諫早駅より路線バスで８０分</p>
+                  <p><strong>【所在地・アクセス】</strong>長崎県雲仙市小浜町雲仙181 ／ 最寄り駅：諫早 ／ 交通案内：諫早駅より路線バスで８０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>８０台収容の自社無料駐車場がございます。（予約不要）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -811,7 +811,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31933/31933_lo.jpg" alt="雲仙温泉　雲仙スカイホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>雲仙国立公園温泉街の中心に位置する温泉旅館。雲仙地蔵入口徒歩１分、源泉掛け流し大浴場露天風呂が自慢</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長崎県雲仙市小浜町雲仙323-1 ／ 最寄り駅：主要駅 ／ 交通案内：島鉄バス　雲仙営業所前／長崎自動車道　諫早インターより車にて６０分／島原港より車にて４０分</p>
+                  <p><strong>【所在地・アクセス】</strong>長崎県雲仙市小浜町雲仙323-1 ／ 交通案内：島鉄バス　雲仙営業所前／長崎自動車道　諫早インターより車にて６０分／島原港より車にて４０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　２０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -833,7 +833,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31749/31749_w.jpg" alt="雲仙温泉　ゆやど　雲仙新湯 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【美肌の湯】 は、どこよりも濃く。 “最上のご褒美” をお届け。個室食プラン、露天風呂付きプランあり</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長崎県雲仙市小浜町雲仙320 ／ 最寄り駅：諫早 ／ 交通案内：ＪＲ諫早駅より車で60分、長崎空港から車で90分</p>
+                  <p><strong>【所在地・アクセス】</strong>長崎県雲仙市小浜町雲仙320 ／ 最寄り駅：諫早 ／ 交通案内：ＪＲ諫早駅より車で60分、長崎空港から車で90分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>５０台まで、無料でご利用いただけます。　※先着順でご案内</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -855,7 +855,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/28126/28126_wa.jpg" alt="雲仙温泉　雲仙宮崎旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【2022年12月新築リニューアル】雲の中のラグジュアリーリゾート</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長崎県雲仙市小浜町雲仙320番地 ／ 最寄り駅：諫早 ／ 交通案内：ＪＲ諫早駅下車バス８０分、長崎自動車道諫早ICより島原道路へ乗換え長野ICより車で５０分</p>
+                  <p><strong>【所在地・アクセス】</strong>長崎県雲仙市小浜町雲仙320番地 ／ 最寄り駅：諫早 ／ 交通案内：ＪＲ諫早駅下車バス８０分、長崎自動車道諫早ICより島原道路へ乗換え長野ICより車で５０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３９台　有料1台1泊500円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

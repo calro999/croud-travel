@@ -236,7 +236,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -681,11 +681,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：春の味覚の王様！揚げたてサクサク山菜天ぷら＆摘みたて山菜尽くし会席の秘湯宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：春の味覚の王様！揚げたてサクサク山菜天ぷら＆摘みたて山菜尽くし会席の秘湯宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：春の味覚の王様！揚げたてサクサク山菜天ぷら＆摘みたて山菜尽くし会席の秘湯宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -767,7 +767,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/30970/30970_ro.jpg" alt="奥札幌の秘湯　湖畔の宿支笏湖　丸駒温泉旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【2024,2025年連続アワード受賞宿】2024年リニューアル、国立公園の絶景温泉とサウナが自慢</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道千歳市幌美内7番地 ／ 最寄り駅：千歳（北海道） ／ 交通案内：ＪＲ千歳駅／新千歳空港より車で５０分、札幌市内、エスコンフィールド、苫小牧港から車で６０分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道千歳市幌美内7番地 ／ 最寄り駅：千歳（北海道） ／ 交通案内：ＪＲ千歳駅／新千歳空港より車で５０分、札幌市内、エスコンフィールド、苫小牧港から車で６０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場は50台分ございます。料金は無料です。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.4 ／ 立地 ★4.6 ／ 部屋 ★4.21 ／ 設備 ★4.24 ／ 風呂 ★4.61 ／ 食事 ★4.44</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -789,7 +789,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/39975/39975_wa.jpg" alt="養老温泉　秘湯の宿　滝見苑 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>名瀑、粟又の滝近くの温泉宿。高台にある見晴らしの良い露天風呂からは養老渓谷の山並みが一望できます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 千葉県夷隅郡大多喜町粟又5 ／ 最寄り駅：養老渓谷 ／ 交通案内：小湊鉄道線　養老渓谷駅よりバスで２５分／いすみ鉄道又は小湊鉄道　上総中野駅より車で１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>千葉県夷隅郡大多喜町粟又5 ／ 最寄り駅：養老渓谷 ／ 交通案内：小湊鉄道線　養老渓谷駅よりバスで２５分／いすみ鉄道又は小湊鉄道　上総中野駅より車で１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　道路沿い-大型バス兼宿泊者専用駐車場もしくはフロント前にお停め下さいませ。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.27 ／ 立地 ★4.2 ／ 部屋 ★4.17 ／ 設備 ★4.09 ／ 風呂 ★4.4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -811,7 +811,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/73931/73931_a.jpg" alt="秘湯　花文（旧燕温泉　ホテル花文） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>絶景の露天風呂は源泉掛け流しの白いにごり湯■２階大浴場リニューアル完了しました</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県妙高市関山6087 ／ 最寄り駅：関山 ／ 交通案内：関山駅からバス乗車し20分。妙高高原ICより車で30分(冬季45分)</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県妙高市関山6087 ／ 最寄り駅：関山 ／ 交通案内：関山駅からバス乗車し20分。妙高高原ICより車で30分(冬季45分)</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１４台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -833,7 +833,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/149172/149172_kan1.jpg" alt="日本三秘湯　谷地温泉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>八甲田山中にある開湯４００年の歴史を誇る温泉で、日本三秘湯としても知られる。足下自噴の源泉かけ流し泉</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 青森県十和田市法量谷地1 ／ 最寄り駅：青森 ／ 交通案内：JR青森駅よりJRバス約120分／青森空港から車で60分／無料バス有※要予約（夏季：青森駅-新青森駅／冬季：八戸駅より）</p>
+                  <p><strong>【所在地・アクセス】</strong>青森県十和田市法量谷地1 ／ 最寄り駅：青森 ／ 交通案内：JR青森駅よりJRバス約120分／青森空港から車で60分／無料バス有※要予約（夏季：青森駅-新青森駅／冬季：八戸駅より）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料　予約不要【マップコード：704 471 581*58】</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -855,7 +855,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5144/5144_heya.jpg" alt="塩原元湯温泉　秘湯の宿　元泉館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>乳白色など３本の自家源泉と渓流沿の露天風呂が自。慢飲泉も可。塩原温泉発祥･元湯の秘湯ムード溢れる宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県那須塩原市湯本塩原101 ／ 最寄り駅：上三依塩原 ／ 交通案内：JR塩原温泉バスターミナルよりタクシーで１３分。</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県那須塩原市湯本塩原101 ／ 最寄り駅：上三依塩原 ／ 交通案内：JR塩原温泉バスターミナルよりタクシーで１３分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.24 ／ 立地 ★4.48 ／ 部屋 ★4.03 ／ 設備 ★4 ／ 風呂 ★4.69 ／ 食事 ★4.35</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

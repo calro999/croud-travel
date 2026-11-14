@@ -228,11 +228,11 @@ export default function ScenicViewHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大夜景＆摩天楼パノラマ宿：函館・長崎・神戸・横浜・東京高層ホテル 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本三大夜景＆摩天楼パノラマ宿：函館・長崎・神戸・横浜・東京高層ホテル 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「日本三大夜景＆摩天楼パノラマ宿：函館・長崎・神戸・横浜・東京高層ホテル 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function ScenicViewHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/108257/108257_ky1.jpg" alt="稲佐山温泉　ホテルアマンディ　〜長崎の日本三大夜景を一望〜 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>日本三大夜景を一望！100％源泉の露天風呂や岩盤浴が人気のリゾートホテル。駐車場無料・Wi-Fi完備</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長崎県長崎市曙町39-38 ／ 最寄り駅：長崎（長崎） ／ 交通案内：JR長崎駅からお車で7分。長崎バス5番系統「稲佐山」または「稲佐山中腹」行きバス乗車　無料送迎バス有</p>
+                  <p><strong>【所在地・アクセス】</strong>長崎県長崎市曙町39-38 ／ 最寄り駅：長崎（長崎） ／ 交通案内：JR長崎駅からお車で7分。長崎バス5番系統「稲佐山」または「稲佐山中腹」行きバス乗車　無料送迎バス有</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１２０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.99 ／ 立地 ★4.12 ／ 部屋 ★3.87 ／ 設備 ★3.7 ／ 風呂 ★3.99 ／ 食事 ★4.03</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function ScenicViewHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8438/8438_room.jpg" alt="稲佐山観光ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>長崎の夜景を最高にお楽しみいただけます。季節感を大切にしたお料理をご提供！全館無料Wi-Fi接続</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長崎県長崎市曙町40-23 ／ 最寄り駅：長崎（長崎） ／ 交通案内：ＪＲ長崎駅より車で10分◆長崎駅から「稲佐山高部」行きバス「観光ホテル前」下車◆長崎駅から無料送迎有（1日2便、要予約）</p>
+                  <p><strong>【所在地・アクセス】</strong>長崎県長崎市曙町40-23 ／ 最寄り駅：長崎（長崎） ／ 交通案内：ＪＲ長崎駅より車で10分◆長崎駅から「稲佐山高部」行きバス「観光ホテル前」下車◆長崎駅から無料送迎有（1日2便、要予約）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有 ６０台（1泊1台1,000円）※電気自動車急速充電設備あり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.38 ／ 立地 ★4.44 ／ 部屋 ★4.37 ／ 設備 ★4.18 ／ 風呂 ★4.11 ／ 食事 ★4.36</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function ScenicViewHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/198507/198507.jpg" alt="大江戸温泉物語Ｐｒｅｍｉｕｍ　長崎ホテル清風（２０２６年４月２９日リニューアルオープン） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>露天風呂や客室、プレミアムラウンジから世界新三大夜景を望む温泉ホテル</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長崎県長崎市大鳥町523 ／ 最寄り駅：長崎（長崎） ／ 交通案内：JR長崎駅より送迎バスで約15分、長崎自動車道 長崎ICより約20分</p>
+                  <p><strong>【所在地・アクセス】</strong>長崎県長崎市大鳥町523 ／ 最寄り駅：長崎（長崎） ／ 交通案内：JR長崎駅より送迎バスで約15分、長崎自動車道 長崎ICより約20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>あり　約80台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function ScenicViewHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/188465/188465.jpg" alt="長崎マリオットホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>稲佐山と長崎港を望む抜群の立地に客船を思わせる外観の「長崎マリオットホテル」が誕生します。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長崎県長崎市尾上町1-1 ／ 最寄り駅：長崎（長崎） ／ 交通案内：JR長崎駅かもめ口より徒歩約１分</p>
+                  <p><strong>【所在地・アクセス】</strong>長崎県長崎市尾上町1-1 ／ 最寄り駅：長崎（長崎） ／ 交通案内：JR長崎駅かもめ口より徒歩約１分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>アミュプラザ長崎立体駐車場をご利用いただけます。(宿泊者料金：当日13時～翌日13時　3,000円)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function ScenicViewHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/104705/104705_spa.jpg" alt="ホテル　ラ・スイート神戸ハーバーランド 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全64室が70㎡以上の大型ジャグジー＆テラス付オーシャンンビュールームのラグジュアリーホテル。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県神戸市中央区波止場町7-2 ／ 最寄り駅：神戸（兵庫） ／ 交通案内：JR「神戸駅」より徒歩約10分／地下鉄海岸線「みなと元町駅」より徒歩約4分／阪神高速3号神戸線「京橋出入口」より車約5分</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県神戸市中央区波止場町7-2 ／ 最寄り駅：神戸（兵庫） ／ 交通案内：JR「神戸駅」より徒歩約10分／地下鉄海岸線「みなと元町駅」より徒歩約4分／阪神高速3号神戸線「京橋出入口」より車約5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>57台(屋内46台、屋外11台) 1000円/泊</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function ScenicViewHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1648/1648_sgl.jpg" alt="ホテルオークラ神戸 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>神戸ポートタワーのとなり、35階建てホテル。夜景が自慢。ホテル～三宮間無料シャトルバス毎日運行</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県神戸市中央区波止場町2-1  メリケンパーク内 ／ 最寄り駅：元町（兵庫） ／ 交通案内：ＪＲ神戸線・阪神線 元町駅から徒歩で10分。 新幹線 新神戸駅から 車で15分。</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県神戸市中央区波止場町2-1  メリケンパーク内 ／ 最寄り駅：元町（兵庫） ／ 交通案内：ＪＲ神戸線・阪神線 元町駅から徒歩で10分。 新幹線 新神戸駅から 車で15分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>1泊1500円 ※予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

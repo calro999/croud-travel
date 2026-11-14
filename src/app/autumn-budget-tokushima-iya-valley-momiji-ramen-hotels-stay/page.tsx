@@ -284,11 +284,11 @@ export default function AutumnBudgetTokushimaHotelsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">徳島：大歩危・祖谷渓の秘境紅葉と阿波尾鶏！4,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「徳島：大歩危・祖谷渓の秘境紅葉と阿波尾鶏！4,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「徳島：大歩危・祖谷渓の秘境紅葉と阿波尾鶏！4,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -361,7 +361,7 @@ export default function AutumnBudgetTokushimaHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/202210/202210.jpg" alt="ＣＯＺＹ　ＣＯＭＦＯＲＴＳ　ＨＯＴＥＬ（コージーコンフォーツホテル）２０２６年８月８日新規オープン 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★令和８年８月８日★新築グランドオープン！〜デザイン性と快適性を兼ね備え快適なご滞在をお届けします〜</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 徳島県徳島市仲之町1-40 ／ 最寄り駅：徳島 ／ 交通案内：JR徳島駅より車で約4分／徳島阿波おどり空港より車で約25分／徳島最大の歓楽街「秋田町」徒歩1分</p>
+                  <p><strong>【所在地・アクセス】</strong>徳島県徳島市仲之町1-40 ／ 最寄り駅：徳島 ／ 交通案内：JR徳島駅より車で約4分／徳島阿波おどり空港より車で約25分／徳島最大の歓楽街「秋田町」徒歩1分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル専用P(先着順)または提携P（平日･日祝：1000円、金土･祝前：1500円）※お盆期間除く</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.29 ／ 立地 ★4 ／ 部屋 ★4.22 ／ 設備 ★4.03 ／ 風呂 ★3.97</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -383,7 +383,7 @@ export default function AutumnBudgetTokushimaHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4721/4721_heya.jpg" alt="ＪＲホテルクレメント徳島 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ＪＲ徳島駅直結の好立地なシティーホテル</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 徳島県徳島市寺島本町西1-61 ／ 最寄り駅：徳島 ／ 交通案内：ＪＲ徳島駅直結０分・高速バス降り場より徒歩１分・徳島阿波おどり空港より車で約30分・徳島Ｉ．Ｃ．から車で１５分。</p>
+                  <p><strong>【所在地・アクセス】</strong>徳島県徳島市寺島本町西1-61 ／ 最寄り駅：徳島 ／ 交通案内：ＪＲ徳島駅直結０分・高速バス降り場より徒歩１分・徳島阿波おどり空港より車で約30分・徳島Ｉ．Ｃ．から車で１５分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>1泊1台1,300円(24時間入出庫可能)※2026/4/1より1,300円へ変更になりました</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -405,7 +405,7 @@ export default function AutumnBudgetTokushimaHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/187619/187619.jpg" alt="天空のスカイビューホテル　眉山海月 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>絶景レストランで徳島グルメのビュッフェを堪能。お部屋から望む夜景は最高！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 徳島県徳島市八万町中津山3-70 ／ 最寄り駅：徳島 ／ 交通案内：JR徳島駅から車で約15分【駐車場無料】。無料送迎は徳島駅、眉山ロープウェイ　山頂駅にて（前日までの事前予約が必要）</p>
+                  <p><strong>【所在地・アクセス】</strong>徳島県徳島市八万町中津山3-70 ／ 最寄り駅：徳島 ／ 交通案内：JR徳島駅から車で約15分【駐車場無料】。無料送迎は徳島駅、眉山ロープウェイ　山頂駅にて（前日までの事前予約が必要）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　60台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.37 ／ 立地 ★4.49 ／ 部屋 ★4.35 ／ 設備 ★4.22 ／ 風呂 ★4.29 ／ 食事 ★4.5</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -427,7 +427,7 @@ export default function AutumnBudgetTokushimaHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9417/9417_room.jpg" alt="ホテル　グランドパレス徳島 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>徳島駅より徒歩３分の市中心部に位置し、観光ビジネスに便利。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 徳島県徳島市寺島本町西1-60-1 ／ 最寄り駅：徳島 ／ 交通案内：ＪＲ徳島駅より徒歩３分。徳島空港より車で２０分。</p>
+                  <p><strong>【所在地・アクセス】</strong>徳島県徳島市寺島本町西1-60-1 ／ 最寄り駅：徳島 ／ 交通案内：ＪＲ徳島駅より徒歩３分。徳島空港より車で２０分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.36 ／ 立地 ★4.35 ／ 部屋 ★4.37 ／ 設備 ★4.27 ／ 風呂 ★4.17 ／ 食事 ★4.48</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

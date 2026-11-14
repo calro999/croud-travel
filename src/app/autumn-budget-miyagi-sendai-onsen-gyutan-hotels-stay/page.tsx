@@ -317,11 +317,11 @@ export default function SendaiBudgetAutumnPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋の仙台×格安：定禅寺通りのケヤキ紅葉と牛たんグルメ！天然温泉付き1泊4,000円台〜のコスパ最強おすすめホテル5選「2026最新」！天然温泉付き1泊4,000円台〜のコスパ最強おすすめホテル5選「2026最新」！天然温泉付き1泊4,000円台〜のコスパ最強おすすめホテル5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「秋の仙台×格安：定禅寺通りのケヤキ紅葉と牛たんグルメ！天然温泉付き1泊4,000円台〜のコスパ最強おすすめホテル5選「2026最新」！天然温泉付き1泊4,000円台〜のコスパ最強おすすめホテル5選「2026最新」！天然温泉付き1泊4,000円台〜のコスパ最強おすすめホテル5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「秋の仙台×格安：定禅寺通りのケヤキ紅葉と牛たんグルメ！天然温泉付き1泊4,000円台〜のコスパ最強おすすめホテル5選「2026最新」！天然温泉付き1泊4,000円台〜のコスパ最強おすすめホテル5選「2026最新」！天然温泉付き1泊4,000円台〜のコスパ最強おすすめホテル5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -394,7 +394,7 @@ export default function SendaiBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/191668/191668.jpg" alt="スーパーホテル仙台駅東口天然温泉 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【仙台駅徒歩5分の好立地】天然温泉◆無料健康朝食とウェルカムバー◆ぐっすり眠れるホテル◆全館禁煙</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮城県仙台市宮城野区名掛丁203-12 ／ 最寄り駅：仙台 ／ 交通案内：仙台駅東口より徒歩で約５分/北部名掛丁自由通路」を通り出口を出てから徒歩2分/高速バス「仙台駅前」のりばから徒歩5分</p>
+                  <p><strong>【所在地・アクセス】</strong>宮城県仙台市宮城野区名掛丁203-12 ／ 最寄り駅：仙台 ／ 交通案内：仙台駅東口より徒歩で約５分/北部名掛丁自由通路」を通り出口を出てから徒歩2分/高速バス「仙台駅前」のりばから徒歩5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無し（近隣コインパーキングをご利用ください）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.59 ／ 立地 ★4.44 ／ 部屋 ★4.47 ／ 設備 ★4.44 ／ 風呂 ★4.42 ／ 食事 ★4.43</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -416,7 +416,7 @@ export default function SendaiBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/69306/69306_s.jpg" alt="天然温泉　弦月の湯　スーパーホテル仙台・広瀬通り 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>仙台駅徒歩約8分、広瀬通駅徒歩1分、国分町5分。天然温泉付で朝食無料。全室WiFi完備</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮城県仙台市青葉区中央2-9-23 ／ 最寄り駅：仙台 ／ 交通案内：地下鉄　広瀬通り駅より徒歩で約3分／ＪＲ　仙台駅より徒歩で15分　繁華街国分町徒歩10分</p>
+                  <p><strong>【所在地・アクセス】</strong>宮城県仙台市青葉区中央2-9-23 ／ 最寄り駅：仙台 ／ 交通案内：地下鉄　広瀬通り駅より徒歩で約3分／ＪＲ　仙台駅より徒歩で15分　繁華街国分町徒歩10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>当館に駐車場はございませんので、予約等は一切承っておりません。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -438,7 +438,7 @@ export default function SendaiBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/187247/187247.jpg" alt="スーパーホテルＰｒｅｍｉｅｒ仙台国分町天然温泉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>美人の湯と呼ばれる天然温泉とサステナブルな朝食を堪能できる上質なホテルで国分町の夜をお楽しみください</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮城県仙台市青葉区国分町2-13-5 ／ 最寄り駅：勾当台公園 ／ 交通案内：地下鉄南北線「勾当台公園駅」南出口3より徒歩6分/地下鉄東西線「青葉通一番町」より徒歩10分/「仙台宮城IC」より車6分</p>
+                  <p><strong>【所在地・アクセス】</strong>宮城県仙台市青葉区国分町2-13-5 ／ 最寄り駅：勾当台公園 ／ 交通案内：地下鉄南北線「勾当台公園駅」南出口3より徒歩6分/地下鉄東西線「青葉通一番町」より徒歩10分/「仙台宮城IC」より車6分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場●大仙台駐車場 1200円/1泊●松葉屋駐車場1300円～/1泊【駐輪場はございません】</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -460,7 +460,7 @@ export default function SendaiBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/57055/57055_o.jpg" alt="天然温泉　萩の湯　ドーミーイン仙台駅前（ドーミーイン・御宿野乃　ホテルズグループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>天然温泉大浴場と高温サウナ完備。アイス乳酸菌飲料無料サービスと朝食 は海鮮丼と和洋食バイキング！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮城県仙台市青葉区本町1-5-38 ／ 最寄り駅：仙台 ／ 交通案内：JR仙台駅西口より徒歩約5分。東北道宮城ＩＣより１５分。仙台空港線で約３０分。高速バス停留所より徒歩２分。駅前通沿い。</p>
+                  <p><strong>【所在地・アクセス】</strong>宮城県仙台市青葉区本町1-5-38 ／ 最寄り駅：仙台 ／ 交通案内：JR仙台駅西口より徒歩約5分。東北道宮城ＩＣより１５分。仙台空港線で約３０分。高速バス停留所より徒歩２分。駅前通沿い。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>平面駐車場１泊2,000円(15台分)高さ２．３ｍ以下まで（要電話予約）満車時は近隣駐車場案内</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

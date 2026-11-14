@@ -77,7 +77,7 @@ export default function ArticlePage() {
             大分・別府温泉ひとり旅＆源泉かけ流しおこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「別府温泉ひとり旅・名湯おこもり」別府湾パノラマ露天・源泉かけ流し・豊後牛！湯けむり湧く日本一の温泉都に癒やされる厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               日本屈指の温泉天国・別府。別府八湯と呼ばれる多様な泉質を持ち、古くから多くの旅人を癒やしてきたこの街は、一人旅で気ままに湯めぐりを楽しむのに最高の舞台です。
             </p>
             <p>
-              別府湾のオーシャンビューを望む展望露天風呂宿から、高原の澄んだ大自然に抱かれるリゾートまで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              別府湾のオーシャンビューを望む展望露天風呂宿から、高原の澄んだ大自然に抱かれるリゾートまで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -386,10 +386,10 @@ export default function ArticlePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/yamagata/"
+                href="/prefectures/oita/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                山形県の宿・温泉
+                大分県の宿・温泉
               </Link>
               <Link
                 href="/prefectures/oita/"
@@ -418,11 +418,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">別府温泉ひとり旅・名湯おこもり：別府湾パノラマ露天・源泉かけ流し・豊後牛！湯けむり湧く日本一の温泉都に癒やされる厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「別府温泉ひとり旅・名湯おこもり：別府湾パノラマ露天・源泉かけ流し・豊後牛！湯けむり湧く日本一の温泉都に癒やされる厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「別府温泉ひとり旅・名湯おこもり：別府湾パノラマ露天・源泉かけ流し・豊後牛！湯けむり湧く日本一の温泉都に癒やされる厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -486,7 +486,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/196409/196409.jpg" alt="別府温泉　ホテル三泉閣 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【2025年5月全館リニューアルオープン】別府の歴史と文化が息づく地に新たな温泉リゾート</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大分県別府市北浜3-6-23 ／ 最寄り駅：別府（大分） ／ 交通案内：JR別府駅より徒歩にて約10分（タクシーにて約3分）／別府国際観光港よりタクシーにて約6分／別府ICより車で約10分</p>
+                  <p><strong>【所在地・アクセス】</strong>大分県別府市北浜3-6-23 ／ 最寄り駅：別府（大分） ／ 交通案内：JR別府駅より徒歩にて約10分（タクシーにて約3分）／別府国際観光港よりタクシーにて約6分／別府ICより車で約10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（500円／泊）予約不可・先着順。※トキハ駐車場は途中出庫不可・チェックイン時に駐車券を要提示</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -508,7 +508,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/54697/54697_kan.jpg" alt="別府温泉　悠彩の宿　望海 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>夕食は贅沢な会席料理を「お部屋食」にてご提供♪　温泉施設も令和６年１２月に最新の設備に&amp;amp;#9832;</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大分県別府市北浜3-8-7 ／ 最寄り駅：別府（大分） ／ 交通案内：JR別府駅より徒歩15分またはタクシーで3分。別府ＩＣより車で15分。大分空港よりバスで45分-バス停より徒歩5分。</p>
+                  <p><strong>【所在地・アクセス】</strong>大分県別府市北浜3-8-7 ／ 最寄り駅：別府（大分） ／ 交通案内：JR別府駅より徒歩15分またはタクシーで3分。別府ＩＣより車で15分。大分空港よりバスで45分-バス停より徒歩5分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　３０台（無料）お車はスタッフが駐車場までご移動しますので、玄関前にお着けください</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -530,7 +530,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7084/7084_war.jpg" alt="別府城島温泉　城島高原ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>阿蘇くじゅう国立公園に立地、温泉・ゴルフ場・城島高原パークを併設した高原リゾート／テレワークにも最適</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大分県別府市城島高原123番地 ／ 最寄り駅：別府（大分） ／ 交通案内：大分空港より車にて60分／JR別府駅より車にて25分／別府ICより車にて15分/JR由布院駅より車にて15分</p>
+                  <p><strong>【所在地・アクセス】</strong>大分県別府市城島高原123番地 ／ 最寄り駅：別府（大分） ／ 交通案内：大分空港より車にて60分／JR別府駅より車にて25分／別府ICより車にて15分/JR由布院駅より車にて15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>82台　（ご宿泊のお客様は無料でご利用いただけます。）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.35 ／ 立地 ★4.32 ／ 部屋 ★4.29 ／ 設備 ★4.11 ／ 風呂 ★4.23 ／ 食事 ★4.26</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

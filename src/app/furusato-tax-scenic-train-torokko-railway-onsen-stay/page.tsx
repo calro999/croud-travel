@@ -592,11 +592,11 @@ export default function FurusatoFeaturePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">絶景ローカル線＆トロッコ列車めぐり温泉宿×ふるさと納税厳選ガイドわたらせ・大井川SL・只見線の鉄道旅：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「絶景ローカル線＆トロッコ列車めぐり温泉宿×ふるさと納税厳選ガイドわたらせ・大井川SL・只見線の鉄道旅」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「絶景ローカル線＆トロッコ列車めぐり温泉宿×ふるさと納税厳選ガイドわたらせ・大井川SL・只見線の鉄道旅」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -661,7 +661,7 @@ export default function FurusatoFeaturePage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 会津柳津温泉　瀞流の宿　かわち</td>
-                <td className="p-3 text-stone-600">福島県</td>
+                <td className="p-3 text-stone-600">福島県 河沼郡柳津町柳津下平乙150-1</td>
                 <td className="p-3 text-stone-600">磐越自動車道『会津坂下IC』下車R252直進5分/只見線『会津柳津駅』</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.57（402件）</td>
@@ -687,7 +687,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/12550/12550_room.jpg" alt="梨木温泉　梨木館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>赤城山の麓、周囲に民家も街灯もない豊かな自然のなかに建つ一軒宿。名物はきじ料理。露天風呂付客室が人気</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県桐生市黒保根町宿廻285 ／ 最寄り駅：本宿（群馬） ／ 交通案内：北関東道『太田藪塚IC』より40分 / わたらせ渓谷鉄道『本宿駅・梨木温泉』より無料送迎（約10分・当日要予約）</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県桐生市黒保根町宿廻285 ／ 最寄り駅：本宿（群馬） ／ 交通案内：北関東道『太田藪塚IC』より40分 / わたらせ渓谷鉄道『本宿駅・梨木温泉』より無料送迎（約10分・当日要予約）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>敷地内に約70台分有、無料でご利用いただけます。　★お一人様1台でもOKです★</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -709,7 +709,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/196174/196174.jpg" alt="足尾の宿　かじか 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>百名山「皇海山」麓に佇む湯宿。絶景の露天風呂でとろとろの湯に癒され、何度も訪れたくなる心地よさ</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県日光市足尾町5488 ／ 最寄り駅：通洞 ／ 交通案内：わたらせ渓谷鉄道 通洞駅からの送迎サービスが利用できます。※事前要予約</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県日光市足尾町5488 ／ 最寄り駅：通洞 ／ 交通案内：わたらせ渓谷鉄道 通洞駅からの送迎サービスが利用できます。※事前要予約</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り２０台無料　予約不要　※当館までの道は一部、夜間は特に見通しが悪くなります。お気を付けください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -731,7 +731,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/25123/25123_w.jpg" alt="ビジネスホテル西桐生 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>駐車場無料×温泉あり 最寄り駅も徒歩圏内の好立地！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県桐生市永楽町4-14 ／ 最寄り駅：桐生 ／ 交通案内：ＪＲ桐生駅 北口より３分</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県桐生市永楽町4-14 ／ 最寄り駅：桐生 ／ 交通案内：ＪＲ桐生駅 北口より３分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>１０台　無料 ※駐車場が満車時は当館より徒歩1分の第二駐車場をご案内します。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -753,7 +753,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/138045/138045_room.jpg" alt="倉真温泉　落合荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>掛川市の隠れ宿。素朴な山里に湧き出るいで湯。心づくしのおもてなしと懐かしい風情でお楽しみ下さい。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県掛川市倉真5795 ／ 最寄り駅：掛川 ／ 交通案内：JR掛川駅からお車で15分/または掛川駅から倉真温泉行きバスで30分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県掛川市倉真5795 ／ 最寄り駅：掛川 ／ 交通案内：JR掛川駅からお車で15分/または掛川駅から倉真温泉行きバスで30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -775,7 +775,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/129884/129884_ru1.jpg" alt="倉真温泉　翆月 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>名物・お茶しゃぶしゃぶが人気です！１日５部屋の丁寧なおもてなしです◎</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県掛川市倉真5325 ／ 最寄り駅：掛川 ／ 交通案内：掛川駅より倉真温泉行きバス終点を下車し徒歩２分！（バス乗車時間は２５分ほど）／お車にて約１５分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県掛川市倉真5325 ／ 最寄り駅：掛川 ／ 交通案内：掛川駅より倉真温泉行きバス終点を下車し徒歩２分！（バス乗車時間は２５分ほど）／お車にて約１５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -796,8 +796,8 @@ export default function FurusatoFeaturePage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/10686/10686_room.jpg" alt="会津柳津温泉　瀞流の宿　かわち 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「絶景ローカル線＆トロッコ列車めぐり温泉宿×ふるさと納税厳選ガイドわたらせ・大井川SL・只見線の鉄道旅」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：磐越自動車道『会津坂下IC』下車R252直進5分/只見線『会津柳津駅』</p>
+                  <p><strong>【宿の特徴・魅力】</strong>奥会津の玄関口、会津柳津温泉の宿。只見川の眺めや会津の郷土料理（桜刺し・鯉の甘煮・岩魚等）が楽しめる</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：磐越自動車道『会津坂下IC』下車R252直進5分/只見線『会津柳津駅』</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

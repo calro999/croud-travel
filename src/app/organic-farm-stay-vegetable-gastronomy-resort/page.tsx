@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/organic-farm-stay-vegetable-gastronomy-resort/"
   };
 
@@ -118,7 +118,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F78144%2F78144.html%26f_flg%3DPLAN",
     "hotelMinCharge": 44150,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/78144/78144.jpg",
-    "userReview": "絶景のロケーションとおもてなしに心から癒やされました。",
+    "userReview": "人吉温泉　旅館たから湯ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
     "reviewAverage": 4.4,
     "reviewCount": 17,
     "address": "熊本県人吉市温泉町2482",
@@ -270,23 +270,6 @@ export default function Page() {
             ))}
           </div>
         </section>
-
-        {/* 旅のQ&A */}
-        <section className="bg-white rounded-2xl p-6 md:p-8 border border-stone-200 shadow-sm space-y-4">
-          <h2 className="text-lg md:text-xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">よくある質問・失敗しない宿選び</h2>
-          <div className="space-y-4 text-sm">
-            <div className="border border-stone-100 rounded-xl p-4 bg-stone-50/50 space-y-2">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5"><span className="text-emerald-700 font-black">Q.</span> おすすめの予約時期やタイミングは？</h3>
-              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">人気の日程（連休や週末）は1〜2ヶ月前には満室になることが多いため、早期予約（早割プラン）の利用がおすすめです。また楽天トラベルの「5と0のつく日」キャンペーンを活用すると最大20%オフのクーポンが併用でき、最もお得に予約できます。
-              </p>
-            </div>
-            <div className="border border-stone-100 rounded-xl p-4 bg-stone-50/50 space-y-2">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5"><span className="text-emerald-700 font-black">Q.</span> 宿選びで失敗しないためのポイントは？</h3>
-              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">宿泊者レビューのお風呂・お食事・接客評価が4.3以上の宿を選ぶと満足度が非常に高くなります。またアクセス手段（送迎バスの有無など）やプランに含まれる特典を事前に確認しておくと安心です。
-              </p>
-            </div>
-          </div>
-        </section>
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -416,11 +399,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：採れたて無農薬野菜とローカルガストロノミー！自家農園が自慢のオーガニック美食宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：採れたて無農薬野菜とローカルガストロノミー！自家農園が自慢のオーガニック美食宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：採れたて無農薬野菜とローカルガストロノミー！自家農園が自慢のオーガニック美食宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -458,7 +441,7 @@ export default function Page() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 瀬見温泉　旅館　小川屋</td>
-                <td className="p-3 text-stone-600">宮城県</td>
+                <td className="p-3 text-stone-600">山形県最上郡最上町大堀990</td>
                 <td className="p-3 text-stone-600">瀬見温泉駅よりお車にて２分、徒歩にて１０分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.7（91件）</td>
@@ -476,7 +459,7 @@ export default function Page() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 越後屋旅館　＜宮城県＞</td>
-                <td className="p-3 text-stone-600">宮城県</td>
+                <td className="p-3 text-stone-600">宮城県大崎市鳴子温泉川渡24-9</td>
                 <td className="p-3 text-stone-600">車：古川ICより35分。電車：JR川渡温泉駅下車(suica不可)、徒</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.66（183件）</td>
@@ -502,7 +485,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/38542/38542_kya.jpg" alt="阿蘇内牧温泉　御料理旅館　親和苑 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>料理長が贈る美味しい芸術！【源泉掛け流し】露天風呂（男女別）／貸切家族風呂／離れ露天風呂付客室あり</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 熊本県阿蘇市内牧1354 ／ 最寄り駅：阿蘇 ／ 交通案内：肥後豊肥線　阿蘇駅より車で１５分程／肥後豊肥線　内牧駅より車で１５分程</p>
+                  <p><strong>【所在地・アクセス】</strong>熊本県阿蘇市内牧1354 ／ 最寄り駅：阿蘇 ／ 交通案内：肥後豊肥線　阿蘇駅より車で１５分程／肥後豊肥線　内牧駅より車で１５分程</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.68 ／ 立地 ★4.44 ／ 部屋 ★4.61 ／ 設備 ★4.46 ／ 風呂 ★4.18 ／ 食事 ★4.78</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -524,7 +507,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/108608/108608_wst.jpg" alt="三国温泉　ばんこ旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>三国サンセットビーチ目の前◆三国温泉×地元の海の幸×自家製野菜や手作り味噌を使った料理が自慢</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福井県坂井市三国町宿3-7-25 ／ 最寄り駅：三国港 ／ 交通案内：北陸新幹線「福井駅」→えちぜん鉄道「三国港駅」（最終駅）から徒歩で7分</p>
+                  <p><strong>【所在地・アクセス】</strong>福井県坂井市三国町宿3-7-25 ／ 最寄り駅：三国港 ／ 交通案内：北陸新幹線「福井駅」→えちぜん鉄道「三国港駅」（最終駅）から徒歩で7分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.68 ／ 立地 ★4.5 ／ 部屋 ★4.45 ／ 設備 ★4.41 ／ 風呂 ★4.59 ／ 食事 ★4.5</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -545,8 +528,8 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/128473/128473.jpg" alt="瀬見温泉　旅館　小川屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「採れたて無農薬野菜とローカルガストロノミー（自家農園が自慢のオーガニック美食宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：瀬見温泉駅よりお車にて２分、徒歩にて１０分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>【口コミ総合評価4.6】個室食＆貸切風呂で安心♪山形牛、馬刺し…山形の【ごっつぉ】を堪能！</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：瀬見温泉駅よりお車にて２分、徒歩にて１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -568,7 +551,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/78144/78144_kya.jpg" alt="人吉温泉　旅館たから湯 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>明治四十年から続く源泉掛け流しの良質の温泉が楽しめる旅館。温泉でくつろいだ後は、手作料理でおもてなし</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 熊本県人吉市温泉町2482 ／ 最寄り駅：人吉 ／ 交通案内：人吉ICから国道445号線を八代方向へ。宝来町交差点を左折、道なりに進む。突きあたりを左折して右手</p>
+                  <p><strong>【所在地・アクセス】</strong>熊本県人吉市温泉町2482 ／ 最寄り駅：人吉 ／ 交通案内：人吉ICから国道445号線を八代方向へ。宝来町交差点を左折、道なりに進む。突きあたりを左折して右手</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -589,8 +572,8 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/149096/149096.jpg" alt="越後屋旅館　＜宮城県＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「採れたて無農薬野菜とローカルガストロノミー（自家農園が自慢のオーガニック美食宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：車：古川ICより35分。電車：JR川渡温泉駅下車(suica不可)、徒歩約20分（駅から無料送迎あり：要連絡）</p>
+                  <p><strong>【宿の特徴・魅力】</strong>越後屋旅館 ＜宮城県＞（宮城県大崎市鳴子温泉川渡24-9）は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：車：古川ICより35分。電車：JR川渡温泉駅下車(suica不可)、徒歩約20分（駅から無料送迎あり：要連絡）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -601,6 +584,9 @@ export default function Page() {
             </div>
           </div></section>
 
+              <div className="my-8">
+          <ShareButtons title="【2026年】採れたて無農薬野菜とローカルガストロノミー！自家農園が自慢のオーガニック美食宿5選" url="https://croud-travel.pages.dev/organic-farm-stay-vegetable-gastronomy-resort/" />
+        </div>
       </main>
     
       <HubRelatedPosts currentSlug="organic-farm-stay-vegetable-gastronomy-resort" />

@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">山口・長門湯本温泉＆元乃隅神社：日本海望む123基赤鳥居・恩湯リノベ温泉街宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「山口・長門湯本温泉＆元乃隅神社：日本海望む123基赤鳥居・恩湯リノベ温泉街宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「山口・長門湯本温泉＆元乃隅神社：日本海望む123基赤鳥居・恩湯リノベ温泉街宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -270,7 +270,7 @@ export default function MicroTouristHubPage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 割烹旅館　寿美礼</td>
-                <td className="p-3 text-stone-600">山口県</td>
+                <td className="p-3 text-stone-600">山口県下関市竹崎町3-13-23</td>
                 <td className="p-3 text-stone-600">ＪＲ　下関駅より徒歩にて3分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.54（174件）</td>
@@ -296,7 +296,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7243/7243_heya.jpg" alt="長門湯本温泉　湯本観光ホテル　西京 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>広々とした大浴場や多彩な館内施設をお楽しみいただける温泉旅館■無料屋外駐車場100台収容可能！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山口県長門市深川湯本1051 ／ 最寄り駅：長門湯本 ／ 交通案内：中国道美称ICより車で30分／JR美祢線長門湯本駅より徒歩10分</p>
+                  <p><strong>【所在地・アクセス】</strong>山口県長門市深川湯本1051 ／ 最寄り駅：長門湯本 ／ 交通案内：中国道美称ICより車で30分／JR美祢線長門湯本駅より徒歩10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>屋外駐車場有り（無料）、乗用車100台収容可能</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -318,7 +318,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5670/5670_heya1.jpg" alt="長門湯本温泉　山村別館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>本場フィンランドのロウリュウ式バレルサウナ！四季を観望できる洋風造りの露天風呂を備えた宿です</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山口県長門市深川湯本字川尻533-1 ／ 最寄り駅：長門湯本 ／ 交通案内：マイカー・中国縦貫自動車道美称ＩＣより長門湯本車で３０分 ＪＲ長門湯本駅より徒歩１３分（送迎あり）</p>
+                  <p><strong>【所在地・アクセス】</strong>山口県長門市深川湯本字川尻533-1 ／ 最寄り駅：長門湯本 ／ 交通案内：マイカー・中国縦貫自動車道美称ＩＣより長門湯本車で３０分 ＪＲ長門湯本駅より徒歩１３分（送迎あり）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り60台 普通車無料※大型は11,000円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -339,8 +339,8 @@ export default function MicroTouristHubPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/76822/76822.jpg" alt="割烹旅館　寿美礼 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「山口・長門湯本温泉＆元乃隅神社（日本海望む123基赤鳥居・恩湯リノベ温泉街宿 厳選ガイド）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ　下関駅より徒歩にて3分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>とらふぐ、鮟鱇、鯨、雲丹など地消地産の食材を扱う、３代続く老舗の料理宿。人工温泉の貸切風呂も無料！</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：ＪＲ　下関駅より徒歩にて3分</p>
                   <p>【山口・長門湯本温泉＆元乃隅神社：日本海望む123基赤】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

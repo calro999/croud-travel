@@ -376,11 +376,11 @@ export default function AutumnBudgetHotelsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">長野駅前：善光寺秋詣＆信州りんご・戸隠そば！5,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「長野駅前：善光寺秋詣＆信州りんご・戸隠そば！5,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「長野駅前：善光寺秋詣＆信州りんご・戸隠そば！5,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -462,7 +462,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/107609/107609.jpg" alt="相鉄フレッサイン長野駅善光寺口 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>長野駅から徒歩2分！全室シモンズ製のベッドとロフテーの快眠枕を設置、全室カードキーシステムです。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県長野市南長野末広町1356 ／ 最寄り駅：長野 ／ 交通案内：長野駅(善光寺口）より徒歩2分！フロントは５Ｆ、ローソン長野駅前店の左側にある自動ドアを入りエレベーターで！</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県長野市南長野末広町1356 ／ 最寄り駅：長野 ／ 交通案内：長野駅(善光寺口）より徒歩2分！フロントは５Ｆ、ローソン長野駅前店の左側にある自動ドアを入りエレベーターで！</p>
                   <p><strong>【駐車場・マイカー利用】</strong>当ホテルに専用駐車場はございません。近隣駐車場をご利用下さい。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -484,7 +484,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5203/5203_twn.jpg" alt="ホテルアベスト長野駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR長野駅徒歩1分！☆全室フリーWIFI完備♪ウェルカムコーヒー・無料アメニティ多数</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県長野市末広町1362 ／ 最寄り駅：長野 ／ 交通案内：JR北陸新幹線・信越線「長野駅」善光寺口・長野電鉄「長野駅」より徒歩1分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県長野市末広町1362 ／ 最寄り駅：長野 ／ 交通案内：JR北陸新幹線・信越線「長野駅」善光寺口・長野電鉄「長野駅」より徒歩1分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>提携：ながの東急百貨店第一駐車場　15時～翌10時迄　700円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -506,7 +506,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/181252/181252.jpg" alt="天然温泉ホテルリブマックスＰＲＥＭＩＵＭ長野駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【2020年10月OPEN】ＪＲ信越線、北陸新幹線「長野」駅東口より徒歩約３分 ◇天然温泉＆サウナ◇</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県長野市大字栗田2145 ／ 最寄り駅：長野 ／ 交通案内：ＪＲ信越線／北陸新幹線　長野駅より徒歩にて約３分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県長野市大字栗田2145 ／ 最寄り駅：長野 ／ 交通案内：ＪＲ信越線／北陸新幹線　長野駅より徒歩にて約３分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -528,7 +528,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/187091/187091.jpg" alt="東横ＩＮＮ長野駅東口 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2023年オープン！綺麗な客室・14階ラウンジからの眺めと無料朝食をお楽しみください！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県長野市大字栗田2137 ／ 最寄り駅：長野 ／ 交通案内：JR「長野駅」東口から徒歩４分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県長野市大字栗田2137 ／ 最寄り駅：長野 ／ 交通案内：JR「長野駅」東口から徒歩４分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>34台　先着順　1000円/泊　延長100円/1h※休日休前日の延長不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.93 ／ 立地 ★3.93 ／ 部屋 ★4.01 ／ 設備 ★3.88 ／ 風呂 ★3.82 ／ 食事 ★3.85</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -550,7 +550,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/108383/108383room1.jpg" alt="東横ＩＮＮ長野駅善光寺口 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>長野駅から徒歩３分で朝食・小学生以下添い寝無料のホテル！善光寺まで車/バスで15分</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県長野市南長野南石堂町１３１５－８ ／ 最寄り駅：長野 ／ 交通案内：長野駅善光寺口より徒歩３分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県長野市南長野南石堂町１３１５－８ ／ 最寄り駅：長野 ／ 交通案内：長野駅善光寺口より徒歩３分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>立体駐車場　60台　先着順　※駐輪場はありません</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

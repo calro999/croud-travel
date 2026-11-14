@@ -536,11 +536,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大茅葺きの里＆原風景ノスタルジー宿×ふるさと納税ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本三大茅葺きの里＆原風景ノスタルジー宿×ふるさと納税ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「日本三大茅葺きの里＆原風景ノスタルジー宿×ふるさと納税ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -560,7 +560,7 @@ export default function Page() {
               <tbody className="divide-y divide-stone-200">
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 京都美山　料理旅館　枕川楼</td>
-                <td className="p-3 text-stone-600">福島県</td>
+                <td className="p-3 text-stone-600">京都府南丹市美山町中上前26</td>
                 <td className="p-3 text-stone-600">JR山陰線　日吉駅よりバス60分、京都縦貫自動車道　園部ICより車50</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4（48件）</td>
@@ -603,12 +603,12 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/104819/104819.jpg" alt="京都美山　料理旅館　枕川楼 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「日本三大茅葺きの里＆原風景ノスタルジー宿×ふるさと納税ガイド」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：JR山陰線　日吉駅よりバス60分、京都縦貫自動車道　園部ICより車50分、京都市内より車90分。</p>
+                  <p><strong>【宿の特徴・魅力】</strong>日本三大茅葺きの里＆原風景ノスタルジー宿×ふるさと納税ガイドエリアの宿泊施設別スペック＆滞在チェックポイントは、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：JR山陰線　日吉駅よりバス60分、京都縦貫自動車道　園部ICより車50分、京都市内より車90分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「絶景のロケーションとおもてなしに心から癒やされました。」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「京都美山 料理旅館 枕川楼での快適な滞在とアクセス面の良さに満足したという評価が寄せられています。」
                   </blockquote>
                 </div>
               </div>
@@ -626,7 +626,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8395/8395_room.jpg" alt="会津湯野上温泉　ホテル大坂屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>24時間入浴可能♪卓球台利用サービスあり★！四季折々の渓谷美を楽しめる宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県南会津郡下郷町湯野上居平乙766-2 ／ 最寄り駅：主要駅 ／ 交通案内：会津鉄道「湯野上温泉駅」より徒歩約12分。会津若松I.C.より約60分。</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県南会津郡下郷町湯野上居平乙766-2 ／ 交通案内：会津鉄道「湯野上温泉駅」より徒歩約12分。会津若松I.C.より約60分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り：15台　（先着順）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -648,7 +648,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/17928/17928_wa.jpg" alt="天然温泉白川郷の湯 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>世界文化遺産 白川郷荻町合掌集落内に所在する世界文化遺産唯一の宿泊設備を伴った温泉施設。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岐阜県大野郡白川村荻町337 ／ 最寄り駅：高山 ／ 交通案内：ＪＲ高山駅から濃飛バス利用、もしくはＪＲ高岡駅から加越能バス利用　「白川郷」停より徒歩1分。</p>
+                  <p><strong>【所在地・アクセス】</strong>岐阜県大野郡白川村荻町337 ／ 最寄り駅：高山 ／ 交通案内：ＪＲ高山駅から濃飛バス利用、もしくはＪＲ高岡駅から加越能バス利用　「白川郷」停より徒歩1分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２５台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

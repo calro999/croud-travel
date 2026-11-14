@@ -373,7 +373,7 @@ export default function AsamaOnsenWinterFeature() {
             <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Recommended Ryokan & Hotels</span>
             <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">浅間温泉・冬の滞在を彩る厳選名宿5選</h2>
             <p className="text-xs sm:text-sm text-slate-600">
-              楽天トラベル公式APIより最新の宿泊プラン・評価情報を取得。11月・12月の冬旅行に心からおすすめできる宿を徹底比較。
+              最新の宿泊プラン・クチコミ評価を比較。11月・12月の冬旅行に心からおすすめできる宿を徹底比較。
             </p>
           </div>
 

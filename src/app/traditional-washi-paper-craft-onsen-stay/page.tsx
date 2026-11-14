@@ -236,7 +236,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -681,11 +681,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：千年の技と灯りに癒やされる。手漉き和紙空間＆伝統工芸体験ができる風情宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：千年の技と灯りに癒やされる。手漉き和紙空間＆伝統工芸体験ができる風情宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：千年の技と灯りに癒やされる。手漉き和紙空間＆伝統工芸体験ができる風情宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -767,7 +767,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/75287/75287_wa.jpg" alt="土佐和紙工芸村「くらうど」 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【夕食評価4.8】土佐の自然の恵みを、見て、味わって、体験して。仁淀川の隠れ宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 高知県吾川郡いの町鹿敷1226 ／ 最寄り駅：伊野 ／ 交通案内：JR伊野駅より北部交通バスで15分、岩村下車すぐ/高知市内より車で30分</p>
+                  <p><strong>【所在地・アクセス】</strong>高知県吾川郡いの町鹿敷1226 ／ 最寄り駅：伊野 ／ 交通案内：JR伊野駅より北部交通バスで15分、岩村下車すぐ/高知市内より車で30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　９０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -789,7 +789,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4755/4755_kya.jpg" alt="磐梯熱海温泉　萩姫の湯　栄楽館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>最上級の泉質　アルカリ性単純泉の自家源泉と市営泉の湯量豊富なブレンド天然温泉でお肌もつるつる</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県郡山市熱海町熱海4-47 ／ 最寄り駅：主要駅 ／ 交通案内：■郡山駅から磐越西線で15分　磐梯熱海駅から徒歩３分 ■磐越道 磐梯熱海ＩＣ下車　車で約5分</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県郡山市熱海町熱海4-47 ／ 交通案内：■郡山駅から磐越西線で15分　磐梯熱海駅から徒歩３分 ■磐越道 磐梯熱海ＩＣ下車　車で約5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -811,7 +811,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/16611/16611_ka2.jpg" alt="湯郷温泉　和モダンな宿　かつらぎ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★フィンランド式サウナOPEN★湯郷温泉に佇む和モダンな宿。貸切露天や高評のお料理♪ビジネス利用も◎</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岡山県美作市湯郷800 ／ 最寄り駅：林野 ／ 交通案内：中国道「美作IC」から車で7分。津山市内まで約30分。《宿周辺にコンビニ＆居酒屋あり》</p>
+                  <p><strong>【所在地・アクセス】</strong>岡山県美作市湯郷800 ／ 最寄り駅：林野 ／ 交通案内：中国道「美作IC」から車で7分。津山市内まで約30分。《宿周辺にコンビニ＆居酒屋あり》</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（無料）　約２０台</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.8 ／ 立地 ★3.62 ／ 部屋 ★3.69 ／ 設備 ★3.67 ／ 風呂 ★3.87 ／ 食事 ★3.88</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -833,7 +833,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/16719/16719_war.jpg" alt="道後温泉　花ゆづき 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>◆道後温泉ど真ん中の優越感◆日仏の匠によるギルディング客室が人気◆全室禁煙◆</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛媛県松山市道後湯月町4-16 ／ 最寄り駅：松山（愛媛） ／ 交通案内：道後温泉駅から徒歩5分・松山駅から市内電車で20分・道後温泉本館までは徒歩で1分！</p>
+                  <p><strong>【所在地・アクセス】</strong>愛媛県松山市道後湯月町4-16 ／ 最寄り駅：松山（愛媛） ／ 交通案内：道後温泉駅から徒歩5分・松山駅から市内電車で20分・道後温泉本館までは徒歩で1分！</p>
                   <p><strong>【駐車場・マイカー利用】</strong>野外平面駐車場◆バイク、普通車1台1泊につき1,100円※大型車などは応相談</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.98 ／ 立地 ★4.16 ／ 部屋 ★4.01 ／ 設備 ★3.82 ／ 風呂 ★4.03</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -855,7 +855,7 @@ export default function FeatureDetailPage() {
                 
                 <div className="md:col-span-3 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>令和5年3月オープン☆川側特別室　宇奈月の山々と眼下に清流黒部川　貸切岩盤浴や貸切露天風呂も好評！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 富山県黒部市宇奈月温泉1397-2 ／ 最寄り駅：主要駅 ／ 交通案内：</p>
+                  <p><strong>【所在地・アクセス】</strong>富山県黒部市宇奈月温泉1397-2 ／ 交通案内：</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -228,11 +228,11 @@ export default function WellnessRetreatHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">静寂の長期滞在＆温泉ワーケーション宿：高速Wi-Fi・書斎デスク＆美肌湯 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「静寂の長期滞在＆温泉ワーケーション宿：高速Wi-Fi・書斎デスク＆美肌湯 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「静寂の長期滞在＆温泉ワーケーション宿：高速Wi-Fi・書斎デスク＆美肌湯 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function WellnessRetreatHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/29133/29133_heya.jpg" alt="トロトロ美肌湯と朝ごはんの宿　入船荘（メルヘン村・忍者村提携旅館）（旧：「心ほぐす宿」入船荘） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>トロトロ純度99％の嬉野温泉を満喫★夢街道&amp;amp;メルヘン村系列店巡りの家族旅行／ビジネス一人旅も大歓迎</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 佐賀県嬉野市嬉野町下宿乙2330 ／ 最寄り駅：武雄温泉 ／ 交通案内：ＪＲ武雄温泉駅よりバスで嬉野温泉まで３０分</p>
+                  <p><strong>【所在地・アクセス】</strong>佐賀県嬉野市嬉野町下宿乙2330 ／ 最寄り駅：武雄温泉 ／ 交通案内：ＪＲ武雄温泉駅よりバスで嬉野温泉まで３０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function WellnessRetreatHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/973/973_dbl.jpg" alt="中町にあるホテル　池田屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>蔵の街「中町」と縄手通りに面した松本情緒溢れる環境。松本城、イオン、芸術館も近く観光に便利な立地です</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県松本市中央3-4-6 ／ 最寄り駅：松本 ／ 交通案内：●松本駅【お城口】徒歩12分●松本情緒溢れる「蔵の町中町」の女鳥羽川沿い8階建●松本城（徒歩5分）、芸術館、美術館至近</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県松本市中央3-4-6 ／ 最寄り駅：松本 ／ 交通案内：●松本駅【お城口】徒歩12分●松本情緒溢れる「蔵の町中町」の女鳥羽川沿い8階建●松本城（徒歩5分）、芸術館、美術館至近</p>
                   <p><strong>【駐車場・マイカー利用】</strong>１台500円(込)／泊　●入出庫可●高さ制限無※大型車・バイクは駐車不可</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function WellnessRetreatHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/11043/11043_w.jpg" alt="山代温泉　吉田屋　山王閣 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2021年・2022年、温泉露天風呂付客室13室オープン！かになどお料理プランや貸切風呂も人気です！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県加賀市山代温泉13-1 ／ 最寄り駅：加賀温泉 ／ 交通案内：北陸自動車道加賀ＩＣ（関西・中京方面の方）または片山津ＩＣ（金沢方面の方）。JR加賀温泉駅より無料送迎有、要予約。</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県加賀市山代温泉13-1 ／ 最寄り駅：加賀温泉 ／ 交通案内：北陸自動車道加賀ＩＣ（関西・中京方面の方）または片山津ＩＣ（金沢方面の方）。JR加賀温泉駅より無料送迎有、要予約。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場有あり。バイク向け屋根付きスペースも有あり。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.58 ／ 立地 ★4.14 ／ 部屋 ★4.36 ／ 設備 ★4.26 ／ 風呂 ★4.55 ／ 食事 ★4.67</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function WellnessRetreatHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/29811/29811_w.jpg" alt="ほったらかしの宿　ゆうふり伊豆高原 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>旧：伊豆高原わんわんパラダイスコンドミニアム／AMBIENT 伊豆高原コンドミニアム</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県伊東市富戸1317-2132 ／ 最寄り駅：伊豆高原 ／ 交通案内：伊豆急行線　伊豆高原駅／国道１３５号線より遠笠山道路経由シャボテン公園方面へ</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県伊東市富戸1317-2132 ／ 最寄り駅：伊豆高原 ／ 交通案内：伊豆急行線　伊豆高原駅／国道１３５号線より遠笠山道路経由シャボテン公園方面へ</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　80台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function WellnessRetreatHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/151479/151479_kan1.jpg" alt="綾ニセコ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>名峰羊蹄山を望む世界的スキーリゾート・グランヒラフの麓に佇む、高級感溢れるコンドミニアム型ホテルです</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道虻田郡倶知安町ニセコひらふ1条4丁目4番5号 ／ 最寄り駅：倶知安 ／ 交通案内：倶知安駅よりお車にて約１５分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道虻田郡倶知安町ニセコひらふ1条4丁目4番5号 ／ 最寄り駅：倶知安 ／ 交通案内：倶知安駅よりお車にて約１５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　約25台　無料　(先着順）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function WellnessRetreatHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/192089/192089.jpg" alt="箱根リトリート　ｖｉｌｌａ　１／ｆ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>暖炉や温泉付プライベートヴィラで至福のひとときを味わう。自然と調和し特別な時間を満喫。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県足柄下郡箱根町仙石原1286-116 ／ 最寄り駅：小田原 ／ 交通案内：小田原駅から、 バスで約４０分、  「俵石・ガラスの森」バス停下車、徒歩約５分</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県足柄下郡箱根町仙石原1286-116 ／ 最寄り駅：小田原 ／ 交通案内：小田原駅から、 バスで約４０分、  「俵石・ガラスの森」バス停下車、徒歩約５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４５台　宿泊のお客様ならびにお食事をご利用のお客様は無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

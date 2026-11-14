@@ -285,11 +285,11 @@ export default function AutumnBudgetKofuHotelsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">甲府：御岳昇仙峡の渓谷紅葉と甲州新酒ワイン！3,000円台〜格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「甲府：御岳昇仙峡の渓谷紅葉と甲州新酒ワイン！3,000円台〜格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「甲府：御岳昇仙峡の渓谷紅葉と甲州新酒ワイン！3,000円台〜格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -371,7 +371,7 @@ export default function AutumnBudgetKofuHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/192879/192879.jpg" alt="ＨＯＴＥＬ　Ｒ９　Ｔｈｅ　Ｙａｒｄ　甲府 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>一宮御坂IC、甲府昭和ICから車で10分！徒歩圏に飲食店多数★ビジネスや観光、ゴルフの宿泊拠点に◎</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県甲府市上阿原町1170-1 ／ 最寄り駅：酒折 ／ 交通案内：【お車】一宮御坂IC、甲府昭和ICより車で約10分【電車】JR甲府駅よりタクシーで15分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県甲府市上阿原町1170-1 ／ 最寄り駅：酒折 ／ 交通案内：【お車】一宮御坂IC、甲府昭和ICより車で約10分【電車】JR甲府駅よりタクシーで15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料 有り 45台※大型車（2トントラック以上）をご利用の際は、事前にお電話でお問い合わせください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.03 ／ 立地 ★3.79 ／ 部屋 ★4.13 ／ 設備 ★3.88 ／ 風呂 ★3.77</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -393,7 +393,7 @@ export default function AutumnBudgetKofuHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/129530/129530.jpg" alt="天然温泉　甲州隠し湯　スーパーホテル甲府昭和インター 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>天然温泉（男女入替制）／無料朝食／駐車場100台無料</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県中巨摩郡昭和町西条3787-1 ／ 最寄り駅：甲府 ／ 交通案内：【甲府昭和インターチェンジ】約1分／ 甲府駅より車で約20分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県中巨摩郡昭和町西条3787-1 ／ 最寄り駅：甲府 ／ 交通案内：【甲府昭和インターチェンジ】約1分／ 甲府駅より車で約20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>平面駐車場100台分有り（無料）先着順にて ※大型車は要予約</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.45 ／ 立地 ★4.26 ／ 部屋 ★4.26 ／ 設備 ★4.29 ／ 風呂 ★4.22 ／ 食事 ★4.26</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -415,7 +415,7 @@ export default function AutumnBudgetKofuHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/145010/145010_sgl.jpg" alt="甲府昭和温泉ビジネスホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>天然温泉かけ流しの宿・甲府昭和インターから１０分・駐車場無料・お食事処「花いずみ」</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県中巨摩郡昭和町押越2223 ／ 最寄り駅：国母 ／ 交通案内：ＪＲ身延線　国母駅より徒歩にて１５分・タクシーにて5分／中央高速道路　甲府昭和Ｉ．Ｃより約１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県中巨摩郡昭和町押越2223 ／ 最寄り駅：国母 ／ 交通案内：ＪＲ身延線　国母駅より徒歩にて１５分・タクシーにて5分／中央高速道路　甲府昭和Ｉ．Ｃより約１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.16 ／ 立地 ★3.81 ／ 部屋 ★3.88 ／ 設備 ★3.87 ／ 風呂 ★4.37 ／ 食事 ★3.95</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -437,7 +437,7 @@ export default function AutumnBudgetKofuHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/52640/52640_si.jpg" alt="東横ＩＮＮ甲府駅南口１ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR甲府駅から徒歩7分で朝食・小学生以下添い寝無料のホテル！舞鶴城址公園まで徒歩1分</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県甲府市丸の内1-13-20 ／ 最寄り駅：甲府 ／ 交通案内：ＪＲ　甲府駅より徒歩７分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県甲府市丸の内1-13-20 ／ 最寄り駅：甲府 ／ 交通案内：ＪＲ　甲府駅より徒歩７分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場有　800〜1000円（税込／泊）満車時は徒歩5分の提携コインパーキングへのご案内となります。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.09 ／ 立地 ★3.98 ／ 部屋 ★4.08 ／ 設備 ★3.99 ／ 風呂 ★3.93 ／ 食事 ★3.99</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -459,7 +459,7 @@ export default function AutumnBudgetKofuHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/198009/198009.jpg" alt="ビーフリーホテルズ甲府 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ＢＥ　ＦＲＥＥ　ＨＯＴＥＬＳ甲府はカップル専用のホテルをフルリノベーション新しいスタイルのホテルです</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県中巨摩郡昭和町西条2446 ／ 最寄り駅：国母 ／ 交通案内：国母駅  から1.7km（徒歩22分）、中央自動車道　甲府昭和インター降りて3分で当ホテルです</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県中巨摩郡昭和町西条2446 ／ 最寄り駅：国母 ／ 交通案内：国母駅  から1.7km（徒歩22分）、中央自動車道　甲府昭和インター降りて3分で当ホテルです</p>
                   <p><strong>【駐車場・マイカー利用】</strong>あり　全お部屋分24台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.23 ／ 立地 ★4.08 ／ 部屋 ★4.24 ／ 設備 ★4.28 ／ 風呂 ★4.32 ／ 食事 ★3.95</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

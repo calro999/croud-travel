@@ -77,7 +77,7 @@ export default function ArticlePage() {
             箱根仙石原・10-11月秋の黄金ススキ＆にごり湯ひとり旅おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">【10月・11月秋の箱根仙石原ひとり旅・黄金色ススキ草原と白濁硫黄泉おこもり】全室露天風呂・北海道×箱根の極上和懐石！秋深まる高原リトリート厳選3宿！全室露天風呂・北海道×箱根の極上和懐石！秋深まる高原リトリート厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               箱根登山バスや小田急高速バスで直行できる箱根屈指の高原リゾート・仙石原。秋の深まりとともに台ヶ岳の山裾に広がる広大なススキ草原が一面銀色から黄金色へと姿を変え、夕暮れ時には息を呑む幻想的な絶景を描き出します。大涌谷から引き湯された濃厚な酸性・カルシウム・硫酸塩泉（にごり湯）は、秋の冷えた身体を芯からじんわりと温め、日頃の喧騒を完全に忘れさせてくれます。
             </p>
             <p>
-              全室に専用客室露天風呂を備えた大人の極上ステイから、にごり湯の情緒あふれるアットホームな名宿まで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              全室に専用客室露天風呂を備えた大人の極上ステイから、にごり湯の情緒あふれるアットホームな名宿まで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -420,11 +420,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">【10月・11月秋の箱根仙石原ひとり旅・黄金色ススキ草原と白濁硫黄泉おこもり】全室露天風呂・北海道×箱根の極上和懐石！秋深まる高原リトリート厳選3宿！全室露天風呂・北海道×箱根の極上和懐石！秋深まる高原リトリート厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「【10月・11月秋の箱根仙石原ひとり旅・黄金色ススキ草原と白濁硫黄泉おこもり】全室露天風呂・北海道×箱根の極上和懐石！秋深まる高原リトリート厳選3宿！全室露天風呂・北海道×箱根の極上和懐石！秋深まる高原リトリート厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「【10月・11月秋の箱根仙石原ひとり旅・黄金色ススキ草原と白濁硫黄泉おこもり】全室露天風呂・北海道×箱根の極上和懐石！秋深まる高原リトリート厳選3宿！全室露天風呂・北海道×箱根の極上和懐石！秋深まる高原リトリート厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -488,7 +488,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/176633/176633.jpg" alt="全室露天風呂付客室　仙石原温泉　センチュリオン箱根別邸 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>◆自然に囲まれた13室の隠れ温泉宿◆全室客室露天風呂完備  オーナーこだわりの世界をお愉しみ下さい。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県足柄下郡箱根町仙石原1285-389 ／ 最寄り駅：箱根湯本 ／ 交通案内：箱根湯本駅よりお車にて約25分、東名高速道路御殿場ICからお車で約25分。</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県足柄下郡箱根町仙石原1285-389 ／ 最寄り駅：箱根湯本 ／ 交通案内：箱根湯本駅よりお車にて約25分、東名高速道路御殿場ICからお車で約25分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>13台。スポーツカー等車高の低いお車でのお越しは事前にお知らせくださいませ。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -510,7 +510,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/137410/137410_res.jpg" alt="仙石原温泉　きたの風茶寮 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>北海道より箱根に吹き込む和のオーベルジュ。北海道と箱根の食材が織成す和会席を心行くまでご堪能下さい。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県足柄下郡箱根町仙石原934-29 ／ 最寄り駅：主要駅 ／ 交通案内：箱根湯本駅より箱根登山バスで約40分、新宿駅より高速バスで約2時間、「仙郷楼前」徒歩1分。駐車場13台無料</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県足柄下郡箱根町仙石原934-29 ／ 交通案内：箱根湯本駅より箱根登山バスで約40分、新宿駅より高速バスで約2時間、「仙郷楼前」徒歩1分。駐車場13台無料</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１３台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -532,7 +532,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/108782/108782_hya.jpg" alt="箱根仙石原温泉　金時山荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>自然にひたるやすらぎのひと時を…新姥子温泉は24時間入浴可能♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県足柄下郡箱根町仙石原1111 ／ 最寄り駅：箱根湯本 ／ 交通案内：箱根湯本駅から箱根登山バス乗車３０分。「仙石バス亭」下車・御殿場方面に向かって徒歩１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県足柄下郡箱根町仙石原1111 ／ 最寄り駅：箱根湯本 ／ 交通案内：箱根湯本駅から箱根登山バス乗車３０分。「仙石バス亭」下車・御殿場方面に向かって徒歩１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

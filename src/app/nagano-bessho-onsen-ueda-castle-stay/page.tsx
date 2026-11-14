@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">長野・別所温泉＆上田城：信州の鎌倉・日本唯一八角三重塔＆真田の赤備え宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「長野・別所温泉＆上田城：信州の鎌倉・日本唯一八角三重塔＆真田の赤備え宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「長野・別所温泉＆上田城：信州の鎌倉・日本唯一八角三重塔＆真田の赤備え宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -296,7 +296,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/6064/6064_bath.jpg" alt="信州別所温泉　旅宿　上松や 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>楽天トラベルアワード7年連続受賞！（2025 シルバーアワード）</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県上田市別所温泉1628 ／ 最寄り駅：別所温泉 ／ 交通案内：JR北陸新幹線上田駅にて上田電鉄別所線に乗換、終点別所温泉駅より徒歩10分。</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県上田市別所温泉1628 ／ 最寄り駅：別所温泉 ／ 交通案内：JR北陸新幹線上田駅にて上田電鉄別所線に乗換、終点別所温泉駅より徒歩10分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.61 ／ 立地 ★4.28 ／ 部屋 ★4.34 ／ 設備 ★4.26 ／ 風呂 ★4.58 ／ 食事 ★4.7</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -318,7 +318,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/187968/187968.jpg" alt="別所温泉　緑屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「深緑の庭」で過ごす究極の癒し</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県上田市別所温泉225 ／ 最寄り駅：別所温泉 ／ 交通案内：北陸新幹線 上田駅で乗り換え、上田電鉄別所線 別所温泉駅から徒歩5分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県上田市別所温泉225 ／ 最寄り駅：別所温泉 ／ 交通案内：北陸新幹線 上田駅で乗り換え、上田電鉄別所線 別所温泉駅から徒歩5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>15台 予約不要、無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -340,7 +340,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/67488/67488_rw.jpg" alt="別所温泉　観音様となりの宿　かしわや本店 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>～創業百余年。美肌温泉と館内全て畳敷きの情緒漂う歴史感じるやすらぎの宿～</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県上田市別所温泉1654 ／ 最寄り駅：別所温泉 ／ 交通案内：上田交通　別所温泉駅より無料シャトルバスが運行</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県上田市別所温泉1654 ／ 最寄り駅：別所温泉 ／ 交通案内：上田交通　別所温泉駅より無料シャトルバスが運行</p>
                   <p>【長野・別所温泉＆上田城：信州の鎌倉・日本唯一八角三重】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

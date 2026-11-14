@@ -376,11 +376,11 @@ export default function AutumnBudgetHotelsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">久留米駅前：高良大社の紅葉パノラマ＆元祖豚骨久留米ラーメン・焼き鳥！2,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「久留米駅前：高良大社の紅葉パノラマ＆元祖豚骨久留米ラーメン・焼き鳥！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「久留米駅前：高良大社の紅葉パノラマ＆元祖豚骨久留米ラーメン・焼き鳥！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -462,7 +462,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/196704/196704.jpg" alt="いやし処ほてる寛楽　久留米駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>日本を感じる「和」の雰囲気と「洋」の快適さを持ち お客様に「寛ぎ」と「楽しさ」をお届けします。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福岡県久留米市通町108-4 ／ 最寄り駅：西鉄久留米 ／ 交通案内：西鉄久留米駅より車で4分　徒歩7分</p>
+                  <p><strong>【所在地・アクセス】</strong>福岡県久留米市通町108-4 ／ 最寄り駅：西鉄久留米 ／ 交通案内：西鉄久留米駅より車で4分　徒歩7分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>なし</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.1 ／ 立地 ★3.86 ／ 部屋 ★4.16 ／ 設備 ★4.09 ／ 風呂 ★3.97 ／ 食事 ★4.08</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -484,7 +484,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/68686/68686_s.jpg" alt="東横ＩＮＮ西鉄久留米駅東口 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>西鉄久留米駅から徒歩2分で朝食・小学生以下添い寝無料のホテル！大砲ラーメン本店まで車で5分</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福岡県久留米市天神町3-93-4 ／ 最寄り駅：西鉄久留米 ／ 交通案内：西鉄久留米駅中央東口（東口広場方面）からリベールの横を通って古賀病院方向へ徒歩２分</p>
+                  <p><strong>【所在地・アクセス】</strong>福岡県久留米市天神町3-93-4 ／ 最寄り駅：西鉄久留米 ／ 交通案内：西鉄久留米駅中央東口（東口広場方面）からリベールの横を通って古賀病院方向へ徒歩２分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>５６台（立体駐車場）　　　５００円/泊　　先着順　　高さ制限あり（2ｍまで）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4 ／ 立地 ★4.04 ／ 部屋 ★4.08 ／ 設備 ★3.96 ／ 風呂 ★3.96 ／ 食事 ★3.97</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -506,7 +506,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/68074/68074_k1.jpg" alt="久留米ホテルエスプリ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>西鉄久留米駅徒歩1分の立地。広い客室、広いベッドとスタイリッシュなお部屋が自慢のビジネスホテルです。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福岡県久留米市東町339 ／ 最寄り駅：西鉄久留米 ／ 交通案内：西鉄久留米駅から徒歩１分。JR久留米駅より車で5分。天神から電車で約30分。福岡空港より高速バスで約４５分</p>
+                  <p><strong>【所在地・アクセス】</strong>福岡県久留米市東町339 ／ 最寄り駅：西鉄久留米 ／ 交通案内：西鉄久留米駅から徒歩１分。JR久留米駅より車で5分。天神から電車で約30分。福岡空港より高速バスで約４５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　15台　1,000円（税込み／泊）　先着順　※提携駐車場も有り</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.93 ／ 立地 ★3.96 ／ 部屋 ★3.9 ／ 設備 ★3.86 ／ 風呂 ★3.83 ／ 食事 ★3.94</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -528,7 +528,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/79319/79319_b.jpg" alt="ホテルマリターレ創世　久留米 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>広々とした客室は全室ジャグジー付き！朝食はルームサービスなので、ごゆっくりお寛ぎいただけます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福岡県久留米市東櫛原町900 ／ 最寄り駅：久留米 ／ 交通案内：ＪＲ久留米駅・西鉄久留米駅から車で約１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>福岡県久留米市東櫛原町900 ／ 最寄り駅：久留米 ／ 交通案内：ＪＲ久留米駅・西鉄久留米駅から車で約１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.39 ／ 立地 ★4.2 ／ 部屋 ★4.33 ／ 設備 ★4.25 ／ 風呂 ★4.3 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -550,7 +550,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1373/1373_sgl.jpg" alt="ホテルニュープラザ久留米 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全 264室 / 西鉄久留米駅より徒歩7分 / 駐車スペース200台</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福岡県久留米市六ッ門町16-1 ／ 最寄り駅：久留米 ／ 交通案内：西鉄久留米駅から徒歩7分。JR久留米駅から車で5分。広又バス停まで徒歩２分</p>
+                  <p><strong>【所在地・アクセス】</strong>福岡県久留米市六ッ門町16-1 ／ 最寄り駅：久留米 ／ 交通案内：西鉄久留米駅から徒歩7分。JR久留米駅から車で5分。広又バス停まで徒歩２分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>普通車200台　 550円（税込/泊）　/　大型車（バス･トラック）は事前にホテルへご確認下さい</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.75 ／ 立地 ★3.66 ／ 部屋 ★3.59 ／ 設備 ★3.54 ／ 風呂 ★3.5 ／ 食事 ★3.75</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-tottori-dune-sand-museum-stay/"
   };
 
@@ -379,27 +379,6 @@ export default function Page() {
         </section>
 
         {/* FAQ */}
-        <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-stone-200/80">
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-3 border-b border-stone-200 pb-4">よくある質問（FAQ）</h2>
-          <div className="space-y-6 text-stone-700 text-sm sm:text-base">
-            <div className="border-b border-stone-100 pb-4">
-              <h3 className="font-bold text-stone-900 mb-2">Q. 10月〜11月の紅葉や混雑の状況は？</h3>
-              <p className="text-stone-600 text-xs sm:text-sm leading-relaxed">
-                紅葉の見頃ピーク（10月〜11月下旬（鳥取砂丘夕日と風紋・砂の美術館秋期展・11月6日松葉がに解禁・鳥取和牛））は週末を中心に観光客で賑わいます。ゆっくり散策や温泉を楽しみたい方は平日の宿泊や、早朝の観光スポット訪問がおすすめです。
-              </p>
-            </div>
-            <div className="border-b border-stone-100 pb-4">
-              <h3 className="font-bold text-stone-900 mb-2">Q. クーポンを利用した予約のキャンセル規定はどうなっていますか？</h3>
-              <p className="text-stone-600 text-xs sm:text-sm leading-relaxed">通常の楽天トラベルのキャンセル規定に準じます。期限内であればキャンセル時にクーポンは返還され、有効期限内であれば別の予約で再利用可能です。
-              </p>
-            </div>
-            <div>
-              <h3 className="font-bold text-stone-900 mb-2">Q. ふるさと納税クーポンとポイントは併用できますか？</h3>
-              <p className="text-stone-600 text-xs sm:text-sm leading-relaxed">はい、楽天ふるさと納税トラベルクーポンと通常の楽天ポイントは同時に併用して利用いただけます。
-              </p>
-            </div>
-          </div>
-        </section>
         
 
         {/* FAQ Section */}
@@ -435,11 +414,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">鳥取砂丘の夕日と砂の美術館！鳥取温泉の源泉かけ流し・11月解禁の松葉がにと鳥取和牛を味わう秋旅｜ふるさと納税で泊まれる名宿ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「鳥取砂丘の夕日と砂の美術館！鳥取温泉の源泉かけ流し・11月解禁の松葉がにと鳥取和牛を味わう秋旅｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「鳥取砂丘の夕日と砂の美術館！鳥取温泉の源泉かけ流し・11月解禁の松葉がにと鳥取和牛を味わう秋旅｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -503,7 +482,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/591/591_a.jpg" alt="鳥取温泉　ホテルモナーク鳥取 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>鳥取温泉繁華街に位置。自家源泉大浴場を完備したシティーホテル。地産食材を活かした朝食ブッフェが自慢</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鳥取県鳥取市永楽温泉町403 ／ 最寄り駅：鳥取 ／ 交通案内：ＪＲ鳥取駅北口出口より徒歩5分 / 鳥取自動車道鳥取ICより車で10分 / コンビニへ徒歩1分 / 鳥取砂丘へ車で20分</p>
+                  <p><strong>【所在地・アクセス】</strong>鳥取県鳥取市永楽温泉町403 ／ 最寄り駅：鳥取 ／ 交通案内：ＪＲ鳥取駅北口出口より徒歩5分 / 鳥取自動車道鳥取ICより車で10分 / コンビニへ徒歩1分 / 鳥取砂丘へ車で20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>70台（出し入れ自由）　普通車500円/1泊　二輪車500円/1泊　大型車2,000円/1泊</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.21 ／ 立地 ★4.08 ／ 部屋 ★4.07 ／ 設備 ★4.03 ／ 風呂 ★4.21 ／ 食事 ★4.16</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -525,7 +504,7 @@ export default function Page() {
                 
                 <div className="md:col-span-3 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>鳥取駅から徒歩５分。街中ながら自家源泉のかけ流し温泉。地元の素材を活かした料理も自慢です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鳥取県鳥取市永楽温泉町458 ／ 最寄り駅：主要駅 ／ 交通案内：</p>
+                  <p><strong>【所在地・アクセス】</strong>鳥取県鳥取市永楽温泉町458 ／ 交通案内：</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -547,7 +526,7 @@ export default function Page() {
                 
                 <div className="md:col-span-3 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>☆刺激が少なく肌に優しい　源泉かけ流しの湯☆　ビジネス・観光に最適！　無料駐車場完備</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鳥取県鳥取市末広温泉町556 ／ 最寄り駅：主要駅 ／ 交通案内：</p>
+                  <p><strong>【所在地・アクセス】</strong>鳥取県鳥取市末広温泉町556 ／ 交通案内：</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -77,7 +77,7 @@ export default function ArticlePage() {
             宮城鳴子温泉・10-11月秋の鳴子峡紅葉＆美肌湯治ひとり旅おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">【10月・11月秋の宮城鳴子温泉ひとり旅・鳴子峡の錦秋大渓谷と日本一多彩な泉質おこもり】貸切庭園露天・重曹美肌湯・黒毛和牛！みちのく湯治リトリート厳選3宿！貸切庭園露天・重曹美肌湯・黒毛和牛！みちのく湯治リトリート厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               東北新幹線・古川駅から陸羽東線に乗り換えてアクセスできる奥州の名湯・鳴子温泉郷。10月中旬から11月上旬にかけて、鳴子峡は大谷川の清流と奇岩怪石を覆うブナ・カエデ・モミジの紅葉で黄金と真紅のグラデーションに染まります。鳴子温泉の最大の魅力は圧倒的な泉質の豊かさ。肌がツルツルになる弱アルカリ性重曹泉や硫黄泉など、本物の源泉かけ流しが旅人の疲れた心身を根底から癒やします。
             </p>
             <p>
-              古き良き湯治の精神を受け継ぐ大人の隠れ家宿から、貸切露天風呂自慢の老舗旅館まで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              古き良き湯治の精神を受け継ぐ大人の隠れ家宿から、貸切露天風呂自慢の老舗旅館まで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -420,11 +420,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">【10月・11月秋の宮城鳴子温泉ひとり旅・鳴子峡の錦秋大渓谷と日本一多彩な泉質おこもり】貸切庭園露天・重曹美肌湯・黒毛和牛！みちのく湯治リトリート厳選3宿！貸切庭園露天・重曹美肌湯・黒毛和牛！みちのく湯治リトリート厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「【10月・11月秋の宮城鳴子温泉ひとり旅・鳴子峡の錦秋大渓谷と日本一多彩な泉質おこもり】貸切庭園露天・重曹美肌湯・黒毛和牛！みちのく湯治リトリート厳選3宿！貸切庭園露天・重曹美肌湯・黒毛和牛！みちのく湯治リトリート厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「【10月・11月秋の宮城鳴子温泉ひとり旅・鳴子峡の錦秋大渓谷と日本一多彩な泉質おこもり】貸切庭園露天・重曹美肌湯・黒毛和牛！みちのく湯治リトリート厳選3宿！貸切庭園露天・重曹美肌湯・黒毛和牛！みちのく湯治リトリート厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -444,7 +444,7 @@ export default function ArticlePage() {
               <tbody className="divide-y divide-stone-200">
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 鳴子温泉郷　極上の貸切露天風呂　旅館大沼</td>
-                <td className="p-3 text-stone-600">宮城県</td>
+                <td className="p-3 text-stone-600">宮城県大崎市鳴子温泉赤湯34</td>
                 <td className="p-3 text-stone-600">東北新幹線『古川駅』よりＪＲ陸羽東線に乗り換え、『鳴子御殿湯駅』下車、</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（614件）</td>
@@ -487,8 +487,8 @@ export default function ArticlePage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/106139/106139.jpg" alt="鳴子温泉郷　極上の貸切露天風呂　旅館大沼 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「【10月・11月秋の宮城鳴子温泉ひとり旅・鳴子峡の錦秋大渓谷と日本一多彩な泉質おこもり】貸切庭園露天・重曹美肌湯・黒毛和牛！みちのく湯治リトリート厳選3宿」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：東北新幹線『古川駅』よりＪＲ陸羽東線に乗り換え、『鳴子御殿湯駅』下車、徒歩５分。鳴子温泉からはタクシーで約5分。</p>
+                  <p><strong>【宿の特徴・魅力】</strong>「【10月・11月秋の宮城鳴子温泉ひとり旅・鳴子峡の錦秋大渓谷と日本一多彩な泉質おこもり】貸切庭園露天・重曹美肌湯・黒毛和牛！みちのく湯治リトリート厳選3宿」掲載宿の所在地・アクセス・特徴データ一覧は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：東北新幹線『古川駅』よりＪＲ陸羽東線に乗り換え、『鳴子御殿湯駅』下車、徒歩５分。鳴子温泉からはタクシーで約5分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -510,7 +510,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31108/31108_h.jpg" alt="鳴子温泉　鳴子旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>家庭的な雰囲気でのんびりくつろげる様に心がけている小さな温泉旅館</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮城県大崎市鳴子温泉車湯54-11 ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ陸羽東線　鳴子温泉駅より徒歩１７分位／東北道古川ＩＣより国道４７号線（約３０ｋｍ）</p>
+                  <p><strong>【所在地・アクセス】</strong>宮城県大崎市鳴子温泉車湯54-11 ／ 交通案内：ＪＲ陸羽東線　鳴子温泉駅より徒歩１７分位／東北道古川ＩＣより国道４７号線（約３０ｋｍ）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　２０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -532,7 +532,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/13456/13456_rm.jpg" alt="鳴子温泉　旅館すがわら 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>貸切風呂（自家源泉掛け流し）は４箇所有り全て無料！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮城県大崎市鳴子温泉新屋敷5 ／ 最寄り駅：鳴子温泉 ／ 交通案内：ＪＲ陸羽東線『鳴子温泉駅』より徒歩10分／東北自動車道『古川ＩＣ』より約３５分/高速バス「仙台駅前」から８５分</p>
+                  <p><strong>【所在地・アクセス】</strong>宮城県大崎市鳴子温泉新屋敷5 ／ 最寄り駅：鳴子温泉 ／ 交通案内：ＪＲ陸羽東線『鳴子温泉駅』より徒歩10分／東北自動車道『古川ＩＣ』より約３５分/高速バス「仙台駅前」から８５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　3０台　無料　先着順 バイク用車庫有り 無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

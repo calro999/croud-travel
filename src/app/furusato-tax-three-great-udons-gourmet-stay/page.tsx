@@ -235,7 +235,7 @@ export default function Page() {
         <section className="space-y-10">
           <div className="text-center space-y-2">
             <h2 className="text-2xl md:text-3xl font-bold text-slate-900">楽天ふるさと納税で泊まる名宿＆厳選ホテル</h2>
-            <p className="text-xs md:text-sm text-slate-500">楽天トラベル公式APIより最新の宿情報・写真・最低参考価格を取得しています
+            <p className="text-xs md:text-sm text-slate-500">宿泊施設データより最新の宿情報・写真・最低参考価格を取得しています
             </p>
           </div>
 
@@ -538,11 +538,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大うどん＆名水と小麦の麺道・ご当地名湯宿×ふるさと納税厳選ガイド讃岐・稲庭・五島：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本三大うどん＆名水と小麦の麺道・ご当地名湯宿×ふるさと納税厳選ガイド讃岐・稲庭・五島」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「日本三大うどん＆名水と小麦の麺道・ご当地名湯宿×ふるさと納税厳選ガイド讃岐・稲庭・五島」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -606,7 +606,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5901/5901_k1.jpg" alt="湯元こんぴら温泉華の湯　紅梅亭 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>露天風呂付スイートOPEN◆2種の源泉を楽しむ＜3箇所15種類の湯処＞でのんびり湯巡り</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 香川県仲多度郡琴平町556-1 ／ 最寄り駅：琴平 ／ 交通案内：ＪＲ琴平駅下車、徒歩5分（無料送迎有・要予約）。車：道善通寺ＩＣ下車約15分。高松空港より約40分</p>
+                  <p><strong>【所在地・アクセス】</strong>香川県仲多度郡琴平町556-1 ／ 最寄り駅：琴平 ／ 交通案内：ＪＲ琴平駅下車、徒歩5分（無料送迎有・要予約）。車：道善通寺ＩＣ下車約15分。高松空港より約40分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り：70台（無料）／EV充電器設置</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.67 ／ 立地 ★4.52 ／ 部屋 ★4.58 ／ 設備 ★4.52 ／ 風呂 ★4.66 ／ 食事 ★4.66</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -628,7 +628,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/141266/141266_room.jpg" alt="泥湯温泉　奥山旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>手つかずの自然という贅沢が当館のおもてなし。3種の源泉からかけ流しの泥湯温泉が自慢、秘境の湯宿です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 秋田県湯沢市高松泥湯沢25 ／ 最寄り駅：湯沢 ／ 交通案内：JR奥羽本線湯沢駅下車、車で50分。国道13号、県道51号を経て泥湯へ。</p>
+                  <p><strong>【所在地・アクセス】</strong>秋田県湯沢市高松泥湯沢25 ／ 最寄り駅：湯沢 ／ 交通案内：JR奥羽本線湯沢駅下車、車で50分。国道13号、県道51号を経て泥湯へ。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.67 ／ 立地 ★4.59 ／ 部屋 ★4.67 ／ 設備 ★4.53 ／ 風呂 ★4.82 ／ 食事 ★4.65</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -650,7 +650,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/16581/16581_f.jpg" alt="五島コンカナ王国ワイナリー＆リゾート　＜五島・福江島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>五島の大自然に囲まれ、自社農園のワインと島食材の美食を堪能。異国情緒溢れる空間で寛ぐ離島リゾート。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長崎県五島市上大津町2413 ／ 最寄り駅：福江空港 ／ 交通案内：福江港から福江空港方面へ 途中の広域農道の案内看板に従い左折し、約3ｋｍ</p>
+                  <p><strong>【所在地・アクセス】</strong>長崎県五島市上大津町2413 ／ 最寄り駅：福江空港 ／ 交通案内：福江港から福江空港方面へ 途中の広域農道の案内看板に従い左折し、約3ｋｍ</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（200台／無料／先着順）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -665,7 +665,7 @@ export default function Page() {
 
       {/* フッター */}
       <footer className="bg-slate-950 text-slate-400 py-8 px-4 text-center text-xs border-t border-slate-800">
-        <p>© 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の楽天トラベル公式APIに基づきます。</p>
+        <p>© 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の宿泊施設データに基づきます。</p>
       </footer>
     
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

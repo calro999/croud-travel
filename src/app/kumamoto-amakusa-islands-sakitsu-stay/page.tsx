@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">熊本・天草諸島＆三角：世界遺産﨑津集落・イルカウォッチング＆天草大王・車海老宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「熊本・天草諸島＆三角：世界遺産﨑津集落・イルカウォッチング＆天草大王・車海老宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「熊本・天草諸島＆三角：世界遺産﨑津集落・イルカウォッチング＆天草大王・車海老宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/18335/18335_w.jpg" alt="松島温泉　ホテル松泉閣　ろまん館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>天草の島々と夕日そして天草の海の幸を楽しめる宿です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 熊本県上天草市松島町合津6215-21 ／ 最寄り駅：三角 ／ 交通案内：JR三角駅よりバスorタクシーで20から30分／熊本市内より車で90分</p>
+                  <p><strong>【所在地・アクセス】</strong>熊本県上天草市松島町合津6215-21 ／ 最寄り駅：三角 ／ 交通案内：JR三角駅よりバスorタクシーで20から30分／熊本市内より車で90分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31465/31465_kan1.jpg" alt="玉名温泉　立願寺温泉ホテル　湯里 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR玉名駅より車で5分。街の中、されど山の中、南向きの丘の上で疲れをいやす泉質と豊かな湯量</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 熊本県玉名市立願寺572-7 ／ 最寄り駅：玉名 ／ 交通案内：玉名駅より車で７分</p>
+                  <p><strong>【所在地・アクセス】</strong>熊本県玉名市立願寺572-7 ／ 最寄り駅：玉名 ／ 交通案内：玉名駅より車で７分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　５０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/188033/188033.jpg" alt="石山離宮　五足のくつ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>伊勢海老まつり｜東シナ海を望む山に広がるエキゾチックな異世界ー国立公園にある露天風呂付き離れの温泉宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 熊本県天草市天草町下田北2237 ／ 最寄り駅：天草空港 ／ 交通案内：熊本空港・熊本駅より車で約２時間30分。九州自動車道 松橋ICより車で2時間。天草空港より車で約40分。</p>
+                  <p><strong>【所在地・アクセス】</strong>熊本県天草市天草町下田北2237 ／ 最寄り駅：天草空港 ／ 交通案内：熊本空港・熊本駅より車で約２時間30分。九州自動車道 松橋ICより車で2時間。天草空港より車で約40分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>【15台・無料】世界遺産の崎津集落まで車20分、イルカウォッチングまで車30分界｜天草観光に便利</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/28519/28519_g.jpg" alt="和み宿　新和荘　海心　Ｌｉｖｔｅｌ　ｋａｉ－ｓｈｉｎ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ホテルではない。旅館でも民宿でもない。Ｌｉｖｔｅｌを暮らしの延長として気軽に利用して下さい。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 熊本県天草市港町11-19 ／ 最寄り駅：三角 ／ 交通案内：三角駅／熊本市内～お車で２時間／松橋ＩＣ～お車で１時間半。本渡港、本渡バスセンターより徒歩10分。</p>
+                  <p><strong>【所在地・アクセス】</strong>熊本県天草市港町11-19 ／ 最寄り駅：三角 ／ 交通案内：三角駅／熊本市内～お車で２時間／松橋ＩＣ～お車で１時間半。本渡港、本渡バスセンターより徒歩10分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/172865/172865.jpg" alt="ペットリゾート　ブレインズ　天草 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【夕食時フリードリンク】ペットと楽しむ海辺のリゾート。天草海の幸づくしの食事はペットも一緒に♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 熊本県上天草市松島町合津6082-4 ／ 最寄り駅：熊本空港 ／ 交通案内：熊本空港よりお車にて約90分</p>
+                  <p><strong>【所在地・アクセス】</strong>熊本県上天草市松島町合津6082-4 ／ 最寄り駅：熊本空港 ／ 交通案内：熊本空港よりお車にて約90分</p>
                   <p>【熊本・天草諸島＆三角：世界遺産﨑津集落・イルカウォッ】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/67290/67290_wa.jpg" alt="天草温泉　ホテルアレグリアガーデンズ天草 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>広大なリゾート、ゆっくりと楽しめる楽園、藍の島をお楽しみ下さい。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 熊本県天草市本渡町広瀬996 ／ 最寄り駅：天草空港 ／ 交通案内：ＪＲ熊本駅から車で１５０分／本渡バスセンターから車で１０分／天草空港から車で１５分</p>
+                  <p><strong>【所在地・アクセス】</strong>熊本県天草市本渡町広瀬996 ／ 最寄り駅：天草空港 ／ 交通案内：ＪＲ熊本駅から車で１５０分／本渡バスセンターから車で１０分／天草空港から車で１５分</p>
                   <p>【熊本・天草諸島＆三角：世界遺産﨑津集落・イルカウォッ】 <strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

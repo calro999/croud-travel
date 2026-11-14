@@ -236,7 +236,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -681,11 +681,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：美濃和紙あかりの町並みと清流鵜飼い。長良川温泉＆飛騨牛会席の風情名宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：美濃和紙あかりの町並みと清流鵜飼い。長良川温泉＆飛騨牛会席の風情名宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：美濃和紙あかりの町並みと清流鵜飼い。長良川温泉＆飛騨牛会席の風情名宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -732,7 +732,7 @@ export default function FeatureDetailPage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 料理旅館いずみ荘</td>
-                <td className="p-3 text-stone-600">山梨県</td>
+                <td className="p-3 text-stone-600">岐阜県美濃市安毛31-5</td>
                 <td className="p-3 text-stone-600">美濃市駅より車で7分/美濃ＩＣから7分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.14（74件）</td>
@@ -767,7 +767,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/144969/144969_kya.jpg" alt="長良川温泉　石金 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【源泉かけ流し】長良川と金華山の絶景◆地元食材を堪能できる会席料理【全16室の歴史ある温泉宿】</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岐阜県岐阜市長良112 ／ 最寄り駅：岐阜 ／ 交通案内：ＪＲ　岐阜駅よりバス（岐阜バスターミナル１２番１３番乗り場）にて１５分、『鵜飼屋』下車し徒歩３分</p>
+                  <p><strong>【所在地・アクセス】</strong>岐阜県岐阜市長良112 ／ 最寄り駅：岐阜 ／ 交通案内：ＪＲ　岐阜駅よりバス（岐阜バスターミナル１２番１３番乗り場）にて１５分、『鵜飼屋』下車し徒歩３分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -789,7 +789,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2979/2979_r1.jpg" alt="長良川温泉　十八楼 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>江戸時代より時を刻む麗しの老舗宿。長良川温泉 『蔵の湯』が好評です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岐阜県岐阜市湊町１０番地 ／ 最寄り駅：岐阜 ／ 交通案内：(電車)ＪＲ岐阜駅 名鉄岐阜駅より路線バスにて約15分 長良橋バス停下車　　(車)東海北陸道 一宮木曽川ICより約30分</p>
+                  <p><strong>【所在地・アクセス】</strong>岐阜県岐阜市湊町１０番地 ／ 最寄り駅：岐阜 ／ 交通案内：(電車)ＪＲ岐阜駅 名鉄岐阜駅より路線バスにて約15分 長良橋バス停下車　　(車)東海北陸道 一宮木曽川ICより約30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　乗用車150台　バス１５台　(無料)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -811,7 +811,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5879/5879_heya1.jpg" alt="長良川温泉　ホテルパーク 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>清流長良川、金華山に囲まれ四季折々のロケーションです。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岐阜県岐阜市湊町397-2 ／ 最寄り駅：岐阜 ／ 交通案内：JR岐阜駅または名鉄新岐阜駅より下車　タクシー、バスで１５分</p>
+                  <p><strong>【所在地・アクセス】</strong>岐阜県岐阜市湊町397-2 ／ 最寄り駅：岐阜 ／ 交通案内：JR岐阜駅または名鉄新岐阜駅より下車　タクシー、バスで１５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -832,12 +832,12 @@ export default function FeatureDetailPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8028/8028.jpg" alt="料理旅館いずみ荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「美濃和紙あかりの町並みと清流鵜飼い。長良川温泉＆飛騨牛会席の風情名宿5選」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：美濃市駅より車で7分/美濃ＩＣから7分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>山・川・里の四季折々の食材を使用したこだわりのお料理が自慢の料理旅館</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：美濃市駅より車で7分/美濃ＩＣから7分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「絶景のロケーションとおもてなしに心から癒やされました。」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理旅館いずみ荘での快適な滞在とアクセス面の良さに満足したという評価が寄せられています。」
                   </blockquote>
                 </div>
               </div>
@@ -855,7 +855,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/65973/65973_room.jpg" alt="奥飛騨温泉郷　新穂高温泉　雪紫 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>館内すべて２４時間掛け流しの天然温泉。奥飛騨の大自然に抱かれて余人をまじえず満天の星の下での湯浴みをどうぞ。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岐阜県高山市奥飛騨温泉郷神坂405 ／ 最寄り駅：高山 ／ 交通案内：高山駅前「高山濃飛バスセンター」よりバス「新穂高温泉行き」乗車、「新穂高温泉口」下車徒歩0分(^^♪　当館正面</p>
+                  <p><strong>【所在地・アクセス】</strong>岐阜県高山市奥飛騨温泉郷神坂405 ／ 最寄り駅：高山 ／ 交通案内：高山駅前「高山濃飛バスセンター」よりバス「新穂高温泉行き」乗車、「新穂高温泉口」下車徒歩0分(^^♪　当館正面</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１４台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

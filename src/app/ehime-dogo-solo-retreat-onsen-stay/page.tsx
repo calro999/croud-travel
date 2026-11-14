@@ -77,7 +77,7 @@ export default function ArticlePage() {
             愛媛・道後温泉ひとり旅＆日本最古の名湯おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「道後温泉ひとり旅・日本最古の名湯おこもり」道後温泉本館・美人の湯・愛媛鯛めし！松山城下町と文学の香りに浸る厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               『日本書紀』や『万葉集』にも登場する日本最古の名湯・愛媛県松山市の道後温泉。シンボルである「道後温泉本館」を中心に、飛鳥乃温泉や椿の湯といった外湯めぐり、そしてレトロな坊っちゃん列車が走る風情ある街並みは、一人旅の旅情をどこまでもかき立ててくれます。
             </p>
             <p>
-              一人旅でも利用しやすい安心の公共の宿から、全室源泉かけ流し露天風呂を備えたラグジュアリーな大人の隠れ家まで、楽天トラベル公式APIより直接取得した最新データをもとに厳選紹介します。
+              一人旅でも利用しやすい安心の公共の宿から、全室源泉かけ流し露天風呂を備えたラグジュアリーな大人の隠れ家まで、宿泊施設データより直接取得した最新データをもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -358,11 +358,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">道後温泉ひとり旅・日本最古の名湯おこもり：道後温泉本館・美人の湯・愛媛鯛めし！松山城下町と文学の香りに浸る厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「道後温泉ひとり旅・日本最古の名湯おこもり：道後温泉本館・美人の湯・愛媛鯛めし！松山城下町と文学の香りに浸る厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「道後温泉ひとり旅・日本最古の名湯おこもり：道後温泉本館・美人の湯・愛媛鯛めし！松山城下町と文学の香りに浸る厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -426,7 +426,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/15880/15880_sgl.jpg" alt="道後温泉　にぎたつ会館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>道後温泉内に位置し、観光＆ビジネスに便利！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛媛県松山市道後姫塚118-2 ／ 最寄り駅：道後温泉 ／ 交通案内：ＪＲ松山駅より路面電車２０分→道後温泉駅下車→徒歩５分 伊佐爾波神社の右手</p>
+                  <p><strong>【所在地・アクセス】</strong>愛媛県松山市道後姫塚118-2 ／ 最寄り駅：道後温泉 ／ 交通案内：ＪＲ松山駅より路面電車２０分→道後温泉駅下車→徒歩５分 伊佐爾波神社の右手</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　78台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.07 ／ 立地 ★4.04 ／ 部屋 ★3.89 ／ 設備 ★3.81 ／ 風呂 ★4.14 ／ 食事 ★4.16</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -448,7 +448,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/13653/13653_war.jpg" alt="道後温泉　ホテル椿館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【道後温泉本館へ徒歩3分】種類豊富なビュッフェと露天風呂を家族やカップルで楽しめる明治レトロの宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛媛県松山市道後鷺谷町5-32 ／ 最寄り駅：松山（愛媛） ／ 交通案内：JR松山駅より伊予鉄道にて道後温泉駅下車 / 松山自動車道 松山ICより３０分</p>
+                  <p><strong>【所在地・アクセス】</strong>愛媛県松山市道後鷺谷町5-32 ／ 最寄り駅：松山（愛媛） ／ 交通案内：JR松山駅より伊予鉄道にて道後温泉駅下車 / 松山自動車道 松山ICより３０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>100台。車：1泊1台880円　バイク：550円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.6 ／ 立地 ★4.45 ／ 部屋 ★4.52 ／ 設備 ★4.44 ／ 風呂 ★4.48 ／ 食事 ★4.66</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -470,7 +470,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/166206/166206_kan1.jpg" alt="道後温泉　八千代 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全客室露天風呂付きと和を感じるお部屋食。上品な空間で大人の休日をお愉しみくださいませ。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛媛県松山市道後多幸町6-34 ／ 最寄り駅：道後温泉 ／ 交通案内：道後温泉駅より徒歩にて約5分 松山空港から車で35分！</p>
+                  <p><strong>【所在地・アクセス】</strong>愛媛県松山市道後多幸町6-34 ／ 最寄り駅：道後温泉 ／ 交通案内：道後温泉駅より徒歩にて約5分 松山空港から車で35分！</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２3台　８００円（税別／泊）　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

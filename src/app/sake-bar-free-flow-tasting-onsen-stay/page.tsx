@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/sake-bar-free-flow-tasting-onsen-stay/"
   };
 
@@ -186,6 +186,12 @@ export default function Page() {
           </p>
         </div>
 
+        <div className="pt-2">
+          <ShareButtons
+            title="全国の銘酒・純米大吟醸を利き酒！地酒BAR＆日本酒ペアリングが自慢の温泉旅館"
+            url="https://croud-travel.pages.dev/sake-bar-free-flow-tasting-onsen-stay/"
+          />
+        </div>
         {/* クーポン特大バナー */}
         <SpecialCouponBanner />
 
@@ -303,11 +309,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">全国の銘酒・純米大吟醸を利き酒！地酒BAR＆日本酒ペアリングが自慢の温泉旅館：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「全国の銘酒・純米大吟醸を利き酒！地酒BAR＆日本酒ペアリングが自慢の温泉旅館」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「全国の銘酒・純米大吟醸を利き酒！地酒BAR＆日本酒ペアリングが自慢の温泉旅館」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -371,7 +377,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/32051/32051_f.jpg" alt="那須温泉　大丸温泉旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>山あいの渓谷にたたずむ野趣溢れる露天風呂が名物！奥那須温泉郷の自然と癒しを感じられる天然温泉宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県那須郡那須町湯本269 ／ 最寄り駅：那須塩原 ／ 交通案内：那須塩原駅・黒磯駅より、路線バス有料送迎サービス有約70分(2日前迄に要予約）／東北自動車道《那須IC》より車で約30分</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県那須郡那須町湯本269 ／ 最寄り駅：那須塩原 ／ 交通案内：那須塩原駅・黒磯駅より、路線バス有料送迎サービス有約70分(2日前迄に要予約）／東北自動車道《那須IC》より車で約30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　３０台　無料　※旅館手前の県営大丸駐車場になります。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.66 ／ 立地 ★4.74 ／ 部屋 ★4.64 ／ 設備 ★4.62 ／ 風呂 ★4.73 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -393,7 +399,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/76354/76354_kya.jpg" alt="美ヶ原温泉　旅館すぎもと 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>レトロ空間で過ごす、秋の大人の隠れ温泉宿。全17室の趣異なる客室にジャズが流れる、美ヶ原温泉ステイ。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県松本市里山辺451-7 ／ 最寄り駅：松本 ／ 交通案内：ＪＲ　松本駅よりお車で１５分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県松本市里山辺451-7 ／ 最寄り駅：松本 ／ 交通案内：ＪＲ　松本駅よりお車で１５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.74 ／ 立地 ★4.24 ／ 部屋 ★4.67 ／ 設備 ★4.33 ／ 風呂 ★4.4 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -415,7 +421,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/20688/20688_sh.jpg" alt="料理旅館　奥飛騨山草庵　饗家（きょうや） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【1日5組限定】岐阜県随一の名工が腕を振るう、本格料理と源泉掛け流し貸切露天風呂で非日常を味わう旅</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岐阜県高山市奥飛騨温泉郷一重ケ根212-84 ／ 最寄り駅：高山 ／ 交通案内：JR高山線・高山駅～バスで70分「新平湯禅通寺前」下車徒歩3分／JR中央線・松本駅～バスで100分／東海北陸道・清見IC</p>
+                  <p><strong>【所在地・アクセス】</strong>岐阜県高山市奥飛騨温泉郷一重ケ根212-84 ／ 最寄り駅：高山 ／ 交通案内：JR高山線・高山駅～バスで70分「新平湯禅通寺前」下車徒歩3分／JR中央線・松本駅～バスで100分／東海北陸道・清見IC</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.72 ／ 立地 ★4.59 ／ 部屋 ★4.72 ／ 設備 ★4.76 ／ 風呂 ★4.83 ／ 食事 ★4.83</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -317,11 +317,11 @@ export default function KorankeiAutumnPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋の香嵐渓：4000本のもみじ狩りと巴川ライトアップ！三河の名湯と美食を味わうおすすめ宿5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「秋の香嵐渓：4000本のもみじ狩りと巴川ライトアップ！三河の名湯と美食を味わうおすすめ宿5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「秋の香嵐渓：4000本のもみじ狩りと巴川ライトアップ！三河の名湯と美食を味わうおすすめ宿5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -403,7 +403,7 @@ export default function KorankeiAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7144/7144_lob.jpg" alt="しあわせ隠れ里　猿投温泉　癒しの宿　金泉閣 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>名古屋ICから30分　/　駐車場無料　/　天然ラドン温泉　/　　藤ヶ丘駅より巡回バス有</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛知県豊田市加納町馬道通21 ／ 最寄り駅：保見 ／ 交通案内：東名高速、名古屋ICから車で30分。猿投グリーンロード加納IC下車。</p>
+                  <p><strong>【所在地・アクセス】</strong>愛知県豊田市加納町馬道通21 ／ 最寄り駅：保見 ／ 交通案内：東名高速、名古屋ICから車で30分。猿投グリーンロード加納IC下車。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　200台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -425,7 +425,7 @@ export default function KorankeiAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/182757/182757.jpg" alt="せせらぎの宿　木もれ日 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>山間の四季折々の風景と心地良い音を奏でる。自家栽培の素材を生かした女将の手作り料理でおもてなし♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛知県豊田市和合町羽左之窪30 ／ 最寄り駅：豊田市 ／ 交通案内：お車で新東名高速道路　新城I.Cより約１時間。岡崎東I.Cより約４５分</p>
+                  <p><strong>【所在地・アクセス】</strong>愛知県豊田市和合町羽左之窪30 ／ 最寄り駅：豊田市 ／ 交通案内：お車で新東名高速道路　新城I.Cより約１時間。岡崎東I.Cより約４５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　4台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -447,7 +447,7 @@ export default function KorankeiAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/39400/39400_k1.jpg" alt="川澄屋　茶房宿 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>低料金で家庭的な宿。紅葉の名所足助香嵐渓まで20分,西広瀬工業団地まで15分。行楽,ビジネスにどうぞ</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛知県豊田市下川口町水汲218 ／ 最寄り駅：猿投 ／ 交通案内：豊田市駅より（おいでんバス）小渡（おど）行き乗車（加茂橋下駅）下車徒歩1分(東海環状自動車道、豊田藤岡インターから15分</p>
+                  <p><strong>【所在地・アクセス】</strong>愛知県豊田市下川口町水汲218 ／ 最寄り駅：猿投 ／ 交通案内：豊田市駅より（おいでんバス）小渡（おど）行き乗車（加茂橋下駅）下車徒歩1分(東海環状自動車道、豊田藤岡インターから15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　先着順　大型可 予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.75 ／ 立地 ★4.54 ／ 部屋 ★4.5 ／ 設備 ★4.33 ／ 風呂 ★4.39 ／ 食事 ★4.87</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -469,7 +469,7 @@ export default function KorankeiAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/67976/67976_s.jpg" alt="名鉄トヨタホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>名鉄豊田市駅から徒歩約1分！VOD無料(※8階は除く）リファシャワーヘッド（※8階RN客室のみ）</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛知県豊田市喜多町1-140 ／ 最寄り駅：豊田市 ／ 交通案内：名鉄　豊田市駅から徒歩１分</p>
+                  <p><strong>【所在地・アクセス】</strong>愛知県豊田市喜多町1-140 ／ 最寄り駅：豊田市 ／ 交通案内：名鉄　豊田市駅から徒歩１分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５００台　無料(市営提携駐車場『フリーパーキング』）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -491,7 +491,7 @@ export default function KorankeiAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/104590/104590_ru.jpg" alt="ホテルルートイン豊田陣中 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ＷＯＷＯＷ全室で無料視聴可■VODルームシアター無料視聴可能（一般映画のみ：コンフォート特典）</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛知県豊田市陣中町2-18-13 ／ 最寄り駅：豊田市 ／ 交通案内：名鉄三河線　梅平駅より徒歩約１０分／名鉄三河線　豊田市駅より徒歩約２０分</p>
+                  <p><strong>【所在地・アクセス】</strong>愛知県豊田市陣中町2-18-13 ／ 最寄り駅：豊田市 ／ 交通案内：名鉄三河線　梅平駅より徒歩約１０分／名鉄三河線　豊田市駅より徒歩約２０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７８台　無料　予約不要　中型車・大型車受入不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.06 ／ 部屋 ★4.17 ／ 設備 ★4.14 ／ 風呂 ★4.24 ／ 食事 ★4.25</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

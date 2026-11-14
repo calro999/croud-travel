@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/spring-water-soba-tofu-gourmet-onsen-stay/"
   };
 
@@ -253,11 +253,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">清冽な名水が生み出す極上の喉ごし！名水百選の手打ち蕎麦＆名水豆腐料理の温泉宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「清冽な名水が生み出す極上の喉ごし！名水百選の手打ち蕎麦＆名水豆腐料理の温泉宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「清冽な名水が生み出す極上の喉ごし！名水百選の手打ち蕎麦＆名水豆腐料理の温泉宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -339,7 +339,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/44852/44852_room.jpg" alt="湯川温泉　萬鷹旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>萬鷹旅館名物！すっぽんコース★田舎会席・手打ちそばも楽しめる♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岩手県和賀郡西和賀町湯川52-108-1 ／ 最寄り駅：ほっとゆだ ／ 交通案内：ＪＲ北上線　ほっとゆだ駅から車で５分又はゆけむりタクシー萬鷹前下車すぐ／秋田自動車道　湯田ＩＣから車で１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>岩手県和賀郡西和賀町湯川52-108-1 ／ 最寄り駅：ほっとゆだ ／ 交通案内：ＪＲ北上線　ほっとゆだ駅から車で５分又はゆけむりタクシー萬鷹前下車すぐ／秋田自動車道　湯田ＩＣから車で１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -361,7 +361,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1350/1350_ks.jpg" alt="ホテル小田島 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【ＷＩＦＩ接続無料】盛岡の中心ビジネス街に位置し、繁華街までも徒歩2分</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岩手県盛岡市中央通1-12-24 ／ 最寄り駅：盛岡 ／ 交通案内：盛岡駅から車で5分徒歩17分。県庁、市役所まで徒歩5分　☆1階のファミマが目印です♪☆彡</p>
+                  <p><strong>【所在地・アクセス】</strong>岩手県盛岡市中央通1-12-24 ／ 最寄り駅：盛岡 ／ 交通案内：盛岡駅から車で5分徒歩17分。県庁、市役所まで徒歩5分　☆1階のファミマが目印です♪☆彡</p>
                   <p><strong>【駐車場・マイカー利用】</strong>先着順40台迄　1泊880円（税込）14時〜翌11時  満車の際は契約駐車場へご案内</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.16 ／ 立地 ★4.06 ／ 部屋 ★4.07 ／ 設備 ★4.03 ／ 風呂 ★4.02 ／ 食事 ★4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -383,7 +383,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1702/1702_y.jpg" alt="八幡平マウンテンホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>大自然のなかでアクティブな休日を！スキー場直結でお子様連れでも快適♪夏期はトレッキングが人気</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岩手県八幡平市松尾寄木第1地割509-1 ／ 最寄り駅：盛岡 ／ 交通案内：東北自動車道 松尾ICより15分。盛岡駅より岩手県北バスで約80分。</p>
+                  <p><strong>【所在地・アクセス】</strong>岩手県八幡平市松尾寄木第1地割509-1 ／ 最寄り駅：盛岡 ／ 交通案内：東北自動車道 松尾ICより15分。盛岡駅より岩手県北バスで約80分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　200台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -405,7 +405,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1710/1710_sgl.jpg" alt="ＪＲ東日本ホテルメッツ北上 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR北上駅西口徒歩1分！！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岩手県北上市大通1-1-34 ／ 最寄り駅：北上 ／ 交通案内：ＪＲ東北本線・新幹線　北上駅西口から徒歩１分  国道４号線より車で３分</p>
+                  <p><strong>【所在地・アクセス】</strong>岩手県北上市大通1-1-34 ／ 最寄り駅：北上 ／ 交通案内：ＪＲ東北本線・新幹線　北上駅西口から徒歩１分  国道４号線より車で３分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>【 駐車料金：1泊800円 】敷地内17台。満車の場合は提携駐車場をご案内します。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.17 ／ 立地 ★4.23 ／ 部屋 ★4.15 ／ 設備 ★4.1 ／ 風呂 ★4.06</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -427,7 +427,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2537/2537_sgl.jpg" alt="ＡＮＡホリデイ・イン岩手北上　ｂｙ　ＩＨＧ（旧：ホテルシティプラザ北上） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>キッズステイ＆イートフリーでファミリーにお得な特典満載。北上の自然に癒される心地よい滞在を。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岩手県北上市川岸1-14-1 ／ 最寄り駅：北上 ／ 交通案内：ＪＲ北上駅【東口】より徒歩約７分。いわて花巻空港より車で30分。北上江釣子インターより車で12分。</p>
+                  <p><strong>【所在地・アクセス】</strong>岩手県北上市川岸1-14-1 ／ 最寄り駅：北上 ／ 交通案内：ＪＲ北上駅【東口】より徒歩約７分。いわて花巻空港より車で30分。北上江釣子インターより車で12分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場130台分（予約不要）※大型車は事前問い合わせ要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -438,6 +438,12 @@ export default function Page() {
             </div>
           </div></section>
 
+      <div className="my-8">
+        <ShareButtons
+            title="清冽な名水が生み出す極上の喉ごし！名水百選の手打ち蕎麦＆名水豆腐料理の温泉宿"
+            url="https://croud-travel.pages.dev/spring-water-soba-tofu-gourmet-onsen-stay/"
+          />
+      </div>
       <HubRelatedPosts currentSlug="spring-water-soba-tofu-gourmet-onsen-stay" />
 </div>
   );

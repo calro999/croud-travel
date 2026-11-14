@@ -285,11 +285,11 @@ export default function AutumnBudgetTottoriHotelsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">鳥取：解禁の松葉がにと秋風の鳥取砂丘を満喫！格安・高コスパホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「鳥取：解禁の松葉がにと秋風の鳥取砂丘を満喫！格安・高コスパホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「鳥取：解禁の松葉がにと秋風の鳥取砂丘を満喫！格安・高コスパホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -371,7 +371,7 @@ export default function AutumnBudgetTottoriHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/70969/70969_s.jpg" alt="スーパーホテル鳥取駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>鳥取駅南口より徒歩1分！ビジネスや旅行の拠点に最適！健康朝食やウェルカムバーが無料☆</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鳥取県鳥取市扇町5 ／ 最寄り駅：鳥取 ／ 交通案内：ＪＲ山陰本線　鳥取駅南口より徒歩１分</p>
+                  <p><strong>【所在地・アクセス】</strong>鳥取県鳥取市扇町5 ／ 最寄り駅：鳥取 ／ 交通案内：ＪＲ山陰本線　鳥取駅南口より徒歩１分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>４２台　先着順　６００円（税込み／泊） ※立体駐車場のため全高・横幅・車高、入出庫の時間制限あり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.31 ／ 立地 ★4.22 ／ 部屋 ★4.18 ／ 設備 ★4.12 ／ 風呂 ★4.03 ／ 食事 ★4.23</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -393,7 +393,7 @@ export default function AutumnBudgetTottoriHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/56896/56896_si.jpg" alt="ＨＯＴＥＬ　ＴＲＥＳＴ（旧　ホテルナショナル） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>新型コロナウィルス感染予防のため、朝食バイキングの提供を中止しております。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鳥取県鳥取市永楽温泉町159 ／ 最寄り駅：鳥取 ／ 交通案内：鳥取駅より徒歩３分</p>
+                  <p><strong>【所在地・アクセス】</strong>鳥取県鳥取市永楽温泉町159 ／ 最寄り駅：鳥取 ／ 交通案内：鳥取駅より徒歩３分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場のご案内：ホテル敷地内6台可能有料800円/泊　近隣パーキングＮＰＣ（800円/泊）徒歩1分</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.17 ／ 立地 ★3.97 ／ 部屋 ★4.03 ／ 設備 ★3.84 ／ 風呂 ★3.74</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -415,7 +415,7 @@ export default function AutumnBudgetTottoriHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5567/5567_s.jpg" alt="ホテルＲＥＳＨ　鳥取駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR鳥取駅前より徒歩や2分、雨の日も濡れずにアクセス可能！男女大浴場・サウナ完備</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鳥取県鳥取市栄町752 ／ 最寄り駅：鳥取 ／ 交通案内：JR鳥取駅より徒歩約2分。丸由百貨店（旧鳥取大丸）東側です／鳥取西道路・鳥取西ICより車で約8分</p>
+                  <p><strong>【所在地・アクセス】</strong>鳥取県鳥取市栄町752 ／ 最寄り駅：鳥取 ／ 交通案内：JR鳥取駅より徒歩約2分。丸由百貨店（旧鳥取大丸）東側です／鳥取西道路・鳥取西ICより車で約8分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>近隣に契約駐車場があります。(有料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.12 ／ 立地 ★4.14 ／ 部屋 ★3.95 ／ 設備 ★4 ／ 風呂 ★4.05</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -437,7 +437,7 @@ export default function AutumnBudgetTottoriHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/70975/70975_on.jpg" alt="スーパーホテル鳥取駅北口禁煙館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>天然温泉/ウェルカムバー/健康朝食が無料☆鳥取駅から徒歩アクセスすぐ！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鳥取県鳥取市今町2-382 ／ 最寄り駅：鳥取 ／ 交通案内：ＪＲ山陰本線　鳥取駅北口から西へ徒歩5分</p>
+                  <p><strong>【所在地・アクセス】</strong>鳥取県鳥取市今町2-382 ／ 最寄り駅：鳥取 ／ 交通案内：ＪＲ山陰本線　鳥取駅北口から西へ徒歩5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り33台　700円※15:00からの先着順ご予約不可。徒歩5分に提携駐車場あり(1泊600円)</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.15 ／ 立地 ★4.02 ／ 部屋 ★4.07 ／ 設備 ★4.03 ／ 風呂 ★3.97 ／ 食事 ★4.07</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -459,7 +459,7 @@ export default function AutumnBudgetTottoriHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/196888/196888.jpg" alt="アパホテル〈鳥取駅前〉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2025年10月23日開業！【全室禁煙】準天然人工温泉「光明石温泉」の大浴殿完備</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鳥取県鳥取市富安2-165 ／ 最寄り駅：鳥取 ／ 交通案内：JR山陰本線「鳥取駅」（南口）より徒歩2分　鳥取の観光やビジネスにアクセス便利な好立地！</p>
+                  <p><strong>【所在地・アクセス】</strong>鳥取県鳥取市富安2-165 ／ 最寄り駅：鳥取 ／ 交通案内：JR山陰本線「鳥取駅」（南口）より徒歩2分　鳥取の観光やビジネスにアクセス便利な好立地！</p>
                   <p><strong>【駐車場・マイカー利用】</strong>敷地内は車椅子使用者用駐車場1台のみ（要予約）、提携駐車場あり（徒歩約5分）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.21 ／ 立地 ★4.23 ／ 部屋 ★4.25 ／ 設備 ★4.23 ／ 風呂 ★4.18 ／ 食事 ★3.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

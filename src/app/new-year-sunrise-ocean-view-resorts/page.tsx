@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/new-year-sunrise-ocean-view-resorts/"
   };
 
@@ -186,6 +186,12 @@ export default function Page() {
           </p>
         </div>
 
+        <div className="pt-2">
+          <ShareButtons
+            title="海から昇る初日の出を客室から望む！年末年始・お正月に行きたい絶景オーシャンビュー宿"
+            url="https://croud-travel.pages.dev/new-year-sunrise-ocean-view-resorts/"
+          />
+        </div>
         {/* クーポン特大バナー */}
         <SpecialCouponBanner />
 
@@ -306,11 +312,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">海から昇る初日の出を客室から望む！年末年始・お正月に行きたい絶景オーシャンビュー宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「海から昇る初日の出を客室から望む！年末年始・お正月に行きたい絶景オーシャンビュー宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「海から昇る初日の出を客室から望む！年末年始・お正月に行きたい絶景オーシャンビュー宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -374,7 +380,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/28426/28426_room.jpg" alt="全室スイート＆オーシャンビュー　ヴィラージュ伊豆高原 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>＼全室78㎡〜オーシャンビュースイート！／ 露天風呂やプール等館内アクティビティも充実♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県伊東市富戸1317-8 ／ 最寄り駅：伊豆高原 ／ 交通案内：【電車】伊豆高原駅より無料送迎アリ：要予約　【お車】東京方面からのお客様＝石橋IC　近畿方面からのお客様＝天城高原IC</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県伊東市富戸1317-8 ／ 最寄り駅：伊豆高原 ／ 交通案内：【電車】伊豆高原駅より無料送迎アリ：要予約　【お車】東京方面からのお客様＝石橋IC　近畿方面からのお客様＝天城高原IC</p>
                   <p><strong>【駐車場・マイカー利用】</strong>【無料】屋外駐車場完備。予約不要。大型車・バスは事前にお知らせください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.52 ／ 立地 ★4.59 ／ 部屋 ★4.61 ／ 設備 ★4.46 ／ 風呂 ★4.43 ／ 食事 ★4.49</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -396,7 +402,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/29100/29100_wa.jpg" alt="伊豆高原温泉　海望む露天風呂付客室　夢海月(ゆめみづき) 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>伊豆高原温泉のモダン旅館 ・海望む露天風呂付客室と個室で楽しむ伊豆金目鯛懐石・ニッポニア高原宿夢海月</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県伊東市大室高原10丁目348 ／ 最寄り駅：伊豆高原 ／ 交通案内：車：東名高速厚木IC・沼津ＩＣより約100分／電車：伊豆急行線伊豆高原駅～シャボテン公園行・理想郷バス停～歩2分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県伊東市大室高原10丁目348 ／ 最寄り駅：伊豆高原 ／ 交通案内：車：東名高速厚木IC・沼津ＩＣより約100分／電車：伊豆急行線伊豆高原駅～シャボテン公園行・理想郷バス停～歩2分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料7台（ご予約不要）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.46 ／ 立地 ★4.06 ／ 部屋 ★4.52 ／ 設備 ★4.26 ／ 風呂 ★4.38 ／ 食事 ★4.6</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -418,7 +424,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/38120/38120_wa.jpg" alt="伊豆北川温泉　お祝いの宿　吉祥ＣＡＲＥＮ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>大自然の中のかけ流し天然温泉と極上のスパトリートメントにフレンチ懐石。身体と心に安らぎのご褒美を。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県賀茂郡東伊豆町奈良本1130-1 ／ 最寄り駅：伊豆北川 ／ 交通案内：伊豆熱川駅より送迎有り（13:30～16:00）</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県賀茂郡東伊豆町奈良本1130-1 ／ 最寄り駅：伊豆北川 ／ 交通案内：伊豆熱川駅より送迎有り（13:30～16:00）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.66 ／ 立地 ★4.65 ／ 部屋 ★4.49 ／ 設備 ★4.48 ／ 風呂 ★4.68 ／ 食事 ★4.68</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

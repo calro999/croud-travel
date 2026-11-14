@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-yamagata-yonezawa-onogawa-autumn-stay/"
   };
 
@@ -482,11 +482,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">山形・米沢牛のふるさと小野川温泉＆白布温泉！小野小町開湯の美肌湯と天元台紅葉｜ふるさと納税で泊まれる名宿ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「山形・米沢牛のふるさと小野川温泉＆白布温泉！小野小町開湯の美肌湯と天元台紅葉｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「山形・米沢牛のふるさと小野川温泉＆白布温泉！小野小町開湯の美肌湯と天元台紅葉｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -550,7 +550,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/27910/27910_r1.jpg" alt="美湯美食の離れ宿　小野川温泉　河鹿荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>◆エリア売上No１◆クチコミ・食事4.5点◆個室or個室風でお食事◆米沢牛と良質な温泉が自慢のお宿！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県米沢市小野川町2070 ／ 最寄り駅：米沢 ／ 交通案内：東北中央道米沢中央ＩＣから20分・東京駅から山形新幹線で2時間9分！送迎バスの運行はございません</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県米沢市小野川町2070 ／ 最寄り駅：米沢 ／ 交通案内：東北中央道米沢中央ＩＣから20分・東京駅から山形新幹線で2時間9分！送迎バスの運行はございません</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　8０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.21 ／ 部屋 ★4.24 ／ 設備 ★4.05 ／ 風呂 ★4.46 ／ 食事 ★4.57</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -572,7 +572,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4890/4890_room.jpg" alt="小野川温泉　鈴の宿　登府屋旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>■ご家族で”親孝行たび”をお考えの方へ♪バリアフリーで車イスもラクラク安心♪掛け流し温泉&amp;サウナ有り</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県米沢市小野川温泉2493 ／ 最寄り駅：米沢 ／ 交通案内：山形新幹線 米沢駅より路線バスで26分。東北自動車道 飯坂ICより60分　小野川温泉の中心に位置する宿です。</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県米沢市小野川温泉2493 ／ 最寄り駅：米沢 ／ 交通案内：山形新幹線 米沢駅より路線バスで26分。東北自動車道 飯坂ICより60分　小野川温泉の中心に位置する宿です。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>■玄関前無料駐車場あり。（30台分）10名様以上の場合、米沢市内の送迎サービス【全館Wi-Fi完備】</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.25 ／ 立地 ★4 ／ 部屋 ★4.39 ／ 設備 ★4.26 ／ 風呂 ★4.41 ／ 食事 ★4.3</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -594,7 +594,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/146112/146112_kan1.jpg" alt="白布温泉　東屋（ひがしや） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>開湯700年湧き続ける温泉の歴史を 変わらぬおもてなしの心で未来へ伝える宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県米沢市関1537 ／ 最寄り駅：米沢 ／ 交通案内：ＪＲ米沢駅より「白布天元台行」路線バスにて約50分　　送迎バス：ＪＲ米沢駅発　14:30　旅館発　10:00　要予約</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県米沢市関1537 ／ 最寄り駅：米沢 ／ 交通案内：ＪＲ米沢駅より「白布天元台行」路線バスにて約50分　　送迎バス：ＪＲ米沢駅発　14:30　旅館発　10:00　要予約</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

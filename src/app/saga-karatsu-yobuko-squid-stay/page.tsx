@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">佐賀・唐津＆呼子：唐津城・虹の松原＆呼子活イカ姿造り・佐賀牛宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「佐賀・唐津＆呼子：唐津城・虹の松原＆呼子活イカ姿造り・佐賀牛宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「佐賀・唐津＆呼子：唐津城・虹の松原＆呼子活イカ姿造り・佐賀牛宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -252,7 +252,7 @@ export default function MicroTouristHubPage() {
               <tbody className="divide-y divide-stone-200">
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. からつ温泉　かぐや姫の湯　旅館　綿屋</td>
-                <td className="p-3 text-stone-600">佐賀県</td>
+                <td className="p-3 text-stone-600">佐賀県唐津市大名小路5-10</td>
                 <td className="p-3 text-stone-600">福岡空港、JR博多駅よりＪＲ唐津行唐津駅下車、車３分　徒歩１5分／長崎</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★3.64（282件）</td>
@@ -313,8 +313,8 @@ export default function MicroTouristHubPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/14889/14889.jpg" alt="からつ温泉　かぐや姫の湯　旅館　綿屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「佐賀・唐津＆呼子（唐津城・虹の松原＆呼子活イカ姿造り・佐賀牛宿 厳選ガイド）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：福岡空港、JR博多駅よりＪＲ唐津行唐津駅下車、車３分　徒歩１5分／長崎自動車道多久ＩＣより４０分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>「佐賀・唐津＆呼子」掲載宿の所在地・アクセス・特徴データ一覧は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：福岡空港、JR博多駅よりＪＲ唐津行唐津駅下車、車３分　徒歩１5分／長崎自動車道多久ＩＣより４０分</p>
                   <p>【佐賀・唐津＆呼子：唐津城・虹の松原＆呼子活イカ姿造り】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -336,7 +336,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/78103/78103_room.jpg" alt="割烹旅館　筑前屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>唐津市呼子港にある割烹旅館です。抜群のロケーションと新鮮な魚料理を存分にお楽しみ下さい。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 佐賀県唐津市呼子町殿の浦1659 ／ 最寄り駅：西唐津 ／ 交通案内：ＪＲ　唐津駅よりお車にて３０分</p>
+                  <p><strong>【所在地・アクセス】</strong>佐賀県唐津市呼子町殿の浦1659 ／ 最寄り駅：西唐津 ／ 交通案内：ＪＲ　唐津駅よりお車にて３０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　8台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -358,7 +358,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/28966/28966_heya.jpg" alt="日本料理　水野旅館＜唐津＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>“美食と歴史”を堪能する宿。玄界灘の海の幸と唐津焼、歴史ある空間が織りなすひとときをお愉しみください</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 佐賀県唐津市東城内4-50 ／ 最寄り駅：唐津 ／ 交通案内：ＪＲ唐津駅より車で約５分／長崎自動車道多久ＩＣより４０分</p>
+                  <p><strong>【所在地・アクセス】</strong>佐賀県唐津市東城内4-50 ／ 最寄り駅：唐津 ／ 交通案内：ＪＲ唐津駅より車で約５分／長崎自動車道多久ＩＣより４０分</p>
                   <p>【佐賀・唐津＆呼子：唐津城・虹の松原＆呼子活イカ姿造り】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -380,7 +380,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/17650/17650_heya.jpg" alt="割烹旅館　長崎荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>Gotoキャンペーン対象</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 佐賀県唐津市西城内6-36 ／ 最寄り駅：唐津 ／ 交通案内：ＪＲ唐津駅より徒歩にて８分</p>
+                  <p><strong>【所在地・アクセス】</strong>佐賀県唐津市西城内6-36 ／ 最寄り駅：唐津 ／ 交通案内：ＪＲ唐津駅より徒歩にて８分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -402,7 +402,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/80547/80547_wa.jpg" alt="ＯＮＣＲＩ－ＫＡＲＡＴＳＵ（おんくり唐津）（旧：旅館魚半） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>〈2025年7月1日グランドオープン〉自然の恩恵を享受する海辺のリゾート</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 佐賀県唐津市浜玉町浜崎1669-55 ／ 最寄り駅：浜崎 ／ 交通案内：JR浜崎駅から徒歩約9分　※ナビゲーションの設定は「ONCRI－KARATSU」又は「0955-56-6234」</p>
+                  <p><strong>【所在地・アクセス】</strong>佐賀県唐津市浜玉町浜崎1669-55 ／ 最寄り駅：浜崎 ／ 交通案内：JR浜崎駅から徒歩約9分　※ナビゲーションの設定は「ONCRI－KARATSU」又は「0955-56-6234」</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　第1駐車場：6台、第2駐車場：23台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

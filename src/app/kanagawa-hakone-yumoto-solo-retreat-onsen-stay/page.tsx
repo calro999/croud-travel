@@ -77,7 +77,7 @@ export default function ArticlePage() {
             神奈川・箱根湯本温泉ひとり旅＆渓流美おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「箱根湯本ひとり旅・自然渓流おこもり」ロマンスカー直通・渓流露天風呂・旬会席！都心から85分の極上ソロ温泉リトリート厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               箱根の玄関口として栄える箱根湯本温泉。新宿からロマンスカー直通でわずか85分というアクセスの良さに加え、駅前商店街の賑わいから一歩奥へ入れば、豊かな自然と清流が織りなす静寂の温泉郷が広がっています。
             </p>
             <p>
-              川のせせらぎを聞きながら露天風呂に浸かれる名宿から、一人でも本格的な会席料理と上質なもてなしを堪能できる老舗旅館まで、楽天トラベル公式APIより直接取得した最新データをもとに厳選紹介します。
+              川のせせらぎを聞きながら露天風呂に浸かれる名宿から、一人でも本格的な会席料理と上質なもてなしを堪能できる老舗旅館まで、宿泊施設データより直接取得した最新データをもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -419,11 +419,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">箱根湯本ひとり旅・自然渓流おこもり：ロマンスカー直通・渓流露天風呂・旬会席！都心から85分の極上ソロ温泉リトリート厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「箱根湯本ひとり旅・自然渓流おこもり：ロマンスカー直通・渓流露天風呂・旬会席！都心から85分の極上ソロ温泉リトリート厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「箱根湯本ひとり旅・自然渓流おこもり：ロマンスカー直通・渓流露天風呂・旬会席！都心から85分の極上ソロ温泉リトリート厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -487,7 +487,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/187989/187989.jpg" alt="箱根湯本　温泉旅館「大和館」 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>～江戸初期創業。箱根最古の良質な温泉を「源泉かけ流し」「貸切」で～【温泉ソムリエ がいる宿】</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県足柄下郡箱根町湯本655 ／ 最寄り駅：箱根湯本 ／ 交通案内：「箱根湯本駅」より徒歩約6分／「温泉場入口」バス停より徒歩すぐ／小田原厚木道路「箱根口IC」より10分（5km）</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県足柄下郡箱根町湯本655 ／ 最寄り駅：箱根湯本 ／ 交通案内：「箱根湯本駅」より徒歩約6分／「温泉場入口」バス停より徒歩すぐ／小田原厚木道路「箱根口IC」より10分（5km）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場（4台／先着順）駐車可能な最大サイズはハイエース程度です。国道1号線からお越しください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -509,7 +509,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9669/9669_war.jpg" alt="箱根湯本温泉　箱根パークス吉野 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>楽天アワード2025　地上２０ｍ展望露天風呂からの眺望はリフレッシュに最適　三箇所ある貸切風呂も好評</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県足柄下郡箱根町湯本茶屋139-5 ／ 最寄り駅：箱根湯本 ／ 交通案内：箱根湯本駅より徒歩12分。お車では小田原厚木道路小田原西ICから国道1号線経由約12分。無料駐車場併設。</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県足柄下郡箱根町湯本茶屋139-5 ／ 最寄り駅：箱根湯本 ／ 交通案内：箱根湯本駅より徒歩12分。お車では小田原厚木道路小田原西ICから国道1号線経由約12分。無料駐車場併設。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -531,7 +531,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/165731/165731_kan1.jpg" alt="箱根湯本温泉　離れ山家荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全室離れお部屋食の宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県足柄下郡箱根町湯本592 ／ 最寄り駅：箱根湯本 ／ 交通案内：箱根湯本駅より徒歩にて約１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県足柄下郡箱根町湯本592 ／ 最寄り駅：箱根湯本 ／ 交通案内：箱根湯本駅より徒歩にて約１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（本館仙景の駐車場をご利用ください。水車が目印です。無料　予約不要）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

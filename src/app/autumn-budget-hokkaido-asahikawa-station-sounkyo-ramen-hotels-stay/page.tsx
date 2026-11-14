@@ -376,11 +376,11 @@ export default function AutumnBudgetHotelsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">旭川駅前：大雪山層雲峡の紅葉＆名物旭川醤油ラーメン！2,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「旭川駅前：大雪山層雲峡の紅葉＆名物旭川醤油ラーメン！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「旭川駅前：大雪山層雲峡の紅葉＆名物旭川醤油ラーメン！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -462,7 +462,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/166948/166948_room.jpg" alt="ワイズホテル　旭川駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ゆったりした全室禁煙の客室とくつろぎのラウンジ、旅の疲れを癒す最上階の大浴場とサウナ。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道旭川市宮下通9-2-17 ／ 最寄り駅：旭川 ／ 交通案内：JR旭川駅隣接、旭山動物園や旭川空港行が発着するバス停はホテル目の前の好立地♪</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道旭川市宮下通9-2-17 ／ 最寄り駅：旭川 ／ 交通案内：JR旭川駅隣接、旭山動物園や旭川空港行が発着するバス停はホテル目の前の好立地♪</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有料駐車場有 ホテル裏（タイムズツルハビル旭川駅前）１泊１２００円　マップコード「79343232」</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.39 ／ 部屋 ★4.34 ／ 設備 ★4.28 ／ 風呂 ★4.27 ／ 食事 ★4.26</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -484,7 +484,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/172612/172612.jpg" alt="ＫＯＫＯ　ＨＯＴＥＬ　旭川駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>旭川駅前徒歩2分◆イオンモール旭川駅前メインエントランス出て正面の立地！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道旭川市宮下通7-3112 ／ 最寄り駅：旭川 ／ 交通案内：旭川駅より徒歩にて約2分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道旭川市宮下通7-3112 ／ 最寄り駅：旭川 ／ 交通案内：旭川駅より徒歩にて約2分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>契約駐車場（イオンモール旭川駅前）1泊1000円。出庫毎に料金がかかります。フロントにてご精算下さい</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.19 ／ 立地 ★4.28 ／ 部屋 ★4.09 ／ 設備 ★4.04 ／ 風呂 ★4.02 ／ 食事 ★4.36</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -506,7 +506,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/151372/151372.jpg" alt="天人峡天然温泉　「旅人の湯」ホテルルートインＧｒａｎｄ旭川駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ＪＲ旭川駅より徒歩２分。全室コンフォート仕様。天然温泉大浴場（加水・加温・循環ろ過）あり。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道旭川市宮下通8-1962-1 ／ 最寄り駅：旭川 ／ 交通案内：ＪＲ　旭川駅より徒歩にて約２分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道旭川市宮下通8-1962-1 ／ 最寄り駅：旭川 ／ 交通案内：ＪＲ　旭川駅より徒歩にて約２分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>立体駐車場176台　1泊800円（税込）　予約不可/先着順　バイク駐車不可（近隣駐車場へご案内）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.29 ／ 立地 ★4.4 ／ 部屋 ★4.32 ／ 設備 ★4.29 ／ 風呂 ★4.29 ／ 食事 ★4.32</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -528,7 +528,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/168319/168319.jpg" alt="ホテルテトラ旭川駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>駅から５分！繁華街へも5分！何処へ行くにも便利な立地です！。Wi-Fi完備。観光・ビジネスに！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道旭川市1条通9丁目左1号 ／ 最寄り駅：旭川 ／ 交通案内：ＪＲ　旭川駅より徒歩にて約５分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道旭川市1条通9丁目左1号 ／ 最寄り駅：旭川 ／ 交通案内：ＪＲ　旭川駅より徒歩にて約５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>提携先：ハートピアパーキング　旭川市1条通7丁目43-40　※ オートバイ除く、高さ2.1ｍ以下の車</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4 ／ 立地 ★3.88 ／ 部屋 ★3.57 ／ 設備 ★3.53 ／ 風呂 ★3.39 ／ 食事 ★3.54</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -550,7 +550,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/38810/38810_he.jpg" alt="ルートイン旭川駅前一条通 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>■旭川駅から徒歩５分■朝食バイキング無料■加湿空気清浄機全室完備■男女別大浴場あり■WAONで支払可</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道旭川市1条通6町目39-1 ／ 最寄り駅：旭川 ／ 交通案内：ＪＲ　函館本線　旭川駅から徒歩５分／道央自動車道旭川鷹柄ＩＣより約７㎞車で２０分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道旭川市1条通6町目39-1 ／ 最寄り駅：旭川 ／ 交通案内：ＪＲ　函館本線　旭川駅から徒歩５分／道央自動車道旭川鷹柄ＩＣより約７㎞車で２０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り★１台１泊６００円〜１100円★バイク駐輪場なし★大型車は要予約（ホテルへご連絡下さい）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.03 ／ 立地 ★3.95 ／ 部屋 ★4.02 ／ 設備 ★3.97 ／ 風呂 ★3.96 ／ 食事 ★3.91</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

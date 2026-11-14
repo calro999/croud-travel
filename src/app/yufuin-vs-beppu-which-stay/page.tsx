@@ -255,11 +255,11 @@ export default function YufuinVsBeppuPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">由布院 vs 別府 どっちに泊まる？：温泉の泉質・宿のタイプ・観光スポット・費用を完全比較：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「由布院 vs 別府 どっちに泊まる？：温泉の泉質・宿のタイプ・観光スポット・費用を完全比較」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「由布院 vs 別府 どっちに泊まる？：温泉の泉質・宿のタイプ・観光スポット・費用を完全比較」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -350,7 +350,7 @@ export default function YufuinVsBeppuPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/14835/14835_war.jpg" alt="由布院温泉　旅館光の家 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>由布岳の麓通りにある小さな湯宿 -盆地の傍 静かな暮らしを‐ 古道具屋、古着屋、図書室、茶室を備える</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大分県由布市湯布院町川上2490 ／ 最寄り駅：由布院 ／ 交通案内：由布院駅より車で５分／湯布院ＩＣから１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>大分県由布市湯布院町川上2490 ／ 最寄り駅：由布院 ／ 交通案内：由布院駅より車で５分／湯布院ＩＣから１０分</p>
                   <p>【由布院 vs 別府 どっちに泊まる？：温泉の泉質・宿】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -372,7 +372,7 @@ export default function YufuinVsBeppuPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/70229/70229_h.jpg" alt="由布院温泉　旅館　めばえ荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>心静かに季節をめぐる。惜しみなく流れるゆたかな時を、想いを込めてお客様にお贈りいたします。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大分県由布市湯布院町川南249-1 ／ 最寄り駅：由布院 ／ 交通案内：由布院駅より車で５分</p>
+                  <p><strong>【所在地・アクセス】</strong>大分県由布市湯布院町川南249-1 ／ 最寄り駅：由布院 ／ 交通案内：由布院駅より車で５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２５台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -394,7 +394,7 @@ export default function YufuinVsBeppuPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/32186/32186_h.jpg" alt="由布院温泉　旅館　冨季の舎 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>３棟ある離れには、内風呂と露天風呂付。その他に５つの貸切風呂がございます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大分県由布市湯布院町川南814-1 ／ 最寄り駅：由布院 ／ 交通案内：ＪＲ久大線　由布院駅より車で５分　徒歩１５分</p>
+                  <p><strong>【所在地・アクセス】</strong>大分県由布市湯布院町川南814-1 ／ 最寄り駅：由布院 ／ 交通案内：ＪＲ久大線　由布院駅より車で５分　徒歩１５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　２０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -416,7 +416,7 @@ export default function YufuinVsBeppuPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/180258/180258.jpg" alt="天然温泉　鉄輪の湯　スーパーホテル別府駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ＪＲ別府駅東口より徒歩約2分！　鉄輪（かんなわ）温泉直送の天然温泉完備！　駅前繁華街もすぐ！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大分県別府市駅前町13-8 ／ 最寄り駅：別府（大分） ／ 交通案内：ＪＲ　別府駅　東口より徒歩にて約1分　/　大分空港よりバス(エアライナー)で約1時間　/　別府ICより車で15分</p>
+                  <p><strong>【所在地・アクセス】</strong>大分県別府市駅前町13-8 ／ 最寄り駅：別府（大分） ／ 交通案内：ＪＲ　別府駅　東口より徒歩にて約1分　/　大分空港よりバス(エアライナー)で約1時間　/　別府ICより車で15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り/５００円（１泊１台あたり）　先着順/予約不可</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -438,7 +438,7 @@ export default function YufuinVsBeppuPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1938/1938_room.jpg" alt="別府温泉　ホテルニューツルタ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>別府湾を望む、まちなかに立地。地上20ｍにある大浴場からは別府湾が一望！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大分県別府市北浜1-14-15 ／ 最寄り駅：大分 ／ 交通案内：ＪＲ別府駅より徒歩8分。別府ＩＣより車で約15分。駐車場先着順、入庫後21時間最大700円。全室ロビー無料Wi-fi</p>
+                  <p><strong>【所在地・アクセス】</strong>大分県別府市北浜1-14-15 ／ 最寄り駅：大分 ／ 交通案内：ＪＲ別府駅より徒歩8分。別府ＩＣより車で約15分。駐車場先着順、入庫後21時間最大700円。全室ロビー無料Wi-fi</p>
                   <p><strong>【駐車場・マイカー利用】</strong>入庫後21時間：最大700円・駐車場は有料＆先着順。満車の場合はご利用いただけないことがございます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -460,7 +460,7 @@ export default function YufuinVsBeppuPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/107764/107764.jpg" alt="別府鉄輪温泉　ホテル山水館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>木々に囲まれ二連水車の廻る大露天風呂と別府湾や湯煙りの情景を一望できる展望露天風呂が人気</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大分県別府市鶴見628-1 ／ 最寄り駅：別府（大分） ／ 交通案内：ＪＲ　別府駅よりお車にて約１５分、亀の井バスに乗車「朝日」にて下車後、徒歩１分</p>
+                  <p><strong>【所在地・アクセス】</strong>大分県別府市鶴見628-1 ／ 最寄り駅：別府（大分） ／ 交通案内：ＪＲ　別府駅よりお車にて約１５分、亀の井バスに乗車「朝日」にて下車後、徒歩１分</p>
                   <p>【由布院 vs 別府 どっちに泊まる？：温泉の泉質・宿】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -376,11 +376,11 @@ export default function AutumnBudgetHotelsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">高知駅前：秋の戻り鰹塩たたき＆ひろめ市場！3,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「高知駅前：秋の戻り鰹塩たたき＆ひろめ市場！3,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「高知駅前：秋の戻り鰹塩たたき＆ひろめ市場！3,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -462,7 +462,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1516/1516_en.jpg" alt="ホテル　港屋＜高知県＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>高知駅徒歩3分の好立地で『上質なベッド』・『大浴場』・『平面駐車場』が唯一揃う親切なホテルです♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 高知県高知市相生町2-12 ／ 最寄り駅：高知 ／ 交通案内：◎ＪＲ高知駅より徒歩3分◎高知ICより車で約10分◎高知空港より車で30分◎はりまや橋まで徒歩10分◎</p>
+                  <p><strong>【所在地・アクセス】</strong>高知県高知市相生町2-12 ／ 最寄り駅：高知 ／ 交通案内：◎ＪＲ高知駅より徒歩3分◎高知ICより車で約10分◎高知空港より車で30分◎はりまや橋まで徒歩10分◎</p>
                   <p><strong>【駐車場・マイカー利用】</strong>平面駐車場 37台／先着順／1泊700円（バイク・大型車は別料金）／車高制限なし／大型は事前連絡必須</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.1 ／ 立地 ★3.96 ／ 部屋 ★3.81 ／ 設備 ★3.78 ／ 風呂 ★4.05 ／ 食事 ★3.97</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -484,7 +484,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1553/1553_sil.jpg" alt="ホテルアベスト高知 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>≪龍馬ゆかりの地≫繁華街まで徒歩5分♪全館無線ＬＡＮ完備☆温かみあるおもてなしと最高の立地が魅力。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 高知県高知市南はりまや町1-7-14 ／ 最寄り駅：高知 ／ 交通案内：高知の中心はりまや橋電停まで徒歩3分。高速バス、はりまや橋バス乗り場徒歩3分、JR高知駅まで徒歩15分</p>
+                  <p><strong>【所在地・アクセス】</strong>高知県高知市南はりまや町1-7-14 ／ 最寄り駅：高知 ／ 交通案内：高知の中心はりまや橋電停まで徒歩3分。高速バス、はりまや橋バス乗り場徒歩3分、JR高知駅まで徒歩15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>車‥駐車料金普通車１台　800円税込/1泊。近隣契約駐車場有り　バイク１台300円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.89 ／ 立地 ★3.71 ／ 部屋 ★3.57 ／ 設備 ★3.41 ／ 風呂 ★3.31</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -506,7 +506,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1807/1807_t.jpg" alt="サザンシティホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全室Wベッド！Wifi無料♪そして小学生以下のお子様は添い寝なら無料（大人1名につきお子様2名まで）</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 高知県南国市明見933 ／ 最寄り駅：後免 ／ 交通案内：高知市内より車で15分☆ 高知空港・南国インターチェンジより車で10分☆</p>
+                  <p><strong>【所在地・アクセス】</strong>高知県南国市明見933 ／ 最寄り駅：後免 ／ 交通案内：高知市内より車で15分☆ 高知空港・南国インターチェンジより車で10分☆</p>
                   <p><strong>【駐車場・マイカー利用】</strong>≪無料！！≫ 150台まで入ります。 　トラック・RV車・ワゴン車可。予約は不要です。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.39 ／ 立地 ★4.14 ／ 部屋 ★4.44 ／ 設備 ★4.32 ／ 風呂 ★4.22 ／ 食事 ★4.42</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -528,7 +528,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4866/4866_jpn.jpg" alt="リバーサイドホテル松栄 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>高知市の中心に位置し、観光・レジャー・ビジネスの拠点として便利。全客室Wi-Fi完備。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 高知県高知市天神町8-1 ／ 最寄り駅：高知 ／ 交通案内：ＪＲ土讃線高知駅より車で５分</p>
+                  <p><strong>【所在地・アクセス】</strong>高知県高知市天神町8-1 ／ 最寄り駅：高知 ／ 交通案内：ＪＲ土讃線高知駅より車で５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り/30台。有料/普通車：700円、バイク：500円、自転車：無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -550,7 +550,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5527/5527_war.jpg" alt="高知プリンスホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>地球33番地の宿から観光もビジネスもおもいのまま。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 高知県高知市南宝永町4-2 ／ 最寄り駅：高知 ／ 交通案内：JR高知駅より車で5分。高知龍馬空港よりシャトルバス20分宝永町停留所すぐ</p>
+                  <p><strong>【所在地・アクセス】</strong>高知県高知市南宝永町4-2 ／ 最寄り駅：高知 ／ 交通案内：JR高知駅より車で5分。高知龍馬空港よりシャトルバス20分宝永町停留所すぐ</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り。お車保管料１泊770円（税込）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

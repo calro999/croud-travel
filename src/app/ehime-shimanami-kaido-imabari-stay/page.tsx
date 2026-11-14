@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">愛媛・しまなみ海道＆今治：来島海峡大橋・多島美サイクリング＆来島鯛極上宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「愛媛・しまなみ海道＆今治：来島海峡大橋・多島美サイクリング＆来島鯛極上宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「愛媛・しまなみ海道＆今治：来島海峡大橋・多島美サイクリング＆来島鯛極上宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/180620/180620.jpg" alt="ＧＬＡＭＰＲＯＯＫしまなみ（グランルーク） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>オールインクルーシブで過ごす大人の島旅。ホテルとグランピング、お好みのスタイルでお楽しみください。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛媛県今治市馬島1006 ／ 最寄り駅：今治 ／ 交通案内：今治港より送迎車での無料送迎（要予約・先着順）／今治駅より路線バスで約16分 馬島バスストップ下車徒歩10分</p>
+                  <p><strong>【所在地・アクセス】</strong>愛媛県今治市馬島1006 ／ 最寄り駅：今治 ／ 交通案内：今治港より送迎車での無料送迎（要予約・先着順）／今治駅より路線バスで約16分 馬島バスストップ下車徒歩10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>今治港に専用駐車場10台有(無料) ※馬島へは自家用車での入島はできません(今治港から無料送迎有)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/149158/149158_kan1.jpg" alt="料理旅館せと 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>船折瀬戸に面する唯一の旅館。どの部屋からも潮流や瀬戸を行き交う船が見られ、料理が自慢の宿です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛媛県今治市伯方町有津甲1853 ／ 最寄り駅：今治 ／ 交通案内：今治駅よりお車にて約３５分</p>
+                  <p><strong>【所在地・アクセス】</strong>愛媛県今治市伯方町有津甲1853 ／ 最寄り駅：今治 ／ 交通案内：今治駅よりお車にて約３５分</p>
                   <p>【愛媛・しまなみ海道＆今治：来島海峡大橋・多島美サイク】 <strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/109177/109177_ka.jpg" alt="旅館さわき 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>瀬戸内の海の幸尽くしの夕食が人気。しまなみ海道の真ん中・大三島の大山祇神社近くの料理旅館です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛媛県今治市大三島町宮浦5460 ／ 最寄り駅：主要駅 ／ 交通案内：しまなみ海道大三島IC・バスストップから車で１０分。</p>
+                  <p><strong>【所在地・アクセス】</strong>愛媛県今治市大三島町宮浦5460 ／ 交通案内：しまなみ海道大三島IC・バスストップから車で１０分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場有り　10台</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7249/7249_twn.jpg" alt="湯ノ浦温泉　汐の丸　瀬戸内の水軍浪漫をたどる宿 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全面滑りづらい畳敷の大浴場でお子様・シニアもご安心！地元名物〈宝楽焼き〉や〈鯛めし〉なども大好評。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛媛県今治市湯ノ浦30番地 ／ 最寄り駅：今治 ／ 交通案内：今治湯ノ浦ＩＣより車で3分／今治ＩＣより車で20分／松山空港から松山ＩＣより車で約1時間３０分</p>
+                  <p><strong>【所在地・アクセス】</strong>愛媛県今治市湯ノ浦30番地 ／ 最寄り駅：今治 ／ 交通案内：今治湯ノ浦ＩＣより車で3分／今治ＩＣより車で20分／松山空港から松山ＩＣより車で約1時間３０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場　100台</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/145017/145017_room.jpg" alt="道後温泉　旅亭　うめ乃や 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>湯築の杜を望む静かな落ち着き。数寄屋造りの歴史感じる温泉宿で過ごす大人の贅沢。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛媛県松山市上市2-8-9 ／ 最寄り駅：道後温泉 ／ 交通案内：伊予鉄松山市駅・JR松山駅から伊予鉄で道後温泉駅へ。道後温泉駅・道後温泉本館から徒歩5分。</p>
+                  <p><strong>【所在地・アクセス】</strong>愛媛県松山市上市2-8-9 ／ 最寄り駅：道後温泉 ／ 交通案内：伊予鉄松山市駅・JR松山駅から伊予鉄で道後温泉駅へ。道後温泉駅・道後温泉本館から徒歩5分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８台　無料　予約必要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.82 ／ 立地 ★4.76 ／ 部屋 ★4.47 ／ 設備 ★4.35 ／ 風呂 ★4.65 ／ 食事 ★4.88</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/13429/13429_wa.jpg" alt="道後温泉　大和屋本店 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>慶応4年創業、道後温泉本館徒歩すぐの老舗宿。能舞台「千寿殿」や名物鯛めしの朝食で格式ある滞在を。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛媛県松山市道後湯之町20-8 ／ 最寄り駅：松山（愛媛） ／ 交通案内：ＪＲ『松山駅』より車で約20分・松山ＩＣより車で約２０分／松山空港より車で約３０分</p>
+                  <p><strong>【所在地・アクセス】</strong>愛媛県松山市道後湯之町20-8 ／ 最寄り駅：松山（愛媛） ／ 交通案内：ＪＲ『松山駅』より車で約20分・松山ＩＣより車で約２０分／松山空港より車で約３０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　有料：1泊につき1,000円/1台</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

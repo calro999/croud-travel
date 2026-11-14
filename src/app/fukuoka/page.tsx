@@ -159,11 +159,11 @@ export default function FukuokaHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">福岡・博多旅行 完全計画ガイド 2026：1泊2日・2泊3日モデルコース＆博多駅・天神・中洲屋台・もつ鍋水炊きグルメ・温泉宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「福岡・博多旅行 完全計画ガイド 2026：1泊2日・2泊3日モデルコース＆博多駅・天神・中洲屋台・もつ鍋水炊きグルメ・温泉宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「福岡・博多旅行 完全計画ガイド 2026：1泊2日・2泊3日モデルコース＆博多駅・天神・中洲屋台・もつ鍋水炊きグルメ・温泉宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -254,7 +254,7 @@ export default function FukuokaHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/182017/182017.jpg" alt="アパホテル＆リゾート〈博多駅東〉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>博多駅至近、ビジネス・観光に便利！最上階に大浴殿・プール完備の全室禁煙新都市型ホテル！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福岡県福岡市博多区博多駅東1-18-1 ／ 最寄り駅：博多 ／ 交通案内：福岡市営地下鉄空港線「博多駅」東7番出口から徒歩2分／JR各線「博多駅」筑紫口から徒歩4分</p>
+                  <p><strong>【所在地・アクセス】</strong>福岡県福岡市博多区博多駅東1-18-1 ／ 最寄り駅：博多 ／ 交通案内：福岡市営地下鉄空港線「博多駅」東7番出口から徒歩2分／JR各線「博多駅」筑紫口から徒歩4分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>11台有、1,500円 / 1泊（15：00～翌11：00）※連泊の場合24時間　※予約不可先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -276,7 +276,7 @@ export default function FukuokaHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/170/170_ro.jpg" alt="ＦＯＲＺＡ　ホテルフォルツァ博多駅筑紫口Ⅰ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR博多駅(筑紫口)より徒歩1分/福岡空港より地下鉄博多駅まで約5分/レストラン街もすぐ目の前</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福岡県福岡市博多区博多駅中央街4-16 ／ 最寄り駅：博多 ／ 交通案内：JR博多駅新幹線側出口(筑紫口)より徒歩1分★福岡空港より地下鉄博多駅まで約5分★</p>
+                  <p><strong>【所在地・アクセス】</strong>福岡県福岡市博多区博多駅中央街4-16 ／ 最寄り駅：博多 ／ 交通案内：JR博多駅新幹線側出口(筑紫口)より徒歩1分★福岡空港より地下鉄博多駅まで約5分★</p>
                   <p><strong>【駐車場・マイカー利用】</strong>当ホテルには専用駐車場のご用意がなく、また提携駐車場もございません。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -298,7 +298,7 @@ export default function FukuokaHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/158367/158367_kan.jpg" alt="FORZA　ホテルフォルツァ博多駅博多口 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR博多駅博多口より徒歩3分、朝日ビル裏！※全館全室禁煙※</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福岡県福岡市博多区博多駅前2-1-15 ／ 最寄り駅：博多 ／ 交通案内：JR博多駅（博多口）より徒歩約3分。福岡空港より地下鉄博多駅まで約5分。福岡空港よりタクシーで約20分☆利便性抜群☆</p>
+                  <p><strong>【所在地・アクセス】</strong>福岡県福岡市博多区博多駅前2-1-15 ／ 最寄り駅：博多 ／ 交通案内：JR博多駅（博多口）より徒歩約3分。福岡空港より地下鉄博多駅まで約5分。福岡空港よりタクシーで約20分☆利便性抜群☆</p>
                   <p><strong>【駐車場・マイカー利用】</strong>ございません</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -320,7 +320,7 @@ export default function FukuokaHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/177813/177813_room.jpg" alt="ＦＯＲＺＡ　ホテルフォルツァ博多駅筑紫口II 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>必要なものだけを必要なだけ贅沢に配し、くつろぎと眠りを追求する宿泊重視型の「スマートホテル」。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福岡県福岡市博多区博多駅東1-13-3 ／ 最寄り駅：博多 ／ 交通案内：JR博多駅　筑紫口より徒歩にて約3分</p>
+                  <p><strong>【所在地・アクセス】</strong>福岡県福岡市博多区博多駅東1-13-3 ／ 最寄り駅：博多 ／ 交通案内：JR博多駅　筑紫口より徒歩にて約3分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -342,7 +342,7 @@ export default function FukuokaHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/166968/166968_kan1.jpg" alt="ワシントンＲ＆Ｂホテル博多駅前第２ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★JR博多駅より徒歩約5分の好立地★</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福岡県福岡市博多区博多駅前4-3-20 ／ 最寄り駅：博多 ／ 交通案内：ＪＲ　博多駅　博多口から徒歩にて約５分</p>
+                  <p><strong>【所在地・アクセス】</strong>福岡県福岡市博多区博多駅前4-3-20 ／ 最寄り駅：博多 ／ 交通案内：ＪＲ　博多駅　博多口から徒歩にて約５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.94 ／ 立地 ★3.95 ／ 部屋 ★3.91 ／ 設備 ★3.85 ／ 風呂 ★3.83 ／ 食事 ★3.6</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -364,7 +364,7 @@ export default function FukuokaHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/177846/177846_kan1.jpg" alt="９ＨＯＴＥＬ　ＨＡＫＡＴＡ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>中洲まで徒歩5分。全室風呂トイレ別のゆったり空間。館内・客室には九州の色が感じられます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福岡県福岡市博多区冷泉町9-16 ／ 最寄り駅：祇園（福岡） ／ 交通案内：福岡空港から地下鉄祇園駅まで7分。祇園駅徒歩約5分。中洲川端駅徒歩6分、博多駅から徒歩約13分</p>
+                  <p><strong>【所在地・アクセス】</strong>福岡県福岡市博多区冷泉町9-16 ／ 最寄り駅：祇園（福岡） ／ 交通案内：福岡空港から地下鉄祇園駅まで7分。祇園駅徒歩約5分。中洲川端駅徒歩6分、博多駅から徒歩約13分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>なし</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

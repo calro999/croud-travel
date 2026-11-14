@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">熊本・阿蘇カルデラ＆南阿蘇：大観峰・草千里ヶ浜＆あか牛・白川水源宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「熊本・阿蘇カルデラ＆南阿蘇：大観峰・草千里ヶ浜＆あか牛・白川水源宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「熊本・阿蘇カルデラ＆南阿蘇：大観峰・草千里ヶ浜＆あか牛・白川水源宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/38542/38542_kya.jpg" alt="阿蘇内牧温泉　御料理旅館　親和苑 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>料理長が贈る美味しい芸術！【源泉掛け流し】露天風呂（男女別）／貸切家族風呂／離れ露天風呂付客室あり</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 熊本県阿蘇市内牧1354 ／ 最寄り駅：阿蘇 ／ 交通案内：肥後豊肥線　阿蘇駅より車で１５分程／肥後豊肥線　内牧駅より車で１５分程</p>
+                  <p><strong>【所在地・アクセス】</strong>熊本県阿蘇市内牧1354 ／ 最寄り駅：阿蘇 ／ 交通案内：肥後豊肥線　阿蘇駅より車で１５分程／肥後豊肥線　内牧駅より車で１５分程</p>
                   <p>【熊本・阿蘇カルデラ＆南阿蘇：大観峰・草千里ヶ浜＆あか】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.68 ／ 立地 ★4.44 ／ 部屋 ★4.61 ／ 設備 ★4.46 ／ 風呂 ★4.18 ／ 食事 ★4.78</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -344,8 +344,8 @@ export default function MicroTouristHubPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/74601/74601_ky1.jpg" alt="南阿蘇夢しずく温泉　別邸蘇庵 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「熊本・阿蘇カルデラ＆南阿蘇（大観峰・草千里ヶ浜＆あか牛・白川水源宿 厳選ガイド）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 熊本県阿蘇郡南阿蘇村河陰5-56 ／ 最寄り駅：白水高原 ／ 交通案内：【長陽大橋開通】熊本ICより57号線経由車で50分・【 俵山トンネル経由】 熊本空港より車で約30分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>【お部屋食確約】こだわりの専用半露天風呂を全室に備えた完全プライベート宿</p>
+                  <p><strong>【所在地・アクセス】</strong>熊本県阿蘇郡南阿蘇村河陰5-56 ／ 最寄り駅：白水高原 ／ 交通案内：【長陽大橋開通】熊本ICより57号線経由車で50分・【 俵山トンネル経由】 熊本空港より車で約30分</p>
                   <p>【熊本・阿蘇カルデラ＆南阿蘇：大観峰・草千里ヶ浜＆あか】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/74599/74599_ru.jpg" alt="南阿蘇　白久水温泉　夢しずく 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>『美肌湯』が人気の宿。旬の食材と湧水に拘った料理。プライベート空間をどうぞ♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 熊本県阿蘇郡南阿蘇村河陰5-56 ／ 最寄り駅：白水高原 ／ 交通案内：【長陽大橋開通】熊本ICより57号線経由車で50分・【俵山トンネル経由】 熊本空港より車で約30分</p>
+                  <p><strong>【所在地・アクセス】</strong>熊本県阿蘇郡南阿蘇村河陰5-56 ／ 最寄り駅：白水高原 ／ 交通案内：【長陽大橋開通】熊本ICより57号線経由車で50分・【俵山トンネル経由】 熊本空港より車で約30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/198835/198835.jpg" alt="南阿蘇フィールドホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>Place To Life Sketch　人生の特別な1コマを描く場所。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 熊本県阿蘇郡南阿蘇村河陰3624 ／ 最寄り駅：長陽 ／ 交通案内：阿蘇くまもと空港より車で20分　長陽駅より歩いて20分</p>
+                  <p><strong>【所在地・アクセス】</strong>熊本県阿蘇郡南阿蘇村河陰3624 ／ 最寄り駅：長陽 ／ 交通案内：阿蘇くまもと空港より車で20分　長陽駅より歩いて20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>あり　64台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/183106/183106.jpg" alt="阿蘇ＣＡＮＹＯＮ　ＴＥＲＲＡＣＥ＆ＬＯＤＧＥ【温泉宿】 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>阿蘇外輪山立野渓谷に浮かぶ、抜群なロケーションが望めるリゾートホテル</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 熊本県阿蘇郡南阿蘇村河陽4369-1 ／ 最寄り駅：肥後大津 ／ 交通案内：阿蘇くまもと空港から車で約25分・JR肥後大津駅から車で約15分</p>
+                  <p><strong>【所在地・アクセス】</strong>熊本県阿蘇郡南阿蘇村河陽4369-1 ／ 最寄り駅：肥後大津 ／ 交通案内：阿蘇くまもと空港から車で約25分・JR肥後大津駅から車で約15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　196台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/73897/73897_han.jpg" alt="南阿蘇俵山温泉　旅館　みな和 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>約3000坪の敷地にわずか10棟。南阿蘇の田園地帯に佇む全室離れ、内湯・露天付の湯宿。お食事は個室で</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 熊本県阿蘇郡南阿蘇村河陰2510 ／ 最寄り駅：長陽 ／ 交通案内：阿蘇くまもと空港より（俵山トンネルルート）車で約30分・JR立野駅から車で約15分</p>
+                  <p><strong>【所在地・アクセス】</strong>熊本県阿蘇郡南阿蘇村河陰2510 ／ 最寄り駅：長陽 ／ 交通案内：阿蘇くまもと空港より（俵山トンネルルート）車で約30分・JR立野駅から車で約15分</p>
                   <p>【熊本・阿蘇カルデラ＆南阿蘇：大観峰・草千里ヶ浜＆あか】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

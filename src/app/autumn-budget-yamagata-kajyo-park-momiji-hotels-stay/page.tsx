@@ -285,11 +285,11 @@ export default function AutumnBudgetYamagataHotelsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">山形：霞城公園の秋紅葉と本場芋煮を満喫！格安・高コスパホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「山形：霞城公園の秋紅葉と本場芋煮を満喫！格安・高コスパホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「山形：霞城公園の秋紅葉と本場芋煮を満喫！格安・高コスパホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -371,7 +371,7 @@ export default function AutumnBudgetYamagataHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1691/1691_twn.jpg" alt="山形グランドホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★2025年7月ラウンジNew OPEN★ 地元繁華街まで徒歩3分の立地です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県山形市本町1-7-42 ／ 最寄り駅：山形 ／ 交通案内：JR山形駅から車で5分。市内中心街に立地。中心街１００円循環バスで山形駅より５分。（運行時間/9:30～18:30）</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県山形市本町1-7-42 ／ 最寄り駅：山形 ／ 交通案内：JR山形駅から車で5分。市内中心街に立地。中心街１００円循環バスで山形駅より５分。（運行時間/9:30～18:30）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>1泊1,000円。先着順となります（予約不可）※大型車は駐車出来ません</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.11 ／ 立地 ★3.96 ／ 部屋 ★3.98 ／ 設備 ★3.86 ／ 風呂 ★3.69</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -393,7 +393,7 @@ export default function AutumnBudgetYamagataHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4623/4623_twn.jpg" alt="ホテルリッチ＆ガーデン酒田 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>北欧テイストの上質なホテル。地元色を追求した美味しい朝食が自慢。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県酒田市若竹町1-1-1 ／ 最寄り駅：酒田 ／ 交通案内：■庄内空港よりバス30分　庄内空港行きはホテル道路沿いより運行　■■酒田駅　車で６分■■酒田ＩＣ　１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県酒田市若竹町1-1-1 ／ 最寄り駅：酒田 ／ 交通案内：■庄内空港よりバス30分　庄内空港行きはホテル道路沿いより運行　■■酒田駅　車で６分■■酒田ＩＣ　１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>約80台無料駐車場</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★4.16 ／ 部屋 ★4.13 ／ 設備 ★4 ／ 風呂 ★4.03 ／ 食事 ★4.36</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -415,7 +415,7 @@ export default function AutumnBudgetYamagataHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4749/4749_heya.jpg" alt="白布温泉　中屋別館　不動閣 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【クーポン配布中】白布温泉で唯一の、渓谷を望む露天風呂！米沢牛と里山の幸に舌鼓！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県米沢市白布温泉大字関1514 ／ 最寄り駅：米沢 ／ 交通案内：JR米沢駅から路線バス（山交バス白布温泉行き）約50分。東北中央自動車道～米沢八幡原IC～国道13号～県道2号線約30分</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県米沢市白布温泉大字関1514 ／ 最寄り駅：米沢 ／ 交通案内：JR米沢駅から路線バス（山交バス白布温泉行き）約50分。東北中央自動車道～米沢八幡原IC～国道13号～県道2号線約30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台（宿泊者無料/先着順）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -437,7 +437,7 @@ export default function AutumnBudgetYamagataHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4753/4753_heya.jpg" alt="羽根沢温泉　ホテル紅葉館＜山形県＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>天然温泉と四季折々の食材を使用した郷土料理を楽しめる湯宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県最上郡鮭川村大字中渡1314-1 ／ 最寄り駅：新庄 ／ 交通案内：山形新幹線・ＪＲ新庄駅からバスで40分／東北自動車道新庄北ICより車で20分</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県最上郡鮭川村大字中渡1314-1 ／ 最寄り駅：新庄 ／ 交通案内：山形新幹線・ＪＲ新庄駅からバスで40分／東北自動車道新庄北ICより車で20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場　20台完備</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -459,7 +459,7 @@ export default function AutumnBudgetYamagataHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4890/4890_room.jpg" alt="小野川温泉　鈴の宿　登府屋旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>■ご家族で”親孝行たび”をお考えの方へ♪バリアフリーで車イスもラクラク安心♪掛け流し温泉&amp;サウナ有り</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県米沢市小野川温泉2493 ／ 最寄り駅：米沢 ／ 交通案内：山形新幹線 米沢駅より路線バスで26分。東北自動車道 飯坂ICより60分　小野川温泉の中心に位置する宿です。</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県米沢市小野川温泉2493 ／ 最寄り駅：米沢 ／ 交通案内：山形新幹線 米沢駅より路線バスで26分。東北自動車道 飯坂ICより60分　小野川温泉の中心に位置する宿です。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>■玄関前無料駐車場あり。（30台分）10名様以上の場合、米沢市内の送迎サービス【全館Wi-Fi完備】</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.25 ／ 立地 ★4 ／ 部屋 ★4.39 ／ 設備 ★4.26 ／ 風呂 ★4.41 ／ 食事 ★4.3</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

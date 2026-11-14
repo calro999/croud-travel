@@ -536,11 +536,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大奇祭＆天下の熱狂カルチャー宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本三大奇祭＆天下の熱狂カルチャー宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「日本三大奇祭＆天下の熱狂カルチャー宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -604,7 +604,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2880/2880_heya.jpg" alt="上諏訪温泉　ホテル紅や 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>温泉展望浴場や岩盤浴など施設充実の温泉リゾート。和室・洋室選べるお部屋プランも多彩。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県諏訪市湖岸通り２－７－２１ ／ 最寄り駅：主要駅 ／ 交通案内：【電車】上諏訪駅下車徒歩10分（予約制無料送迎）【お車】諏訪ICから車で15分または諏訪湖スマートICから車で10分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県諏訪市湖岸通り２－７－２１ ／ 交通案内：【電車】上諏訪駅下車徒歩10分（予約制無料送迎）【お車】諏訪ICから車で15分または諏訪湖スマートICから車で10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -626,7 +626,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8713/8713_syo.jpg" alt="お宿　和陽館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>名古屋から電車で10分。実家のようにくつろげる、心温まるおもてなしの宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛知県稲沢市長野2-10-8 ／ 最寄り駅：稲沢 ／ 交通案内：JR東海道本線稲沢駅より徒歩５分・名神高速 一宮I.C.より車で10分</p>
+                  <p><strong>【所在地・アクセス】</strong>愛知県稲沢市長野2-10-8 ／ 最寄り駅：稲沢 ／ 交通案内：JR東海道本線稲沢駅より徒歩５分・名神高速 一宮I.C.より車で10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>大駐車場有り：50台（無料・先着順）到着されたらフロントにて場所をご確認下さい。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -648,7 +648,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/52102/52102_wa.jpg" alt="男鹿温泉　湯けむりリゾート　セイコーグランドホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>源泉かけ流し！当館自慢の「美肌の湯」と日本海の海幸を満喫。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 秋田県男鹿市北浦湯本草木原50-1 ／ 最寄り駅：羽立 ／ 交通案内：秋田自動車道秋田北IC下車６０ｋｍ７０分／JR羽立駅～路線バスで４５分／JR男鹿駅～無料送迎バスあり詳しくは公式HPへ</p>
+                  <p><strong>【所在地・アクセス】</strong>秋田県男鹿市北浦湯本草木原50-1 ／ 最寄り駅：羽立 ／ 交通案内：秋田自動車道秋田北IC下車６０ｋｍ７０分／JR羽立駅～路線バスで４５分／JR男鹿駅～無料送迎バスあり詳しくは公式HPへ</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★3.93 ／ 部屋 ★4.01 ／ 設備 ★3.86 ／ 風呂 ★4.11 ／ 食事 ★4.3</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

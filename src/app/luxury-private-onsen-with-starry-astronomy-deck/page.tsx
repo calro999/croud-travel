@@ -236,7 +236,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -681,11 +681,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：日本一の星空・阿智村！天体観測専用デッキ＆満天星露天風呂付き極上宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：日本一の星空・阿智村！天体観測専用デッキ＆満天星露天風呂付き極上宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：日本一の星空・阿智村！天体観測専用デッキ＆満天星露天風呂付き極上宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -767,7 +767,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5978/5978_bath.jpg" alt="昼神温泉　ひるがみの森 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>日本一の星空ナイトツアー：当日の天気次第でもチケットキャンセルが対応可な宿★彡</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県下伊那郡阿智村智里567-10 ／ 最寄り駅：天竜峡 ／ 交通案内：中央自動車道・園原ICより車にて10分(名古屋・関西方面)、中央自動車道・飯田山本ICより車にて10分(関東・長野方面)</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県下伊那郡阿智村智里567-10 ／ 最寄り駅：天竜峡 ／ 交通案内：中央自動車道・園原ICより車にて10分(名古屋・関西方面)、中央自動車道・飯田山本ICより車にて10分(関東・長野方面)</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　150台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.37 ／ 立地 ★4.18 ／ 部屋 ★4.22 ／ 設備 ★4.22 ／ 風呂 ★4.42 ／ 食事 ★4.35</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -789,7 +789,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/68642/68642_kan.jpg" alt="昼神温泉四季の織　はなや（旧ホテルはなや） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「24時間入り放題＆無料」の【貸切露天風呂】トロトロ泉質の美人の湯♪全17室のおもてなしの宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県下伊那郡阿智村智里530-1 ／ 最寄り駅：飯田（長野） ／ 交通案内：飯田駅より路線バスにて３０分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県下伊那郡阿智村智里530-1 ／ 最寄り駅：飯田（長野） ／ 交通案内：飯田駅より路線バスにて３０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.68 ／ 立地 ★4.38 ／ 部屋 ★4.47 ／ 設備 ★4.47 ／ 風呂 ★4.64 ／ 食事 ★4.62</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -811,7 +811,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/153619/153619_kan1.jpg" alt="昼神温泉　信州公共の宿　鶴巻荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>やわらかな畳敷きの浴場で和の粋と深いやさしさに包まれる、ツルツルの温泉と豊かな自然に囲まれた純和風宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県下伊那郡阿智村智里332-4 ／ 最寄り駅：主要駅 ／ 交通案内：天竜峡駅よりお車にて約３０分（車でお迎えあり）</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県下伊那郡阿智村智里332-4 ／ 交通案内：天竜峡駅よりお車にて約３０分（車でお迎えあり）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -833,7 +833,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5624/5624_room.jpg" alt="昼神温泉　日長庵　桂月 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【楽天トラベルブロンズアワード2024受賞】歴史ある老舗料亭を姉妹館に持つ料理自慢の宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県下伊那郡阿智村智里425 ／ 最寄り駅：飯田（長野） ／ 交通案内：JR飯田駅より無料送迎（要事前予約最終17:00） 中央道飯田山本ICより10分。園原ICより10分。</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県下伊那郡阿智村智里425 ／ 最寄り駅：飯田（長野） ／ 交通案内：JR飯田駅より無料送迎（要事前予約最終17:00） 中央道飯田山本ICより10分。園原ICより10分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.24 ／ 立地 ★4 ／ 部屋 ★4.23 ／ 設備 ★3.97 ／ 風呂 ★4.24 ／ 食事 ★4.37</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -855,7 +855,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4655/4655_rst.jpg" alt="昼神温泉　おとぎ亭　光風 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【楽天トラベルブロンズアワード2024受賞】【23年4月リニューアル】オールインクルーシブの宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県下伊那郡阿智村智里490 ／ 最寄り駅：飯田（長野） ／ 交通案内：【お車でお越しの方】中央道　飯田山本ICから約15分・園原ICから約5分【電車でお越しの方】飯田駅からバス等で約30分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県下伊那郡阿智村智里490 ／ 最寄り駅：飯田（長野） ／ 交通案内：【お車でお越しの方】中央道　飯田山本ICから約15分・園原ICから約5分【電車でお越しの方】飯田駅からバス等で約30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

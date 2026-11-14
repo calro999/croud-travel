@@ -317,11 +317,11 @@ export default function NagasakiBudgetAutumnPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋の長崎×格安：グラバー園の秋バラと世界新三大夜景！大浴場付き1泊3,000円〜5,000円台のコスパ最強ホテル5選「2026最新」！大浴場付き1泊3,000円〜5,000円台のコスパ最強ホテル5選「2026最新」！大浴場付き1泊3,000円〜5,000円台のコスパ最強ホテル5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「秋の長崎×格安：グラバー園の秋バラと世界新三大夜景！大浴場付き1泊3,000円〜5,000円台のコスパ最強ホテル5選「2026最新」！大浴場付き1泊3,000円〜5,000円台のコスパ最強ホテル5選「2026最新」！大浴場付き1泊3,000円〜5,000円台のコスパ最強ホテル5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「秋の長崎×格安：グラバー園の秋バラと世界新三大夜景！大浴場付き1泊3,000円〜5,000円台のコスパ最強ホテル5選「2026最新」！大浴場付き1泊3,000円〜5,000円台のコスパ最強ホテル5選「2026最新」！大浴場付き1泊3,000円〜5,000円台のコスパ最強ホテル5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -403,7 +403,7 @@ export default function NagasakiBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/176612/176612.jpg" alt="ｈｏｔｅｌ　Ｈ２　ホテルエイチツー長崎 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>最上階大浴場＆露天風呂／ 提携駐車場３ヶ所／空港バス停徒歩１分／電停徒歩２分／繁華街徒歩１分</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長崎県長崎市築町5-11 ／ 最寄り駅：長崎（長崎） ／ 交通案内：空港バス「中央橋」下車徒歩約１分／長崎駅前より路面電車「西浜町」下車徒歩２分／長崎IC～出島道路出口から車で約3分</p>
+                  <p><strong>【所在地・アクセス】</strong>長崎県長崎市築町5-11 ／ 最寄り駅：長崎（長崎） ／ 交通案内：空港バス「中央橋」下車徒歩約１分／長崎駅前より路面電車「西浜町」下車徒歩２分／長崎IC～出島道路出口から車で約3分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>提携徒歩1分／築町パーキングビル1泊1,200円／095-827-3650※時間制限有（他2ヶ所）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.43 ／ 立地 ★4.43 ／ 部屋 ★4.38 ／ 設備 ★4.41 ／ 風呂 ★4.43 ／ 食事 ★4.37</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -425,7 +425,7 @@ export default function NagasakiBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/180565/180565.jpg" alt="Ｃｏｒｕｓｃａｎｔ　Ｈｏｔｅｌ　長崎駅２（コルサントホテル） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>◆◇長崎駅より徒歩約 8 分◇◆お仕事・観光に最適【全室Wi-Fi完備／全室トイレ風呂別】</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長崎県長崎市大黒町5-10 ／ 最寄り駅：主要駅 ／ 交通案内：長崎駅より徒歩約 8 分</p>
+                  <p><strong>【所在地・アクセス】</strong>長崎県長崎市大黒町5-10 ／ 交通案内：長崎駅より徒歩約 8 分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>1階はコインパーキング(普通車3台・小型2台・軽1台)　※管理外ですので空車情報は不明。有料です。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.24 ／ 立地 ★4.38 ／ 部屋 ★4.4 ／ 設備 ★4.38 ／ 風呂 ★4.3</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -447,7 +447,7 @@ export default function NagasakiBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/37511/37511_de.jpg" alt="ホテル　クオーレ長崎駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ＪＲ長崎駅正面に立地。全客室にＷｉ－Ｆｉ回線完備。女性専用フロアあり。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長崎県長崎市大黒町7-3 ／ 最寄り駅：長崎（長崎） ／ 交通案内：ＪＲ長崎駅東口から徒歩約5分　高速バスターミナルより徒歩約１分</p>
+                  <p><strong>【所在地・アクセス】</strong>長崎県長崎市大黒町7-3 ／ 最寄り駅：長崎（長崎） ／ 交通案内：ＪＲ長崎駅東口から徒歩約5分　高速バスターミナルより徒歩約１分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>近隣駐車場有/15時から翌10時まで1,400円/先着順/車高2m以下/営業時間5時〜23時</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.21 ／ 立地 ★4.3 ／ 部屋 ★4.24 ／ 設備 ★4.15 ／ 風呂 ★4.11 ／ 食事 ★4.32</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -469,7 +469,7 @@ export default function NagasakiBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/15312/15312_w.jpg" alt="長崎スカイホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>長崎1,000万＄の夜景を一望できる料理自慢のお宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長崎県長崎市江の浦町18-1 ／ 最寄り駅：長崎（長崎） ／ 交通案内：JR長崎駅より車で10分</p>
+                  <p><strong>【所在地・アクセス】</strong>長崎県長崎市江の浦町18-1 ／ 最寄り駅：長崎（長崎） ／ 交通案内：JR長崎駅より車で10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　お車１台につき、普通車800円/中型車1,600円/大型車2,000円（税込）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -491,7 +491,7 @@ export default function NagasakiBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/179673/179673.jpg" alt="天然温泉　鶴港の湯　ドーミーインＰＲＥＭＩＵＭ長崎駅前（ドーミーイン・御宿野乃　ホテルズグループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>駅前周辺ホテルで唯一！男女別天然温泉大浴場完備！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長崎県長崎市五島町2-29 ／ 最寄り駅：長崎（長崎） ／ 交通案内：長崎駅より徒歩にて約10分</p>
+                  <p><strong>【所在地・アクセス】</strong>長崎県長崎市五島町2-29 ／ 最寄り駅：長崎（長崎） ／ 交通案内：長崎駅より徒歩にて約10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>1泊1,200円（機械式68台）入庫制限有（車高2.05m長さ5.05ｍ車幅1.91ｍ)先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.48 ／ 立地 ★4.44 ／ 部屋 ★4.53 ／ 設備 ★4.51 ／ 風呂 ★4.57 ／ 食事 ★4.51</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

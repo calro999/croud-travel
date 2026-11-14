@@ -395,37 +395,6 @@ export default function Page() {
           </div>
         </section>
 
-        {/* よくある質問 FAQ */}
-        <section className="mb-16 bg-white rounded-3xl shadow-sm border border-stone-200/80 p-6 md:p-10">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">よくある質問・ふるさと納税トラベルクーポンの疑問を解消</h2>
-          <div className="space-y-4">
-            
-            <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>急な発熱などで直前にキャンセルした場合、ふるさと納税クーポンはどうなりますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
-                宿泊をキャンセルした場合、利用予定だったふるさと納税クーポンは自動的にアカウントへ返却されます。クーポンの有効期限（3年間）内であれば、赤ちゃんの体調が回復した後に別の日程で改めて予約・利用することが可能です。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>温泉の泉質は赤ちゃんのデリケートな肌でも大丈夫ですか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
-                刺激の少ない「弱アルカリ性単純温泉」や「中性泉」の宿を選ぶのが安心です。また、多くのベビー歓迎宿では、温泉だけでなく水道水・真水の内湯やベビーバスを用意しているため、不安な場合はそちらを利用することもできます。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>離乳食の温めや哺乳瓶の消毒は宿でお願いできますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
-                ウェルカムベビー認定宿やファミリープラン対応宿では、電子レンジや調乳ポットが客室または共用スペースに設置されているほか、フロントで哺乳瓶の煮沸消毒や電子レンジ消毒を快く引き受けてくれます。
-              </p>
-            </div>
-          </div>
-        </section>
-
         {/* 相互回遊リンク */}
         <section className="bg-stone-200/80 rounded-3xl p-6 md:p-10 border border-stone-300">
           <div className="text-center max-w-2xl mx-auto mb-8">

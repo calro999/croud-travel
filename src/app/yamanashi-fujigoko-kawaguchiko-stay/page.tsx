@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">山梨・富士五湖＆河口湖：逆さ富士・富士急ハイランド＆ほうとう極上宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「山梨・富士五湖＆河口湖：逆さ富士・富士急ハイランド＆ほうとう極上宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「山梨・富士五湖＆河口湖：逆さ富士・富士急ハイランド＆ほうとう極上宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2946/2946_wa.jpg" alt="富士河口湖温泉　富士山の見える温泉旅館　大池ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>山梨 富士山 河口湖 露天風呂 温泉 バイキング ブッフェ 温泉　貸切露天風呂</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県南都留郡富士河口湖町船津6713-103 ／ 最寄り駅：河口湖 ／ 交通案内：駅から無料送迎有■駐車場無料■河口湖駅から車で4分■富士急から車で7分河口湖ICから車で12分新宿駅からバスで約120分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県南都留郡富士河口湖町船津6713-103 ／ 最寄り駅：河口湖 ／ 交通案内：駅から無料送迎有■駐車場無料■河口湖駅から車で4分■富士急から車で7分河口湖ICから車で12分新宿駅からバスで約120分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場50台・河口湖駅からの無料送迎有・バイク専用の駐車場無・富士急ハイランドまで車で7分</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.5 ／ 立地 ★4.4 ／ 部屋 ★4.23 ／ 設備 ★4.29 ／ 風呂 ★4.31 ／ 食事 ★4.45</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/50707/50707_kya.jpg" alt="富士河口湖温泉郷　四季の宿　富士山 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>河口湖畔沿いにある富士山を望む温泉宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県南都留郡富士河口湖町船津6713-19 ／ 最寄り駅：河口湖 ／ 交通案内：富士急行線　河口湖駅より車で５分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県南都留郡富士河口湖町船津6713-19 ／ 最寄り駅：河口湖 ／ 交通案内：富士急行線　河口湖駅より車で５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　13台　無料　予約不要　※満車時は隣接町営無料駐車場をご案内</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/194446/194446.jpg" alt="Ｌａｋｅ　Ｅｎｇｌａｎｄ　富士山が見える隠れ家ロッジ／西湖近隣／ＢＢＱ／企業研修　＾ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>Ｌａｋｅ　Ｅｎｇｌａｎｄは「森の空気を感じ、近隣の湖でバケーションを楽しむ」が魅力のロッジです。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県南都留郡富士河口湖町西湖3111　Ｌａｋｅ　Ｅｎｇｌａｎｄ ／ 最寄り駅：河口湖 ／ 交通案内：河口湖駅から車で約２０分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県南都留郡富士河口湖町西湖3111　Ｌａｋｅ　Ｅｎｇｌａｎｄ ／ 最寄り駅：河口湖 ／ 交通案内：河口湖駅から車で約２０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/193462/193462.jpg" alt="富士山と河口湖とホテル風鈴 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>富士山を望む閑静な田舎町で新築のずっといたくなるような広くて居心地の良い部屋とサービスをあなたへ</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県南都留郡富士河口湖町河口763 ／ 最寄り駅：河口湖 ／ 交通案内：河口湖駅よりバスで約１５分、中央自動車道河口湖ＩＣよりお車で約１５分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県南都留郡富士河口湖町河口763 ／ 最寄り駅：河口湖 ／ 交通案内：河口湖駅よりバスで約１５分、中央自動車道河口湖ＩＣよりお車で約１５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　要予約</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/182686/182686.jpg" alt="天然温泉　富士五湖の湯　スーパーホテル富士河口湖天然温泉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>スーパーホテル富士河口湖2021年7月16日グランドオープン！！壮大な富士の北麓をご覧頂けます！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県南都留郡富士河口湖町船津3062-5 ／ 最寄り駅：河口湖 ／ 交通案内：中央自動車道　富士吉田I.Cより約5分！富士急行線　河口湖駅よりタクシーで約5分！</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県南都留郡富士河口湖町船津3062-5 ／ 最寄り駅：河口湖 ／ 交通案内：中央自動車道　富士吉田I.Cより約5分！富士急行線　河口湖駅よりタクシーで約5分！</p>
                   <p><strong>【駐車場・マイカー利用】</strong>敷地内平面駐車場普通車80台先着順予約不可　普通車以外は提携駐車場１泊1,100円電話にて要予約</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4869/4869_heya.jpg" alt="河口湖温泉　足和田ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>人気のワイン風呂や星空露天寝湯、サウナも完備。河口湖畔に佇む当館でのんびり静かなひと時を。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県南都留郡富士河口湖町長浜395 ／ 最寄り駅：河口湖 ／ 交通案内：【電車】富士急行線河口湖駅より車で約10分【車】河口湖ICより約3キロ・約15分。勝山から湖畔道路を大石方面へ湖畔沿いへ</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県南都留郡富士河口湖町長浜395 ／ 最寄り駅：河口湖 ／ 交通案内：【電車】富士急行線河口湖駅より車で約10分【車】河口湖ICより約3キロ・約15分。勝山から湖畔道路を大石方面へ湖畔沿いへ</p>
                   <p>【山梨・富士五湖＆河口湖：逆さ富士・富士急ハイランド＆】 <strong>【駐車場・マイカー利用】</strong>有り　４０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.44 ／ 立地 ★4.19 ／ 部屋 ★4.16 ／ 設備 ★4.12 ／ 風呂 ★4.35 ／ 食事 ★4.4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

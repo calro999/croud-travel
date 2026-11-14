@@ -376,11 +376,11 @@ export default function AutumnBudgetHotelsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">鳥取駅前：黄金の鳥取砂丘＆幻のモサエビ・鳥取和牛！3,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「鳥取駅前：黄金の鳥取砂丘＆幻のモサエビ・鳥取和牛！3,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「鳥取駅前：黄金の鳥取砂丘＆幻のモサエビ・鳥取和牛！3,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -409,7 +409,7 @@ export default function AutumnBudgetHotelsPage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. グリーンリッチホテル鳥取駅前　人工温泉・二股湯の華</td>
-                <td className="p-3 text-stone-600">鳥取県</td>
+                <td className="p-3 text-stone-600">鳥取県鳥取市永楽温泉町102-6</td>
                 <td className="p-3 text-stone-600">ＪＲ鳥取駅北口より徒歩にて約３分、鳥取自動車道 鳥取ＩＣより国道53号</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（886件）</td>
@@ -462,7 +462,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/196888/196888.jpg" alt="アパホテル〈鳥取駅前〉 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2025年10月23日開業！【全室禁煙】準天然人工温泉「光明石温泉」の大浴殿完備</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鳥取県鳥取市富安2-165 ／ 最寄り駅：鳥取 ／ 交通案内：JR山陰本線「鳥取駅」（南口）より徒歩2分　鳥取の観光やビジネスにアクセス便利な好立地！</p>
+                  <p><strong>【所在地・アクセス】</strong>鳥取県鳥取市富安2-165 ／ 最寄り駅：鳥取 ／ 交通案内：JR山陰本線「鳥取駅」（南口）より徒歩2分　鳥取の観光やビジネスにアクセス便利な好立地！</p>
                   <p><strong>【駐車場・マイカー利用】</strong>敷地内は車椅子使用者用駐車場1台のみ（要予約）、提携駐車場あり（徒歩約5分）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.21 ／ 立地 ★4.23 ／ 部屋 ★4.25 ／ 設備 ★4.23 ／ 風呂 ★4.18 ／ 食事 ★3.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -483,8 +483,8 @@ export default function AutumnBudgetHotelsPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/176748/176748.jpg" alt="グリーンリッチホテル鳥取駅前　人工温泉・二股湯の華 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「鳥取駅前（黄金の鳥取砂丘＆幻のモサエビ・鳥取和牛）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ鳥取駅北口より徒歩にて約３分、鳥取自動車道 鳥取ＩＣより国道53号線を鳥取市方面へ車で14分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>グリーンリッチホテル鳥取駅前 人工温泉・二股湯の華（鳥取県鳥取市永楽温泉町102-6）は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：ＪＲ鳥取駅北口より徒歩にて約３分、鳥取自動車道 鳥取ＩＣより国道53号線を鳥取市方面へ車で14分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -506,7 +506,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/70830/70830_tu.jpg" alt="アパホテル〈鳥取駅前南〉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>鳥取駅から徒歩2分！Wi-Fi6導入！VODアパルームシアター視聴無料！朝食和洋ビュッフェ！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鳥取県鳥取市富安2-138-2 ／ 最寄り駅：鳥取 ／ 交通案内：JR鳥取駅南口から徒歩2分/鳥取自動車道鳥取I.Cより車で約10分/鳥取砂丘コナン空港からバスで約20分</p>
+                  <p><strong>【所在地・アクセス】</strong>鳥取県鳥取市富安2-138-2 ／ 最寄り駅：鳥取 ／ 交通案内：JR鳥取駅南口から徒歩2分/鳥取自動車道鳥取I.Cより車で約10分/鳥取砂丘コナン空港からバスで約20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>敷地内平面駐車場40台【先着順・予約不可】1泊500円（15:00〜翌11:00）他提携P等有り</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.16 ／ 立地 ★4.14 ／ 部屋 ★4.23 ／ 設備 ★4.11 ／ 風呂 ★3.93 ／ 食事 ★4.03</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -528,7 +528,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/70969/70969_s.jpg" alt="スーパーホテル鳥取駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>鳥取駅南口より徒歩1分！ビジネスや旅行の拠点に最適！健康朝食やウェルカムバーが無料☆</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鳥取県鳥取市扇町5 ／ 最寄り駅：鳥取 ／ 交通案内：ＪＲ山陰本線　鳥取駅南口より徒歩１分</p>
+                  <p><strong>【所在地・アクセス】</strong>鳥取県鳥取市扇町5 ／ 最寄り駅：鳥取 ／ 交通案内：ＪＲ山陰本線　鳥取駅南口より徒歩１分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>４２台　先着順　６００円（税込み／泊） ※立体駐車場のため全高・横幅・車高、入出庫の時間制限あり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.31 ／ 立地 ★4.22 ／ 部屋 ★4.18 ／ 設備 ★4.12 ／ 風呂 ★4.03 ／ 食事 ★4.23</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -550,7 +550,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5567/5567_s.jpg" alt="ホテルＲＥＳＨ　鳥取駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR鳥取駅前より徒歩や2分、雨の日も濡れずにアクセス可能！男女大浴場・サウナ完備</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鳥取県鳥取市栄町752 ／ 最寄り駅：鳥取 ／ 交通案内：JR鳥取駅より徒歩約2分。丸由百貨店（旧鳥取大丸）東側です／鳥取西道路・鳥取西ICより車で約8分</p>
+                  <p><strong>【所在地・アクセス】</strong>鳥取県鳥取市栄町752 ／ 最寄り駅：鳥取 ／ 交通案内：JR鳥取駅より徒歩約2分。丸由百貨店（旧鳥取大丸）東側です／鳥取西道路・鳥取西ICより車で約8分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>近隣に契約駐車場があります。(有料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.12 ／ 立地 ★4.14 ／ 部屋 ★3.95 ／ 設備 ★4 ／ 風呂 ★4.05</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

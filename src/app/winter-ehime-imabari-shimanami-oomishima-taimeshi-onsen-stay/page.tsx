@@ -186,8 +186,8 @@ export default function EhimeImabariWinterFeaturePage() {
             "url": "https://croud-travel.pages.dev/icon.png"
           }
         },
-        "datePublished": "",
-        "dateModified": ""
+        "datePublished": "2026-11-01",
+        "dateModified": "2026-11-15"
       },
       {
         "@type": "FAQPage",
@@ -425,7 +425,7 @@ export default function EhimeImabariWinterFeaturePage() {
             <span className="text-cyan-600 font-bold text-xs uppercase tracking-wider">VERIFIED ACCOMMODATIONS</span>
             <h2 className="text-xl sm:text-3xl font-extrabold text-slate-900 mt-1">冬の今治＆しまなみ海道を満喫する厳選名宿5選</h2>
             <p className="text-xs sm:text-sm text-slate-600 mt-2">
-              楽天トラベル公式APIを通じてレビュー評価、立地、展望露天風呂、来島鯛プランを厳選した最高品質の宿です。
+              宿泊施設データを通じてレビュー評価、立地、展望露天風呂、来島鯛プランを厳選した最高品質の宿です。
             </p>
           </div>
 

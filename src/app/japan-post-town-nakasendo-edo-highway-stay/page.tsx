@@ -228,11 +228,11 @@ export default function HistoryHeritageHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">中山道・木曽路の宿場町＆旧街道宿：妻籠宿・馬籠宿・奈良井宿・大内宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「中山道・木曽路の宿場町＆旧街道宿：妻籠宿・馬籠宿・奈良井宿・大内宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「中山道・木曽路の宿場町＆旧街道宿：妻籠宿・馬籠宿・奈良井宿・大内宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -252,7 +252,7 @@ export default function HistoryHeritageHubPage() {
               <tbody className="divide-y divide-stone-200">
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. きそふくしま温泉　街道浪漫　おん宿　蔦屋</td>
-                <td className="p-3 text-stone-600">長野県</td>
+                <td className="p-3 text-stone-600">長野県木曽郡木曽町福島本町5162</td>
                 <td className="p-3 text-stone-600">JR木曽福島駅～徒歩約10分【15：30分16：40分送迎有要予約】伊</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.25（582件）</td>
@@ -322,8 +322,8 @@ export default function HistoryHeritageHubPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/6067/6067.jpg" alt="きそふくしま温泉　街道浪漫　おん宿　蔦屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「中山道・木曽路の宿場町＆旧街道宿（妻籠宿・馬籠宿・奈良井宿・大内宿 厳選ガイド）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：JR木曽福島駅～徒歩約10分【15：30分16：40分送迎有要予約】伊那IC約40分塩尻IC約60分中津川I約70分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>旅の目的に合わせて選ぶ「中山道・木曽路の宿場町＆旧街道宿」各宿の強みと基本情報は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：JR木曽福島駅～徒歩約10分【15：30分16：40分送迎有要予約】伊那IC約40分塩尻IC約60分中津川I約70分</p>
                   <p>【中山道・木曽路の宿場町＆旧街道宿：妻籠宿・馬籠宿・奈】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function HistoryHeritageHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/16778/16778_heya.jpg" alt="木曽路の宿　いわや 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>宮家の方々や文人に愛された、木曽路で最も古い老舗。木曽川眺望、総檜造りのお部屋や展望露天など。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県木曽郡木曽町福島5169 ／ 最寄り駅：木曽福島 ／ 交通案内：JR木曽福島駅より徒歩10分／中央自動車道：塩尻ICより60分、中津川ICより60分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県木曽郡木曽町福島5169 ／ 最寄り駅：木曽福島 ／ 交通案内：JR木曽福島駅より徒歩10分／中央自動車道：塩尻ICより60分、中津川ICより60分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function HistoryHeritageHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/17513/17513_rm.jpg" alt="普寛堂　くるみ沢旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>明治2年創業。【お部屋食】で精進料理や信州の旬料理＆【薬草人参檜風呂】でゆったり！御嶽山への拠点に</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県木曽郡王滝村3297-6 ／ 最寄り駅：木曽福島 ／ 交通案内：ＪＲ中央西線「木曽福島駅」よりお車にて約２５分。</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県木曽郡王滝村3297-6 ／ 最寄り駅：木曽福島 ／ 交通案内：ＪＲ中央西線「木曽福島駅」よりお車にて約２５分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２５台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function HistoryHeritageHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/130040/130040_wa.jpg" alt="宿とそば処　ふもと屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>築二百年の建物を利用した古民家風の旅宿。開田蕎麦と郷土料理・地元の材料でおもてなし</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県木曽郡木曽町開田高原末川2819 ／ 最寄り駅：木曽福島 ／ 交通案内：ＪＲ　木曽福島駅より開田高原行きバスにて「末川」下車徒歩０分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県木曽郡木曽町開田高原末川2819 ／ 最寄り駅：木曽福島 ／ 交通案内：ＪＲ　木曽福島駅より開田高原行きバスにて「末川」下車徒歩０分</p>
                   <p>【中山道・木曽路の宿場町＆旧街道宿：妻籠宿・馬籠宿・奈】 <strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function HistoryHeritageHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/20623/20623_kan.jpg" alt="会津芦ノ牧温泉　丸峰観光ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2024年3月1日ビュッフェレストランオープン！山々に抱かれた渓谷美を望む【露天風呂付き客室】が人気</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県会津若松市大戸町芦ノ牧下夕平1128 ／ 最寄り駅：会津若松 ／ 交通案内：会津鉄道・芦ノ牧温泉駅／JR会津若松駅～タクシーで40分／磐越道・会津若松IC～40分/東北道・白河ＩＣ～60分</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県会津若松市大戸町芦ノ牧下夕平1128 ／ 最寄り駅：会津若松 ／ 交通案内：会津鉄道・芦ノ牧温泉駅／JR会津若松駅～タクシーで40分／磐越道・会津若松IC～40分/東北道・白河ＩＣ～60分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１７０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.35 ／ 立地 ★4.31 ／ 部屋 ★4.26 ／ 設備 ★4.19 ／ 風呂 ★4.34 ／ 食事 ★4.39</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function HistoryHeritageHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/199124/199124.jpg" alt="芦ノ牧温泉　不動館　小谷の湯 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>渓流を眺め、源泉掛け流し100％の温泉をお楽しみください</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県会津若松市大戸町大字小谷湯ノ平２４９８－２ ／ 最寄り駅：芦ノ牧温泉 ／ 交通案内：芦ノ牧温泉駅より車で８分（無料送迎あり）　駐車場有。（徒歩1分ほど離れた第2駐車場ご利用の場合がございます）</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県会津若松市大戸町大字小谷湯ノ平２４９８－２ ／ 最寄り駅：芦ノ牧温泉 ／ 交通案内：芦ノ牧温泉駅より車で８分（無料送迎あり）　駐車場有。（徒歩1分ほど離れた第2駐車場ご利用の場合がございます）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>あり　20台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

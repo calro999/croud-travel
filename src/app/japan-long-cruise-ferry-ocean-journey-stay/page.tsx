@@ -228,11 +228,11 @@ export default function RailwayActivityHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">優雅な船旅・長距離カーフェリー＆離島航路：太平洋・日本海クルーズ 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「優雅な船旅・長距離カーフェリー＆離島航路：太平洋・日本海クルーズ 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「優雅な船旅・長距離カーフェリー＆離島航路：太平洋・日本海クルーズ 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function RailwayActivityHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/57055/57055_o.jpg" alt="天然温泉　萩の湯　ドーミーイン仙台駅前（ドーミーイン・御宿野乃　ホテルズグループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>天然温泉大浴場と高温サウナ完備。アイス乳酸菌飲料無料サービスと朝食 は海鮮丼と和洋食バイキング！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮城県仙台市青葉区本町1-5-38 ／ 最寄り駅：仙台 ／ 交通案内：JR仙台駅西口より徒歩約5分。東北道宮城ＩＣより１５分。仙台空港線で約３０分。高速バス停留所より徒歩２分。駅前通沿い。</p>
+                  <p><strong>【所在地・アクセス】</strong>宮城県仙台市青葉区本町1-5-38 ／ 最寄り駅：仙台 ／ 交通案内：JR仙台駅西口より徒歩約5分。東北道宮城ＩＣより１５分。仙台空港線で約３０分。高速バス停留所より徒歩２分。駅前通沿い。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>平面駐車場１泊2,000円(15台分)高さ２．３ｍ以下まで（要電話予約）満車時は近隣駐車場案内</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function RailwayActivityHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/30766/30766_kan.jpg" alt="仙台　秋保温泉　ホテル瑞鳳 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>仙台中心街からお車で約30分。温泉とともに楽しむ、“食”の贅沢ビュッフェ♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮城県仙台市太白区秋保町湯元除26-1 ／ 最寄り駅：仙台 ／ 交通案内：東北自動車道仙台南ICより15分。仙台市街地まで車で約40分。JR仙台駅東口無料シャトルバス運行（※定員制のため要予約）</p>
+                  <p><strong>【所在地・アクセス】</strong>宮城県仙台市太白区秋保町湯元除26-1 ／ 最寄り駅：仙台 ／ 交通案内：東北自動車道仙台南ICより15分。仙台市街地まで車で約40分。JR仙台駅東口無料シャトルバス運行（※定員制のため要予約）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>約３００台駐車可能な無料駐車場完備。少し離れた当館駐車場へは送迎あり。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function RailwayActivityHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/183803/183803.jpg" alt="天然温泉　杜都の湯　御宿　野乃仙台（ドーミーイン・御宿野乃　ホテルズグループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2022年3月15日全館畳敷き和風ホテル『野乃仙台』東北初上陸！最上階天然温泉・本格ドライサウナ完備</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮城県仙台市青葉区本町2-2-5 ／ 最寄り駅：仙台 ／ 交通案内：JR仙台駅西口より徒歩12分 仙台市営地下鉄南北線広瀬通駅東2番出口目の前</p>
+                  <p><strong>【所在地・アクセス】</strong>宮城県仙台市青葉区本町2-2-5 ／ 最寄り駅：仙台 ／ 交通案内：JR仙台駅西口より徒歩12分 仙台市営地下鉄南北線広瀬通駅東2番出口目の前</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function RailwayActivityHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/50926/50926_tu.jpg" alt="天然温泉　青葉の湯　ドーミーイン仙台ＡＮＮＥＸ（ドーミーイン・御宿野乃　ホテルズグループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>男女別天然温泉大浴場・オートローリュサウナ（水風呂）完備！全室4K　youtube視聴OK！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮城県仙台市青葉区中央2-11-26 ／ 最寄り駅：仙台 ／ 交通案内：ＪＲ仙台駅より徒歩約6分　地下鉄広瀬通駅より徒歩約2分</p>
+                  <p><strong>【所在地・アクセス】</strong>宮城県仙台市青葉区中央2-11-26 ／ 最寄り駅：仙台 ／ 交通案内：ＪＲ仙台駅より徒歩約6分　地下鉄広瀬通駅より徒歩約2分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>要電話予約　契約駐車場15台2000円。満車時は近隣駐車場案内。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function RailwayActivityHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/41017/41017_wa.jpg" alt="ホテル　水明閣 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ニッカウヰスキー創業者「竹鶴政孝」氏に命名された宿。駅前ニッカから車で約５分。幅広い方にオススメ。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道余市郡余市町山田町687 ／ 最寄り駅：余市 ／ 交通案内：ＪＲ余市駅より約３キロ、タクシー片道1200円程度／札樽自動車道・札幌西～仁木ＩＣ経由　約４５分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道余市郡余市町山田町687 ／ 最寄り駅：余市 ／ 交通案内：ＪＲ余市駅より約３キロ、タクシー片道1200円程度／札樽自動車道・札幌西～仁木ＩＣ経由　約４５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台（青空駐車）　無料　大型バス・トラックなど歓迎（建物向かって右側スペース）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function RailwayActivityHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/10682/10682_rm.jpg" alt="湖畔の宿　吉田家　＜佐渡島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>両津港よりお車にて５分。（到着時電話にてお向かいあり、翌日も定期的に佐渡汽船まで送りあり）</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県佐渡市両津夷261-1 ／ 最寄り駅：佐渡空港 ／ 交通案内：佐渡汽船　両津港よりお車にて５分。無料送迎バス有り（要予約）</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県佐渡市両津夷261-1 ／ 最寄り駅：佐渡空港 ／ 交通案内：佐渡汽船　両津港よりお車にて５分。無料送迎バス有り（要予約）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/traditional-ayu-sweetfish-charcoal-grill-stay/"
   };
 
@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F148976%2F148976.html%26f_flg%3DPLAN",
     "hotelMinCharge": 6000,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/148976/148976.jpg",
-    "userReview": "絶景のロケーションとおもてなしに心から癒やされました。",
+    "userReview": "馬頭温泉　旅館ささや荘ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
     "reviewAverage": 3.86,
     "reviewCount": 27,
     "address": "栃木県那須郡那珂川町小口1572",
@@ -270,23 +270,6 @@ export default function Page() {
             ))}
           </div>
         </section>
-
-        {/* 旅のQ&A */}
-        <section className="bg-white rounded-2xl p-6 md:p-8 border border-stone-200 shadow-sm space-y-4">
-          <h2 className="text-lg md:text-xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">よくある質問・失敗しない宿選び</h2>
-          <div className="space-y-4 text-sm">
-            <div className="border border-stone-100 rounded-xl p-4 bg-stone-50/50 space-y-2">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5"><span className="text-emerald-700 font-black">Q.</span> おすすめの予約時期やタイミングは？</h3>
-              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">人気の日程（連休や週末）は1〜2ヶ月前には満室になることが多いため、早期予約（早割プラン）の利用がおすすめです。また楽天トラベルの「5と0のつく日」キャンペーンを活用すると最大20%オフのクーポンが併用でき、最もお得に予約できます。
-              </p>
-            </div>
-            <div className="border border-stone-100 rounded-xl p-4 bg-stone-50/50 space-y-2">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5"><span className="text-emerald-700 font-black">Q.</span> 宿選びで失敗しないためのポイントは？</h3>
-              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">宿泊者レビューのお風呂・お食事・接客評価が4.3以上の宿を選ぶと満足度が非常に高くなります。またアクセス手段（送迎バスの有無など）やプランに含まれる特典を事前に確認しておくと安心です。
-              </p>
-            </div>
-          </div>
-        </section>
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -416,11 +399,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：香ばしい炭火焼き鮎と清流の恵み！天然鮎尽くし会席＆川床露天風呂の名宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：香ばしい炭火焼き鮎と清流の恵み！天然鮎尽くし会席＆川床露天風呂の名宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：香ばしい炭火焼き鮎と清流の恵み！天然鮎尽くし会席＆川床露天風呂の名宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -440,7 +423,7 @@ export default function Page() {
               <tbody className="divide-y divide-stone-200">
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 栃木温泉　鮎返りの滝を望む宿　小山旅館</td>
-                <td className="p-3 text-stone-600">福島県</td>
+                <td className="p-3 text-stone-600">熊本県阿蘇郡南阿蘇村河陽4284</td>
                 <td className="p-3 text-stone-600">■熊本ICより：５７号線へ30分、新阿蘇大橋から5分　■熊本空港より：</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.37（368件）</td>
@@ -458,7 +441,7 @@ export default function Page() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 猪ノ田温泉　絹の湯　久惠屋旅館（ひさえや）</td>
-                <td className="p-3 text-stone-600">福島県</td>
+                <td className="p-3 text-stone-600">群馬県藤岡市下日野1254-1</td>
                 <td className="p-3 text-stone-600">JR八高線「群馬藤岡駅」より車で２０分 / 関越・上信越道 藤岡ICよ</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.35（293件）</td>
@@ -467,7 +450,7 @@ export default function Page() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 湯岐温泉　和泉屋旅館＜福島県塙町＞</td>
-                <td className="p-3 text-stone-600">福島県</td>
+                <td className="p-3 text-stone-600">福島県東白川郡塙町大字湯岐字湯岐１７</td>
                 <td className="p-3 text-stone-600">いわき塙駅より車で20分。</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.79（109件）</td>
@@ -476,7 +459,7 @@ export default function Page() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 馬頭温泉　旅館ささや荘</td>
-                <td className="p-3 text-stone-600">福島県</td>
+                <td className="p-3 text-stone-600">栃木県那須郡那珂川町小口1572</td>
                 <td className="p-3 text-stone-600">氏家駅よりお車にて約４０分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★3.86（27件）</td>
@@ -501,8 +484,8 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/38417/38417.jpg" alt="栃木温泉　鮎返りの滝を望む宿　小山旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「香ばしい炭火焼き鮎と清流の恵み（天然鮎尽くし会席＆川床露天風呂の名宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：■熊本ICより：５７号線へ30分、新阿蘇大橋から5分　■熊本空港より：40分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>「香ばしい炭火焼き鮎と清流の恵み（天然鮎尽くし会席＆川床露天風呂の名宿5選）」掲載宿の所在地・アクセス・特徴データ一覧は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：■熊本ICより：５７号線へ30分、新阿蘇大橋から5分　■熊本空港より：40分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -524,7 +507,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/16280/16280_w.jpg" alt="国登録有形文化財の宿　人吉温泉　芳野旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【国登録有形文化財の宿】歴史感じる純和風旅館　源泉掛け流し天然温泉と旬の会席料理で心和むひと時を</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 熊本県人吉市上青井町180 ／ 最寄り駅：人吉 ／ 交通案内：人吉ICより車で約8分</p>
+                  <p><strong>【所在地・アクセス】</strong>熊本県人吉市上青井町180 ／ 最寄り駅：人吉 ／ 交通案内：人吉ICより車で約8分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.66 ／ 立地 ★4.29 ／ 部屋 ★4.54 ／ 設備 ★4.4 ／ 風呂 ★4.51 ／ 食事 ★4.3</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -545,8 +528,8 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/14509/14509.jpg" alt="猪ノ田温泉　絹の湯　久惠屋旅館（ひさえや） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「香ばしい炭火焼き鮎と清流の恵み（天然鮎尽くし会席＆川床露天風呂の名宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：JR八高線「群馬藤岡駅」より車で２０分 / 関越・上信越道 藤岡ICより２5分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>猪ノ田温泉 絹の湯 久惠屋旅館（ひさえや）（群馬県藤岡市下日野1254-1）は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：JR八高線「群馬藤岡駅」より車で２０分 / 関越・上信越道 藤岡ICより２5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -567,8 +550,8 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/136952/136952.jpg" alt="湯岐温泉　和泉屋旅館＜福島県塙町＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「香ばしい炭火焼き鮎と清流の恵み（天然鮎尽くし会席＆川床露天風呂の名宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：いわき塙駅より車で20分。</p>
+                  <p><strong>【宿の特徴・魅力】</strong>湯岐温泉 和泉屋旅館＜福島県塙町＞は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：いわき塙駅より車で20分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -589,18 +572,21 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/148976/148976.jpg" alt="馬頭温泉　旅館ささや荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「香ばしい炭火焼き鮎と清流の恵み（天然鮎尽くし会席＆川床露天風呂の名宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：氏家駅よりお車にて約４０分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>馬頭温泉 旅館ささや荘（栃木県那須郡那珂川町小口1572）は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：氏家駅よりお車にて約４０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「絶景のロケーションとおもてなしに心から癒やされました。」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「馬頭温泉 旅館ささや荘での快適な滞在とアクセス面の良さに満足したという評価が寄せられています。」
                   </blockquote>
                 </div>
               </div>
             </div>
           </div></section>
 
+              <div className="my-8">
+          <ShareButtons title="【2026年】香ばしい炭火焼き鮎と清流の恵み！天然鮎尽くし会席＆川床露天風呂の名宿5選" url="https://croud-travel.pages.dev/traditional-ayu-sweetfish-charcoal-grill-stay/" />
+        </div>
       </main>
     
       <HubRelatedPosts currentSlug="traditional-ayu-sweetfish-charcoal-grill-stay" />

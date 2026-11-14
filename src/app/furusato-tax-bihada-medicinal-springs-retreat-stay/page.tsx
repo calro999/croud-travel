@@ -395,37 +395,6 @@ export default function Page() {
           </div>
         </section>
 
-        {/* よくある質問 FAQ */}
-        <section className="mb-16 bg-white rounded-3xl shadow-sm border border-stone-200/80 p-6 md:p-10">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">よくある質問・ふるさと納税トラベルクーポンの疑問を解消</h2>
-          <div className="space-y-4">
-            
-            <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>天然炭酸泉はぬるめのお湯が多いと聞きますが、冬でも寒くないですか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
-                炭酸泉は炭酸ガスの効果で皮膚の血流が通常の数倍に促進されるため、37℃〜39℃程度のぬるめの温度でも入浴後には身体の芯からポカポカと温もりが持続します。また、多くの宿ではぬる湯の炭酸泉と加温した温かい温泉大浴場が併設されているため、冬場でも交互浴で快適に楽しめます。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>泥パックはお肌が敏感な人でも利用できますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
-                天然の泥湯は天然ミネラルを豊富に含み肌に優しい成分ですが、硫黄分を含んでいるため、肌が特に敏感な方はまず腕の一部などでパッチテストを行ってから全身に広げるのがおすすめです。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>名物の温泉湯豆腐は宿の朝食などで食べられますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
-                嬉野温泉の多くの旅館では、朝食のメイン料理として「嬉野温泉湯豆腐」が提供されます。弱アルカリ性の温泉水によって豆腐のタンパク質が溶け出し、豆乳のように白濁したスープとトロトロの食感を楽しむことができます。
-              </p>
-            </div>
-          </div>
-        </section>
-
         {/* 相互回遊リンク */}
         <section className="bg-stone-200/80 rounded-3xl p-6 md:p-10 border border-stone-300">
           <div className="text-center max-w-2xl mx-auto mb-8">

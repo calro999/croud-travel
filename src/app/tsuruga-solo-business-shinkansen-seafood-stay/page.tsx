@@ -78,7 +78,7 @@ export default function ArticlePage() {
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.12 更新</time>
           <span>執筆：旅宿クラウド ひとり旅・出張調査班</span>
-          <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式API提携</span>
+          <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">編集部が厳選</span>
         </div>
 
         {/* リード文 */}
@@ -90,7 +90,7 @@ export default function ArticlePage() {
             北陸新幹線の延伸開業により、首都圏・関西・中京のいずれからもアクセスが格段に向上した福井県・敦賀市。古くから天然の良港として栄え、エネルギー産業や物流拠点としてのビジネス需要が旺盛なこの街は、日本海の絶品グルメに彩られた出張先として高い人気を誇ります。
           </p>
           <p>
-            新幹線改札から傘をささずにチェックインできる最新ホテルから、旅の疲れを洗い流す大浴場・サウナ付きビジネスホテルまで、楽天トラベル公式APIより取得した最新データをもとに厳選紹介します。
+            新幹線改札から傘をささずにチェックインできる最新ホテルから、旅の疲れを洗い流す大浴場・サウナ付きビジネスホテルまで、宿泊施設データより取得した最新データをもとに厳選紹介します。
           </p>
         </div>
       </header>
@@ -369,7 +369,7 @@ export default function ArticlePage() {
           <p className="text-sm text-amber-100 mb-6 max-w-2xl mx-auto">平日限定の一人旅割引や、早期割・直前割など、楽天トラベルならではの特典プランが多数用意されています。人気日程は早めの予約がおすすめです。
           </p>
           <a
-            href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2F"
+            href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fsearch.travel.rakuten.co.jp%2Fds%2Fundated%2Fsearch%3Ff_query%3D%25E7%25A6%258F%25E4%25BA%2595%25E7%259C%258C"
             target="_blank"
             rel="sponsored noopener noreferrer"
             className="inline-flex items-center justify-center bg-white text-amber-900 font-bold px-8 py-3 rounded-xl shadow-lg hover:bg-amber-50 transition transform hover:-translate-y-0.5 text-sm sm:text-base"

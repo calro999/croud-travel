@@ -77,7 +77,7 @@ export default function ArticlePage() {
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.13 更新</time>
           <span>執筆：旅宿クラウド ひとり旅・出張調査班</span>
-          <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式API提携</span>
+          <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">編集部が厳選</span>
         </div>
 
         {/* リード文 */}
@@ -89,7 +89,7 @@ export default function ArticlePage() {
             ニューヨーク・タイムズ「行くべき52カ所」に選ばれ世界中から熱い視線を集める岩手県・盛岡市。北東北のビジネス・交通の要衝であり、レトロな赤レンガ建築や城跡の緑、そして豊かな天然温泉が調和した一人旅に最高の舞台です。
           </p>
           <p>
-            駅周辺で手足を伸ばせる天然温泉大浴場ホテルから、少し足を伸ばして名湯つなぎ温泉の絶景に身を委ねるおこもり宿まで、楽天トラベル公式APIより直接取得した最新データをもとに厳選紹介します。
+            駅周辺で手足を伸ばせる天然温泉大浴場ホテルから、少し足を伸ばして名湯つなぎ温泉の絶景に身を委ねるおこもり宿まで、宿泊施設データより直接取得した最新データをもとに厳選紹介します。
           </p>
         </div>
       </header>
@@ -345,7 +345,7 @@ export default function ArticlePage() {
           <p className="text-sm text-amber-100 mb-6 max-w-2xl mx-auto">平日限定の一人旅割引や、早期割・直前割など、楽天トラベルならではの特典プランが多数用意されています。人気日程は早めの予約がおすすめです。
           </p>
           <a
-            href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2F"
+            href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fsearch.travel.rakuten.co.jp%2Fds%2Fundated%2Fsearch%3Ff_query%3D%25E7%259B%259B%25E5%25B2%25A1%25E5%2587%25BA%25E5%25BC%25B5%25E3%2583%25BB%25E5%25A4%25A9%25E7%2584%25B6%25E6%25B8%25A9%25E6%25B3%2589%25E3%2582%25B9%25E3%2583%2586%25E3%2582%25A4%25EF%25BC%259A%25E6%259D%25B1%25E5%258C%2597"
             target="_blank"
             rel="sponsored noopener noreferrer"
             className="inline-flex items-center justify-center bg-white text-amber-900 font-bold px-8 py-3 rounded-xl shadow-lg hover:bg-amber-50 transition transform hover:-translate-y-0.5 text-sm sm:text-base"

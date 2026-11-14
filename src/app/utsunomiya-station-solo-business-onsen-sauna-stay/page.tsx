@@ -77,7 +77,7 @@ export default function ArticlePage() {
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.13 更新</time>
           <span>執筆：旅宿クラウド ひとり旅・出張調査班</span>
-          <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式API提携</span>
+          <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">編集部が厳選</span>
         </div>
 
         {/* リード文 */}
@@ -89,7 +89,7 @@ export default function ArticlePage() {
             北関東最大の都市であり、ハイテク・自動車・電機産業が集まる産業拠点・宇都宮。東京からの新幹線アクセスはもちろん、芳賀・清原工業団地へのLRT直通によりビジネスの機動力が劇的に進化しています。
           </p>
           <p>
-            仕事の疲れをじっくり癒やす大浴場やサウナを備えた高機能ホテルを、楽天トラベル公式APIより直接取得した最新スペック（評価・料金・アクセス）をもとに厳選紹介します。
+            仕事の疲れをじっくり癒やす大浴場やサウナを備えた高機能ホテルを、宿泊施設の詳細スペック・設備情報（評価・料金・アクセス）をもとに厳選紹介します。
           </p>
         </div>
       </header>
@@ -346,7 +346,7 @@ export default function ArticlePage() {
           <p className="text-sm text-amber-100 mb-6 max-w-2xl mx-auto">平日限定の一人旅割引や、早期割・直前割など、楽天トラベルならではの特典プランが多数用意されています。人気日程は早めの予約がおすすめです。
           </p>
           <a
-            href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2F"
+            href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fsearch.travel.rakuten.co.jp%2Fds%2Fundated%2Fsearch%3Ff_query%3D%25E5%25AE%2587%25E9%2583%25BD%25E5%25AE%25AE%25E5%2587%25BA%25E5%25BC%25B5%25E3%2583%25BB%25E5%25A4%25A9%25E7%2584%25B6%25E6%25B8%25A9%25E6%25B3%2589%25E3%2582%25B5%25E3%2582%25A6%25E3%2583%258A%25EF%25BC%259A%25E6%2596%25B0"
             target="_blank"
             rel="sponsored noopener noreferrer"
             className="inline-flex items-center justify-center bg-white text-amber-900 font-bold px-8 py-3 rounded-xl shadow-lg hover:bg-amber-50 transition transform hover:-translate-y-0.5 text-sm sm:text-base"
@@ -389,11 +389,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">宇都宮出張・天然温泉サウナ：新幹線東口・名湯大浴場・元祖宇都宮餃子食べ歩き！北関東ビジネスハブを制する厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「宇都宮出張・天然温泉サウナ：新幹線東口・名湯大浴場・元祖宇都宮餃子食べ歩き！北関東ビジネスハブを制する厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「宇都宮出張・天然温泉サウナ：新幹線東口・名湯大浴場・元祖宇都宮餃子食べ歩き！北関東ビジネスハブを制する厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -457,7 +457,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/141067/141067_sgl.jpg" alt="ダイワロイネットホテル宇都宮 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ＪＲ宇都宮駅東口より徒歩約3分。館内WiFi無料接続可！！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県宇都宮市東宿郷1-4-14 ／ 最寄り駅：宇都宮 ／ 交通案内：ＪＲ宇都宮駅から徒歩にて約3分</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県宇都宮市東宿郷1-4-14 ／ 最寄り駅：宇都宮 ／ 交通案内：ＪＲ宇都宮駅から徒歩にて約3分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>1泊1台1,000円(税込)/先着順/23:00〜翌6:30入出庫不可/機械式立体駐車場(72台)</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.54 ／ 部屋 ★4.54 ／ 設備 ★4.48 ／ 風呂 ★4.41 ／ 食事 ★4.45</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -479,7 +479,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/108951/108951_ru.jpg" alt="ホテルアーバングレイス宇都宮 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ジャパニーズコンフォートをコンセプトにワンランク上のホテルライフをご提供致します。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県宇都宮市江野町2-1 ／ 最寄り駅：東武宇都宮 ／ 交通案内：東武宇都宮駅東口より徒歩５分、ＪＲ宇都宮駅西口より徒歩20分・バスで8分</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県宇都宮市江野町2-1 ／ 最寄り駅：東武宇都宮 ／ 交通案内：東武宇都宮駅東口より徒歩５分、ＪＲ宇都宮駅西口より徒歩20分・バスで8分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>平面P・立体P（１泊１０００円税込）契約P（１泊７００円又は８００円税込）※R6年４月１日〜料金改定</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.28 ／ 部屋 ★4.3 ／ 設備 ★4.23 ／ 風呂 ★4.26 ／ 食事 ★4.26</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -501,7 +501,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/199117/199117.jpg" alt="たびのホテル宇都宮ゆいの杜 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2026年夏オープン。電子レンジ、洗濯機付きの快適空間と心温かいサービスをご提供いたします。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県宇都宮市ゆいの杜8-3-51 ／ 最寄り駅：宇都宮 ／ 交通案内：無料駐車場141台有。ゆいの杜東駅より徒歩14分／宇都宮ICより車で約30分／宇都宮駅より車で約25分。</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県宇都宮市ゆいの杜8-3-51 ／ 最寄り駅：宇都宮 ／ 交通案内：無料駐車場141台有。ゆいの杜東駅より徒歩14分／宇都宮ICより車で約30分／宇都宮駅より車で約25分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>あり　141台　無料　／　大型車両やバスは1泊2000円・事前にお問合せください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.58 ／ 立地 ★4.28 ／ 部屋 ★4.69 ／ 設備 ★4.64 ／ 風呂 ★4.56 ／ 食事 ★4.76</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

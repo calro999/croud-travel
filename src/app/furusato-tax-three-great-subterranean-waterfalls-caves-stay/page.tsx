@@ -536,11 +536,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大地底滝鍾乳洞＆地底アドベンチャー宿×ふるさと納税ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本三大地底滝鍾乳洞＆地底アドベンチャー宿×ふるさと納税ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「日本三大地底滝鍾乳洞＆地底アドベンチャー宿×ふるさと納税ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -604,7 +604,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9151/9151_room.jpg" alt="新見　グランドホテルみよしや 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>新見駅に１番近く、岡山県新見市の中心にありビジネスにも観光にも　洋室はシモンズベッドにデュベスタイル</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岡山県新見市高尾２４５６ ／ 最寄り駅：新見 ／ 交通案内：『JR新見駅』より徒歩1分、中国道『新見IC』より1km</p>
+                  <p><strong>【所在地・アクセス】</strong>岡山県新見市高尾２４５６ ／ 最寄り駅：新見 ／ 交通案内：『JR新見駅』より徒歩1分、中国道『新見IC』より1km</p>
                   <p><strong>【駐車場・マイカー利用】</strong>35台あり　無料　※自動車は２ｔ（６ｍ）までです。これ以上大きいお車は駐車できません。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -626,7 +626,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/15988/15988_kan.jpg" alt="磐梯熱海温泉　ホテル華の湯 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ファミリーに人気のビュッフェダイニングや、露天風呂付客室でゆったり贅沢な大人旅を！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県郡山市熱海町熱海5丁目 8-60 ／ 最寄り駅：磐梯熱海 ／ 交通案内：磐越自動車道磐梯熱海ＩＣより車で8分、磐越西線磐梯熱海駅より送迎可能です。（要連絡）</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県郡山市熱海町熱海5丁目 8-60 ／ 最寄り駅：磐梯熱海 ／ 交通案内：磐越自動車道磐梯熱海ＩＣより車で8分、磐越西線磐梯熱海駅より送迎可能です。（要連絡）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　400台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -648,7 +648,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/148933/148933_kan1.jpg" alt="奥多摩の風　はとのす荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全室南向き、鳩ノ巣渓谷側に沿いベランダも設置、自家源泉と運び湯の大浴場とイタリアンが楽しめる宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 東京都西多摩郡奥多摩町棚沢662 ／ 最寄り駅：鳩ノ巣 ／ 交通案内：ＪＲ新宿駅から100分、鳩ノ巣駅より徒歩300m、5分。</p>
+                  <p><strong>【所在地・アクセス】</strong>東京都西多摩郡奥多摩町棚沢662 ／ 最寄り駅：鳩ノ巣 ／ 交通案内：ＪＲ新宿駅から100分、鳩ノ巣駅より徒歩300m、5分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２７台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

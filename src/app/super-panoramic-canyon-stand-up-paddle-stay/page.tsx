@@ -236,7 +236,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -680,11 +680,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：水面を滑る感動体験！湖畔＆リバーSUP体験付き絶景リゾート温泉宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：水面を滑る感動体験！湖畔＆リバーSUP体験付き絶景リゾート温泉宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：水面を滑る感動体験！湖畔＆リバーSUP体験付き絶景リゾート温泉宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -766,7 +766,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/141295/141295_kya.jpg" alt="山中湖ホテル　インターリゾート東屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>富士山の懐に抱かれた山中湖にある旅館インターリゾート東屋ではご家族連れでのレジャーの拠点として最適</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県南都留郡山中湖村平野126 ／ 最寄り駅：河口湖 ／ 交通案内：河口湖駅より富士急行バス乗り継ぎにて平野停下車、徒歩にて３分。</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県南都留郡山中湖村平野126 ／ 最寄り駅：河口湖 ／ 交通案内：河口湖駅より富士急行バス乗り継ぎにて平野停下車、徒歩にて３分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -788,7 +788,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/139891/139891_ro1.jpg" alt="猿ヶ京温泉　ル・ヴァンベール　湖郷（こきょう） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>料理で選ばれる、大人のオールインクルーシブ温泉宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県利根郡みなかみ町相俣1731 ／ 最寄り駅：上毛高原 ／ 交通案内：上毛高原駅より、猿ヶ京方面行きバスにて３０分（学校下駅下車）</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県利根郡みなかみ町相俣1731 ／ 最寄り駅：上毛高原 ／ 交通案内：上毛高原駅より、猿ヶ京方面行きバスにて３０分（学校下駅下車）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１３台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -810,7 +810,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/11199/11199_rm.jpg" alt="猿ヶ京温泉　山と湖の絶景に浮かぶ宿　料理旅館　樋口 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>神秘的な湖と山々のおりなす絶景を望む【小さな温泉宿】5室だからできるやさしい“おもてなし”</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県利根郡みなかみ町猿ヶ京1167 ／ 最寄り駅：上毛高原 ／ 交通案内：車　月夜野ＩＣから新潟方面へ２０分　猿ヶ京温泉信号右　新幹線⇒上毛高原駅　在来線⇒後閑駅下車</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県利根郡みなかみ町猿ヶ京1167 ／ 最寄り駅：上毛高原 ／ 交通案内：車　月夜野ＩＣから新潟方面へ２０分　猿ヶ京温泉信号右　新幹線⇒上毛高原駅　在来線⇒後閑駅下車</p>
                   <p><strong>【駐車場・マイカー利用】</strong>【無料】当館前に駐車　7台</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -832,7 +832,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/162793/162793_kan1.jpg" alt="湖畔浪漫の宿　かたくりの花 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>田沢湖畔まで徒歩1分。湖を眺めるお部屋と心温まるおもてなしの宿。田沢湖の美しい景色を楽しむ癒しの空間</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 秋田県仙北市田沢湖田沢春山197-15 ／ 最寄り駅：田沢湖 ／ 交通案内：ＪＲ　田沢湖駅よりお車にて約１２分</p>
+                  <p><strong>【所在地・アクセス】</strong>秋田県仙北市田沢湖田沢春山197-15 ／ 最寄り駅：田沢湖 ／ 交通案内：ＪＲ　田沢湖駅よりお車にて約１２分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料・予約不要。建物横の春山第一駐車場または正面玄関前に駐車し、そのままフロントへお越しください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -854,7 +854,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/30818/30818_kan1.jpg" alt="Ｌａｋｅｓｉｄｅ　Ｈｏｔｅｌｓ　Ｋｕｏｒｅ／湖畔のホテルクオレ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>湖畔に佇むわんちゃんと宿泊できるペンション。絶景を眺めながらのテントサウナは格別です！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県耶麻郡北塩原村桧原曽原山1096-442 ／ 最寄り駅：猪苗代 ／ 交通案内：猪苗代駅　／　東北道郡山ＩＣより磐越道猪苗代ＩＣ、Ｒ４５９</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県耶麻郡北塩原村桧原曽原山1096-442 ／ 最寄り駅：猪苗代 ／ 交通案内：猪苗代駅　／　東北道郡山ＩＣより磐越道猪苗代ＩＣ、Ｒ４５９</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　２０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -235,7 +235,7 @@ export default function Page() {
         <section className="space-y-10">
           <div className="text-center space-y-2">
             <h2 className="text-2xl md:text-3xl font-bold text-slate-900">楽天ふるさと納税で泊まる名宿＆厳選ホテル</h2>
-            <p className="text-xs md:text-sm text-slate-500">楽天トラベル公式APIより最新の宿情報・写真・最低参考価格を取得しています
+            <p className="text-xs md:text-sm text-slate-500">宿泊施設データより最新の宿情報・写真・最低参考価格を取得しています
             </p>
           </div>
 
@@ -538,11 +538,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大柱状節理峡谷＆幾何学絶壁とエメラルド清流名湯宿×ふるさと納税厳選ガイド清津峡・高千穂峡・層雲峡：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本三大柱状節理峡谷＆幾何学絶壁とエメラルド清流名湯宿×ふるさと納税厳選ガイド清津峡・高千穂峡・層雲峡」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「日本三大柱状節理峡谷＆幾何学絶壁とエメラルド清流名湯宿×ふるさと納税厳選ガイド清津峡・高千穂峡・層雲峡」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -606,7 +606,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/109363/109363_kya.jpg" alt="清津峡湯元温泉　清津館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>インスタ映え間違いなし☆十日町市人気No1スポット「清津峡トンネル」へ徒歩1分の秘湯の宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県十日町市小出癸2126-1 ／ 最寄り駅：越後湯沢 ／ 交通案内：塩沢石打ICより車で25分/湯沢ICより車で27分/十日町市内より35分</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県十日町市小出癸2126-1 ／ 最寄り駅：越後湯沢 ／ 交通案内：塩沢石打ICより車で25分/湯沢ICより車で27分/十日町市内より35分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１２台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -628,7 +628,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/14067/14067_war.jpg" alt="旅館　大和屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>高千穂神社まで徒歩10分　約105年続く田舎料理が自慢のお宿です</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮崎県西臼杵郡高千穂町三田井1148 ／ 最寄り駅：主要駅 ／ 交通案内：高千穂バスセンターより徒歩５分　延岡駅より車で１時間（２１８号経由）　熊本空港より車で１時間半（５７～３２５号線経由）</p>
+                  <p><strong>【所在地・アクセス】</strong>宮崎県西臼杵郡高千穂町三田井1148 ／ 交通案内：高千穂バスセンターより徒歩５分　延岡駅より車で１時間（２１８号経由）　熊本空港より車で１時間半（５７～３２５号線経由）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -650,7 +650,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5502/5502_rro.jpg" alt="層雲峡　朝陽亭 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「最上階天空露天風呂」からは四季折々の渓谷と、満天の星空をお楽しみいただけます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道上川郡上川町層雲峡温泉 ／ 最寄り駅：上川 ／ 交通案内：上川層雲峡ICよりR39号線を北見方面に車で25分/JR上川駅よりバスで30分/札幌旭川送迎バス運行（3/31迄・要予約</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道上川郡上川町層雲峡温泉 ／ 最寄り駅：上川 ／ 交通案内：上川層雲峡ICよりR39号線を北見方面に車で25分/JR上川駅よりバスで30分/札幌旭川送迎バス運行（3/31迄・要予約</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台　先着順　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -665,7 +665,7 @@ export default function Page() {
 
       {/* フッター */}
       <footer className="bg-slate-950 text-slate-400 py-8 px-4 text-center text-xs border-t border-slate-800">
-        <p>© 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の楽天トラベル公式APIに基づきます。</p>
+        <p>© 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の宿泊施設データに基づきます。</p>
       </footer>
     
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

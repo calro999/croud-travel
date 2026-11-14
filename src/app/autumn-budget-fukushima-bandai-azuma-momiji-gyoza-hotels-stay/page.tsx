@@ -285,11 +285,11 @@ export default function AutumnBudgetFukushimaHotelsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">福島：磐梯吾妻スカイラインの絶景紅葉と円盤餃子！格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「福島：磐梯吾妻スカイラインの絶景紅葉と円盤餃子！格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「福島：磐梯吾妻スカイラインの絶景紅葉と円盤餃子！格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -371,7 +371,7 @@ export default function AutumnBudgetFukushimaHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/181826/181826.jpg" alt="福島駅東口から徒歩３分　ホテル板倉 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>福島駅より徒歩3分！福島の夜景が一望できる展望風呂があるビジネスホテル。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県福島市早稲町5-17 ／ 最寄り駅：福島（福島） ／ 交通案内：JR福島駅東口より徒歩3分　東北自動車道福島西IC,飯坂ICより車で15分</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県福島市早稲町5-17 ／ 最寄り駅：福島（福島） ／ 交通案内：JR福島駅東口より徒歩3分　東北自動車道福島西IC,飯坂ICより車で15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>普通車30台まで駐車可能（1室につき1台まで）、大型車（全長8m）2台まで。大型車は有料、要予約</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.12 ／ 立地 ★4.07 ／ 部屋 ★4 ／ 設備 ★3.79 ／ 風呂 ★3.99 ／ 食事 ★4.18</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -393,7 +393,7 @@ export default function AutumnBudgetFukushimaHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/160664/160664.jpg" alt="アパホテル〈福島駅前〉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>福島駅西口から徒歩1分　ゆったり大浴殿完備　　　　近隣大型コインパーキング有【提携外】</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県福島市太田町8-20 ／ 最寄り駅：福島（福島） ／ 交通案内：■JR「福島駅」西口徒歩1分　■東北自動車道「福島西IC」から15分・「福島飯坂IC」から20分</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県福島市太田町8-20 ／ 最寄り駅：福島（福島） ／ 交通案内：■JR「福島駅」西口徒歩1分　■東北自動車道「福島西IC」から15分・「福島飯坂IC」から20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>近隣大型コインパーキング有【提携外】　フロントで近隣パーキングの場所をご案内しております。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.35 ／ 部屋 ★4.32 ／ 設備 ★4.3 ／ 風呂 ★4.32 ／ 食事 ★4.25</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -415,7 +415,7 @@ export default function AutumnBudgetFukushimaHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/67908/67908_lo.jpg" alt="リッチモンドホテル福島駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【★4.4超えの高評価】福島駅西口徒歩1分！市内屈指の18㎡広々シングルで快適ステイ</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県福島市三河南町1-15 ／ 最寄り駅：福島（福島） ／ 交通案内：◆福島駅西口徒歩1分（東口からは地下通路で徒歩5分）◆「コラッセふくしま」隣◆コンビニ敷地内◆提携駐車場隣接（先着順）◆</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県福島市三河南町1-15 ／ 最寄り駅：福島（福島） ／ 交通案内：◆福島駅西口徒歩1分（東口からは地下通路で徒歩5分）◆「コラッセふくしま」隣◆コンビニ敷地内◆提携駐車場隣接（先着順）◆</p>
                   <p><strong>【駐車場・マイカー利用】</strong>専用駐車場無：提携駐車場700円　満車時は周辺駐車場にて現地精算お願いします</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.44 ／ 立地 ★4.4 ／ 部屋 ★4.46 ／ 設備 ★4.36 ／ 風呂 ★4.3 ／ 食事 ★4.08</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -437,7 +437,7 @@ export default function AutumnBudgetFukushimaHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/42001/42001_si1.jpg" alt="ＪＲ東日本ホテルメッツ福島 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>■ＪＲ福島駅隣接・東口徒歩1分♪■　福島駅に一番近いホテル&amp;#12316;雨に濡れずにチェックイン！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県福島市栄町1-1 ／ 最寄り駅：福島（福島） ／ 交通案内：■ＪＲ福島駅隣接・東口徒歩1分♪■　福島駅に一番近いホテル～雨に濡れずにチェックイン！</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県福島市栄町1-1 ／ 最寄り駅：福島（福島） ／ 交通案内：■ＪＲ福島駅隣接・東口徒歩1分♪■　福島駅に一番近いホテル～雨に濡れずにチェックイン！</p>
                   <p><strong>【駐車場・マイカー利用】</strong>150台可、1泊1台1,000円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.22 ／ 立地 ★4.3 ／ 部屋 ★4.18 ／ 設備 ★4.08 ／ 風呂 ★4 ／ 食事 ★4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -459,7 +459,7 @@ export default function AutumnBudgetFukushimaHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/165575/165575_kan1.jpg" alt="ＨＯＴＥＬ　ＳＡＮＫＹＯ　ＦＵＫＵＳＨＩＭＡ　ホテルサンキョウフクシマ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2017年全室改装済。快適でアットホームなサービスでお迎えします。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県福島市大町7-11 ／ 最寄り駅：福島（福島） ／ 交通案内：JR 福島駅東口から徒歩10分。東北道 福島西ＩCおよび飯坂ICより車で15分</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県福島市大町7-11 ／ 最寄り駅：福島（福島） ／ 交通案内：JR 福島駅東口から徒歩10分。東北道 福島西ＩCおよび飯坂ICより車で15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>立体駐車場118台／先着順／1泊税込1000円／車高制限有155cm迄※RV・ワゴン車は提携駐車場</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.24 ／ 立地 ★4.16 ／ 部屋 ★4.22 ／ 設備 ★4.18 ／ 風呂 ★4.15 ／ 食事 ★4.45</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

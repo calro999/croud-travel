@@ -316,7 +316,7 @@ export default function HyogoKobePortWinterPage() {
           <div className="text-center space-y-3">
             <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900 tracking-tight">神戸港・三宮・元町で冬を彩る極上名宿5選</h2>
             <p className="text-slate-600 text-sm sm:text-base max-w-2xl mx-auto">
-              楽天トラベル公式APIからリアルタイムに取得した高評価のホテル群。全室テラス付きのオーシャンビュー温泉宿から名門シティホテルまで特選しました。
+              宿泊施設データからリアルタイムに取得した高評価のホテル群。全室テラス付きのオーシャンビュー温泉宿から名門シティホテルまで特選しました。
             </p>
           </div>
 

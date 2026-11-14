@@ -77,7 +77,7 @@ export default function ArticlePage() {
             石川・和倉温泉ひとり旅＆能登七尾湾おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「能登・和倉温泉ひとり旅・七尾湾オーシャンフロントおこもり」開湯1200年塩化物泉・能登前寿司＆能登牛・復興応援ステイ！海の温泉郷厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               七尾湾の沖合で傷を癒やす白鷺によって発見されたと伝わる和倉温泉。全国でも稀な高濃度のナトリウム・カルシウム-塩化物泉で、保温・保湿効果が極めて高く「温まりの湯」として親しまれています。能登里山里海の豊かな風土が育んだ能登前寿司や能登牛、地酒とともに、一人旅で能登の力強い歩みを体感する旅が待っています。
             </p>
             <p>
-              波打ち際で七尾湾の水平線を眺める絶景宿から、温かいもてなしと能登の地魚料理を味わえる老舗旅館まで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              波打ち際で七尾湾の水平線を眺める絶景宿から、温かいもてなしと能登の地魚料理を味わえる老舗旅館まで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -421,11 +421,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">能登・和倉温泉ひとり旅・七尾湾オーシャンフロントおこもり：開湯1200年塩化物泉・能登前寿司＆能登牛・復興応援ステイ！海の温泉郷厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「能登・和倉温泉ひとり旅・七尾湾オーシャンフロントおこもり：開湯1200年塩化物泉・能登前寿司＆能登牛・復興応援ステイ！海の温泉郷厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「能登・和倉温泉ひとり旅・七尾湾オーシャンフロントおこもり：開湯1200年塩化物泉・能登前寿司＆能登牛・復興応援ステイ！海の温泉郷厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -489,7 +489,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/14395/14395_kan1.jpg" alt="和倉温泉　ホテル海望 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>お客様に愛され続けて創業130余年。海を望むという名である理由、感動を一度ご体感ください。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県七尾市和倉町和歌崎部12-3 ／ 最寄り駅：和倉温泉 ／ 交通案内：JR和倉温泉駅から当館無料送迎バスで5分。金沢から「のと里山海道」徳田大津JCT、和倉IC経由、車で約1時間。</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県七尾市和倉町和歌崎部12-3 ／ 最寄り駅：和倉温泉 ／ 交通案内：JR和倉温泉駅から当館無料送迎バスで5分。金沢から「のと里山海道」徳田大津JCT、和倉IC経由、車で約1時間。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル海望と湯っ足りパークの間に、海を望む無料駐車場がございます。全150台。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.6 ／ 立地 ★4.72 ／ 部屋 ★4.48 ／ 設備 ★4.23 ／ 風呂 ★4.41 ／ 食事 ★4.71</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -511,7 +511,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/39556/39556_ky.jpg" alt="和倉温泉　日本の宿　のと楽 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>波静かな七尾湾を望む露天風呂で檜の香りを満喫。海の見えるお部屋で能登の旬をごゆっくりご堪能下さい。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県七尾市石崎町香島1-14 ／ 最寄り駅：和倉温泉 ／ 交通案内：ＪＲ　和倉温泉駅より車で５分／能越道和倉ＩＣより車で約７分</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県七尾市石崎町香島1-14 ／ 最寄り駅：和倉温泉 ／ 交通案内：ＪＲ　和倉温泉駅より車で５分／能越道和倉ＩＣより車で約７分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.33 ／ 部屋 ★4.26 ／ 設備 ★4.15 ／ 風呂 ★4.43 ／ 食事 ★4.27</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -533,7 +533,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/14026/14026_bath.jpg" alt="和倉温泉　味な宿　宝仙閣 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>能登半島の旬の幸と良質の温泉で至福の時間が過ごせる家庭的な宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県七尾市和倉町ヨ部19番地２ ／ 最寄り駅：和倉温泉 ／ 交通案内：北陸道金沢森本IC・のと里山海道・能越道利用 和倉ICより５分 / JR七尾線「和倉温泉駅」より無料送迎あり（要連絡）</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県七尾市和倉町ヨ部19番地２ ／ 最寄り駅：和倉温泉 ／ 交通案内：北陸道金沢森本IC・のと里山海道・能越道利用 和倉ICより５分 / JR七尾線「和倉温泉駅」より無料送迎あり（要連絡）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>運転の苦手な方もラクラク停められる♪広い駐車場（約４０台）をご用意しております。（無料・予約不要）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.2 ／ 立地 ★4.03 ／ 部屋 ★4.12 ／ 設備 ★3.91 ／ 風呂 ★4.12 ／ 食事 ★4.32</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

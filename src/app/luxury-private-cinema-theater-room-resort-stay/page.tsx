@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/luxury-private-cinema-theater-room-resort-stay/"
   };
 
@@ -270,23 +270,6 @@ export default function Page() {
             ))}
           </div>
         </section>
-
-        {/* 旅のQ&A */}
-        <section className="bg-white rounded-2xl p-6 md:p-8 border border-stone-200 shadow-sm space-y-4">
-          <h2 className="text-lg md:text-xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">よくある質問・失敗しない宿選び</h2>
-          <div className="space-y-4 text-sm">
-            <div className="border border-stone-100 rounded-xl p-4 bg-stone-50/50 space-y-2">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5"><span className="text-emerald-700 font-black">Q.</span> おすすめの予約時期やタイミングは？</h3>
-              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">人気の日程（連休や週末）は1〜2ヶ月前には満室になることが多いため、早期予約（早割プラン）の利用がおすすめです。また楽天トラベルの「5と0のつく日」キャンペーンを活用すると最大20%オフのクーポンが併用でき、最もお得に予約できます。
-              </p>
-            </div>
-            <div className="border border-stone-100 rounded-xl p-4 bg-stone-50/50 space-y-2">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5"><span className="text-emerald-700 font-black">Q.</span> 宿選びで失敗しないためのポイントは？</h3>
-              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">宿泊者レビューのお風呂・お食事・接客評価が4.3以上の宿を選ぶと満足度が非常に高くなります。またアクセス手段（送迎バスの有無など）やプランに含まれる特典を事前に確認しておくと安心です。
-              </p>
-            </div>
-          </div>
-        </section>
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -416,11 +399,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：大画面プロジェクター＆高音質音響！客室シアタールームで映画に没入する温泉宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：大画面プロジェクター＆高音質音響！客室シアタールームで映画に没入する温泉宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：大画面プロジェクター＆高音質音響！客室シアタールームで映画に没入する温泉宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -476,7 +459,7 @@ export default function Page() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 箱根湯本温泉　女性に優しい癒しの宿　ホテルマイユクール祥月</td>
-                <td className="p-3 text-stone-600">栃木県</td>
+                <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町湯本468-1</td>
                 <td className="p-3 text-stone-600">箱根湯本駅下車徒歩１２分／小田原厚木道路箱根口ＩＣから2ｋｍ　箱根神社</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（6648件）</td>
@@ -502,7 +485,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/177729/177729_kan1.jpg" alt="天然温泉　ひなたの湯　スーパーホテルＰｒｅｍｉｅｒ宮崎一番街 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>高い顧客満足度と無料サービスが充実！街中でトロトロ美肌の男女別天然温泉とウェルカムBarで寛ぎを。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮崎県宮崎市中央通7-18 ／ 最寄り駅：宮崎 ／ 交通案内：宮崎駅よりお車にて約６分、宮崎空港よりリムジンバスで１本「橘通り３丁目」下車徒歩３分、繁華街へ徒歩０分と好立地</p>
+                  <p><strong>【所在地・アクセス】</strong>宮崎県宮崎市中央通7-18 ／ 最寄り駅：宮崎 ／ 交通案内：宮崎駅よりお車にて約６分、宮崎空港よりリムジンバスで１本「橘通り３丁目」下車徒歩３分、繁華街へ徒歩０分と好立地</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有料1100円　先着順でご案内致します（予約不可）。料金は予告なく変更する場合がございます。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.5 ／ 立地 ★4.4 ／ 部屋 ★4.41 ／ 設備 ★4.39 ／ 風呂 ★4.43 ／ 食事 ★4.31</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -524,7 +507,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/16089/16089_ba.jpg" alt="湯田上温泉　ホテル小柳 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>新潟市へ一番近い美食を満喫できる温泉宿★インフィニティ露天風呂とこだわりのサウナが人気！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県南蒲原郡田上町田上乙1322-1 ／ 最寄り駅：新津 ／ 交通案内：関越道 三条・燕ICよりR403を車で30分／JR信越線 田上駅下車（無料送迎あり）</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県南蒲原郡田上町田上乙1322-1 ／ 最寄り駅：新津 ／ 交通案内：関越道 三条・燕ICよりR403を車で30分／JR信越線 田上駅下車（無料送迎あり）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -546,7 +529,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/180260/180260.jpg" alt="天然温泉　石鎚の湯　スーパーホテル伊予西条 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>天然温泉男女別★朝食はバイキング無料♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛媛県西条市朔日市777-1 ／ 最寄り駅：伊予西条 ／ 交通案内：伊予西条駅よりお車にて約７分  伊予西条ICより車にて約15分</p>
+                  <p><strong>【所在地・アクセス】</strong>愛媛県西条市朔日市777-1 ／ 最寄り駅：伊予西条 ／ 交通案内：伊予西条駅よりお車にて約７分  伊予西条ICより車にて約15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>敷地内平面75台先着順無料。駐車場入り口は2ndstreetさんとくら寿司さんの間の道になります。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.42 ／ 立地 ★4.31 ／ 部屋 ★4.38 ／ 設備 ★4.36 ／ 風呂 ★4.35 ／ 食事 ★4.38</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -568,7 +551,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/29493/29493_vh.jpg" alt="鬼怒川温泉　鬼怒川プラザホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>２７０年引き継がれている湯を満喫♪２カ所の貸切露天と渓谷を抱くような絶景新客室が人気！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県日光市鬼怒川温泉滝530 ／ 最寄り駅：鬼怒川温泉 ／ 交通案内：東武鉄道　鬼怒川温泉駅から１ｋｍ（徒歩１５分、車５分）／日光宇都宮自動車道　今市ＩＣより国道１２１号で約３０分</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県日光市鬼怒川温泉滝530 ／ 最寄り駅：鬼怒川温泉 ／ 交通案内：東武鉄道　鬼怒川温泉駅から１ｋｍ（徒歩１５分、車５分）／日光宇都宮自動車道　今市ＩＣより国道１２１号で約３０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>あり　■乗用車（２００台収容）※無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -589,8 +572,8 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/19786/19786.jpg" alt="箱根湯本温泉　女性に優しい癒しの宿　ホテルマイユクール祥月 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「大画面プロジェクター＆高音質音響（客室シアタールームで映画に没入する温泉宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：箱根湯本駅下車徒歩１２分／小田原厚木道路箱根口ＩＣから2ｋｍ　箱根神社約40分／箱根ターンパイク約10分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>神奈川県足柄下郡箱根町湯本468-1の「箱根湯本温泉 女性に優しい癒しの宿 ホテルマイユクール祥月」（楽天トラベル評価4.55（6588件）／1泊目安¥8,500〜）の魅力と宿泊ポイントを詳しく紹介。◆全室禁煙、女性に優しい美肌の湯が自慢の縁結びの宿。実際の口コミ評価や施設スペック、周辺観光スポット、1泊2日の滞在モデルコースまで分かりやすく案内します。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：箱根湯本駅下車徒歩１２分／小田原厚木道路箱根口ＩＣから2ｋｍ　箱根神社約40分／箱根ターンパイク約10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -601,6 +584,9 @@ export default function Page() {
             </div>
           </div></section>
 
+              <div className="my-8">
+          <ShareButtons title="【2026年】大画面プロジェクター＆高音質音響！客室シアタールームで映画に没入する温泉宿5選" url="https://croud-travel.pages.dev/luxury-private-cinema-theater-room-resort-stay/" />
+        </div>
       </main>
     
       <HubRelatedPosts currentSlug="luxury-private-cinema-theater-room-resort-stay" />

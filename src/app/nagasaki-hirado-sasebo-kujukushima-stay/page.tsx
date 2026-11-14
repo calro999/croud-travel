@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">長崎・平戸＆佐世保・九十九島：世界遺産キリシタン史跡・平戸城＆九十九島遊覧・ヒラメ宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「長崎・平戸＆佐世保・九十九島：世界遺産キリシタン史跡・平戸城＆九十九島遊覧・ヒラメ宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「長崎・平戸＆佐世保・九十九島：世界遺産キリシタン史跡・平戸城＆九十九島遊覧・ヒラメ宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/13466/13466_rm.jpg" alt="田の浦温泉　旅館　田の浦温泉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>弘法大師空海開湯伝説と定置網、朝獲れ地魚・海席料理が好評です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長崎県平戸市大久保町201-125 ／ 最寄り駅：たびら平戸口 ／ 交通案内：西九州自動車道　佐々町IC→江迎町→平戸大橋から25分</p>
+                  <p><strong>【所在地・アクセス】</strong>長崎県平戸市大久保町201-125 ／ 最寄り駅：たびら平戸口 ／ 交通案内：西九州自動車道　佐々町IC→江迎町→平戸大橋から25分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8223/8223_ke.jpg" alt="熱海温泉　熱海の癒（ゆ）　新かどや 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>屋上天空露天から熱海の街が一望。夕食朝食ともお部屋食でゆったりとできる和風温泉旅館です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県熱海市小嵐町14-8 ／ 最寄り駅：熱海 ／ 交通案内：★交通手段をお知らせください　車：小田原厚木道路より国道135号線にて約30分　電車：熱海駅よりタクシーで8分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県熱海市小嵐町14-8 ／ 最寄り駅：熱海 ／ 交通案内：★交通手段をお知らせください　車：小田原厚木道路より国道135号線にて約30分　電車：熱海駅よりタクシーで8分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/180084/180084_kan1.jpg" alt="そのぎ茶温泉里山の湯宿　つわぶきの花 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>１３部屋の離れには露天風呂。自家栽培で山の惠みを丸ごと味わう。古き良き、日本の情緒をご堪能下さい。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長崎県東彼杵郡東彼杵町一ッ石郷981 ／ 最寄り駅：長崎空港 ／ 交通案内：長崎空港よりお車にて約２０分</p>
+                  <p><strong>【所在地・アクセス】</strong>長崎県東彼杵郡東彼杵町一ッ石郷981 ／ 最寄り駅：長崎空港 ／ 交通案内：長崎空港よりお車にて約２０分</p>
                   <p>【長崎・平戸＆佐世保・九十九島：世界遺産キリシタン史跡】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9057/9057_twn.jpg" alt="ホテルオークラＪＲハウステンボス 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>スタッフのおもてなしに心和らぎ、天然温泉が疲れを癒す魅力あるリゾートホテルです。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長崎県佐世保市ハウステンボス町10 ／ 最寄り駅：ハウステンボス ／ 交通案内：西九州自動車道　佐世保大塔ICより車で15分/長崎空港よりバスで70分／JR博多駅より特急ハウステンボス号で110分</p>
+                  <p><strong>【所在地・アクセス】</strong>長崎県佐世保市ハウステンボス町10 ／ 最寄り駅：ハウステンボス ／ 交通案内：西九州自動車道　佐世保大塔ICより車で15分/長崎空港よりバスで70分／JR博多駅より特急ハウステンボス号で110分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有、1泊1台あたり1000円 *到着日の朝から翌日正午まで。*2027年4月1日より1500円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.63 ／ 立地 ★4.65 ／ 部屋 ★4.61 ／ 設備 ★4.53 ／ 風呂 ★4.47 ／ 食事 ★4.65</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/107860/107860_kya.jpg" alt="ホテル彩陽　ＷＡＫＩＧＡＷＡ（旧：平戸脇川ホテル） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>平戸の入口に立地し２階以上の客室から平戸瀬戸や平戸城を見渡せます。新鮮な魚中心の料理が好評です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長崎県平戸市岩の上町1123-1 ／ 最寄り駅：たびら平戸口 ／ 交通案内：たびら平戸口駅からお車で７分</p>
+                  <p><strong>【所在地・アクセス】</strong>長崎県平戸市岩の上町1123-1 ／ 最寄り駅：たびら平戸口 ／ 交通案内：たびら平戸口駅からお車で７分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（約25台）・無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/16720/16720_wyo.jpg" alt="平戸海上ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>お部屋は全室オーシャンビューでごゆっくりお寛ぎいただけます♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長崎県平戸市大久保町2231-3 ／ 最寄り駅：たびら平戸口 ／ 交通案内：松浦鉄道『たびら平戸口駅』→西肥バス『平戸桟橋』　／お車は西九州自動車道『佐々IC』→Ｒ２０４経由で約３０分</p>
+                  <p><strong>【所在地・アクセス】</strong>長崎県平戸市大久保町2231-3 ／ 最寄り駅：たびら平戸口 ／ 交通案内：松浦鉄道『たびら平戸口駅』→西肥バス『平戸桟橋』　／お車は西九州自動車道『佐々IC』→Ｒ２０４経由で約３０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場有り　60台　先着順　無料　電気自動車充電スタンド（EV充電）４台設置</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

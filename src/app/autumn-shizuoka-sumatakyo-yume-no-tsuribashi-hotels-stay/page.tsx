@@ -317,11 +317,11 @@ export default function SumatakyoAutumnPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋の寸又峡：夢の吊橋のエメラルド湖水と鮮烈な紅葉！美女づくりの湯を満喫するおすすめ秘境宿5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「秋の寸又峡：夢の吊橋のエメラルド湖水と鮮烈な紅葉！美女づくりの湯を満喫するおすすめ秘境宿5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「秋の寸又峡：夢の吊橋のエメラルド湖水と鮮烈な紅葉！美女づくりの湯を満喫するおすすめ秘境宿5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -385,7 +385,7 @@ export default function SumatakyoAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/172896/172896_kan1.jpg" alt="大井川鐵道　川根温泉ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>小学生未満宿泊無料！温泉宿・ホテル総選挙ファミリー部門5年連続全国1位！自然に包まれる癒しの温泉宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県島田市川根町笹間渡195-1 ／ 最寄り駅：主要駅 ／ 交通案内：新東名島田金谷ＩＣよりお車にて約３５分／大井川鉄道　川根温泉笹間渡駅より徒歩にて約１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県島田市川根町笹間渡195-1 ／ 交通案内：新東名島田金谷ＩＣよりお車にて約３５分／大井川鉄道　川根温泉笹間渡駅より徒歩にて約１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場有り</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.68 ／ 立地 ★4.62 ／ 部屋 ★4.51 ／ 設備 ★4.54 ／ 風呂 ★4.6 ／ 食事 ★4.71</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -407,7 +407,7 @@ export default function SumatakyoAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/44267/44267_kya.jpg" alt="川根温泉ふれあいコテージ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全棟源泉かけ流し温泉付きの一棟貸しコテージで、日常の喧騒から離れた心休まるひと時を…</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県島田市川根町笹間渡411-2 ／ 最寄り駅：笹間渡 ／ 交通案内：大井川鐵道 大井川本線 川根温泉笹間渡駅から徒歩２分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県島田市川根町笹間渡411-2 ／ 最寄り駅：笹間渡 ／ 交通案内：大井川鐵道 大井川本線 川根温泉笹間渡駅から徒歩２分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>敷地内に無料駐車場がございます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -429,7 +429,7 @@ export default function SumatakyoAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/10709/10709_room.jpg" alt="翠紅苑 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>大正浪漫を感じる建物で、「美女づくりの湯」と「奥大井の食材をつかった料理」を堪能する</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県榛原郡川根本町千頭279 ／ 最寄り駅：千頭 ／ 交通案内：JR金谷駅より大井川鉄道乗換え千頭駅より寸又峡温泉行きバス40分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県榛原郡川根本町千頭279 ／ 最寄り駅：千頭 ／ 交通案内：JR金谷駅より大井川鉄道乗換え千頭駅より寸又峡温泉行きバス40分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>20台（無料）　ご来館前に必ず「交通情報（道路改良工事、鉄道復旧工事等）」をご確認ください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

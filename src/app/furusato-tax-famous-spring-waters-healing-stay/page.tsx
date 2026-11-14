@@ -326,11 +326,11 @@ export default function FurusatoUpgradedPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本名水百選の湧水地と名水仕込み美食・美肌温泉宿×ふるさと納税厳選ガイド白川水源・安曇野・柿田川：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本名水百選の湧水地と名水仕込み美食・美肌温泉宿×ふるさと納税厳選ガイド白川水源・安曇野・柿田川」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「日本名水百選の湧水地と名水仕込み美食・美肌温泉宿×ふるさと納税厳選ガイド白川水源・安曇野・柿田川」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -393,8 +393,8 @@ export default function FurusatoUpgradedPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/74601/74601_ky1.jpg" alt="南阿蘇夢しずく温泉　別邸蘇庵 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「日本名水百選の湧水地と名水仕込み美食・美肌温泉宿×ふるさと納税厳選ガイド白川水源・安曇野・柿田川」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 熊本県阿蘇郡南阿蘇村河陰5-56 ／ 最寄り駅：白水高原 ／ 交通案内：【長陽大橋開通】熊本ICより57号線経由車で50分・【 俵山トンネル経由】 熊本空港より車で約30分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>【お部屋食確約】こだわりの専用半露天風呂を全室に備えた完全プライベート宿</p>
+                  <p><strong>【所在地・アクセス】</strong>熊本県阿蘇郡南阿蘇村河陰5-56 ／ 最寄り駅：白水高原 ／ 交通案内：【長陽大橋開通】熊本ICより57号線経由車で50分・【 俵山トンネル経由】 熊本空港より車で約30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -416,7 +416,7 @@ export default function FurusatoUpgradedPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7149/7149_to.jpg" alt="穂高温泉郷　安曇野穂高ビューホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>松本エリアから車で約40分★口コミ朝食４．7 心癒す旅を</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県安曇野市穂高牧2200-3 ／ 最寄り駅：松本 ／ 交通案内：長野自動車道【安曇野IC】よりお車で約25分。【松本IC】よりお車で約40分／JR大糸線穂高駅よりバスで約15分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県安曇野市穂高牧2200-3 ／ 最寄り駅：松本 ／ 交通案内：長野自動車道【安曇野IC】よりお車で約25分。【松本IC】よりお車で約40分／JR大糸線穂高駅よりバスで約15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　80台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -438,7 +438,7 @@ export default function FurusatoUpgradedPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/179020/179020_kan1.jpg" alt="富士山三島東急ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>三島駅南口より徒歩1分★富士山の美しさを感じるアーバンリゾートホテル★最上階展望温浴施設がオススメ♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県三島市一番町17-1 ／ 最寄り駅：三島 ／ 交通案内：ＪＲ　三島駅（南口）／伊豆箱根鉄道　三島駅より徒歩にて約１分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県三島市一番町17-1 ／ 最寄り駅：三島 ／ 交通案内：ＪＲ　三島駅（南口）／伊豆箱根鉄道　三島駅より徒歩にて約１分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場／複合施設敷地内15台(屋外平面)1,500円/1泊(先着順)◆予約不可・途中出庫不可</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

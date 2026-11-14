@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">北海道・富良野＆美瑛：青い池・ファーム富田ラベンダー＆白金温泉・富良野牛宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「北海道・富良野＆美瑛：青い池・ファーム富田ラベンダー＆白金温泉・富良野牛宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「北海道・富良野＆美瑛：青い池・ファーム富田ラベンダー＆白金温泉・富良野牛宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/16240/16240_trp.jpg" alt="富良野リゾートホテル　エーデルヴェルメ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>大雪山・十勝岳連峰と富良野の雄大な景色を堪能できる北欧風リゾートホテルでコンセプトルームを多数ご用意</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道富良野市北の峰町9-20 ／ 最寄り駅：富良野 ／ 交通案内：札幌ICから道央自動車道、三笠ICまで約30分、道道116号岩見沢三笠線/国道38号線、北の峰経由で約1時間30分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道富良野市北の峰町9-20 ／ 最寄り駅：富良野 ／ 交通案内：札幌ICから道央自動車道、三笠ICまで約30分、道道116号岩見沢三笠線/国道38号線、北の峰経由で約1時間30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9611/9611_twn.jpg" alt="美瑛白金温泉　ホテルパークヒルズ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【青い池に、一番近い温泉宿】美瑛産の季節野菜が楽しめるビュッフェと源泉かけ流し温泉。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道上川郡美瑛町字白金温泉 ／ 最寄り駅：美瑛 ／ 交通案内：美瑛駅より車で２５分／旭川空港より車で４０分／道央自動車道　旭川鷹栖ＩＣより車で６０分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道上川郡美瑛町字白金温泉 ／ 最寄り駅：美瑛 ／ 交通案内：美瑛駅より車で２５分／旭川空港より車で４０分／道央自動車道　旭川鷹栖ＩＣより車で６０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　120台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/197268/197268.jpg" alt="Ｂ　ｃｙｃｌｅ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>美瑛駅すぐ！カップル・友達におすすめ！青い池／ケンとメリー／ファーム富田／白金温泉／白ひげの滝</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道上川郡美瑛町栄町1-7-14 ／ 最寄り駅：美瑛 ／ 交通案内：美瑛駅より徒歩約３分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道上川郡美瑛町栄町1-7-14 ／ 最寄り駅：美瑛 ／ 交通案内：美瑛駅より徒歩約３分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１台　無料　要予約</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/74730/74730_ru.jpg" alt="Ｂ＆Ｂ　ケンとメリー 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>大雪山系を一望できる広い庭とテラスが自慢。「ケンとメリーの木」の傍に建つ可愛いペンションです。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道上川郡美瑛町字大村大久保協生 ／ 最寄り駅：美瑛 ／ 交通案内：ＪＲ　美瑛駅よりお車にて５分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道上川郡美瑛町字大村大久保協生 ／ 最寄り駅：美瑛 ／ 交通案内：ＪＲ　美瑛駅よりお車にて５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/151124/151124.jpg" alt="コテージクローバー 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>美瑛の観光スポット「ケンとメリーの木」まで２００ｍ。築３８年の家をそのまま利用。畑の中の一軒家</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道上川郡美瑛町字大村大久保第一 ／ 最寄り駅：美瑛 ／ 交通案内：ＪＲ　美瑛駅よりお車で５分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道上川郡美瑛町字大村大久保第一 ／ 最寄り駅：美瑛 ／ 交通案内：ＪＲ　美瑛駅よりお車で５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/176997/176997.jpg" alt="天然温泉　紫雲の湯　ラビスタ富良野ヒルズ（ドーミーイン・御宿野乃　ホテルズグループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>富良野市内一望できる最上階天然温泉大浴場・貸切風呂完備♪ファミリーにも安心なお子様アメニティも充実！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道富良野市朝日町5-14 ／ 最寄り駅：富良野 ／ 交通案内：ＪＲ富良野駅より徒歩3分・旭川空港からバスで約1時間・新千歳空港からお車で約2時間10分・札幌市内からお車で約2時間</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道富良野市朝日町5-14 ／ 最寄り駅：富良野 ／ 交通案内：ＪＲ富良野駅より徒歩3分・旭川空港からバスで約1時間・新千歳空港からお車で約2時間10分・札幌市内からお車で約2時間</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　ホテル駐車場無料（先着順）　※満車時は近隣パーキングにご案内致します。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

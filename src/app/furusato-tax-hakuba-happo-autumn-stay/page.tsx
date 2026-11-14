@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-hakuba-happo-autumn-stay/"
   };
 
@@ -482,11 +482,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">長野・白馬八方尾根の三段紅葉＆北アルプス！日本最高峰pH白馬八方温泉と信州牛フレンチ｜ふるさと納税で泊まれる名宿ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「長野・白馬八方尾根の三段紅葉＆北アルプス！日本最高峰pH白馬八方温泉と信州牛フレンチ｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「長野・白馬八方尾根の三段紅葉＆北アルプス！日本最高峰pH白馬八方温泉と信州牛フレンチ｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -550,7 +550,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1173/1173_twn.jpg" alt="白馬東急ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>広い客室と2つのレストラン、バー、エステ、温泉浴場完備の正統派山岳リゾート。駅やゲレンデ無料送迎あり</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県北安曇郡白馬村北城4688 ／ 最寄り駅：白馬 ／ 交通案内：白馬駅からお車で約8分。白馬八方バスターミナルからお車で約3分。送迎はご到着の1時間前までにご依頼ください。</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県北安曇郡白馬村北城4688 ／ 最寄り駅：白馬 ／ 交通案内：白馬駅からお車で約8分。白馬八方バスターミナルからお車で約3分。送迎はご到着の1時間前までにご依頼ください。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り 約70台無料。EV充電器2台分ございます。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.6 ／ 立地 ★4.74 ／ 部屋 ★4.64 ／ 設備 ★4.55 ／ 風呂 ★4.41 ／ 食事 ★4.65</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -572,7 +572,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/28381/28381_rm.jpg" alt="白馬樅の木ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>貸切温泉OPEN★新しいビュッフェと和牛しゃぶしゃぶが好評♪敷地内に英国調パブ有★八方まで徒歩3分</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県北安曇郡白馬村北城4683-2 ／ 最寄り駅：白馬 ／ 交通案内：白馬駅より無料送迎（要予約）5分／安曇野ICより国道148号60分／専用へリポートまでヘリで成田より75分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県北安曇郡白馬村北城4683-2 ／ 最寄り駅：白馬 ／ 交通案内：白馬駅より無料送迎（要予約）5分／安曇野ICより国道148号60分／専用へリポートまでヘリで成田より75分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -594,7 +594,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/17516/17516_rm.jpg" alt="白馬八方温泉　白馬ホテル花乃郷 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>八方尾根ゴンドラまで徒歩6分♪白馬八方温泉◆絶景展望露天とおもてなし料理の宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県北安曇郡白馬村八方5025 ／ 最寄り駅：白馬 ／ 交通案内：ＪＲ大糸線「白馬駅」よりお車にて５分。</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県北安曇郡白馬村八方5025 ／ 最寄り駅：白馬 ／ 交通案内：ＪＲ大糸線「白馬駅」よりお車にて５分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

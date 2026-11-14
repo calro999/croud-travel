@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/three-generation-family-large-room-luxury-stay/"
   };
 
@@ -186,6 +186,12 @@ export default function Page() {
           </p>
         </div>
 
+        <div className="pt-2">
+          <ShareButtons
+            title="祖父母から孫までみんなで快適！3世代ファミリー旅行・コネクティングルーム＆露天風呂付き離れ宿"
+            url="https://croud-travel.pages.dev/three-generation-family-large-room-luxury-stay/"
+          />
+        </div>
         {/* クーポン特大バナー */}
         <SpecialCouponBanner />
 
@@ -303,11 +309,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">祖父母から孫までみんなで快適！3世代ファミリー旅行・コネクティングルーム＆露天風呂付き離れ宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「祖父母から孫までみんなで快適！3世代ファミリー旅行・コネクティングルーム＆露天風呂付き離れ宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「祖父母から孫までみんなで快適！3世代ファミリー旅行・コネクティングルーム＆露天風呂付き離れ宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -371,7 +377,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2370/2370_heya.jpg" alt="水上温泉郷　湯檜曽温泉　天空の湯　なかや旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>4万組以上のママパパに選ばれた赤ちゃんファーストの温泉宿★安心の設備でママもほっと一息できる癒し時間</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県利根郡みなかみ町湯桧曽93 ／ 最寄り駅：上毛高原 ／ 交通案内：車：水上ICから約15分　車以外：上越線ゆびそ駅より徒歩5分、又は水上駅よりバス・タクシーで約10分</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県利根郡みなかみ町湯桧曽93 ／ 最寄り駅：上毛高原 ／ 交通案内：車：水上ICから約15分　車以外：上越線ゆびそ駅より徒歩5分、又は水上駅よりバス・タクシーで約10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　16台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.84 ／ 立地 ★4.6 ／ 部屋 ★4.62 ／ 設備 ★4.65 ／ 風呂 ★4.77 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -393,7 +399,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5677/5677_heya1.jpg" alt="あわら温泉　伝統旅館のぬくもり　灰屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【ガーデンサウナOPEN】明治１７年創業当時の趣を残す伝統旅館。奥深いおもてなしを提供いたします</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福井県あわら市温泉2-205 ／ 最寄り駅：芦原温泉 ／ 交通案内：ＪＲ北陸本線芦原温泉駅から路線バスにて１５分/無料送迎あり。北陸道金津ＩＣより車で１５分。駐車場無料(係が案内します。)</p>
+                  <p><strong>【所在地・アクセス】</strong>福井県あわら市温泉2-205 ／ 最寄り駅：芦原温泉 ／ 交通案内：ＪＲ北陸本線芦原温泉駅から路線バスにて１５分/無料送迎あり。北陸道金津ＩＣより車で１５分。駐車場無料(係が案内します。)</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料 （エントランスにはスロープもございます。係がご案内いたします。）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.39 ／ 立地 ★4.16 ／ 部屋 ★4.3 ／ 設備 ★4.23 ／ 風呂 ★4.31 ／ 食事 ★4.5</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -415,7 +421,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31086/31086_k1.jpg" alt="割烹旅館　大進館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>近くで出会う、旅館のくつろぎ。 露天風呂付き客室と季節の料理を楽しむ、大進館。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県愛甲郡愛川町中津6890-1 ／ 最寄り駅：本厚木 ／ 交通案内：小田急線 本厚木駅よりー厚木バスセンター10番乗り場　上三増行　で約30分、桜台下車　東名厚木ICよりお車で約25分</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県愛甲郡愛川町中津6890-1 ／ 最寄り駅：本厚木 ／ 交通案内：小田急線 本厚木駅よりー厚木バスセンター10番乗り場　上三増行　で約30分、桜台下車　東名厚木ICよりお車で約25分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>40台　無料　（電車・バスをご利用のお客様へは、「桜台バス停」までの無料送迎有⇒要予約）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

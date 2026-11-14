@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">兵庫・淡路島北部＆洲本温泉：明石海峡大橋・花さじき＆淡路牛・玉ねぎ宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「兵庫・淡路島北部＆洲本温泉：明石海峡大橋・花さじき＆淡路牛・玉ねぎ宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「兵庫・淡路島北部＆洲本温泉：明石海峡大橋・花さじき＆淡路牛・玉ねぎ宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9104/9104_w.jpg" alt="洲本温泉　淡路インターナショナルホテル　ザ・サンプラザ　＜淡路島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>海を一望するオーシャンビューに包まれ、四季の移ろいを五感で味わう、特別な旅を。洲本温泉うるおいの湯。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県洲本市小路谷1279-13 ／ 最寄り駅：洲本 ／ 交通案内：大阪駅より高速バス120分/三宮駅より高速バス80分/神戸淡路鳴門道洲本ICより15分</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県洲本市小路谷1279-13 ／ 最寄り駅：洲本 ／ 交通案内：大阪駅より高速バス120分/三宮駅より高速バス80分/神戸淡路鳴門道洲本ICより15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り/無料　　　客室内ネット接続：Wi-Fi/無料　ホテル・旅館100選37年連続受賞</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.53 ／ 立地 ★4.55 ／ 部屋 ★4.33 ／ 設備 ★4.21 ／ 風呂 ★4.38 ／ 食事 ★4.57</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1675/1675_heya.jpg" alt="淡路島洲本温泉　海月舘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>《楽天アワード１２年連続受賞の温泉宿≫赤ちゃんお子様歓迎の宿☆立地条件№１☆ビーチ目の前☆</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県洲本市海岸通1-3-11 ／ 最寄り駅：舞子 ／ 交通案内：洲本高速バスターミナルより徒歩5分。</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県洲本市海岸通1-3-11 ／ 最寄り駅：舞子 ／ 交通案内：洲本高速バスターミナルより徒歩5分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台（乗用車）　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/70375/70375_room.jpg" alt="Ｈｏｔｅｌ　Ｔｈｅ　Ｄａｙ　Ｏｓａｋａ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>※The Day Osakaは旧『ロッジ舞洲』です（名称変更から半年）</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大阪府大阪市此花区北港緑地2-3-75 ／ 最寄り駅：桜島 ／ 交通案内：JRゆめ咲線ユニバーサルシティ駅よりタクシーにて約15分／JR桜島駅より舞洲アクティブバスにて約15分</p>
+                  <p><strong>【所在地・アクセス】</strong>大阪府大阪市此花区北港緑地2-3-75 ／ 最寄り駅：桜島 ／ 交通案内：JRゆめ咲線ユニバーサルシティ駅よりタクシーにて約15分／JR桜島駅より舞洲アクティブバスにて約15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　180台　有料（先着順、1泊1500円）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/147776/147776_room.jpg" alt="音羽旅館　＜淡路島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>淡路近海で獲れた新鮮な魚介類の料理が自慢。それ以外にも夏はハモ、冬は３年とらふぐを楽しんで頂きます</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県淡路市江井2787-1 ／ 最寄り駅：主要駅 ／ 交通案内：明石より岩屋までフェリーにて約２５分、岩屋よりお車にて約５０分。</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県淡路市江井2787-1 ／ 交通案内：明石より岩屋までフェリーにて約２５分、岩屋よりお車にて約５０分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１３台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8498/8498_ml.jpg" alt="南あわじ温泉郷　潮崎の湯　やぶ萬旅館　＜淡路島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>創業160年の老舗料理旅館！当館名物料理「鯛めん」＆美肌の湯【潮崎温泉】を堪能あれ◎</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県南あわじ市福良乙4 ／ 最寄り駅：三宮 ／ 交通案内：ＪＲ三宮駅またはＪＲ舞子駅より福良行きバス　終点より徒歩5分</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県南あわじ市福良乙4 ／ 最寄り駅：三宮 ／ 交通案内：ＪＲ三宮駅またはＪＲ舞子駅より福良行きバス　終点より徒歩5分</p>
                   <p>【兵庫・淡路島北部＆洲本温泉：明石海峡大橋・花さじき＆】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/52574/52574_syo.jpg" alt="南あわじ温泉郷　うずしお温泉　淡路島海上ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>淡路島・福良湾が目の前！全室で夕日と海が見え、旬食材を取り入れた会席料理と温泉と当館専用釣り桟橋！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県南あわじ市福良甲21-1 ／ 最寄り駅：主要駅 ／ 交通案内：明石海峡大橋海峡　垂水ＪＣＴより車で約１時間（６７ｋｍ）</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県南あわじ市福良甲21-1 ／ 交通案内：明石海峡大橋海峡　垂水ＪＣＴより車で約１時間（６７ｋｍ）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　70台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★4.3 ／ 部屋 ★4.13 ／ 設備 ★3.85 ／ 風呂 ★3.94 ／ 食事 ★4.32</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

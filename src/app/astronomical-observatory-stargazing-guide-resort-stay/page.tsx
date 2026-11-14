@@ -228,11 +228,11 @@ export default function StargazingHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">天体望遠鏡ドーム＆星空案内人（星ソムリエ）常駐宿：本格天体観測 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「天体望遠鏡ドーム＆星空案内人（星ソムリエ）常駐宿：本格天体観測 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「天体望遠鏡ドーム＆星空案内人（星ソムリエ）常駐宿：本格天体観測 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function StargazingHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/38754/38754_he.jpg" alt="八ヶ岳グレイスホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全客室より八ヶ岳を一望★星空観察会★毎晩開催中！清里まで車で5分。直前割や一人旅も大歓迎！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県南佐久郡南牧村野辺山217-1 ／ 最寄り駅：野辺山 ／ 交通案内：野辺山駅より車で約5分（無料送迎あり・予約制／お電話または公式HPのご予約フォームより） 中央道・長坂ICより約20分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県南佐久郡南牧村野辺山217-1 ／ 最寄り駅：野辺山 ／ 交通案内：野辺山駅より車で約5分（無料送迎あり・予約制／お電話または公式HPのご予約フォームより） 中央道・長坂ICより約20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function StargazingHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/17720/17720_heya.jpg" alt="昼神温泉　石苔亭いしだ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>平屋造り全17室純和風旅館◇露天風呂付き客室◇能舞台定期公演◇信州会席、美肌の湯、スパ、貸切風呂</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県下伊那郡阿智村智里332-3 ／ 最寄り駅：飯田（長野） ／ 交通案内：中央道・飯田山本ＩＣより約７分／ＪＲ飯田駅より無料送迎約２５分（要事前予約）／名古屋より高速バスで約１２０分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県下伊那郡阿智村智里332-3 ／ 最寄り駅：飯田（長野） ／ 交通案内：中央道・飯田山本ＩＣより約７分／ＪＲ飯田駅より無料送迎約２５分（要事前予約）／名古屋より高速バスで約１２０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台まで　屋外　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.85 ／ 立地 ★4.7 ／ 部屋 ★4.72 ／ 設備 ★4.76 ／ 風呂 ★4.73 ／ 食事 ★4.81</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function StargazingHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/72733/72733_room.jpg" alt="昼神温泉　昼神グランドホテル天心 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★全館Ｗｉ-Ｆｉ対応★種類豊富な湯船で「美人の湯」を愉しめる宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県下伊那郡阿智村智里331-5 ／ 最寄り駅：飯田（長野） ／ 交通案内：中央自動車道  (名古屋方面から)園原ICより車で約10分　(東京・長野方面から)飯田山本インターより車で約10分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県下伊那郡阿智村智里331-5 ／ 最寄り駅：飯田（長野） ／ 交通案内：中央自動車道  (名古屋方面から)園原ICより車で約10分　(東京・長野方面から)飯田山本インターより車で約10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　70台　無料　予約不要 【EV・PHEV用の充電器1台あり(普通充電200V)】</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function StargazingHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5191/5191_bas1.jpg" alt="美ヶ原温泉　ホテルニューことぶき 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>天然温泉はジェットバスとバイブラ付大浴場とかわいい露天風呂。貸切露天風呂（有料）もございます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県松本市里山辺484-1 ／ 最寄り駅：松本 ／ 交通案内：長野道松本ＩＣより松本城を経由し約２５分。ＪＲ中央線松本駅下車、美ヶ原温泉行きバスで18分、美ヶ原温泉下車徒歩2分です。</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県松本市里山辺484-1 ／ 最寄り駅：松本 ／ 交通案内：長野道松本ＩＣより松本城を経由し約２５分。ＪＲ中央線松本駅下車、美ヶ原温泉行きバスで18分、美ヶ原温泉下車徒歩2分です。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>宿泊者普通車駐車場無料。中型車以上1台2200円（事前予約）。いずれも先着順チェックイン〜アウト迄</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★3.98 ／ 部屋 ★4.04 ／ 設備 ★3.98 ／ 風呂 ★4.29 ／ 食事 ★4.41</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function StargazingHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/38930/38930_ni.jpg" alt="信州松本　美ヶ原温泉　翔峰 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>楽天アワード2021受賞★松本エリア唯一の5つ星の宿◆北アルプスと松本城下町を一望！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県松本市里山辺527 ／ 最寄り駅：松本 ／ 交通案内：ＪＲ　松本駅から車で20分／松本駅前バスターミナルより美ヶ原温泉行きのバスで20分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県松本市里山辺527 ／ 最寄り駅：松本 ／ 交通案内：ＪＲ　松本駅から車で20分／松本駅前バスターミナルより美ヶ原温泉行きのバスで20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.63 ／ 立地 ★4.59 ／ 部屋 ★4.56 ／ 設備 ★4.54 ／ 風呂 ★4.64 ／ 食事 ★4.66</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function StargazingHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/72037/72037_wa.jpg" alt="芹ヶ沢温泉　白樺湖ビューホテル（伊東園ホテルズ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>四季の表情の豊かな白樺湖、春の優しさ、夏は爽やかな風、秋には豊かな実り、冬は白銀の世界へ。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県北佐久郡立科町芦田八ヶ野白樺湖1525 ／ 最寄り駅：茅野 ／ 交通案内：ＪＲ　茅野駅よりバス乗車約５０分、西白樺湖下車徒歩４分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県北佐久郡立科町芦田八ヶ野白樺湖1525 ／ 最寄り駅：茅野 ／ 交通案内：ＪＲ　茅野駅よりバス乗車約５０分、西白樺湖下車徒歩４分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７0台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

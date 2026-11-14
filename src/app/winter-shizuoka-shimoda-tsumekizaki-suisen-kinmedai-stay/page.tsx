@@ -422,7 +422,7 @@ export default function ShizuokaShimodaTsumekizakiWinterPage() {
             <span className="text-emerald-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Featured Accommodations</span>
             <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の下田爪木崎水仙と極上地金目鯛を堪能する厳選名宿5選</h2>
             <p className="text-stone-600 text-sm sm:text-base mt-1">
-              楽天トラベル公式APIより取得した最新データに基づく、海景色・温泉・料理が高評価の宿。
+              施設スペックと宿泊者評価に基づく、海景色・温泉・料理が高評価の宿。
             </p>
           </div>
 

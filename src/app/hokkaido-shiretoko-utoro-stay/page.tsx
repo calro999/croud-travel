@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">北海道・世界遺産知床ウトロ：オホーツク流氷・知床五湖＆エゾシカ海鮮極上宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「北海道・世界遺産知床ウトロ：オホーツク流氷・知床五湖＆エゾシカ海鮮極上宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「北海道・世界遺産知床ウトロ：オホーツク流氷・知床五湖＆エゾシカ海鮮極上宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -314,7 +314,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31099/31099_y.jpg" alt="ウトロ温泉　ホテル知床 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>大自然を体感！沈む夕日に感動★開放的な露天風呂でのんびり♪知床の自然体験プラン充実！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道斜里郡斜里町ウトロ香川37 ／ 最寄り駅：知床斜里 ／ 交通案内：知床斜里駅より路線バスで50分（ウトロ温泉バス停下車）下車後ホテルへＴＥＬにて送迎あり</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道斜里郡斜里町ウトロ香川37 ／ 最寄り駅：知床斜里 ／ 交通案内：知床斜里駅より路線バスで50分（ウトロ温泉バス停下車）下車後ホテルへＴＥＬにて送迎あり</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　２００台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -336,7 +336,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4902/4902_heya.jpg" alt="ウトロ温泉　知床第一ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ウトロ温泉の高台にあり、夕日に映えるオホーツク海を一望する知床の絶景自慢ホテル。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道斜里郡斜里町ウトロ香川 306 ／ 最寄り駅：知床斜里 ／ 交通案内：女満別空港から車で約2時間、ＪＲ知床斜里駅より車で50分。</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道斜里郡斜里町ウトロ香川 306 ／ 最寄り駅：知床斜里 ／ 交通案内：女満別空港から車で約2時間、ＪＲ知床斜里駅より車で50分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１２０台　無料　到着順にご案内</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.47 ／ 立地 ★4.48 ／ 部屋 ★4.48 ／ 設備 ★4.33 ／ 風呂 ★4.48 ／ 食事 ★4.6</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -358,7 +358,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/10711/10711_room.jpg" alt="ウトロ温泉　ホテル季風クラブ知床 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全ての部屋からオホーツク海に沈む夕陽は絶景</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道斜里郡斜里町ウトロ東318 ／ 最寄り駅：知床斜里 ／ 交通案内：『JR知床斜里駅』より斜里バス『知床ウトロ温泉行』</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道斜里郡斜里町ウトロ東318 ／ 最寄り駅：知床斜里 ／ 交通案内：『JR知床斜里駅』より斜里バス『知床ウトロ温泉行』</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -380,7 +380,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/67294/67294_to.jpg" alt="レンブラントリゾート知床（旧：知床ノーブルホテル） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>知床で、余白を愉しむリゾートステイ。何もしない贅沢を知る。あなただけの「知床の時間」を、ここから。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道斜里郡斜里町ウトロ東3 ／ 最寄り駅：知床斜里 ／ 交通案内：国道334号線ウトロ道の駅前、JR知床斜里駅よりバスにて50分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道斜里郡斜里町ウトロ東3 ／ 最寄り駅：知床斜里 ／ 交通案内：国道334号線ウトロ道の駅前、JR知床斜里駅よりバスにて50分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>40台（無料：予約不要）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -402,7 +402,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/20649/20649_wy.jpg" alt="さんご草の郷　能取の荘　かがり屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>能取湖の眺望とかがり屋名物「きんきの湯煮」が好評</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道網走市卯原内60-3 ／ 最寄り駅：網走 ／ 交通案内：網走市内～国道２３８号線で常呂方面へ卯原内まで１４ｋｍ　 網走駅より車で１５分　女満別空港より車で２５分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道網走市卯原内60-3 ／ 最寄り駅：網走 ／ 交通案内：網走市内～国道２３８号線で常呂方面へ卯原内まで１４ｋｍ　 網走駅より車で１５分　女満別空港より車で２５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

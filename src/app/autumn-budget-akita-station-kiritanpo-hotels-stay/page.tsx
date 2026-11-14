@@ -359,11 +359,11 @@ export default function AutumnBudgetAkitaStationHotelsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋田駅前：新米きりたんぽ鍋＆千秋公園紅葉！2,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「秋田駅前：新米きりたんぽ鍋＆千秋公園紅葉！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「秋田駅前：新米きりたんぽ鍋＆千秋公園紅葉！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -427,7 +427,7 @@ export default function AutumnBudgetAkitaStationHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/196574/196574.jpg" alt="ＥＮ　ＨＯＴＥＬ　Ａｋｉｔａ 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>秋田駅行バス・空港リムジンバス停が目の前！ホテル1階コンビニあり！秋田最大の歓楽街川反エリアすぐ</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 秋田県秋田市大町2-2-41 ／ 最寄り駅：秋田 ／ 交通案内：JR秋田駅より徒歩14分、タクシーで5分、秋田空港リムジンバスはホテル目の前に発着！</p>
+                  <p><strong>【所在地・アクセス】</strong>秋田県秋田市大町2-2-41 ／ 最寄り駅：秋田 ／ 交通案内：JR秋田駅より徒歩14分、タクシーで5分、秋田空港リムジンバスはホテル目の前に発着！</p>
                   <p><strong>【駐車場・マイカー利用】</strong>あり　64台　1泊あたり1,000円(税込)　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.22 ／ 立地 ★4.21 ／ 部屋 ★4.28 ／ 設備 ★4.18 ／ 風呂 ★4.13 ／ 食事 ★4.14</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -449,7 +449,7 @@ export default function AutumnBudgetAkitaStationHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/73983/73983_tw.jpg" alt="リッチモンドホテル秋田駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【清潔感あふれる客室。ゆとりのあるベッドで旅の疲れが癒される】秋田駅から徒歩7分の好立地！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 秋田県秋田市中通2-2-26 ／ 最寄り駅：秋田 ／ 交通案内：◆ＪＲ秋田駅より徒歩7分◆秋田中央ＩＣより（秋田駅方面へ）車で20分◆秋田空港から秋田駅までリムジンバスで40分</p>
+                  <p><strong>【所在地・アクセス】</strong>秋田県秋田市中通2-2-26 ／ 最寄り駅：秋田 ／ 交通案内：◆ＪＲ秋田駅より徒歩7分◆秋田中央ＩＣより（秋田駅方面へ）車で20分◆秋田空港から秋田駅までリムジンバスで40分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>先着順４６台　１泊１，０００円（税込）　満車時は近隣駐車場で現地精算をお願いします。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.47 ／ 立地 ★4.33 ／ 部屋 ★4.44 ／ 設備 ★4.36 ／ 風呂 ★4.27 ／ 食事 ★4.42</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -471,7 +471,7 @@ export default function AutumnBudgetAkitaStationHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/39502/39502_si.jpg" alt="東横ＩＮＮ秋田駅東口 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>秋田駅から徒歩2分で朝食・小学生以下添い寝無料のホテル！千秋公園まで車/バスで10分</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 秋田県秋田市東通仲町４－１ ／ 最寄り駅：秋田 ／ 交通案内：ＪR奥羽本線・秋田新幹線秋田駅中央改札から直結徒歩2分、秋田空港リムジンバス停からも徒歩5分！</p>
+                  <p><strong>【所在地・アクセス】</strong>秋田県秋田市東通仲町４－１ ／ 最寄り駅：秋田 ／ 交通案内：ＪR奥羽本線・秋田新幹線秋田駅中央改札から直結徒歩2分、秋田空港リムジンバス停からも徒歩5分！</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　夕方3時から明朝１０時迄、５２０円（税込み／泊）　出し入れ不可 高さ制限2.3M</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.96 ／ 立地 ★4.04 ／ 部屋 ★4.03 ／ 設備 ★3.98 ／ 風呂 ★3.85 ／ 食事 ★3.83</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

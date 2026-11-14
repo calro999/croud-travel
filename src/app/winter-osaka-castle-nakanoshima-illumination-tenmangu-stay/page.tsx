@@ -313,7 +313,7 @@ export default function OsakaCastleNakanoshimaWinterPage() {
           <div className="text-center space-y-3">
             <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900 tracking-tight">大阪城・中之島・天満エリアで冬を極める厳選宿5選</h2>
             <p className="text-slate-600 text-sm sm:text-base max-w-2xl mx-auto">
-              楽天トラベル公式APIからリアルタイムに取得した信頼のホテル群。大阪城ビューやリバーサイドの静寂、天満宮直結の利便性を兼ね備えた名宿をご案内します。
+              宿泊施設データからリアルタイムに取得した信頼のホテル群。大阪城ビューやリバーサイドの静寂、天満宮直結の利便性を兼ね備えた名宿をご案内します。
             </p>
           </div>
 

@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/traditional-eel-unagi-charcoal-kabayaki-stay/"
   };
 
@@ -270,23 +270,6 @@ export default function Page() {
             ))}
           </div>
         </section>
-
-        {/* 旅のQ&A */}
-        <section className="bg-white rounded-2xl p-6 md:p-8 border border-stone-200 shadow-sm space-y-4">
-          <h2 className="text-lg md:text-xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">よくある質問・失敗しない宿選び</h2>
-          <div className="space-y-4 text-sm">
-            <div className="border border-stone-100 rounded-xl p-4 bg-stone-50/50 space-y-2">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5"><span className="text-emerald-700 font-black">Q.</span> おすすめの予約時期やタイミングは？</h3>
-              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">人気の日程（連休や週末）は1〜2ヶ月前には満室になることが多いため、早期予約（早割プラン）の利用がおすすめです。また楽天トラベルの「5と0のつく日」キャンペーンを活用すると最大20%オフのクーポンが併用でき、最もお得に予約できます。
-              </p>
-            </div>
-            <div className="border border-stone-100 rounded-xl p-4 bg-stone-50/50 space-y-2">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5"><span className="text-emerald-700 font-black">Q.</span> 宿選びで失敗しないためのポイントは？</h3>
-              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">宿泊者レビューのお風呂・お食事・接客評価が4.3以上の宿を選ぶと満足度が非常に高くなります。またアクセス手段（送迎バスの有無など）やプランに含まれる特典を事前に確認しておくと安心です。
-              </p>
-            </div>
-          </div>
-        </section>
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -384,10 +367,10 @@ export default function Page() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/yamagata/"
+                href="/prefectures/yamanashi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                山形県の宿・温泉
+                山梨県の宿・温泉
               </Link>
               <Link
                 href="/prefectures/gifu/"
@@ -416,11 +399,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：ふっくら香ばしい秘伝の炭火蒲焼き！極上うなぎ尽くし会席＆名湯の温泉宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：ふっくら香ばしい秘伝の炭火蒲焼き！極上うなぎ尽くし会席＆名湯の温泉宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：ふっくら香ばしい秘伝の炭火蒲焼き！極上うなぎ尽くし会席＆名湯の温泉宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -440,7 +423,7 @@ export default function Page() {
               <tbody className="divide-y divide-stone-200">
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 下部温泉　旅館いしもと</td>
-                <td className="p-3 text-stone-600">岩手県</td>
+                <td className="p-3 text-stone-600">山梨県南巨摩郡身延町下部80-1</td>
                 <td className="p-3 text-stone-600">下部温泉駅よりお車にて３分、徒歩にて２０分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★3.82（201件）</td>
@@ -449,7 +432,7 @@ export default function Page() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 成田山門前　旅館　若松本店</td>
-                <td className="p-3 text-stone-600">岩手県</td>
+                <td className="p-3 text-stone-600">千葉県成田市本町355</td>
                 <td className="p-3 text-stone-600">ＪＲ・京成成田駅より徒歩１５分 または　タクシー３分・成田空港より車で</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（396件）</td>
@@ -458,7 +441,7 @@ export default function Page() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 和牛とのどぐろの温泉旅館　四季荘</td>
-                <td className="p-3 text-stone-600">岩手県</td>
+                <td className="p-3 text-stone-600">島根県出雲市斐川町学頭1369</td>
                 <td className="p-3 text-stone-600">山陰道宍道IC・斐川ICよりそれぞれ約車で約10分　出雲縁結び空港より</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★3.94（279件）</td>
@@ -467,7 +450,7 @@ export default function Page() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 養老渓谷温泉郷　温泉旅館　川の家</td>
-                <td className="p-3 text-stone-600">岩手県</td>
+                <td className="p-3 text-stone-600">千葉県夷隅郡大多喜町葛藤932</td>
                 <td className="p-3 text-stone-600">養老渓谷駅よりお車にて５分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.57（134件）</td>
@@ -476,7 +459,7 @@ export default function Page() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 岩室温泉　高志の宿　高島屋</td>
-                <td className="p-3 text-stone-600">岩手県</td>
+                <td className="p-3 text-stone-600">新潟県新潟市西蒲区岩室温泉678甲</td>
                 <td className="p-3 text-stone-600">【無料送迎サービス有・２名様より】燕三条駅１４：４０・岩室駅・弥彦駅は</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.57（418件）</td>
@@ -501,8 +484,8 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/141230/141230.jpg" alt="下部温泉　旅館いしもと 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「ふっくら香ばしい秘伝の炭火蒲焼き（極上うなぎ尽くし会席＆名湯の温泉宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：下部温泉駅よりお車にて３分、徒歩にて２０分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>「ふっくら香ばしい秘伝の炭火蒲焼き（極上うなぎ尽くし会席＆名湯の温泉宿5選）」掲載宿の所在地・アクセス・特徴データ一覧は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：下部温泉駅よりお車にて３分、徒歩にて２０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -523,8 +506,8 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4688/4688.jpg" alt="成田山門前　旅館　若松本店 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「ふっくら香ばしい秘伝の炭火蒲焼き（極上うなぎ尽くし会席＆名湯の温泉宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ・京成成田駅より徒歩１５分 または　タクシー３分・成田空港より車で２０分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>成田山門前 旅館 若松本店（千葉県成田市本町355）は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：ＪＲ・京成成田駅より徒歩１５分 または　タクシー３分・成田空港より車で２０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -545,8 +528,8 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/139823/139823.jpg" alt="和牛とのどぐろの温泉旅館　四季荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「ふっくら香ばしい秘伝の炭火蒲焼き（極上うなぎ尽くし会席＆名湯の温泉宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：山陰道宍道IC・斐川ICよりそれぞれ約車で約10分　出雲縁結び空港より車で約15分　ＪＲ荘原駅から徒歩約20分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>島根県出雲市斐川町学頭1369の「和牛とのどぐろの温泉旅館 四季荘」（楽天トラベル評価3.95（267件）／1泊目安¥4,400〜）の魅力と宿泊ポイントを詳しく紹介。【出雲空港から車で15分】ペットと一緒に食事OK評価ドッグランあり源泉かけ流し露天風呂で癒しを。実際の口コミ評価や施設スペック、周辺観光スポット、1泊2日の滞在モデルコースまで分かりやすく案内します。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：山陰道宍道IC・斐川ICよりそれぞれ約車で約10分　出雲縁結び空港より車で約15分　ＪＲ荘原駅から徒歩約20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -567,8 +550,8 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/84819/84819.jpg" alt="養老渓谷温泉郷　温泉旅館　川の家 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「ふっくら香ばしい秘伝の炭火蒲焼き（極上うなぎ尽くし会席＆名湯の温泉宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：養老渓谷駅よりお車にて５分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>千葉県夷隅郡大多喜町葛藤932の「養老渓谷温泉郷 温泉旅館 川の家」（楽天トラベル評価4.57（134件）／1泊目安¥18,700〜）の魅力と宿泊ポイントを詳しく紹介。養老渓谷の自然美に抱かれる宿。郷土色豊かなお膳を堪能し、洞窟風呂でゆったり。部屋タイプ選びのポイントや入浴・食事情報、交通アクセス・駐車場データ、楽天トラベルでの賢い予約方法を紹介します。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：養老渓谷駅よりお車にて５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -589,8 +572,8 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/38827/38827.jpg" alt="岩室温泉　高志の宿　高島屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「ふっくら香ばしい秘伝の炭火蒲焼き（極上うなぎ尽くし会席＆名湯の温泉宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：【無料送迎サービス有・２名様より】燕三条駅１４：４０・岩室駅・弥彦駅はご到着時刻（いずれも３日前までの予約制）</p>
+                  <p><strong>【宿の特徴・魅力】</strong>【楽天トラベルアワード2024】ブロンズアワード受賞！大切な日は高島屋で…</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：【無料送迎サービス有・２名様より】燕三条駅１４：４０・岩室駅・弥彦駅はご到着時刻（いずれも３日前までの予約制）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -601,6 +584,9 @@ export default function Page() {
             </div>
           </div></section>
 
+              <div className="my-8">
+          <ShareButtons title="【2026年】ふっくら香ばしい秘伝の炭火蒲焼き！極上うなぎ尽くし会席＆名湯の温泉宿5選" url="https://croud-travel.pages.dev/traditional-eel-unagi-charcoal-kabayaki-stay/" />
+        </div>
       </main>
     
       <HubRelatedPosts currentSlug="traditional-eel-unagi-charcoal-kabayaki-stay" />

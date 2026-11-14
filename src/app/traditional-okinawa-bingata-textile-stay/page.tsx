@@ -236,7 +236,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -681,11 +681,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：琉球王朝の雅を体感！琉球紅型染め体験＆読谷やちむんの里のオーシャンリゾート5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：琉球王朝の雅を体感！琉球紅型染め体験＆読谷やちむんの里のオーシャンリゾート5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：琉球王朝の雅を体感！琉球紅型染め体験＆読谷やちむんの里のオーシャンリゾート5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -767,7 +767,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/172439/172439_kan1.jpg" alt="グランディスタイル　沖縄　読谷　ホテル＆リゾート 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>■温水プール通年OK・クラブラウンジ付■＜13歳以上限定＞“時間に縛られない”自由で贅沢な大人の休日</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県中頭郡読谷村字瀬名波571番1 ／ 最寄り駅：那覇空港 ／ 交通案内：那覇空港よりお車にて約５０分</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県中頭郡読谷村字瀬名波571番1 ／ 最寄り駅：那覇空港 ／ 交通案内：那覇空港よりお車にて約５０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -789,7 +789,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/151206/151206_kan1.jpg" alt="ＦＩＲＳＴ　ＳＴＲＥＥＴ　沖縄　読谷村オーシャンズ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>〜SEVEN Hotels ＆ Reorts〜 絶景オーシャンビューで癒しの時間を！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県中頭郡読谷村長浜864 ／ 最寄り駅：那覇空港 ／ 交通案内：那覇空港より車→約１時間／バス→読谷バスターミナルまで約1時間50分</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県中頭郡読谷村長浜864 ／ 最寄り駅：那覇空港 ／ 交通案内：那覇空港より車→約１時間／バス→読谷バスターミナルまで約1時間50分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>2台無料　ご予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -811,7 +811,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/30045/30045_s.jpg" alt="グランドメルキュール沖縄残波岬リゾート 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>県内最大級スライダー付プール／全客室ラウンジ付／ホテル日航アリビラとの相互利用あり</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県中頭郡読谷村宇座1575 ／ 最寄り駅：那覇空港 ／ 交通案内：那覇空港より国道５８号線を名護方面へ読谷村伊良皆交差点を残波岬方面へ。車で70分。</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県中頭郡読谷村宇座1575 ／ 最寄り駅：那覇空港 ／ 交通案内：那覇空港より国道５８号線を名護方面へ読谷村伊良皆交差点を残波岬方面へ。車で70分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有(無料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.11 ／ 立地 ★4.28 ／ 部屋 ★4.26 ／ 設備 ★4.05 ／ 風呂 ★4.16 ／ 食事 ★4.23</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -833,7 +833,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/187433/187433.jpg" alt="レフ沖縄アリーナｂｙベッセルホテルズ｜ＲＥＦ沖縄アリーナ｜プール＆ＢＡＲ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>美ら海水族館までのアクセスも抜群！大浴場やインフィニティプール、無料駐車場完備。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県沖縄市字諸見里1766 ／ 最寄り駅：那覇空港 ／ 交通案内：那覇空港より高速バスで約60分　南ICより車で2分の好立地！</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県沖縄市字諸見里1766 ／ 最寄り駅：那覇空港 ／ 交通案内：那覇空港より高速バスで約60分　南ICより車で2分の好立地！</p>
                   <p><strong>【駐車場・マイカー利用】</strong>約150台（無料駐車場）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.6 ／ 立地 ★4.48 ／ 部屋 ★4.59 ／ 設備 ★4.61 ／ 風呂 ★4.62 ／ 食事 ★4.7</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -855,7 +855,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/107650/107650_kya.jpg" alt="ベストウェスタン沖縄恩納ビーチ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【楽天トラベルブロンズアワード2021受賞】何もない贅沢がここにはある。沖縄県民割彩発見使えます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県国頭郡恩納村真栄田1888 ／ 最寄り駅：那覇空港 ／ 交通案内：那覇空港から沖縄自動車道「石川ＩＣ」利用で約５０分（石川ＩＣより読谷村向け県道６号約１０分）</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県国頭郡恩納村真栄田1888 ／ 最寄り駅：那覇空港 ／ 交通案内：那覇空港から沖縄自動車道「石川ＩＣ」利用で約５０分（石川ＩＣより読谷村向け県道６号約１０分）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場　56台（屋外）1泊500円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.14 ／ 立地 ★4.17 ／ 部屋 ★4.11 ／ 設備 ★4.06 ／ 風呂 ★3.93 ／ 食事 ★4.17</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

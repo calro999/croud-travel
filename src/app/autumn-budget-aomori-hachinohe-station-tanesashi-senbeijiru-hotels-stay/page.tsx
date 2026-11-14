@@ -376,11 +376,11 @@ export default function AutumnBudgetHotelsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">八戸駅・本八戸：種差海岸の秋絶景＆館鼻岸壁朝市・せんべい汁！2,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「八戸駅・本八戸：種差海岸の秋絶景＆館鼻岸壁朝市・せんべい汁！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「八戸駅・本八戸：種差海岸の秋絶景＆館鼻岸壁朝市・せんべい汁！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -462,7 +462,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/29897/29897_h.jpg" alt="ホテルルートイン　本八戸駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ＪＲ八戸線本八戸駅から徒歩1分。新鮮な魚介類が美味しい飲食店繁華街までは徒歩10分の距離です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 青森県八戸市内丸1-51-16 ／ 最寄り駅：本八戸 ／ 交通案内：東北新幹線八戸駅経由　JR八戸線本八戸駅下車徒歩１分／八戸自動車道八戸ＩＣより車で１５分</p>
+                  <p><strong>【所在地・アクセス】</strong>青森県八戸市内丸1-51-16 ／ 最寄り駅：本八戸 ／ 交通案内：東北新幹線八戸駅経由　JR八戸線本八戸駅下車徒歩１分／八戸自動車道八戸ＩＣより車で１５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　６９台　料金無料　先着順。　２トン車以上の車、バス、２輪車、特殊車両は事前予約必要。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.19 ／ 立地 ★4.15 ／ 部屋 ★4.05 ／ 設備 ★4.04 ／ 風呂 ★4.09 ／ 食事 ★4.09</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -484,7 +484,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/193298/193298.jpg" alt="ホテルリブマックス本八戸駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>駅近で便利！ 本八戸駅ホームより徒歩1分</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 青森県八戸市城下1丁目8-9 ／ 最寄り駅：本八戸 ／ 交通案内：JR八戸線「本八戸駅」北口徒歩1分</p>
+                  <p><strong>【所在地・アクセス】</strong>青森県八戸市城下1丁目8-9 ／ 最寄り駅：本八戸 ／ 交通案内：JR八戸線「本八戸駅」北口徒歩1分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>提携の駐車場はございません。 ホテル近隣のコインパーキングをご利用ください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4 ／ 立地 ★3.94 ／ 部屋 ★3.96 ／ 設備 ★4.04 ／ 風呂 ★4.16</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -506,7 +506,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/13464/13464_room.jpg" alt="八戸プラザホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>■本八戸駅徒歩７分　■大型無料駐車場完備！　モーニングコーヒー無料！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 青森県八戸市柏崎1-6-6 ／ 最寄り駅：八戸 ／ 交通案内：八戸駅より車で約１５分。本八戸駅より徒歩7分。三沢空港よりお車で約４０分。</p>
+                  <p><strong>【所在地・アクセス】</strong>青森県八戸市柏崎1-6-6 ／ 最寄り駅：八戸 ／ 交通案内：八戸駅より車で約１５分。本八戸駅より徒歩7分。三沢空港よりお車で約４０分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場完備　（大型トラック・工事車両・バス駐車可能）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.89 ／ 立地 ★3.75 ／ 部屋 ★3.69 ／ 設備 ★3.62 ／ 風呂 ★3.54 ／ 食事 ★3.73</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -528,7 +528,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/70245/70245_kya.jpg" alt="ホテルパールシティ八戸 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>本八戸駅からすぐ。国道４５号線からもアクセス便利！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 青森県八戸市城下2-2-22 ／ 最寄り駅：本八戸 ／ 交通案内：ＪＲ八戸線本八戸駅北口より徒歩5分。ＪＲ八戸新幹線八戸駅より車２０分。三沢空港より車４０分。フェリー埠頭より車２０分</p>
+                  <p><strong>【所在地・アクセス】</strong>青森県八戸市城下2-2-22 ／ 最寄り駅：本八戸 ／ 交通案内：ＪＲ八戸線本八戸駅北口より徒歩5分。ＪＲ八戸新幹線八戸駅より車２０分。三沢空港より車４０分。フェリー埠頭より車２０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　１泊330円（税込）　先着順となります</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.9 ／ 立地 ★3.77 ／ 部屋 ★3.79 ／ 設備 ★3.69 ／ 風呂 ★3.67 ／ 食事 ★3.61</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -550,7 +550,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9626/9626_room.jpg" alt="ホテルセレクトイン八戸中央 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>駐車場無料　地下駐輪場でバイクも安心　カレー、ご当地パン、コーヒーと味噌汁・お茶のサービスもご用意！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 青森県八戸市十一日町52 ／ 最寄り駅：本八戸 ／ 交通案内：八戸自動車道「八戸ＩＣ」より車で１５分　最寄り「本八戸駅」より徒歩15分　東北新幹線「JR八戸駅」より車で14分</p>
+                  <p><strong>【所在地・アクセス】</strong>青森県八戸市十一日町52 ／ 最寄り駅：本八戸 ／ 交通案内：八戸自動車道「八戸ＩＣ」より車で１５分　最寄り「本八戸駅」より徒歩15分　東北新幹線「JR八戸駅」より車で14分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り(先着順、出入れ不可）35台無料　満車時は八日町中央パーキングも無料（翌朝10時半迄）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.91 ／ 立地 ★3.82 ／ 部屋 ★3.72 ／ 設備 ★3.68 ／ 風呂 ★3.71 ／ 食事 ★3.42</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -77,7 +77,7 @@ export default function ArticlePage() {
             岩手・花巻温泉ひとり旅＆宮沢賢治イーハトーブおこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「岩手花巻温泉ひとり旅・宮沢賢治イーハトーブおこもり」台川渓谷美・pH9.0美肌の湯・前沢牛会席！イーハトーブの森でととのう厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               岩手県中部に位置し、東北屈指の規模を誇る名湯・花巻温泉郷。美しく整備された赤松林の中に佇む温泉街には、pH9.0を誇る肌ざわり滑らかな美肌の湯がこんこんと湧き、連絡通路でつながる3館の多彩な大浴場を巡る湯めぐりも楽しめます。
             </p>
             <p>
-              皇室やVIPも逗留する最高級の純和風旅館から、一人旅でも気兼ねなくバイキングと温泉を満喫できるリゾートホテルまで、楽天トラベル公式APIより直接取得した最新データをもとに厳選紹介します。
+              皇室やVIPも逗留する最高級の純和風旅館から、一人旅でも気兼ねなくバイキングと温泉を満喫できるリゾートホテルまで、宿泊施設データより直接取得した最新データをもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -420,11 +420,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">岩手花巻温泉ひとり旅・宮沢賢治イーハトーブおこもり：台川渓谷美・pH9.0美肌の湯・前沢牛会席！イーハトーブの森でととのう厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「岩手花巻温泉ひとり旅・宮沢賢治イーハトーブおこもり：台川渓谷美・pH9.0美肌の湯・前沢牛会席！イーハトーブの森でととのう厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「岩手花巻温泉ひとり旅・宮沢賢治イーハトーブおこもり：台川渓谷美・pH9.0美肌の湯・前沢牛会席！イーハトーブの森でととのう厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -488,7 +488,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/13482/13482_w.jpg" alt="花巻温泉　佳松園 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>とろとろの湯と心に残るおもてなし。特別な日を佳松園で過ごす愉しみ。花巻ICよりわずか5分の別世界。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岩手県花巻市湯本第1地割125-2 ／ 最寄り駅：新花巻 ／ 交通案内：花巻IC：右折後直進4km（5分）、JR新花巻駅・JR花巻駅：無料送迎バス20分（定時運行・完全予約制）</p>
+                  <p><strong>【所在地・アクセス】</strong>岩手県花巻市湯本第1地割125-2 ／ 最寄り駅：新花巻 ／ 交通案内：花巻IC：右折後直進4km（5分）、JR新花巻駅・JR花巻駅：無料送迎バス20分（定時運行・完全予約制）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.74 ／ 立地 ★4.61 ／ 部屋 ★4.64 ／ 設備 ★4.68 ／ 風呂 ★4.79 ／ 食事 ★4.72</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -510,7 +510,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/13485/13485_w.jpg" alt="花巻温泉　ホテル花巻 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【庭園露天風呂「花巻満天の湯」24年11月新設】かに＆牛ステーキと揚げたて天ぷら＆釜めしフェア開催中</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岩手県花巻市湯本第1地割125 ／ 最寄り駅：新花巻 ／ 交通案内：花巻IC：右折後直進4km（5分）、JR新花巻駅・JR花巻駅：無料送迎バス20分（定時運行・完全予約制）</p>
+                  <p><strong>【所在地・アクセス】</strong>岩手県花巻市湯本第1地割125 ／ 最寄り駅：新花巻 ／ 交通案内：花巻IC：右折後直進4km（5分）、JR新花巻駅・JR花巻駅：無料送迎バス20分（定時運行・完全予約制）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　600台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -532,7 +532,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/13484/13484_w.jpg" alt="花巻温泉　ホテル千秋閣 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【かに＆牛ステーキと揚げたて天ぷら＆釜めしフェア開催中】一人旅からグループまであらゆるニーズに◎</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岩手県花巻市湯本第1地割125 ／ 最寄り駅：新花巻 ／ 交通案内：花巻IC：右折後直進4km（5分）、JR新花巻駅・JR花巻駅：無料送迎バス20分（定時運行・完全予約制）</p>
+                  <p><strong>【所在地・アクセス】</strong>岩手県花巻市湯本第1地割125 ／ 最寄り駅：新花巻 ／ 交通案内：花巻IC：右折後直進4km（5分）、JR新花巻駅・JR花巻駅：無料送迎バス20分（定時運行・完全予約制）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　600台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

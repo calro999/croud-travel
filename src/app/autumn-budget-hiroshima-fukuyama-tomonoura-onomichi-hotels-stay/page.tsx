@@ -285,11 +285,11 @@ export default function AutumnBudgetFukuyamaHotelsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">福山・尾道：鞆の浦の秋夕陽と尾道水道紅葉！3,000円台〜格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「福山・尾道：鞆の浦の秋夕陽と尾道水道紅葉！3,000円台〜格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「福山・尾道：鞆の浦の秋夕陽と尾道水道紅葉！3,000円台〜格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -371,7 +371,7 @@ export default function AutumnBudgetFukuyamaHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5313/5313_sgl.jpg" alt="グリーンビジネスホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>宿泊代を抑えたい方に！この価格で高速インターネット接続無料。静かな立地で疲れをお取り下さい。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 広島県福山市野上町1-4-22 ／ 最寄り駅：福山 ／ 交通案内：車：福山東ICから約20分／電車：JR福山駅から徒歩20分（※中国バスへ乗換、「商工中金前」下車 徒歩3分）</p>
+                  <p><strong>【所在地・アクセス】</strong>広島県福山市野上町1-4-22 ／ 最寄り駅：福山 ／ 交通案内：車：福山東ICから約20分／電車：JR福山駅から徒歩20分（※中国バスへ乗換、「商工中金前」下車 徒歩3分）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り〔10台まで（普通車）／先着順・無料〕※高さ：制限なし</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.31 ／ 立地 ★4.21 ／ 部屋 ★4.24 ／ 設備 ★4.23 ／ 風呂 ★4.22</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -393,7 +393,7 @@ export default function AutumnBudgetFukuyamaHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/11123/11123_sin.jpg" alt="サンホテル福山 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>福山駅徒歩3分■全客室：個別Wi-Fi無料/加湿機能付き空気清浄機■朝食フェスティバル入賞</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 広島県福山市城見町1-2-33 ／ 最寄り駅：福山 ／ 交通案内：福山駅北口から東へ徒歩3分■福山東ＩＣから車で15分■福山西ICから車で20分■福山SAスマートICから車で15分</p>
+                  <p><strong>【所在地・アクセス】</strong>広島県福山市城見町1-2-33 ／ 最寄り駅：福山 ／ 交通案内：福山駅北口から東へ徒歩3分■福山東ＩＣから車で15分■福山西ICから車で20分■福山SAスマートICから車で15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有：71台／敷地内30台※先着順・提携41台※満車時のご案内■￥600／泊■2ｔ車以上は要問合せ</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.38 ／ 立地 ★4.24 ／ 部屋 ★4.31 ／ 設備 ★4.18 ／ 風呂 ★4.09 ／ 食事 ★4.26</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -415,7 +415,7 @@ export default function AutumnBudgetFukuyamaHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/10986/10986_sgl.jpg" alt="福山ローズガーデンホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ＪＲ福山駅から徒歩5分、お城の見える客室あり、尾道・鞆の浦・倉敷観光の拠点として便利、お洒落な外観</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 広島県福山市丸之内1-4-8 ／ 最寄り駅：福山 ／ 交通案内：『JR福山駅』北口より徒歩5分</p>
+                  <p><strong>【所在地・アクセス】</strong>広島県福山市丸之内1-4-8 ／ 最寄り駅：福山 ／ 交通案内：『JR福山駅』北口より徒歩5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>15:00〜翌11:00料金500円/1台※チェックイン先着順。普通車以上の場合はお問合せください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.12 ／ 立地 ★3.93 ／ 部屋 ★3.98 ／ 設備 ★3.96 ／ 風呂 ★3.83</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -437,7 +437,7 @@ export default function AutumnBudgetFukuyamaHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4788/4788_sgl.jpg" alt="ベッセルホテル福山（国道２号線・福山１号店） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>広い客室に全室クィーンサイズベッドで、機能的で快適さを提供します。福山ＳＡスマートＩＣから１０分！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 広島県福山市南本庄三丁目4-37 ／ 最寄り駅：福山 ／ 交通案内：ＪＲ福山駅から車で５分　山陽自動車道福山東ＩＣから１５分　福山西ＩＣから２６分　福山ＳＡスマートＩＣから１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>広島県福山市南本庄三丁目4-37 ／ 最寄り駅：福山 ／ 交通案内：ＪＲ福山駅から車で５分　山陽自動車道福山東ＩＣから１５分　福山西ＩＣから２６分　福山ＳＡスマートＩＣから１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　116台　無料（大型車は一部有料）福山ＳＡスマートＩＣから１０分！</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.43 ／ 立地 ★4.22 ／ 部屋 ★4.58 ／ 設備 ★4.45 ／ 風呂 ★4.37 ／ 食事 ★4.44</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -459,7 +459,7 @@ export default function AutumnBudgetFukuyamaHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/109493/109493_ru.jpg" alt="リッチモンドホテル福山駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ご宿泊者様無料ドリンクバーあり◆フロント8階、客室は9階以上◆ＪＲ福山駅近で飲食店、コンビニ徒歩圏内</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 広島県福山市東桜町1-1 ／ 最寄り駅：福山 ／ 交通案内：福山駅南口（ばら公園口）より徒歩約3分◆福山東ＩＣより車で約20分</p>
+                  <p><strong>【所在地・アクセス】</strong>広島県福山市東桜町1-1 ／ 最寄り駅：福山 ／ 交通案内：福山駅南口（ばら公園口）より徒歩約3分◆福山東ＩＣより車で約20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>専用、提携駐車場なし（提携ではございませんが最寄有料Pは【NPC24H福山駅前第２パーキング】です）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.38 ／ 部屋 ★4.36 ／ 設備 ★4.29 ／ 風呂 ★4.22 ／ 食事 ★4.43</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

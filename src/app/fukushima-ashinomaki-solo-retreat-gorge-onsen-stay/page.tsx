@@ -77,7 +77,7 @@ export default function ArticlePage() {
             福島・芦ノ牧温泉ひとり旅＆会津大川渓谷おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「会津・芦ノ牧温泉ひとり旅・大川渓谷絶景おこもり」浮き舞台三味線・渓流露天風呂・大内宿ねぎそば！会津鉄道ネコ駅長の渓谷厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               行基菩薩によって開湯されたと伝えられる歴史ある名湯・芦ノ牧温泉。無色透明でさらりとした弱アルカリ性低張性高温泉は、肌にやさしく芯から温まる「美肌の湯」です。アニメの聖地としても一躍脚光を浴びた幻想的な浮き舞台の宿や、渓谷の絶壁に迫り出す露天風呂から一人静かに見下ろすエメラルドグリーンの大川ラインは、息を呑むほどの迫力です。
             </p>
             <p>
-              圧倒的な空間演出と棚田露天風呂を誇る最高峰旅館から、静寂に包まれる渓流沿いの隠れ宿まで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              圧倒的な空間演出と棚田露天風呂を誇る最高峰旅館から、静寂に包まれる渓流沿いの隠れ宿まで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -407,10 +407,10 @@ export default function ArticlePage() {
                 富山県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/yamagata/"
+                href="/prefectures/fukushima/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                山形県の宿・温泉
+                福島県の宿・温泉
               </Link>
             </div>
           </div>
@@ -421,11 +421,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">会津・芦ノ牧温泉ひとり旅・大川渓谷絶景おこもり：浮き舞台三味線・渓流露天風呂・大内宿ねぎそば！会津鉄道ネコ駅長の渓谷厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「会津・芦ノ牧温泉ひとり旅・大川渓谷絶景おこもり：浮き舞台三味線・渓流露天風呂・大内宿ねぎそば！会津鉄道ネコ駅長の渓谷厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「会津・芦ノ牧温泉ひとり旅・大川渓谷絶景おこもり：浮き舞台三味線・渓流露天風呂・大内宿ねぎそば！会津鉄道ネコ駅長の渓谷厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -507,7 +507,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/12682/12682_bath.jpg" alt="会津芦ノ牧温泉　大川荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★渓流を望む源泉掛け流しの絶景露天風呂と会津ならではのお食事★</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県会津若松市大戸町大字芦ノ牧字下夕平984 ／ 最寄り駅：芦ノ牧温泉 ／ 交通案内：会津若松ＩＣより約40分／芦ノ牧温泉駅より送迎有り（要予約）／大内宿まで約20分／鶴ヶ城まで約25分／飯盛山まで約30分</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県会津若松市大戸町大字芦ノ牧字下夕平984 ／ 最寄り駅：芦ノ牧温泉 ／ 交通案内：会津若松ＩＣより約40分／芦ノ牧温泉駅より送迎有り（要予約）／大内宿まで約20分／鶴ヶ城まで約25分／飯盛山まで約30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　１００台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.59 ／ 立地 ★4.59 ／ 部屋 ★4.56 ／ 設備 ★4.48 ／ 風呂 ★4.56 ／ 食事 ★4.61</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -529,7 +529,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/199124/199124.jpg" alt="芦ノ牧温泉　不動館　小谷の湯 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>渓流を眺め、源泉掛け流し100％の温泉をお楽しみください</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県会津若松市大戸町大字小谷湯ノ平２４９８－２ ／ 最寄り駅：芦ノ牧温泉 ／ 交通案内：芦ノ牧温泉駅より車で８分（無料送迎あり）　駐車場有。（徒歩1分ほど離れた第2駐車場ご利用の場合がございます）</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県会津若松市大戸町大字小谷湯ノ平２４９８－２ ／ 最寄り駅：芦ノ牧温泉 ／ 交通案内：芦ノ牧温泉駅より車で８分（無料送迎あり）　駐車場有。（徒歩1分ほど離れた第2駐車場ご利用の場合がございます）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>あり　20台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -551,7 +551,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1691/1691_twn.jpg" alt="山形グランドホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★2025年7月ラウンジNew OPEN★ 地元繁華街まで徒歩3分の立地です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県山形市本町1-7-42 ／ 最寄り駅：山形 ／ 交通案内：JR山形駅から車で5分。市内中心街に立地。中心街１００円循環バスで山形駅より５分。（運行時間/9:30～18:30）</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県山形市本町1-7-42 ／ 最寄り駅：山形 ／ 交通案内：JR山形駅から車で5分。市内中心街に立地。中心街１００円循環バスで山形駅より５分。（運行時間/9:30～18:30）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>1泊1,000円。先着順となります（予約不可）※大型車は駐車出来ません</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.11 ／ 立地 ★3.96 ／ 部屋 ★3.98 ／ 設備 ★3.86 ／ 風呂 ★3.69</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -573,7 +573,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4623/4623_twn.jpg" alt="ホテルリッチ＆ガーデン酒田 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>北欧テイストの上質なホテル。地元色を追求した美味しい朝食が自慢。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県酒田市若竹町1-1-1 ／ 最寄り駅：酒田 ／ 交通案内：■庄内空港よりバス30分　庄内空港行きはホテル道路沿いより運行　■■酒田駅　車で６分■■酒田ＩＣ　１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県酒田市若竹町1-1-1 ／ 最寄り駅：酒田 ／ 交通案内：■庄内空港よりバス30分　庄内空港行きはホテル道路沿いより運行　■■酒田駅　車で６分■■酒田ＩＣ　１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>約80台無料駐車場</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★4.16 ／ 部屋 ★4.13 ／ 設備 ★4 ／ 風呂 ★4.03 ／ 食事 ★4.36</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -595,7 +595,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4749/4749_heya.jpg" alt="白布温泉　中屋別館　不動閣 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【クーポン配布中】白布温泉で唯一の、渓谷を望む露天風呂！米沢牛と里山の幸に舌鼓！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県米沢市白布温泉大字関1514 ／ 最寄り駅：米沢 ／ 交通案内：JR米沢駅から路線バス（山交バス白布温泉行き）約50分。東北中央自動車道～米沢八幡原IC～国道13号～県道2号線約30分</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県米沢市白布温泉大字関1514 ／ 最寄り駅：米沢 ／ 交通案内：JR米沢駅から路線バス（山交バス白布温泉行き）約50分。東北中央自動車道～米沢八幡原IC～国道13号～県道2号線約30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台（宿泊者無料/先着順）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

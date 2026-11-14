@@ -395,37 +395,6 @@ export default function Page() {
           </div>
         </section>
 
-        {/* よくある質問 FAQ */}
-        <section className="mb-16 bg-white rounded-3xl shadow-sm border border-stone-200/80 p-6 md:p-10">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">よくある質問・ふるさと納税トラベルクーポンの疑問を解消</h2>
-          <div className="space-y-4">
-            
-            <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>城郭のライトアップ時間や夜間見学のイベントはありますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
-                姫路城、松本城、彦根城はいずれも日没から21時〜22時頃まで通年で美しいライトアップが行われています。また、春の桜の時期や秋の紅葉期には夜間特別公開やプロジェクションマッピングイベントが開催されることもあり、城下町の宿に泊まることで夜遅くまで幻想的な景観を楽しめます。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>城郭や庭園の観覧料にもクーポンは使えますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
-                ふるさと納税クーポンは楽天トラベル上の宿泊予約に適用されます。ただし「姫路城入場券付きプラン」や「彦根城・玄宮園共通観覧券付き宿泊パック」として販売されているプランを予約すれば、入場券代も含めてクーポンの割引対象となります。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>城下町の観光ボランティアガイドの手配はできますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
-                各城郭の案内所や観光協会では、地元の歴史に詳しいボランティアガイドの予約を受け付けています。宿のフロントで相談すれば手配の手伝いやおすすめ散策マップを案内してもらえることが多いです。
-              </p>
-            </div>
-          </div>
-        </section>
-
         {/* 相互回遊リンク */}
         <section className="bg-stone-200/80 rounded-3xl p-6 md:p-10 border border-stone-300">
           <div className="text-center max-w-2xl mx-auto mb-8">

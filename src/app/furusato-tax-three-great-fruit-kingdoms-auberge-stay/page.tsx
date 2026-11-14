@@ -222,7 +222,7 @@ export default function Page() {
         <section className="space-y-10">
           <div className="text-center space-y-2">
             <h2 className="text-2xl md:text-3xl font-bold text-slate-900">楽天ふるさと納税で泊まる名宿＆厳選ホテル</h2>
-            <p className="text-xs md:text-sm text-slate-500">楽天トラベル公式APIより最新の宿情報・写真・最低参考価格を取得しています
+            <p className="text-xs md:text-sm text-slate-500">宿泊施設データより最新の宿情報・写真・最低参考価格を取得しています
             </p>
           </div>
 
@@ -511,10 +511,10 @@ export default function Page() {
                 滋賀県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/yamagata/"
+                href="/prefectures/yamanashi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                山形県の宿・温泉
+                山梨県の宿・温泉
               </Link>
             </div>
           </div>
@@ -525,11 +525,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大フルーツ王国＆もぎたて果実の恵み・果樹園パノラマと美食リゾート×ふるさと納税厳選ガイド山梨・山形・長野：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本三大フルーツ王国＆もぎたて果実の恵み・果樹園パノラマと美食リゾート×ふるさと納税厳選ガイド山梨・山形・長野」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「日本三大フルーツ王国＆もぎたて果実の恵み・果樹園パノラマと美食リゾート×ふるさと納税厳選ガイド山梨・山形・長野」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -593,7 +593,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1221/1221_twn.jpg" alt="フルーツパーク富士屋ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>小高い丘のホテルからは富士山などの山々を望む大パノラマと、宝石のような夜景・星空を四季折々楽しめます</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県山梨市江曽原1388　笛吹川フルーツ公園内 ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ中央線山梨市駅から車で7分。</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県山梨市江曽原1388　笛吹川フルーツ公園内 ／ 交通案内：ＪＲ中央線山梨市駅から車で7分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -615,7 +615,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/53746/53746_ro.jpg" alt="天童温泉　ほほえみの宿　滝の湯 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>天童温泉と宿泊者専用ラウンジで、心身をやさしく整える滞在をお楽しみください。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県天童市鎌田本町1-1-30 ／ 最寄り駅：天童 ／ 交通案内：ＪＲ山形新幹線　天童駅より車にて３分、徒歩にて１５分（無料送迎あり）　山形北ＩＣより２０分</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県天童市鎌田本町1-1-30 ／ 最寄り駅：天童 ／ 交通案内：ＪＲ山形新幹線　天童駅より車にて３分、徒歩にて１５分（無料送迎あり）　山形北ＩＣより２０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３００台ご用意しております。予約は、ご不要です。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.68 ／ 立地 ★4.5 ／ 部屋 ★4.63 ／ 設備 ★4.57 ／ 風呂 ★4.51 ／ 食事 ★4.68</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -637,7 +637,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/27852/27852_twn.jpg" alt="小布施の宿　ヴァンヴェール 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>小布施の町の中心にあり観光に町歩きに便利。和風の建物に館内はフランスのプチホテルの雰囲気。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県上高井郡小布施町小布施34-8 ／ 最寄り駅：主要駅 ／ 交通案内：長野電鉄・小布施駅より徒歩1０分、上信越自動車道・小布施スマートインターよりお車にて５分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県上高井郡小布施町小布施34-8 ／ 交通案内：長野電鉄・小布施駅より徒歩1０分、上信越自動車道・小布施スマートインターよりお車にて５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -652,7 +652,7 @@ export default function Page() {
 
       {/* フッター */}
       <footer className="bg-slate-950 text-slate-400 py-8 px-4 text-center text-xs border-t border-slate-800">
-        <p>© 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の楽天トラベル公式APIに基づきます。</p>
+        <p>© 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の宿泊施設データに基づきます。</p>
       </footer>
     
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

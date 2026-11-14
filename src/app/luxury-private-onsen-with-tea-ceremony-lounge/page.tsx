@@ -236,7 +236,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -681,11 +681,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：本格茶室で一服の静寂を。お点前体験＆日本庭園露天風呂が自慢の和モダン宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：本格茶室で一服の静寂を。お点前体験＆日本庭園露天風呂が自慢の和モダン宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：本格茶室で一服の静寂を。お点前体験＆日本庭園露天風呂が自慢の和モダン宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -767,7 +767,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7027/7027_room.jpg" alt="宮津温泉　料理旅館　茶六別館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>天橋立を望む数奇屋造りの料理宿。春夏には岩牡蠣など丹後の海の幸を生かした京風会席をご堪能下さい。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 京都府宮津市島崎2039-4 ／ 最寄り駅：宮津（京都） ／ 交通案内：車：京都縦貫自動車道宮津天橋立ＩＣより約５分　電車：京都丹後鉄道宮津駅より徒歩１０分　高速バス：キセンバ港館より徒歩７分</p>
+                  <p><strong>【所在地・アクセス】</strong>京都府宮津市島崎2039-4 ／ 最寄り駅：宮津（京都） ／ 交通案内：車：京都縦貫自動車道宮津天橋立ＩＣより約５分　電車：京都丹後鉄道宮津駅より徒歩１０分　高速バス：キセンバ港館より徒歩７分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１２台　無料　宿の左斜め前にございます</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.29 ／ 部屋 ★4.31 ／ 設備 ★4.26 ／ 風呂 ★4.4 ／ 食事 ★4.66</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -789,7 +789,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/38847/38847_kya.jpg" alt="金沢辰口温泉　まつさき 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>温泉客室24室【鳳凰は露天風呂付】料理自慢＆全て個室食。金沢駅から電車と送迎で30分。お一人様歓迎</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県能美市辰口町3-1 ／ 最寄り駅：小松 ／ 交通案内：関東方面：IR松任駅より車20分、関西方面：JR小松駅より車20分　小松空港より車25分　※要予約で送迎がございます</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県能美市辰口町3-1 ／ 最寄り駅：小松 ／ 交通案内：関東方面：IR松任駅より車20分、関西方面：JR小松駅より車20分　小松空港より車25分　※要予約で送迎がございます</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -811,7 +811,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/19206/19206_bath.jpg" alt="庭園と感動の宿　富士山温泉　ホテル鐘山苑 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>富士山の見える絶景露天風呂！【２０２４年プロが選んだ旅館１００選・全国総合８位】</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県富士吉田市上吉田東9-1-18 ／ 最寄り駅：富士吉田 ／ 交通案内：富士急行線富士山駅より１３時～１８時の間無料送迎あり／車８分／駅到着時にお電話下さい／翌日のお送りは８：００より３０分毎</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県富士吉田市上吉田東9-1-18 ／ 最寄り駅：富士吉田 ／ 交通案内：富士急行線富士山駅より１３時～１８時の間無料送迎あり／車８分／駅到着時にお電話下さい／翌日のお送りは８：００より３０分毎</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　5００台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.69 ／ 立地 ★4.71 ／ 部屋 ★4.64 ／ 設備 ★4.6 ／ 風呂 ★4.73 ／ 食事 ★4.75</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -833,7 +833,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/13755/13755_war.jpg" alt="浅虫温泉　椿館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>９つ自家源泉・飲泉・源泉料理。版画家棟方志功の直筆画多数</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 青森県青森市浅虫内野14 ／ 最寄り駅：浅虫温泉 ／ 交通案内：青い森鉄道「浅虫温泉駅」下車 / 東北自動車道 青森東ICより1５分 / 青森空港より５０分</p>
+                  <p><strong>【所在地・アクセス】</strong>青森県青森市浅虫内野14 ／ 最寄り駅：浅虫温泉 ／ 交通案内：青い森鉄道「浅虫温泉駅」下車 / 東北自動車道 青森東ICより1５分 / 青森空港より５０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　35台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -855,7 +855,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31801/31801_r1.jpg" alt="有馬温泉　高山荘　華野 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>神戸有馬の温泉街を見下ろす高台に、アートとお花、旬の美食、上質な金泉・銀泉。心に溶け合う小さなお宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県神戸市北区有馬町400-1 ／ 最寄り駅：有馬温泉 ／ 交通案内：大阪より約60分/三ノ宮・新神戸より約30分／神戸電鉄、バス 有馬温泉駅から徒歩10分 送迎有(要電話)</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県神戸市北区有馬町400-1 ／ 最寄り駅：有馬温泉 ／ 交通案内：大阪より約60分/三ノ宮・新神戸より約30分／神戸電鉄、バス 有馬温泉駅から徒歩10分 送迎有(要電話)</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場12台（15:00～翌朝11:00迄）完全予約制　満車時は近隣駐車場 送迎有。大型車不可。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

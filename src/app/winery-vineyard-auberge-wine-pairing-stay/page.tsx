@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/winery-vineyard-auberge-wine-pairing-stay/"
   };
 
@@ -186,6 +186,12 @@ export default function Page() {
           </p>
         </div>
 
+        <div className="pt-2">
+          <ShareButtons
+            title="葡萄畑の絶景と極上ワインに酔いしれる！全国のワイナリー併設＆オーベルジュホテル"
+            url="https://croud-travel.pages.dev/winery-vineyard-auberge-wine-pairing-stay/"
+          />
+        </div>
         {/* クーポン特大バナー */}
         <SpecialCouponBanner />
 
@@ -303,11 +309,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">葡萄畑の絶景と極上ワインに酔いしれる！全国のワイナリー併設＆オーベルジュホテル：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「葡萄畑の絶景と極上ワインに酔いしれる！全国のワイナリー併設＆オーベルジュホテル」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「葡萄畑の絶景と極上ワインに酔いしれる！全国のワイナリー併設＆オーベルジュホテル」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -345,7 +351,7 @@ export default function Page() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 天橋立温泉　旅館　松月＜京都府＞</td>
-                <td className="p-3 text-stone-600">新潟県</td>
+                <td className="p-3 text-stone-600">京都府宮津市文珠460</td>
                 <td className="p-3 text-stone-600">京都丹後鉄道（丹鉄）天橋立駅よりすぐ</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.46（170件）</td>
@@ -371,7 +377,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/187120/187120.jpg" alt="Ｗｉｎｅｒｙｓｔａｙ　ＴＲＡＶＩＧＮＥ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>カーブドッチワインと料理を愉しむオーベルジュ、ぶどう畑を眺めながらワイナリーで過ごす贅沢なひととき。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県新潟市西蒲区角田浜1661　カーブドッチ ／ 最寄り駅：内野 ／ 交通案内：JR越後線内野駅からタクシーでカーブドッチへ約20～30分程</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県新潟市西蒲区角田浜1661　カーブドッチ ／ 最寄り駅：内野 ／ 交通案内：JR越後線内野駅からタクシーでカーブドッチへ約20～30分程</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　10台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -393,7 +399,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9045/9045_nisi.jpg" alt="信玄の湯　湯村温泉　常磐ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>日本旅館の感性と、都市型ホテルの利便性を兼備えた、皇室もご利用なさる甲府の迎賓館</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県甲府市湯村2-5-21 ／ 最寄り駅：甲府 ／ 交通案内：中央自動車道、甲府昭和ICから20分／甲府駅南口バスターミナル4番線15分「湯村温泉入口」下車。武田神社は車で15分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県甲府市湯村2-5-21 ／ 最寄り駅：甲府 ／ 交通案内：中央自動車道、甲府昭和ICから20分／甲府駅南口バスターミナル4番線15分「湯村温泉入口」下車。武田神社は車で15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２５０台　無料　EV対応　普通充電器［交流 8ｋW］4基　１回1000円　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.82 ／ 立地 ★4.67 ／ 部屋 ★4.75 ／ 設備 ★4.68 ／ 風呂 ★4.62 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -414,12 +420,12 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8166/8166.jpg" alt="天橋立温泉　旅館　松月＜京都府＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「葡萄畑の絶景と極上ワインに酔いしれる（全国のワイナリー併設＆オーベルジュホテル）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：京都丹後鉄道（丹鉄）天橋立駅よりすぐ</p>
+                  <p><strong>【宿の特徴・魅力】</strong>京都府宮津市文珠460の「天橋立温泉 旅館 松月＜京都府＞」（楽天トラベル評価4.36（168件）／1泊目安¥7,150〜）の魅力と宿泊ポイントを詳しく紹介。＜天橋立で海の幸に舌鼓＞お料理と温泉を満喫◎天橋立観光に便利。客室タイプや大浴場・温泉、朝食・夕食の魅力、アクセス（京都丹後鉄道（丹鉄）天橋立駅よりすぐ）・駐車場情報からお得なクーポン予約術まで網羅しています。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：京都丹後鉄道（丹鉄）天橋立駅よりすぐ</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「絶景のロケーションとおもてなしに心から癒やされました。」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「天橋立温泉 旅館 松月＜京都府＞での快適な滞在とアクセス面の良さに満足したという評価が寄せられています。」
                   </blockquote>
                 </div>
               </div>

@@ -285,11 +285,11 @@ export default function AutumnBudgetKagoshimaHotelsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">鹿児島：桜島一望と黒豚しゃぶしゃぶを満喫！秋の温泉・高コスパ格安宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「鹿児島：桜島一望と黒豚しゃぶしゃぶを満喫！秋の温泉・高コスパ格安宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「鹿児島：桜島一望と黒豚しゃぶしゃぶを満喫！秋の温泉・高コスパ格安宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -371,7 +371,7 @@ export default function AutumnBudgetKagoshimaHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/207/207_ky.jpg" alt="ホテル　サンフレックス鹿児島 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>鹿児島最大の繁華街『天文館』や離島高速船にも近くて閑静なスタイリッシュホテル。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県鹿児島市堀江町19-14 ／ 最寄り駅：鹿児島中央 ／ 交通案内：鹿児島中央駅より市電「いづろ通」徒歩３分・空港リムジンバス「天文館」５分・高速船旅客ターミナル徒歩７分</p>
+                  <p><strong>【所在地・アクセス】</strong>鹿児島県鹿児島市堀江町19-14 ／ 最寄り駅：鹿児島中央 ／ 交通案内：鹿児島中央駅より市電「いづろ通」徒歩３分・空港リムジンバス「天文館」５分・高速船旅客ターミナル徒歩７分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>外部提携駐車場「マイアミパーク駐車場」1泊1000円　※途中出庫ある場合別途精算が必要となります。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.21 ／ 部屋 ★4.25 ／ 設備 ★4.15 ／ 風呂 ★4.09 ／ 食事 ★4.27</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -393,7 +393,7 @@ export default function AutumnBudgetKagoshimaHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1374/1374_room.jpg" alt="ホテル京セラ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>圧倒的な吹抜け空間は建築家、黒川紀章氏の設計。天然温泉やプールにジム、和・洋・ブッフェ各レストラン有</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県霧島市隼人町見次1409-1 ／ 最寄り駅：隼人 ／ 交通案内：鹿児島空港:バス・タクシー18分（バス460円、タクシー約4,000円）、隼人駅・タクシー5分（約1,000円）</p>
+                  <p><strong>【所在地・アクセス】</strong>鹿児島県霧島市隼人町見次1409-1 ／ 最寄り駅：隼人 ／ 交通案内：鹿児島空港:バス・タクシー18分（バス460円、タクシー約4,000円）、隼人駅・タクシー5分（約1,000円）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場３００台。週末は混雑する場合がございます。予めご了承くださいませ。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -415,7 +415,7 @@ export default function AutumnBudgetKagoshimaHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1527/1527_room.jpg" alt="ホテルゲートイン鹿児島（ＨＯＴＥＬ　ＧＡＴＥ　ＩＮ　ＫＡＧＯＳＨＩＭＡ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【全室ReFa完備】天文館へ徒歩5分！街歩きの後は半露天風呂で整うご褒美時間♪女子旅・カップル旅に◎</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県鹿児島市船津町5-20 ／ 最寄り駅：鹿児島中央 ／ 交通案内：■ＪＲ鹿児島中央駅より市電７分/天文館通下車徒歩５分　　■鹿児島ＩＣ～車２０分　　■空港シャトルバス/天文館下車徒歩５分</p>
+                  <p><strong>【所在地・アクセス】</strong>鹿児島県鹿児島市船津町5-20 ／ 最寄り駅：鹿児島中央 ／ 交通案内：■ＪＲ鹿児島中央駅より市電７分/天文館通下車徒歩５分　　■鹿児島ＩＣ～車２０分　　■空港シャトルバス/天文館下車徒歩５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場：センテラスパーキング・丸屋第一駐車場</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.53 ／ 立地 ★4.41 ／ 部屋 ★4.51 ／ 設備 ★4.5 ／ 風呂 ★4.48 ／ 食事 ★4.19</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -437,7 +437,7 @@ export default function AutumnBudgetKagoshimaHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1599/1599_twn.jpg" alt="ビジネスホテル鶴 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>出水市の中心部で川添いの静かなホテルです。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県出水市昭和町24-15 ／ 最寄り駅：出水 ／ 交通案内：ＪＲ出水駅より徒歩５分／南九州西回り自動車道出水ＩＣより車で１０分/鹿児島空港より車で６０分</p>
+                  <p><strong>【所在地・アクセス】</strong>鹿児島県出水市昭和町24-15 ／ 最寄り駅：出水 ／ 交通案内：ＪＲ出水駅より徒歩５分／南九州西回り自動車道出水ＩＣより車で１０分/鹿児島空港より車で６０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>２８台分　普通車無料（５m以上のトラック、バスは１泊1,000円）先着順となっております。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -459,7 +459,7 @@ export default function AutumnBudgetKagoshimaHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1642/1642_twn.jpg" alt="天然温泉サウナ　ニューニシノ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>天文館電停3分！大浴場＆フィンランドサウナで非日常体験◆観光・ビジネスの拠点に最適【男性専用温泉】</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県鹿児島市千日町13-24 ／ 最寄り駅：鹿児島中央 ／ 交通案内：★JR鹿児島中央駅から車で５分　　　★市電「天文館」電停より徒歩３分　　★天文館の中心にあり、交通に便利！</p>
+                  <p><strong>【所在地・アクセス】</strong>鹿児島県鹿児島市千日町13-24 ／ 最寄り駅：鹿児島中央 ／ 交通案内：★JR鹿児島中央駅から車で５分　　　★市電「天文館」電停より徒歩３分　　★天文館の中心にあり、交通に便利！</p>
                   <p><strong>【駐車場・マイカー利用】</strong>コインパーキング10台　ホテル利用時1泊1,000円　14：30〜11：30　予約不可・高さ制限2m</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.26 ／ 部屋 ★4.19 ／ 設備 ★4.19 ／ 風呂 ★4.46 ／ 食事 ★3.97</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

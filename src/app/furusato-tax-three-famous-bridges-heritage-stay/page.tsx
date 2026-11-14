@@ -548,11 +548,11 @@ export default function FurusatoFeaturePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三名橋＆歴史遺産を望むリバーサイド名宿×ふるさと納税厳選ガイド岩国錦帯橋・長崎眼鏡橋・東京日本橋の風情旅：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本三名橋＆歴史遺産を望むリバーサイド名宿×ふるさと納税厳選ガイド岩国錦帯橋・長崎眼鏡橋・東京日本橋の風情旅」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「日本三名橋＆歴史遺産を望むリバーサイド名宿×ふるさと納税厳選ガイド岩国錦帯橋・長崎眼鏡橋・東京日本橋の風情旅」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -643,7 +643,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/27871/27871_heya.jpg" alt="湯野温泉　芳山園 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>名湯の露天風呂の硫黄の香りと四季折々の日本庭園に心癒される。旬の味覚と共に至福の時間を独り占め。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山口県周南市湯野4255-1 ／ 最寄り駅：戸田（山口） ／ 交通案内：新幹線徳山駅→ＪＲ山陽本線 戸田駅より車で7分／山陽自動車道徳山西ＩＣ下車６分</p>
+                  <p><strong>【所在地・アクセス】</strong>山口県周南市湯野4255-1 ／ 最寄り駅：戸田（山口） ／ 交通案内：新幹線徳山駅→ＪＲ山陽本線 戸田駅より車で7分／山陽自動車道徳山西ＩＣ下車６分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -665,7 +665,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/13743/13743_war.jpg" alt="宮浜温泉　湯の宿　宮浜グランドホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>展望大浴場と旬の素材を使った料理が好評。宮島口から車で12分。無料駐車場有！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 広島県廿日市市宮浜温泉2-5-4 ／ 最寄り駅：大野浦 ／ 交通案内：ＪＲ大野浦駅より送迎有り／山陽自動車道大野ＩＣより約７～８分</p>
+                  <p><strong>【所在地・アクセス】</strong>広島県廿日市市宮浜温泉2-5-4 ／ 最寄り駅：大野浦 ／ 交通案内：ＪＲ大野浦駅より送迎有り／山陽自動車道大野ＩＣより約７～８分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　先着順　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★4.19 ／ 部屋 ★4.11 ／ 設備 ★4.07 ／ 風呂 ★4.27 ／ 食事 ★4.38</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -687,7 +687,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/198507/198507.jpg" alt="大江戸温泉物語Ｐｒｅｍｉｕｍ　長崎ホテル清風（２０２６年４月２９日リニューアルオープン） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>露天風呂や客室、プレミアムラウンジから世界新三大夜景を望む温泉ホテル</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長崎県長崎市大鳥町523 ／ 最寄り駅：長崎（長崎） ／ 交通案内：JR長崎駅より送迎バスで約15分、長崎自動車道 長崎ICより約20分</p>
+                  <p><strong>【所在地・アクセス】</strong>長崎県長崎市大鳥町523 ／ 最寄り駅：長崎（長崎） ／ 交通案内：JR長崎駅より送迎バスで約15分、長崎自動車道 長崎ICより約20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>あり　約80台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -709,7 +709,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/15873/15873_kan.jpg" alt="長崎バスターミナルホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>■長崎中華街まで徒歩1分■≪全室Wi-Fi完備≫長崎市の中心部、ビジネス・観光の拠点に最適な立地です</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長崎県長崎市新地町1-14 ／ 最寄り駅：長崎（長崎） ／ 交通案内：【ＪＲ長崎駅】車で約7分／【路面電車】新地中華街電停から徒歩約1分／【長崎空港】空港リムジンバス『新地中華街』下車正面</p>
+                  <p><strong>【所在地・アクセス】</strong>長崎県長崎市新地町1-14 ／ 最寄り駅：長崎（長崎） ／ 交通案内：【ＪＲ長崎駅】車で約7分／【路面電車】新地中華街電停から徒歩約1分／【長崎空港】空港リムジンバス『新地中華街』下車正面</p>
                   <p><strong>【駐車場・マイカー利用】</strong>32台／1泊1,000円　※制限超、満車時は提携駐車場をご案内致します（1泊1,000円～）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -731,7 +731,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/108257/108257_ky1.jpg" alt="稲佐山温泉　ホテルアマンディ　〜長崎の日本三大夜景を一望〜 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>日本三大夜景を一望！100％源泉の露天風呂や岩盤浴が人気のリゾートホテル。駐車場無料・Wi-Fi完備</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長崎県長崎市曙町39-38 ／ 最寄り駅：長崎（長崎） ／ 交通案内：JR長崎駅からお車で7分。長崎バス5番系統「稲佐山」または「稲佐山中腹」行きバス乗車　無料送迎バス有</p>
+                  <p><strong>【所在地・アクセス】</strong>長崎県長崎市曙町39-38 ／ 最寄り駅：長崎（長崎） ／ 交通案内：JR長崎駅からお車で7分。長崎バス5番系統「稲佐山」または「稲佐山中腹」行きバス乗車　無料送迎バス有</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１２０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.99 ／ 立地 ★4.12 ／ 部屋 ★3.87 ／ 設備 ★3.7 ／ 風呂 ★3.99 ／ 食事 ★4.03</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -753,7 +753,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4822/4822_heya.jpg" alt="ホテルイースト２１東京（オークラホテルズ＆リゾーツ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>東京駅から電車で約30分！東陽町駅から徒歩7分！19世紀のヨーロッパの雰囲気漂うホテル</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 東京都江東区東陽6-3-3 ／ 最寄り駅：東陽町 ／ 交通案内：東京メトロ東西線「東陽町駅」1番出口より徒歩約７分、JR錦糸町駅から都営バスで約15分</p>
+                  <p><strong>【所在地・アクセス】</strong>東京都江東区東陽6-3-3 ／ 最寄り駅：東陽町 ／ 交通案内：東京メトロ東西線「東陽町駅」1番出口より徒歩約７分、JR錦糸町駅から都営バスで約15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有（地下駐車場 車高2.1Ｍまで)1泊1台1,500円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

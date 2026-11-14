@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">山梨・八ヶ岳＆清里高原：清里テラス・萌木の村＆八ヶ岳南麓・星空温泉リゾート 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「山梨・八ヶ岳＆清里高原：清里テラス・萌木の村＆八ヶ岳南麓・星空温泉リゾート 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「山梨・八ヶ岳＆清里高原：清里テラス・萌木の村＆八ヶ岳南麓・星空温泉リゾート 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -314,7 +314,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/28379/28379_wy.jpg" alt="清里高原リゾート（旧：清里高原ホテル） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2026年5月1日（金）リニューアルオープン ―天空の青音リトリート‐Calm Blue―</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県北杜市高根町清里3545 ／ 最寄り駅：清里 ／ 交通案内：ＪＲ小海線「清里駅」よりお車で約５分／中央道「須玉ＩＣ」「長坂ＩＣ」より約３０分　※送迎バスはWEBにて完全予約制</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県北杜市高根町清里3545 ／ 最寄り駅：清里 ／ 交通案内：ＪＲ小海線「清里駅」よりお車で約５分／中央道「須玉ＩＣ」「長坂ＩＣ」より約３０分　※送迎バスはWEBにて完全予約制</p>
                   <p>【山梨・八ヶ岳＆清里高原：清里テラス・萌木の村＆八ヶ岳】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -336,7 +336,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/28780/28780_heya.jpg" alt="八ヶ岳の恵みを味わうレストラン＆ホテル　オーベルジュ清里 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>自家農園野菜を使ったレストランが人気！牧場、工房、農園など体験も充実のホテル</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県北杜市高根町清里３５４５－９４３　コートドゥヴェール内 ／ 最寄り駅：清里 ／ 交通案内：JR小海線・清里駅から車で5分／中央道・長坂ICから25分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県北杜市高根町清里３５４５－９４３　コートドゥヴェール内 ／ 最寄り駅：清里 ／ 交通案内：JR小海線・清里駅から車で5分／中央道・長坂ICから25分</p>
                   <p>【山梨・八ヶ岳＆清里高原：清里テラス・萌木の村＆八ヶ岳】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -358,7 +358,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7759/7759_din1.jpg" alt="グランドメルキュール八ヶ岳リゾート＆スパ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>八ヶ岳の大自然に囲まれた、家族みんなが笑顔になれる全天候型アミューズメントホテル</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県北杜市大泉町西井出8240-1039 ／ 最寄り駅：甲斐大泉 ／ 交通案内：（電車）甲斐大泉駅より送迎バス定期便あり。ダイヤは公式HPをご覧ください。（車）長坂ＩＣより約１５分程</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県北杜市大泉町西井出8240-1039 ／ 最寄り駅：甲斐大泉 ／ 交通案内：（電車）甲斐大泉駅より送迎バス定期便あり。ダイヤは公式HPをご覧ください。（車）長坂ＩＣより約１５分程</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り 乗用車179台　無料（先着順）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -380,7 +380,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/38754/38754_he.jpg" alt="八ヶ岳グレイスホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全客室より八ヶ岳を一望★星空観察会★毎晩開催中！清里まで車で5分。直前割や一人旅も大歓迎！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県南佐久郡南牧村野辺山217-1 ／ 最寄り駅：野辺山 ／ 交通案内：野辺山駅より車で約5分（無料送迎あり・予約制／お電話または公式HPのご予約フォームより） 中央道・長坂ICより約20分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県南佐久郡南牧村野辺山217-1 ／ 最寄り駅：野辺山 ／ 交通案内：野辺山駅より車で約5分（無料送迎あり・予約制／お電話または公式HPのご予約フォームより） 中央道・長坂ICより約20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -402,7 +402,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/53178/53178_wa.jpg" alt="１０００Ｍのおもてなし　八ヶ岳　ホテル風か 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「オールインクルーシブ」ご夕食時約50種&amp;amp;バータイム約80種のフリードリンク</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県北杜市小淵沢町上の原3989-1 ／ 最寄り駅：小淵沢 ／ 交通案内：ＪＲ中央本線　小淵沢駅より車で7分／中央自動車道　小淵沢ＩＣより車で4分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県北杜市小淵沢町上の原3989-1 ／ 最寄り駅：小淵沢 ／ 交通案内：ＪＲ中央本線　小淵沢駅より車で7分／中央自動車道　小淵沢ＩＣより車で4分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　35台　無料　予約不要　満車の場合は第２駐車場をご利用下さい。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

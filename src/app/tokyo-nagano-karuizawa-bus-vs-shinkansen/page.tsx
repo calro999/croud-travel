@@ -344,11 +344,11 @@ export default function HighwayBusArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">東京から長野・軽井沢 安く行く方法：新幹線 vs 高速バス徹底比較！片道1,500円〜の1泊2日モデルコース：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「東京から長野・軽井沢 安く行く方法：新幹線 vs 高速バス徹底比較！片道1,500円〜の1泊2日モデルコース」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「東京から長野・軽井沢 安く行く方法：新幹線 vs 高速バス徹底比較！片道1,500円〜の1泊2日モデルコース」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -430,7 +430,7 @@ export default function HighwayBusArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/181252/181252.jpg" alt="天然温泉ホテルリブマックスＰＲＥＭＩＵＭ長野駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【2020年10月OPEN】ＪＲ信越線、北陸新幹線「長野」駅東口より徒歩約３分 ◇天然温泉＆サウナ◇</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県長野市大字栗田2145 ／ 最寄り駅：長野 ／ 交通案内：ＪＲ信越線／北陸新幹線　長野駅より徒歩にて約３分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県長野市大字栗田2145 ／ 最寄り駅：長野 ／ 交通案内：ＪＲ信越線／北陸新幹線　長野駅より徒歩にて約３分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -452,7 +452,7 @@ export default function HighwayBusArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/20555/20555_heya.jpg" alt="裾花峡温泉　うるおい館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【風呂4.7】長野駅から車で7分の源泉かけ流しの温泉宿！喧騒を忘れる広大な露天風呂と部屋食が大好評</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県長野市妻科98 ／ 最寄り駅：長野 ／ 交通案内：ＪＲ長野駅、善光寺より車で約７分／長野県庁から徒歩10分・上信越道長野ＩＣより２０分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県長野市妻科98 ／ 最寄り駅：長野 ／ 交通案内：ＪＲ長野駅、善光寺より車で約７分／長野県庁から徒歩10分・上信越道長野ＩＣより２０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場有り150台　地下駐車場50台を含みます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -474,7 +474,7 @@ export default function HighwayBusArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/262/262_sgl.jpg" alt="ホテルエミシア東京立川 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全室Wi-Fi無料！JR立川駅徒歩2分。ビジネスにも観光にも最適なシティホテル</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 東京都立川市曙町2-14-16 ／ 最寄り駅：立川 ／ 交通案内：▼▼▼ＪＲ立川駅北口より徒歩２分。多摩モノレール立川北駅より徒歩3分。中央道国立府中ICから25分▼▼▼</p>
+                  <p><strong>【所在地・アクセス】</strong>東京都立川市曙町2-14-16 ／ 最寄り駅：立川 ／ 交通案内：▼▼▼ＪＲ立川駅北口より徒歩２分。多摩モノレール立川北駅より徒歩3分。中央道国立府中ICから25分▼▼▼</p>
                   <p><strong>【駐車場・マイカー利用】</strong>1泊1600円　　※現在、ホテル地下Pは営業時間を短縮してます。詳しくはHPをご確認下さい。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.35 ／ 立地 ★4.33 ／ 部屋 ★4.36 ／ 設備 ★4.31 ／ 風呂 ★4.21 ／ 食事 ★4.5</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -496,7 +496,7 @@ export default function HighwayBusArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/388/388_sgl.jpg" alt="ホテルメトロポリタン 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>～やすらぎと華やぎが出会う場所～JR東日本グループのホテルとして、皆さまお越しをお待ちしております。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 東京都豊島区西池袋1-6-１ ／ 最寄り駅：池袋 ／ 交通案内：池袋駅西口より徒歩３分、東京駅より地下鉄で17分、羽田空港へのリムジンバス（有料）がホテル正面玄関にて発着します。</p>
+                  <p><strong>【所在地・アクセス】</strong>東京都豊島区西池袋1-6-１ ／ 最寄り駅：池袋 ／ 交通案内：池袋駅西口より徒歩３分、東京駅より地下鉄で17分、羽田空港へのリムジンバス（有料）がホテル正面玄関にて発着します。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　1泊につき1台  3,000円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -518,7 +518,7 @@ export default function HighwayBusArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/509/509_si.jpg" alt="渋谷東急ＲＥＩホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>渋谷駅すぐ◇観光やビジネス、ショッピングの拠点に</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 東京都渋谷区渋谷1-24-10 ／ 最寄り駅：渋谷 ／ 交通案内：ＪＲ渋谷駅より徒歩2分（宮益坂口、宮下公園隣り）　東京メトロ・東急渋谷駅B2番出口すぐ</p>
+                  <p><strong>【所在地・アクセス】</strong>東京都渋谷区渋谷1-24-10 ／ 最寄り駅：渋谷 ／ 交通案内：ＪＲ渋谷駅より徒歩2分（宮益坂口、宮下公園隣り）　東京メトロ・東急渋谷駅B2番出口すぐ</p>
                   <p><strong>【駐車場・マイカー利用】</strong>近隣の提携駐車場　車体制限あり　ホテルに問い合わせ要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

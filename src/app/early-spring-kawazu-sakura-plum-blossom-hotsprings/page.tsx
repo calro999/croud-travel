@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/early-spring-kawazu-sakura-plum-blossom-hotsprings/"
   };
 
@@ -186,6 +186,12 @@ export default function Page() {
           </p>
         </div>
 
+        <div className="pt-2">
+          <ShareButtons
+            title="一足早い春の訪れ！早咲き河津桜＆梅まつりを愛でる花見露天風呂温泉旅館"
+            url="https://croud-travel.pages.dev/early-spring-kawazu-sakura-plum-blossom-hotsprings/"
+          />
+        </div>
         {/* クーポン特大バナー */}
         <SpecialCouponBanner />
 
@@ -303,11 +309,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">一足早い春の訪れ！早咲き河津桜＆梅まつりを愛でる花見露天風呂温泉旅館：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「一足早い春の訪れ！早咲き河津桜＆梅まつりを愛でる花見露天風呂温泉旅館」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「一足早い春の訪れ！早咲き河津桜＆梅まつりを愛でる花見露天風呂温泉旅館」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -371,7 +377,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/29100/29100_wa.jpg" alt="伊豆高原温泉　海望む露天風呂付客室　夢海月(ゆめみづき) 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>伊豆高原温泉のモダン旅館 ・海望む露天風呂付客室と個室で楽しむ伊豆金目鯛懐石・ニッポニア高原宿夢海月</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県伊東市大室高原10丁目348 ／ 最寄り駅：伊豆高原 ／ 交通案内：車：東名高速厚木IC・沼津ＩＣより約100分／電車：伊豆急行線伊豆高原駅～シャボテン公園行・理想郷バス停～歩2分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県伊東市大室高原10丁目348 ／ 最寄り駅：伊豆高原 ／ 交通案内：車：東名高速厚木IC・沼津ＩＣより約100分／電車：伊豆急行線伊豆高原駅～シャボテン公園行・理想郷バス停～歩2分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料7台（ご予約不要）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.46 ／ 立地 ★4.06 ／ 部屋 ★4.52 ／ 設備 ★4.26 ／ 風呂 ★4.38 ／ 食事 ★4.6</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -393,7 +399,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/158403/158403_kan1.jpg" alt="伊豆高原温泉ホテル　森の泉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>広大な大自然に佇む大人の癒し空間でオールインクルーシブを満喫◇伊豆の味覚と四季折々の景色を味わう</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県伊東市吉田901-75 ／ 最寄り駅：川奈（静岡） ／ 交通案内：【最寄り駅】川奈駅より車で約15分（※無料送迎／予約制）【最寄りIC】小田原西ICから車で約90分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県伊東市吉田901-75 ／ 最寄り駅：川奈（静岡） ／ 交通案内：【最寄り駅】川奈駅より車で約15分（※無料送迎／予約制）【最寄りIC】小田原西ICから車で約90分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　35台（無料）予約不要　　　Wi-fi　：有り（館内全て）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★4.21 ／ 部屋 ★4.25 ／ 設備 ★4.1 ／ 風呂 ★4.3 ／ 食事 ★4.47</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -415,7 +421,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/135962/135962_ru1.jpg" alt="松崎温泉　公共の宿　伊豆まつざき荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>源泉掛け流し湯！最上階の展望露天からは駿河湾を一望</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県賀茂郡松崎町江奈210-1 ／ 最寄り駅：伊豆急下田 ／ 交通案内：伊豆急下田駅よりバスにて５０分　東名沼津I.C.／新東名長泉沼津ＩＣより約７６km（約90分）</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県賀茂郡松崎町江奈210-1 ／ 最寄り駅：伊豆急下田 ／ 交通案内：伊豆急下田駅よりバスにて５０分　東名沼津I.C.／新東名長泉沼津ＩＣより約７６km（約90分）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料　予約不要　ツーリングの方には屋根付き駐車場あり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.43 ／ 立地 ★4.46 ／ 部屋 ★4.32 ／ 設備 ★4.25 ／ 風呂 ★4.43 ／ 食事 ★4.42</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

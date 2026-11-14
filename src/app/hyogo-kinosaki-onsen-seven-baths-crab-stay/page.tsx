@@ -234,11 +234,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">兵庫・城崎温泉＆円山川：七つの外湯めぐり・浴衣柳並木＆松葉ガニ宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「兵庫・城崎温泉＆円山川：七つの外湯めぐり・浴衣柳並木＆松葉ガニ宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「兵庫・城崎温泉＆円山川：七つの外湯めぐり・浴衣柳並木＆松葉ガニ宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -329,7 +329,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/79381/79381_ru.jpg" alt="城崎温泉　料理旅館　よしはる 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>楽天トラベルアワード2012受賞★口コミ5つ星！城崎温泉駅徒歩３分。貸切風呂・男女デザイン浴衣もあり</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県豊岡市城崎町湯島180 ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ　城崎温泉駅より徒歩にて３分</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県豊岡市城崎町湯島180 ／ 交通案内：ＪＲ　城崎温泉駅より徒歩にて３分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７台　無料のプランから有料のプランがあり、プランに料金は記載してます。　要予約</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -351,7 +351,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/140962/140962_kya.jpg" alt="城崎温泉　春日屋旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★外湯めぐり立地最高★帰ればほっとする懐かしの和室宿で賑わいを楽しむ城崎満喫旅！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県豊岡市城崎町湯島601 ／ 最寄り駅：主要駅 ／ 交通案内：城崎温泉駅より徒歩にて10分</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県豊岡市城崎町湯島601 ／ 交通案内：城崎温泉駅より徒歩にて10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>・有り（無料） ※お車でお越しの方は、ご予約時に【備考】欄へご記入ください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -373,7 +373,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/41857/41857_kya.jpg" alt="城崎温泉　みつわ旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>日本海の新鮮な魚介類を使ったお料理を満足していただけます。城崎を満喫するならこんな家庭的な宿がいい</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県豊岡市城崎町湯島220 ／ 最寄り駅：城崎 ／ 交通案内：山陰本線　城崎温泉駅より徒歩２～３分</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県豊岡市城崎町湯島220 ／ 最寄り駅：城崎 ／ 交通案内：山陰本線　城崎温泉駅より徒歩２～３分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料　専用駐車場あり※徒歩５分かかり各自移動。遠くて狭くて見つけにくい。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.88 ／ 立地 ★4.8 ／ 部屋 ★4.8 ／ 設備 ★4.8 ／ 風呂 ★4.82 ／ 食事 ★5</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -395,7 +395,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/151275/151275_kan1.jpg" alt="城崎温泉　山しろや旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>城崎温泉　旅館　おすすめ但馬牛と人気の蟹の宿　山しろや</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県豊岡市城崎町湯島245 ／ 最寄り駅：主要駅 ／ 交通案内：城崎温泉駅より徒歩にて約３分</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県豊岡市城崎町湯島245 ／ 交通案内：城崎温泉駅より徒歩にて約３分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>プランにより異なります（詳しくはプラン内容の下記に明記してありますのでご確認下さい）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -417,7 +417,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/147569/147569.jpg" alt="城崎温泉　風月魚匠（ふうげつぎょしょう） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2022年11月貸切風呂＆離れ特別室リニューアル！老舗鮮魚店プロデュース　大人だけの料理旅館！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県豊岡市城崎町湯島636-1 ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ：城崎温泉駅より徒歩20分/旅館組合乗合送迎バスあり　お車：北近畿豊岡道 豊岡出石ICでお降り下さい</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県豊岡市城崎町湯島636-1 ／ 交通案内：ＪＲ：城崎温泉駅より徒歩20分/旅館組合乗合送迎バスあり　お車：北近畿豊岡道 豊岡出石ICでお降り下さい</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場有　（10台予約不要）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -439,7 +439,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/70709/70709_h.jpg" alt="城崎　円山川温泉　銀花（共立リゾート） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>一流の料理人が選び抜き、美食にこだわる隠れ宿。悠にして閑、安にして穏なる宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県豊岡市小島1177 ／ 最寄り駅：主要駅 ／ 交通案内：JR城崎温泉駅より車10分（14：15～21：45まで送迎有。※予約制）。北近畿豊岡道【豊岡・出石IC】より約30分</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県豊岡市小島1177 ／ 交通案内：JR城崎温泉駅より車10分（14：15～21：45まで送迎有。※予約制）。北近畿豊岡道【豊岡・出石IC】より約30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（15台、無料）到着時、旅館門前にお車をお寄せください。スタッフが移動させます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

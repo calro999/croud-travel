@@ -310,37 +310,6 @@ export default function Page() {
           </div>
         </section>
 
-        {/* よくある質問 FAQ */}
-        <section className="mb-16 bg-white rounded-2xl shadow-sm border border-emerald-900/10 p-6 md:p-8">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">よくある質問・サウナリゾートの楽しみ方</h2>
-          <div className="space-y-4">
-            
-            <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-emerald-700 font-serif font-black text-lg">Q.</span>
-                <span>客室サウナは深夜や早朝でも利用できますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
-                客室専用サウナの多くは24時間いつでも自由に入浴可能です（一部の薪ストーブタイプを除く電気ヒーター式サウナの場合）。夜空の星を眺めながら、あるいは朝一番の目覚ましサウナを気兼ねなく楽しめます。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-emerald-700 font-serif font-black text-lg">Q.</span>
-                <span>サウナの温度は自由に調整できますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
-                多くの施設で80度〜100度前後まで好みの温度を設定でき、備え付けのアロマ水でセルフロウリュを行うことで、体感温度や湿度を自分好みにカスタマイズできます。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-emerald-700 font-serif font-black text-lg">Q.</span>
-                <span>カップルや夫婦、家族で一緒に入れますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
-                完全な客室専用スペースのため、水着を着てカップルやご夫婦、ファミリーで一緒にサウナ・水風呂・外気浴を楽しむことができます。記念日や特別な旅行の思い出作りに最適です。
-              </p>
-            </div>
-          </div>
-        </section>
-
         {/* 関連リンク */}
         <section className="bg-stone-200/70 rounded-2xl p-6 md:p-8 text-center border border-stone-300">
           <h3 className="text-xl font-bold text-stone-900 mb-3 font-serif">他のサウナ＆ウェルネス・癒しの宿を探す</h3>

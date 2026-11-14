@@ -395,37 +395,6 @@ export default function Page() {
           </div>
         </section>
 
-        {/* よくある質問 FAQ */}
-        <section className="mb-16 bg-white rounded-3xl shadow-sm border border-stone-200/80 p-6 md:p-10">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">よくある質問・ふるさと納税トラベルクーポンの疑問を解消</h2>
-          <div className="space-y-4">
-            
-            <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>ペットの同伴料金や施設使用料にもふるさと納税クーポンは充当できますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
-                宿泊プランの基本代金に含まれているペット同伴料金であれば、クーポン割引の対象となります。ただし、現地で追加清算するペットの食事代やトリミング代などは対象外となる場合があるため、「ペット料金込みプラン」を楽天トラベル上で予約するのがおすすめです。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>サウナ付き客室や貸切サウナの利用料金はクーポンに含まれますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
-                「サウナ付き客室プラン」や「貸切サウナ利用特典付きプラン」として楽天トラベルで販売されているものであれば、プラン料金全体に対してクーポンが適用されます。事前予約プランを賢く選ぶことで、サウナ利用代も含めて最大30％オフの恩恵を受けられます。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>愛犬の狂犬病予防接種証明書などは事前に必要ですか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
-                多くのペット同伴宿では、狂犬病および混合ワクチンの接種証明書（1年以内のもの）の提示が宿泊条件となっています。予約時に宿の公式案内や宿泊規約を必ず確認しておきましょう。
-              </p>
-            </div>
-          </div>
-        </section>
-
         {/* 相互回遊リンク（記事1〜4の循環導線） */}
         <section className="bg-stone-200/80 rounded-3xl p-6 md:p-10 border border-stone-300">
           <div className="text-center max-w-2xl mx-auto mb-8">

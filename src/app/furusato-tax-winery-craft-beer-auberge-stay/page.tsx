@@ -395,37 +395,6 @@ export default function Page() {
           </div>
         </section>
 
-        {/* よくある質問 FAQ */}
-        <section className="mb-16 bg-white rounded-3xl shadow-sm border border-stone-200/80 p-6 md:p-10">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">よくある質問・ふるさと納税トラベルクーポンの疑問を解消</h2>
-          <div className="space-y-4">
-            
-            <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>お酒がそこまで強くない人でも楽しめますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
-                多くのワイナリーホテルやオーベルジュでは、アルコール度数の低い微発泡ワインや、ワイナリー特製の高級ノンアルコールぶどうジュース、クラフトティーなどのノンアルコールペアリングも充実しており、お酒が苦手な方でも料理との調和を存分に堪能できます。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>ワイナリーの見学や醸造所ツアーは宿泊者限定で参加できますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
-                宿によっては、宿泊者限定のプライベートセラー見学や、醸造責任者（ワインメーカー）によるテイスティングセミナーが開催されている場合があります。収穫期（9月〜10月）にはブドウの収穫体験ができるイベントを用意しているところもあります。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>ワインの購入や配送はホテルから直接できますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
-                はい、ホテル内のセラーや直営ショップで購入したワインは、品質を損なわないようクール便で自宅へ一括配送してもらうことが可能です。重いボトルを持ち運ぶことなく手ぶらで帰路につけます。
-              </p>
-            </div>
-          </div>
-        </section>
-
         {/* 相互回遊リンク */}
         <section className="bg-stone-200/80 rounded-3xl p-6 md:p-10 border border-stone-300">
           <div className="text-center max-w-2xl mx-auto mb-8">

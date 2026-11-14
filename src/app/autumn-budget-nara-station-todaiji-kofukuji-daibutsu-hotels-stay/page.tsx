@@ -376,11 +376,11 @@ export default function AutumnBudgetHotelsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">奈良駅前：東大寺大仏殿＆古都紅葉・三輪そうめん・大和牛！3,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「奈良駅前：東大寺大仏殿＆古都紅葉・三輪そうめん・大和牛！3,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「奈良駅前：東大寺大仏殿＆古都紅葉・三輪そうめん・大和牛！3,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -462,7 +462,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/183843/183843.jpg" alt="いろはグランホテル近鉄奈良駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★近鉄駅４番出口徒歩２分！2022年7月1日グランドオープン【全室禁煙☆館内完全バリアフリ-】</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 奈良県奈良市小西町30-1 ／ 最寄り駅：近鉄奈良 ／ 交通案内：■近鉄奈良駅≪4番出口≫より【徒歩2分】　■JR奈良駅より【徒歩10分】　◆近鉄大和西大寺駅から2駅奈良駅徒歩2分</p>
+                  <p><strong>【所在地・アクセス】</strong>奈良県奈良市小西町30-1 ／ 最寄り駅：近鉄奈良 ／ 交通案内：■近鉄奈良駅≪4番出口≫より【徒歩2分】　■JR奈良駅より【徒歩10分】　◆近鉄大和西大寺駅から2駅奈良駅徒歩2分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>敷地外/有料提携駐車場16時～10時の18時間利用に限り1,300円の優待あり</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -484,7 +484,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/183057/183057.jpg" alt="アパホテル〈近鉄奈良駅前〉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>近鉄奈良線「近鉄奈良駅」（4番出口）徒歩4分、JR関西本線・奈良線「奈良駅」（東口）徒歩8分</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 奈良県奈良市上三条町29-1 ／ 最寄り駅：近鉄奈良 ／ 交通案内：近鉄奈良線「近鉄奈良駅」（4番出口）徒歩4分、JR関西本線・奈良線「奈良駅」（東口）徒歩8分</p>
+                  <p><strong>【所在地・アクセス】</strong>奈良県奈良市上三条町29-1 ／ 最寄り駅：近鉄奈良 ／ 交通案内：近鉄奈良線「近鉄奈良駅」（4番出口）徒歩4分、JR関西本線・奈良線「奈良駅」（東口）徒歩8分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.36 ／ 立地 ★4.13 ／ 部屋 ★4.3 ／ 設備 ★4.17 ／ 風呂 ★4.14 ／ 食事 ★4.32</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -506,7 +506,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/180976/180976.jpg" alt="変なホテルプレミア　奈良 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【近鉄奈良駅6番出口より徒歩約2分】奈良公園など観光地にも近く1階におしゃれな純喫茶レストラン♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 奈良県奈良市高天町46-1 ／ 最寄り駅：近鉄奈良 ／ 交通案内：近鉄奈良駅（奈良公園前）西出口6番より徒歩約２分・JR奈良駅より徒歩約10分</p>
+                  <p><strong>【所在地・アクセス】</strong>奈良県奈良市高天町46-1 ／ 最寄り駅：近鉄奈良 ／ 交通案内：近鉄奈良駅（奈良公園前）西出口6番より徒歩約２分・JR奈良駅より徒歩約10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>敷地外:有料提携駐車場(金子モータープール)16時～翌11時まで1,300円　※23～翌7時利用不可</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -528,7 +528,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/16815/16815_heya.jpg" alt="奈良　万葉若草の宿　三笠 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>可愛い小鹿が遊ぶ若草山近く。都会の喧騒を離れ、豊かな自然に囲まれた古都奈良の絶景に出会える宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 奈良県奈良市川上町728-10 ／ 最寄り駅：近鉄奈良 ／ 交通案内：近鉄線奈良駅から車で8分、JR線奈良駅から車で13分。（無料送迎バスあり・要予約）名阪自道車道天理ICから35分。</p>
+                  <p><strong>【所在地・アクセス】</strong>奈良県奈良市川上町728-10 ／ 最寄り駅：近鉄奈良 ／ 交通案内：近鉄線奈良駅から車で8分、JR線奈良駅から車で13分。（無料送迎バスあり・要予約）名阪自道車道天理ICから35分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台（無料）　奈良奥山ドライブウェイ料金所で発券される通行券をフロントへお持ちください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.43 ／ 立地 ★4.52 ／ 部屋 ★4.35 ／ 設備 ★4.16 ／ 風呂 ★4.31 ／ 食事 ★4.47</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -550,7 +550,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7850/7850_wa.jpg" alt="奈良白鹿荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>近鉄奈良駅徒歩すぐ☆清潔感のあるお部屋が好評☆お部屋食や古代檜の大浴場が自慢★</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 奈良県奈良市花芝町4 ／ 最寄り駅：近鉄奈良 ／ 交通案内：近鉄奈良駅1番出口より徒歩2～3分/阪神高速→第二阪奈道路→終点よりR369経由で約50分</p>
+                  <p><strong>【所在地・アクセス】</strong>奈良県奈良市花芝町4 ／ 最寄り駅：近鉄奈良 ／ 交通案内：近鉄奈良駅1番出口より徒歩2～3分/阪神高速→第二阪奈道路→終点よりR369経由で約50分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>なし／周辺駐車場のご利用については、当館ホームページをご覧ください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.37 ／ 立地 ★4.33 ／ 部屋 ★4.19 ／ 設備 ★4.14 ／ 風呂 ★4.27 ／ 食事 ★4.34</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

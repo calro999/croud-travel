@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">鳥取・皆生温泉＆伯耆大山：海の温泉・美保湾パノラマ＆境港松葉ガニ宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「鳥取・皆生温泉＆伯耆大山：海の温泉・美保湾パノラマ＆境港松葉ガニ宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「鳥取・皆生温泉＆伯耆大山：海の温泉・美保湾パノラマ＆境港松葉ガニ宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5020/5020_r1.jpg" alt="皆生温泉　皆生シーサイドホテル　海の四季 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【楽天アワード2025受賞】14年連続＆通算17回目！全室オーシャンフロント！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鳥取県米子市皆生温泉3-4-3 ／ 最寄り駅：米子 ／ 交通案内：米子自動車道・米子ＩＣより車で約10分、ＪＲ米子駅よりタクシー又はバスで約15分、米子空港よりタクシー又はバスで約20分</p>
+                  <p><strong>【所在地・アクセス】</strong>鳥取県米子市皆生温泉3-4-3 ／ 最寄り駅：米子 ／ 交通案内：米子自動車道・米子ＩＣより車で約10分、ＪＲ米子駅よりタクシー又はバスで約15分、米子空港よりタクシー又はバスで約20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場80台分完備。当館をご利用のお客様はいつでも駐車いただけます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2039/2039_heya1.jpg" alt="皆生温泉　皆生グランドホテル天水 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>7月18日レストランリニューアルオープン♪鳥取砂丘・出雲大社へ好アクセス♪山陰周遊の拠点に♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鳥取県米子市皆生温泉4-18-45 ／ 最寄り駅：米子 ／ 交通案内：ＪＲ米子駅より車で１５分、米子空港より車で２０分、米子自動車道米子ＩＣより車で１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>鳥取県米子市皆生温泉4-18-45 ／ 最寄り駅：米子 ／ 交通案内：ＪＲ米子駅より車で１５分、米子空港より車で２０分、米子自動車道米子ＩＣより車で１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料大駐車場　バス２０台・乗用車１００台</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2038/2038_heya.jpg" alt="皆生温泉　華水亭 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2026年7月18日お食事処リニューアルオープン♪日本海の眺望と季節の会席が愉しめる自家源泉の宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鳥取県米子市皆生温泉4-19-10 ／ 最寄り駅：米子 ／ 交通案内：ＪＲ米子駅より車で１５分、米子空港より車で２０分、米子自動車道米子ＩＣより車で１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>鳥取県米子市皆生温泉4-19-10 ／ 最寄り駅：米子 ／ 交通案内：ＪＲ米子駅より車で１５分、米子空港より車で２０分、米子自動車道米子ＩＣより車で１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　70台　バス10台　乗用車70台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/79349/79349_d.jpg" alt="ベイサイドスクエア　皆生ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ビジネスホテルのカジュアルさとリゾートホテルの寛ぎを兼ね合わせたコンフォートホテル</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鳥取県米子市皆生温泉4-21-1 ／ 最寄り駅：米子 ／ 交通案内：ＪＲ米子駅より皆生温泉行バス、観光センター下車徒歩５分</p>
+                  <p><strong>【所在地・アクセス】</strong>鳥取県米子市皆生温泉4-21-1 ／ 最寄り駅：米子 ／ 交通案内：ＪＲ米子駅より皆生温泉行バス、観光センター下車徒歩５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１４０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8496/8496_heya.jpg" alt="休暇村　奥大山　（旧　大山鏡ヶ成） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>自然豊かな高原で、四季折々くつろぎ楽しめる公共の宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鳥取県日野郡江府町御机字鏡ヶ成709-1 ／ 最寄り駅：根雨 ／ 交通案内：米子自動車道　蒜山ＩＣから約２０分／ＪＲ伯備線　根雨駅より送迎バス３０分</p>
+                  <p><strong>【所在地・アクセス】</strong>鳥取県日野郡江府町御机字鏡ヶ成709-1 ／ 最寄り駅：根雨 ／ 交通案内：米子自動車道　蒜山ＩＣから約２０分／ＪＲ伯備線　根雨駅より送迎バス３０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/184618/184618.jpg" alt="フェアフィールド・バイ・マリオット・岡山蒜山高原 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>Dog Friendly Room販売中。愛犬と一緒に偶然と発見に出会う旅へ。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岡山県真庭市蒜山上徳山1385-9 ／ 最寄り駅：武庫 ／ 交通案内：国道482号沿い。米子自動車道、蒜山ICから車で約2分。JR「江尾駅」車約20分。</p>
+                  <p><strong>【所在地・アクセス】</strong>岡山県真庭市蒜山上徳山1385-9 ／ 最寄り駅：武庫 ／ 交通案内：国道482号沿い。米子自動車道、蒜山ICから車で約2分。JR「江尾駅」車約20分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場56台／無料・先着順。満車時は近隣案内、詳細はフロント（0867-66-7550）まで</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -196,7 +196,7 @@ export default function Home() {
             <h2 className="text-2xl md:text-3xl font-black text-white mt-2 font-journal-serif">編集部総力取材！日本全国メガヒット決定版キラー特集</h2>
           </div>
           <span className="text-xs text-stone-400 font-medium bg-white/10 px-3 py-1.5 rounded-xl border border-white/10">
-            楽天トラベル公式APIリアルタイムデータ完全連携
+            宿泊施設データリアルタイムデータ完全連携
           </span>
         </div>
 

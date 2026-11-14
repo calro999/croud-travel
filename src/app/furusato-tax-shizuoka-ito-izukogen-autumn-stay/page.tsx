@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-shizuoka-ito-izukogen-autumn-stay/"
   };
 
@@ -482,11 +482,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">静岡・伊豆高原の里山紅葉＆城ヶ崎海岸！海を望む露天風呂と金目鯛姿煮・伊豆牛会席｜ふるさと納税で泊まれる名宿ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「静岡・伊豆高原の里山紅葉＆城ヶ崎海岸！海を望む露天風呂と金目鯛姿煮・伊豆牛会席｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「静岡・伊豆高原の里山紅葉＆城ヶ崎海岸！海を望む露天風呂と金目鯛姿煮・伊豆牛会席｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -550,7 +550,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/52638/52638_be.jpg" alt="杜の湯　きらの里（共立リゾート） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【2025年12月22日リニューアルオープン】里山を再現した湯宿☆3種の貸切風呂は全て無料</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県伊東市八幡野1326-5 ／ 最寄り駅：伊豆高原 ／ 交通案内：車：伊豆高原駅より送迎バスで約7分　車：小田原厚木道路『石橋IC』～国道135号線『中大見口』より県道112号線へ。</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県伊東市八幡野1326-5 ／ 最寄り駅：伊豆高原 ／ 交通案内：車：伊豆高原駅より送迎バスで約7分　車：小田原厚木道路『石橋IC』～国道135号線『中大見口』より県道112号線へ。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（５０台）無料・予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -572,7 +572,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/38761/38761_su.jpg" alt="伊豆高原温泉　客室露天風呂付リゾートホテル　コルテラルゴ伊豆高原 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全室天然温泉の露天風呂付◇熟練シェフによる創作イタリアンと健康志向こだわりの朝食</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県伊東市富戸1038-73 ／ 最寄り駅：伊豆高原 ／ 交通案内：伊豆急行線　伊豆高原駅より車にて１０分／東名　厚木ＩＣより小田原厚木道路経由、Ｒ１３５を下田方面へ１２０分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県伊東市富戸1038-73 ／ 最寄り駅：伊豆高原 ／ 交通案内：伊豆急行線　伊豆高原駅より車にて１０分／東名　厚木ＩＣより小田原厚木道路経由、Ｒ１３５を下田方面へ１２０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　９台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.88 ／ 立地 ★4.63 ／ 部屋 ★4.82 ／ 設備 ★4.81 ／ 風呂 ★4.81 ／ 食事 ★4.88</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -594,7 +594,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/187179/187179.jpg" alt="ＳＫＹ－ＨＩＬＬ　ＨＯＴＥＬ　伊豆高原 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>伊豆シャボテン動物公園がゼロ距離！大室山を身近に体感できる全室オーシャンビューのホテル</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県伊東市富戸1317-624 ／ 最寄り駅：伊豆高原 ／ 交通案内：伊豆高原駅よりバス17分　バス停より徒歩10分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県伊東市富戸1317-624 ／ 最寄り駅：伊豆高原 ／ 交通案内：伊豆高原駅よりバス17分　バス停より徒歩10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　18台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

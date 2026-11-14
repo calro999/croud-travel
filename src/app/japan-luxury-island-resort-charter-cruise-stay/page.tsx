@@ -228,11 +228,11 @@ export default function LuxuryPremiumHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">プライベートクルーズ＆離島ラグジュアリーリゾート：瀬戸内・伊勢志摩・八重山 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「プライベートクルーズ＆離島ラグジュアリーリゾート：瀬戸内・伊勢志摩・八重山 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「プライベートクルーズ＆離島ラグジュアリーリゾート：瀬戸内・伊勢志摩・八重山 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -314,7 +314,7 @@ export default function LuxuryPremiumHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/13971/13971_room.jpg" alt="グランドメルキュール伊勢志摩リゾート＆スパ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>心と身体が満たされる、海と森に抱かれる贅沢なひととき</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 三重県志摩市磯部町的矢笠取939-6 ／ 最寄り駅：志摩磯部 ／ 交通案内：近鉄 鵜方駅より定時シャトルバス約15分(予約不要　定時運行　公式HP参照)／伊勢西ＩＣよりお車約45分</p>
+                  <p><strong>【所在地・アクセス】</strong>三重県志摩市磯部町的矢笠取939-6 ／ 最寄り駅：志摩磯部 ／ 交通案内：近鉄 鵜方駅より定時シャトルバス約15分(予約不要　定時運行　公式HP参照)／伊勢西ＩＣよりお車約45分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>220台あり（無料・予約不可）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -336,7 +336,7 @@ export default function LuxuryPremiumHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/191475/191475.jpg" alt="ＴＨＥ　ＨＩＲＡＭＡＴＳＵ　ＨＯＴＥＬＳ　＆　ＲＥＳＯＲＴＳ　賢島 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>伊勢志摩の豊かな食材を愉しむ料理、温泉、スパが心と体を癒す究極のスモールラグジュアリー</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 三重県志摩市阿児町鵜方3618-52 ／ 最寄り駅：賢島 ／ 交通案内：近鉄志摩線　賢島駅から車で 約１５分</p>
+                  <p><strong>【所在地・アクセス】</strong>三重県志摩市阿児町鵜方3618-52 ／ 最寄り駅：賢島 ／ 交通案内：近鉄志摩線　賢島駅から車で 約１５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -358,7 +358,7 @@ export default function LuxuryPremiumHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/172942/172942_kan1.jpg" alt="一楽温泉ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>天然温泉と英虞湾を望む全室オーシャンビューのホテル。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 三重県志摩市志摩町和具2582-66 ／ 最寄り駅：賢島 ／ 交通案内：賢島駅よりお車にて約25分</p>
+                  <p><strong>【所在地・アクセス】</strong>三重県志摩市志摩町和具2582-66 ／ 最寄り駅：賢島 ／ 交通案内：賢島駅よりお車にて約25分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り １０～２０台 無料 予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -380,7 +380,7 @@ export default function LuxuryPremiumHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/111253/111253_kan.jpg" alt="直島ふるさと海の家　つつじ荘　＜直島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>目の前は瀬戸内海！美術館へのアクセス良好◎自然とアートを満喫できる施設♪リーズナブルに滞在できます！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 香川県香川郡直島町352-1 ／ 最寄り駅：主要駅 ／ 交通案内：【宮浦港】バス約15分・バス停「つつじ荘」目の前／車で約10分／自転車で約25分【直島港(本村)】徒歩で約25分</p>
+                  <p><strong>【所在地・アクセス】</strong>香川県香川郡直島町352-1 ／ 交通案内：【宮浦港】バス約15分・バス停「つつじ荘」目の前／車で約10分／自転車で約25分【直島港(本村)】徒歩で約25分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>つつじ荘隣の公共駐車場をご利用いただけます。（無料/予約不要/直島町営）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -402,7 +402,7 @@ export default function LuxuryPremiumHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/69360/69360_ro.jpg" alt="グランヴィリオリゾート石垣島　Ｏｃｅａｎ’ｓ　Ｗｉｎｇ　＆　Ｖｉｌｌａ　Ｇａｒｄｅｎ＜石垣島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>オーシャンズウィングとヴィラガーデン　趣の異なる２つの宿泊エリアと充実の施設が魅力的な南国リゾート</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県石垣市新川舟蔵2481-1 ／ 最寄り駅：石垣空港 ／ 交通案内：新石垣空港より車で40分</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県石垣市新川舟蔵2481-1 ／ 最寄り駅：石垣空港 ／ 交通案内：新石垣空港より車で40分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　110台収容　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.53 ／ 立地 ★4.47 ／ 部屋 ★4.48 ／ 設備 ★4.41 ／ 風呂 ★4.38 ／ 食事 ★4.5</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

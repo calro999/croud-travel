@@ -228,11 +228,11 @@ export default function TransitStyleHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">空港直行＆空港至近リゾート宿：羽田・成田・関空・福岡・那覇・千歳 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「空港直行＆空港至近リゾート宿：羽田・成田・関空・福岡・那覇・千歳 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「空港直行＆空港至近リゾート宿：羽田・成田・関空・福岡・那覇・千歳 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function TransitStyleHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/38600/38600_kya1.jpg" alt="礼文島プチホテル　コリンシアン＜礼文島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★ミシュランガイド北海道2017掲載★北海道の新鮮な海の幸を使った自慢の料理をご堪能ください。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道礼文郡礼文町船泊村ウエンナイホ293-1 ／ 最寄り駅：主要駅 ／ 交通案内：ハートランドフェリー　香深港より送迎バスで２０分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道礼文郡礼文町船泊村ウエンナイホ293-1 ／ 交通案内：ハートランドフェリー　香深港より送迎バスで２０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function TransitStyleHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/139989/139989_kya.jpg" alt="琉球温泉　瀬長島ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>那覇空港より一番近い離島”瀬長島”に天然温泉誕生！露天風呂付客室では源泉を楽しめます！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県豊見城市字瀬長174-5 ／ 最寄り駅：那覇空港 ／ 交通案内：那覇空港よりお車にて約15分/ 路線バスで約20分　那覇空港‐赤嶺駅‐瀬長島ホテル前</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県豊見城市字瀬長174-5 ／ 最寄り駅：那覇空港 ／ 交通案内：那覇空港よりお車にて約15分/ 路線バスで約20分　那覇空港‐赤嶺駅‐瀬長島ホテル前</p>
                   <p><strong>【駐車場・マイカー利用】</strong>200台有　宿泊者無料　予約不要　那覇空港から一番近いリゾートホテル</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function TransitStyleHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/178706/178706_kan1.jpg" alt="北谷温泉　レクー沖縄北谷スパ＆リゾート｜ＬｅＱｕ　沖縄北谷｜ベッセルホテルズ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>天然北谷温泉やバリエーションに富んだ客室を保有するベッセルグループ初のリゾートホテル</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県中頭郡北谷町美浜34-2 ／ 最寄り駅：那覇空港 ／ 交通案内：那覇空港より車で約４０分、沖縄アリーナより車で15分、北谷アメリカンビレッジとサンセットビーチまで徒歩５分以内</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県中頭郡北谷町美浜34-2 ／ 最寄り駅：那覇空港 ／ 交通案内：那覇空港より車で約４０分、沖縄アリーナより車で15分、北谷アメリカンビレッジとサンセットビーチまで徒歩５分以内</p>
                   <p><strong>【駐車場・マイカー利用】</strong>北谷アメリカンビレッジ近くのホテルに隣接の自走式立体駐車場無料　250台収容可能！</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function TransitStyleHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/188053/188053.jpg" alt="ＳＴＯＲＹＬＩＮＥ瀬長島 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【2024年4月開業】全室バルコニ－付！宿泊者専用ラウンジはドリンクフリー！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県豊見城市字瀬長155-1 ／ 最寄り駅：那覇空港 ／ 交通案内：那覇空港から車で約10分。路線バス「ウミカジライナー」で約20分「ストーリーライン瀬長島」で下車約1分</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県豊見城市字瀬長155-1 ／ 最寄り駅：那覇空港 ／ 交通案内：那覇空港から車で約10分。路線バス「ウミカジライナー」で約20分「ストーリーライン瀬長島」で下車約1分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>台数：屋外78台(無料)／時間：15:00〜翌11:00　／　先着順(事前予約・滞在中の確保不可)</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.47 ／ 立地 ★4.57 ／ 部屋 ★4.68 ／ 設備 ★4.47 ／ 風呂 ★4.46 ／ 食事 ★4.37</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function TransitStyleHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/67292/67292_yo.jpg" alt="アパホテル〈那覇松山〉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>国道58号線沿い。大浴殿と敷地内駐車場(46台)を備え、国際通り徒歩9分、なはーと徒歩5分の好立地</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県那覇市松山1-4-16 ／ 最寄り駅：主要駅 ／ 交通案内：那覇空港から車で最短10分、ゆいレール（モノレール）「県庁前」または「美栄橋」駅から徒歩約7分 新都心へは車で10分</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県那覇市松山1-4-16 ／ 交通案内：那覇空港から車で最短10分、ゆいレール（モノレール）「県庁前」または「美栄橋」駅から徒歩約7分 新都心へは車で10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>立体駐車場★先着順46台1泊1,500円 【車高1.8m制限有】※新規入庫は23時迄</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.99 ／ 立地 ★4.04 ／ 部屋 ★3.89 ／ 設備 ★3.94 ／ 風呂 ★3.99 ／ 食事 ★4.09</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function TransitStyleHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/168795/168795_kan1.jpg" alt="変なホテル福岡　博多 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【ギネス記録認定】恐竜ロボットがフロントでお出迎え♪中洲川端駅から徒歩3分の好立地ホテル！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福岡県福岡市博多区中洲5-4-19 ／ 最寄り駅：中洲川端 ／ 交通案内：中洲川端駅より徒歩３分／天神駅より徒歩５分／福岡空港より電車で９分</p>
+                  <p><strong>【所在地・アクセス】</strong>福岡県福岡市博多区中洲5-4-19 ／ 最寄り駅：中洲川端 ／ 交通案内：中洲川端駅より徒歩３分／天神駅より徒歩５分／福岡空港より電車で９分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場「Dパーキング中洲5丁目第一／第三／第六」24時間2,500円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

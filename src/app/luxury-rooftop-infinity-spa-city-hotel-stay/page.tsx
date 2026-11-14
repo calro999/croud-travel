@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/luxury-rooftop-infinity-spa-city-hotel-stay/"
   };
 
@@ -270,23 +270,6 @@ export default function Page() {
             ))}
           </div>
         </section>
-
-        {/* 旅のQ&A */}
-        <section className="bg-white rounded-2xl p-6 md:p-8 border border-stone-200 shadow-sm space-y-4">
-          <h2 className="text-lg md:text-xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">よくある質問・失敗しない宿選び</h2>
-          <div className="space-y-4 text-sm">
-            <div className="border border-stone-100 rounded-xl p-4 bg-stone-50/50 space-y-2">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5"><span className="text-emerald-700 font-black">Q.</span> おすすめの予約時期やタイミングは？</h3>
-              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">人気の日程（連休や週末）は1〜2ヶ月前には満室になることが多いため、早期予約（早割プラン）の利用がおすすめです。また楽天トラベルの「5と0のつく日」キャンペーンを活用すると最大20%オフのクーポンが併用でき、最もお得に予約できます。
-              </p>
-            </div>
-            <div className="border border-stone-100 rounded-xl p-4 bg-stone-50/50 space-y-2">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5"><span className="text-emerald-700 font-black">Q.</span> 宿選びで失敗しないためのポイントは？</h3>
-              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">宿泊者レビューのお風呂・お食事・接客評価が4.3以上の宿を選ぶと満足度が非常に高くなります。またアクセス手段（送迎バスの有無など）やプランに含まれる特典を事前に確認しておくと安心です。
-              </p>
-            </div>
-          </div>
-        </section>
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -416,11 +399,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：都会の摩天楼を見下ろすルーフトップ温泉＆夜景インフィニティスパホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：都会の摩天楼を見下ろすルーフトップ温泉＆夜景インフィニティスパホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：都会の摩天楼を見下ろすルーフトップ温泉＆夜景インフィニティスパホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -458,7 +441,7 @@ export default function Page() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. リブマックスリゾート宮浜温泉Ｏｃｅａｎ</td>
-                <td className="p-3 text-stone-600">秋田県</td>
+                <td className="p-3 text-stone-600">広島県廿日市市宮浜温泉2-13-10</td>
                 <td className="p-3 text-stone-600">山陽本線 [大野浦駅]から車で5分・[玖波駅]から車で5分・[宮島口駅</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.21（911件）</td>
@@ -467,7 +450,7 @@ export default function Page() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 神戸みなと温泉　蓮</td>
-                <td className="p-3 text-stone-600">秋田県</td>
+                <td className="p-3 text-stone-600">兵庫県神戸市中央区新港町1-1</td>
                 <td className="p-3 text-stone-600">JR大阪駅より新快速で21分、各線三宮駅からシャトルバスで5分。</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.64（1206件）</td>
@@ -476,7 +459,7 @@ export default function Page() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. アスティルホテル十三　プレシャス</td>
-                <td className="p-3 text-stone-600">秋田県</td>
+                <td className="p-3 text-stone-600">大阪府大阪市淀川区十三本町1-10-13</td>
                 <td className="p-3 text-stone-600">梅田から約5分、新大阪から約15分。阪急「十三駅」西口より徒歩約2分の</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（1199件）</td>
@@ -502,7 +485,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4730/4730_bas.jpg" alt="下呂温泉　湯あそびの宿　下呂観光ホテル本館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>絶景ランキング1位！インバウンド比率6.6％。団体客無しでゆっくりとくつろげる全室夜景自慢の宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岐阜県下呂市萩原町西上田2148-1 ／ 最寄り駅：下呂 ／ 交通案内：【JR】高山線下呂駅から徒歩1５分【車】中央道中津川I.Cより車で50分</p>
+                  <p><strong>【所在地・アクセス】</strong>岐阜県下呂市萩原町西上田2148-1 ／ 最寄り駅：下呂 ／ 交通案内：【JR】高山線下呂駅から徒歩1５分【車】中央道中津川I.Cより車で50分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料(一部プランにより有料もあり)　バイク専用屋根付き駐車場あり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.47 ／ 立地 ★4.38 ／ 部屋 ★4.39 ／ 設備 ★4.35 ／ 風呂 ★4.49 ／ 食事 ★4.6</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -524,7 +507,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/178447/178447.jpg" alt="ＨＯＴＥＬ　ＳＡＮＳＵＩ　ＮＡＨＡ　琉球温泉　波之上の湯 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>癒しの波上温泉とシースループール完備で那覇空港に一番近いスパ＆リゾート</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県那覇市辻2-25-1 ／ 最寄り駅：那覇空港 ／ 交通案内：空港から車で約8分◆ホテルと那覇空港を結ぶシャトルバスも運行中◆崖の上の「縁結びパワースポット」波上宮まで【徒歩4分】</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県那覇市辻2-25-1 ／ 最寄り駅：那覇空港 ／ 交通案内：空港から車で約8分◆ホテルと那覇空港を結ぶシャトルバスも運行中◆崖の上の「縁結びパワースポット」波上宮まで【徒歩4分】</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　42台　1,500円（税込み／泊）　先着順　※高さ制限有（175センチ）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -545,8 +528,8 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/178590/178590.jpg" alt="リブマックスリゾート宮浜温泉Ｏｃｅａｎ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「都会の摩天楼を見下ろすルーフトップ温泉＆夜景インフィニティスパホテル5選」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：山陽本線 [大野浦駅]から車で5分・[玖波駅]から車で5分・[宮島口駅]から車で15分　岩国空港から車で30分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>【2019年OPEN】宮島を望む全室天然温泉＆オーシャンビュー露天風呂付スパ＆リゾートホテル</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：山陽本線 [大野浦駅]から車で5分・[玖波駅]から車で5分・[宮島口駅]から車で15分　岩国空港から車で30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -567,8 +550,8 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/149298/149298.jpg" alt="神戸みなと温泉　蓮 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「都会の摩天楼を見下ろすルーフトップ温泉＆夜景インフィニティスパホテル5選」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：JR大阪駅より新快速で21分、各線三宮駅からシャトルバスで5分。</p>
+                  <p><strong>【宿の特徴・魅力】</strong>兵庫県神戸市中央区新港町1-1の「神戸みなと温泉 蓮」（楽天トラベル評価4.64（1208件）／1泊目安¥11,770〜）の魅力と宿泊ポイントを詳しく紹介。270度海に囲まれた天然温泉旅館。60㎡以上の客室は全室テラス付オーシャンビュー。客室の特徴や館内設備、食事プラン、最寄り駅・駐車場アクセスからお得な予約のコツまで詳しくまとめました。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：JR大阪駅より新快速で21分、各線三宮駅からシャトルバスで5分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -589,8 +572,8 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/177866/177866.jpg" alt="アスティルホテル十三　プレシャス 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「都会の摩天楼を見下ろすルーフトップ温泉＆夜景インフィニティスパホテル5選」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：梅田から約5分、新大阪から約15分。阪急「十三駅」西口より徒歩約2分の好立地です。</p>
+                  <p><strong>【宿の特徴・魅力】</strong>2020年新築OP！十三西口・徒歩２分！24時間ジアイーノ稼働中！男女別・露天壺湯・大浴場が魅力！</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：梅田から約5分、新大阪から約15分。阪急「十三駅」西口より徒歩約2分の好立地です。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -601,6 +584,9 @@ export default function Page() {
             </div>
           </div></section>
 
+              <div className="my-8">
+          <ShareButtons title="【2026年】都会の摩天楼を見下ろすルーフトップ温泉＆夜景インフィニティスパホテル5選" url="https://croud-travel.pages.dev/luxury-rooftop-infinity-spa-city-hotel-stay/" />
+        </div>
       </main>
     
       <HubRelatedPosts currentSlug="luxury-rooftop-infinity-spa-city-hotel-stay" />

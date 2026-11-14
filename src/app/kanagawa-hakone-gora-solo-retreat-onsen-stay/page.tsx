@@ -77,7 +77,7 @@ export default function ArticlePage() {
             神奈川・箱根強羅温泉ひとり旅＆高原リゾートおこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「箱根強羅温泉ひとり旅・濁り湯アートおこもり」箱根登山鉄道・大涌谷白濁温泉・創作フレンチ会席！箱根屈指の高級別荘地で癒やされる厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               大正時代に政財界人や文化人の保養地として開発された箱根屈指の高級温泉地・強羅。箱根登山ケーブルカーやロープウェイの起点でもあり、美術館や緑豊かな庭園が点在する落ち着いた街並みは、一人旅で静かに過ごしたい大人の旅人に最適です。
             </p>
             <p>
-              オーナーシェフが腕を振るうフレンチと極上の源泉かけ流し濁り湯が愛される隠れ宿から、箱根外輪山のパノラマを独り占めできる展望宿まで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              オーナーシェフが腕を振るうフレンチと極上の源泉かけ流し濁り湯が愛される隠れ宿から、箱根外輪山のパノラマを独り占めできる展望宿まで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -419,11 +419,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">箱根強羅温泉ひとり旅・濁り湯アートおこもり：箱根登山鉄道・大涌谷白濁温泉・創作フレンチ会席！箱根屈指の高級別荘地で癒やされる厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「箱根強羅温泉ひとり旅・濁り湯アートおこもり：箱根登山鉄道・大涌谷白濁温泉・創作フレンチ会席！箱根屈指の高級別荘地で癒やされる厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「箱根強羅温泉ひとり旅・濁り湯アートおこもり：箱根登山鉄道・大涌谷白濁温泉・創作フレンチ会席！箱根屈指の高級別荘地で癒やされる厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -487,7 +487,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/37475/37475_kya1.jpg" alt="箱根強羅温泉　コージーイン　箱根の山 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>当館の魅力がつまったページをご案内♪【宿からの情報】→『空飛ぶ石風呂』は夢見心地の温泉♪をクリック</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県足柄下郡箱根町強羅1320　かみごうら ／ 最寄り駅：強羅 ／ 交通案内：強羅駅⇒ケーブルカー上強羅駅右側下車⇒坂道登り徒歩５分。バス⇒小田原駅発伊豆箱根バス『上強羅入り口』下車　下り歩２～３分</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県足柄下郡箱根町強羅1320　かみごうら ／ 最寄り駅：強羅 ／ 交通案内：強羅駅⇒ケーブルカー上強羅駅右側下車⇒坂道登り徒歩５分。バス⇒小田原駅発伊豆箱根バス『上強羅入り口』下車　下り歩２～３分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>駐車可能台数制限有。要予約。無料。１２月〜３月スタッドレスタイヤ必須。降雪時公道まで除雪できません！</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★5 ／ 立地 ★4.91 ／ 部屋 ★4.89 ／ 設備 ★4.84 ／ 風呂 ★5 ／ 食事 ★4.95</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -509,7 +509,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/139885/139885_ka1.jpg" alt="強羅温泉　強羅　風の音 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>野菜をたっぷり使った創作イタリアンコース料理と乳白色の大涌谷温泉が自慢のホテルです。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県足柄下郡箱根町強羅1320-526 ／ 最寄り駅：強羅 ／ 交通案内：強羅駅から徒歩１５分　（坂道が多いため、強羅駅からケーブルカー公園下駅まで乗って頂くと比較的平坦な道でお越し頂けます）</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県足柄下郡箱根町強羅1320-526 ／ 最寄り駅：強羅 ／ 交通案内：強羅駅から徒歩１５分　（坂道が多いため、強羅駅からケーブルカー公園下駅まで乗って頂くと比較的平坦な道でお越し頂けます）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>2か所有（第一駐車場2台、第二駐車場16台：計18台）先着順、無料。ご利用は備考欄にご記入ください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.62 ／ 立地 ★4.18 ／ 部屋 ★4.52 ／ 設備 ★4.43 ／ 風呂 ★4.48 ／ 食事 ★4.66</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -531,7 +531,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/147481/147481_kan1.jpg" alt="絶景の癒しの湯宿　箱根　星のあかり 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>温かみのあるおもてなしと絶景に心癒される湯宿。２０１４年７月１２日オープン。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県足柄下郡箱根町仙石原1245-432 ／ 最寄り駅：箱根湯本 ／ 交通案内：箱根湯本駅から箱根登山バスにて約３０分、箱根カントリー入口下車（バス停からは送迎有り・要予約）</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県足柄下郡箱根町仙石原1245-432 ／ 最寄り駅：箱根湯本 ／ 交通案内：箱根湯本駅から箱根登山バスにて約３０分、箱根カントリー入口下車（バス停からは送迎有り・要予約）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１４台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

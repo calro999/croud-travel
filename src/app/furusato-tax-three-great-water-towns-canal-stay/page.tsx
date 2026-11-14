@@ -326,11 +326,11 @@ export default function FurusatoUpgradedPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大水郷の情緒あふれる川下りと水辺の名旅館×ふるさと納税厳選ガイド近江八幡・柳川・潮来：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本三大水郷の情緒あふれる川下りと水辺の名旅館×ふるさと納税厳選ガイド近江八幡・柳川・潮来」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「日本三大水郷の情緒あふれる川下りと水辺の名旅館×ふるさと納税厳選ガイド近江八幡・柳川・潮来」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -394,7 +394,7 @@ export default function FurusatoUpgradedPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/76886/76886_hwa.jpg" alt="休暇村　近江八幡 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>目の前は琵琶湖です。近江牛や郷土料理に舌鼓。温泉に入りながら琵琶湖を眺めるひとときをお楽しみ下さい</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 滋賀県近江八幡市沖島町宮ヶ浜 ／ 最寄り駅：主要駅 ／ 交通案内：JR　近江八幡駅より近江鉄道バス休暇村行きにて約43分　※近江鉄道バス休暇村行き、土日祝日運休</p>
+                  <p><strong>【所在地・アクセス】</strong>滋賀県近江八幡市沖島町宮ヶ浜 ／ 交通案内：JR　近江八幡駅より近江鉄道バス休暇村行きにて約43分　※近江鉄道バス休暇村行き、土日祝日運休</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５００台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -416,7 +416,7 @@ export default function FurusatoUpgradedPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/29756/29756_w.jpg" alt="柳川藩主立花邸　御花 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>柳川藩主の末裔が営む御屋敷で特別なひとときを。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福岡県柳川市新外町1 ／ 最寄り駅：西鉄柳川 ／ 交通案内：佐賀空港よりリムジンバスで30分／西鉄柳川駅よりタクシーで約１０分／九州自動車道みやま・柳川ＩＣより約25分</p>
+                  <p><strong>【所在地・アクセス】</strong>福岡県柳川市新外町1 ／ 最寄り駅：西鉄柳川 ／ 交通案内：佐賀空港よりリムジンバスで30分／西鉄柳川駅よりタクシーで約１０分／九州自動車道みやま・柳川ＩＣより約25分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　５０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -437,8 +437,8 @@ export default function FurusatoUpgradedPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/52239/52239_kya.jpg" alt="潮来ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「日本三大水郷の情緒あふれる川下りと水辺の名旅館×ふるさと納税厳選ガイド近江八幡・柳川・潮来」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 茨城県潮来市あやめ1-10-7 ／ 最寄り駅：潮来 ／ 交通案内：鹿島工業地帯まで車で20分、東京から車または高速バスで90分（バス停まで無料送迎有）、JR潮来駅徒歩4分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>潮来ホテル（茨城県潮来市あやめ1-10-7）は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>茨城県潮来市あやめ1-10-7 ／ 最寄り駅：潮来 ／ 交通案内：鹿島工業地帯まで車で20分、東京から車または高速バスで90分（バス停まで無料送迎有）、JR潮来駅徒歩4分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>バス、作業車等の大型車両可[連絡お願いします]/普通車100台程度駐車可/多数の場合、ご連絡を。無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

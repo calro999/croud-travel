@@ -236,7 +236,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -681,11 +681,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：神秘の地底空間へ。天然洞窟風呂＆鍾乳洞インフィニティ温泉の隠れ家宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：神秘の地底空間へ。天然洞窟風呂＆鍾乳洞インフィニティ温泉の隠れ家宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：神秘の地底空間へ。天然洞窟風呂＆鍾乳洞インフィニティ温泉の隠れ家宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -767,7 +767,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/11228/11228_s.jpg" alt="洞窟風呂の宿　百楽荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>静けさと、どこか懐かしい風景に心休まる。緑と海に囲まれた岬の一軒宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県鳳珠郡能登町越坂11-34 ／ 最寄り駅：九十九湾小木 ／ 交通案内：金沢駅から車で2時間半　金沢駅バスで3時間半　能登空港からタクシーで30分／バス停「九十九湾」送迎有り（要予約）</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県鳳珠郡能登町越坂11-34 ／ 最寄り駅：九十九湾小木 ／ 交通案内：金沢駅から車で2時間半　金沢駅バスで3時間半　能登空港からタクシーで30分／バス停「九十九湾」送迎有り（要予約）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２５台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -789,7 +789,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/44156/44156.jpg" alt="原鶴温泉　旅館とよとみ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>～至福のときを求めるあなたへ～　7つの湯めぐりで癒される原鶴の隠れ宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福岡県朝倉市杷木久喜宮1343-1 ／ 最寄り駅：筑後吉井 ／ 交通案内：ＪＲ　筑後吉井駅より車で１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>福岡県朝倉市杷木久喜宮1343-1 ／ 最寄り駅：筑後吉井 ／ 交通案内：ＪＲ　筑後吉井駅より車で１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -811,7 +811,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/44817/44817_room.jpg" alt="壁湯天然洞窟温泉旅館　福元屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>3つの秘湯の湯 美しい山間に佇む老舗旅館「福元屋」名物の壁湯は一見の価値あり！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大分県玖珠郡九重町町田62-1 ／ 最寄り駅：主要駅 ／ 交通案内：JR久大本線　豊後森駅より車で１５分／大分自動車道　九重ＩＣより車で１５分、玖珠ICより車で１５分</p>
+                  <p><strong>【所在地・アクセス】</strong>大分県玖珠郡九重町町田62-1 ／ 交通案内：JR久大本線　豊後森駅より車で１５分／大分自動車道　九重ＩＣより車で１５分、玖珠ICより車で１５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -833,7 +833,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2370/2370_heya.jpg" alt="水上温泉郷　湯檜曽温泉　天空の湯　なかや旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>4万組以上のママパパに選ばれた赤ちゃんファーストの温泉宿★安心の設備でママもほっと一息できる癒し時間</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県利根郡みなかみ町湯桧曽93 ／ 最寄り駅：上毛高原 ／ 交通案内：車：水上ICから約15分　車以外：上越線ゆびそ駅より徒歩5分、又は水上駅よりバス・タクシーで約10分</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県利根郡みなかみ町湯桧曽93 ／ 最寄り駅：上毛高原 ／ 交通案内：車：水上ICから約15分　車以外：上越線ゆびそ駅より徒歩5分、又は水上駅よりバス・タクシーで約10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　16台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.84 ／ 立地 ★4.6 ／ 部屋 ★4.62 ／ 設備 ★4.65 ／ 風呂 ★4.77 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -855,7 +855,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/130588/130588_war.jpg" alt="かみのやま温泉　はたや旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>お食事は個室で♪温泉は男女別お部屋毎貸切でゆっくりと♪「鮮度1秒」の温泉と自慢の自家製野菜。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県上山市新湯5-1 ／ 最寄り駅：かみのやま温泉 ／ 交通案内：かみのやま温泉駅徒歩１５分、お車２分</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県上山市新湯5-1 ／ 最寄り駅：かみのやま温泉 ／ 交通案内：かみのやま温泉駅徒歩１５分、お車２分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場有り（8台まで）　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

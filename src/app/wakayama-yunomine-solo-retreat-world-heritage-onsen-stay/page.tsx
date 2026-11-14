@@ -77,7 +77,7 @@ export default function ArticlePage() {
             和歌山・湯の峰温泉ひとり旅＆世界遺産つぼ湯おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「世界遺産・湯の峰温泉ひとり旅・開湯1800年つぼ湯おこもり」日本最古の共同浴場・小栗判官伝説・七色に変わる奇跡の源泉！熊野本宮大社参拝厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               開湯約1800年、熊野古道の祈りの道に湧き続ける湯の峰温泉。渓流沿いに自噴する高温の含硫黄-ナトリウム-炭酸水素塩・塩化物泉は、小栗判官が病を癒やした「蘇生伝説」の舞台としても名高く、日によって七色に湯の色が変わる天然岩風呂「つぼ湯」は世界遺産に登録されています。温泉水で炊き上げた茶粥や温泉卵など、地球の恵みをいただく素朴な湯治文化が一人旅の心を洗います。
             </p>
             <p>
-              口コミ満点評価に近いアットホームな名物旅館から、大正・昭和の風情を残す老舗数寄屋宿まで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              口コミ満点評価に近いアットホームな名物旅館から、大正・昭和の風情を残す老舗数寄屋宿まで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -423,11 +423,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">世界遺産・湯の峰温泉ひとり旅・開湯1800年つぼ湯おこもり：日本最古の共同浴場・小栗判官伝説・七色に変わる奇跡の源泉！熊野本宮大社参拝厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「世界遺産・湯の峰温泉ひとり旅・開湯1800年つぼ湯おこもり：日本最古の共同浴場・小栗判官伝説・七色に変わる奇跡の源泉！熊野本宮大社参拝厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「世界遺産・湯の峰温泉ひとり旅・開湯1800年つぼ湯おこもり：日本最古の共同浴場・小栗判官伝説・七色に変わる奇跡の源泉！熊野本宮大社参拝厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -491,7 +491,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/106190/106190_spa.jpg" alt="よしのや旅館　＜和歌山県＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>湯の峰温泉では数少ない貸切露天風呂を有し、温泉を使った創作料理でおもてなし。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県田辺市本宮町湯ノ峰359 ／ 最寄り駅：紀伊田辺 ／ 交通案内：紀伊田辺駅よりバスにて８０分／新宮駅よりバスにて７０分</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県田辺市本宮町湯ノ峰359 ／ 最寄り駅：紀伊田辺 ／ 交通案内：紀伊田辺駅よりバスにて８０分／新宮駅よりバスにて７０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -513,7 +513,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/129554/129554_rm1.jpg" alt="旅館あづまや　＜和歌山県＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>名湯と温泉料理の宿で知られている当館。熊野古道のメッカ、本宮に在り、つぼ湯が目印です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県田辺市本宮町湯峰122 ／ 最寄り駅：新宮 ／ 交通案内：紀伊田辺駅よりバス・タクシーで約９０分/新宮駅よりバス、タクシーで６０分「湯峰温泉」下車すぐ/南紀田辺ＩＣから車で70分</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県田辺市本宮町湯峰122 ／ 最寄り駅：新宮 ／ 交通案内：紀伊田辺駅よりバス・タクシーで約９０分/新宮駅よりバス、タクシーで６０分「湯峰温泉」下車すぐ/南紀田辺ＩＣから車で70分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.5 ／ 立地 ★4.55 ／ 部屋 ★4.4 ／ 設備 ★3.94 ／ 風呂 ★4.59 ／ 食事 ★4.55</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -535,7 +535,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/106244/106244_ru.jpg" alt="民宿あづまや荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>泉質の良い温泉と、温泉を使ったお料理で、家庭的なおもてなし。身も心もほっこりと</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県田辺市本宮町湯峯71 ／ 最寄り駅：紀伊田辺 ／ 交通案内：紀伊田辺駅よりお車にて７０分、バスにて９０分／新宮駅よりお車にて５０分</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県田辺市本宮町湯峯71 ／ 最寄り駅：紀伊田辺 ／ 交通案内：紀伊田辺駅よりお車にて７０分、バスにて９０分／新宮駅よりお車にて５０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.96 ／ 立地 ★4.2 ／ 部屋 ★3.6 ／ 設備 ★3.32 ／ 風呂 ★4.44 ／ 食事 ★4.25</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

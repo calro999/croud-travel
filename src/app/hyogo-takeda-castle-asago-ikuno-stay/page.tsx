@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">兵庫・竹田城跡＆朝来・生野銀山：雲海に浮かぶ天空の城・生野鉱山坑道＆但馬牛宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「兵庫・竹田城跡＆朝来・生野銀山：雲海に浮かぶ天空の城・生野鉱山坑道＆但馬牛宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「兵庫・竹田城跡＆朝来・生野銀山：雲海に浮かぶ天空の城・生野鉱山坑道＆但馬牛宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -261,7 +261,7 @@ export default function MicroTouristHubPage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 山陰湯村温泉　湧泉の宿　ゆあむ</td>
-                <td className="p-3 text-stone-600">兵庫県</td>
+                <td className="p-3 text-stone-600">兵庫県美方郡新温泉町湯1610</td>
                 <td className="p-3 text-stone-600">近畿豊岡道日高神鍋高原ICより約35分/大阪梅田より阪急特急バス「湯村</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.47（1528件）</td>
@@ -305,7 +305,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/136998/136998_kya.jpg" alt="ファーストホテルいずみ（旧：いずみ旅館　＜兵庫県＞） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ふるさとの温もりとホテルの快適さを兼ね揃えた静かな憩いの宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県朝来市和田山町寺谷712-10 ／ 最寄り駅：和田山 ／ 交通案内：和田山駅より徒歩にて３分  和田山インターより車で１0分</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県朝来市和田山町寺谷712-10 ／ 最寄り駅：和田山 ／ 交通案内：和田山駅より徒歩にて３分  和田山インターより車で１0分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -326,8 +326,8 @@ export default function MicroTouristHubPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/10636/10636.jpg" alt="山陰湯村温泉　湧泉の宿　ゆあむ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「兵庫・竹田城跡＆朝来・生野銀山（雲海に浮かぶ天空の城・生野鉱山坑道＆但馬牛宿 厳選ガイド）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：近畿豊岡道日高神鍋高原ICより約35分/大阪梅田より阪急特急バス「湯村温泉行」1日1～2便</p>
+                  <p><strong>【宿の特徴・魅力】</strong>【和モダンな温泉宿】2023年2月温泉付客室＜かわみ＞3タイプ誕生。全34室</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：近畿豊岡道日高神鍋高原ICより約35分/大阪梅田より阪急特急バス「湯村温泉行」1日1～2便</p>
                   <p>【兵庫・竹田城跡＆朝来・生野銀山：雲海に浮かぶ天空の城】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -349,7 +349,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/167271/167271_kan1.jpg" alt="群鶴亭 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>風情のある旅館で、心を込めたお料理をご用意いたします。天空の城「竹田城跡」へ１０分程のお宿です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県朝来市和田山町和田山283 ／ 最寄り駅：和田山 ／ 交通案内：ＪＲ　和田山駅より徒歩にて約７分</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県朝来市和田山町和田山283 ／ 最寄り駅：和田山 ／ 交通案内：ＪＲ　和田山駅より徒歩にて約７分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４台　無料　要予約</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -371,7 +371,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/183930/183930.jpg" alt="湯村温泉郷　御宿コトブキ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>7月8月は白いか姿造り（2、3名様に1匹）、9月10月は香住ガニを全ての夕食にお付けします。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県美方郡新温泉町湯1561-1 ／ 最寄り駅：浜坂 ／ 交通案内：JR浜坂駅よりバスで約15分　八鹿氷ノ山ICより車で50分（冬期は冬用タイヤの着用をお願いします）</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県美方郡新温泉町湯1561-1 ／ 最寄り駅：浜坂 ／ 交通案内：JR浜坂駅よりバスで約15分　八鹿氷ノ山ICより車で50分（冬期は冬用タイヤの着用をお願いします）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　16台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

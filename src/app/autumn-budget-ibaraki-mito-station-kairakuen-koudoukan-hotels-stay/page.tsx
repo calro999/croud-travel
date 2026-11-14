@@ -376,11 +376,11 @@ export default function AutumnBudgetHotelsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">水戸駅前：国指定特別史跡弘道館＆名物あんこう鍋！2,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「水戸駅前：国指定特別史跡弘道館＆名物あんこう鍋！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「水戸駅前：国指定特別史跡弘道館＆名物あんこう鍋！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -462,7 +462,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/151370/151370_kan1.jpg" alt="アパホテル〈水戸駅前〉 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ＪＲ水戸駅（南口）徒歩3分【全室有線ＬＡＮ＆Ｗｉ－Ｆｉ接続無料】</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 茨城県水戸市桜川1-1-6 ／ 最寄り駅：水戸 ／ 交通案内：JR常磐線　水戸駅から徒歩3分！★☆ビジネス利用・観光利用にも便利！！☆★</p>
+                  <p><strong>【所在地・アクセス】</strong>茨城県水戸市桜川1-1-6 ／ 最寄り駅：水戸 ／ 交通案内：JR常磐線　水戸駅から徒歩3分！★☆ビジネス利用・観光利用にも便利！！☆★</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無し（近隣のコインパーキングのご案内になります。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.01 ／ 立地 ★3.92 ／ 部屋 ★3.89 ／ 設備 ★3.73 ／ 風呂 ★3.55 ／ 食事 ★3.82</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -484,7 +484,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2736/2736_si.jpg" alt="アパホテル〈水戸駅北〉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>日替わり海鮮・ローストビーフ・農園直送野菜など人気全30品目朝食ビュッフェ／Wi-Fi完備</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 茨城県水戸市南町1-3-18 ／ 最寄り駅：水戸 ／ 交通案内：◆JR水戸駅北口から国道50号を大工町方面へ徒歩8分♪　◆常磐自動車道水戸ICから水戸市街方面へ車で約20分♪</p>
+                  <p><strong>【所在地・アクセス】</strong>茨城県水戸市南町1-3-18 ／ 最寄り駅：水戸 ／ 交通案内：◆JR水戸駅北口から国道50号を大工町方面へ徒歩8分♪　◆常磐自動車道水戸ICから水戸市街方面へ車で約20分♪</p>
                   <p><strong>【駐車場・マイカー利用】</strong>先着18台500円　満車時は提携駐車場ご案内(条件により)　提携駐車場満車時は近隣コインパーキングへ</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.01 ／ 立地 ★3.7 ／ 部屋 ★3.78 ／ 設備 ★3.81 ／ 風呂 ★3.55 ／ 食事 ★4.3</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -506,7 +506,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/52989/52989_s.jpg" alt="東横ＩＮＮ水戸駅南口 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ＪＲ水戸駅から徒歩5分で朝食・小学生以下添い寝無料のホテル！ひたち海浜公園までJRで20分</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 茨城県水戸市桜川2-3-40 ／ 最寄り駅：水戸 ／ 交通案内：ＪＲ　水戸駅より徒歩５分</p>
+                  <p><strong>【所在地・アクセス】</strong>茨城県水戸市桜川2-3-40 ／ 最寄り駅：水戸 ／ 交通案内：ＪＲ　水戸駅より徒歩５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>78台先着順にて1泊500〜1200円　満車の場合は近隣コインパーキング</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.98 ／ 立地 ★3.77 ／ 部屋 ★4.14 ／ 設備 ★3.93 ／ 風呂 ★3.88 ／ 食事 ★4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -528,7 +528,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/196793/196793.jpg" alt="コンフォートホテル水戸 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2025年11月5日開業◆JR水戸駅より徒歩約4分◆水戸南ICより車で約12分◆彩り豊かな無料朝食付</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 茨城県水戸市桜川1-1-23 ／ 最寄り駅：水戸 ／ 交通案内：JR「水戸駅」より徒歩4分、北関東自動車道「水戸南IC」より車で約12分。</p>
+                  <p><strong>【所在地・アクセス】</strong>茨城県水戸市桜川1-1-23 ／ 最寄り駅：水戸 ／ 交通案内：JR「水戸駅」より徒歩4分、北関東自動車道「水戸南IC」より車で約12分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>敷地内駐車場　4台　先着順　1泊（14時〜翌11時）800円（時間外100円/1時間）　※車種制限有</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.4 ／ 立地 ★4.31 ／ 部屋 ★4.45 ／ 設備 ★4.37 ／ 風呂 ★4.27 ／ 食事 ★4.23</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -550,7 +550,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/28434/28434_s.jpg" alt="スマイルホテル水戸 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>■全室無料ＬＡＮ接続可能■セミダブルサイズベッド（幅1230mm）仕様■シャワートイレ付</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 茨城県水戸市桜川1-5-6 ／ 最寄り駅：水戸 ／ 交通案内：ＪＲ常磐線・水戸駅南口徒歩3分/北関東自動車道・水戸南ICより15分/常磐自動車道・水戸ＩＣ～20分</p>
+                  <p><strong>【所在地・アクセス】</strong>茨城県水戸市桜川1-5-6 ／ 最寄り駅：水戸 ／ 交通案内：ＪＲ常磐線・水戸駅南口徒歩3分/北関東自動車道・水戸南ICより15分/常磐自動車道・水戸ＩＣ～20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有料駐車場〜先着順、2021/12/31日まで1泊500円〜2022/1/1日より1泊800円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.57 ／ 立地 ★3.84 ／ 部屋 ★3.64 ／ 設備 ★3.59 ／ 風呂 ★3.53 ／ 食事 ★3.66</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

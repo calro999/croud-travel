@@ -455,11 +455,11 @@ export default function SilverWeekGlampingKyushuFukuokaKumamotoPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">九州シルバーウィーク グランピング：阿蘇カルデラ・糸島ビーチ・由布院温泉の極上ステイ：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「九州シルバーウィーク グランピング：阿蘇カルデラ・糸島ビーチ・由布院温泉の極上ステイ」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「九州シルバーウィーク グランピング：阿蘇カルデラ・糸島ビーチ・由布院温泉の極上ステイ」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -523,7 +523,7 @@ export default function SilverWeekGlampingKyushuFukuokaKumamotoPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/171946/171946_kan1.jpg" alt="全室源泉かけ流し温泉付き旅館＆グランピング　美肌の湯　こしかの温泉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>温泉宿・グランピング全室で源泉掛け流しの天然炭酸泉が満喫できます。ペットOKの客室もございます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県霧島市隼人町松永2625 ／ 最寄り駅：日当山 ／ 交通案内：鹿児島空港より車で約15分【19時までなら鹿児島空港・国分駅まで無料送迎（要予約）】</p>
+                  <p><strong>【所在地・アクセス】</strong>鹿児島県霧島市隼人町松永2625 ／ 最寄り駅：日当山 ／ 交通案内：鹿児島空港より車で約15分【19時までなら鹿児島空港・国分駅まで無料送迎（要予約）】</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（無料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.55 ／ 立地 ★4.38 ／ 部屋 ★4.47 ／ 設備 ★4.51 ／ 風呂 ★4.68 ／ 食事 ★4.55</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -545,7 +545,7 @@ export default function SilverWeekGlampingKyushuFukuokaKumamotoPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/179214/179214_kan1.jpg" alt="ザ・リトリート 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>快適なホテルとグランピングの融合施設！21時までドリンク（アルコール含）、アクティビティもALL無料</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福岡県飯塚市仁保8-37 ／ 最寄り駅：新飯塚 ／ 交通案内：ＪＲ　新飯塚駅よりお車にて約１５分</p>
+                  <p><strong>【所在地・アクセス】</strong>福岡県飯塚市仁保8-37 ／ 最寄り駅：新飯塚 ／ 交通案内：ＪＲ　新飯塚駅よりお車にて約１５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -567,7 +567,7 @@ export default function SilverWeekGlampingKyushuFukuokaKumamotoPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/196407/196407.jpg" alt="グランシア別府鉄輪 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全棟半露天風呂付！天然温泉×部屋食×プライベートグランピング</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大分県別府市鶴見照湯1409-1 ／ 最寄り駅：別府（大分） ／ 交通案内：別府駅西口より「APU立命館アジア太平洋大学」行のバスにご乗車頂き、「照湯」で下車後、徒歩1分。</p>
+                  <p><strong>【所在地・アクセス】</strong>大分県別府市鶴見照湯1409-1 ／ 最寄り駅：別府（大分） ／ 交通案内：別府駅西口より「APU立命館アジア太平洋大学」行のバスにご乗車頂き、「照湯」で下車後、徒歩1分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>【無料駐車場あり】100台・予約不要・当施設前の有料駐車場に停車後、駐車券を受付へお持ちください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

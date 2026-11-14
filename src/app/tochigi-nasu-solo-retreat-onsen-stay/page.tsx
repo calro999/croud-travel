@@ -77,7 +77,7 @@ export default function ArticlePage() {
             栃木・那須温泉ひとり旅＆高原御用邸リゾートおこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「那須温泉ひとり旅・御用邸高原おこもり」茶臼岳絶景露天・鹿の湯白濁泉・那須黒毛和牛！森の静寂に包まれる高原リゾート厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               奈良時代に傷ついた鹿が温泉で癒やしていたことから発見されたと伝わる名湯「鹿の湯」をはじめ、多彩な泉質を持つ湯本温泉郷・那須。皇室が静養に訪れる御用邸の地としても名高く、豊かな自然と洗練されたカフェや美術館が点在し、上質な一人旅が叶います。
             </p>
             <p>
-              広大なゴルフコースや森に囲まれたラグジュアリーリゾートから、高嶺の絶景を望む秘湯宿まで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              広大なゴルフコースや森に囲まれたラグジュアリーリゾートから、高嶺の絶景を望む秘湯宿まで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -419,11 +419,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">那須温泉ひとり旅・御用邸高原おこもり：茶臼岳絶景露天・鹿の湯白濁泉・那須黒毛和牛！森の静寂に包まれる高原リゾート厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「那須温泉ひとり旅・御用邸高原おこもり：茶臼岳絶景露天・鹿の湯白濁泉・那須黒毛和牛！森の静寂に包まれる高原リゾート厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「那須温泉ひとり旅・御用邸高原おこもり：茶臼岳絶景露天・鹿の湯白濁泉・那須黒毛和牛！森の静寂に包まれる高原リゾート厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -443,7 +443,7 @@ export default function ArticlePage() {
               <tbody className="divide-y divide-stone-200">
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 那須温泉　ホテルハーヴェスト那須</td>
-                <td className="p-3 text-stone-600">宮城県</td>
+                <td className="p-3 text-stone-600">栃木県那須郡那須町高久丙1792</td>
                 <td className="p-3 text-stone-600">那須塩原駅より無料シャトルバス運行（定期・前日までの完全予約制）</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.34（685件）</td>
@@ -486,8 +486,8 @@ export default function ArticlePage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/73998/73998.jpg" alt="那須温泉　ホテルハーヴェスト那須 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「那須温泉ひとり旅・御用邸高原おこもり（茶臼岳絶景露天・鹿の湯白濁泉・那須黒毛和牛）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：那須塩原駅より無料シャトルバス運行（定期・前日までの完全予約制）</p>
+                  <p><strong>【宿の特徴・魅力】</strong>「那須温泉ひとり旅・御用邸高原おこもり」掲載宿の所在地・アクセス・特徴データ一覧は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：那須塩原駅より無料シャトルバス運行（定期・前日までの完全予約制）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -509,7 +509,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/28383/28383_room.jpg" alt="那須温泉　旅館ニューおおたか 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>那須エリアで一番の標高！絶景展望露天風呂で温泉浴を楽しめる宿♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県那須郡那須町湯本269 ／ 最寄り駅：黒磯 ／ 交通案内：在来線：JR黒磯駅／新幹線：JR那須塩原駅／東北自動車道 那須ICより50分</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県那須郡那須町湯本269 ／ 最寄り駅：黒磯 ／ 交通案内：在来線：JR黒磯駅／新幹線：JR那須塩原駅／東北自動車道 那須ICより50分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -531,7 +531,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/935/935_room.jpg" alt="那須温泉　ホテルフォレストヒルズ那須　ｗｉｔｈ　ＤＯＧＳ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>＜愛犬と泊まる宿＞那須高原の隠れ家リゾート／温泉付客室多数／全館プライベートコテージ ペットと一緒旅</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県那須郡那須町高久乙1880 ／ 最寄り駅：那須塩原 ／ 交通案内：安心＆安全な愛犬との旅をお約束＜全館 独立コテージタイプ・ペットと泊まる宿＞“北関東最大級”愛犬同伴の複合型リゾート♪</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県那須郡那須町高久乙1880 ／ 最寄り駅：那須塩原 ／ 交通案内：安心＆安全な愛犬との旅をお約束＜全館 独立コテージタイプ・ペットと泊まる宿＞“北関東最大級”愛犬同伴の複合型リゾート♪</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　60台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.45 ／ 立地 ★4.35 ／ 部屋 ★4.2 ／ 設備 ★4.22 ／ 風呂 ★4.16 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

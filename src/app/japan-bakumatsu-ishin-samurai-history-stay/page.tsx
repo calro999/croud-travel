@@ -228,11 +228,11 @@ export default function HistoryHeritageHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">幕末維新の歴史浪漫宿：萩・会津若松・高知・薩摩・龍馬ゆかりの宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「幕末維新の歴史浪漫宿：萩・会津若松・高知・薩摩・龍馬ゆかりの宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「幕末維新の歴史浪漫宿：萩・会津若松・高知・薩摩・龍馬ゆかりの宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function HistoryHeritageHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/54096/54096_room.jpg" alt="萩温泉郷　夕景の宿　海のゆりかご　萩小町 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【楽天トラベルアワード　10年連続受賞】～日本海の絶景が楽しめる・癒し＆遊びが盛り沢山の宿～</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山口県萩市椿東越ヶ浜6509 ／ 最寄り駅：東萩 ／ 交通案内：「JR東萩駅」より車で10分／世界遺産「松下村塾」より車で10分／無料送迎サービスも有り！詳細はお気軽に問合せ下さい。</p>
+                  <p><strong>【所在地・アクセス】</strong>山口県萩市椿東越ヶ浜6509 ／ 最寄り駅：東萩 ／ 交通案内：「JR東萩駅」より車で10分／世界遺産「松下村塾」より車で10分／無料送迎サービスも有り！詳細はお気軽に問合せ下さい。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>60台（無料）／予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function HistoryHeritageHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/39377/39377_ba.jpg" alt="会津東山温泉　今昔亭（こんじゃくてい） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>美しき隠れ家「今昔亭」へようこそ。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県会津若松市東山町湯本247 ／ 最寄り駅：会津若松 ／ 交通案内：ＪＲ磐越西線　会津若松駅からタクシーで１５分／磐越自動車道　会津若松ＩＣから２０分☆送迎は要連絡☆</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県会津若松市東山町湯本247 ／ 最寄り駅：会津若松 ／ 交通案内：ＪＲ磐越西線　会津若松駅からタクシーで１５分／磐越自動車道　会津若松ＩＣから２０分☆送迎は要連絡☆</p>
                   <p>【幕末維新の歴史浪漫宿：萩・会津若松・高知・薩摩・龍馬】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.52 ／ 立地 ★4.12 ／ 部屋 ★4.13 ／ 設備 ★4.06 ／ 風呂 ★4.34 ／ 食事 ★4.41</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function HistoryHeritageHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7330/7330_war.jpg" alt="東山温泉　元湯有馬屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>囲炉裏でのお食事と源泉掛け流しの宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県会津若松市東山町湯本居平118 ／ 最寄り駅：会津若松 ／ 交通案内：JR磐越西線会津若松駅よりバスで20分／磐越自動車道会津若松ICより車で15分</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県会津若松市東山町湯本居平118 ／ 最寄り駅：会津若松 ／ 交通案内：JR磐越西線会津若松駅よりバスで20分／磐越自動車道会津若松ICより車で15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　先着順　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function HistoryHeritageHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7526/7526_fr.jpg" alt="会津東山温泉　くつろぎ宿　新滝 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>明治、大正、昭和と多くの文人、墨客に愛された宿です。趣の異なる多彩な湯処が自慢。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県会津若松市東山町湯本川向222 ／ 最寄り駅：会津若松 ／ 交通案内：【お車】会津若松ＩＣ～約２０分【会津若松駅より】タクシー１３分／周遊バス「あかべぇ」１６分「東山温泉駅バス停」～徒歩３分</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県会津若松市東山町湯本川向222 ／ 最寄り駅：会津若松 ／ 交通案内：【お車】会津若松ＩＣ～約２０分【会津若松駅より】タクシー１３分／周遊バス「あかべぇ」１６分「東山温泉駅バス停」～徒歩３分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場は80台まで無料で可能です★予約は不要です★大型車でのご来館は事前にご相談ください★</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.62 ／ 立地 ★4.49 ／ 部屋 ★4.66 ／ 設備 ★4.57 ／ 風呂 ★4.7 ／ 食事 ★4.72</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function HistoryHeritageHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5887/5887_nk.jpg" alt="会津東山温泉　いろりの宿　芦名 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>7つの囲炉裏に7つの客室。懐かしい佇まいのいろりの宿。お客様より４つ星以上の人気宿に選ばれました</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県会津若松市東山町湯本下原232-1 ／ 最寄り駅：会津若松 ／ 交通案内：最寄駅：会津若松駅からタクシー又は「東山温泉」へ向かう路線バスで約20分　最寄IC:会津若松から約15分</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県会津若松市東山町湯本下原232-1 ／ 最寄り駅：会津若松 ／ 交通案内：最寄駅：会津若松駅からタクシー又は「東山温泉」へ向かう路線バスで約20分　最寄IC:会津若松から約15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　10台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function HistoryHeritageHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/84592/84592_war.jpg" alt="土佐龍温泉　三陽荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>高知県土佐市初　天然温泉。お四国参り、マリンレジャーと幅広くご利用いただけます。３６番札所青龍寺入口</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 高知県土佐市宇佐町竜504-1 ／ 最寄り駅：朝倉（高知） ／ 交通案内：自家用車の方は、高知自動車道「土佐IC」より約20分。公共交通の方は、事前予約で最寄りバス停まで送迎あり。</p>
+                  <p><strong>【所在地・アクセス】</strong>高知県土佐市宇佐町竜504-1 ／ 最寄り駅：朝倉（高知） ／ 交通案内：自家用車の方は、高知自動車道「土佐IC」より約20分。公共交通の方は、事前予約で最寄りバス停まで送迎あり。</p>
                   <p>【幕末維新の歴史浪漫宿：萩・会津若松・高知・薩摩・龍馬】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

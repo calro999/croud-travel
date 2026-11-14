@@ -228,11 +228,11 @@ export default function HeritageOnsenHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">極上美食オーベルジュ温泉宿：ミシュラン星付きシェフ監修・地産地消ディナー 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「極上美食オーベルジュ温泉宿：ミシュラン星付きシェフ監修・地産地消ディナー 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「極上美食オーベルジュ温泉宿：ミシュラン星付きシェフ監修・地産地消ディナー 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function HeritageOnsenHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/28780/28780_heya.jpg" alt="八ヶ岳の恵みを味わうレストラン＆ホテル　オーベルジュ清里 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>自家農園野菜を使ったレストランが人気！牧場、工房、農園など体験も充実のホテル</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県北杜市高根町清里３５４５－９４３　コートドゥヴェール内 ／ 最寄り駅：清里 ／ 交通案内：JR小海線・清里駅から車で5分／中央道・長坂ICから25分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県北杜市高根町清里３５４５－９４３　コートドゥヴェール内 ／ 最寄り駅：清里 ／ 交通案内：JR小海線・清里駅から車で5分／中央道・長坂ICから25分</p>
                   <p>【極上美食オーベルジュ温泉宿：ミシュラン星付きシェフ監】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function HeritageOnsenHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/43789/43789_kan1.jpg" alt="ホテルオーベルジュ＜屋久島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>おかげさまで＜口コミ総合高評価＞☆家族と島のおばちゃんの素朴なおもてなし♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県熊毛郡屋久島町安房410-165 ／ 最寄り駅：屋久島空港 ／ 交通案内：安房バス停より徒歩１０分／安房港より徒歩２分</p>
+                  <p><strong>【所在地・アクセス】</strong>鹿児島県熊毛郡屋久島町安房410-165 ／ 最寄り駅：屋久島空港 ／ 交通案内：安房バス停より徒歩１０分／安房港より徒歩２分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８台　無料　要予約</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function HeritageOnsenHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/13890/13890_bath.jpg" alt="鬼首温泉　リゾートパーク　ホテル　オニコウベ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>大自然に囲まれたリゾートホテル～宮城県北唯一プールのある施設</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮城県大崎市鳴子温泉鬼首大清水26-29 ／ 最寄り駅：鳴子温泉 ／ 交通案内：東北自動車道古川ICより47号線を鳴子方面へ、岩下こけし資料館前交差点から108号線を秋田方面に入り約20分</p>
+                  <p><strong>【所在地・アクセス】</strong>宮城県大崎市鳴子温泉鬼首大清水26-29 ／ 最寄り駅：鳴子温泉 ／ 交通案内：東北自動車道古川ICより47号線を鳴子方面へ、岩下こけし資料館前交差点から108号線を秋田方面に入り約20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８５台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function HeritageOnsenHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9045/9045_nisi.jpg" alt="信玄の湯　湯村温泉　常磐ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>日本旅館の感性と、都市型ホテルの利便性を兼備えた、皇室もご利用なさる甲府の迎賓館</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県甲府市湯村2-5-21 ／ 最寄り駅：甲府 ／ 交通案内：中央自動車道、甲府昭和ICから20分／甲府駅南口バスターミナル4番線15分「湯村温泉入口」下車。武田神社は車で15分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県甲府市湯村2-5-21 ／ 最寄り駅：甲府 ／ 交通案内：中央自動車道、甲府昭和ICから20分／甲府駅南口バスターミナル4番線15分「湯村温泉入口」下車。武田神社は車で15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２５０台　無料　EV対応　普通充電器［交流 8ｋW］4基　１回1000円　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.82 ／ 立地 ★4.67 ／ 部屋 ★4.75 ／ 設備 ★4.68 ／ 風呂 ★4.62 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function HeritageOnsenHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/129427/129427_bed.jpg" alt="湯川温泉　山人－ｙａｍａｄｏ－ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>自然の息づかいに耳を傾ける―ここは極上のヒーリングリゾート。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岩手県和賀郡西和賀町52-71-10 ／ 最寄り駅：ほっとゆだ ／ 交通案内：ＪＲ北上線「ほっとゆだ駅」から車で約7分／秋田自動車道「湯田ＩＣ」からお車で約13分／湯けむりタクシー毎日4便乗り合い制</p>
+                  <p><strong>【所在地・アクセス】</strong>岩手県和賀郡西和賀町52-71-10 ／ 最寄り駅：ほっとゆだ ／ 交通案内：ＪＲ北上線「ほっとゆだ駅」から車で約7分／秋田自動車道「湯田ＩＣ」からお車で約13分／湯けむりタクシー毎日4便乗り合い制</p>
                   <p>【極上美食オーベルジュ温泉宿：ミシュラン星付きシェフ監】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function HeritageOnsenHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/104667/104667_ru.jpg" alt="磐梯熱海温泉　離れの隠れ宿　オーベルジュ鈴鐘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>◆GoToトラベル実施中◆朝ごはんフェスティバル全国ベスト４★受賞の宿／全室天然温泉の内風呂付</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県郡山市熱海町熱海5-38 ／ 最寄り駅：磐梯熱海 ／ 交通案内：車：磐越道磐梯熱海IC（県道24号磐梯熱海方面：約5分）電車：郡山駅（磐越西線：約15分）→鈴鐘(車約5分)</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県郡山市熱海町熱海5-38 ／ 最寄り駅：磐梯熱海 ／ 交通案内：車：磐越道磐梯熱海IC（県道24号磐梯熱海方面：約5分）電車：郡山駅（磐越西線：約15分）→鈴鐘(車約5分)</p>
                   <p>【極上美食オーベルジュ温泉宿：ミシュラン星付きシェフ監】 <strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

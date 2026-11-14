@@ -285,11 +285,11 @@ export default function AutumnBudgetMatsuyamaHotelsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">松山：松山城の紅葉絵巻と本場宇和島鯛めし！3,000円台〜格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「松山：松山城の紅葉絵巻と本場宇和島鯛めし！3,000円台〜格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「松山：松山城の紅葉絵巻と本場宇和島鯛めし！3,000円台〜格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -371,7 +371,7 @@ export default function AutumnBudgetMatsuyamaHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/6276/6276_room.jpg" alt="ホテルマイステイズ松山 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>松山市民会館・コミュニティセンター・ひめぎんホール・道後温泉へのアクセスも便利。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛媛県松山市大手町1-10-10 ／ 最寄り駅：松山（愛媛） ／ 交通案内：JR松山駅・松山市駅から徒歩8分／松山空港からバス約20分(愛媛新聞社前下車)／松山観光港～バス24分／松山IC～15分</p>
+                  <p><strong>【所在地・アクセス】</strong>愛媛県松山市大手町1-10-10 ／ 最寄り駅：松山（愛媛） ／ 交通案内：JR松山駅・松山市駅から徒歩8分／松山空港からバス約20分(愛媛新聞社前下車)／松山観光港～バス24分／松山IC～15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>自社および契約駐車場共1泊1200円。満車の場合は一般有料駐車場へのご案内とさせていただいております</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.19 ／ 立地 ★4.21 ／ 部屋 ★4.1 ／ 設備 ★4.05 ／ 風呂 ★3.96 ／ 食事 ★4.28</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -393,7 +393,7 @@ export default function AutumnBudgetMatsuyamaHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/19414/19414_kan.jpg" alt="天然温泉　松山ニューグランドホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【疲労回復・美肌・快眠】源泉かけ流し天然温泉大浴場オールナイト営業^^/　高速Wi-Fi完備♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛媛県松山市二番町３丁目４－１０ ／ 最寄り駅：松山（愛媛） ／ 交通案内：◆提携駐車場複数有！　◆松山ＩＣからお車で約２０分　◆松山空港からバスで約３０分　◆路面電車【大街道】下車⇒徒歩約４分</p>
+                  <p><strong>【所在地・アクセス】</strong>愛媛県松山市二番町３丁目４－１０ ／ 最寄り駅：松山（愛媛） ／ 交通案内：◆提携駐車場複数有！　◆松山ＩＣからお車で約２０分　◆松山空港からバスで約３０分　◆路面電車【大街道】下車⇒徒歩約４分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>提携先駐車場の詳細は「アクセス・駐車場」→「提携駐車場」をご確認ください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.26 ／ 立地 ★4.22 ／ 部屋 ★4.16 ／ 設備 ★4.15 ／ 風呂 ★4.36 ／ 食事 ★3.88</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -415,7 +415,7 @@ export default function AutumnBudgetMatsuyamaHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/20377/20377_s.jpg" alt="ターミナルホテル松山 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR松山駅に徒歩約１分、ビジネスや観光に最適です。防災の為お部屋にヘルメットを設置しています。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛媛県松山市宮田町9-1 ／ 最寄り駅：松山（愛媛） ／ 交通案内：JR松山駅より徒歩約2分／松山空港より15分／松山観光港より35分／三津浜港より20分</p>
+                  <p><strong>【所在地・アクセス】</strong>愛媛県松山市宮田町9-1 ／ 最寄り駅：松山（愛媛） ／ 交通案内：JR松山駅より徒歩約2分／松山空港より15分／松山観光港より35分／三津浜港より20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>普通車800円／15:00〜10:00イン前やアウト後や連泊中の昼間の駐車は別途料金がかかります。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.14 ／ 立地 ★4.14 ／ 部屋 ★4 ／ 設備 ★3.94 ／ 風呂 ★4.03 ／ 食事 ★4.02</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -437,7 +437,7 @@ export default function AutumnBudgetMatsuyamaHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/166482/166482.jpg" alt="ホテルたいよう農園　松山古三津 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【農家が営む宿】２０２３年８月新装オープン★農家がつくる本気のごはんを召し上がれ！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛媛県松山市古三津3-6-8 ／ 最寄り駅：三津浜 ／ 交通案内：松山空港より車10分／ＪＲ松山駅より車15分／松山観光港より車10分／ＪＲ三津浜駅より徒歩10分／松山ＩＣより車30分</p>
+                  <p><strong>【所在地・アクセス】</strong>愛媛県松山市古三津3-6-8 ／ 最寄り駅：三津浜 ／ 交通案内：松山空港より車10分／ＪＲ松山駅より車15分／松山観光港より車10分／ＪＲ三津浜駅より徒歩10分／松山ＩＣより車30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>１部屋１台乗用車５００円／泊※2台目はお断りさせていただきます※５ｍ以上予約制9ｍ以上駐車不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.23 ／ 立地 ★3.99 ／ 部屋 ★4.26 ／ 設備 ★4.13 ／ 風呂 ★4.16 ／ 食事 ★4.18</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -459,7 +459,7 @@ export default function AutumnBudgetMatsuyamaHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/151213/151213_kan1.jpg" alt="ダイワロイネットホテル松山 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★基本セミセパレートバス採用★路面電車「大街道駅」徒歩約1分「道後温泉駅」まで約15分♪観光拠点に◎</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛媛県松山市一番町2-6-5 ／ 最寄り駅：主要駅 ／ 交通案内：市内路面電車「大街道駅」より徒歩約1分の駅ちかホテル。松山空港からリムジンバス（約30分）大街道下車、徒歩約1分</p>
+                  <p><strong>【所在地・アクセス】</strong>愛媛県松山市一番町2-6-5 ／ 交通案内：市内路面電車「大街道駅」より徒歩約1分の駅ちかホテル。松山空港からリムジンバス（約30分）大街道下車、徒歩約1分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>立体 38台／先着順・予約不可／1泊（14:00〜翌11:00）1,200円（税込）／車高2.05m</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.42 ／ 立地 ★4.42 ／ 部屋 ★4.49 ／ 設備 ★4.43 ／ 風呂 ★4.42 ／ 食事 ★4.3</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

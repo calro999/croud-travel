@@ -76,7 +76,7 @@ export default function PrefecturesIndexPage() {
             </span>
             <h2 className="text-xl md:text-2xl font-black text-white mt-1.5 font-journal-serif">全国の旅行者が選ぶ「メガヒット決定版キラー特集」</h2>
           </div>
-          <span className="text-xs text-stone-400 font-medium">楽天トラベル公式データ連携</span>
+          <span className="text-xs text-stone-400 font-medium">編集部厳選ガイド</span>
         </div>
         <p className="text-xs md:text-sm text-stone-300 leading-relaxed">
           都道府県別の観光情報に加え、当サイト編集部が現地取材と最新口コミデータをもとに徹底分析した全国横断の特選ガイドです。温泉、オールインクルーシブ、サウナ、ふるさと納税、冬の味覚まで、一生に一度は訪れたい最高峰宿を比較できます。

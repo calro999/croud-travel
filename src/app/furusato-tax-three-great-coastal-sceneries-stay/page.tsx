@@ -235,7 +235,7 @@ export default function Page() {
         <section className="space-y-10">
           <div className="text-center space-y-2">
             <h2 className="text-2xl md:text-3xl font-bold text-slate-900">楽天ふるさと納税で泊まる名宿＆厳選ホテル</h2>
-            <p className="text-xs md:text-sm text-slate-500">楽天トラベル公式APIより最新の宿情報・写真・最低参考価格を取得しています
+            <p className="text-xs md:text-sm text-slate-500">宿泊施設データより最新の宿情報・写真・最低参考価格を取得しています
             </p>
           </div>
 
@@ -538,11 +538,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大白砂青松＆海の絶景パノラマ・海岸リゾート温泉宿×ふるさと納税厳選ガイド天橋立・三保松原・気比の松原：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本三大白砂青松＆海の絶景パノラマ・海岸リゾート温泉宿×ふるさと納税厳選ガイド天橋立・三保松原・気比の松原」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「日本三大白砂青松＆海の絶景パノラマ・海岸リゾート温泉宿×ふるさと納税厳選ガイド天橋立・三保松原・気比の松原」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -606,7 +606,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/76913/76913_to.jpg" alt="天橋立温泉　和のリゾート　文珠荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>日本三景天橋立の運河に佇む宿。2023年春サウナ付大浴場誕生。新しい和のリゾートをお楽しみください。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 京都府宮津市字文珠510 ／ 最寄り駅：天橋立 ／ 交通案内：京都丹後鉄道　天橋立駅より徒歩3分</p>
+                  <p><strong>【所在地・アクセス】</strong>京都府宮津市字文珠510 ／ 最寄り駅：天橋立 ／ 交通案内：京都丹後鉄道　天橋立駅より徒歩3分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -628,7 +628,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/13913/13913_you.jpg" alt="日本平ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>日本平が日本夜景遺産に認定★三保の松原を眼下に富士山を望む絶景を堪能</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県静岡市清水区馬走1500-2 ／ 最寄り駅：静岡 ／ 交通案内：ＪＲ静岡駅よりバス４０分・タクシー25分（駅からシャトルバス有り）／静岡・清水ＩＣより車で25分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県静岡市清水区馬走1500-2 ／ 最寄り駅：静岡 ／ 交通案内：ＪＲ静岡駅よりバス４０分・タクシー25分（駅からシャトルバス有り）／静岡・清水ＩＣより車で25分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（400台）　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -650,7 +650,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/70274/70274_gr.jpg" alt="ホテルルートイン敦賀駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>◆無料朝食バイキング6:00～9:00（本館1階）　◆男女別大浴場　◆Ｗｉ-Ｆｉ完備</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福井県敦賀市鉄輪町1-6-2 ／ 最寄り駅：敦賀 ／ 交通案内：JR北陸本線敦賀駅西口より約200m徒歩で2分、北陸自動車道敦賀ICより約3.0km車で約5分</p>
+                  <p><strong>【所在地・アクセス】</strong>福井県敦賀市鉄輪町1-6-2 ／ 最寄り駅：敦賀 ／ 交通案内：JR北陸本線敦賀駅西口より約200m徒歩で2分、北陸自動車道敦賀ICより約3.0km車で約5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　89台分　無料　（先着順）　満車時は有料駐車場のご案内（料金はお客様ご負担となります）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -665,7 +665,7 @@ export default function Page() {
 
       {/* フッター */}
       <footer className="bg-slate-950 text-slate-400 py-8 px-4 text-center text-xs border-t border-slate-800">
-        <p>© 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の楽天トラベル公式APIに基づきます。</p>
+        <p>© 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の宿泊施設データに基づきます。</p>
       </footer>
     
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

@@ -326,11 +326,11 @@ export default function FurusatoUpgradedPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大美林の木漏れ日と森林セラピー・ウッドヴィラ宿×ふるさと納税厳選ガイド青森ヒバ・秋田杉・木曽檜：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本三大美林の木漏れ日と森林セラピー・ウッドヴィラ宿×ふるさと納税厳選ガイド青森ヒバ・秋田杉・木曽檜」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「日本三大美林の木漏れ日と森林セラピー・ウッドヴィラ宿×ふるさと納税厳選ガイド青森ヒバ・秋田杉・木曽檜」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -394,7 +394,7 @@ export default function FurusatoUpgradedPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/10728/10728_w.jpg" alt="大鰐温泉　不二やホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>創業100周年の歴史ある温泉宿　津軽の四季を感じる露天風呂は格別です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 青森県南津軽郡大鰐町蔵館川原田63 ／ 最寄り駅：大鰐温泉 ／ 交通案内：東北自動車道　大鰐・弘前ＩＣより約10分。　JR奥羽本線大鰐温泉駅下車　徒歩１５分</p>
+                  <p><strong>【所在地・アクセス】</strong>青森県南津軽郡大鰐町蔵館川原田63 ／ 最寄り駅：大鰐温泉 ／ 交通案内：東北自動車道　大鰐・弘前ＩＣより約10分。　JR奥羽本線大鰐温泉駅下車　徒歩１５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.53 ／ 立地 ★4.29 ／ 部屋 ★4.42 ／ 設備 ★4.34 ／ 風呂 ★4.54 ／ 食事 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -415,8 +415,8 @@ export default function FurusatoUpgradedPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/20504/20504_room.jpg" alt="男鹿温泉　結いの宿　別邸　つばき 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「日本三大美林の木漏れ日と森林セラピー・ウッドヴィラ宿×ふるさと納税厳選ガイド青森ヒバ・秋田杉・木曽檜」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 秋田県男鹿市北浦湯本中里81 ／ 最寄り駅：羽立 ／ 交通案内：JR男鹿線「羽立駅」～お車で20分／秋田道昭和男鹿半島ＩＣ～お車で40分／秋田空港より～エアポートライナーで2時間</p>
+                  <p><strong>【宿の特徴・魅力】</strong>男鹿温泉 結いの宿 別邸 つばきは、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>秋田県男鹿市北浦湯本中里81 ／ 最寄り駅：羽立 ／ 交通案内：JR男鹿線「羽立駅」～お車で20分／秋田道昭和男鹿半島ＩＣ～お車で40分／秋田空港より～エアポートライナーで2時間</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -438,7 +438,7 @@ export default function FurusatoUpgradedPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/16778/16778_heya.jpg" alt="木曽路の宿　いわや 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>宮家の方々や文人に愛された、木曽路で最も古い老舗。木曽川眺望、総檜造りのお部屋や展望露天など。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県木曽郡木曽町福島5169 ／ 最寄り駅：木曽福島 ／ 交通案内：JR木曽福島駅より徒歩10分／中央自動車道：塩尻ICより60分、中津川ICより60分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県木曽郡木曽町福島5169 ／ 最寄り駅：木曽福島 ／ 交通案内：JR木曽福島駅より徒歩10分／中央自動車道：塩尻ICより60分、中津川ICより60分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

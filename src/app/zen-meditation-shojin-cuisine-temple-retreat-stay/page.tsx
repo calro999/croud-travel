@@ -310,37 +310,6 @@ export default function Page() {
           </div>
         </section>
 
-        {/* よくある質問 FAQ */}
-        <section className="mb-16 bg-white rounded-2xl shadow-sm border border-stone-200/80 p-6 md:p-8">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">よくある質問・伝統文化体験＆宿坊の楽しみ方</h2>
-          <div className="space-y-4">
-            
-            <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-amber-700 font-serif font-black text-lg">Q.</span>
-                <span>宿坊に泊まるのは初めてですが、作法やルールは厳しいですか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
-                現在の宿坊は一般的な旅館やホテル並みに設備が整っており、温かいホスピタリティで迎えてくれます。門限や朝のお勤めの時間厳守など寺院ごとの基本ルールはありますが、僧侶が親切に案内してくれるため、初心者の方でも安心して宿泊できます。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-amber-700 font-serif font-black text-lg">Q.</span>
-                <span>精進料理でお腹はいっぱいになりますか？お酒は飲めますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
-                肉や魚は一切使いませんが、湯葉、豆腐、旬の根菜、きのこ、海藻などを多彩な調理法で仕上げるため、品数も多く非常に満足感があります。お酒については「般若湯（はんにゃとう）」として提供している宿坊も多くあります。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-amber-700 font-serif font-black text-lg">Q.</span>
-                <span>坐禅で足が痛い場合はどうすればいいですか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
-                結跏趺坐（けっかふざ）や半跏趺坐が難しい場合は、正座や椅子に座って行う「椅子坐禅」を許可している寺院がほとんどです。無理をせず背筋を伸ばして呼吸に集中することが最も大切です。
-              </p>
-            </div>
-          </div>
-        </section>
-
         {/* 関連リンク */}
         <section className="bg-stone-200/70 rounded-2xl p-6 md:p-8 text-center border border-stone-300">
           <h3 className="text-xl font-bold text-stone-900 mb-3 font-serif">他の伝統文化・リトリート宿を探す</h3>

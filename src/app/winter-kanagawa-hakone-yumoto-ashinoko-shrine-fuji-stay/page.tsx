@@ -186,8 +186,8 @@ export default function KanagawaHakoneWinterFeaturePage() {
             "url": "https://croud-travel.pages.dev/icon.png"
           }
         },
-        "datePublished": "",
-        "dateModified": ""
+        "datePublished": "2026-11-01",
+        "dateModified": "2026-11-15"
       },
       {
         "@type": "FAQPage",
@@ -425,7 +425,7 @@ export default function KanagawaHakoneWinterFeaturePage() {
             <span className="text-sky-600 font-bold text-xs uppercase tracking-wider">VERIFIED ACCOMMODATIONS</span>
             <h2 className="text-xl sm:text-3xl font-extrabold text-slate-900 mt-1">冬の箱根湯本＆芦ノ湖を満喫する厳選名宿5選</h2>
             <p className="text-xs sm:text-sm text-slate-600 mt-2">
-              楽天トラベル公式APIを通じてレビュー評価、泉質、立地、冬の特別プランを徹底検証した極上の宿泊施設です。
+              宿泊施設データを通じてレビュー評価、泉質、立地、冬の特別プランを徹底検証した極上の宿泊施設です。
             </p>
           </div>
 

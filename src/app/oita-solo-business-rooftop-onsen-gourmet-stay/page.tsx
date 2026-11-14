@@ -356,28 +356,6 @@ export default function ArticlePage() {
         </section>
 
         {/* よくある質問 FAQ */}
-        <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-6">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-stone-900 border-b border-stone-200 pb-3">よくある質問（FAQ）</h2>
-          <div className="space-y-4">
-            
-            <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
-                <span>大分空港から大分駅やホテルへのアクセスはどうですか？</span></h3>
-              <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
-                大分空港から大分市内行き空港特急バス（エアライナー）が運行しており、約60分でJR大分駅前へ直行できます。
-              </p>
-            </div>
-            
-            <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
-                <span>出張の合間に別府温泉へ立ち寄る時間は取れますか？</span></h3>
-              <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
-                大分駅から別府駅まではJR日豊本線の普通列車で約12分（特急なら約8分）とすぐ隣駅感覚で行けるため、夕方や休日のちょっとした空き時間に立ち寄り湯を満喫できます。
-              </p>
-            </div>
-            
-          </div>
-        </section>
 
         {/* 関連リンク・ナビゲーション */}
         <div className="text-center pt-8 border-t border-stone-200">
@@ -423,11 +401,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">大分出張＆豊後ソログルメ泊：大分駅直結・地上80m屋上インフィニティ天然温泉・関アジ関サバ！名物とり天を満喫する極上ホテル 厳選3選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「大分出張＆豊後ソログルメ泊：大分駅直結・地上80m屋上インフィニティ天然温泉・関アジ関サバ！名物とり天を満喫する極上ホテル 厳選3選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「大分出張＆豊後ソログルメ泊：大分駅直結・地上80m屋上インフィニティ天然温泉・関アジ関サバ！名物とり天を満喫する極上ホテル 厳選3選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -491,7 +469,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/147712/147712_room.jpg" alt="ＪＲ九州ホテルブラッサム大分 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR大分駅より徒歩0分！地上80m「CITY SPA てんくう」ではサウナやカフェバーも楽しめます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大分県大分市要町1-14 ／ 最寄り駅：大分 ／ 交通案内：JR大分駅より徒歩0分！府内中央口（北口）直結で、バス乗り場も近く、観光・ビジネスの拠点に抜群のアクセス</p>
+                  <p><strong>【所在地・アクセス】</strong>大分県大分市要町1-14 ／ 最寄り駅：大分 ／ 交通案内：JR大分駅より徒歩0分！府内中央口（北口）直結で、バス乗り場も近く、観光・ビジネスの拠点に抜群のアクセス</p>
                   <p><strong>【駐車場・マイカー利用】</strong>アミュプラザ大分※12時〜翌12時まで1,000円／途中出庫可／駐車券をフロントまでお持ちください</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.53 ／ 立地 ★4.63 ／ 部屋 ★4.57 ／ 設備 ★4.51 ／ 風呂 ★4.55 ／ 食事 ★4.54</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -513,7 +491,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1801/1801_tw.jpg" alt="ホテル日航大分　オアシスタワー 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>街の中心に位置する利便性と、大分の空や別府の海を望む客室。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大分県大分市高砂町2-48 ／ 最寄り駅：大分 ／ 交通案内：（JR大分駅から）徒歩で約10分（大分ＩＣから）車で約１５分（大分空港から）高速バスで約６０分</p>
+                  <p><strong>【所在地・アクセス】</strong>大分県大分市高砂町2-48 ／ 最寄り駅：大分 ／ 交通案内：（JR大分駅から）徒歩で約10分（大分ＩＣから）車で約１５分（大分空港から）高速バスで約６０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>一律料金（ご1泊あたり1,000円）にてご利用頂けます。駐車場の入り口はプラン詳細をご確認ください</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.43 ／ 立地 ★4.39 ／ 部屋 ★4.4 ／ 設備 ★4.28 ／ 風呂 ★4.21 ／ 食事 ★4.36</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -535,7 +513,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/70923/70923_kan.jpg" alt="ダイワロイネットホテル大分（２０２６年９月リニューアル） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全室に加湿機能付空気清浄機・ズボンプレッサー完備！１階にローソン併設♪空港バス間近♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大分県大分市荷揚町2-3 ／ 最寄り駅：大分 ／ 交通案内：大分駅より徒歩約10分！大分空港より空港バスにて約60分『荷揚町』下車徒歩１分！</p>
+                  <p><strong>【所在地・アクセス】</strong>大分県大分市荷揚町2-3 ／ 最寄り駅：大分 ／ 交通案内：大分駅より徒歩約10分！大分空港より空港バスにて約60分『荷揚町』下車徒歩１分！</p>
                   <p><strong>【駐車場・マイカー利用】</strong>立体駐車場96台（先着順・車高制限等あり）14時〜翌朝11時1泊1,000円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.28 ／ 部屋 ★4.36 ／ 設備 ★4.28 ／ 風呂 ★4.27 ／ 食事 ★4.26</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

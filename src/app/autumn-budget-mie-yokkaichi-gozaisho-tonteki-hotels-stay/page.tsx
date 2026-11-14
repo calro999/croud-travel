@@ -285,11 +285,11 @@ export default function AutumnBudgetYokkaichiHotelsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">四日市：御在所岳の三段紅葉とスタミナ四日市とんてき！2,000円台〜格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「四日市：御在所岳の三段紅葉とスタミナ四日市とんてき！2,000円台〜格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「四日市：御在所岳の三段紅葉とスタミナ四日市とんてき！2,000円台〜格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -353,7 +353,7 @@ export default function AutumnBudgetYokkaichiHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/109492/109492.jpg" alt="天然温泉　御在所岳の湯　スーパーホテル四日市・国道１号沿 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>温泉・朝食、駐車場有料1500円！長島リゾート・なばなの里・伊勢神宮・鈴鹿へもアクセス良好★</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 三重県四日市市浜田町1-6 ／ 最寄り駅：近鉄四日市 ／ 交通案内：近鉄四日市駅、南改札東出口、１号線方面徒歩で６分！！JR四日市駅徒歩10分！！</p>
+                  <p><strong>【所在地・アクセス】</strong>三重県四日市市浜田町1-6 ／ 最寄り駅：近鉄四日市 ／ 交通案内：近鉄四日市駅、南改札東出口、１号線方面徒歩で６分！！JR四日市駅徒歩10分！！</p>
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場13台（1泊1500円・要電話予約）満車の場合はコインパーキング24時間700円～1700円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -375,7 +375,7 @@ export default function AutumnBudgetYokkaichiHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/104687/104687.jpg" alt="三交イン四日市駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>楽天トラベルブロンズアワード2021受賞◆近鉄四日市駅より徒歩1分！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 三重県四日市市安島１丁目１番２０号 ／ 最寄り駅：近鉄四日市 ／ 交通案内：近鉄四日市駅北口徒歩１分</p>
+                  <p><strong>【所在地・アクセス】</strong>三重県四日市市安島１丁目１番２０号 ／ 最寄り駅：近鉄四日市 ／ 交通案内：近鉄四日市駅北口徒歩１分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>電話予約不可・当日先着順13台　1,300円/泊(15時～翌朝10時まで途中出庫不可) 普通車のみ</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -397,7 +397,7 @@ export default function AutumnBudgetYokkaichiHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/184483/184483.jpg" alt="コンフォートホテル四日市 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>日替わりスムージーが人気★無料朝食サービスがイチオシのコスパ最強ホテル◆小学6年生まで添い寝無料</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 三重県四日市市浜田町5-3 ／ 最寄り駅：近鉄四日市 ／ 交通案内：近鉄四日市駅東出口から徒歩約1分◆名古屋、鈴鹿、伊勢などにアクセス便利♪JR四日市駅から徒歩約13分</p>
+                  <p><strong>【所在地・アクセス】</strong>三重県四日市市浜田町5-3 ／ 最寄り駅：近鉄四日市 ／ 交通案内：近鉄四日市駅東出口から徒歩約1分◆名古屋、鈴鹿、伊勢などにアクセス便利♪JR四日市駅から徒歩約13分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場 ■タイムズ　コンフォートホテル四日市東/コンフォートホテル四日市南 1泊　1,200円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

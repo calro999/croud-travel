@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-niigata-yahiko-iwamuro-autumn-stay/"
   };
 
@@ -482,11 +482,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">新潟・越後一宮 弥彦神社もみじ谷＆弥彦温泉！菊まつりと越後名物・のどぐろ・岩船米コシヒカリ｜ふるさと納税で泊まれる名宿ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「新潟・越後一宮 弥彦神社もみじ谷＆弥彦温泉！菊まつりと越後名物・のどぐろ・岩船米コシヒカリ｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「新潟・越後一宮 弥彦神社もみじ谷＆弥彦温泉！菊まつりと越後名物・のどぐろ・岩船米コシヒカリ｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -550,7 +550,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5284/5284_heya.jpg" alt="弥彦温泉　四季の宿　みのや 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>▽越後一の宮彌彦神社門前の宿★最上階にある展望風呂からは弥彦山を一望できる</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県西蒲原郡弥彦村弥彦２９２７－１ ／ 最寄り駅：主要駅 ／ 交通案内：■JR燕三条駅→（弥彦線）→ＪＲ弥彦駅下車■弥彦駅より徒歩10分■三条燕ＩＣより車で25分■高速バス有■弥彦神社徒歩1分</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県西蒲原郡弥彦村弥彦２９２７－１ ／ 交通案内：■JR燕三条駅→（弥彦線）→ＪＲ弥彦駅下車■弥彦駅より徒歩10分■三条燕ＩＣより車で25分■高速バス有■弥彦神社徒歩1分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料（先着順）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -572,7 +572,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/69313/69313_k.jpg" alt="弥彦温泉　割烹の宿　櫻家 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>館内素足で歩けるお子様に優しい宿。源泉豊富で広い湯舟の貸切風呂はご家族様に人気です</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県西蒲原郡弥彦村弥彦1043-41 ／ 最寄り駅：主要駅 ／ 交通案内：新潟市～車で約1時間/東京～北陸自動車道で約3時間半/三条・燕IC～車で約40分/JR弥彦駅徒歩1分 /弥彦神社車で3分</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県西蒲原郡弥彦村弥彦1043-41 ／ 交通案内：新潟市～車で約1時間/東京～北陸自動車道で約3時間半/三条・燕IC～車で約40分/JR弥彦駅徒歩1分 /弥彦神社車で3分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -594,7 +594,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/38824/38824_fu.jpg" alt="新潟　岩室温泉　自家源泉の宿　富士屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2012年自家源泉で開湯!!　地元野菜と新潟山海の幸が自慢の老舗旅館</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県新潟市西蒲区岩室温泉693 ／ 最寄り駅：岩室 ／ 交通案内：北陸自動車道　巻潟東ＩＣより２０分／ＪＲ越後線　岩室駅よりタクシーで１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県新潟市西蒲区岩室温泉693 ／ 最寄り駅：岩室 ／ 交通案内：北陸自動車道　巻潟東ＩＣより２０分／ＪＲ越後線　岩室駅よりタクシーで１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

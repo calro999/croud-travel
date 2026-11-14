@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">熊本・黒川温泉：入湯手形＆渓流露天風呂めぐり極上宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「熊本・黒川温泉：入湯手形＆渓流露天風呂めぐり極上宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「熊本・黒川温泉：入湯手形＆渓流露天風呂めぐり極上宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/55943/55943_ky.jpg" alt="黒川温泉　いこい旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>黒川温泉で唯一の日本名湯秘湯百選の宿。館内１４のお風呂で湯めぐりが出来ます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 熊本県阿蘇郡南小国町黒川温泉川端通り ／ 最寄り駅：阿蘇 ／ 交通案内：JR熊本駅より九州横断バスにて2時間50分。JR博多駅より西鉄バスにて2時間40分。熊本空港より車で1時間30分</p>
+                  <p><strong>【所在地・アクセス】</strong>熊本県阿蘇郡南小国町黒川温泉川端通り ／ 最寄り駅：阿蘇 ／ 交通案内：JR熊本駅より九州横断バスにて2時間50分。JR博多駅より西鉄バスにて2時間40分。熊本空港より車で1時間30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>１５台収容。無料にてご用意致しております。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/187482/187482.jpg" alt="全室離れの温泉宿　久邸 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>自然豊かな山の隠れ家　全室離れの温泉宿　贅沢な食と自然に癒される至福のひととき「人と時を癒す宿」</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 熊本県阿蘇郡南小国町満願寺5853-1 ／ 最寄り駅：熊本空港 ／ 交通案内：熊本空港よりお車にて約90分</p>
+                  <p><strong>【所在地・アクセス】</strong>熊本県阿蘇郡南小国町満願寺5853-1 ／ 最寄り駅：熊本空港 ／ 交通案内：熊本空港よりお車にて約90分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　14台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/128469/128469_kya.jpg" alt="白川温泉　華匠庵＜熊本県＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>阿蘇の魅力を五感で感じる！都会の喧騒ざわめきを通り抜け佇む隠れ宿。湯の華舞う温泉郷屈指の良泉</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 熊本県阿蘇郡南小国町満願寺5704-1 ／ 最寄り駅：主要駅 ／ 交通案内：日田インターからお車で約１時間／熊本インターからお車で約１時間４０分／黒川温泉から車で5分。</p>
+                  <p><strong>【所在地・アクセス】</strong>熊本県阿蘇郡南小国町満願寺5704-1 ／ 交通案内：日田インターからお車で約１時間／熊本インターからお車で約１時間４０分／黒川温泉から車で5分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　9台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★5 ／ 立地 ★4.77 ／ 部屋 ★4.95 ／ 設備 ★4.82 ／ 風呂 ★4.82 ／ 食事 ★5</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/108589/108589_hy1.jpg" alt="日田　琴平温泉　旅籠かやうさぎ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>日田の奥座敷にひっそりと佇む大正浪漫の宿。高い評価を頂く、食で、滞在をより印象的なものへと導きます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大分県日田市琴平1529-1 ／ 最寄り駅：日田 ／ 交通案内：JR日田駅、日田バスセンターから車で１０分（送迎可） 日田ICから車で15分、湯布院温泉、別府温泉、黒川温泉迄1時間圏内</p>
+                  <p><strong>【所在地・アクセス】</strong>大分県日田市琴平1529-1 ／ 最寄り駅：日田 ／ 交通案内：JR日田駅、日田バスセンターから車で１０分（送迎可） 日田ICから車で15分、湯布院温泉、別府温泉、黒川温泉迄1時間圏内</p>
                   <p>【熊本・黒川温泉：入湯手形＆渓流露天風呂めぐり極上宿 】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.85 ／ 立地 ★4.76 ／ 部屋 ★4.88 ／ 設備 ★4.78 ／ 風呂 ★4.82 ／ 食事 ★4.9</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/79283/79283_kya.jpg" alt="飛瀬温泉　天河山荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>山の奥、そのまた奥へと続く、そこはいちばん深い癒しの場所　大切なあの人と至福の時を</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 熊本県阿蘇郡南小国町満願寺飛瀬2820 ／ 最寄り駅：阿蘇 ／ 交通案内：阿蘇駅よりお車で４０分</p>
+                  <p><strong>【所在地・アクセス】</strong>熊本県阿蘇郡南小国町満願寺飛瀬2820 ／ 最寄り駅：阿蘇 ／ 交通案内：阿蘇駅よりお車で４０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　7台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4725/4725_heya1.jpg" alt="黒川温泉　夢龍胆 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>黒川温泉中心部に位置し、清流田ノ原川のほとりに面した情緒溢れるお料理自慢の純和風旅館。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 熊本県阿蘇郡南小国町満願寺6430-1 ／ 最寄り駅：阿蘇 ／ 交通案内：大分道日田ＩＣより車で６０分、黒川温泉バス停より徒歩1分。送迎あり(条件あり)事前予約要。</p>
+                  <p><strong>【所在地・アクセス】</strong>熊本県阿蘇郡南小国町満願寺6430-1 ／ 最寄り駅：阿蘇 ／ 交通案内：大分道日田ＩＣより車で６０分、黒川温泉バス停より徒歩1分。送迎あり(条件あり)事前予約要。</p>
                   <p>【熊本・黒川温泉：入湯手形＆渓流露天風呂めぐり極上宿 】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

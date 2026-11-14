@@ -448,7 +448,7 @@ export default function NagasakiCityInasayamaWinterPage() {
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Selected Accommodations</span>
             <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">世界新三大夜景と冬の長崎グルメを堪能する特等席名宿5選</h2>
             <p className="text-stone-600 text-sm sm:text-base mt-1">
-              楽天トラベル公式APIより取得した最新データに基づく、夜景眺望・料理・立地が高評価の宿。
+              施設スペックと宿泊者評価に基づく、夜景眺望・料理・立地が高評価の宿。
             </p>
           </div>
 

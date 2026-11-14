@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/winter-fugu-pufferfish-gourmet-onsen-stay/"
   };
 
@@ -278,11 +278,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">冬の贅沢の極み！本場下関の天然とらふぐ刺し・白子焼き・ひれ酒を堪能する名宿 ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「冬の贅沢の極み！本場下関の天然とらふぐ刺し・白子焼き・ひれ酒を堪能する名宿 ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「冬の贅沢の極み！本場下関の天然とらふぐ刺し・白子焼き・ひれ酒を堪能する名宿 ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -364,7 +364,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/54096/54096_room.jpg" alt="萩温泉郷　夕景の宿　海のゆりかご　萩小町 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【楽天トラベルアワード　10年連続受賞】～日本海の絶景が楽しめる・癒し＆遊びが盛り沢山の宿～</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山口県萩市椿東越ヶ浜6509 ／ 最寄り駅：東萩 ／ 交通案内：「JR東萩駅」より車で10分／世界遺産「松下村塾」より車で10分／無料送迎サービスも有り！詳細はお気軽に問合せ下さい。</p>
+                  <p><strong>【所在地・アクセス】</strong>山口県萩市椿東越ヶ浜6509 ／ 最寄り駅：東萩 ／ 交通案内：「JR東萩駅」より車で10分／世界遺産「松下村塾」より車で10分／無料送迎サービスも有り！詳細はお気軽に問合せ下さい。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>60台（無料）／予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -386,7 +386,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/18848/18848_rm.jpg" alt="宮島グランドホテル　有もと 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>すべてはお客様の満足と笑顔のために。宮島の歴史とともに時を重ねる、世界遺産「厳島神社」に最も近い宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 広島県廿日市市宮島町南町364 ／ 最寄り駅：宮島口 ／ 交通案内：宮島口桟橋よりフェリーで１０分～宮島桟橋よりマイクロバスにて送迎</p>
+                  <p><strong>【所在地・アクセス】</strong>広島県廿日市市宮島町南町364 ／ 最寄り駅：宮島口 ／ 交通案内：宮島口桟橋よりフェリーで１０分～宮島桟橋よりマイクロバスにて送迎</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.72 ／ 立地 ★4.6 ／ 部屋 ★4.57 ／ 設備 ★4.45 ／ 風呂 ★4.43 ／ 食事 ★4.66</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -408,7 +408,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/109/109_room.jpg" alt="リーガロイヤルホテル広島 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>高層階客室からの絶景が自慢！充実のサービス・特典を提供するエグゼクティブフロアが好評です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 広島県広島市中区基町6-78 ／ 最寄り駅：広島 ／ 交通案内：平和記念公園へ徒歩約5分／広島バスセンター隣接／JR広島駅より市内電車で約15分、タクシーで約10分</p>
+                  <p><strong>【所在地・アクセス】</strong>広島県広島市中区基町6-78 ／ 最寄り駅：広島 ／ 交通案内：平和記念公園へ徒歩約5分／広島バスセンター隣接／JR広島駅より市内電車で約15分、タクシーで約10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>1泊1台3000円　15:00-翌11:00以外の時間 追加料金250円/30分</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.35 ／ 立地 ★4.52 ／ 部屋 ★4.41 ／ 設備 ★4.3 ／ 風呂 ★4.23 ／ 食事 ★4.38</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -430,7 +430,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/428/428_s.jpg" alt="オリエンタルホテル広島 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>広島市の平和大通り沿いに位置する観光・ビジネスに好立地なオリエンタルホテル広島</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 広島県広島市中区田中町6-10 ／ 最寄り駅：広島 ／ 交通案内：ＪＲ広島駅よりエキまちループバス右回りで約5分、田中町下車徒歩1分／山陽自動車道～広島IC～R54を市内方面、約20分</p>
+                  <p><strong>【所在地・アクセス】</strong>広島県広島市中区田中町6-10 ／ 最寄り駅：広島 ／ 交通案内：ＪＲ広島駅よりエキまちループバス右回りで約5分、田中町下車徒歩1分／山陽自動車道～広島IC～R54を市内方面、約20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>先着順（予約不可）／1泊1,800円／高さ制限1.55mまで</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.22 ／ 立地 ★4.21 ／ 部屋 ★4.15 ／ 設備 ★4.08 ／ 風呂 ★4.04</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -452,7 +452,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/470/470_yk.jpg" alt="尾道国際ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【広島食べんさい店グランプリ受賞】尾道駅から無料送迎＆無料駐車場あり！コンビニ徒歩1分で便利</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 広島県尾道市新浜1-13-6 ／ 最寄り駅：尾道 ／ 交通案内：JR尾道駅より車で3分。尾道駅から送迎可（要オンライン予約）／山陽道尾道・福山西の各ICより20分</p>
+                  <p><strong>【所在地・アクセス】</strong>広島県尾道市新浜1-13-6 ／ 最寄り駅：尾道 ／ 交通案内：JR尾道駅より車で3分。尾道駅から送迎可（要オンライン予約）／山陽道尾道・福山西の各ICより20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り／駐車料金無料（チェックイン日15:00～翌11:00）／先着順／大型車は有料で要予約</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -463,6 +463,12 @@ export default function Page() {
             </div>
           </div></section>
 
+      <div className="my-8">
+        <ShareButtons
+            title="冬の贅沢の極み！本場下関の天然とらふぐ刺し・白子焼き・ひれ酒を堪能する名宿 ｜ 日本全国・旅宿クラウド"
+            url="https://croud-travel.pages.dev/winter-fugu-pufferfish-gourmet-onsen-stay/"
+          />
+      </div>
       <HubRelatedPosts currentSlug="winter-fugu-pufferfish-gourmet-onsen-stay" />
 </div>
   );

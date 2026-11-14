@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋田・男鹿半島＆なまはげ・入道崎：北緯40度白黒灯台・名物石焼料理宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「秋田・男鹿半島＆なまはげ・入道崎：北緯40度白黒灯台・名物石焼料理宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「秋田・男鹿半島＆なまはげ・入道崎：北緯40度白黒灯台・名物石焼料理宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -296,7 +296,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/37374/37374_r1.jpg" alt="男鹿温泉　湯けむりリゾート　男鹿ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【桜露天風呂と名物石焼料理】の宿 日々生まれたての源泉かけ流し温泉をご満喫ください</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 秋田県男鹿市北浦湯本草木原13-1 ／ 最寄り駅：羽立 ／ 交通案内：秋田自動車道秋田北IC下車６０ｋｍ７０分／JR羽立駅～路線バスで４５分／JR男鹿駅～無料送迎バスあり詳しくは公式HPへ</p>
+                  <p><strong>【所在地・アクセス】</strong>秋田県男鹿市北浦湯本草木原13-1 ／ 最寄り駅：羽立 ／ 交通案内：秋田自動車道秋田北IC下車６０ｋｍ７０分／JR羽立駅～路線バスで４５分／JR男鹿駅～無料送迎バスあり詳しくは公式HPへ</p>
                   <p><strong>【駐車場・マイカー利用】</strong>あり　５０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -318,7 +318,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/52102/52102_wa.jpg" alt="男鹿温泉　湯けむりリゾート　セイコーグランドホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>源泉かけ流し！当館自慢の「美肌の湯」と日本海の海幸を満喫。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 秋田県男鹿市北浦湯本草木原50-1 ／ 最寄り駅：羽立 ／ 交通案内：秋田自動車道秋田北IC下車６０ｋｍ７０分／JR羽立駅～路線バスで４５分／JR男鹿駅～無料送迎バスあり詳しくは公式HPへ</p>
+                  <p><strong>【所在地・アクセス】</strong>秋田県男鹿市北浦湯本草木原50-1 ／ 最寄り駅：羽立 ／ 交通案内：秋田自動車道秋田北IC下車６０ｋｍ７０分／JR羽立駅～路線バスで４５分／JR男鹿駅～無料送迎バスあり詳しくは公式HPへ</p>
                   <p>【秋田・男鹿半島＆なまはげ・入道崎：北緯40度白黒灯台】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★3.93 ／ 部屋 ★4.01 ／ 設備 ★3.86 ／ 風呂 ★4.11 ／ 食事 ★4.3</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -340,7 +340,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/16747/16747_s.jpg" alt="白神展望温泉　美肌の湯　ホテルサンルーラル大潟 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>能代まで車で30分！各拠点へアクセス◎琥珀色の【モール温泉】は美肌の湯として有名♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 秋田県南秋田郡大潟村北1-3 ／ 最寄り駅：八郎潟 ／ 交通案内：秋田駅→八郎潟駅から車で２０分／秋田高速自動車道、琴丘・森岳ＩＣ～県道５４号線約１２ＫＭ（約１５分）</p>
+                  <p><strong>【所在地・アクセス】</strong>秋田県南秋田郡大潟村北1-3 ／ 最寄り駅：八郎潟 ／ 交通案内：秋田駅→八郎潟駅から車で２０分／秋田高速自動車道、琴丘・森岳ＩＣ～県道５４号線約１２ＫＭ（約１５分）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　800台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

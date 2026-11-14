@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">富山・氷見＆雨晴海岸・立山連峰：海越しに望む3000m立山連峰・氷見寒ブリ宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「富山・氷見＆雨晴海岸・立山連峰：海越しに望む3000m立山連峰・氷見寒ブリ宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「富山・氷見＆雨晴海岸・立山連峰：海越しに望む3000m立山連峰・氷見寒ブリ宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/29954/29954_rei.jpg" alt="氷見温泉郷　魚巡りの宿　永芳閣（ＢＢＨホテルグループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>北陸の富山を代表する、お魚処氷見の旅館。評判の魚料理と絶景の露天。海一望の客室。貸切風呂無料プランも</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 富山県氷見市阿尾3257 ／ 最寄り駅：氷見 ／ 交通案内：【ＪＲ】氷見線　氷見駅から車で１０分（無料送迎あり）/【車】北陸（東海北陸）自動車道⇒能越自動車道　氷見北ＩＣより５分</p>
+                  <p><strong>【所在地・アクセス】</strong>富山県氷見市阿尾3257 ／ 最寄り駅：氷見 ／ 交通案内：【ＪＲ】氷見線　氷見駅から車で１０分（無料送迎あり）/【車】北陸（東海北陸）自動車道⇒能越自動車道　氷見北ＩＣより５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料　屋内60台　お車、バイクのお客様は旅館の正面までお越し下さい。係がご案内いたします。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/79410/79410.jpg" alt="氷見天然温泉ルートイングランティア氷見　和蔵の宿 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ＷＯＷＯＷ全室で無料視聴可■VODルームシアター無料視聴可能(一般映画のみ）（コンフォート特典）</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 富山県氷見市加納443-5 ／ 最寄り駅：氷見 ／ 交通案内：電車：氷見駅より車で約10分 車：能越道氷見IC～一般道で約5分　東京より約 6時間　大阪・名古屋より約 3時間</p>
+                  <p><strong>【所在地・アクセス】</strong>富山県氷見市加納443-5 ／ 最寄り駅：氷見 ／ 交通案内：電車：氷見駅より車で約10分 車：能越道氷見IC～一般道で約5分　東京より約 6時間　大阪・名古屋より約 3時間</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　300台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/20569/20569_s1.jpg" alt="高岡マンテンホテル駅前（マンテンホテルグループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>◆高岡駅＆大駐車場【徒歩１分】　大浴場　◆全２３３室　【全室禁煙】　◆全室Wi-Fi、有線LAN接続</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 富山県高岡市末広町1-8 ／ 最寄り駅：高岡 ／ 交通案内：◆高岡駅古城公園口より徒歩１分◆新高岡駅よりバスで約８分◆高岡ＩＣよりお車で約１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>富山県高岡市末広町1-8 ／ 最寄り駅：高岡 ／ 交通案内：◆高岡駅古城公園口より徒歩１分◆新高岡駅よりバスで約８分◆高岡ＩＣよりお車で約１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場【高岡中央駐車場】屋根付通路でホテル直結！￥800/泊※途中出庫別途料金　車椅子専用P有</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/38678/38678_he.jpg" alt="アパホテル〈高岡丸の内〉（２０２６年５月リニューアル） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【26年5月リニューアル】大仏コロッケ等ご当地グルメの朝食が味わえる！自然豊かな古城公園徒歩3分！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 富山県高岡市丸の内2-1 ／ 最寄り駅：高岡 ／ 交通案内：高岡駅より車で5分/路面電車 万葉線で(急患医療センター前駅)電停徒歩1分</p>
+                  <p><strong>【所在地・アクセス】</strong>富山県高岡市丸の内2-1 ／ 最寄り駅：高岡 ／ 交通案内：高岡駅より車で5分/路面電車 万葉線で(急患医療センター前駅)電停徒歩1分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>【有】60台/到着順/普通車のみ無料 大型車⇒[要事前電話予約]</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/141093/141093_kya.jpg" alt="氷見温泉郷　民宿いけもり 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>魚処・氷見の山里に佇む、癒しの宿。露天風呂が自慢です☆【全室Wi-Fi完備！ 】</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 富山県氷見市指崎1632 ／ 最寄り駅：氷見 ／ 交通案内：氷見駅よりお車にて約２０分（６.０ｋｍ）/【車】北陸（東海北陸）自動車道⇒能越自動車道　氷見北ＩＣより５分</p>
+                  <p><strong>【所在地・アクセス】</strong>富山県氷見市指崎1632 ／ 最寄り駅：氷見 ／ 交通案内：氷見駅よりお車にて約２０分（６.０ｋｍ）/【車】北陸（東海北陸）自動車道⇒能越自動車道　氷見北ＩＣより５分</p>
                   <p>【富山・氷見＆雨晴海岸・立山連峰：海越しに望む3000】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/10719/10719_war.jpg" alt="宇奈月温泉　延楽 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>季節のお料理と樹齢四百年の総檜露天風呂。露天風呂付き客室でゆったり自分時間。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 富山県黒部市宇奈月温泉347-1 ／ 最寄り駅：宇奈月温泉 ／ 交通案内：富山地方鉄道「宇奈月温泉駅」より徒歩3分 / 北陸自動車道 黒部ICより約２０分</p>
+                  <p><strong>【所在地・アクセス】</strong>富山県黒部市宇奈月温泉347-1 ／ 最寄り駅：宇奈月温泉 ／ 交通案内：富山地方鉄道「宇奈月温泉駅」より徒歩3分 / 北陸自動車道 黒部ICより約２０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り・4０台・無料・先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.63 ／ 立地 ★4.67 ／ 部屋 ★4.49 ／ 設備 ★4.4 ／ 風呂 ★4.65 ／ 食事 ★4.68</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

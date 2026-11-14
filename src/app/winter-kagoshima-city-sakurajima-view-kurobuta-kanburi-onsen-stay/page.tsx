@@ -186,8 +186,8 @@ export default function KagoshimaCityWinterFeaturePage() {
             "url": "https://croud-travel.pages.dev/icon.png"
           }
         },
-        "datePublished": "",
-        "dateModified": ""
+        "datePublished": "2026-11-01",
+        "dateModified": "2026-11-15"
       },
       {
         "@type": "FAQPage",
@@ -422,7 +422,7 @@ export default function KagoshimaCityWinterFeaturePage() {
             <span className="text-rose-600 font-bold text-xs uppercase tracking-wider">VERIFIED ACCOMMODATIONS</span>
             <h2 className="text-xl sm:text-3xl font-extrabold text-slate-900 mt-1">冬の鹿児島市を満喫する厳選名宿5選</h2>
             <p className="text-xs sm:text-sm text-slate-600 mt-2">
-              楽天トラベル公式APIを通じてレビュー評価、桜島眺望、展望露天風呂、黒豚プランを厳選した最高品質の宿です。
+              宿泊施設データを通じてレビュー評価、桜島眺望、展望露天風呂、黒豚プランを厳選した最高品質の宿です。
             </p>
           </div>
 

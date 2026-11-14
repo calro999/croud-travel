@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">長野・上高地＆大正池：河童橋・穂高連峰＆梓川クラシック宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「長野・上高地＆大正池：河童橋・穂高連峰＆梓川クラシック宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「長野・上高地＆大正池：河童橋・穂高連峰＆梓川クラシック宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -314,7 +314,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/129679/129679_twn.jpg" alt="星降るホテル　上高地大正池ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>上高地の玄関口大正池のほとり唯一の宿。神秘的な大正池の朝や夕方の写真撮影、上高地の散策の拠点に最適。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県松本市安曇上高地 ／ 最寄り駅：新島々 ／ 交通案内：大正池バス停目の前♪松本電鉄　新島々駅から松本電鉄上高地行きバスで５０分、「大正池バス停」下車、徒歩０分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県松本市安曇上高地 ／ 最寄り駅：新島々 ／ 交通案内：大正池バス停目の前♪松本電鉄　新島々駅から松本電鉄上高地行きバスで５０分、「大正池バス停」下車、徒歩０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -336,7 +336,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/15473/15473_room.jpg" alt="上高地　ホテル白樺荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>穂高一望絶景レストラン＆客室OPEN！「河童橋」横で上高地散策に好立地な『絶景の宿』。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県松本市安曇上高地4468 ／ 最寄り駅：新島々 ／ 交通案内：ＪＲ松本駅より松本電鉄終点新島々バス上高地行き乗換、JR高山駅よりバス平湯にてシャトルバス・タクシーに乗換。</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県松本市安曇上高地4468 ／ 最寄り駅：新島々 ／ 交通案内：ＪＲ松本駅より松本電鉄終点新島々バス上高地行き乗換、JR高山駅よりバス平湯にてシャトルバス・タクシーに乗換。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>上高地マイカー規制のため車の乗入れ不可。沢渡または平湯の公共駐車場をご利用ください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -358,7 +358,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2020/2020_heya.jpg" alt="さわんど温泉　上高地ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>信州が誇る山岳リゾート上高地までバスで20分！当館駐車場に車を置いたまま安心して散策を楽しめます♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県松本市安曇さわんど温泉4171 ／ 最寄り駅：松本 ／ 交通案内：長野自動車道松本ICより車で約45分　高山清見道路高山ICより車で約70分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県松本市安曇さわんど温泉4171 ／ 最寄り駅：松本 ／ 交通案内：長野自動車道松本ICより車で約45分　高山清見道路高山ICより車で約70分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　23台【無料】　徒歩3分の岩見平駐車場から上高地までバスで約20分</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -380,7 +380,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/25087/25087_r1.jpg" alt="奥飛騨温泉郷　新穂高温泉　リゾートインちろり庵 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★★ 皆様のおかげで岐阜県人気ホテル・旅館総合ランキング＜第1位＞に選ばれました ★★</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岐阜県高山市奥飛騨温泉郷中尾60 ／ 最寄り駅：高山 ／ 交通案内：JR高山本線・高山駅～新穂高行バス「星の鐘前」下車/東海北陸道高山IC・長野自動車道松本IC～R158で1時間半</p>
+                  <p><strong>【所在地・アクセス】</strong>岐阜県高山市奥飛騨温泉郷中尾60 ／ 最寄り駅：高山 ／ 交通案内：JR高山本線・高山駅～新穂高行バス「星の鐘前」下車/東海北陸道高山IC・長野自動車道松本IC～R158で1時間半</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -402,7 +402,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/38986/38986_he.jpg" alt="白骨温泉　お宿つるや　（旧：つるや旅館） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>白骨の名湯とつるや10大無料サービスをお楽しみください。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県松本市安曇4202-6 ／ 最寄り駅：主要駅 ／ 交通案内：松本ICより沢渡経由で車で60分。国道158号線→沢渡（さわんど）より県道300号線が最短ルートです。</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県松本市安曇4202-6 ／ 交通案内：松本ICより沢渡経由で車で60分。国道158号線→沢渡（さわんど）より県道300号線が最短ルートです。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　約２０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

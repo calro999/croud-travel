@@ -326,11 +326,11 @@ export default function FurusatoUpgradedPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本百名城の石垣美と天守を望む城下町名門ホテル×ふるさと納税厳選ガイド松本城・姫路城・熊本城：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本百名城の石垣美と天守を望む城下町名門ホテル×ふるさと納税厳選ガイド松本城・姫路城・熊本城」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「日本百名城の石垣美と天守を望む城下町名門ホテル×ふるさと納税厳選ガイド松本城・姫路城・熊本城」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -393,8 +393,8 @@ export default function FurusatoUpgradedPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/15154/15154_room.jpg" alt="松本ホテル花月 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「日本百名城の石垣美と天守を望む城下町名門ホテル×ふるさと納税厳選ガイド松本城・姫路城・熊本城」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県松本市大手4-8-9 ／ 最寄り駅：松本 ／ 交通案内：松本駅送迎あり◆要予約／松本ＢＴより「信州大学行バス」で約８分上土下車／ＪＲ松本駅より徒歩１５分／松本ＩＣより車で１０分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>松本ホテル花月（長野県松本市大手4-8-9）は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県松本市大手4-8-9 ／ 最寄り駅：松本 ／ 交通案内：松本駅送迎あり◆要予約／松本ＢＴより「信州大学行バス」で約８分上土下車／ＪＲ松本駅より徒歩１５分／松本ＩＣより車で１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７５台　880円（税込／泊）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -415,8 +415,8 @@ export default function FurusatoUpgradedPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/163181/163181_kan1.jpg" alt="ホテルモントレ姫路 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「日本百名城の石垣美と天守を望む城下町名門ホテル×ふるさと納税厳選ガイド松本城・姫路城・熊本城」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県姫路市駅前町60 ／ 最寄り駅：姫路 ／ 交通案内：ＪＲ姫路駅より直結</p>
+                  <p><strong>【宿の特徴・魅力】</strong>ホテルモントレ姫路（兵庫県姫路市駅前町60）は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県姫路市駅前町60 ／ 最寄り駅：姫路 ／ 交通案内：ＪＲ姫路駅より直結</p>
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場（タイムズマルイト姫路ビル）有。　１９０台　有料　先着順 　満車時は館外提携駐車場へ案内</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -437,8 +437,8 @@ export default function FurusatoUpgradedPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/841/841.jpg" alt="熊本ホテルキャッスル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「日本百名城の石垣美と天守を望む城下町名門ホテル×ふるさと納税厳選ガイド松本城・姫路城・熊本城」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：JR鹿児島本線『熊本駅』から車で約10分／市電『通町筋』下車徒歩約3分／九州自動車道『熊本IC』より車で約40分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>熊本ホテルキャッスルは、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：JR鹿児島本線『熊本駅』から車で約10分／市電『通町筋』下車徒歩約3分／九州自動車道『熊本IC』より車で約40分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

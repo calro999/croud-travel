@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">新潟・佐渡島＆相川金山：世界遺産佐渡金山・たらい舟＆尖閣湾・佐渡寒ブリ宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「新潟・佐渡島＆相川金山：世界遺産佐渡金山・たらい舟＆尖閣湾・佐渡寒ブリ宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「新潟・佐渡島＆相川金山：世界遺産佐渡金山・たらい舟＆尖閣湾・佐渡寒ブリ宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/10682/10682_rm.jpg" alt="湖畔の宿　吉田家　＜佐渡島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>両津港よりお車にて５分。（到着時電話にてお向かいあり、翌日も定期的に佐渡汽船まで送りあり）</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県佐渡市両津夷261-1 ／ 最寄り駅：佐渡空港 ／ 交通案内：佐渡汽船　両津港よりお車にて５分。無料送迎バス有り（要予約）</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県佐渡市両津夷261-1 ／ 最寄り駅：佐渡空港 ／ 交通案内：佐渡汽船　両津港よりお車にて５分。無料送迎バス有り（要予約）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31586/31586_k.jpg" alt="小木温泉　旅館かもめ荘　＜佐渡島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>100％源泉かけ流し天然温泉×新鮮な魚介類を堪能♪港近くの静かな住宅地に建つペンション風の平屋建て。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県佐渡市小木町11-7 ／ 最寄り駅：直江津 ／ 交通案内：JR新潟駅→佐渡汽船新潟港～佐渡両津港→車で６０分。JR北陸本線直江津駅→佐渡汽船直江津港～小木港より徒歩１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県佐渡市小木町11-7 ／ 最寄り駅：直江津 ／ 交通案内：JR新潟駅→佐渡汽船新潟港～佐渡両津港→車で６０分。JR北陸本線直江津駅→佐渡汽船直江津港～小木港より徒歩１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　２０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4621/4621_heya.jpg" alt="ふれあいハウス　潮津の里　＜佐渡島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★湾に沈む夕日が臨める絶好ロケーション★</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県佐渡市背合38 ／ 最寄り駅：佐渡空港 ／ 交通案内：両津港から車で４０分・赤泊より４０分・小木より３０分。</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県佐渡市背合38 ／ 最寄り駅：佐渡空港 ／ 交通案内：両津港から車で４０分・赤泊より４０分・小木より３０分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料　　3０台</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/29981/29981_w.jpg" alt="尖閣荘　＜佐渡島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>海鮮が自慢の尖閣湾を見下ろす絶景宿！海水浴場＆釣場まで徒歩5分♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県佐渡市姫津1431-2 ／ 最寄り駅：主要駅 ／ 交通案内：車…佐渡汽船「両津港」より車で６０分、「小木港」より車で８０分／バス…海府線「姫津南」下車すぐ</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県佐渡市姫津1431-2 ／ 交通案内：車…佐渡汽船「両津港」より車で６０分、「小木港」より車で８０分／バス…海府線「姫津南」下車すぐ</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　３０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9332/9332_war.jpg" alt="佐和田温泉　旅館入海　＜佐渡島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>黒い温泉と新鮮な海の幸を御堪能下さい。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県佐渡市窪田782 ／ 最寄り駅：佐渡空港 ／ 交通案内：入海は佐渡両津港より車で３０分。海岸まで３０ｍの海辺の黒い温泉。</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県佐渡市窪田782 ／ 最寄り駅：佐渡空港 ／ 交通案内：入海は佐渡両津港より車で３０分。海岸まで３０ｍの海辺の黒い温泉。</p>
                   <p>【新潟・佐渡島＆相川金山：世界遺産佐渡金山・たらい舟＆】 <strong>【駐車場・マイカー利用】</strong>有り　30台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/107792/107792_kya.jpg" alt="みなみ旅館　＜佐渡島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>両津港から車で5分！天然温泉と、佐渡の旬の味覚を堪能できる宿。目の前は海です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県佐渡市住吉215-1 ／ 最寄り駅：主要駅 ／ 交通案内：両津港より、お車で５分</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県佐渡市住吉215-1 ／ 交通案内：両津港より、お車で５分</p>
                   <p>【新潟・佐渡島＆相川金山：世界遺産佐渡金山・たらい舟＆】 <strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

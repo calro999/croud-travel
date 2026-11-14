@@ -228,11 +228,11 @@ export default function ThemeParkActivityHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">東京ディズニーリゾート提携ホテル：オフィシャル＆パートナーホテル・無料シャトル宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「東京ディズニーリゾート®提携ホテル：オフィシャル＆パートナーホテル・無料シャトル宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「東京ディズニーリゾート®提携ホテル：オフィシャル＆パートナーホテル・無料シャトル宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function ThemeParkActivityHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/54127/54127_hr.jpg" alt="舞浜ビューホテル　ｂｙ　ＨＵＬＩＣ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>円形の外観が目を引く東京ディズニーリゾート(R)オフィシャルホテル。サウナ付き大浴場で寛ぎの滞在を。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 千葉県浦安市舞浜1-34 ／ 最寄り駅：舞浜 ／ 交通案内：JR舞浜駅より無料送迎バス約5分/ディズニーリゾートライン「ベイサイド・ステーション」より約4分</p>
+                  <p><strong>【所在地・アクセス】</strong>千葉県浦安市舞浜1-34 ／ 最寄り駅：舞浜 ／ 交通案内：JR舞浜駅より無料送迎バス約5分/ディズニーリゾートライン「ベイサイド・ステーション」より約4分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>1泊3300円 2泊4700円 3泊以上6100円  到着日0時〜出発日14時まで／超過は別料金</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.52 ／ 立地 ★4.45 ／ 部屋 ★4.53 ／ 設備 ★4.42 ／ 風呂 ★4.42 ／ 食事 ★4.49</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function ThemeParkActivityHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/27929/27929.jpg" alt="東京ベイ舞浜ホテル　ファーストリゾート 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【舞浜】東京ディズニーリゾート(R)オフィシャルホテル</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 千葉県浦安市舞浜1-6 ／ 最寄り駅：舞浜 ／ 交通案内：ＪＲ舞浜駅より無料送迎バス約１０分、ＪＲ舞浜駅からディズニーリゾートラインでベイサイドステーション下車　送迎バスで約5分</p>
+                  <p><strong>【所在地・アクセス】</strong>千葉県浦安市舞浜1-6 ／ 最寄り駅：舞浜 ／ 交通案内：ＪＲ舞浜駅より無料送迎バス約１０分、ＪＲ舞浜駅からディズニーリゾートラインでベイサイドステーション下車　送迎バスで約5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>【ご宿泊日当日0:00～翌日14:00】 1泊3000円 ※時間外　300円/30分</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function ThemeParkActivityHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/179245/179245.jpg" alt="グランドニッコー東京ベイ　舞浜 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>東京ディズニーリゾート（R）・オフィシャルホテル。上質空間で特別なひと時を</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 千葉県浦安市舞浜1-7 ／ 最寄り駅：舞浜 ／ 交通案内：舞浜駅よりディズニーリゾートラインにて2駅目「ベイサイド・ステーション」下車後、徒歩約４分※舞浜駅より送迎バスも有り</p>
+                  <p><strong>【所在地・アクセス】</strong>千葉県浦安市舞浜1-7 ／ 最寄り駅：舞浜 ／ 交通案内：舞浜駅よりディズニーリゾートラインにて2駅目「ベイサイド・ステーション」下車後、徒歩約４分※舞浜駅より送迎バスも有り</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　1泊3,100円。2泊目以降、1泊に付き+1,600円（午前7時〜午後1時迄）※EV車充電器有</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.64 ／ 立地 ★4.66 ／ 部屋 ★4.62 ／ 設備 ★4.54 ／ 風呂 ★4.41 ／ 食事 ★4.64</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function ThemeParkActivityHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/67046/67046_room.jpg" alt="三井ガーデンホテル　プラナ東京ベイ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>楽天トラベルHotel &amp;amp; Ryokan of the Year 2024受賞！展望大浴場は終夜営業</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 千葉県浦安市明海6-2-1 ／ 最寄り駅：舞浜 ／ 交通案内：東京ディズニーランド（Ｒ）・バスターミナル・イースト6番乗り場からパートナーホテル・シャトルで約20分</p>
+                  <p><strong>【所在地・アクセス】</strong>千葉県浦安市明海6-2-1 ／ 最寄り駅：舞浜 ／ 交通案内：東京ディズニーランド（Ｒ）・バスターミナル・イースト6番乗り場からパートナーホテル・シャトルで約20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>1泊目入庫より30時間2000円　2泊目以降は24時間2000円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function ThemeParkActivityHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/38529/38529_ro.jpg" alt="ホテルエミオン東京ベイ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>椰子の木とゆとりある客室と天然温泉で、笑顔あふれるひとときを。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 千葉県浦安市日の出1-1-1 ／ 最寄り駅：新浦安 ／ 交通案内：JR京葉線・武蔵野線／新浦安駅より徒歩約７分　※東京ディズニーランド（R)発のホテル行きのシャトルバスも利用可／約１５分</p>
+                  <p><strong>【所在地・アクセス】</strong>千葉県浦安市日の出1-1-1 ／ 最寄り駅：新浦安 ／ 交通案内：JR京葉線・武蔵野線／新浦安駅より徒歩約７分　※東京ディズニーランド（R)発のホテル行きのシャトルバスも利用可／約１５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有料　平面駐車場　338台（出入口ゲート高さ制限 2.5m）予約不可</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function ThemeParkActivityHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4822/4822_heya.jpg" alt="ホテルイースト２１東京（オークラホテルズ＆リゾーツ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>東京駅から電車で約30分！東陽町駅から徒歩7分！19世紀のヨーロッパの雰囲気漂うホテル</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 東京都江東区東陽6-3-3 ／ 最寄り駅：東陽町 ／ 交通案内：東京メトロ東西線「東陽町駅」1番出口より徒歩約７分、JR錦糸町駅から都営バスで約15分</p>
+                  <p><strong>【所在地・アクセス】</strong>東京都江東区東陽6-3-3 ／ 最寄り駅：東陽町 ／ 交通案内：東京メトロ東西線「東陽町駅」1番出口より徒歩約７分、JR錦糸町駅から都営バスで約15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有（地下駐車場 車高2.1Ｍまで)1泊1台1,500円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

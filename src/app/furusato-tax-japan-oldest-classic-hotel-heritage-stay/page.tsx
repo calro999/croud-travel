@@ -460,11 +460,11 @@ export default function FurusatoFeaturePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本最古のクラシックリゾートホテル×ふるさと納税厳選ガイド日光金谷・箱根富士屋・雲仙観光ホテルの洋館ステイ：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本最古のクラシックリゾートホテル×ふるさと納税厳選ガイド日光金谷・箱根富士屋・雲仙観光ホテルの洋館ステイ」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「日本最古のクラシックリゾートホテル×ふるさと納税厳選ガイド日光金谷・箱根富士屋・雲仙観光ホテルの洋館ステイ」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -546,7 +546,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/28760/28760_kan.jpg" alt="日光金谷ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>創業明治６年、日本最古のクラシックリゾートホテル。明治の薫り漂う館内で時間旅行をご堪能下さい。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県日光市上鉢石町1300 ／ 最寄り駅：東武日光 ／ 交通案内：東武・ＪＲ日光駅よりバス約５分、神橋バス停下車／日光－宇都宮有料道路日光ＩＣより神橋交差点近く　日光東照宮より徒歩15分</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県日光市上鉢石町1300 ／ 最寄り駅：東武日光 ／ 交通案内：東武・ＪＲ日光駅よりバス約５分、神橋バス停下車／日光－宇都宮有料道路日光ＩＣより神橋交差点近く　日光東照宮より徒歩15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（屋外）　６０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.51 ／ 立地 ★4.53 ／ 部屋 ★4.37 ／ 設備 ★4.19 ／ 風呂 ★3.99 ／ 食事 ★4.65</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -568,7 +568,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1729/1729_t.jpg" alt="箱根湯本温泉　湯本富士屋ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>箱根湯本駅より徒歩3分。箱根観光の拠点に最適。多彩な客室と自慢の温泉・本格料理で寛ぐ休日。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県足柄下郡箱根町湯本256-1 ／ 最寄り駅：箱根湯本 ／ 交通案内：新宿駅より小田急線ロマンスカーにて約90分、箱根湯本駅下車徒歩3分。</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県足柄下郡箱根町湯本256-1 ／ 最寄り駅：箱根湯本 ／ 交通案内：新宿駅より小田急線ロマンスカーにて約90分、箱根湯本駅下車徒歩3分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場150台。小田厚道路箱根口ICより約3km、お車でのご来館も大変便利です。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -590,7 +590,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1727/1727_r.jpg" alt="富士屋ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>◇おかげさまで創業148周年◇明治11年創業の箱根のクラシックホテル</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県足柄下郡箱根町宮ノ下359 ／ 最寄り駅：宮ノ下 ／ 交通案内：箱根登山鉄道「宮ノ下駅」より 徒歩７分 / 小田原厚木道路「箱根口IC」より国道1号線経由20分 （11㎞）</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県足柄下郡箱根町宮ノ下359 ／ 最寄り駅：宮ノ下 ／ 交通案内：箱根登山鉄道「宮ノ下駅」より 徒歩７分 / 小田原厚木道路「箱根口IC」より国道1号線経由20分 （11㎞）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り(無料)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -612,7 +612,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/181618/181618.jpg" alt="ＳＴＡＧＩＯＮＥ箱根湯本 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>グループにおすすめ！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県足柄下郡箱根町湯本327-1　スタジオーネ箱根湯本ＥＡＳＴ－101 ／ 最寄り駅：箱根湯本 ／ 交通案内：小田急線 箱根登山鉄道 「箱根湯本駅」 箱根方面バス口 約７分</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県足柄下郡箱根町湯本327-1　スタジオーネ箱根湯本ＥＡＳＴ－101 ／ 最寄り駅：箱根湯本 ／ 交通案内：小田急線 箱根登山鉄道 「箱根湯本駅」 箱根方面バス口 約７分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１組１台　無料　予備もございます</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -634,7 +634,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/30119/30119_r1.jpg" alt="雲仙観光ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>昭和10年創業。 過去と現在、そして未来へ。紡がれる伝統とくつろぎ｜進化するおもてなし。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長崎県雲仙市小浜町雲仙320 ／ 最寄り駅：諫早 ／ 交通案内：ＪＲ諫早駅よりバスで８０分／諫早ＩＣより車で６０分／島原外港より車・バスで４０分</p>
+                  <p><strong>【所在地・アクセス】</strong>長崎県雲仙市小浜町雲仙320 ／ 最寄り駅：諫早 ／ 交通案内：ＪＲ諫早駅よりバスで８０分／諫早ＩＣより車で６０分／島原外港より車・バスで４０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料にてご用意がございます。約30台・ 屋外駐車場のみ・ヴァレーパーキング：一部可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.8 ／ 立地 ★4.69 ／ 部屋 ★4.78 ／ 設備 ★4.64 ／ 風呂 ★4.71 ／ 食事 ★4.82</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

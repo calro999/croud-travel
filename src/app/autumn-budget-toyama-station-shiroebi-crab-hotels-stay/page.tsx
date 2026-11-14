@@ -359,11 +359,11 @@ export default function AutumnBudgetToyamaStationHotelsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">富山：秋の白えび・紅ズワイガニ満喫！富山駅前の格安・高コスパホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「富山：秋の白えび・紅ズワイガニ満喫！富山駅前の格安・高コスパホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「富山：秋の白えび・紅ズワイガニ満喫！富山駅前の格安・高コスパホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -445,7 +445,7 @@ export default function AutumnBudgetToyamaStationHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/111246/111246_smd.jpg" alt="アパホテル〈富山駅前南〉 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>北陸新幹線 / あいの風とやま鉄道【富山駅】より徒歩3分　全室140cm幅ベッドで安眠約束</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 富山県富山市桜町1-5-20 ／ 最寄り駅：富山 ／ 交通案内：■北陸新幹線 / あいの風とやま鉄道【富山駅】より徒歩3分■北陸道「富山IC」より車で約15分　旅の拠点となる立地</p>
+                  <p><strong>【所在地・アクセス】</strong>富山県富山市桜町1-5-20 ／ 最寄り駅：富山 ／ 交通案内：■北陸新幹線 / あいの風とやま鉄道【富山駅】より徒歩3分■北陸道「富山IC」より車で約15分　旅の拠点となる立地</p>
                   <p><strong>【駐車場・マイカー利用】</strong>【有】NPC富山駅前スクエア</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.13 ／ 立地 ★4.17 ／ 部屋 ★4.07 ／ 設備 ★4.06 ／ 風呂 ★3.94 ／ 食事 ★3.98</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -467,7 +467,7 @@ export default function AutumnBudgetToyamaStationHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/520/520_kan.jpg" alt="富山エクセルホテル東急 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>富山駅から徒歩3分。立山黒部アルペンルート観光やビジネスの拠点に最適です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 富山県富山市新富町1-2-3 ／ 最寄り駅：富山 ／ 交通案内：★ＪＲ富山駅前（CICビル）徒歩3分◆富山空港よりバス20分・空港バス停留所徒歩1分</p>
+                  <p><strong>【所在地・アクセス】</strong>富山県富山市新富町1-2-3 ／ 最寄り駅：富山 ／ 交通案内：★ＪＲ富山駅前（CICビル）徒歩3分◆富山空港よりバス20分・空港バス停留所徒歩1分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り【契約駐車場（徒歩約1〜2分）】1400円　（14:00〜翌日11:00／１泊）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★4.36 ／ 部屋 ★4.25 ／ 設備 ★4.19 ／ 風呂 ★4.09 ／ 食事 ★4.24</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -489,7 +489,7 @@ export default function AutumnBudgetToyamaStationHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1552/1552_twn.jpg" alt="ホテルグランテラス富山桜橋通り（ＢＢＨホテルグループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>● おいしい朝食が人気のシティホテル●ウェルカムドリンクサービス始めました♪●コインランドリー新設</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 富山県富山市桜橋通り2-28 ／ 最寄り駅：富山 ／ 交通案内：●富山駅南口から徒歩約6分（市内路面電車「電気ビル前」正面）●富山ICから車で20分●富山空港から車で20分</p>
+                  <p><strong>【所在地・アクセス】</strong>富山県富山市桜橋通り2-28 ／ 最寄り駅：富山 ／ 交通案内：●富山駅南口から徒歩約6分（市内路面電車「電気ビル前」正面）●富山ICから車で20分●富山空港から車で20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>先着順地下30台、提携駐車場＝河口ビル　各１泊税込1100円、バスは事前連絡要、トラック不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.92 ／ 立地 ★3.89 ／ 部屋 ★3.74 ／ 設備 ★3.72 ／ 風呂 ★3.68 ／ 食事 ★3.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -511,7 +511,7 @@ export default function AutumnBudgetToyamaStationHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1971/1971_heya.jpg" alt="富山の奥座敷、秘湯の一軒宿　小川温泉元湯　ホテルおがわ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>開湯400周年を優に超える越中四名湯にも数えられた歴史ある小川温泉　山間の一軒宿　ホテルおがわ</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 富山県下新川郡朝日町湯ノ瀬１ ／ 最寄り駅：泊（富山） ／ 交通案内：北陸自動車道朝日インター下車２０分。無料送迎サービスあり（北陸新幹線黒部宇奈月温泉駅、あいの風鉄道泊駅）</p>
+                  <p><strong>【所在地・アクセス】</strong>富山県下新川郡朝日町湯ノ瀬１ ／ 最寄り駅：泊（富山） ／ 交通案内：北陸自動車道朝日インター下車２０分。無料送迎サービスあり（北陸新幹線黒部宇奈月温泉駅、あいの風鉄道泊駅）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　北陸自動車道朝日ＩＣより１５分。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.32 ／ 立地 ★4.31 ／ 部屋 ★4.34 ／ 設備 ★3.96 ／ 風呂 ★4.3 ／ 食事 ★4.12</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -533,7 +533,7 @@ export default function AutumnBudgetToyamaStationHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4657/4657_heya.jpg" alt="大仏旅館＜高岡＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>安らぐ富山の昔ながらの旅館。 高岡大仏まで徒歩約1分！朝夕食共に個室食またはお部屋食</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 富山県高岡市大仏町1276 ／ 最寄り駅：高岡 ／ 交通案内：JR高岡駅北口より徒歩約6分。お車の場合、能越自動車道　高岡ICから約15分。</p>
+                  <p><strong>【所在地・アクセス】</strong>富山県高岡市大仏町1276 ／ 最寄り駅：高岡 ／ 交通案内：JR高岡駅北口より徒歩約6分。お車の場合、能越自動車道　高岡ICから約15分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　15台　無料（先着順）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

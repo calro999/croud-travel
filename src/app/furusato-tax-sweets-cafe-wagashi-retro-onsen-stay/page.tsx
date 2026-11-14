@@ -548,11 +548,11 @@ export default function FurusatoFeaturePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">銘菓・和カフェ＆老舗スイーツめぐり温泉宿×ふるさと納税厳選ガイド金沢・小布施・伊勢の甘味旅：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「銘菓・和カフェ＆老舗スイーツめぐり温泉宿×ふるさと納税厳選ガイド金沢・小布施・伊勢の甘味旅」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「銘菓・和カフェ＆老舗スイーツめぐり温泉宿×ふるさと納税厳選ガイド金沢・小布施・伊勢の甘味旅」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -590,7 +590,7 @@ export default function FurusatoFeaturePage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテル金沢</td>
-                <td className="p-3 text-stone-600">石川県</td>
+                <td className="p-3 text-stone-600">石川県金沢市堀川新町1-1</td>
                 <td className="p-3 text-stone-600">金沢駅の兼六園口（東口）から徒歩約１分。小松空港からリムジンバスで４０</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.47（1681件）</td>
@@ -643,7 +643,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/180588/180588.jpg" alt="天然温泉　鼓門の湯　スーパーホテルＰｒｅｍｉｅｒ金沢駅東口 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>金沢駅東口より徒歩７分！主要駅からのアクセスが良くビジネスや観光に便利♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県金沢市本町2-5-15 ／ 最寄り駅：金沢 ／ 交通案内：金沢駅東口より徒歩7分。金沢東ICより約15分。</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県金沢市本町2-5-15 ／ 最寄り駅：金沢 ／ 交通案内：金沢駅東口より徒歩7分。金沢東ICより約15分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル専用駐車場、駐輪場はございません。近隣駐車場のご案内となります</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -665,7 +665,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9004/9004_dtw.jpg" alt="金沢白鳥路　ホテル山楽 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>金沢城のすぐ側で美肌の湯と金沢美食、そして心温まるおもてなしに癒されて日常をひと休みしませんか。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県金沢市丸の内6-3 ／ 最寄り駅：金沢 ／ 交通案内：■金沢駅⇔ホテル無料送迎バス■金沢駅東口より車で１０分■金沢駅東口⑥、⑦乗り場【兼六園下・金沢城】バス停下車徒歩５分</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県金沢市丸の内6-3 ／ 最寄り駅：金沢 ／ 交通案内：■金沢駅⇔ホテル無料送迎バス■金沢駅東口より車で１０分■金沢駅東口⑥、⑦乗り場【兼六園下・金沢城】バス停下車徒歩５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>地下駐車場50台／料金1泊1台1,000円／24時間入出庫可／高さ制限2.1ｍ未満</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -686,8 +686,8 @@ export default function FurusatoFeaturePage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1371/1371.jpg" alt="ホテル金沢 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「銘菓・和カフェ＆老舗スイーツめぐり温泉宿×ふるさと納税厳選ガイド金沢・小布施・伊勢の甘味旅」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：金沢駅の兼六園口（東口）から徒歩約１分。小松空港からリムジンバスで４０分。北陸自動車道の金沢東インターから車で１０分。</p>
+                  <p><strong>【宿の特徴・魅力】</strong>駅から徒歩約4分の好立地／トイレ・バス別のセミセパレート／1階コンビニ／ウェルカムドリンク有</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：金沢駅の兼六園口（東口）から徒歩約１分。小松空港からリムジンバスで４０分。北陸自動車道の金沢東インターから車で１０分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -709,7 +709,7 @@ export default function FurusatoFeaturePage() {
                 
                 <div className="md:col-span-3 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全室から北アルプスや北信五岳を一望できる絶好のロケーションの小布施で唯一の温泉宿となります。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県上高井郡小布施町雁田1311 ／ 最寄り駅：主要駅 ／ 交通案内：</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県上高井郡小布施町雁田1311 ／ 交通案内：</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -731,7 +731,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/189051/189051.jpg" alt="ゲストハウス小布施 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ひと・こと・まちをまるごとつなぐ”北斎が愛した街”小布施の宿り場</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県上高井郡小布施町小布施中町東側791 ／ 最寄り駅：小布施 ／ 交通案内：徒歩約１０分／上信越自動車道小布施スマートＩＣより車で約５分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県上高井郡小布施町小布施中町東側791 ／ 最寄り駅：小布施 ／ 交通案内：徒歩約１０分／上信越自動車道小布施スマートＩＣより車で約５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -753,7 +753,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/199282/199282.jpg" alt="小布施の宿　あずまや 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>小布施の中心部に位置し、観光・ビジネス利用に便利なセルフチェックインの全15室の宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県上高井郡小布施町小布施1110-1 ／ 最寄り駅：小布施 ／ 交通案内：小布施駅より徒歩7分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県上高井郡小布施町小布施1110-1 ／ 最寄り駅：小布施 ／ 交通案内：小布施駅より徒歩7分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>あり　10台　1日1000円　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

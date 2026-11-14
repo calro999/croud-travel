@@ -310,37 +310,6 @@ export default function Page() {
           </div>
         </section>
 
-        {/* よくある質問 FAQ */}
-        <section className="mb-16 bg-white rounded-2xl shadow-sm border border-emerald-900/10 p-6 md:p-8">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">よくある質問・サウナリゾートの楽しみ方</h2>
-          <div className="space-y-4">
-            
-            <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-emerald-700 font-serif font-black text-lg">Q.</span>
-                <span>高温ドライサウナが苦手な人でも楽しめますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
-                はい、薬草スチームやハーブサウナは45〜50度前後のマイルドな中温・高湿度設定のため、息苦しさがなく、ドライサウナの熱風が苦手な方や女性・シニア層にも大変心地よくご利用いただけます。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-emerald-700 font-serif font-black text-lg">Q.</span>
-                <span>アーユルヴェーダのシロダーラを受ける際の注意点はありますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
-                頭皮や髪に温かい薬用オイルをたっぷり使用するため、施術後は専用のハーブシャンプーで洗い流すか、当日は激しい運動や飲酒を避けて静かに休息を取ることでトリートメントの効果を最大限に高められます。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-emerald-700 font-serif font-black text-lg">Q.</span>
-                <span>一人旅やリフレッシュ休暇にも向いていますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
-                非常に適しています。静かな環境で自分自身の心と身体に向き合う「セルフケア」「ウェルネスリトリート」として、日常のストレスを解消したい働く女性や男性の一人旅に大人気です。
-              </p>
-            </div>
-          </div>
-        </section>
-
         {/* 関連リンク */}
         <section className="bg-stone-200/70 rounded-2xl p-6 md:p-8 text-center border border-stone-300">
           <h3 className="text-xl font-bold text-stone-900 mb-3 font-serif">他のサウナ＆ウェルネス・癒しの宿を探す</h3>

@@ -526,11 +526,11 @@ export default function KoyasanPassPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">高野山・世界遺産きっぷ完全攻略：南海電鉄＋高野山内バス乗り放題でいくら浮く？宿坊ステイ＆金剛峯寺：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「高野山・世界遺産きっぷ完全攻略：南海電鉄＋高野山内バス乗り放題でいくら浮く？宿坊ステイ＆金剛峯寺」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「高野山・世界遺産きっぷ完全攻略：南海電鉄＋高野山内バス乗り放題でいくら浮く？宿坊ステイ＆金剛峯寺」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -612,7 +612,7 @@ export default function KoyasanPassPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8108/8108_he.jpg" alt="高野山温泉　福智院 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>高野山唯一の天然温泉と露天風呂がある高野山最大の宿坊です。重森三玲による3つの庭園もお楽しみ下さい。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県伊都郡高野町高野山657 ／ 最寄り駅：極楽橋 ／ 交通案内：金剛峯寺前バス停から徒歩5分(2024年8月26日から変更)</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県伊都郡高野町高野山657 ／ 最寄り駅：極楽橋 ／ 交通案内：金剛峯寺前バス停から徒歩5分(2024年8月26日から変更)</p>
                   <p><strong>【駐車場・マイカー利用】</strong>20台（無料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.93 ／ 立地 ★4.24 ／ 部屋 ★3.7 ／ 設備 ★3.81 ／ 風呂 ★4.03 ／ 食事 ★4.14</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -634,7 +634,7 @@ export default function KoyasanPassPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/14119/14119_room.jpg" alt="高野山　持明院 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>９００年の歴史があり武田家、京極家等とゆかりの深いお寺です。庭園に囲まれた落ち着ける宿坊です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県伊都郡高野町高野山455 ／ 最寄り駅：極楽橋 ／ 交通案内：南海電車林間高野線『極楽橋駅』</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県伊都郡高野町高野山455 ／ 最寄り駅：極楽橋 ／ 交通案内：南海電車林間高野線『極楽橋駅』</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -656,7 +656,7 @@ export default function KoyasanPassPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/54921/54921_room.jpg" alt="宿坊　桜池院 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>1100年代に白河天皇第四皇子覚法親王様が開基。宿坊ならではの精進料理・写経や珍しい写仏体験も可能！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県伊都郡高野町高野山293 ／ 最寄り駅：極楽橋 ／ 交通案内：南海・難波駅より高野線にて高野山駅下車、タクシーにて約10分 /お車の方はR24笠田駅前交差点より高野山方面へ</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県伊都郡高野町高野山293 ／ 最寄り駅：極楽橋 ／ 交通案内：南海・難波駅より高野線にて高野山駅下車、タクシーにて約10分 /お車の方はR24笠田駅前交差点より高野山方面へ</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　10台（大型バス3台）　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -678,7 +678,7 @@ export default function KoyasanPassPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/145476/145476_kan1.jpg" alt="ホテル　ルートイン橋本 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ビジネス・高野山観光に最適橋本IC車で5分■駐車場・朝食・ＷＯＷＯＷ無料■Wi-Fi完備■居酒屋併設</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県橋本市市脇4-10-28 ／ 最寄り駅：橋本（和歌山） ／ 交通案内：ＪＲ・南海高野線　橋本駅　TAXIにて約７分。/京奈和自動車道・橋本ICより約5分。　平面駐車場100台完備</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県橋本市市脇4-10-28 ／ 最寄り駅：橋本（和歌山） ／ 交通案内：ＪＲ・南海高野線　橋本駅　TAXIにて約７分。/京奈和自動車道・橋本ICより約5分。　平面駐車場100台完備</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　108台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -700,7 +700,7 @@ export default function KoyasanPassPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/173099/173099.jpg" alt="ホステルイン橋本 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>橋本駅徒歩1分！コンビニ近く！高野山へのアクセス抜群！大阪難波から乗り換えなしで５０分！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県橋本市古佐田2-61-4 ／ 最寄り駅：橋本（和歌山） ／ 交通案内：南海高野線／ＪＲ和歌山線　橋本駅より徒歩にて約1分</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県橋本市古佐田2-61-4 ／ 最寄り駅：橋本（和歌山） ／ 交通案内：南海高野線／ＪＲ和歌山線　橋本駅より徒歩にて約1分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（要予約）ご利用の方はご連絡下さい</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">京都・宇治＆伏見酒蔵：世界遺産平等院・宇治抹茶＆伏見十石舟・酒蔵宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「京都・宇治＆伏見酒蔵：世界遺産平等院・宇治抹茶＆伏見十石舟・酒蔵宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「京都・宇治＆伏見酒蔵：世界遺産平等院・宇治抹茶＆伏見十石舟・酒蔵宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/153403/153403_kan1.jpg" alt="宇治壱番宿にがうり 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR宇治駅徒歩5分★１日１組限定の一棟貸切タイプ旅館★平等院も徒歩10分★お茶の街「宇治」に宿泊♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 京都府宇治市宇治里尻2-17 ／ 最寄り駅：宇治（京都） ／ 交通案内：ＪＲ宇治駅及び京阪宇治駅より徒歩にて約５分</p>
+                  <p><strong>【所在地・アクセス】</strong>京都府宇治市宇治里尻2-17 ／ 最寄り駅：宇治（京都） ／ 交通案内：ＪＲ宇治駅及び京阪宇治駅より徒歩にて約５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>★徒歩2分以内に専用駐車場がございます(無料)★</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/151223/151223_kan1.jpg" alt="旅館あづまや　＜京都府＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>西本願寺からすぐ！アクセス抜群の素泊まり旅館です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 京都府京都市下京区堀川通り七条上ル（西本願寺前） ／ 最寄り駅：京都 ／ 交通案内：ＪＲ　京都駅より徒歩にて約12分</p>
+                  <p><strong>【所在地・アクセス】</strong>京都府京都市下京区堀川通り七条上ル（西本願寺前） ／ 最寄り駅：京都 ／ 交通案内：ＪＲ　京都駅より徒歩にて約12分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>なし</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.25 ／ 部屋 ★4.06 ／ 設備 ★4 ／ 風呂 ★4.05</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/183807/183807.jpg" alt="京町家　一棟貸し　ｈｉｇｕｒａｓｈｉ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>築100年の京町家の古き良き趣を大切にモダンかつ機能的にリノベーション！長期滞在にも最適◎</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 京都府京都市伏見区肥後町357 ／ 最寄り駅：丹波橋 ／ 交通案内：丹波橋駅より徒歩約10分</p>
+                  <p><strong>【所在地・アクセス】</strong>京都府京都市伏見区肥後町357 ／ 最寄り駅：丹波橋 ／ 交通案内：丹波橋駅より徒歩約10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>お近くのコインパーキングをご利用ください（400円/24h、徒歩4分）（900円/24h、徒歩2分）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/168309/168309.jpg" alt="優遊　ＩＮＮ　Ｆｕｓｈｉｍｉ　Ｋｙｏｔｏ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>伏見エリア【墨染駅3分】水回り独立&amp;amp;幅140ダブルベットの快適ホテル。非対面チェックイン◎</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 京都府京都市伏見区深草山村町999-4 ／ 最寄り駅：墨染 ／ 交通案内：京阪：墨染駅より徒歩3分　　近鉄：伏見駅より徒歩10分　「伏見稲荷大社」「祇園四条」へ乗換なしで便利な立地◎</p>
+                  <p><strong>【所在地・アクセス】</strong>京都府京都市伏見区深草山村町999-4 ／ 最寄り駅：墨染 ／ 交通案内：京阪：墨染駅より徒歩3分　　近鉄：伏見駅より徒歩10分　「伏見稲荷大社」「祇園四条」へ乗換なしで便利な立地◎</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無し　　近隣にコインパーキングあり（徒歩1分：24ｈ660円等）※出入り毎に料金がかかります。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/158394/158394_kan1.jpg" alt="ゲストハウス　ベル伏見 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>酒どころエリアである京都伏見に佇む、京町家をリノベーションした完全個室のゲストハウス</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 京都府京都市伏見区紺屋町169 ／ 最寄り駅：丹波橋 ／ 交通案内：近鉄桃山御陵前駅、京阪伏見桃山駅より徒歩約12分。京都市バス81系統「肥後町」下車徒歩2分</p>
+                  <p><strong>【所在地・アクセス】</strong>京都府京都市伏見区紺屋町169 ／ 最寄り駅：丹波橋 ／ 交通案内：近鉄桃山御陵前駅、京阪伏見桃山駅より徒歩約12分。京都市バス81系統「肥後町」下車徒歩2分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１台　５００円（税込み／泊）　要予約</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/28566/28566_t.jpg" alt="パルセス　イン　京都 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>名神京都南ICより車で約5分、京都駅から公共交通機関で約20分。無料駐車場完備でお車利用の人も歓迎！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 京都府京都市伏見区下鳥羽東芹川町45 ／ 最寄り駅：竹田（京都） ／ 交通案内：近鉄京都線・地下鉄烏丸線の竹田駅より車で約5分／名神高速道路・京都南ICより車で約5分</p>
+                  <p><strong>【所在地・アクセス】</strong>京都府京都市伏見区下鳥羽東芹川町45 ／ 最寄り駅：竹田（京都） ／ 交通案内：近鉄京都線・地下鉄烏丸線の竹田駅より車で約5分／名神高速道路・京都南ICより車で約5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>地下駐車場24台分（無料）。先着順となります。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

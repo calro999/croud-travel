@@ -236,7 +236,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -681,11 +681,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：神秘のカルデラ湖畔！十和田湖カヌー＆奥入瀬渓流散策と大自然リゾート5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：神秘のカルデラ湖畔！十和田湖カヌー＆奥入瀬渓流散策と大自然リゾート5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：神秘のカルデラ湖畔！十和田湖カヌー＆奥入瀬渓流散策と大自然リゾート5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -767,7 +767,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9688/9688.jpg" alt="十和田湖畔温泉　ホテル十和田荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>高さ15m・幅5ｍの末広大滝は圧巻　館内は広々！ロビーには「青森ねぶた」や「東北のこけし」を多数展示</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 青森県十和田市大字奥瀬字十和田湖畔休屋３４０ ／ 最寄り駅：主要駅 ／ 交通案内：東北自動車道十和田ICから車で45分　JR八戸駅、JR青森駅から車で120分</p>
+                  <p><strong>【所在地・アクセス】</strong>青森県十和田市大字奥瀬字十和田湖畔休屋３４０ ／ 交通案内：東北自動車道十和田ICから車で45分　JR八戸駅、JR青森駅から車で120分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -789,7 +789,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2974/2974_heya.jpg" alt="縄文のふる里　大湯温泉　ホテル鹿角 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>開湯800年の名湯と四季折々の彩りが添えられた料理を楽しむ。箱根・富士屋ホテルや花巻温泉もグループ。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 秋田県鹿角市十和田大湯字中谷地５－１ ／ 最寄り駅：十和田南 ／ 交通案内：■十和田湖より車で30分■ＪＲ花輪線十和田南駅から車で１２分■東北道十和田ＩＣから国道１０３号線を十和田湖方面へ１２分</p>
+                  <p><strong>【所在地・アクセス】</strong>秋田県鹿角市十和田大湯字中谷地５－１ ／ 最寄り駅：十和田南 ／ 交通案内：■十和田湖より車で30分■ＪＲ花輪線十和田南駅から車で１２分■東北道十和田ＩＣから国道１０３号線を十和田湖方面へ１２分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　２００台　無料　　　　　　　　　　　　　　　　★お得な宿泊プラン満載★</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -811,7 +811,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/51757/51757.jpg" alt="十和田西湖畔温泉　十和田プリンスホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「秋田県宿泊応援事業」対象施設　予約受付は５月７日より受付開始</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 秋田県鹿角郡小坂町十和田湖西湖畔 ／ 最寄り駅：主要駅 ／ 交通案内：東北道小坂ＩＣから３１ｋｍ（約４０分）／八戸駅（木～日曜日のみ運行）・休屋バス停から無料送迎バスあり（２日前まで予約）</p>
+                  <p><strong>【所在地・アクセス】</strong>秋田県鹿角郡小坂町十和田湖西湖畔 ／ 交通案内：東北道小坂ＩＣから３１ｋｍ（約４０分）／八戸駅（木～日曜日のみ運行）・休屋バス停から無料送迎バスあり（２日前まで予約）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -833,7 +833,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/16239/16239_rm.jpg" alt="大滝温泉　千歳ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>米代川に面する心なごむ宿。かけ流しの天然温泉と地元の味覚を使用したお食事が魅力。ペットＯＫ！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 秋田県大館市十二所町頭49 ／ 最寄り駅：大滝温泉 ／ 交通案内：ペットOK☆東北自動車道　十和田ＩＣより約１５分。ＪＲ大滝温泉駅より徒歩８分。大館駅からは路線バスもご利用いただけます。</p>
+                  <p><strong>【所在地・アクセス】</strong>秋田県大館市十二所町頭49 ／ 最寄り駅：大滝温泉 ／ 交通案内：ペットOK☆東北自動車道　十和田ＩＣより約１５分。ＪＲ大滝温泉駅より徒歩８分。大館駅からは路線バスもご利用いただけます。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>ホテルの近くに有り。６０台が駐車でき、無料です。先着順となっております。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -855,7 +855,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/20171/20171_wa.jpg" alt="八幡平温泉郷　八幡平高原ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2つの源泉が楽しめる高原ホテル★手作りの健康食とおもてなしで故郷を感じて</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 秋田県鹿角市八幡平字熊沢国有林３１３３林班ハ小班 ／ 最寄り駅：鹿角花輪 ／ 交通案内：【東北自動車道】　松尾八幡平I.Cより県道23号線約55分／鹿角八幡平I.Cより車で約30分</p>
+                  <p><strong>【所在地・アクセス】</strong>秋田県鹿角市八幡平字熊沢国有林３１３３林班ハ小班 ／ 最寄り駅：鹿角花輪 ／ 交通案内：【東北自動車道】　松尾八幡平I.Cより県道23号線約55分／鹿角八幡平I.Cより車で約30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

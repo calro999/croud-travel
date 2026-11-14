@@ -236,7 +236,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -680,11 +680,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：大空を舞う感動体験！パラグライダー＆大パノラマ展望露天リゾート5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：大空を舞う感動体験！パラグライダー＆大パノラマ展望露天リゾート5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：大空を舞う感動体験！パラグライダー＆大パノラマ展望露天リゾート5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -713,7 +713,7 @@ export default function FeatureDetailPage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテル四季の蔵　高台から海を臨む　貸切温泉のペットリゾート</td>
-                <td className="p-3 text-stone-600">宮城県</td>
+                <td className="p-3 text-stone-600">静岡県賀茂郡河津町峰1169-13</td>
                 <td className="p-3 text-stone-600">東名高速沼津ＩＣから５０ｋｍ、９０分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（351件）</td>
@@ -766,7 +766,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/13890/13890_bath.jpg" alt="鬼首温泉　リゾートパーク　ホテル　オニコウベ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>大自然に囲まれたリゾートホテル～宮城県北唯一プールのある施設</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮城県大崎市鳴子温泉鬼首大清水26-29 ／ 最寄り駅：鳴子温泉 ／ 交通案内：東北自動車道古川ICより47号線を鳴子方面へ、岩下こけし資料館前交差点から108号線を秋田方面に入り約20分</p>
+                  <p><strong>【所在地・アクセス】</strong>宮城県大崎市鳴子温泉鬼首大清水26-29 ／ 最寄り駅：鳴子温泉 ／ 交通案内：東北自動車道古川ICより47号線を鳴子方面へ、岩下こけし資料館前交差点から108号線を秋田方面に入り約20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８５台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -787,8 +787,8 @@ export default function FeatureDetailPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/30048/30048.jpg" alt="ホテル四季の蔵　高台から海を臨む　貸切温泉のペットリゾート 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「大空を舞う感動体験（パラグライダー＆大パノラマ展望露天リゾート5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：東名高速沼津ＩＣから５０ｋｍ、９０分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>●自家源泉●愛犬と過ごす森の中の休日。アジアンテイストの癒しの隠れ家的スモールホテルです。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：東名高速沼津ＩＣから５０ｋｍ、９０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -810,7 +810,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/38761/38761_su.jpg" alt="伊豆高原温泉　客室露天風呂付リゾートホテル　コルテラルゴ伊豆高原 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全室天然温泉の露天風呂付◇熟練シェフによる創作イタリアンと健康志向こだわりの朝食</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県伊東市富戸1038-73 ／ 最寄り駅：伊豆高原 ／ 交通案内：伊豆急行線　伊豆高原駅より車にて１０分／東名　厚木ＩＣより小田原厚木道路経由、Ｒ１３５を下田方面へ１２０分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県伊東市富戸1038-73 ／ 最寄り駅：伊豆高原 ／ 交通案内：伊豆急行線　伊豆高原駅より車にて１０分／東名　厚木ＩＣより小田原厚木道路経由、Ｒ１３５を下田方面へ１２０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　９台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.88 ／ 立地 ★4.63 ／ 部屋 ★4.82 ／ 設備 ★4.81 ／ 風呂 ★4.81 ／ 食事 ★4.88</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -832,7 +832,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/16773/16773_bath.jpg" alt="白馬みずばしょう温泉　ホテル　シェラリゾート白馬 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>温泉リゾートホテル、フレンチが人気！楽天トラベルアワード２０２５ゴールド／日本の宿ＴＯＰ４７受賞★</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県北安曇郡白馬村北城14863-6 ／ 最寄り駅：白馬 ／ 交通案内：JR白馬駅よりホテルバス（要予約）にて10分／長野道安曇野I.Cより60分／糸魚川I.Cより60分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県北安曇郡白馬村北城14863-6 ／ 最寄り駅：白馬 ／ 交通案内：JR白馬駅よりホテルバス（要予約）にて10分／長野道安曇野I.Cより60分／糸魚川I.Cより60分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>乗用車約100台駐車可能。無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -854,7 +854,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/28013/28013_be.jpg" alt="熱海温泉　ＲｅｌａｘＲｅｓｏｒｔＨｏｔｅｌ　リラックスリゾートホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【熱海一望】客室からの絶景、細かなサービスと美食をお約束します</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県熱海市咲見町6-41 ／ 最寄り駅：熱海 ／ 交通案内：JＲ熱海駅～タクシーで5分／東名・厚木IC～70分／新東名・長泉沼津IC～40分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県熱海市咲見町6-41 ／ 最寄り駅：熱海 ／ 交通案内：JＲ熱海駅～タクシーで5分／東名・厚木IC～70分／新東名・長泉沼津IC～40分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.64 ／ 立地 ★4.4 ／ 部屋 ★4.49 ／ 設備 ★4.43 ／ 風呂 ★4.23 ／ 食事 ★4.67</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

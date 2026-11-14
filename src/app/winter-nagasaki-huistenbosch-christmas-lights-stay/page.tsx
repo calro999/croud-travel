@@ -369,7 +369,7 @@ export default function HuistenboschChristmasPage() {
             <span className="text-xs font-bold text-indigo-600 uppercase tracking-widest">Selected Hotels</span>
             <h2 className="text-2xl sm:text-3xl font-bold text-stone-900 mt-1">光の街のクリスマスを堪能するヨーロッパ風リゾート＆名湯宿5選</h2>
             <p className="text-stone-500 text-sm mt-2">
-              楽天トラベル公式APIから取得した最新の料金・クチコミ評価とともに、冬のハウステンボス観光に最適な5軒を詳細解説。
+              宿泊施設データから取得した最新の料金・クチコミ評価とともに、冬のハウステンボス観光に最適な5軒を詳細解説。
             </p>
           </div>
 

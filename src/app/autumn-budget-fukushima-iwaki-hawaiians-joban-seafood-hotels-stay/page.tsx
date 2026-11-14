@@ -285,11 +285,11 @@ export default function AutumnBudgetIwakiHotelsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">いわき：常磐ものの秋魚グルメ＆ハワイアンズ拠点！2,000円台〜格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「いわき：常磐ものの秋魚グルメ＆ハワイアンズ拠点！2,000円台〜格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「いわき：常磐ものの秋魚グルメ＆ハワイアンズ拠点！2,000円台〜格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -371,7 +371,7 @@ export default function AutumnBudgetIwakiHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/54833/54833_sin.jpg" alt="クレストンホテルいわき（ＢＢＨホテルグループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>いわき駅前で最大級の客室の広さ（Ｓ１８平米、Ｔ３０平米）。ワンランク上のエグゼクティブなステイを♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県いわき市平小太郎町2-3 ／ 最寄り駅：いわき ／ 交通案内：ＪＲ常磐線　いわき駅より徒歩７～８分。ハワイアンズ、アクアマリンふくしま　まで車２０分</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県いわき市平小太郎町2-3 ／ 最寄り駅：いわき ／ 交通案内：ＪＲ常磐線　いわき駅より徒歩７～８分。ハワイアンズ、アクアマリンふくしま　まで車２０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２３台限定 (７００円）　ホテルに隣接した平面駐車場です！予約の必要はございません！</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.08 ／ 立地 ★3.86 ／ 部屋 ★3.98 ／ 設備 ★3.95 ／ 風呂 ★3.9 ／ 食事 ★4.05</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -393,7 +393,7 @@ export default function AutumnBudgetIwakiHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/17948/17948_dxs.jpg" alt="ワンランク上の快適ステイ　ホテルソレイユ（ＢＢＨホテルグループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>トロトロ海鮮丼実施中！無料サービス充実☆ウェルカムドリンク・アメニティ・Wi-Fiも無料☆</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県いわき市平15町目2番地 ／ 最寄り駅：いわき ／ 交通案内：常磐線いわき駅より徒歩５分</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県いわき市平15町目2番地 ／ 最寄り駅：いわき ／ 交通案内：常磐線いわき駅より徒歩５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　1台あたり1泊：700円（税込み）　先着順　トラック不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.15 ／ 立地 ★3.99 ／ 部屋 ★3.93 ／ 設備 ★3.85 ／ 風呂 ★3.85 ／ 食事 ★4.09</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -415,7 +415,7 @@ export default function AutumnBudgetIwakiHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/164805/164805.jpg" alt="ホテルクラウンヒルズいわき（ＢＢＨホテルグループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ウェルカムドリンクでお出迎え★夜は備長炭の男女別大浴場でゆったり★アメニティも充実</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県いわき市平大町3-1 ／ 最寄り駅：いわき ／ 交通案内：JR　いわき駅より徒歩5分。</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県いわき市平大町3-1 ／ 最寄り駅：いわき ／ 交通案内：JR　いわき駅より徒歩5分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り ７００円〜１０００円（税込み／泊）　先着順 満車の際はコインパーキングにて</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.15 ／ 立地 ★4.03 ／ 部屋 ★4.05 ／ 設備 ★4.07 ／ 風呂 ★4.07 ／ 食事 ★4.15</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -437,7 +437,7 @@ export default function AutumnBudgetIwakiHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/184150/184150.jpg" alt="ホテルＢ４Ｔいわき＜ＪＲ東日本ホテルズ＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2023年1月オープン。JRいわき駅直結！シングル・ツインの他、キャビンタイプの客室もございます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県いわき市平字田町1 ／ 最寄り駅：いわき ／ 交通案内：JRいわき駅直結</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県いわき市平字田町1 ／ 最寄り駅：いわき ／ 交通案内：JRいわき駅直結</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無し　【提携駐車場】LATOV 地下1・2 階　1泊1台 1,100円（税込）※休館日使用不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.06 ／ 立地 ★4.42 ／ 部屋 ★4.23 ／ 設備 ★4.22 ／ 風呂 ★4.17 ／ 食事 ★3.66</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -459,7 +459,7 @@ export default function AutumnBudgetIwakiHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/165696/165696.jpg" alt="ホテルアーバングレイスヴィラ＜いわき駅前＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ジャパニーズコンフォート〜和と洋の融合〜をコンセプトにワンランク上のホテルライフをご提供致します。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県いわき市平大工町11-4 ／ 最寄り駅：いわき ／ 交通案内：いわき駅前より徒歩にて約３分</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県いわき市平大工町11-4 ／ 最寄り駅：いわき ／ 交通案内：いわき駅前より徒歩にて約３分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　契約駐車場：800円（税込／泊）　先着順・予約不可　※入出庫は1泊1度限り</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.19 ／ 立地 ★4.11 ／ 部屋 ★4.17 ／ 設備 ★4.09 ／ 風呂 ★4.11 ／ 食事 ★4.27</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

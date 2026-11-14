@@ -295,7 +295,7 @@ export default function NagasakiUnzenOnsenWinterPage() {
           <div className="border-l-4 border-emerald-700 pl-4">
             <h2 className="text-xl sm:text-2xl font-bold text-stone-900">11・12・1月に泊まりたい雲仙温泉の厳選名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500 mt-1">
-              楽天トラベル公式APIより取得した最新の料金・評価・空室プランを反映しています
+              最新の料金目安・評価・空室プランをご案内しています
             </p>
           </div>
 

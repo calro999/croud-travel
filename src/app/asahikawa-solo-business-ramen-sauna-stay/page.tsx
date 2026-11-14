@@ -78,7 +78,7 @@ export default function ArticlePage() {
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.12 更新</time>
           <span>執筆：旅宿クラウド ひとり旅・出張調査班</span>
-          <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式API提携</span>
+          <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">編集部が厳選</span>
         </div>
 
         {/* リード文 */}
@@ -90,7 +90,7 @@ export default function ArticlePage() {
             道北の経済・物流・観光の要衝である旭川。極寒の冬から爽快な夏まで、出張や一人旅で訪れるビジネスパーソン・サウナーにとって、宿選びの決定打となるのは「駅からのアクセス性」と「身体の芯まで温まる天然温泉・サウナ」です。
           </p>
           <p>
-            旭川駅直結の圧倒的利便性を誇るJRイン旭川から、本格サウナと水風呂・湯上がりアイスが揃うドーミーイン旭川、多彩な温浴設備を備えるホテルWBFグランデ旭川まで、楽天トラベル公式APIより取得した最新の宿泊データとレビュー評価をもとに厳選紹介します。
+            旭川駅直結の圧倒的利便性を誇るJRイン旭川から、本格サウナと水風呂・湯上がりアイスが揃うドーミーイン旭川、多彩な温浴設備を備えるホテルWBFグランデ旭川まで、宿泊施設データより取得した最新の宿泊データとレビュー評価をもとに厳選紹介します。
           </p>
         </div>
       </header>
@@ -371,7 +371,7 @@ export default function ArticlePage() {
           <p className="text-sm text-amber-100 mb-6 max-w-2xl mx-auto">平日限定の一人旅割引や、早期割・直前割など、楽天トラベルならではの特典プランが多数用意されています。人気日程は早めの予約がおすすめです。
           </p>
           <a
-            href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2F"
+            href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fsearch.travel.rakuten.co.jp%2Fds%2Fundated%2Fsearch%3Ff_query%3D%25E6%2597%25AD%25E5%25B7%259D%25E5%2587%25BA%25E5%25BC%25B5%25E3%2583%25BB%25E7%2594%25B7%25E4%25B8%2580%25E4%25BA%25BA%25E6%2597%2585%25E3%2582%25B5%25E3%2582%25A6%25E3%2583%258A%25EF%25BC%259A%25E5%25A4%25A9%25E7%2584%25B6"
             target="_blank"
             rel="sponsored noopener noreferrer"
             className="inline-flex items-center justify-center bg-white text-amber-900 font-bold px-8 py-3 rounded-xl shadow-lg hover:bg-amber-50 transition transform hover:-translate-y-0.5 text-sm sm:text-base"
@@ -443,10 +443,10 @@ export default function ArticlePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/yamagata/"
+                href="/prefectures/hokkaido/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                山形県の宿・温泉
+                北海道の宿・温泉
               </Link>
               <Link
                 href="/prefectures/oita/"

@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-nagano-suwa-lake-kirigamine-autumn-stay/"
   };
 
@@ -481,11 +481,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">長野・諏訪湖＆霧ヶ峰高原！上諏訪温泉の琥珀美肌湯と信州サーモン・信州牛｜ふるさと納税で泊まれる名宿ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「長野・諏訪湖＆霧ヶ峰高原！上諏訪温泉の琥珀美肌湯と信州サーモン・信州牛｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「長野・諏訪湖＆霧ヶ峰高原！上諏訪温泉の琥珀美肌湯と信州サーモン・信州牛｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -549,7 +549,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/130095/130095_war.jpg" alt="上諏訪温泉　しんゆ（親湯） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>諏訪湖畔に佇む【癒し】とおもてなしの宿◯自家源泉の湯と【個室料亭】での美食【衛生消毒プログラム導入】</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県諏訪市湖岸通り2-6-30 ／ 最寄り駅：上諏訪 ／ 交通案内：JR上諏訪駅より徒歩10分(送迎バス有。最終17時)、中央道諏訪ICより車10分。諏訪湖目の前。</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県諏訪市湖岸通り2-6-30 ／ 最寄り駅：上諏訪 ／ 交通案内：JR上諏訪駅より徒歩10分(送迎バス有。最終17時)、中央道諏訪ICより車10分。諏訪湖目の前。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料50台。バイク利用は屋根下確定。当館敷地内。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -571,7 +571,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/52948/52948_w.jpg" alt="信州上諏訪温泉　諏訪別邸　朱白（旧　双泉の宿　朱白） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>朱と白の２種の温泉【朱白(すはく)】諏訪湖を臨む絶景露天風呂、五感で楽しむ料理。非日常のくつろぎを。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県諏訪市湖岸通り3-2-2 ／ 最寄り駅：上諏訪 ／ 交通案内：ＪＲ上諏訪駅より徒歩８分、諏訪I.C.より車で15分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県諏訪市湖岸通り3-2-2 ／ 最寄り駅：上諏訪 ／ 交通案内：ＪＲ上諏訪駅より徒歩８分、諏訪I.C.より車で15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（別敷地※屋外）無料※ご到着時一旦、当館の正面玄関前へお着けください。駐車場をご案内しております</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -593,7 +593,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5209/5209_heya1.jpg" alt="信州・上諏訪温泉　琥珀色の自家源泉を持つ宿【ホテル鷺乃湯】 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>露天風呂付客室も有。芯から温まる自家源泉と心を癒す日本庭園をもつ百余年の歴史が香る宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県諏訪市湖岸通り3-2-14 ／ 最寄り駅：上諏訪 ／ 交通案内：ＪＲ上諏訪駅より徒歩８分、諏訪ＩＣより１５分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県諏訪市湖岸通り3-2-14 ／ 最寄り駅：上諏訪 ／ 交通案内：ＪＲ上諏訪駅より徒歩８分、諏訪ＩＣより１５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

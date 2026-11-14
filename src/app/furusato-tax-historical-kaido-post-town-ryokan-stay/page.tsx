@@ -742,11 +742,11 @@ export default function FurusatoTaxPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">歴史街道・宿場町めぐり名宿×ふるさと納税厳選ガイド中山道木曽路（妻籠・馬籠）・日光街道の江戸情緒旅：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「歴史街道・宿場町めぐり名宿×ふるさと納税厳選ガイド中山道木曽路（妻籠・馬籠）・日光街道の江戸情緒旅」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「歴史街道・宿場町めぐり名宿×ふるさと納税厳選ガイド中山道木曽路（妻籠・馬籠）・日光街道の江戸情緒旅」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -837,7 +837,7 @@ export default function FurusatoTaxPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/16778/16778_heya.jpg" alt="木曽路の宿　いわや 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>宮家の方々や文人に愛された、木曽路で最も古い老舗。木曽川眺望、総檜造りのお部屋や展望露天など。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県木曽郡木曽町福島5169 ／ 最寄り駅：木曽福島 ／ 交通案内：JR木曽福島駅より徒歩10分／中央自動車道：塩尻ICより60分、中津川ICより60分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県木曽郡木曽町福島5169 ／ 最寄り駅：木曽福島 ／ 交通案内：JR木曽福島駅より徒歩10分／中央自動車道：塩尻ICより60分、中津川ICより60分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -859,7 +859,7 @@ export default function FurusatoTaxPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/17513/17513_rm.jpg" alt="普寛堂　くるみ沢旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>明治2年創業。【お部屋食】で精進料理や信州の旬料理＆【薬草人参檜風呂】でゆったり！御嶽山への拠点に</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県木曽郡王滝村3297-6 ／ 最寄り駅：木曽福島 ／ 交通案内：ＪＲ中央西線「木曽福島駅」よりお車にて約２５分。</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県木曽郡王滝村3297-6 ／ 最寄り駅：木曽福島 ／ 交通案内：ＪＲ中央西線「木曽福島駅」よりお車にて約２５分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２５台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -881,7 +881,7 @@ export default function FurusatoTaxPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/130040/130040_wa.jpg" alt="宿とそば処　ふもと屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>築二百年の建物を利用した古民家風の旅宿。開田蕎麦と郷土料理・地元の材料でおもてなし</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県木曽郡木曽町開田高原末川2819 ／ 最寄り駅：木曽福島 ／ 交通案内：ＪＲ　木曽福島駅より開田高原行きバスにて「末川」下車徒歩０分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県木曽郡木曽町開田高原末川2819 ／ 最寄り駅：木曽福島 ／ 交通案内：ＪＲ　木曽福島駅より開田高原行きバスにて「末川」下車徒歩０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -903,7 +903,7 @@ export default function FurusatoTaxPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/51706/51706_w.jpg" alt="料理旅館　準坊池 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>いけすの鮮度抜群な川魚と山菜料理★中津川・鮎釣りポイントへは徒歩1分です♪＜ペット相談可＞</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岐阜県中津川市付知町8593-24 ／ 最寄り駅：中津川 ／ 交通案内：中央本線（東海）中津川より車で30分/中央道・中津川IC下車約27km</p>
+                  <p><strong>【所在地・アクセス】</strong>岐阜県中津川市付知町8593-24 ／ 最寄り駅：中津川 ／ 交通案内：中央本線（東海）中津川より車で30分/中央道・中津川IC下車約27km</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -925,7 +925,7 @@ export default function FurusatoTaxPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/190851/190851.jpg" alt="一棟貸切【広々９７平米】　定員８人　禁煙　駅徒歩９分　駐車場３台ＥＶ対応　日光杉並木街道の家　＾ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>日光市下野大沢駅９分の貸し切り一軒家です</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県日光市板橋175-79　日光市杉並木街道の家 ／ 最寄り駅：下野大沢 ／ 交通案内：下野大沢駅から徒歩で約４分</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県日光市板橋175-79　日光市杉並木街道の家 ／ 最寄り駅：下野大沢 ／ 交通案内：下野大沢駅から徒歩で約４分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -947,7 +947,7 @@ export default function FurusatoTaxPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/184902/184902.jpg" alt="トレイルイン日光今市（Ｔｒａｉｌ　ｉｎｎ　日光今市） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>各室完全独立型のトレーラーホテル！洗濯機・電子レンジ完備！！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県日光市芹沼1553-1 (ダイナム駐車場敷地内) ／ 最寄り駅：大谷向 ／ 交通案内：大谷向駅よりお車にて約5分</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県日光市芹沼1553-1 (ダイナム駐車場敷地内) ／ 最寄り駅：大谷向 ／ 交通案内：大谷向駅よりお車にて約5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>あり　無料　※4t車以上の場合は、事前にご相談くださいませ。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

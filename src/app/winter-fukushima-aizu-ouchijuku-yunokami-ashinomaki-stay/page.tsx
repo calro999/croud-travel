@@ -448,7 +448,7 @@ export default function FukushimaAizuOuchijukuWinterPage() {
             <span className="text-orange-900 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Selected Accommodations</span>
             <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の大内宿観光と阿賀川渓谷雪見露天を堪能する厳選名宿5選</h2>
             <p className="text-stone-600 text-sm sm:text-base mt-1">
-              楽天トラベル公式APIより取得した最新データに基づく、渓谷露天・会津料理・立地が高評価の宿。
+              施設スペックと宿泊者評価に基づく、渓谷露天・会津料理・立地が高評価の宿。
             </p>
           </div>
 

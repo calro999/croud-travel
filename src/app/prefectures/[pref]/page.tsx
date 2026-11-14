@@ -363,7 +363,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
                 </span>
                 <h2 className="text-xl md:text-2xl font-black font-journal-serif text-stone-900">{prefInfo.name}で今泊まるべき高評価ホテル・温泉旅館ベスト3</h2>
                 <p className="text-xs text-stone-600 font-medium">
-                  楽天トラベル公式APIのクチコミ評価・宿泊満足度データから、{prefInfo.name}観光の拠点に間違いのない名宿を厳選しました。
+                  宿泊施設データのクチコミ評価・宿泊満足度データから、{prefInfo.name}観光の拠点に間違いのない名宿を厳選しました。
                 </p>
               </div>
               <div className="flex flex-wrap gap-2">
@@ -1152,7 +1152,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
                 <h3 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 mt-2">【{prefInfo.name}】完全攻略トラベルハブ＆全記事ディレクトリ（全{prefPosts.length}件）</h3>
               </div>
               <span className="text-xs text-stone-500 font-bold bg-stone-100 px-3 py-1.5 rounded-xl border border-stone-200">
-                楽天トラベル公式データ連携
+                編集部厳選ガイド
               </span>
             </div>
 
@@ -1302,7 +1302,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
       </section>
       {/* モバイル追従CTA（47都道府県ページでもスマホ予約導線を完全固定） */}
       <FloatingMobileCTA
-        affiliateUrl={allPrefPosts[0]?.affiliate_url || "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2F"}
+        affiliateUrl={allPrefPosts[0]?.affiliate_url || "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fsearch.travel.rakuten.co.jp%2Fds%2Fundated%2Fsearch%3Ff_query%3D%25E9%2583%25BD%25E9%2581%2593%25E5%25BA%259C%25E7%259C%258C%25E3%2581%258C%25E8%25A6%258B%25E3%2581%25A4%25E3%2581%258B%25E3%2582%258A%25E3%2581%25BE%25E3%2581%259B%25E3%2582%2593"}
         hotelName={`${prefInfo.name}の人気名宿・宿泊プラン`}
         isSpecialFeature={true}
       />

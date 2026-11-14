@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/organic-forest-sauna-cold-water-stream-stay/"
   };
 
@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F194868%2F194868.html%26f_flg%3DPLAN",
     "hotelMinCharge": 41839,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/194868/194868.jpg",
-    "userReview": "絶景のロケーションとおもてなしに心から癒やされました。",
+    "userReview": "空と海が満ちる高台の天然温泉サウナＳＰＡ　Ｖｉｌｌａ　＾ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
     "reviewAverage": 4.4,
     "reviewCount": 100,
     "address": "静岡県賀茂郡東伊豆町奈良本1213-119　グラン熱川",
@@ -270,23 +270,6 @@ export default function Page() {
             ))}
           </div>
         </section>
-
-        {/* 旅のQ&A */}
-        <section className="bg-white rounded-2xl p-6 md:p-8 border border-stone-200 shadow-sm space-y-4">
-          <h2 className="text-lg md:text-xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">よくある質問・失敗しない宿選び</h2>
-          <div className="space-y-4 text-sm">
-            <div className="border border-stone-100 rounded-xl p-4 bg-stone-50/50 space-y-2">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5"><span className="text-emerald-700 font-black">Q.</span> おすすめの予約時期やタイミングは？</h3>
-              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">人気の日程（連休や週末）は1〜2ヶ月前には満室になることが多いため、早期予約（早割プラン）の利用がおすすめです。また楽天トラベルの「5と0のつく日」キャンペーンを活用すると最大20%オフのクーポンが併用でき、最もお得に予約できます。
-              </p>
-            </div>
-            <div className="border border-stone-100 rounded-xl p-4 bg-stone-50/50 space-y-2">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5"><span className="text-emerald-700 font-black">Q.</span> 宿選びで失敗しないためのポイントは？</h3>
-              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">宿泊者レビューのお風呂・お食事・接客評価が4.3以上の宿を選ぶと満足度が非常に高くなります。またアクセス手段（送迎バスの有無など）やプランに含まれる特典を事前に確認しておくと安心です。
-              </p>
-            </div>
-          </div>
-        </section>
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -416,11 +399,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：天然の清流へダイブ！森林バレルサウナ＆天然川水風呂で極上のととのい宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：天然の清流へダイブ！森林バレルサウナ＆天然川水風呂で極上のととのい宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：天然の清流へダイブ！森林バレルサウナ＆天然川水風呂で極上のととのい宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -440,7 +423,7 @@ export default function Page() {
               <tbody className="divide-y divide-stone-200">
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 空と海が満ちる高台の天然温泉サウナＳＰＡ　Ｖｉｌｌａ　＾</td>
-                <td className="p-3 text-stone-600">東京都</td>
+                <td className="p-3 text-stone-600">静岡県賀茂郡東伊豆町奈良本1213-119　グラン熱川</td>
                 <td className="p-3 text-stone-600">伊豆北川駅から徒歩で約１１分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（100件）</td>
@@ -449,7 +432,7 @@ export default function Page() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 亀島川温泉　新川の湯　ドーミーイン東京八丁堀</td>
-                <td className="p-3 text-stone-600">東京都</td>
+                <td className="p-3 text-stone-600">東京都中央区新川2－20－4</td>
                 <td className="p-3 text-stone-600">ＪＲ京葉線東京メトロ日比谷線八丁堀駅Ｂ４出口より徒歩約1分（EVなし）</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.37（6828件）</td>
@@ -458,7 +441,7 @@ export default function Page() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 湯河原温泉　川堰苑いすゞホテル（いすず）</td>
-                <td className="p-3 text-stone-600">東京都</td>
+                <td className="p-3 text-stone-600">神奈川県静岡県熱海市泉266</td>
                 <td className="p-3 text-stone-600">ＪＲ東海道線湯河原駅より車で５分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.11（1237件）</td>
@@ -476,7 +459,7 @@ export default function Page() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 黒川温泉　旅館湯本荘</td>
-                <td className="p-3 text-stone-600">東京都</td>
+                <td className="p-3 text-stone-600">熊本県阿蘇郡南小国町満願寺6700</td>
                 <td className="p-3 text-stone-600">大分道日田ＩＣから小国方面へ車で５０分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.7（211件）</td>
@@ -501,12 +484,12 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/194868/194868.jpg" alt="空と海が満ちる高台の天然温泉サウナＳＰＡ　Ｖｉｌｌａ　＾ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「天然の清流へダイブ（森林バレルサウナ＆天然川水風呂で極上のととのい宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：伊豆北川駅から徒歩で約１１分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>2026年で比較したい各宿のロケーション・駐車場・料金詳細は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：伊豆北川駅から徒歩で約１１分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「絶景のロケーションとおもてなしに心から癒やされました。」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2026年で比較したい各宿のロケーション・駐車場・料金詳細での快適な滞在とアクセス面の良さに満足したという評価が寄せられています。」
                   </blockquote>
                 </div>
               </div>
@@ -523,8 +506,8 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/41071/41071.jpg" alt="亀島川温泉　新川の湯　ドーミーイン東京八丁堀 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「天然の清流へダイブ（森林バレルサウナ＆天然川水風呂で極上のととのい宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ京葉線東京メトロ日比谷線八丁堀駅Ｂ４出口より徒歩約1分（EVなし）・Ｂ２出口より徒歩約5分（EVあり）</p>
+                  <p><strong>【宿の特徴・魅力】</strong>東京都中央区新川2－20－4の「亀島川温泉 新川の湯 ドーミーイン東京八丁堀」（楽天トラベル評価4.38（6773件）／1泊目安¥7,590〜）の魅力と宿泊ポイントを詳しく紹介。2025年8月8日リニューアルオープン評価ついに女性大浴場にも水風呂が登場。客室タイプや大浴場・温泉、朝食・夕食の魅力、アクセス（ＪＲ京葉線東京メトロ日比谷線八丁堀駅Ｂ４出口より徒歩約1分（EVなし）・Ｂ２出口より徒歩約）・駐車場情報からお得なクーポン予約術まで網羅しています。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：ＪＲ京葉線東京メトロ日比谷線八丁堀駅Ｂ４出口より徒歩約1分（EVなし）・Ｂ２出口より徒歩約5分（EVあり）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -545,8 +528,8 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/14736/14736.jpg" alt="湯河原温泉　川堰苑いすゞホテル（いすず） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「天然の清流へダイブ（森林バレルサウナ＆天然川水風呂で極上のととのい宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ東海道線湯河原駅より車で５分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>【楽天限定クーポン配布中】夕・朝食共にお部屋食または個室食確約プランが大好評！</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：ＪＲ東海道線湯河原駅より車で５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -568,7 +551,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8385/8385_wa.jpg" alt="長良川温泉　岐阜グランドホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【全室WIFI無料・駐車場無料】鵜飼で有名な清流長良川河畔の温泉リゾート＆シティホテル</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岐阜県岐阜市長良648 ／ 最寄り駅：岐阜 ／ 交通案内：ＪＲ岐阜駅、名鉄岐阜駅より岐阜バスで２０分・うかいミュージアム前下車すぐ。または、車で１５分</p>
+                  <p><strong>【所在地・アクセス】</strong>岐阜県岐阜市長良648 ／ 最寄り駅：岐阜 ／ 交通案内：ＪＲ岐阜駅、名鉄岐阜駅より岐阜バスで２０分・うかいミュージアム前下車すぐ。または、車で１５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -589,8 +572,8 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/80792/80792.jpg" alt="黒川温泉　旅館湯本荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「天然の清流へダイブ（森林バレルサウナ＆天然川水風呂で極上のととのい宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：大分道日田ＩＣから小国方面へ車で５０分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>温泉街、川沿いに建つレトロなお宿。源泉掛け流しの露天風呂他に家族湯が３つ。夕食は素材豊かな会席料理。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：大分道日田ＩＣから小国方面へ車で５０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -601,6 +584,9 @@ export default function Page() {
             </div>
           </div></section>
 
+              <div className="my-8">
+          <ShareButtons title="【2026年】天然の清流へダイブ！森林バレルサウナ＆天然川水風呂で極上のととのい宿5選" url="https://croud-travel.pages.dev/organic-forest-sauna-cold-water-stream-stay/" />
+        </div>
       </main>
     
       <HubRelatedPosts currentSlug="organic-forest-sauna-cold-water-stream-stay" />

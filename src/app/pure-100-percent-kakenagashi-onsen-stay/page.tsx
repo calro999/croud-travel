@@ -228,11 +228,11 @@ export default function HeritageOnsenHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">自家源泉かけ流し100%の宿：加水なし・加温なし・循環なし！本物の名湯 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「自家源泉かけ流し100%の宿：加水なし・加温なし・循環なし！本物の名湯 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「自家源泉かけ流し100%の宿：加水なし・加温なし・循環なし！本物の名湯 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function HeritageOnsenHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/135448/135448_kya.jpg" alt="幕川温泉　水戸屋旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>日本秘湯を守る会。2026年度は【渓流野天風呂】は故障中のためご利用できません。ご了承くださいませ。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県福島市土湯温泉町鷲倉山1-3 ／ 最寄り駅：福島（福島） ／ 交通案内：福島駅よりお車で60分／福島交通　磐梯吾妻スカイライン行き「鷲倉温泉」下車　お車で10分（送迎あり。）</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県福島市土湯温泉町鷲倉山1-3 ／ 最寄り駅：福島（福島） ／ 交通案内：福島駅よりお車で60分／福島交通　磐梯吾妻スカイライン行き「鷲倉温泉」下車　お車で10分（送迎あり。）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function HeritageOnsenHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/55943/55943_ky.jpg" alt="黒川温泉　いこい旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>黒川温泉で唯一の日本名湯秘湯百選の宿。館内１４のお風呂で湯めぐりが出来ます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 熊本県阿蘇郡南小国町黒川温泉川端通り ／ 最寄り駅：阿蘇 ／ 交通案内：JR熊本駅より九州横断バスにて2時間50分。JR博多駅より西鉄バスにて2時間40分。熊本空港より車で1時間30分</p>
+                  <p><strong>【所在地・アクセス】</strong>熊本県阿蘇郡南小国町黒川温泉川端通り ／ 最寄り駅：阿蘇 ／ 交通案内：JR熊本駅より九州横断バスにて2時間50分。JR博多駅より西鉄バスにて2時間40分。熊本空港より車で1時間30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>１５台収容。無料にてご用意致しております。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function HeritageOnsenHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/68654/68654_ky.jpg" alt="川古温泉　浜屋旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>豊かな自然に抱かれ、赤谷川の渓谷に建つ、ぬる湯が特徴の古くからの湯治の宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県利根郡みなかみ町相俣2577-1 ／ 最寄り駅：主要駅 ／ 交通案内：猿ケ京行きバス乗車にて終点下車より車で１５分</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県利根郡みなかみ町相俣2577-1 ／ 交通案内：猿ケ京行きバス乗車にて終点下車より車で１５分</p>
                   <p>【自家源泉かけ流し100%の宿：加水なし・加温なし・循】 <strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function HeritageOnsenHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/108987/108987_sy1.jpg" alt="沢渡温泉　まるほん旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「婦人風呂」JCDデザインアワード2016金賞受賞！「一浴玉の肌」といわれる美肌の湯</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県吾妻郡中之条町上沢渡甲2301 ／ 最寄り駅：中之条 ／ 交通案内：ＪＲ　中之条駅よりバスで２５分</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県吾妻郡中之条町上沢渡甲2301 ／ 最寄り駅：中之条 ／ 交通案内：ＪＲ　中之条駅よりバスで２５分</p>
                   <p>【自家源泉かけ流し100%の宿：加水なし・加温なし・循】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function HeritageOnsenHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/106182/106182_room.jpg" alt="二岐温泉　柏屋旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>＜体の芯まで温まる秘湯＞5つの源泉を持つ100％掛け流し♪一押し「自噴巌風呂」は無料貸切</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県岩瀬郡天栄村湯本下二俣22-6 ／ 最寄り駅：新白河 ／ 交通案内：※新白河駅より車で約５０分</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県岩瀬郡天栄村湯本下二俣22-6 ／ 最寄り駅：新白河 ／ 交通案内：※新白河駅より車で約５０分</p>
                   <p>【自家源泉かけ流し100%の宿：加水なし・加温なし・循】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function HeritageOnsenHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31902/31902_r1.jpg" alt="塩原温泉　湯守田中屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>創業明治17年。地元食材を豊富に使用した炉端料理と源泉掛け流し天然温泉100％が自慢の一軒宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県那須塩原市塩原6　（塩原温泉郷 大網温泉） ／ 最寄り駅：那須塩原 ／ 交通案内：東北新幹線 那須塩原駅より送迎（事前予約制／有料1,100円）あり　西那須野塩原ICより車約15分</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県那須塩原市塩原6　（塩原温泉郷 大網温泉） ／ 最寄り駅：那須塩原 ／ 交通案内：東北新幹線 那須塩原駅より送迎（事前予約制／有料1,100円）あり　西那須野塩原ICより車約15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　30台　無料（車高が低い車や、大型車、車椅子利用時などは事前にご連絡ください）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.46 ／ 立地 ★4.41 ／ 部屋 ★4.32 ／ 設備 ★4.28 ／ 風呂 ★4.48 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

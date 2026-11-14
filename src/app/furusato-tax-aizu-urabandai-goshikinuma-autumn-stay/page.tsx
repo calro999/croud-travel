@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-aizu-urabandai-goshikinuma-autumn-stay/"
   };
 
@@ -482,11 +482,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">福島・裏磐梯五色沼の錦秋紅葉＆桧原湖！磐梯山ジオパーク美肌温泉と会津郷土美食｜ふるさと納税で泊まれる名宿ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「福島・裏磐梯五色沼の錦秋紅葉＆桧原湖！磐梯山ジオパーク美肌温泉と会津郷土美食｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「福島・裏磐梯五色沼の錦秋紅葉＆桧原湖！磐梯山ジオパーク美肌温泉と会津郷土美食｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -550,7 +550,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/151377/151377_kan1.jpg" alt="裏磐梯レイクリゾート　迎賓館　猫魔離宮（旧：裏磐梯猫魔ホテル） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>気取らない贅沢、心やわらぐ宮殿リゾートで非日常体験を。宿泊者専用温泉を完備。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県耶麻郡北塩原村大字桧原字湯平山1171-1 ／ 最寄り駅：猪苗代 ／ 交通案内：ＪＲ猪苗代駅より車で約30分（無料送迎バス有）。猪苗代磐梯高原ICより車で約25分。</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県耶麻郡北塩原村大字桧原字湯平山1171-1 ／ 最寄り駅：猪苗代 ／ 交通案内：ＪＲ猪苗代駅より車で約30分（無料送迎バス有）。猪苗代磐梯高原ICより車で約25分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３５０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.5 ／ 立地 ★4.6 ／ 部屋 ★4.64 ／ 設備 ★4.5 ／ 風呂 ★4.52 ／ 食事 ★4.47</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -572,7 +572,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/16368/16368_w.jpg" alt="裏磐梯高原ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>標高800ｍの裏磐梯高原。豊かな大自然に囲まれた、四季の移ろい感じる湖畔のリゾートホテルへようこそ！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県耶麻郡北塩原村大字桧原字湯平山1171 ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ猪苗代駅下車／磐越自動車道　猪苗代磐梯高原ＩＣより約25分</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県耶麻郡北塩原村大字桧原字湯平山1171 ／ 交通案内：ＪＲ猪苗代駅下車／磐越自動車道　猪苗代磐梯高原ＩＣより約25分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　69台（無料）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -594,7 +594,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/149014/149014_kan1.jpg" alt="裏磐梯レイクリゾート　本館　五色の森（旧：裏磐梯猫魔ホテル） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>五色沼まで徒歩3分。エリア唯一の自噴式源泉かけ流しとライブキッチン＆会津野菜の50種バイキングを満喫</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県耶麻郡北塩原村大字桧原字湯平山1171-1 ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ猪苗代駅より車で約30分（無料送迎バス有）。猪苗代磐梯高原ICより車で約25分。</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県耶麻郡北塩原村大字桧原字湯平山1171-1 ／ 交通案内：ＪＲ猪苗代駅より車で約30分（無料送迎バス有）。猪苗代磐梯高原ICより車で約25分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>３５０台　無料　（予約不要）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

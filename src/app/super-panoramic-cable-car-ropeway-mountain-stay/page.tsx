@@ -236,7 +236,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -681,11 +681,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：雲の上の絶景ステイ！ロープウェイで行く山頂パノラマ露天風呂リゾート5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：雲の上の絶景ステイ！ロープウェイで行く山頂パノラマ露天風呂リゾート5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：雲の上の絶景ステイ！ロープウェイで行く山頂パノラマ露天風呂リゾート5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -767,7 +767,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/158471/158471.jpg" alt="ホテルマイステイズ富士山　展望温泉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>富士急ハイランドまで徒歩５分、大浴場・露天風呂あり！全室禁煙です</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県富士吉田市新倉2654 ／ 最寄り駅：富士急ハイランド ／ 交通案内：富士急ハイランド駅より徒歩５分♪ 　富士急行線河口湖駅より徒歩１６分 　中央自動車道河口湖ICより車で１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県富士吉田市新倉2654 ／ 最寄り駅：富士急ハイランド ／ 交通案内：富士急ハイランド駅より徒歩５分♪ 　富士急行線河口湖駅より徒歩１６分 　中央自動車道河口湖ICより車で１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　７４台　無料　事前のご連絡不要　空いてる区画スペースにお停めください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.37 ／ 立地 ★4.43 ／ 部屋 ★4.32 ／ 設備 ★4.31 ／ 風呂 ★4.27 ／ 食事 ★4.4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -789,7 +789,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/71926/71926_t.jpg" alt="ＣＡＮＤＥＯ　ＨＯＴＥＬＳ（カンデオホテルズ）亀山 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全室シモンズベッド★東名阪自動車道亀山ＩＣよりすぐ★最上階に展望露天大浴場完備</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 三重県亀山市小野町北割532-2 ／ 最寄り駅：亀山（三重） ／ 交通案内：亀山ＩＣより大津方面へ車で１分　ＪＲ亀山駅よりタクシーで１０分　ＪＲ関駅よりタクシーで５分　　目の前のコンビニが目印！</p>
+                  <p><strong>【所在地・アクセス】</strong>三重県亀山市小野町北割532-2 ／ 最寄り駅：亀山（三重） ／ 交通案内：亀山ＩＣより大津方面へ車で１分　ＪＲ亀山駅よりタクシーで１０分　ＪＲ関駅よりタクシーで５分　　目の前のコンビニが目印！</p>
                   <p><strong>【駐車場・マイカー利用】</strong>106台まで無料（平面・予約不要）、大型車（4トン以上クラス）は有料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.27 ／ 立地 ★4.1 ／ 部屋 ★4.21 ／ 設備 ★4.17 ／ 風呂 ★4.16 ／ 食事 ★4.29</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -811,7 +811,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/187619/187619.jpg" alt="天空のスカイビューホテル　眉山海月 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>絶景レストランで徳島グルメのビュッフェを堪能。お部屋から望む夜景は最高！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 徳島県徳島市八万町中津山3-70 ／ 最寄り駅：徳島 ／ 交通案内：JR徳島駅から車で約15分【駐車場無料】。無料送迎は徳島駅、眉山ロープウェイ　山頂駅にて（前日までの事前予約が必要）</p>
+                  <p><strong>【所在地・アクセス】</strong>徳島県徳島市八万町中津山3-70 ／ 最寄り駅：徳島 ／ 交通案内：JR徳島駅から車で約15分【駐車場無料】。無料送迎は徳島駅、眉山ロープウェイ　山頂駅にて（前日までの事前予約が必要）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　60台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.37 ／ 立地 ★4.49 ／ 部屋 ★4.35 ／ 設備 ★4.22 ／ 風呂 ★4.29 ／ 食事 ★4.5</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -833,7 +833,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/148952/148952.jpg" alt="ＣＡＮＤＥＯ　ＨＯＴＥＬＳ（カンデオホテルズ）松山大街道 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>歴史と文化の街・松山の中心地、大街道に誕生した新たな街のシンボル。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛媛県松山市大街道2-5-12 ／ 最寄り駅：主要駅 ／ 交通案内：松山空港よりリムジンバス乗車約25分、一番町下車徒歩約3分。松山市駅より伊予鉄道利用、大街道駅より徒歩1分。</p>
+                  <p><strong>【所在地・アクセス】</strong>愛媛県松山市大街道2-5-12 ／ 交通案内：松山空港よりリムジンバス乗車約25分、一番町下車徒歩約3分。松山市駅より伊予鉄道利用、大街道駅より徒歩1分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場無。有料提携駐車場（お城下パーキング2番町、フラワーパーキング2番町など）をご利用ください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -855,7 +855,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/79432/79432_tw.jpg" alt="八甲田城ヶ倉温泉　ホテル城ヶ倉－ＨＯＴＥＬ　Ｊｏｇａｋｕｒａ－ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>源泉かけ流し温泉を八甲田の自然と共に楽しむ北欧風マウンテンリゾート。地元青森の旬の味覚をご用意。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 青森県青森市荒川八甲田山中 ／ 最寄り駅：青森 ／ 交通案内：ＪＲ　青森駅よりＪＲバス十和田湖行き乗車後、城ヶ倉温泉前にて下車</p>
+                  <p><strong>【所在地・アクセス】</strong>青森県青森市荒川八甲田山中 ／ 最寄り駅：青森 ／ 交通案内：ＪＲ　青森駅よりＪＲバス十和田湖行き乗車後、城ヶ倉温泉前にて下車</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

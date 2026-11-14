@@ -77,7 +77,7 @@ export default function ArticlePage() {
             大分・由布院温泉ひとり旅＆由布岳おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「由布院温泉ひとり旅・由布岳望むおこもり」金鱗湖朝霧・源泉かけ流し貸切露天・豊後牛！大自然に抱かれる大人のソロリトリート厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               日本を代表する人気温泉地・由布院（湯布院）。歓楽街を持たず、自然と調和した静けさと豊かな湯量を誇るこの街は、一人で静かに心のリセットを図るソロリトリートに世界一ふさわしい場所です。
             </p>
             <p>
-              一人旅歓迎の温かいもてなしと良質な貸切風呂を持つ隠れ宿から、客室から由布岳の絶景を望む極上宿まで、楽天トラベル公式APIより直接取得した最新データをもとに厳選紹介します。
+              一人旅歓迎の温かいもてなしと良質な貸切風呂を持つ隠れ宿から、客室から由布岳の絶景を望む極上宿まで、宿泊施設データより直接取得した最新データをもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -418,11 +418,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">由布院温泉ひとり旅・由布岳望むおこもり：金鱗湖朝霧・源泉かけ流し貸切露天・豊後牛！大自然に抱かれる大人のソロリトリート厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「由布院温泉ひとり旅・由布岳望むおこもり：金鱗湖朝霧・源泉かけ流し貸切露天・豊後牛！大自然に抱かれる大人のソロリトリート厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「由布院温泉ひとり旅・由布岳望むおこもり：金鱗湖朝霧・源泉かけ流し貸切露天・豊後牛！大自然に抱かれる大人のソロリトリート厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -486,7 +486,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/27922/27922_roten.jpg" alt="由布院いよとみ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>由布院の歴史と伝統を引き継ぐ老舗宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大分県由布市湯布院町川南848番地 ／ 最寄り駅：湯布院 ／ 交通案内：JR由布院駅より徒歩７分・車で２分/湯布院ICより１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>大分県由布市湯布院町川南848番地 ／ 最寄り駅：湯布院 ／ 交通案内：JR由布院駅より徒歩７分・車で２分/湯布院ICより１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -508,7 +508,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/20453/20453_b.jpg" alt="由布院温泉　柚富の郷　彩岳館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【シルバーアワード2025】受賞　由布岳望む半露天風呂付客室誕生　ドリンクサービス付でごゆっくり滞在</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大分県由布市湯布院町川上2378-1 ／ 最寄り駅：由布院 ／ 交通案内：ＪＲ由布院駅より車で５分。14：30から17：30まで無料送迎有（駅着後要TEL）／大分自動車道湯布院ＩＣより車で１２分</p>
+                  <p><strong>【所在地・アクセス】</strong>大分県由布市湯布院町川上2378-1 ／ 最寄り駅：由布院 ／ 交通案内：ＪＲ由布院駅より車で５分。14：30から17：30まで無料送迎有（駅着後要TEL）／大分自動車道湯布院ＩＣより車で１２分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>32台分の無料駐車場あり。予約不要です。（バスは要事前連絡）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.39 ／ 立地 ★4.52 ／ 部屋 ★4.54 ／ 設備 ★4.35 ／ 風呂 ★4.59 ／ 食事 ★4.46</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -530,7 +530,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/72793/72793_kan.jpg" alt="由布院温泉　楓の小舎 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【露天風呂、内湯完備の客室】由布院の小さな隠れ宿で過ごす寛ぎの時間。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大分県由布市湯布院町川上1270-28 ／ 最寄り駅：由布院 ／ 交通案内：湯布院ＩＣより車で８分。由布院駅よりタクシーで５分</p>
+                  <p><strong>【所在地・アクセス】</strong>大分県由布市湯布院町川上1270-28 ／ 最寄り駅：由布院 ／ 交通案内：湯布院ＩＣより車で８分。由布院駅よりタクシーで５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

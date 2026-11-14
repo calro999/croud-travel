@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">長野・安曇野＆穂高温泉郷：大王わさび農場・水車小屋＆信州サーモン・わさび丼宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「長野・安曇野＆穂高温泉郷：大王わさび農場・水車小屋＆信州サーモン・わさび丼宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「長野・安曇野＆穂高温泉郷：大王わさび農場・水車小屋＆信州サーモン・わさび丼宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/172558/172558_kan1.jpg" alt="安曇野穂高温泉郷　天然温泉　小岩岳旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>イルミネーションを見ながら天然温泉を楽しめる宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県安曇野市穂高有明2216-1 ／ 最寄り駅：有明（長野） ／ 交通案内：有明駅よりお車にて約８分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県安曇野市穂高有明2216-1 ／ 最寄り駅：有明（長野） ／ 交通案内：有明駅よりお車にて約８分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/38989/38989_kya.jpg" alt="信州安曇野穂高温泉郷　旅館　山のたこ平 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>信州安曇野を味わい尽くすお料理★エリア随一の広々とした温泉★松本上高地や白馬へのアクセス良好</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県安曇野市穂高有明8969 ／ 最寄り駅：有明（長野） ／ 交通案内：長野自動車道安曇野ICより車で２０分、JR穂高駅より車で１５分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県安曇野市穂高有明8969 ／ 最寄り駅：有明（長野） ／ 交通案内：長野自動車道安曇野ICより車で２０分、JR穂高駅より車で１５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　1００台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/135480/135480_eb.jpg" alt="穂高温泉郷　御宿　穂高城 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>豪商が建てた豪壮な別荘=隠れ家です。その荘厳な佇まいと非日常の雰囲気を存分にお楽しみください。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県安曇野市穂高有明2177-23 ／ 最寄り駅：穂高 ／ 交通案内：ＪＲ大糸線　穂高駅よりお車約１５分／長野道安曇野ICより約３０分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県安曇野市穂高有明2177-23 ／ 最寄り駅：穂高 ／ 交通案内：ＪＲ大糸線　穂高駅よりお車約１５分／長野道安曇野ICより約３０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り、無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.11 ／ 立地 ★3.89 ／ 部屋 ★4.04 ／ 設備 ★3.89 ／ 風呂 ★3.89 ／ 食事 ★4.19</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/196659/196659.jpg" alt="温泉ホテル安曇野アートキャビン 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全室温泉付き｜好きなときに温泉に浸かれる10室の静かな宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県安曇野市穂高有明2252-2 ／ 最寄り駅：穂高 ／ 交通案内：穂高駅からお車で約７分／長野道安曇野ＩＣよりお車で約２０分／松本駅からお車で約５０分　■館内にサウナ2室あり</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県安曇野市穂高有明2252-2 ／ 最寄り駅：穂高 ／ 交通案内：穂高駅からお車で約７分／長野道安曇野ＩＣよりお車で約２０分／松本駅からお車で約５０分　■館内にサウナ2室あり</p>
                   <p><strong>【駐車場・マイカー利用】</strong>屋根付き駐車場10台（無料）　屋外駐車場あり、電気自動車用のコンセント2カ所有り</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/181791/181791.jpg" alt="ＷＨＩＴＥ　ＨＯＴＥＬ　ＧＲＡＮＤ　ＨＡＫＵＢＡ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>白馬・大町エリア間の青木湖畔高台に位置し北アルプス観光やＳＵＰ、トレッキングの拠点に最適。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県大町市平23370 ／ 最寄り駅：南神城 ／ 交通案内：JR大糸線簗場（やなば）駅より送迎１０分／長野自動車道｜安曇野ＩＣ・上信越自動車道｜長野ＩＣより約６０分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県大町市平23370 ／ 最寄り駅：南神城 ／ 交通案内：JR大糸線簗場（やなば）駅より送迎１０分／長野自動車道｜安曇野ＩＣ・上信越自動車道｜長野ＩＣより約６０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>敷地内に無料駐車場をご用意しております。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2786/2786_heya.jpg" alt="大町温泉郷　立山プリンスホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>立山黒部アルペンルート扇沢まで車で20分！白馬・安曇野・松本への観光にも最適！温泉自慢の宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県大町市平2884-10 ／ 最寄り駅：信濃大町 ／ 交通案内：安曇野ICから車で40分、信濃大町駅から車で15分、アルペンルート入口まで車で20分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県大町市平2884-10 ／ 最寄り駅：信濃大町 ／ 交通案内：安曇野ICから車で40分、信濃大町駅から車で15分、アルペンルート入口まで車で20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料  　　 駐車場でのトラブルには責任を負いかねます。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.07 ／ 立地 ★4.08 ／ 部屋 ★4.08 ／ 設備 ★3.9 ／ 風呂 ★4.2 ／ 食事 ★4.09</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

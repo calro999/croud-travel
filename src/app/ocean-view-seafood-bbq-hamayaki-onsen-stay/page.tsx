@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/ocean-view-seafood-bbq-hamayaki-onsen-stay/"
   };
 
@@ -270,23 +270,6 @@ export default function Page() {
             ))}
           </div>
         </section>
-
-        {/* 旅のQ&A */}
-        <section className="bg-white rounded-2xl p-6 md:p-8 border border-stone-200 shadow-sm space-y-4">
-          <h2 className="text-lg md:text-xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">よくある質問・失敗しない宿選び</h2>
-          <div className="space-y-4 text-sm">
-            <div className="border border-stone-100 rounded-xl p-4 bg-stone-50/50 space-y-2">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5"><span className="text-emerald-700 font-black">Q.</span> おすすめの予約時期やタイミングは？</h3>
-              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">人気の日程（連休や週末）は1〜2ヶ月前には満室になることが多いため、早期予約（早割プラン）の利用がおすすめです。また楽天トラベルの「5と0のつく日」キャンペーンを活用すると最大20%オフのクーポンが併用でき、最もお得に予約できます。
-              </p>
-            </div>
-            <div className="border border-stone-100 rounded-xl p-4 bg-stone-50/50 space-y-2">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5"><span className="text-emerald-700 font-black">Q.</span> 宿選びで失敗しないためのポイントは？</h3>
-              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">宿泊者レビューのお風呂・お食事・接客評価が4.3以上の宿を選ぶと満足度が非常に高くなります。またアクセス手段（送迎バスの有無など）やプランに含まれる特典を事前に確認しておくと安心です。
-              </p>
-            </div>
-          </div>
-        </section>
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -416,11 +399,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">海を望む絶景オーシャンビュー＆獲れたて海鮮浜焼き・磯料理が自慢の温泉宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「海を望む絶景オーシャンビュー＆獲れたて海鮮浜焼き・磯料理が自慢の温泉宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「海を望む絶景オーシャンビュー＆獲れたて海鮮浜焼き・磯料理が自慢の温泉宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -440,7 +423,7 @@ export default function Page() {
               <tbody className="divide-y divide-stone-200">
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 熱海温泉　海辺の宿　長濱苑</td>
-                <td className="p-3 text-stone-600">山形県</td>
+                <td className="p-3 text-stone-600">静岡県熱海市下多賀1484-19</td>
                 <td className="p-3 text-stone-600">■ＪＲ伊東線　伊豆多賀駅より＜徒歩5分＞急坂あり　■熱海駅～バス２５分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.44（564件）</td>
@@ -476,7 +459,7 @@ export default function Page() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 磨洞温泉　涼風荘</td>
-                <td className="p-3 text-stone-600">山形県</td>
+                <td className="p-3 text-stone-600">三重県津市半田2860-1</td>
                 <td className="p-3 text-stone-600">電車：近鉄津新町駅下車（送迎バス有り）。車:伊勢道久居ＩＣより１０分。</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★3.52（265件）</td>
@@ -501,8 +484,8 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/73924/73924.jpg" alt="熱海温泉　海辺の宿　長濱苑 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「海を望む絶景オーシャンビュー＆獲れたて海鮮浜焼き・磯料理が自慢の温泉宿」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：■ＪＲ伊東線　伊豆多賀駅より＜徒歩5分＞急坂あり　■熱海駅～バス２５分　バス停「長浜」目の前</p>
+                  <p><strong>【宿の特徴・魅力】</strong>旅の目的に合わせて選ぶ「海を望む絶景オーシャンビュー＆獲れたて海鮮浜焼き・磯料理が自慢の温泉宿」各宿の強みと基本情報は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：■ＪＲ伊東線　伊豆多賀駅より＜徒歩5分＞急坂あり　■熱海駅～バス２５分　バス停「長浜」目の前</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -524,7 +507,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/53414/53414_ky.jpg" alt="湯野浜温泉　竹屋ホテル（鶴岡・酒田） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>日本海に面した砂浜に位置し夕陽が大変美しい宿。出来たてを大切にした料理で名物「浜焼き」が好評です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県鶴岡市湯野浜温泉1-9-25 ／ 最寄り駅：鶴岡 ／ 交通案内：ＪＲ　鶴岡駅から湯の浜温泉まで車で２０分、バスで３５分</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県鶴岡市湯野浜温泉1-9-25 ／ 最寄り駅：鶴岡 ／ 交通案内：ＪＲ　鶴岡駅から湯の浜温泉まで車で２０分、バスで３５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -546,7 +529,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/38764/38764_wa.jpg" alt="越後湯沢温泉　湯沢グランドホテル＜新潟県＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★楽天シルバーアワード3年連続受賞★湯沢旅館部門売上1位★出来立ての美味しさが自慢のバイキング★</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県南魚沼郡湯沢町大字湯沢2494 ／ 最寄り駅：越後湯沢 ／ 交通案内：駅から徒歩3分＆湯沢ＩＣから5分！入口はセブンイレブンが目印！※ホテル前の坂道は急なので遠慮なく送迎をご依頼ください。</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県南魚沼郡湯沢町大字湯沢2494 ／ 最寄り駅：越後湯沢 ／ 交通案内：駅から徒歩3分＆湯沢ＩＣから5分！入口はセブンイレブンが目印！※ホテル前の坂道は急なので遠慮なく送迎をご依頼ください。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　約８０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -568,7 +551,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/140798/140798_kya.jpg" alt="内海温泉　いち豆 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>楽天スーパーSALE♪目の前に広がる海を楽しめるのもいち豆ならでは♪クーポン参加中★</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛知県知多郡南知多町内海新田48 ／ 最寄り駅：内海（愛知） ／ 交通案内：■□名鉄内海駅より徒歩約１５分内海海水浴場の目の前■□選べる色浴衣や内海温泉の貸切露天風呂が無料■□</p>
+                  <p><strong>【所在地・アクセス】</strong>愛知県知多郡南知多町内海新田48 ／ 最寄り駅：内海（愛知） ／ 交通案内：■□名鉄内海駅より徒歩約１５分内海海水浴場の目の前■□選べる色浴衣や内海温泉の貸切露天風呂が無料■□</p>
                   <p><strong>【駐車場・マイカー利用】</strong>４０台あり■□赤ちゃん歓迎、記念日、宴会など多彩なプラン■□コンビニ・スーパー徒歩５分</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -589,8 +572,8 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5644/5644.jpg" alt="磨洞温泉　涼風荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「海を望む絶景オーシャンビュー＆獲れたて海鮮浜焼き・磯料理が自慢の温泉宿」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：電車：近鉄津新町駅下車（送迎バス有り）。車:伊勢道久居ＩＣより１０分。</p>
+                  <p><strong>【宿の特徴・魅力】</strong>磨洞温泉 涼風荘（三重県津市半田2860-1）は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：電車：近鉄津新町駅下車（送迎バス有り）。車:伊勢道久居ＩＣより１０分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -601,6 +584,9 @@ export default function Page() {
             </div>
           </div></section>
 
+              <div className="my-8">
+          <ShareButtons title="海を望む絶景オーシャンビュー＆獲れたて海鮮浜焼き・磯料理が自慢の温泉宿" url="https://croud-travel.pages.dev/ocean-view-seafood-bbq-hamayaki-onsen-stay/" />
+        </div>
       </main>
     
       <HubRelatedPosts currentSlug="ocean-view-seafood-bbq-hamayaki-onsen-stay" />

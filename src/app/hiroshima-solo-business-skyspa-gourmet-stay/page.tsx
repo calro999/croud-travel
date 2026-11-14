@@ -356,28 +356,6 @@ export default function ArticlePage() {
         </section>
 
         {/* よくある質問 FAQ */}
-        <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-6">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-stone-900 border-b border-stone-200 pb-3">よくある質問（FAQ）</h2>
-          <div className="space-y-4">
-            
-            <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
-                <span>広島駅から八丁堀や繁華街まではどう移動するのが便利ですか？</span></h3>
-              <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
-                広島駅南口から路面電車（広電）に乗れば約10分で八丁堀電停に到着します。ICOCAやSuica等の交通系ICカードがそのまま利用可能です。
-              </p>
-            </div>
-            
-            <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
-                <span>出張の合間に宮島（厳島神社）へ行く時間は取れますか？</span></h3>
-              <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
-                JR山陽本線を使えば広島駅から宮島口駅まで約28分、そこからフェリーで約10分（計約40分）で行けるため、午前中や夕方の半日空き時間があれば十分に参拝可能です。
-              </p>
-            </div>
-            
-          </div>
-        </section>
 
         {/* 関連リンク・ナビゲーション */}
         <div className="text-center pt-8 border-t border-stone-200">
@@ -423,11 +401,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">広島出張＆大人ひとり旅：広島駅直結・最上階スカイスパ・流川お好み焼き！心身をととのえる名ホテル 厳選3選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「広島出張＆大人ひとり旅：広島駅直結・最上階スカイスパ・流川お好み焼き！心身をととのえる名ホテル 厳選3選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「広島出張＆大人ひとり旅：広島駅直結・最上階スカイスパ・流川お好み焼き！心身をととのえる名ホテル 厳選3選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -491,7 +469,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/111269/111269_kya.jpg" alt="シェラトングランドホテル広島 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>シェラトングランドホテル広島は広島駅直結、観光地にも近く、便利な場所に位置しております。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 広島県広島市東区若草町12-1 ／ 最寄り駅：広島 ／ 交通案内：広島駅新幹線口より徒歩1分　広島空港リムジンバス乗り場から徒歩1分</p>
+                  <p><strong>【所在地・アクセス】</strong>広島県広島市東区若草町12-1 ／ 最寄り駅：広島 ／ 交通案内：広島駅新幹線口より徒歩1分　広島空港リムジンバス乗り場から徒歩1分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>当ホテルに駐車場はございません。最寄りのアクティブインターシティー駐車場をご利用下さい</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.68 ／ 立地 ★4.76 ／ 部屋 ★4.68 ／ 設備 ★4.62 ／ 風呂 ★4.58 ／ 食事 ★4.67</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -513,7 +491,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/165795/165795.jpg" alt="ＣＡＮＤＥＯ　ＨＯＴＥＬＳ（カンデオホテルズ）広島八丁堀 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>平和記念公園徒歩圏内の便利なホテル／最上階に大浴場有／全室禁煙</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 広島県広島市中区八丁堀14-1 ／ 最寄り駅：主要駅 ／ 交通案内：広島駅～車で約6分／市内電車：八丁堀電停～徒歩約1分/広島バスセンター・アストラムライン本通り駅～徒歩約10分</p>
+                  <p><strong>【所在地・アクセス】</strong>広島県広島市中区八丁堀14-1 ／ 交通案内：広島駅～車で約6分／市内電車：八丁堀電停～徒歩約1分/広島バスセンター・アストラムライン本通り駅～徒歩約10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル駐車場は無し、近隣に立体駐車場（提携ではない）あり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.32 ／ 立地 ★4.36 ／ 部屋 ★4.37 ／ 設備 ★4.27 ／ 風呂 ★4.33</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -535,7 +513,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/11381/11381_room.jpg" alt="安芸の湯　ドーミーイン広島（２０２６年５月１日リニューアルＯＰＥＮ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>■夜通しご利用可能な男女大浴場(サウナ付)完備！JR広島駅まで無料お送りバス(ご予約制) 毎日運行</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 広島県広島市中区小町3－28 ／ 最寄り駅：本通 ／ 交通案内：広島駅より広島電鉄1番広島港行き中電前駅より徒歩2分/エキまちループ白神社前より徒歩2分</p>
+                  <p><strong>【所在地・アクセス】</strong>広島県広島市中区小町3－28 ／ 最寄り駅：本通 ／ 交通案内：広島駅より広島電鉄1番広島港行き中電前駅より徒歩2分/エキまちループ白神社前より徒歩2分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>先着順の提携駐車場　1泊￥1500（途中入出庫不可）　車体制限有り</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.39 ／ 立地 ★4.28 ／ 部屋 ★4.36 ／ 設備 ★4.37 ／ 風呂 ★4.4 ／ 食事 ★4.48</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

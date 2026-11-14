@@ -369,7 +369,7 @@ export default function NozawaWinterPage() {
             <span className="text-xs font-bold text-teal-600 uppercase tracking-widest">Selected Innn</span>
             <h2 className="text-2xl sm:text-3xl font-bold text-stone-900 mt-1">パウダースノーと外湯めぐりを満喫する野沢温泉の厳選宿5選</h2>
             <p className="text-stone-500 text-sm mt-2">
-              楽天トラベル公式APIより取得した最新情報に基づき、自家源泉やゲレンデアクセス、料理評価に優れた名宿をご紹介。
+              編集部が施設データとクチコミ評価をもとに、自家源泉やゲレンデアクセス、料理評価に優れた名宿をご紹介。
             </p>
           </div>
 

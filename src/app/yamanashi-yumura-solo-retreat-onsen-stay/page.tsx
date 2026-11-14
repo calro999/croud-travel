@@ -77,7 +77,7 @@ export default function ArticlePage() {
             山梨・湯村温泉ひとり旅＆信玄隠し湯おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「甲府・湯村温泉ひとり旅・信玄隠し湯おこもり」自家源泉かけ流し・太宰治ゆかりの文学宿・甲州ワイン＆ほうとう！都心特急90分の古湯厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               甲府駅からバスでわずか15分の距離にありながら、古の湯治場の面影を色濃く残す「信玄の湯 湯村温泉」。武田信玄が陣中見舞いや戦の傷を癒やす隠し湯として愛用し、昭和期には太宰治や松本清張などの名だたる文豪が逗留して筆を執ったことでも知られます。肌触り柔らかな弱アルカリ性温泉は、長時間の湯治にも最適です。
             </p>
             <p>
-              文人墨客の歴史が息づく閑静な老舗宿から、自家源泉100%を気兼ねなく楽しめる現代的な湯宿まで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              文人墨客の歴史が息づく閑静な老舗宿から、自家源泉100%を気兼ねなく楽しめる現代的な湯宿まで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -422,11 +422,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">甲府・湯村温泉ひとり旅・信玄隠し湯おこもり：自家源泉かけ流し・太宰治ゆかりの文学宿・甲州ワイン＆ほうとう！都心特急90分の古湯厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「甲府・湯村温泉ひとり旅・信玄隠し湯おこもり：自家源泉かけ流し・太宰治ゆかりの文学宿・甲州ワイン＆ほうとう！都心特急90分の古湯厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「甲府・湯村温泉ひとり旅・信玄隠し湯おこもり：自家源泉かけ流し・太宰治ゆかりの文学宿・甲州ワイン＆ほうとう！都心特急90分の古湯厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -508,7 +508,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/29393/29393_m1.jpg" alt="湯村温泉　湯志摩の郷　楽水園 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全14室「生そば処 らくすい」隣接★天然温泉と生蕎麦自慢の湯宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県甲府市湯村1-11-5 ／ 最寄り駅：甲府 ／ 交通案内：JR中央線・甲府駅より車で約10分／中央自動車道　甲府昭和ICより約20分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県甲府市湯村1-11-5 ／ 最寄り駅：甲府 ／ 交通案内：JR中央線・甲府駅より車で約10分／中央自動車道　甲府昭和ICより約20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　15台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -530,7 +530,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2636/2636_rst.jpg" alt="ナチュラルファームシティ農園ホテル　＜秩父の街並みを眼下に望むロケーション＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>高台に位置する当ホテルは運が良ければ雲海に出会えるかも　～「雲海に 出会えたあなたは 運がいい」～</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 埼玉県秩父市大宮5911-1 ／ 最寄り駅：秩父 ／ 交通案内：西武池袋線、西武秩父駅より車で約７分（無料送迎有）、関越自動車道　花園Ｉ．Ｃから皆野寄居バイパス経由約４０分</p>
+                  <p><strong>【所在地・アクセス】</strong>埼玉県秩父市大宮5911-1 ／ 最寄り駅：秩父 ／ 交通案内：西武池袋線、西武秩父駅より車で約７分（無料送迎有）、関越自動車道　花園Ｉ．Ｃから皆野寄居バイパス経由約４０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台　無料　本館前Ｐ　第二駐車場　※先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -552,7 +552,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5013/5013_war.jpg" alt="渋沢栄一翁命名の宿　養浩亭 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>上長瀞駅徒歩5分！荒川沿いで観光にもビジネスにも便利♪創業103年目のレトロな旅館です</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 埼玉県秩父郡長瀞町長瀞1446 ／ 最寄り駅：上長瀞 ／ 交通案内：電車：秩父鉄道・上長瀞駅より徒歩５分　車：関越自動車道・花園ＩＣより、国道１４０号長瀞方面へ約２０ｋｍ、約２５分</p>
+                  <p><strong>【所在地・アクセス】</strong>埼玉県秩父郡長瀞町長瀞1446 ／ 最寄り駅：上長瀞 ／ 交通案内：電車：秩父鉄道・上長瀞駅より徒歩５分　車：関越自動車道・花園ＩＣより、国道１４０号長瀞方面へ約２０ｋｍ、約２５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１３台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.16 ／ 立地 ★4.04 ／ 部屋 ★3.86 ／ 設備 ★3.66 ／ 風呂 ★3.84 ／ 食事 ★4.19</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -574,7 +574,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5125/5125_heya.jpg" alt="旅館　きん藤 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>二食付きでお泊りいただけます。　無料wi-fi　JR深谷駅より徒歩7分、</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 埼玉県深谷市本住町7‐52 ／ 最寄り駅：深谷 ／ 交通案内：深谷駅北側徒歩７分、旧中山道沿い、花園ＩＣより【２５分】１０ｋｍ</p>
+                  <p><strong>【所在地・アクセス】</strong>埼玉県深谷市本住町7‐52 ／ 最寄り駅：深谷 ／ 交通案内：深谷駅北側徒歩７分、旧中山道沿い、花園ＩＣより【２５分】１０ｋｍ</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場アリ、大型車・マイクロもＯＫ、（15台）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -596,7 +596,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5828/5828_war.jpg" alt="秩父七湯『御代の湯』　新木鉱泉旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2025楽天トラベルアワード13度目の受賞！民芸調のほのぼの宿！滑らかな卵水と云われる温泉が自慢です</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 埼玉県秩父市山田1538番地1 ／ 最寄り駅：西武秩父 ／ 交通案内：◆送迎有◆その他、西武秩父駅よりタクシー10分又は定峰行きバス25分金昌寺下車徒歩4分●関越道花園ICより40分●</p>
+                  <p><strong>【所在地・アクセス】</strong>埼玉県秩父市山田1538番地1 ／ 最寄り駅：西武秩父 ／ 交通案内：◆送迎有◆その他、西武秩父駅よりタクシー10分又は定峰行きバス25分金昌寺下車徒歩4分●関越道花園ICより40分●</p>
                   <p><strong>【駐車場・マイカー利用】</strong>３０台　　【無料・予約不要】</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

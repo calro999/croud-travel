@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">福井・三方五湖＆レインボーライン：天空テラス・五色水鏡＆三方口細うなぎ・若狭ふぐ宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「福井・三方五湖＆レインボーライン：天空テラス・五色水鏡＆三方口細うなぎ・若狭ふぐ宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「福井・三方五湖＆レインボーライン：天空テラス・五色水鏡＆三方口細うなぎ・若狭ふぐ宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -270,7 +270,7 @@ export default function MicroTouristHubPage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 三国温泉　展望自慢の料理旅館　はれや旅館</td>
-                <td className="p-3 text-stone-600">福井県</td>
+                <td className="p-3 text-stone-600">福井県坂井市三国町梶26-45-1</td>
                 <td className="p-3 text-stone-600">ＪＲ　芦原温泉駅よりお車にて１０分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.29（161件）</td>
@@ -323,7 +323,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/128282/128282_kya.jpg" alt="天然温泉　岡三屋　彩かさね 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>三方湖畔に建つ温泉旅館、湖に手が届きそうな露天風呂、地食材を生かした創作和食、和みを感じてください。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福井県三方上中郡若狭町生倉18-19-2 ／ 最寄り駅：三方 ／ 交通案内：ＪＲ　三方駅より車で約５分</p>
+                  <p><strong>【所在地・アクセス】</strong>福井県三方上中郡若狭町生倉18-19-2 ／ 最寄り駅：三方 ／ 交通案内：ＪＲ　三方駅より車で約５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２５台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/10952/10952_war.jpg" alt="若狭美浜温泉　悠久乃碧　ホテル湾彩 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>若狭湾一望のホテル！オーシャンビュー＆獲れたての海幸が自慢</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福井県三方郡美浜町久々子海岸 ／ 最寄り駅：美浜 ／ 交通案内：JR美浜駅から車で５分。 敦賀ICから車で２０分。</p>
+                  <p><strong>【所在地・アクセス】</strong>福井県三方郡美浜町久々子海岸 ／ 最寄り駅：美浜 ／ 交通案内：JR美浜駅から車で５分。 敦賀ICから車で２０分。</p>
                   <p>【福井・三方五湖＆レインボーライン：天空テラス・五色水】 <strong>【駐車場・マイカー利用】</strong>有り　８０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -366,8 +366,8 @@ export default function MicroTouristHubPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/142842/142842.jpg" alt="三国温泉　展望自慢の料理旅館　はれや旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「福井・三方五湖＆レインボーライン（天空テラス・五色水鏡＆三方口細うなぎ・若狭ふぐ宿 厳選ガイド）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ　芦原温泉駅よりお車にて１０分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>福井県坂井市の三国温泉に佇む美食の宿『展望自慢の料理旅館 はれや旅館』。全室オーシャンビューの展望露天風呂から望む日本海の荒波と夕日、冬の味覚の王者・黄色タグ付き越前がにを心ゆくまで堪能する極上レポート。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：ＪＲ　芦原温泉駅よりお車にて１０分</p>
                   <p>【福井・三方五湖＆レインボーライン：天空テラス・五色水】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8114/8114_heya.jpg" alt="北陸　福井　あわら温泉　美松 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>◆充実！美松のドリンクインクルーシブスタート◆別邸「美悠」など趣の異なる温泉露天風呂付客室が好評◆</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福井県あわら市舟津26-10 ／ 最寄り駅：芦原温泉 ／ 交通案内：JR北陸新幹線芦原温泉駅より約15分（要予約）／北陸自動車道金津ICより約15分／小松空港より車で約50分</p>
+                  <p><strong>【所在地・アクセス】</strong>福井県あわら市舟津26-10 ／ 最寄り駅：芦原温泉 ／ 交通案内：JR北陸新幹線芦原温泉駅より約15分（要予約）／北陸自動車道金津ICより約15分／小松空港より車で約50分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>先着順の無料駐車場（100台）お体の不自由なお客様には駐車場の確保も致します。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/160944/160944_kan1.jpg" alt="愛犬と添い寝できる温泉旅館　あわら温泉　月香 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>愛犬と温泉旅館で過ごすという贅沢。お食事のときも寛ぎのときもワンちゃんと一緒にお過ごしいただけます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福井県あわら市舟津9-8 ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ　あわら温泉駅よりお車にて約１５分</p>
+                  <p><strong>【所在地・アクセス】</strong>福井県あわら市舟津9-8 ／ 交通案内：ＪＲ　あわら温泉駅よりお車にて約１５分</p>
                   <p>【福井・三方五湖＆レインボーライン：天空テラス・五色水】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/161184/161184_kan1.jpg" alt="花はす温泉　そまやま 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>緑豊かな庭園露天風呂が自慢の宿。ツルツル美肌の温泉と名物はす湯、福井の山海の幸満載のお料理もどうぞ</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福井県南条郡南越前町中小屋60-1 ／ 最寄り駅：南条 ／ 交通案内：南条スマートICよりお車で約５分、今庄ICよりお車で約１０分。金沢や若狭、県内東尋坊などアクセス起点に便利</p>
+                  <p><strong>【所在地・アクセス】</strong>福井県南条郡南越前町中小屋60-1 ／ 最寄り駅：南条 ／ 交通案内：南条スマートICよりお車で約５分、今庄ICよりお車で約１０分。金沢や若狭、県内東尋坊などアクセス起点に便利</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

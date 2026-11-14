@@ -78,7 +78,7 @@ export default function ArticlePage() {
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.12 更新</time>
           <span>執筆：旅宿クラウド ひとり旅・出張調査班</span>
-          <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式API提携</span>
+          <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">編集部が厳選</span>
         </div>
 
         {/* リード文 */}
@@ -90,7 +90,7 @@ export default function ArticlePage() {
             千年の都・京都のもう一つの顔である「海の京都」。日本三景のひとつ「天橋立」の神秘的な砂嘴（さし）の絶景や、旧海軍の赤れんが倉庫群が残る舞鶴は、喧騒から離れた一人旅の目的地として絶大な人気を集めています。
           </p>
           <p>
-            肌にしっとり馴染む塩化物泉「天橋立温泉」の展望露天風呂を備える駅前ホテルから、歴史ある数寄屋造りの名旅館、ビジネス・観光どちらにも快適な機能派ホテルまで、楽天トラベル公式APIより取得した最新データをもとに厳選紹介します。
+            肌にしっとり馴染む塩化物泉「天橋立温泉」の展望露天風呂を備える駅前ホテルから、歴史ある数寄屋造りの名旅館、ビジネス・観光どちらにも快適な機能派ホテルまで、宿泊施設データより取得した最新データをもとに厳選紹介します。
           </p>
         </div>
       </header>
@@ -371,7 +371,7 @@ export default function ArticlePage() {
           <p className="text-sm text-amber-100 mb-6 max-w-2xl mx-auto">平日限定の一人旅割引や、早期割・直前割など、楽天トラベルならではの特典プランが多数用意されています。人気日程は早めの予約がおすすめです。
           </p>
           <a
-            href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2F"
+            href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fsearch.travel.rakuten.co.jp%2Fds%2Fundated%2Fsearch%3Ff_query%3D%25E4%25BA%25AC%25E9%2583%25BD%25E5%25BA%259C"
             target="_blank"
             rel="sponsored noopener noreferrer"
             className="inline-flex items-center justify-center bg-white text-amber-900 font-bold px-8 py-3 rounded-xl shadow-lg hover:bg-amber-50 transition transform hover:-translate-y-0.5 text-sm sm:text-base"
@@ -480,11 +480,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">天橋立・舞鶴ひとり旅：日本三景パノラマ・茶褐色天橋立温泉・若狭湾の海の幸！海の京都でととのう厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「天橋立・舞鶴ひとり旅：日本三景パノラマ・茶褐色天橋立温泉・若狭湾の海の幸！海の京都でととのう厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「天橋立・舞鶴ひとり旅：日本三景パノラマ・茶褐色天橋立温泉・若狭湾の海の幸！海の京都でととのう厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -548,7 +548,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/16816/16816_wayo.jpg" alt="天橋立温泉　天橋立ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>客室・大浴場・露天風呂より天橋立を一望していただける天然温泉のお宿：天橋立駅より徒歩1分</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 京都府宮津市文珠310 ／ 最寄り駅：天橋立 ／ 交通案内：天橋立駅より徒歩1分／宮津天橋立I.C.より約10分</p>
+                  <p><strong>【所在地・アクセス】</strong>京都府宮津市文珠310 ／ 最寄り駅：天橋立 ／ 交通案内：天橋立駅より徒歩1分／宮津天橋立I.C.より約10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　70台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -570,7 +570,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/76913/76913_to.jpg" alt="天橋立温泉　和のリゾート　文珠荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>日本三景天橋立の運河に佇む宿。2023年春サウナ付大浴場誕生。新しい和のリゾートをお楽しみください。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 京都府宮津市字文珠510 ／ 最寄り駅：天橋立 ／ 交通案内：京都丹後鉄道　天橋立駅より徒歩3分</p>
+                  <p><strong>【所在地・アクセス】</strong>京都府宮津市字文珠510 ／ 最寄り駅：天橋立 ／ 交通案内：京都丹後鉄道　天橋立駅より徒歩3分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -592,7 +592,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/43966/43966_tw.jpg" alt="ホテル　アマービレ舞鶴 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>深夜まで入浴可能の男女大浴場もあり飲食店街やコンビニも近い当館で疲れを癒して下さいませ。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 京都府舞鶴市浜18 ／ 最寄り駅：東舞鶴 ／ 交通案内：ＪＲ東舞鶴駅北口より三条通りを北へまっすぐ徒歩約１0分、お車で約3分。舞鶴東ICよりお車で約１０分。綾部ICより約２５分</p>
+                  <p><strong>【所在地・アクセス】</strong>京都府舞鶴市浜18 ／ 最寄り駅：東舞鶴 ／ 交通案内：ＪＲ東舞鶴駅北口より三条通りを北へまっすぐ徒歩約１0分、お車で約3分。舞鶴東ICよりお車で約１０分。綾部ICより約２５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料先着58台　２ｔ車以上要連絡　ホテル裏側含め計3ヶ所　ホテルから離れておりご足労おかけ致します。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.23 ／ 立地 ★4.12 ／ 部屋 ★4.1 ／ 設備 ★4.09 ／ 風呂 ★4.12 ／ 食事 ★4.25</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

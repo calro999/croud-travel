@@ -78,7 +78,7 @@ export default function ArticlePage() {
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.12 更新</time>
           <span>執筆：旅宿クラウド ひとり旅・出張調査班</span>
-          <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式API提携</span>
+          <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">編集部が厳選</span>
         </div>
 
         {/* リード文 */}
@@ -90,7 +90,7 @@ export default function ArticlePage() {
             海から直接船を乗り入れる1階の舟小屋と2階の住居が一体となった、世界でも唯一無二の景観「伊根の舟屋群」。波静かな伊根湾に沿って約5kmにわたり立ち並ぶこの伝統集落は、喧騒から完全に隔絶された一人旅の最高峰デスティネーションです。
           </p>
           <p>
-            海と空に溶け込むような自家源泉客室露天風呂を備える極上隠れ家旅館から、日本海屈指のブランド「伊根ブリ」や岩ガキを堪能できる名宿まで、楽天トラベル公式APIより取得した最新データをもとに厳選紹介します。
+            海と空に溶け込むような自家源泉客室露天風呂を備える極上隠れ家旅館から、日本海屈指のブランド「伊根ブリ」や岩ガキを堪能できる名宿まで、宿泊施設データより取得した最新データをもとに厳選紹介します。
           </p>
         </div>
       </header>
@@ -371,7 +371,7 @@ export default function ArticlePage() {
           <p className="text-sm text-amber-100 mb-6 max-w-2xl mx-auto">平日限定の一人旅割引や、早期割・直前割など、楽天トラベルならではの特典プランが多数用意されています。人気日程は早めの予約がおすすめです。
           </p>
           <a
-            href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2F"
+            href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fsearch.travel.rakuten.co.jp%2Fds%2Fundated%2Fsearch%3Ff_query%3D%25E4%25BA%25AC%25E9%2583%25BD%25E5%25BA%259C"
             target="_blank"
             rel="sponsored noopener noreferrer"
             className="inline-flex items-center justify-center bg-white text-amber-900 font-bold px-8 py-3 rounded-xl shadow-lg hover:bg-amber-50 transition transform hover:-translate-y-0.5 text-sm sm:text-base"

@@ -236,7 +236,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -680,11 +680,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：空と海にせり出すスリルと絶景！断崖絶壁パノラマ露天風呂付き極上宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：空と海にせり出すスリルと絶景！断崖絶壁パノラマ露天風呂付き極上宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：空と海にせり出すスリルと絶景！断崖絶壁パノラマ露天風呂付き極上宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -704,7 +704,7 @@ export default function FeatureDetailPage() {
               <tbody className="divide-y divide-stone-200">
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 熱川温泉　絶景と露天風呂の宿　たかみホテル</td>
-                <td className="p-3 text-stone-600">石川県</td>
+                <td className="p-3 text-stone-600">静岡県賀茂郡東伊豆町熱川1271</td>
                 <td className="p-3 text-stone-600">電車：伊豆急線・伊豆熱川駅から徒歩10分（送迎あり）／お車：東名高速・</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★3.76（772件）</td>
@@ -722,7 +722,7 @@ export default function FeatureDetailPage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 海絶景とギネス認定の宿　全室露天風呂付離れ　ＸＹＺスペチアーレ</td>
-                <td className="p-3 text-stone-600">石川県</td>
+                <td className="p-3 text-stone-600">和歌山県西牟婁郡白浜町椿1063-21</td>
                 <td className="p-3 text-stone-600">【お車の場合】：道の駅椿はなの湯から約２分【空港、電車等でお越しの場合</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.77（61件）</td>
@@ -740,7 +740,7 @@ export default function FeatureDetailPage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 三河湾を一望■天下の絶景　西浦温泉　ホテル東海園</td>
-                <td className="p-3 text-stone-600">石川県</td>
+                <td className="p-3 text-stone-600">愛知県蒲郡市西浦町大山17-1</td>
                 <td className="p-3 text-stone-600">名鉄西浦駅より無料送迎バスで１０分（14：20～16：20）／音羽蒲郡</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★3.66（828件）</td>
@@ -765,8 +765,8 @@ export default function FeatureDetailPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/11167/11167.jpg" alt="熱川温泉　絶景と露天風呂の宿　たかみホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「空と海にせり出すスリルと絶景（断崖絶壁パノラマ露天風呂付き極上宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：電車：伊豆急線・伊豆熱川駅から徒歩10分（送迎あり）／お車：東名高速・厚木IC→熱海（R135）→熱川温泉</p>
+                  <p><strong>【宿の特徴・魅力】</strong>2026年で比較したい各宿のロケーション・駐車場・料金詳細は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：電車：伊豆急線・伊豆熱川駅から徒歩10分（送迎あり）／お車：東名高速・厚木IC→熱海（R135）→熱川温泉</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -788,7 +788,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/194484/194484.jpg" alt="露天風呂オーシャンビュー　Ｂｌｕｅ　Ｏｃｅａｎ　ＩＺＵ　＾ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>１日１組限定、１５名様迄が宿泊できる大型の露天風呂付きの高級貸切別荘ヴィラ</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県熱海市網代627-839　Ｂｌｕｅ　Ｏｃｅａｎ　ＩＺＵ ／ 最寄り駅：網代 ／ 交通案内：網代駅から徒歩で約７分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県熱海市網代627-839　Ｂｌｕｅ　Ｏｃｅａｎ　ＩＺＵ ／ 最寄り駅：網代 ／ 交通案内：網代駅から徒歩で約７分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -809,8 +809,8 @@ export default function FeatureDetailPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/182811/182811.jpg" alt="海絶景とギネス認定の宿　全室露天風呂付離れ　ＸＹＺスペチアーレ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「空と海にせり出すスリルと絶景（断崖絶壁パノラマ露天風呂付き極上宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：【お車の場合】：道の駅椿はなの湯から約２分【空港、電車等でお越しの場合】：無料の送迎サービスをご利用いただけます</p>
+                  <p><strong>【宿の特徴・魅力】</strong>海絶景とギネス認定の宿 全室露天風呂付離れ ＸＹＺスペチアーレ（和歌山県西牟婁郡白浜町椿1063-21）は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：【お車の場合】：道の駅椿はなの湯から約２分【空港、電車等でお越しの場合】：無料の送迎サービスをご利用いただけます</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -832,7 +832,7 @@ export default function FeatureDetailPage() {
                 
                 <div className="md:col-span-3 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>小豆島の名所「エンジェルロード」が眼下に広がる当館にて、小豆島の海の景色や潮の香りをご堪能下さい</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 香川県小豆郡土庄町甲1135 ／ 最寄り駅：主要駅 ／ 交通案内：</p>
+                  <p><strong>【所在地・アクセス】</strong>香川県小豆郡土庄町甲1135 ／ 交通案内：</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -853,8 +853,8 @@ export default function FeatureDetailPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31209/31209.jpg" alt="三河湾を一望■天下の絶景　西浦温泉　ホテル東海園 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「空と海にせり出すスリルと絶景（断崖絶壁パノラマ露天風呂付き極上宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：名鉄西浦駅より無料送迎バスで１０分（14：20～16：20）／音羽蒲郡ICより車で３０分／ラグーナまで車で３０分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>三河湾を一望■天下の絶景 西浦温泉 ホテル東海園（愛知県蒲郡市西浦町大山17-1）は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：名鉄西浦駅より無料送迎バスで１０分（14：20～16：20）／音羽蒲郡ICより車で３０分／ラグーナまで車で３０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

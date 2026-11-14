@@ -228,11 +228,11 @@ export default function PetDogResortHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">愛犬同伴OK・お部屋食＆愛犬用特製フルコース宿：無添加ごちそう＆記念日 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「愛犬同伴OK・お部屋食＆愛犬用特製フルコース宿：無添加ごちそう＆記念日 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「愛犬同伴OK・お部屋食＆愛犬用特製フルコース宿：無添加ごちそう＆記念日 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function PetDogResortHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/183473/183473.jpg" alt="ラ・ドッグリゾート　伊豆高原　全室露天付き客室と部屋食の愛犬の宿 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【全室露天風呂付・お部屋食】愛犬とゆっくりくつろげる伊豆高原のドッグリゾート</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県伊東市八幡野1254-25 ／ 最寄り駅：伊豆高原 ／ 交通案内：伊豆高原駅よりタクシーで10分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県伊東市八幡野1254-25 ／ 最寄り駅：伊豆高原 ／ 交通案内：伊豆高原駅よりタクシーで10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　14台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function PetDogResortHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/137970/137970_kya.jpg" alt="愛犬と泊まれる海と夕陽の楽園　頬杖の刻 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>オーシャンビューのテラスから海と夕日を一望。全10室の温泉露天風呂付客室で日常の疲れを癒す至福の刻</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県伊豆市小土肥309-1 ／ 最寄り駅：主要駅 ／ 交通案内：修善寺駅より東海バスで土肥・松崎行</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県伊豆市小土肥309-1 ／ 交通案内：修善寺駅より東海バスで土肥・松崎行</p>
                   <p>【愛犬同伴OK・お部屋食＆愛犬用特製フルコース宿：無添】 <strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function PetDogResortHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/129403/129403_kya.jpg" alt="静かな湖畔の愛犬同伴専門宿「ペロはまなこ」 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>浜名湖随一の絶景パノラマロケーション！ワンちゃんの為に設備された、浜名湖ドッグリゾートです。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県湖西市新所5957-6 ／ 最寄り駅：鷲津 ／ 交通案内：東名高速道路・三ケ日ＩＣから約20分　ＪＲ東海道線・鷲津駅よりお車で約10分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県湖西市新所5957-6 ／ 最寄り駅：鷲津 ／ 交通案内：東名高速道路・三ケ日ＩＣから約20分　ＪＲ東海道線・鷲津駅よりお車で約10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１0台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function PetDogResortHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7564/7564_room.jpg" alt="伊勢二見　愛犬と泊まれる旅館　まつしん 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【伊勢神宮へ車20分】☆ペットと泊まれる宿☆看板犬がお出迎え♪展望風呂より夫婦岩を眺める☆</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 三重県伊勢市二見町茶屋５７０－３ ／ 最寄り駅：二見浦 ／ 交通案内：伊勢自動車道経由伊勢二見鳥羽ライン二見ＩＣより５分。</p>
+                  <p><strong>【所在地・アクセス】</strong>三重県伊勢市二見町茶屋５７０－３ ／ 最寄り駅：二見浦 ／ 交通案内：伊勢自動車道経由伊勢二見鳥羽ライン二見ＩＣより５分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function PetDogResortHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1307/1307_heya.jpg" alt="下田温泉　黒船ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【全室オーシャンビュー】離れや客室露天風呂、プールをご堪能。伊豆・下田温泉の味覚に舌鼓。ペット可！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県下田市柿崎3-8 ／ 最寄り駅：伊豆急下田 ／ 交通案内：伊豆急線「伊豆急下田駅」から徒歩13分、タクシーで3分。 車で沼津から当館まで伊豆縦貫道で90分。</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県下田市柿崎3-8 ／ 最寄り駅：伊豆急下田 ／ 交通案内：伊豆急線「伊豆急下田駅」から徒歩13分、タクシーで3分。 車で沼津から当館まで伊豆縦貫道で90分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>当館の駐車場は建物の地下部分にございます。(高さ制限2.3ｍ/狭めのスペース/台数制限有り/無料)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function PetDogResortHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/142536/142536_kya.jpg" alt="Ｈｏｔｅｌ　Ｓｅａ　Ｓｈｅｌｌ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全室オーシャンビューのゲストルーム。 東京から2時間のリゾート</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県下田市白浜1755 ／ 最寄り駅：伊豆急下田 ／ 交通案内：伊豆急下田駅よりバスにて15分。白浜神社前下車</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県下田市白浜1755 ／ 最寄り駅：伊豆急下田 ／ 交通案内：伊豆急下田駅よりバスにて15分。白浜神社前下車</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　室数分　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -356,28 +356,6 @@ export default function ArticlePage() {
         </section>
 
         {/* よくある質問 FAQ */}
-        <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-6">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-stone-900 border-b border-stone-200 pb-3">よくある質問（FAQ）</h2>
-          <div className="space-y-4">
-            
-            <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
-                <span>クラブラウンジに一人で行っても浮きませんか？</span></h3>
-              <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
-                まったく浮きません。むしろ出張のエグゼクティブや一人で読書・PCワークを楽しんでいる大人のソロゲストが非常に多く、静かで落ち着いた雰囲気のため一人の方が快適に過ごせることも多いです。
-              </p>
-            </div>
-            
-            <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
-                <span>カクテルタイムのオードブルで夕食の代わりになりますか？</span></h3>
-              <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
-                ハイクラスホテルのラウンジでは、ローストビーフや温かい肉・魚料理、チーズ、ブレッドなどが豊富に並ぶため、軽めの夕食として十分に満足される方が大半です。
-              </p>
-            </div>
-            
-          </div>
-        </section>
 
         {/* 関連リンク・ナビゲーション */}
         <div className="text-center pt-8 border-t border-stone-200">

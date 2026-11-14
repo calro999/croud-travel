@@ -356,28 +356,6 @@ export default function ArticlePage() {
         </section>
 
         {/* よくある質問 FAQ */}
-        <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-6">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-stone-900 border-b border-stone-200 pb-3">よくある質問（FAQ）</h2>
-          <div className="space-y-4">
-            
-            <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
-                <span>郡山駅から会津若松やいわき方面へのアクセスはどうですか？</span></h3>
-              <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
-                JR磐越西線の快速で会津若松駅まで約1時間、JR磐越東線でいわき駅まで約1時間半で結ばれており、福島県内各地へのハブとして最適です。
-              </p>
-            </div>
-            
-            <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
-                <span>福島空港から郡山駅までのアクセスはどうなっていますか？</span></h3>
-              <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
-                福島空港から郡山駅前行きのリムジンバスが航空便に合わせて運行しており、約40〜45分で郡山駅西口へスムーズに直行できます。
-              </p>
-            </div>
-            
-          </div>
-        </section>
 
         {/* 関連リンク・ナビゲーション */}
         <div className="text-center pt-8 border-t border-stone-200">
@@ -423,11 +401,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">郡山出張＆中通りひとり旅：新幹線駅前すぐ・天然温泉大浴場・ご当地郡山ブラックラーメン！東北の交通要所で整う極上ホテル 厳選3選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「郡山出張＆中通りひとり旅：新幹線駅前すぐ・天然温泉大浴場・ご当地郡山ブラックラーメン！東北の交通要所で整う極上ホテル 厳選3選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「郡山出張＆中通りひとり旅：新幹線駅前すぐ・天然温泉大浴場・ご当地郡山ブラックラーメン！東北の交通要所で整う極上ホテル 厳選3選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -509,7 +487,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/397/397_sig.jpg" alt="チサンホテル郡山 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR郡山駅西口より徒歩2分の好立地、ホテル1階にセブンイレブンあり</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県郡山市駅前1-8-18 ／ 最寄り駅：郡山（福島） ／ 交通案内：JR郡山駅西口より徒歩2分、郡山ＩＣより車で約20分。</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県郡山市駅前1-8-18 ／ 最寄り駅：郡山（福島） ／ 交通案内：JR郡山駅西口より徒歩2分、郡山ＩＣより車で約20分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場につきましては【駐車場のご案内】ページをご参照下さい</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.02 ／ 立地 ★4.05 ／ 部屋 ★3.82 ／ 設備 ★3.73 ／ 風呂 ★3.73 ／ 食事 ★4.18</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -531,7 +509,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/508/508_kan.jpg" alt="ＥＮ　ＲＥＳＯＲＴ　Ｇｒａｎｄｅｃｏ　Ｈｏｔｅｌ（エンリゾート　グランデコ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>標高１,０００ｍの高原リゾート！手が届きそうな星空とあふれる四季折々の大自然をお楽しみください！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県耶麻郡北塩原村桧原荒砂沢山1082〔会津裏磐梯〕 ／ 最寄り駅：猪苗代 ／ 交通案内：磐越道「猪苗代磐梯高原ＩＣ」より、裏磐梯方面へお車で約２０分後、五色沼交差点より約１５分★ＪＲ猪苗代駅直通シャトルバス有</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県耶麻郡北塩原村桧原荒砂沢山1082〔会津裏磐梯〕 ／ 最寄り駅：猪苗代 ／ 交通案内：磐越道「猪苗代磐梯高原ＩＣ」より、裏磐梯方面へお車で約２０分後、五色沼交差点より約１５分★ＪＲ猪苗代駅直通シャトルバス有</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -553,7 +531,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/651/651_heya.jpg" alt="会津若松ワシントンホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>駅徒歩3分｜14時IN／11時OUT｜会津産コシヒカリや郷土料理を味わう朝食｜会津を愉しむ旅の拠点</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県会津若松市白虎町201 ／ 最寄り駅：会津若松 ／ 交通案内：JR磐越西線会津若松駅より徒歩約３分</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県会津若松市白虎町201 ／ 最寄り駅：会津若松 ／ 交通案内：JR磐越西線会津若松駅より徒歩約３分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>※駐車場は先着順でのご利用をお願いします。 近隣に有料駐車場（一晩500円）あり.※大型車は駐車不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4 ／ 立地 ★3.99 ／ 部屋 ★3.83 ／ 設備 ★3.77 ／ 風呂 ★3.77 ／ 食事 ★4.39</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -575,7 +553,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2094/2094_sgl.jpg" alt="磐梯熱海温泉　紅葉館きらくや 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>露天風呂、貸切風呂、マイナスイオンのぬる湯、と温泉三昧。無料貸切風呂が大人気。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県郡山市熱海町熱海4-39 ／ 最寄り駅：磐梯熱海 ／ 交通案内：●磐梯熱海駅下車、徒歩２分。●磐越自動車道磐梯熱海ICから３Km</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県郡山市熱海町熱海4-39 ／ 最寄り駅：磐梯熱海 ／ 交通案内：●磐梯熱海駅下車、徒歩２分。●磐越自動車道磐梯熱海ICから３Km</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.12 ／ 部屋 ★4.04 ／ 設備 ★3.96 ／ 風呂 ★4.42 ／ 食事 ★4.03</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -597,7 +575,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4669/4669_sgl.jpg" alt="セントラルホテル＜福島県＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ローコスト・ロープライス且つ高品質をモットーにしております。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県郡山市本町1-10-13 ／ 最寄り駅：郡山（福島） ／ 交通案内：郡山駅より徒歩１２．３分、郡山Ｉ．Ｃから約２０分。</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県郡山市本町1-10-13 ／ 最寄り駅：郡山（福島） ／ 交通案内：郡山駅より徒歩１２．３分、郡山Ｉ．Ｃから約２０分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４０台　５００円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.86 ／ 立地 ★3.73 ／ 部屋 ★3.86 ／ 設備 ★3.87 ／ 風呂 ★3.78 ／ 食事 ★3.83</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -285,11 +285,11 @@ export default function AutumnBudgetNaganoCityHotelsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">長野：国宝善光寺の秋紅葉と信州新そば・完熟リンゴ！5,000円台〜格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「長野：国宝善光寺の秋紅葉と信州新そば・完熟リンゴ！5,000円台〜格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「長野：国宝善光寺の秋紅葉と信州新そば・完熟リンゴ！5,000円台〜格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -371,7 +371,7 @@ export default function AutumnBudgetNaganoCityHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/17529/17529_heya.jpg" alt="シティガーデン　ホテル信濃路 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>☆無料の青空駐車場あり☆平面で駐車もらくらく！！全室禁煙/wi-fi/長野駅徒歩8分</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県長野市中御所岡田町131-4 ／ 最寄り駅：長野 ／ 交通案内：電車：JR長野駅善光寺口より徒歩8分　車：長野ICより県庁方面　”中御所北”信号左折所要時間約20分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県長野市中御所岡田町131-4 ／ 最寄り駅：長野 ／ 交通案内：電車：JR長野駅善光寺口より徒歩8分　車：長野ICより県庁方面　”中御所北”信号左折所要時間約20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>平面駐車場およそ100台☆無料☆ （※準中型車以上は有料　2000円/1泊）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.34 ／ 立地 ★4.1 ／ 部屋 ★4.32 ／ 設備 ★4.17 ／ 風呂 ★4.03 ／ 食事 ★4.41</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -393,7 +393,7 @@ export default function AutumnBudgetNaganoCityHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7382/7382_heya.jpg" alt="ＴＨＥ　ＳＡＩＨＯＫＵＫＡＮ　ＨＯＴＥＬ（長野ホテル犀北館） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>国宝善光寺と長野駅の間に立地することから観光、ビジネスの拠点として便利なホテル。（長野ホテル犀北館）</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県長野市県町528-1 ／ 最寄り駅：長野 ／ 交通案内：ＪＲ長野駅より車５分。県庁、善光寺、繁華街近く。</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県長野市県町528-1 ／ 最寄り駅：長野 ／ 交通案内：ＪＲ長野駅より車５分。県庁、善光寺、繁華街近く。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料　６０台有</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -415,7 +415,7 @@ export default function AutumnBudgetNaganoCityHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/181252/181252.jpg" alt="天然温泉ホテルリブマックスＰＲＥＭＩＵＭ長野駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【2020年10月OPEN】ＪＲ信越線、北陸新幹線「長野」駅東口より徒歩約３分 ◇天然温泉＆サウナ◇</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県長野市大字栗田2145 ／ 最寄り駅：長野 ／ 交通案内：ＪＲ信越線／北陸新幹線　長野駅より徒歩にて約３分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県長野市大字栗田2145 ／ 最寄り駅：長野 ／ 交通案内：ＪＲ信越線／北陸新幹線　長野駅より徒歩にて約３分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -437,7 +437,7 @@ export default function AutumnBudgetNaganoCityHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5208/5208_sgl.jpg" alt="ホテルナガノアベニュー 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>旅の疲れを癒すお風呂と本格サウナ！◇図書室マンガ約5000冊&amp;amp;地元情報誌沢山！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県長野市南千歳2-8-5 ／ 最寄り駅：長野 ／ 交通案内：JR長野駅（善光寺口）を出て駅を背にして長野大通りを右（北上）へまっすぐ徒歩7～8分◆上信越自動車道長野ICより３０分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県長野市南千歳2-8-5 ／ 最寄り駅：長野 ／ 交通案内：JR長野駅（善光寺口）を出て駅を背にして長野大通りを右（北上）へまっすぐ徒歩7～8分◆上信越自動車道長野ICより３０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>ホテルより徒歩4分TOiGOパーキング入庫より24時間出し入れなし800円（高さ制限2.1M）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -459,7 +459,7 @@ export default function AutumnBudgetNaganoCityHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/39292/39292_si.jpg" alt="ホテルＪＡＬシティ長野 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>最上階16階にて信州の食文化を感じられる美味しい朝食がクチコミで好評♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県長野市問御所町1221 ／ 最寄り駅：長野 ／ 交通案内：ＪＲ長野駅（善光寺口）より徒歩７分。</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県長野市問御所町1221 ／ 最寄り駅：長野 ／ 交通案内：ＪＲ長野駅（善光寺口）より徒歩７分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>隣接駐車場は先着順（45台収容可　税込1,000円/泊） ※満車の場合は契約駐車場をご案内します。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

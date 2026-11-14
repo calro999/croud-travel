@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/firefly-viewing-summer-stream-night-walk-stay/"
   };
 
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8028%2F8028.html%26f_flg%3DPLAN",
     "hotelMinCharge": 7700,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8028/8028.jpg",
-    "userReview": "絶景のロケーションとおもてなしに心から癒やされました。",
+    "userReview": "料理旅館いずみ荘ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
     "reviewAverage": 4.14,
     "reviewCount": 74,
     "address": "岐阜県美濃市安毛31-5",
@@ -256,23 +256,6 @@ export default function Page() {
             ))}
           </div>
         </section>
-
-        {/* 旅のQ&A */}
-        <section className="bg-white rounded-2xl p-6 md:p-8 border border-stone-200 shadow-sm space-y-4">
-          <h2 className="text-lg md:text-xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">よくある質問・失敗しない宿選び</h2>
-          <div className="space-y-4 text-sm">
-            <div className="border border-stone-100 rounded-xl p-4 bg-stone-50/50 space-y-2">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5"><span className="text-emerald-700 font-black">Q.</span> おすすめの予約時期やタイミングは？</h3>
-              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">人気の日程（連休や週末）は1〜2ヶ月前には満室になることが多いため、早期予約（早割プラン）の利用がおすすめです。また楽天トラベルの「5と0のつく日」キャンペーンを活用すると最大20%オフのクーポンが併用でき、最もお得に予約できます。
-              </p>
-            </div>
-            <div className="border border-stone-100 rounded-xl p-4 bg-stone-50/50 space-y-2">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5"><span className="text-emerald-700 font-black">Q.</span> 宿選びで失敗しないためのポイントは？</h3>
-              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">宿泊者レビューのお風呂・お食事・接客評価が4.3以上の宿を選ぶと満足度が非常に高くなります。またアクセス手段（送迎バスの有無など）やプランに含まれる特典を事前に確認しておくと安心です。
-              </p>
-            </div>
-          </div>
-        </section>
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -402,11 +385,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：幻想的なホタルの乱舞と清流のせせらぎ！初夏の夜空を彩る蛍観賞温泉宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：幻想的なホタルの乱舞と清流のせせらぎ！初夏の夜空を彩る蛍観賞温泉宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：幻想的なホタルの乱舞と清流のせせらぎ！初夏の夜空を彩る蛍観賞温泉宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -426,7 +409,7 @@ export default function Page() {
               <tbody className="divide-y divide-stone-200">
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 湯平温泉　清流とほたるの宿　高尾荘</td>
-                <td className="p-3 text-stone-600">青森県</td>
+                <td className="p-3 text-stone-600">大分県由布市湯布院町湯平503-18</td>
                 <td className="p-3 text-stone-600">JR久大本線「湯平」駅より お車にて10分、JR久大本線「由布院」駅よ</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（124件）</td>
@@ -435,7 +418,7 @@ export default function Page() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 料理旅館いずみ荘</td>
-                <td className="p-3 text-stone-600">青森県</td>
+                <td className="p-3 text-stone-600">岐阜県美濃市安毛31-5</td>
                 <td className="p-3 text-stone-600">美濃市駅より車で7分/美濃ＩＣから7分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.14（74件）</td>
@@ -478,8 +461,8 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/129598/129598.jpg" alt="湯平温泉　清流とほたるの宿　高尾荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「幻想的なホタルの乱舞と清流のせせらぎ（初夏の夜空を彩る蛍観賞温泉宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：JR久大本線「湯平」駅より お車にて10分、JR久大本線「由布院」駅よりお車にて25分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>2026年エリアの宿泊施設別スペック＆滞在チェックポイントは、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：JR久大本線「湯平」駅より お車にて10分、JR久大本線「由布院」駅よりお車にて25分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -500,12 +483,12 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8028/8028.jpg" alt="料理旅館いずみ荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「幻想的なホタルの乱舞と清流のせせらぎ（初夏の夜空を彩る蛍観賞温泉宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：美濃市駅より車で7分/美濃ＩＣから7分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>山・川・里の四季折々の食材を使用したこだわりのお料理が自慢の料理旅館</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：美濃市駅より車で7分/美濃ＩＣから7分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「絶景のロケーションとおもてなしに心から癒やされました。」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理旅館いずみ荘での快適な滞在とアクセス面の良さに満足したという評価が寄せられています。」
                   </blockquote>
                 </div>
               </div>
@@ -523,7 +506,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31938/31938_c.jpg" alt="瀬見温泉　ゆめみの宿　観松館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【総合★の数４.5】「仲居のおもてなし」と「板前の料理」が自慢のお宿。いなかで過ごす素敵な休日を！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県最上郡最上町大堀987 ／ 最寄り駅：瀬見 ／ 交通案内：山形新幹線・新庄駅よりタクシー２０分　JR陸羽東線・瀬見駅より徒歩８分　古川ICより車1時間30分　銀山温泉より車50分</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県最上郡最上町大堀987 ／ 最寄り駅：瀬見 ／ 交通案内：山形新幹線・新庄駅よりタクシー２０分　JR陸羽東線・瀬見駅より徒歩８分　古川ICより車1時間30分　銀山温泉より車50分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>１００台ご用意しております　無料（ご予約不要）　バイクはピロティーにご案内　屋根付（先着約10台）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.45 ／ 立地 ★4.3 ／ 部屋 ★4.33 ／ 設備 ★4.26 ／ 風呂 ★4.47 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -545,7 +528,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5191/5191_bas1.jpg" alt="美ヶ原温泉　ホテルニューことぶき 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>天然温泉はジェットバスとバイブラ付大浴場とかわいい露天風呂。貸切露天風呂（有料）もございます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県松本市里山辺484-1 ／ 最寄り駅：松本 ／ 交通案内：長野道松本ＩＣより松本城を経由し約２５分。ＪＲ中央線松本駅下車、美ヶ原温泉行きバスで18分、美ヶ原温泉下車徒歩2分です。</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県松本市里山辺484-1 ／ 最寄り駅：松本 ／ 交通案内：長野道松本ＩＣより松本城を経由し約２５分。ＪＲ中央線松本駅下車、美ヶ原温泉行きバスで18分、美ヶ原温泉下車徒歩2分です。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>宿泊者普通車駐車場無料。中型車以上1台2200円（事前予約）。いずれも先着順チェックイン〜アウト迄</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★3.98 ／ 部屋 ★4.04 ／ 設備 ★3.98 ／ 風呂 ★4.29 ／ 食事 ★4.41</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -556,6 +539,9 @@ export default function Page() {
             </div>
           </div></section>
 
+              <div className="my-8">
+          <ShareButtons title="【2026年】幻想的なホタルの乱舞と清流のせせらぎ！初夏の夜空を彩る蛍観賞温泉宿5選" url="https://croud-travel.pages.dev/firefly-viewing-summer-stream-night-walk-stay/" />
+        </div>
       </main>
     
       <HubRelatedPosts currentSlug="firefly-viewing-summer-stream-night-walk-stay" />

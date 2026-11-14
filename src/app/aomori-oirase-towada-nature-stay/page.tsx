@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">青森・十和田湖＆奥入瀬渓流：苔むす清流・銚子大滝＆青森りんご極上宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「青森・十和田湖＆奥入瀬渓流：苔むす清流・銚子大滝＆青森りんご極上宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「青森・十和田湖＆奥入瀬渓流：苔むす清流・銚子大滝＆青森りんご極上宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/40434/40434_fn.jpg" alt="奥入瀬渓流ホテル　ｂｙ　星野リゾート 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>日本屈指の景勝地奥入瀬渓流。その畔に佇むリゾートホテルで大自然が演出する非日常空間をご堪能下さい</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 青森県十和田市奥瀬栃久保231 ／ 最寄り駅：八戸 ／ 交通案内：東北新幹線　八戸駅／無料送迎バス（要予約）、青森駅／有料送迎バス（要予約）、ＪＲバス　十和田湖行き、奥入瀬渓流館下車</p>
+                  <p><strong>【所在地・アクセス】</strong>青森県十和田市奥瀬栃久保231 ／ 最寄り駅：八戸 ／ 交通案内：東北新幹線　八戸駅／無料送迎バス（要予約）、青森駅／有料送迎バス（要予約）、ＪＲバス　十和田湖行き、奥入瀬渓流館下車</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.24 ／ 立地 ★4.47 ／ 部屋 ★4.48 ／ 設備 ★4.33 ／ 風呂 ★4.23 ／ 食事 ★4.36</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9688/9688.jpg" alt="十和田湖畔温泉　ホテル十和田荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>高さ15m・幅5ｍの末広大滝は圧巻　館内は広々！ロビーには「青森ねぶた」や「東北のこけし」を多数展示</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 青森県十和田市大字奥瀬字十和田湖畔休屋３４０ ／ 最寄り駅：主要駅 ／ 交通案内：東北自動車道十和田ICから車で45分　JR八戸駅、JR青森駅から車で120分</p>
+                  <p><strong>【所在地・アクセス】</strong>青森県十和田市大字奥瀬字十和田湖畔休屋３４０ ／ 交通案内：東北自動車道十和田ICから車で45分　JR八戸駅、JR青森駅から車で120分</p>
                   <p>【青森・十和田湖＆奥入瀬渓流：苔むす清流・銚子大滝＆青】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2974/2974_heya.jpg" alt="縄文のふる里　大湯温泉　ホテル鹿角 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>開湯800年の名湯と四季折々の彩りが添えられた料理を楽しむ。箱根・富士屋ホテルや花巻温泉もグループ。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 秋田県鹿角市十和田大湯字中谷地５－１ ／ 最寄り駅：十和田南 ／ 交通案内：■十和田湖より車で30分■ＪＲ花輪線十和田南駅から車で１２分■東北道十和田ＩＣから国道１０３号線を十和田湖方面へ１２分</p>
+                  <p><strong>【所在地・アクセス】</strong>秋田県鹿角市十和田大湯字中谷地５－１ ／ 最寄り駅：十和田南 ／ 交通案内：■十和田湖より車で30分■ＪＲ花輪線十和田南駅から車で１２分■東北道十和田ＩＣから国道１０３号線を十和田湖方面へ１２分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　２００台　無料　　　　　　　　　　　　　　　　★お得な宿泊プラン満載★</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/14840/14840.jpg" alt="十和田湖畔温泉　とわだこ賑山亭 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>炉端料理が人気のお宿。秋田県プレミアムチケット、ご利用可能です！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 秋田県鹿角郡小坂町十和田湖休平35 ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ八戸駅より十和田湖行きＪＲバスで140分、終点十和田湖下車、徒歩4分／東北自動車道小坂ＩＣより４０分</p>
+                  <p><strong>【所在地・アクセス】</strong>秋田県鹿角郡小坂町十和田湖休平35 ／ 交通案内：ＪＲ八戸駅より十和田湖行きＪＲバスで140分、終点十和田湖下車、徒歩4分／東北自動車道小坂ＩＣより４０分</p>
                   <p>【青森・十和田湖＆奥入瀬渓流：苔むす清流・銚子大滝＆青】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/67494/67494_twi.jpg" alt="十和田シティホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ビジネスに十和田湖・奥入瀬渓流観光にアクセス便利!!全室Wi-Fi完備</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 青森県十和田市東三番町3-16 ／ 最寄り駅：十和田市 ／ 交通案内：七戸十和田駅から車で20分</p>
+                  <p><strong>【所在地・アクセス】</strong>青森県十和田市東三番町3-16 ／ 最寄り駅：十和田市 ／ 交通案内：七戸十和田駅から車で20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>当館のすぐ隣に駐車場あり！！　５０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/14851/14851_wa.jpg" alt="奥入瀬渓流温泉　野の花　焼山荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>総ヒバ造りの和風温泉旅館。会席風和食料理とオリジナル料理、温かいサービスの小さな宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 青森県十和田市法量字焼山64 ／ 最寄り駅：十和田市 ／ 交通案内：東北自動車道十和田ＩＣより１時間３０分／奥入瀬渓流温泉（バス停）</p>
+                  <p><strong>【所在地・アクセス】</strong>青森県十和田市法量字焼山64 ／ 最寄り駅：十和田市 ／ 交通案内：東北自動車道十和田ＩＣより１時間３０分／奥入瀬渓流温泉（バス停）</p>
                   <p>【青森・十和田湖＆奥入瀬渓流：苔むす清流・銚子大滝＆青】 <strong>【駐車場・マイカー利用】</strong>有り ５０台 無料 先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.8 ／ 立地 ★4.27 ／ 部屋 ★4.38 ／ 設備 ★4.36 ／ 風呂 ★4.59 ／ 食事 ★4.83</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

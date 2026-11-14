@@ -77,7 +77,7 @@ export default function ArticlePage() {
             佐賀・嬉野温泉ひとり旅＆日本三大美肌の湯おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「嬉野温泉ひとり旅・美肌名湯おこもり」日本三大美肌の湯・嬉野茶・温泉湯豆腐！とろとろの重曹泉に包まれる贅沢ソロリトリート厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               島根の斐乃上温泉、栃木の喜連川温泉と並び「日本三大美肌の湯」として名高い佐賀県・嬉野温泉。重曹を多く含むぬめりのある泉質は、皮脂や分泌物を乳化して洗い流し、湯上がりのお肌をつるつるに仕上げてくれます。
             </p>
             <p>
-              ノスタルジックな洋館で上質なワインとイタリアンを味わえるリゾートから、嬉野の茶文化を体感できる最新宿まで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              ノスタルジックな洋館で上質なワインとイタリアンを味わえるリゾートから、嬉野の茶文化を体感できる最新宿まで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -419,11 +419,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">嬉野温泉ひとり旅・美肌名湯おこもり：日本三大美肌の湯・嬉野茶・温泉湯豆腐！とろとろの重曹泉に包まれる贅沢ソロリトリート厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「嬉野温泉ひとり旅・美肌名湯おこもり：日本三大美肌の湯・嬉野茶・温泉湯豆腐！とろとろの重曹泉に包まれる贅沢ソロリトリート厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「嬉野温泉ひとり旅・美肌名湯おこもり：日本三大美肌の湯・嬉野茶・温泉湯豆腐！とろとろの重曹泉に包まれる贅沢ソロリトリート厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -505,7 +505,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8986/8986_eur.jpg" alt="嬉野温泉　ハミルトン宇礼志野 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ミシュランガイド2019にて佐賀県で唯一4パビリオンを獲得。美食と癒しを感じる宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 佐賀県嬉野市嬉野町岩屋川内288-1 ／ 最寄り駅：武雄温泉 ／ 交通案内：【JR】武雄温泉駅から「新幹線」で嬉野温泉駅まで約5分。　【高速】嬉野ICより車で5分　【飛行機】福岡空港より車で８０分</p>
+                  <p><strong>【所在地・アクセス】</strong>佐賀県嬉野市嬉野町岩屋川内288-1 ／ 最寄り駅：武雄温泉 ／ 交通案内：【JR】武雄温泉駅から「新幹線」で嬉野温泉駅まで約5分。　【高速】嬉野ICより車で5分　【飛行機】福岡空港より車で８０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場完備</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -527,7 +527,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/32079/32079_kan1.jpg" alt="嬉野温泉　家族の笑顔がこぼれる宿　松園 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>家族に嬉しいお部屋食　どこか懐かしい風情の温泉宿　美肌の湯は定評あり　露天・家族風呂など種類も豊富</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 佐賀県嬉野市嬉野町下宿乙855-2 ／ 最寄り駅：武雄温泉 ／ 交通案内：武雄温泉駅よりJRバスで３０分／嬉野温泉バスセンターより徒歩５分／　長崎自動車道嬉野ＩＣより車で５分</p>
+                  <p><strong>【所在地・アクセス】</strong>佐賀県嬉野市嬉野町下宿乙855-2 ／ 最寄り駅：武雄温泉 ／ 交通案内：武雄温泉駅よりJRバスで３０分／嬉野温泉バスセンターより徒歩５分／　長崎自動車道嬉野ＩＣより車で５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.58 ／ 立地 ★4.38 ／ 部屋 ★4.39 ／ 設備 ★4.18 ／ 風呂 ★4.49 ／ 食事 ★4.73</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -549,7 +549,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1779/1779_sgl.jpg" alt="ホテルルートイン高崎駅西口 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>朝食バイキング無料！！大浴場完備♪全室空気清浄機＆加湿器完備＆全館無料ｗｉｆｉ完備！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県高崎市旭町128-4 ／ 最寄り駅：高崎 ／ 交通案内：上越新幹線高崎駅から徒歩で10分 高崎インターより車で約15分</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県高崎市旭町128-4 ／ 最寄り駅：高崎 ／ 交通案内：上越新幹線高崎駅から徒歩で10分 高崎インターより車で約15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り:無料　ただし、大型車(２Tトラック以上、またはレントゲン車、積載車)は有料となります。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.56 ／ 立地 ★3.33 ／ 部屋 ★3.42 ／ 設備 ★3.34 ／ 風呂 ★3.52 ／ 食事 ★3.51</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -571,7 +571,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1981/1981_meal1.jpg" alt="猿ヶ京温泉　猿ヶ京ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>天然温泉豊富な大浴場、自然に囲まれた露天風呂と貸切風呂。夕食は和食膳とハーフバイキング。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県利根郡みなかみ町猿ヶ京温泉1171 ／ 最寄り駅：上毛高原 ／ 交通案内：【車】関越道月夜野IC～Ｒ17を新潟方面に約20分【電車】上越新幹線上毛高原駅～猿ケ京行きバスで35分※送迎有要問合</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県利根郡みなかみ町猿ヶ京温泉1171 ／ 最寄り駅：上毛高原 ／ 交通案内：【車】関越道月夜野IC～Ｒ17を新潟方面に約20分【電車】上越新幹線上毛高原駅～猿ケ京行きバスで35分※送迎有要問合</p>
                   <p><strong>【駐車場・マイカー利用】</strong>70台、無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.36 ／ 立地 ★4.13 ／ 部屋 ★4.1 ／ 設備 ★3.92 ／ 風呂 ★4.19 ／ 食事 ★4.36</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -593,7 +593,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2370/2370_heya.jpg" alt="水上温泉郷　湯檜曽温泉　天空の湯　なかや旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>4万組以上のママパパに選ばれた赤ちゃんファーストの温泉宿★安心の設備でママもほっと一息できる癒し時間</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県利根郡みなかみ町湯桧曽93 ／ 最寄り駅：上毛高原 ／ 交通案内：車：水上ICから約15分　車以外：上越線ゆびそ駅より徒歩5分、又は水上駅よりバス・タクシーで約10分</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県利根郡みなかみ町湯桧曽93 ／ 最寄り駅：上毛高原 ／ 交通案内：車：水上ICから約15分　車以外：上越線ゆびそ駅より徒歩5分、又は水上駅よりバス・タクシーで約10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　16台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.84 ／ 立地 ★4.6 ／ 部屋 ★4.62 ／ 設備 ★4.65 ／ 風呂 ★4.77 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

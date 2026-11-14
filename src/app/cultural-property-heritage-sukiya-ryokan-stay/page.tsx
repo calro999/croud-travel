@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/cultural-property-heritage-sukiya-ryokan-stay/"
   };
 
@@ -186,6 +186,12 @@ export default function Page() {
           </p>
         </div>
 
+        <div className="pt-2">
+          <ShareButtons
+            title="宮大工の技と歴史が息づく！国登録有形文化財・伝統建築美に泊まる名門老舗旅館"
+            url="https://croud-travel.pages.dev/cultural-property-heritage-sukiya-ryokan-stay/"
+          />
+        </div>
         {/* クーポン特大バナー */}
         <SpecialCouponBanner />
 
@@ -303,11 +309,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">宮大工の技と歴史が息づく！国登録有形文化財・伝統建築美に泊まる名門老舗旅館：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「宮大工の技と歴史が息づく！国登録有形文化財・伝統建築美に泊まる名門老舗旅館」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「宮大工の技と歴史が息づく！国登録有形文化財・伝統建築美に泊まる名門老舗旅館」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -371,7 +377,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/16280/16280_w.jpg" alt="国登録有形文化財の宿　人吉温泉　芳野旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【国登録有形文化財の宿】歴史感じる純和風旅館　源泉掛け流し天然温泉と旬の会席料理で心和むひと時を</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 熊本県人吉市上青井町180 ／ 最寄り駅：人吉 ／ 交通案内：人吉ICより車で約8分</p>
+                  <p><strong>【所在地・アクセス】</strong>熊本県人吉市上青井町180 ／ 最寄り駅：人吉 ／ 交通案内：人吉ICより車で約8分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.66 ／ 立地 ★4.29 ／ 部屋 ★4.54 ／ 設備 ★4.4 ／ 風呂 ★4.51 ／ 食事 ★4.3</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -393,7 +399,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/13811/13811_room.jpg" alt="美保関温泉　旅館　美保館　国文化財の宿 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>美保湾・大山を一望。日本海の幸を満喫。国文化財・旧館の朝食も好評。７階展望大浴場。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 島根県松江市美保関町美保関570 ／ 最寄り駅：境港 ／ 交通案内：境港駅・米子空港よりタクシーで２０分／松江駅よりバスで１時間／米子ＩＣより３０分／送迎有（有料）</p>
+                  <p><strong>【所在地・アクセス】</strong>島根県松江市美保関町美保関570 ／ 最寄り駅：境港 ／ 交通案内：境港駅・米子空港よりタクシーで２０分／松江駅よりバスで１時間／米子ＩＣより３０分／送迎有（有料）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -415,7 +421,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/108580/108580_ru.jpg" alt="別所温泉　旅館　花屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>大正浪漫漂う登録有形文化財の温泉宿〜非日常の空間と温かなおもてなし、手作りの会席料理が織りなす贅沢</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県上田市別所温泉169番地　【文化庁登録有形文化財選定】宮大工が造った老舗旅館　大正浪漫漂う温泉宿　旅館花屋 ／ 最寄り駅：別所温泉 ／ 交通案内：JR上田駅より乗換・上田交通別所線別所温泉駅下車徒歩約５分（当地で最も駅に近い旅館）◆上信越道上田菅平ＩＣより車で３０分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県上田市別所温泉169番地　【文化庁登録有形文化財選定】宮大工が造った老舗旅館　大正浪漫漂う温泉宿　旅館花屋 ／ 最寄り駅：別所温泉 ／ 交通案内：JR上田駅より乗換・上田交通別所線別所温泉駅下車徒歩約５分（当地で最も駅に近い旅館）◆上信越道上田菅平ＩＣより車で３０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>◆約３０台分の無料駐車場あり◆全室Wi－Fi完備◆全室禁煙（喫煙室あり）◆当地で最大湯量の天然温泉</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.6 ／ 立地 ★4.55 ／ 部屋 ★4.49 ／ 設備 ★4.29 ／ 風呂 ★4.52 ／ 食事 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

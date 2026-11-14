@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">三重・鳥羽温泉郷：鳥羽水族館・ミキモト真珠島＆伊勢海老会席極上宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「三重・鳥羽温泉郷：鳥羽水族館・ミキモト真珠島＆伊勢海老会席極上宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「三重・鳥羽温泉郷：鳥羽水族館・ミキモト真珠島＆伊勢海老会席極上宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/185547/185547.jpg" alt="貸別荘　桃源郷　　旅館　　＾ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>一棟貸し別荘、海が間近の静かで家庭的な雰囲気の貸別荘です。（写真左側の一戸建）</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 三重県伊勢市二見町松下1790-16　ホテル旅館　桃源郷 ／ 最寄り駅：池の浦 ／ 交通案内：池の浦駅から徒歩で約４分</p>
+                  <p><strong>【所在地・アクセス】</strong>三重県伊勢市二見町松下1790-16　ホテル旅館　桃源郷 ／ 最寄り駅：池の浦 ／ 交通案内：池の浦駅から徒歩で約４分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/25137/25137_heya.jpg" alt="浜辺のお宿　相差パシフィックホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>千鳥ヶ浜海水浴場★徒歩0分！伊勢神宮へ初詣のご利用に便利！伊勢神宮・車で30分！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 三重県鳥羽市相差町1522-31 ／ 最寄り駅：鳥羽 ／ 交通案内：近鉄鳥羽駅（送迎要予約）伊勢ＩＣ～二見鳥羽ラインより第２伊勢道路にて３０分！スペイン村車15分★伊勢神宮は車で40分</p>
+                  <p><strong>【所在地・アクセス】</strong>三重県鳥羽市相差町1522-31 ／ 最寄り駅：鳥羽 ／ 交通案内：近鉄鳥羽駅（送迎要予約）伊勢ＩＣ～二見鳥羽ラインより第２伊勢道路にて３０分！スペイン村車15分★伊勢神宮は車で40分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り５０台無料★バイク利用の方地下駐車場あり（要予約）★女性の願い事が叶う【石神さん】徒歩１０分！</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/27732/27732_r.jpg" alt="南鳥羽相差　味覚の宿　幸洋荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>舟盛付会席をお部屋食で…無料貸切風呂とPH9.3の温泉…心と体があったまる南鳥羽の知る人ぞ知る穴場</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 三重県鳥羽市相差町1110-1 ／ 最寄り駅：鳥羽 ／ 交通案内：伊勢二見鳥羽ライン～第二伊勢道路へ終点左折～松尾交差点右折約１５分／近鉄鳥羽駅から無料送迎あり（事前予約制）車で約３０分</p>
+                  <p><strong>【所在地・アクセス】</strong>三重県鳥羽市相差町1110-1 ／ 最寄り駅：鳥羽 ／ 交通案内：伊勢二見鳥羽ライン～第二伊勢道路へ終点左折～松尾交差点右折約１５分／近鉄鳥羽駅から無料送迎あり（事前予約制）車で約３０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　約20台　無料です。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/13548/13548_war.jpg" alt="安楽島温泉　湯元　海女乃島 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>自家源泉の宿。旅のお疲れを源泉で癒した後は鳥羽湾を眺望しながら伊勢志摩の幸をご堪能下さい。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 三重県鳥羽市安楽島町1075-100 ／ 最寄り駅：鳥羽 ／ 交通案内：JR・近鉄「鳥羽駅」下車（無料送迎バス有・要予約） / 伊勢自動車道 伊勢ICより車で２０分</p>
+                  <p><strong>【所在地・アクセス】</strong>三重県鳥羽市安楽島町1075-100 ／ 最寄り駅：鳥羽 ／ 交通案内：JR・近鉄「鳥羽駅」下車（無料送迎バス有・要予約） / 伊勢自動車道 伊勢ICより車で２０分</p>
                   <p>【三重・鳥羽温泉郷：鳥羽水族館・ミキモト真珠島＆伊勢海】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/79267/79267_kya.jpg" alt="ニューはまぐち屋旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>日の出や朝焼け星空を楽しめる眺望魅力の宿◆旬の伊勢海老や牡蠣を堪能</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 三重県度会郡南伊勢町礫浦184-5 ／ 最寄り駅：宇治山田 ／ 交通案内：宇治山田駅より三交バス相賀行き乗車、礫浦バス停下車</p>
+                  <p><strong>【所在地・アクセス】</strong>三重県度会郡南伊勢町礫浦184-5 ／ 最寄り駅：宇治山田 ／ 交通案内：宇治山田駅より三交バス相賀行き乗車、礫浦バス停下車</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２５台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.63 ／ 立地 ★4.84 ／ 部屋 ★4.47 ／ 設備 ★4.16 ／ 風呂 ★4.26 ／ 食事 ★4.67</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7508/7508_room.jpg" alt="活鮮旅館　志摩半島 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>温泉も楽しめる奥志摩料理宿 　伊勢海老、アワビ　どっさり豪快海の幸！　全客室空気清浄機設置</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 三重県志摩市志摩町越賀1922-4 ／ 最寄り駅：賢島 ／ 交通案内：伊勢自動車道伊勢西ＩＣよりＲ１６７・２６０で６０分。電車の場合は、近鉄賢島駅下車し、定期船をご利用ください。</p>
+                  <p><strong>【所在地・アクセス】</strong>三重県志摩市志摩町越賀1922-4 ／ 最寄り駅：賢島 ／ 交通案内：伊勢自動車道伊勢西ＩＣよりＲ１６７・２６０で６０分。電車の場合は、近鉄賢島駅下車し、定期船をご利用ください。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り：２０台（無料・先着順）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

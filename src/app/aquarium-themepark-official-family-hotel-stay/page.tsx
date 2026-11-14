@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/aquarium-themepark-official-family-hotel-stay/"
   };
 
@@ -186,6 +186,12 @@ export default function Page() {
           </p>
         </div>
 
+        <div className="pt-2">
+          <ShareButtons
+            title="開園直前から閉園後まで遊び尽くす！全国の水族館・テーマパーク直結＆オフィシャルホテル"
+            url="https://croud-travel.pages.dev/aquarium-themepark-official-family-hotel-stay/"
+          />
+        </div>
         {/* クーポン特大バナー */}
         <SpecialCouponBanner />
 
@@ -303,11 +309,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">開園直前から閉園後まで遊び尽くす！全国の水族館・テーマパーク直結＆オフィシャルホテル：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「開園直前から閉園後まで遊び尽くす！全国の水族館・テーマパーク直結＆オフィシャルホテル」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「開園直前から閉園後まで遊び尽くす！全国の水族館・テーマパーク直結＆オフィシャルホテル」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -371,7 +377,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/145419/145419_room.jpg" alt="オリオンホテル　モトブリゾート＆スパ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【楽天トラベル ブロンズアワード2024受賞】「しぜんとしぜんに」を体現する洗練された南国リゾート</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県国頭郡本部町備瀬148-1 ／ 最寄り駅：那覇空港 ／ 交通案内：那覇空港からお車で高速利用約100分。空港バス利用約150分ホテル前停車。美ら海水族館へ徒歩7分、海洋博公園隣接</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県国頭郡本部町備瀬148-1 ／ 最寄り駅：那覇空港 ／ 交通案内：那覇空港からお車で高速利用約100分。空港バス利用約150分ホテル前停車。美ら海水族館へ徒歩7分、海洋博公園隣接</p>
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.56 ／ 立地 ★4.77 ／ 部屋 ★4.75 ／ 設備 ★4.57 ／ 風呂 ★4.45 ／ 食事 ★4.51</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -393,7 +399,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/16654/16654_room.jpg" alt="ホテル近鉄ユニバーサル・シティ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【楽天トラベルゴールドアワード７年連続受賞】宿泊者特典有り</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大阪府大阪市此花区島屋6-2-68 ／ 最寄り駅：ユニバーサルシティ ／ 交通案内：JRユニバーサルシティ駅より徒歩約2分【大阪駅から直通列車で約12分】／阪神高速湾岸線ユニバーサルシティ出口より約5分</p>
+                  <p><strong>【所在地・アクセス】</strong>大阪府大阪市此花区島屋6-2-68 ／ 最寄り駅：ユニバーサルシティ ／ 交通案内：JRユニバーサルシティ駅より徒歩約2分【大阪駅から直通列車で約12分】／阪神高速湾岸線ユニバーサルシティ出口より約5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>先着52台、入庫〜24時間3,000円（駐車券をフロントで提示要）、提携有、両方満車時は待機要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.53 ／ 立地 ★4.6 ／ 部屋 ★4.55 ／ 設備 ★4.44 ／ 風呂 ★4.28 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -415,7 +421,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/71921/71921_kan.jpg" alt="ホテル京阪　ユニバーサル・タワー 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>駅・USJ徒歩スグのオフィシャルホテル！31階天然展望温泉（有料）は大人気</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大阪府大阪市此花区島屋6-2-45 ／ 最寄り駅：ユニバーサルシティ ／ 交通案内：JRユニバーサルシティ駅・USJへ徒歩スグ！阪神高速ユニバーサルシティ出口より車で約5分！大阪駅まで電車で約11分！</p>
+                  <p><strong>【所在地・アクセス】</strong>大阪府大阪市此花区島屋6-2-45 ／ 最寄り駅：ユニバーサルシティ ／ 交通案内：JRユニバーサルシティ駅・USJへ徒歩スグ！阪神高速ユニバーサルシティ出口より車で約5分！大阪駅まで電車で約11分！</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り/先着順/有料※駐車場料金については、公式HPをご確認ください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.55 ／ 立地 ★4.62 ／ 部屋 ★4.62 ／ 設備 ★4.57 ／ 風呂 ★4.42 ／ 食事 ★4.43</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

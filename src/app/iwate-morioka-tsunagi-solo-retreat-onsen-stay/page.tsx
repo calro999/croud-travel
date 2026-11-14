@@ -77,7 +77,7 @@ export default function ArticlePage() {
             岩手・盛岡つなぎ温泉ひとり旅＆御所湖畔おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「盛岡つなぎ温泉ひとり旅・御所湖畔と岩手山おこもり」源泉かけ流し単純硫黄泉・前沢牛＆盛岡冷麺・南部鉄器文化！新幹線盛岡駅25分の名湯厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               前九年の役で知られる源義家が愛馬を石に繋ぎ、傷を癒やしたことから名付けられたとされる盛岡の奥座敷・つなぎ温泉。毎分2,000リットルもの湯量を誇る高温泉で、ほのかな硫黄の香りとメタケイ酸を豊富に含むトロトロの肌触りが自慢です。みちのくの秀峰・岩手山の雄姿と静かな湖畔の景観が、日常の緊張を解きほぐします。
             </p>
             <p>
-              アットホームな心温まるもてなしの宿から、湖畔の静けさをリーズナブルに味わえる公共系・現代的湯宿まで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              アットホームな心温まるもてなしの宿から、湖畔の静けさをリーズナブルに味わえる公共系・現代的湯宿まで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -361,11 +361,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">盛岡つなぎ温泉ひとり旅・御所湖畔と岩手山おこもり：源泉かけ流し単純硫黄泉・前沢牛＆盛岡冷麺・南部鉄器文化！新幹線盛岡駅25分の名湯厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「盛岡つなぎ温泉ひとり旅・御所湖畔と岩手山おこもり：源泉かけ流し単純硫黄泉・前沢牛＆盛岡冷麺・南部鉄器文化！新幹線盛岡駅25分の名湯厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「盛岡つなぎ温泉ひとり旅・御所湖畔と岩手山おこもり：源泉かけ流し単純硫黄泉・前沢牛＆盛岡冷麺・南部鉄器文化！新幹線盛岡駅25分の名湯厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -429,7 +429,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31689/31689_ro.jpg" alt="盛岡つなぎ温泉　旅染屋　山いち 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>赤ちゃん連れも安心●家族みんなが寛げる盛岡の古き良き畳敷旅館。部屋付風呂や露天風呂で癒しの旅を</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岩手県盛岡市繋舘市83-1 ／ 最寄り駅：盛岡 ／ 交通案内：盛岡駅よりバスで約３５分／東北道盛岡ICより約１５分</p>
+                  <p><strong>【所在地・アクセス】</strong>岩手県盛岡市繋舘市83-1 ／ 最寄り駅：盛岡 ／ 交通案内：盛岡駅よりバスで約３５分／東北道盛岡ICより約１５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　５０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.36 ／ 立地 ★4.08 ／ 部屋 ★4.01 ／ 設備 ★3.91 ／ 風呂 ★4.31 ／ 食事 ★4.55</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -451,7 +451,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/182050/182050.jpg" alt="つなぎ温泉　清温荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>盛岡ＩＣから１３分の好立地で、湖畔に佇む「つなぎ温泉」の宿。温泉の他に、サウナ・水風呂・露天風呂あり</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岩手県盛岡市繋字湯の舘33 ／ 最寄り駅：盛岡 ／ 交通案内：ＪＲ　盛岡駅より岩手県交通バスで約３５分</p>
+                  <p><strong>【所在地・アクセス】</strong>岩手県盛岡市繋字湯の舘33 ／ 最寄り駅：盛岡 ／ 交通案内：ＪＲ　盛岡駅より岩手県交通バスで約３５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.38 ／ 立地 ★4.39 ／ 部屋 ★4.41 ／ 設備 ★3.97 ／ 風呂 ★4.16 ／ 食事 ★4.18</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -473,7 +473,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/197666/197666.jpg" alt="盛岡つなぎ温泉　旅やど 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>それぞれの旅　楽しみ方いろいろ　小さな素泊り温泉ホテル　気兼ねなく、ただ温泉に浸る贅沢。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岩手県盛岡市繋字塗沢37-5 ／ 最寄り駅：盛岡 ／ 交通案内：岩手県交通バスにてJR盛岡駅より約３０分、つなぎ温泉線終点「つなぎ温泉」下車</p>
+                  <p><strong>【所在地・アクセス】</strong>岩手県盛岡市繋字塗沢37-5 ／ 最寄り駅：盛岡 ／ 交通案内：岩手県交通バスにてJR盛岡駅より約３０分、つなぎ温泉線終点「つなぎ温泉」下車</p>
                   <p><strong>【駐車場・マイカー利用】</strong>あり　10台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.86 ／ 立地 ★3.7 ／ 部屋 ★3.81 ／ 設備 ★3.7 ／ 風呂 ★3.85</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

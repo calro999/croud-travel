@@ -222,7 +222,7 @@ export default function Page() {
         <section className="space-y-10">
           <div className="text-center space-y-2">
             <h2 className="text-2xl md:text-3xl font-bold text-slate-900">楽天ふるさと納税で泊まる名宿＆厳選ホテル</h2>
-            <p className="text-xs md:text-sm text-slate-500">楽天トラベル公式APIより最新の宿情報・写真・最低参考価格を取得しています
+            <p className="text-xs md:text-sm text-slate-500">宿泊施設データより最新の宿情報・写真・最低参考価格を取得しています
             </p>
           </div>
 
@@ -525,11 +525,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大カルデラ＆地球の息吹・巨大火口原パノラマと名湯宿×ふるさと納税厳選ガイド阿蘇・箱根・屈斜路：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本三大カルデラ＆地球の息吹・巨大火口原パノラマと名湯宿×ふるさと納税厳選ガイド阿蘇・箱根・屈斜路」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「日本三大カルデラ＆地球の息吹・巨大火口原パノラマと名湯宿×ふるさと納税厳選ガイド阿蘇・箱根・屈斜路」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -593,7 +593,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/44868/44868_wa.jpg" alt="阿蘇内牧温泉　阿蘇プラザホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>人気の展望露天風呂から阿蘇のパノラマビューを満喫！旬の会席を堪能♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 熊本県阿蘇市内牧1287 ／ 最寄り駅：阿蘇 ／ 交通案内：ＪＲ阿蘇駅よりバスにて１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>熊本県阿蘇市内牧1287 ／ 最寄り駅：阿蘇 ／ 交通案内：ＪＲ阿蘇駅よりバスにて１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場有　約200台駐車可能（予約不要）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -615,7 +615,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/162650/162650_kan1.jpg" alt="箱根・芦ノ湖　はなをり（オリックスホテルズ＆リゾーツ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>SNSで話題の水盤テラス＆足湯♪ 色浴衣を身にまとい、五感が喜ぶ温泉リゾートでフォトジェニックな旅を</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県足柄下郡箱根町元箱根桃源台160 ／ 最寄り駅：主要駅 ／ 交通案内：桃源台駅より徒歩にて約2分</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県足柄下郡箱根町元箱根桃源台160 ／ 交通案内：桃源台駅より徒歩にて約2分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -637,7 +637,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/15401/15401_room.jpg" alt="屈斜路プリンスホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全室湖面側！日本最大のカルデラ湖に佇む・湖畔のリゾートホテルで湖とともに過ごすホテルステイ♪♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道川上郡弟子屈町屈斜路温泉 ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ釧網本線摩周駅からタクシーで２５分・事前予約制送迎バス有（4月～11月迄）／女満別空港から車で５０分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道川上郡弟子屈町屈斜路温泉 ／ 交通案内：ＪＲ釧網本線摩周駅からタクシーで２５分・事前予約制送迎バス有（4月～11月迄）／女満別空港から車で５０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -652,7 +652,7 @@ export default function Page() {
 
       {/* フッター */}
       <footer className="bg-slate-950 text-slate-400 py-8 px-4 text-center text-xs border-t border-slate-800">
-        <p>© 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の楽天トラベル公式APIに基づきます。</p>
+        <p>© 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の宿泊施設データに基づきます。</p>
       </footer>
     
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

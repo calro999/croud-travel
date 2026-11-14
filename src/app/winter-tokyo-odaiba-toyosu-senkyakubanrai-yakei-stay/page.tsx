@@ -316,7 +316,7 @@ export default function TokyoOdaibaToyosuWinterPage() {
           <div className="text-center space-y-3">
             <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900 tracking-tight">東京ベイエリアで冬を満喫する厳選名宿5選</h2>
             <p className="text-slate-600 text-sm sm:text-base max-w-2xl mx-auto">
-              楽天トラベル公式APIからリアルタイムに取得した信頼の宿泊施設。お台場・有明・豊洲の冬夜景と温泉、美食を堪能する特選ラインナップです。
+              クチコミ評価・立地に優れた厳選宿泊施設。お台場・有明・豊洲の冬夜景と温泉、美食を堪能する特選ラインナップです。
             </p>
           </div>
 

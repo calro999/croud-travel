@@ -460,11 +460,11 @@ export default function FurusatoFeaturePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三名瀑＆ダイナミック滝見露天風呂宿×ふるさと納税厳選ガイド那智の滝・華厳の滝・袋田の滝の豪快名湯：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本三名瀑＆ダイナミック滝見露天風呂宿×ふるさと納税厳選ガイド那智の滝・華厳の滝・袋田の滝の豪快名湯」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「日本三名瀑＆ダイナミック滝見露天風呂宿×ふるさと納税厳選ガイド那智の滝・華厳の滝・袋田の滝の豪快名湯」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -546,7 +546,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/68247/68247_w.jpg" alt="南紀勝浦温泉　くつろぎの宿　料理旅館　万清楼 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【ホテル浦島の温泉も利用可】紀州勝浦産の生まぐろや南紀の食材を使った会席料理をお楽しみください。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県東牟婁郡那智勝浦町勝浦448 ／ 最寄り駅：紀伊勝浦 ／ 交通案内：JR「紀伊勝浦駅」より徒歩約7分／大阪から紀勢自動車道「すさみ南IC」経由で約3時間半</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県東牟婁郡那智勝浦町勝浦448 ／ 最寄り駅：紀伊勝浦 ／ 交通案内：JR「紀伊勝浦駅」より徒歩約7分／大阪から紀勢自動車道「すさみ南IC」経由で約3時間半</p>
                   <p><strong>【駐車場・マイカー利用】</strong>20台（無料）／専用駐車場は当館横と裏側にあります。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -568,7 +568,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/168189/168189_kan1.jpg" alt="日光東照宮晃陽苑 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>4万坪（東京D約2個半）の敷地の中に、四季折々の自然とゆったりと時間を感じられる日光東照宮ゆかりの宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県日光市瀬尾1640-14 ／ 最寄り駅：日光 ／ 交通案内：日光駅よりお車にて約１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県日光市瀬尾1640-14 ／ 最寄り駅：日光 ／ 交通案内：日光駅よりお車にて約１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（無料）　１００台　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -590,7 +590,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/149268/149268_kan1.jpg" alt="湯西川温泉　ホテル湯西川（伊東園ホテルズ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>平家の落人伝説の残る温泉地。Ph9.2のアルカリ性単純泉『美肌の湯』と言われています。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県日光市湯西川597 ／ 最寄り駅：湯西川温泉 ／ 交通案内：湯西川温泉駅よりバスにて約20分（ホテル湯西川前下車）</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県日光市湯西川597 ／ 最寄り駅：湯西川温泉 ／ 交通案内：湯西川温泉駅よりバスにて約20分（ホテル湯西川前下車）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4 ／ 立地 ★4.03 ／ 部屋 ★3.88 ／ 設備 ★3.81 ／ 風呂 ★4.17 ／ 食事 ★3.89</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -612,7 +612,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31366/31366_kan1.jpg" alt="鬼怒川温泉　鬼怒川グランドホテル　夢の季（ゆめのとき） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【９つの湯めぐり】緑美しい山並みに包まれて、四季の味わいと天然温泉で喧騒から離れた癒しの季に。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県日光市鬼怒川温泉大原1021 ／ 最寄り駅：鬼怒川温泉 ／ 交通案内：鬼怒川温泉駅より徒歩8分／日光・宇都宮有料道路今市ＩＣより車で20分</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県日光市鬼怒川温泉大原1021 ／ 最寄り駅：鬼怒川温泉 ／ 交通案内：鬼怒川温泉駅より徒歩8分／日光・宇都宮有料道路今市ＩＣより車で20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　無料先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.58 ／ 立地 ★4.35 ／ 部屋 ★4.53 ／ 設備 ★4.4 ／ 風呂 ★4.48 ／ 食事 ★4.62</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -634,7 +634,7 @@ export default function FurusatoFeaturePage() {
                 
                 <div className="md:col-span-3 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【オールインクルーシブ】日本三名瀑・袋田の滝まで車で5分。奥久慈さとやまバイキングと天然温泉の宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 茨城県久慈郡大子町袋田978 ／ 最寄り駅：主要駅 ／ 交通案内：</p>
+                  <p><strong>【所在地・アクセス】</strong>茨城県久慈郡大子町袋田978 ／ 交通案内：</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

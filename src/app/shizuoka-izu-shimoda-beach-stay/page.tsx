@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">静岡・伊豆下田＆白浜海岸：エメラルドの海・白浜大浜＆金目鯛水揚げ日本一宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「静岡・伊豆下田＆白浜海岸：エメラルドの海・白浜大浜＆金目鯛水揚げ日本一宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「静岡・伊豆下田＆白浜海岸：エメラルドの海・白浜大浜＆金目鯛水揚げ日本一宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -305,7 +305,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/142536/142536_kya.jpg" alt="Ｈｏｔｅｌ　Ｓｅａ　Ｓｈｅｌｌ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全室オーシャンビューのゲストルーム。 東京から2時間のリゾート</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県下田市白浜1755 ／ 最寄り駅：伊豆急下田 ／ 交通案内：伊豆急下田駅よりバスにて15分。白浜神社前下車</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県下田市白浜1755 ／ 最寄り駅：伊豆急下田 ／ 交通案内：伊豆急下田駅よりバスにて15分。白浜神社前下車</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　室数分　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -327,7 +327,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5645/5645_heya.jpg" alt="下田温泉　下田ベイクロシオ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>伊豆急下田駅から1.3km・白浜海岸まで3.5Km　海抜16mの高台から下田湾が一望</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県下田市柿崎4-1 ／ 最寄り駅：伊豆急下田 ／ 交通案内：伊豆急下田駅より送迎はご連絡をお願いいたします。お車はＲ135「柿崎西」信号付近のセブンイレブン横の坂を上る</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県下田市柿崎4-1 ／ 最寄り駅：伊豆急下田 ／ 交通案内：伊豆急下田駅より送迎はご連絡をお願いいたします。お車はＲ135「柿崎西」信号付近のセブンイレブン横の坂を上る</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２５台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -349,7 +349,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/138065/138065_rm1.jpg" alt="野の花亭こむらさき 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>１日僅か５組みだけ　おもてなしの日本旅館　全室露天風呂付き客室</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県下田市西本郷1-5-30 ／ 最寄り駅：伊豆急下田 ／ 交通案内：伊豆急下田駅から徒歩３分　降車改札を出て右に進む、線路沿いを進みビジネスホテルTSUMEKIの角を左に曲がり道路を渡る。</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県下田市西本郷1-5-30 ／ 最寄り駅：伊豆急下田 ／ 交通案内：伊豆急下田駅から徒歩３分　降車改札を出て右に進む、線路沿いを進みビジネスホテルTSUMEKIの角を左に曲がり道路を渡る。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>同敷地内旅館建物沿い裏手に屋外駐車場有り　宿泊者無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -371,7 +371,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5261/5261_kw.jpg" alt="絶景温泉と魚介満腹の宿　稲取東海ホテル湯苑 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>伊豆七島を一望する波打際のホテル。新鮮な魚介を使った海鮮料理を満喫頂けます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県賀茂郡東伊豆町稲取1599-1 ／ 最寄り駅：伊豆稲取 ／ 交通案内：伊豆急線伊豆稲取駅下車。徒歩約１５分。無料送迎バスあり　※要事前予約（13：30～18：00）　明朝は定期便あります。</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県賀茂郡東伊豆町稲取1599-1 ／ 最寄り駅：伊豆稲取 ／ 交通案内：伊豆急線伊豆稲取駅下車。徒歩約１５分。無料送迎バスあり　※要事前予約（13：30～18：00）　明朝は定期便あります。</p>
                   <p>【静岡・伊豆下田＆白浜海岸：エメラルドの海・白浜大浜＆】 <strong>【駐車場・マイカー利用】</strong>有り　50台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

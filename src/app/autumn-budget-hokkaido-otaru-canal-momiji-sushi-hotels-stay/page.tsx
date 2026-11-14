@@ -379,11 +379,11 @@ export default function AutumnBudgetFeaturePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">小樽：運河のガス灯秋夜景＆旬の秋鮭・握り寿司！2,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「小樽：運河のガス灯秋夜景＆旬の秋鮭・握り寿司！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「小樽：運河のガス灯秋夜景＆旬の秋鮭・握り寿司！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -447,7 +447,7 @@ export default function AutumnBudgetFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5170/5170_twn.jpg" alt="ホテルソニア小樽 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>-小樽運河前の天然温泉ホテル-朝食はビュッフェ　入浴時間15:00～24:00・6:00～10:00</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道小樽市色内1-4-20 ／ 最寄り駅：小樽 ／ 交通案内：「小樽運河」目の前。札幌駅から快速で32分のJR小樽駅より徒歩8分。高速小樽ICより5分。ニセコまでバスで1時間50分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道小樽市色内1-4-20 ／ 最寄り駅：小樽 ／ 交通案内：「小樽運河」目の前。札幌駅から快速で32分のJR小樽駅より徒歩8分。高速小樽ICより5分。ニセコまでバスで1時間50分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　37台　1,200円　先着順/満車時は周辺のコインパーキングへご案内致します。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -469,7 +469,7 @@ export default function AutumnBudgetFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/3119/3119_heya.jpg" alt="ホテルノルド小樽 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ご宿泊者様限定で展望ラウンジの無料開放実施中。小樽の日の出をお楽しみ頂けます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道小樽市色内1-4-16 ／ 最寄り駅：小樽 ／ 交通案内：小樽駅から徒歩7分◆LeTAO・オルゴール堂が人気の堺町通りまで徒歩圏内◆札幌駅から車で40分・電車で35分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道小樽市色内1-4-16 ／ 最寄り駅：小樽 ／ 交通案内：小樽駅から徒歩7分◆LeTAO・オルゴール堂が人気の堺町通りまで徒歩圏内◆札幌駅から車で40分・電車で35分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　46台　1200円(１泊）　先着順となります。チェックイン前でもお車をお預かりいたします。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -491,7 +491,7 @@ export default function AutumnBudgetFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/181196/181196.jpg" alt="ＡＬＰＨＡＢＥＤ　ＩＮＮ　小樽駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>三角市場すぐ隣・小樽駅2分／ご家族やグループ向け大部屋あり／全室デザイナーズルームの無人ホテル</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道小樽市稲穂3-10-12 ／ 最寄り駅：小樽 ／ 交通案内：JR小樽駅より徒歩２分◆三角市場の真横で徒歩１分◆小樽ICより約７分◆小樽運河まで徒歩８分◆寿司屋通まで徒歩１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道小樽市稲穂3-10-12 ／ 最寄り駅：小樽 ／ 交通案内：JR小樽駅より徒歩２分◆三角市場の真横で徒歩１分◆小樽ICより約７分◆小樽運河まで徒歩８分◆寿司屋通まで徒歩１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>2台あり・先着順（高さ制限有H１８００までの車に限る）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.02 ／ 立地 ★4.42 ／ 部屋 ★4.43 ／ 設備 ★4.28 ／ 風呂 ★4.08</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

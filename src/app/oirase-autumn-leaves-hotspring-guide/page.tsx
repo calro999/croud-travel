@@ -456,10 +456,10 @@ export default function OiraseAutumnLeavesHotspringPage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/yamagata/"
+                href="/prefectures/aomori/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                山形県の宿・温泉
+                青森県の宿・温泉
               </Link>
               <Link
                 href="/prefectures/shizuoka/"
@@ -488,11 +488,11 @@ export default function OiraseAutumnLeavesHotspringPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">奥入瀬渓流・十和田湖 紅葉2026厳選ガイド：見頃・散策モデルコース＆星野リゾート・秘湯酸ヶ湯ステイ：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「奥入瀬渓流・十和田湖 紅葉2026厳選ガイド：見頃・散策モデルコース＆星野リゾート・秘湯酸ヶ湯ステイ」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「奥入瀬渓流・十和田湖 紅葉2026厳選ガイド：見頃・散策モデルコース＆星野リゾート・秘湯酸ヶ湯ステイ」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -583,7 +583,7 @@ export default function OiraseAutumnLeavesHotspringPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/40434/40434_fn.jpg" alt="奥入瀬渓流ホテル　ｂｙ　星野リゾート 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>日本屈指の景勝地奥入瀬渓流。その畔に佇むリゾートホテルで大自然が演出する非日常空間をご堪能下さい</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 青森県十和田市奥瀬栃久保231 ／ 最寄り駅：八戸 ／ 交通案内：東北新幹線　八戸駅／無料送迎バス（要予約）、青森駅／有料送迎バス（要予約）、ＪＲバス　十和田湖行き、奥入瀬渓流館下車</p>
+                  <p><strong>【所在地・アクセス】</strong>青森県十和田市奥瀬栃久保231 ／ 最寄り駅：八戸 ／ 交通案内：東北新幹線　八戸駅／無料送迎バス（要予約）、青森駅／有料送迎バス（要予約）、ＪＲバス　十和田湖行き、奥入瀬渓流館下車</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.24 ／ 立地 ★4.47 ／ 部屋 ★4.48 ／ 設備 ★4.33 ／ 風呂 ★4.23 ／ 食事 ★4.36</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -605,7 +605,7 @@ export default function OiraseAutumnLeavesHotspringPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/79432/79432_tw.jpg" alt="八甲田城ヶ倉温泉　ホテル城ヶ倉－ＨＯＴＥＬ　Ｊｏｇａｋｕｒａ－ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>源泉かけ流し温泉を八甲田の自然と共に楽しむ北欧風マウンテンリゾート。地元青森の旬の味覚をご用意。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 青森県青森市荒川八甲田山中 ／ 最寄り駅：青森 ／ 交通案内：ＪＲ　青森駅よりＪＲバス十和田湖行き乗車後、城ヶ倉温泉前にて下車</p>
+                  <p><strong>【所在地・アクセス】</strong>青森県青森市荒川八甲田山中 ／ 最寄り駅：青森 ／ 交通案内：ＪＲ　青森駅よりＪＲバス十和田湖行き乗車後、城ヶ倉温泉前にて下車</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -627,7 +627,7 @@ export default function OiraseAutumnLeavesHotspringPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/20171/20171_wa.jpg" alt="八幡平温泉郷　八幡平高原ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2つの源泉が楽しめる高原ホテル★手作りの健康食とおもてなしで故郷を感じて</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 秋田県鹿角市八幡平字熊沢国有林３１３３林班ハ小班 ／ 最寄り駅：鹿角花輪 ／ 交通案内：【東北自動車道】　松尾八幡平I.Cより県道23号線約55分／鹿角八幡平I.Cより車で約30分</p>
+                  <p><strong>【所在地・アクセス】</strong>秋田県鹿角市八幡平字熊沢国有林３１３３林班ハ小班 ／ 最寄り駅：鹿角花輪 ／ 交通案内：【東北自動車道】　松尾八幡平I.Cより県道23号線約55分／鹿角八幡平I.Cより車で約30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -649,7 +649,7 @@ export default function OiraseAutumnLeavesHotspringPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/14840/14840.jpg" alt="十和田湖畔温泉　とわだこ賑山亭 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>炉端料理が人気のお宿。秋田県プレミアムチケット、ご利用可能です！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 秋田県鹿角郡小坂町十和田湖休平35 ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ八戸駅より十和田湖行きＪＲバスで140分、終点十和田湖下車、徒歩4分／東北自動車道小坂ＩＣより４０分</p>
+                  <p><strong>【所在地・アクセス】</strong>秋田県鹿角郡小坂町十和田湖休平35 ／ 交通案内：ＪＲ八戸駅より十和田湖行きＪＲバスで140分、終点十和田湖下車、徒歩4分／東北自動車道小坂ＩＣより４０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -671,7 +671,7 @@ export default function OiraseAutumnLeavesHotspringPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7026/7026_room.jpg" alt="浅虫温泉　津軽藩本陣の宿　旅館柳の湯 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>浅虫温泉湯本｜源泉かけ流し×津軽藩本陣の宿 柳の湯 静かに過ごす温泉旅</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 青森県青森市大字浅虫字山下236 ／ 最寄り駅：浅虫温泉 ／ 交通案内：ＪＲ浅虫温泉駅から徒歩6分/東北自動車道青森東出口より10分【浅虫温泉駅⇔当館まで無料送迎OK(要予約）】</p>
+                  <p><strong>【所在地・アクセス】</strong>青森県青森市大字浅虫字山下236 ／ 最寄り駅：浅虫温泉 ／ 交通案内：ＪＲ浅虫温泉駅から徒歩6分/東北自動車道青森東出口より10分【浅虫温泉駅⇔当館まで無料送迎OK(要予約）】</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り：15台(無料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.02 ／ 部屋 ★4 ／ 設備 ★3.94 ／ 風呂 ★4.34 ／ 食事 ★4.34</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -693,7 +693,7 @@ export default function OiraseAutumnLeavesHotspringPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/142919/142919_gen.jpg" alt="蔦温泉旅館－足元から源泉湧出の自噴温泉－ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>約千年前から源泉のやさしい湯が湧き出てくる全国でも希少な「源泉湧き流し」の湯をお楽しみ下さい</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 青森県十和田市奥瀬蔦野湯1 ／ 最寄り駅：青森 ／ 交通案内：七戸十和田駅よりお車にて１時間／青森駅よりお車にて1時間20分</p>
+                  <p><strong>【所在地・アクセス】</strong>青森県十和田市奥瀬蔦野湯1 ／ 最寄り駅：青森 ／ 交通案内：七戸十和田駅よりお車にて１時間／青森駅よりお車にて1時間20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.82 ／ 立地 ★4.71 ／ 部屋 ★4.76 ／ 設備 ★4.64 ／ 風呂 ★4.87 ／ 食事 ★4.8</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

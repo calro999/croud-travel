@@ -45,8 +45,8 @@ export default function Page() {
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Kawasaki_Daishi_-_2024_Oct_1_various_19_07_54_558000.jpeg/1280px-Kawasaki_Daishi_-_2024_Oct_1_various_19_07_54_558000.jpeg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
         "https://img.travel.rakuten.co.jp/share/HOTEL/177946/177946.jpg"
       ],
-      "datePublished": "",
-      "dateModified": "",
+      "datePublished": "2026-11-01",
+      "dateModified": "2026-11-15",
       "author": {
         "@type": "Organization",
         "name": "Japan Travel Curations"

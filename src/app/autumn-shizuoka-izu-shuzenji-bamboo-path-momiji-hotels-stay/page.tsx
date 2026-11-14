@@ -317,11 +317,11 @@ export default function IzuShuzenjiAutumnPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋の伊豆・修善寺温泉：竹林の小径紅葉と桂川の清流散策！歴史薫る風雅なおすすめ名旅館5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「秋の伊豆・修善寺温泉：竹林の小径紅葉と桂川の清流散策！歴史薫る風雅なおすすめ名旅館5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「秋の伊豆・修善寺温泉：竹林の小径紅葉と桂川の清流散策！歴史薫る風雅なおすすめ名旅館5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -403,7 +403,7 @@ export default function IzuShuzenjiAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/27983/27983_mel.jpg" alt="修善寺温泉　宙ＳＯＲＡ　渡月荘金龍 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>客室からは四季を感じられる自然が一望できます。月替りの会席は人気の絶品です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県伊豆市修善寺3455 ／ 最寄り駅：修善寺 ／ 交通案内：伊豆箱根鉄道修善寺駅から路線バスまたはタクシー（送迎不可）/東名高速沼津ICから伊豆縦貫道・伊豆中央道経由約３５分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県伊豆市修善寺3455 ／ 最寄り駅：修善寺 ／ 交通案内：伊豆箱根鉄道修善寺駅から路線バスまたはタクシー（送迎不可）/東名高速沼津ICから伊豆縦貫道・伊豆中央道経由約３５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -425,7 +425,7 @@ export default function IzuShuzenjiAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/72797/72797_hana.jpg" alt="修善寺温泉　柳生の庄 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>修善寺温泉の奥にある閑静な旅館。本格懐石料理と露天風呂が好評。露天風呂付客室や離れもおすすめ。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県伊豆市修善寺1116-6 ／ 最寄り駅：修善寺 ／ 交通案内：伊豆箱根鉄道　修善寺駅から車で約１０分 東名高速道路沼津ICまたは新東名高速道路長泉沼津ICから30分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県伊豆市修善寺1116-6 ／ 最寄り駅：修善寺 ／ 交通案内：伊豆箱根鉄道　修善寺駅から車で約１０分 東名高速道路沼津ICまたは新東名高速道路長泉沼津ICから30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -447,7 +447,7 @@ export default function IzuShuzenjiAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31865/31865_he.jpg" alt="修善寺温泉　国の登録文化財の宿　新井旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ミシュランで二つ星の竹林の小径まで徒歩2分、修善寺温泉の中心で観光に便利です</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県伊豆市修善寺970 ／ 最寄り駅：修善寺 ／ 交通案内：伊豆箱根鉄道線 修善寺駅よりバスまたはタクシーで10分／東名・新東名高速 沼津ICより伊豆縦貫道経由45分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県伊豆市修善寺970 ／ 最寄り駅：修善寺 ／ 交通案内：伊豆箱根鉄道線 修善寺駅よりバスまたはタクシーで10分／東名・新東名高速 沼津ICより伊豆縦貫道経由45分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>あり　40台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.67 ／ 立地 ★4.67 ／ 部屋 ★4.72 ／ 設備 ★4.56 ／ 風呂 ★4.72 ／ 食事 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -469,7 +469,7 @@ export default function IzuShuzenjiAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/130639/130639_ru.jpg" alt="修善寺温泉　五葉館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>緑きらめく夏の修善寺で、涼を感じるご褒美旅。伊豆牛と3つの貸切風呂で心ほどける癒しのひとときを。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県伊豆市修善寺765-2 ／ 最寄り駅：修善寺 ／ 交通案内：伊豆箱根鉄道　修善寺駅よりバスで８分／お車は、東名沼津ICより伊豆縦貫道・伊豆中央道・修善寺道路で約30分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県伊豆市修善寺765-2 ／ 最寄り駅：修善寺 ／ 交通案内：伊豆箱根鉄道　修善寺駅よりバスで８分／お車は、東名沼津ICより伊豆縦貫道・伊豆中央道・修善寺道路で約30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -491,7 +491,7 @@ export default function IzuShuzenjiAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1645/1645_heya.jpg" alt="湯めぐりの宿　修善寺温泉　桂川（共立リゾート） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2021年1月グランドオープン◇無料の7つの貸切風呂で楽しむ美肌の修善寺温泉</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県伊豆市修善寺860 ／ 最寄り駅：修善寺 ／ 交通案内：伊豆箱根鉄道修善寺駅よりタクシーで８分。</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県伊豆市修善寺860 ／ 最寄り駅：修善寺 ／ 交通案内：伊豆箱根鉄道修善寺駅よりタクシーで８分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

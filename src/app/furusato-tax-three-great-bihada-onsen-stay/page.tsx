@@ -238,7 +238,7 @@ export default function Page() {
         <section className="space-y-10">
           <div className="text-center space-y-2">
             <h2 className="text-2xl md:text-3xl font-bold text-slate-900">楽天ふるさと納税で泊まる名宿＆厳選ホテル</h2>
-            <p className="text-xs md:text-sm text-slate-500">楽天トラベル公式APIより最新の宿情報・写真・最低参考価格を取得しています
+            <p className="text-xs md:text-sm text-slate-500">宿泊施設データより最新の宿情報・写真・最低参考価格を取得しています
             </p>
           </div>
 
@@ -541,11 +541,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大美肌の湯＆とろとろ重曹泉・美肌会席宿×ふるさと納税厳選ガイド嬉野・斐乃上・喜連川：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本三大美肌の湯＆とろとろ重曹泉・美肌会席宿×ふるさと納税厳選ガイド嬉野・斐乃上・喜連川」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「日本三大美肌の湯＆とろとろ重曹泉・美肌会席宿×ふるさと納税厳選ガイド嬉野・斐乃上・喜連川」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -609,7 +609,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/40527/40527_fu.jpg" alt="嬉野温泉　和多屋別荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>嬉野WELL-BEING「河畔サウナ」「色写経」「創香室」等館内で体験できるアクティビティが充実。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 佐賀県嬉野市嬉野町下宿乙738 ／ 最寄り駅：武雄温泉 ／ 交通案内：JR嬉野温泉駅から車で5分/長崎自動車道 嬉野ICより約5分</p>
+                  <p><strong>【所在地・アクセス】</strong>佐賀県嬉野市嬉野町下宿乙738 ／ 最寄り駅：武雄温泉 ／ 交通案内：JR嬉野温泉駅から車で5分/長崎自動車道 嬉野ICより約5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>ご宿泊者の方は無料でご利用頂けます。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.19 ／ 立地 ★4.08 ／ 部屋 ★3.92 ／ 設備 ★3.96 ／ 風呂 ★4.15 ／ 食事 ★4.26</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -631,7 +631,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/180135/180135.jpg" alt="奥出雲町サイクリングターミナル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2022年4月リニューアル！神話の里奥出雲の中心にある観光ビジネスの拠点として利用できる宿泊施設</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 島根県仁多郡奥出雲町三成558-6 ／ 最寄り駅：出雲三成 ／ 交通案内：三成駅より徒歩にて約3分</p>
+                  <p><strong>【所在地・アクセス】</strong>島根県仁多郡奥出雲町三成558-6 ／ 最寄り駅：出雲三成 ／ 交通案内：三成駅より徒歩にて約3分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料（大型2台、普通車40台）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -653,7 +653,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/40906/40906_s.jpg" alt="喜連川温泉　ゴルフ＆ホテルベルセルバ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>トロリとした質感の「美人の湯」が自慢！天然温泉の露天風呂が楽しめる、ゴルフ場に隣接したスパリゾート</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県さくら市鹿子畑1408-2 ／ 最寄り駅：氏家 ／ 交通案内：車：東北道・矢板ＩＣから２０分。電車：東北本線・氏家駅からタクシー２０分、送迎有（20名様迄・要予約）</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県さくら市鹿子畑1408-2 ／ 最寄り駅：氏家 ／ 交通案内：車：東北道・矢板ＩＣから２０分。電車：東北本線・氏家駅からタクシー２０分、送迎有（20名様迄・要予約）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -668,7 +668,7 @@ export default function Page() {
 
       {/* フッター */}
       <footer className="bg-slate-950 text-slate-400 py-8 px-4 text-center text-xs border-t border-slate-800">
-        <p>© 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の楽天トラベル公式APIに基づきます。</p>
+        <p>© 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の宿泊施設データに基づきます。</p>
       </footer>
     
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

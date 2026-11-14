@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">古都鎌倉＆湘南江の島：鶴岡八幡宮・江ノ電・富士夕景ホテル 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「古都鎌倉＆湘南江の島：鶴岡八幡宮・江ノ電・富士夕景ホテル 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「古都鎌倉＆湘南江の島：鶴岡八幡宮・江ノ電・富士夕景ホテル 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/56288/56288_room.jpg" alt="湯盛温泉　ホテル杉の湯 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>吉野杉の杜に包まれた優美なホテル。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 奈良県吉野郡川上村迫695 ／ 最寄り駅：大和上市 ／ 交通案内：近鉄　大和上市駅より路線バスにて３５分／南阪奈有料道路　葛城ＩＣより約１時間</p>
+                  <p><strong>【所在地・アクセス】</strong>奈良県吉野郡川上村迫695 ／ 最寄り駅：大和上市 ／ 交通案内：近鉄　大和上市駅より路線バスにて３５分／南阪奈有料道路　葛城ＩＣより約１時間</p>
                   <p>【古都鎌倉＆湘南江の島：鶴岡八幡宮・江ノ電・富士夕景ホ】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/70652/70652_room.jpg" alt="ほてる彩夏 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>片瀬江ノ島駅より徒歩で２分。”素足でくつろげる”新しいカタチの「ほてる」です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県藤沢市片瀬海岸1-11-22 ／ 最寄り駅：片瀬江ノ島 ／ 交通案内：小田急　片瀬江ノ島駅から徒歩で２分</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県藤沢市片瀬海岸1-11-22 ／ 最寄り駅：片瀬江ノ島 ／ 交通案内：小田急　片瀬江ノ島駅から徒歩で２分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　　１４台　　要予約</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/106222/106222_kya.jpg" alt="ほてる汐彩 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>江の島、小動岬、相模湾を一望するロケーション。江の島駅より徒歩5分</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県藤沢市片瀬海岸1-7-3 ／ 最寄り駅：片瀬江ノ島 ／ 交通案内：片瀬江の島駅より徒歩にて５分、江ノ電江ノ島駅より徒歩にて5分、湘南モノレール湘南江ノ島駅より徒歩7分</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県藤沢市片瀬海岸1-7-3 ／ 最寄り駅：片瀬江ノ島 ／ 交通案内：片瀬江の島駅より徒歩にて５分、江ノ電江ノ島駅より徒歩にて5分、湘南モノレール湘南江ノ島駅より徒歩7分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２台　１５００円（１泊）要予約、 満車時は観光協会東浜駐車場（１泊１５００円）にご案内。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8638/8638_sgl.jpg" alt="戸倉上山田温泉　ビジネスホテル　グリーンプラザ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>喫煙＆大型車もOKで駐車場は無料！姉妹両館のかけ流しの温泉入浴も</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県千曲市上山田温泉2-22-9 ／ 最寄り駅：戸倉 ／ 交通案内：上信越自動車道坂城IC及び中央道更埴ICより１０分。長野新幹線上田駅及びＪＲ篠ノ井駅、乗換しなの鉄道戸倉駅下車、車で５分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県千曲市上山田温泉2-22-9 ／ 最寄り駅：戸倉 ／ 交通案内：上信越自動車道坂城IC及び中央道更埴ICより１０分。長野新幹線上田駅及びＪＲ篠ノ井駅、乗換しなの鉄道戸倉駅下車、車で５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場無料。20台～。大型車は1,100円にて駐車可能。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/163278/163278_front.jpg" alt="ＨＯＴＥＬＮＯＡＨ・ＲＥＳＯＲＴ湘南【大人専用１８禁・ハピホテ提携】 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【大人専用・１８歳未満利用禁止】湘南江ノ島ビーチに隣接した、２人だけのオーシャンリゾートオアシス。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県藤沢市鵠沼海岸1-11-16 ／ 最寄り駅：鵠沼海岸 ／ 交通案内：鵠沼海岸駅より徒歩にて約１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県藤沢市鵠沼海岸1-11-16 ／ 最寄り駅：鵠沼海岸 ／ 交通案内：鵠沼海岸駅より徒歩にて約１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２３台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/191826/191826.jpg" alt="ＭＡＲＳＯＬ　Ｃ．Ｓ．Ｂｅａｃｈ　ｈｏｔｅｌ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>〈サザンビーチまで徒歩0分〉オーシャンビューサウナ×屋上BBQで非日常ステイ♪相模湾や富士山を一望</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県茅ケ崎市南湖4-23-14 ／ 最寄り駅：茅ヶ崎 ／ 交通案内：茅ヶ崎駅よりタクシー5分 徒歩25分　東京IC→海老名JCT→新湘南バイパスで茅ヶ崎海岸IC5分</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県茅ケ崎市南湖4-23-14 ／ 最寄り駅：茅ヶ崎 ／ 交通案内：茅ヶ崎駅よりタクシー5分 徒歩25分　東京IC→海老名JCT→新湘南バイパスで茅ヶ崎海岸IC5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>1部屋につき1台　無料　要予約　部屋番号の記載のある場所に駐車ください</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -236,7 +236,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -681,11 +681,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：爽やかな柑橘の香りに包まれる。特産みかんアロマスパスパ＆オーシャンビュー宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：爽やかな柑橘の香りに包まれる。特産みかんアロマスパスパ＆オーシャンビュー宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：爽やかな柑橘の香りに包まれる。特産みかんアロマスパスパ＆オーシャンビュー宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -767,7 +767,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/39274/39274_ro.jpg" alt="三谷温泉　ホテル明山荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2種類の源泉を使用しております</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛知県蒲郡市三谷町鳶欠14-1 ／ 最寄り駅：三河三谷 ／ 交通案内：ＪＲ　三河三谷駅より車で５分</p>
+                  <p><strong>【所在地・アクセス】</strong>愛知県蒲郡市三谷町鳶欠14-1 ／ 最寄り駅：三河三谷 ／ 交通案内：ＪＲ　三河三谷駅より車で５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.38 ／ 立地 ★4.3 ／ 部屋 ★4.15 ／ 設備 ★4.07 ／ 風呂 ★4.37 ／ 食事 ★4.42</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -789,7 +789,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/166965/166965.jpg" alt="ＳＨＩＲＡＨＡＭＡ　ＫＥＹ　ＴＥＲＲＡＣＥ　ＨＯＴＥＬ　ＳＥＡＭＯＲＥ（ホテルシーモア） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>和歌山白浜の「集う」場所「帰る」場所、そして「いつもの」場所に。私たちホテルシーモアは変わり続けます</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県西牟婁郡白浜町1821 ／ 最寄り駅：南紀白浜空港 ／ 交通案内：JR白浜駅より車で約10分／南紀白浜空港より車で約7分</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県西牟婁郡白浜町1821 ／ 最寄り駅：南紀白浜空港 ／ 交通案内：JR白浜駅より車で約10分／南紀白浜空港より車で約7分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.46 ／ 部屋 ★4.21 ／ 設備 ★4.22 ／ 風呂 ★4.36</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -811,7 +811,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/70844/70844_s.jpg" alt="ホテルハーヴェスト浜名湖 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2022年7月より温泉へリニューアル！湖畔を一望できるホテル！ご当地メニュー鰻飯や浜松餃子が大好評♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県浜松市浜名区三ヶ日町大崎372 ／ 最寄り駅：東都筑 ／ 交通案内：東名三ヶ日ICより車５分。天竜浜名湖線都筑駅・JR鷲津駅より無料送迎有。事前要予約</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県浜松市浜名区三ヶ日町大崎372 ／ 最寄り駅：東都筑 ／ 交通案内：東名三ヶ日ICより車５分。天竜浜名湖線都筑駅・JR鷲津駅より無料送迎有。事前要予約</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -833,7 +833,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/140798/140798_kya.jpg" alt="内海温泉　いち豆 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>楽天スーパーSALE♪目の前に広がる海を楽しめるのもいち豆ならでは♪クーポン参加中★</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛知県知多郡南知多町内海新田48 ／ 最寄り駅：内海（愛知） ／ 交通案内：■□名鉄内海駅より徒歩約１５分内海海水浴場の目の前■□選べる色浴衣や内海温泉の貸切露天風呂が無料■□</p>
+                  <p><strong>【所在地・アクセス】</strong>愛知県知多郡南知多町内海新田48 ／ 最寄り駅：内海（愛知） ／ 交通案内：■□名鉄内海駅より徒歩約１５分内海海水浴場の目の前■□選べる色浴衣や内海温泉の貸切露天風呂が無料■□</p>
                   <p><strong>【駐車場・マイカー利用】</strong>４０台あり■□赤ちゃん歓迎、記念日、宴会など多彩なプラン■□コンビニ・スーパー徒歩５分</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -855,7 +855,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/149114/149114_kan.jpg" alt="リブマックスリゾート伊東川奈 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>太平洋を望む絶景と川奈の自然に抱かれた1万坪の楽園リゾート♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県伊東市富戸三野原1301 ／ 最寄り駅：富戸 ／ 交通案内：川奈駅から車で10分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県伊東市富戸三野原1301 ／ 最寄り駅：富戸 ／ 交通案内：川奈駅から車で10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>各部屋1台分確保（40台）：普通車無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

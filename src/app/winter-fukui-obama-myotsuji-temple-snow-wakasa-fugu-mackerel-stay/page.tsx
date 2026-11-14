@@ -48,8 +48,8 @@ export default function Page() {
       "headline": "【御食国の冬味覚・明通寺国宝本堂の静寂と若狭ふぐ】2026-2027年冬の福井・若狭小浜！名物若狭とらふぐフルコースと雪見温泉名宿5選",
       "description": "国宝・明通寺本堂と三重塔が雪化粧をまとう冬の若狭小浜！朝廷に食を献上した御食国の至宝「若狭ふぐ（とらふぐコース）」や名物焼き鯖、若狭牛に舌鼓。若狭湾の絶景と柔らかな湯に心ほどける冬の福井・小浜厳選名宿5選。",
       "image": "https://img.travel.rakuten.co.jp/share/HOTEL/687/687.jpg",
-      "datePublished": "",
-      "dateModified": "",
+      "datePublished": "2026-11-01",
+      "dateModified": "2026-11-15",
       "author": {
         "@type": "Organization",
         "name": "Japan Travel Curations"

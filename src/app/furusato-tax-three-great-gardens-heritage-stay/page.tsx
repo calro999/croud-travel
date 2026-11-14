@@ -647,11 +647,11 @@ export default function FurusatoTaxPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三名園＆大名庭園を望む老舗旅館×ふるさと納税厳選ガイド兼六園・後楽園・偕楽園の歴史宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本三名園＆大名庭園を望む老舗旅館×ふるさと納税厳選ガイド兼六園・後楽園・偕楽園の歴史宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「日本三名園＆大名庭園を望む老舗旅館×ふるさと納税厳選ガイド兼六園・後楽園・偕楽園の歴史宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -733,7 +733,7 @@ export default function FurusatoTaxPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4707/4707_heya.jpg" alt="加賀屋グループ　料理旅館　金沢茶屋 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>金沢駅から徒歩3分の料理旅館。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県金沢市本町2-17-21 ／ 最寄り駅：金沢 ／ 交通案内：ＪＲ金沢駅兼六園口より徒歩３分。</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県金沢市本町2-17-21 ／ 最寄り駅：金沢 ／ 交通案内：ＪＲ金沢駅兼六園口より徒歩３分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（1,000円／泊）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -755,7 +755,7 @@ export default function FurusatoTaxPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/547/547_sgl.jpg" alt="アパホテル〈金沢駅前〉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>コンパクトながらも機能性を追求した金沢駅目前の大浴殿付ホテル！ビジネス、観光に最適な駅前立地！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県金沢市広岡1-9-28 ／ 最寄り駅：金沢 ／ 交通案内：「金沢駅」西口を出て左手すぐ（徒歩1分）小松空港から金沢駅直通バスで40分　東京駅⇔金沢駅間 北陸新幹線にて2時間30分</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県金沢市広岡1-9-28 ／ 最寄り駅：金沢 ／ 交通案内：「金沢駅」西口を出て左手すぐ（徒歩1分）小松空港から金沢駅直通バスで40分　東京駅⇔金沢駅間 北陸新幹線にて2時間30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>78台 1泊/1,300円【車高1.9ｍ　先着順・予約不可】提携P：立体1,500台 1泊/800円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.14 ／ 立地 ★4.22 ／ 部屋 ★4.03 ／ 設備 ★4.04 ／ 風呂 ★4.13 ／ 食事 ★4.33</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -777,7 +777,7 @@ export default function FurusatoTaxPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2199/2199_dai.jpg" alt="金沢マンテンホテル駅前（マンテンホテルグループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>露天感覚の男女別大浴場（男性：高温サウナ&amp;amp;水風呂、女性：ミストサウナ）／敷地内駐車場１３４台</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県金沢市北安江1-6-1 ／ 最寄り駅：金沢 ／ 交通案内：JR金沢駅金沢港口（西口）より徒歩5分／金沢東・西ICより車で10分／コンビニ1分（ATM）／兼六園車で15分</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県金沢市北安江1-6-1 ／ 最寄り駅：金沢 ／ 交通案内：JR金沢駅金沢港口（西口）より徒歩5分／金沢東・西ICより車で10分／コンビニ1分（ATM）／兼六園車で15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>134台先着順　1泊1,000円(入庫より24時間)　大型車駐車可(要予約)　車椅子専用P有</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -799,7 +799,7 @@ export default function FurusatoTaxPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/167859/167859.jpg" alt="ホテルアベストグランデ岡山　なごみの湯 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>～岡山駅徒歩5分～大浴場＆サウナで癒し、岡山名物朝食は口コミ高評価4.45以上★</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岡山県岡山市北区駅前町1-8-5 ／ 最寄り駅：岡山 ／ 交通案内：ＪＲ岡山駅より徒歩5分◆岡山駅前商店街アーケードよりICOTNICOT西エレベーターにて6階フロント</p>
+                  <p><strong>【所在地・アクセス】</strong>岡山県岡山市北区駅前町1-8-5 ／ 最寄り駅：岡山 ／ 交通案内：ＪＲ岡山駅より徒歩5分◆岡山駅前商店街アーケードよりICOTNICOT西エレベーターにて6階フロント</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有料提携駐車場：服部パーキング・Qパーキング　1200円（15時～翌10時途中出庫なし）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -821,7 +821,7 @@ export default function FurusatoTaxPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/147197/147197_room.jpg" alt="内原鉱泉　湯泉荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【駐車場無料】超音波龍紋石風呂は湧き水を沸かしており、一晩中入れます。（朝9時からの清掃時を除く）</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 茨城県水戸市三湯町1105 ／ 最寄り駅：内原 ／ 交通案内：ＪＲ内原駅より徒歩にて約１０分、お車にて約３分。水戸ICから約１０分。</p>
+                  <p><strong>【所在地・アクセス】</strong>茨城県水戸市三湯町1105 ／ 最寄り駅：内原 ／ 交通案内：ＪＲ内原駅より徒歩にて約１０分、お車にて約３分。水戸ICから約１０分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -77,7 +77,7 @@ export default function ArticlePage() {
             奥飛騨・平湯温泉ひとり旅＆山岳秘湯おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「奥飛騨・平湯温泉ひとり旅・北アルプス山懐の原生林秘湯おこもり」奥飛騨最古の源泉かけ流し・飛騨牛炭火焼き・大露天風呂！山岳リトリート厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               高山濃飛バスセンターや松本駅から特急バスが集結する奥飛騨の交通の要衝・平湯温泉。上高地や乗鞍畳平への拠点としても知られ、ブナやミズナラの原生林に抱かれた温泉街には多種多様な源泉がこんこんと湧出しています。炭酸水素塩泉・硫酸塩泉・塩化物泉が絶妙にブレンドされた湯は芯から身体を温め、日々のストレスを完全にリセットしてくれます。
             </p>
             <p>
-              大人の隠れ家として名高いプライベート料理旅館から、奥飛騨の伝統を今に伝える名宿まで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              大人の隠れ家として名高いプライベート料理旅館から、奥飛騨の伝統を今に伝える名宿まで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -421,11 +421,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">奥飛騨・平湯温泉ひとり旅・北アルプス山懐の原生林秘湯おこもり：奥飛騨最古の源泉かけ流し・飛騨牛炭火焼き・大露天風呂！山岳リトリート厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「奥飛騨・平湯温泉ひとり旅・北アルプス山懐の原生林秘湯おこもり：奥飛騨最古の源泉かけ流し・飛騨牛炭火焼き・大露天風呂！山岳リトリート厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「奥飛騨・平湯温泉ひとり旅・北アルプス山懐の原生林秘湯おこもり：奥飛騨最古の源泉かけ流し・飛騨牛炭火焼き・大露天風呂！山岳リトリート厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -489,7 +489,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4994/4994_room.jpg" alt="平湯温泉　平田館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>湯量豊富な総桧風呂の大浴場と露天風呂。平湯バスターミナルより徒歩1分</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岐阜県高山市奥飛騨温泉郷平湯2-3 ／ 最寄り駅：高山 ／ 交通案内：ＪＲ高山駅よりバスで６０分、 東海北陸道高山ＩＣより６０分、中央道松本ＩＣより車で６５分</p>
+                  <p><strong>【所在地・アクセス】</strong>岐阜県高山市奥飛騨温泉郷平湯2-3 ／ 最寄り駅：高山 ／ 交通案内：ＪＲ高山駅よりバスで６０分、 東海北陸道高山ＩＣより６０分、中央道松本ＩＣより車で６５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２５台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★4.13 ／ 部屋 ★4.28 ／ 設備 ★4.11 ／ 風呂 ★4.31 ／ 食事 ★4.39</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -511,7 +511,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/63413/63413_kya.jpg" alt="奥飛騨温泉郷　花ごころ万喜（ばんき） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>《日本の宿アワード ＆楽天シルバーアワード2020W受賞》板蔵の貸切露天、花をテーマにしたおもてなし</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岐阜県高山市奥飛騨温泉郷一重ヶ根781 ／ 最寄り駅：高山 ／ 交通案内：長野道・松本IC→R158・安房トンネル・R471→新平湯温泉／中部縦貫道・高山IC→R158・R471→新平湯温泉</p>
+                  <p><strong>【所在地・アクセス】</strong>岐阜県高山市奥飛騨温泉郷一重ヶ根781 ／ 最寄り駅：高山 ／ 交通案内：長野道・松本IC→R158・安房トンネル・R471→新平湯温泉／中部縦貫道・高山IC→R158・R471→新平湯温泉</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.5 ／ 立地 ★4.23 ／ 部屋 ★4.35 ／ 設備 ★3.95 ／ 風呂 ★4.22 ／ 食事 ★4.53</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -533,7 +533,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/63424/63424_ky.jpg" alt="奥飛騨温泉郷　新平湯温泉　美山荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>飛騨の温もりが感じられる安らぎの宿。四季によって表情を変える露天風呂が自慢です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岐阜県高山市奥飛騨温泉郷一重ヶ根622 ／ 最寄り駅：高山 ／ 交通案内：ＪＲ高山駅（高山濃飛バスセンター）よりバス「平湯・新穂高線」にて1時間１５分、「HO48新平湯温泉」下車、徒歩１分</p>
+                  <p><strong>【所在地・アクセス】</strong>岐阜県高山市奥飛騨温泉郷一重ヶ根622 ／ 最寄り駅：高山 ／ 交通案内：ＪＲ高山駅（高山濃飛バスセンター）よりバス「平湯・新穂高線」にて1時間１５分、「HO48新平湯温泉」下車、徒歩１分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

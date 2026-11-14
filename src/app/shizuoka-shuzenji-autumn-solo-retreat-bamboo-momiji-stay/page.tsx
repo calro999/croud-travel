@@ -77,7 +77,7 @@ export default function ArticlePage() {
             伊豆修善寺・10-11月秋のもみじ林＆竹林の小径ひとり旅おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">【10月・11月秋の伊豆修善寺温泉ひとり旅・竹林の小径と修善寺自然公園もみじ林おこもり】桂川のせせらぎ・伊豆最古の美肌湯・伊豆旬会席！小京都リトリート厳選3宿！桂川のせせらぎ・伊豆最古の美肌湯・伊豆旬会席！小京都リトリート厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               特急「踊り子号」で東京から直通、伊豆半島の山間にひっそりと佇む修善寺温泉。夏目漱石や芥川龍之介など名だたる文豪が逗留したこの地は、11月に入ると「修善寺自然公園もみじ林」の約1,000本のもみじが一斉に色づき、伊豆随一の紅葉狩りスポットとなります。竹林の小径を歩く心地よい風の音、川のせせらぎ、アルカリ性単純温泉の柔らかな湯触りが、旅人の心を優しく解きほぐします。
             </p>
             <p>
-              ひとり旅を温かく歓迎する寛ぎの温泉旅館から、一生に一度は泊まりたい最高峰の数寄屋料亭旅館まで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              ひとり旅を温かく歓迎する寛ぎの温泉旅館から、一生に一度は泊まりたい最高峰の数寄屋料亭旅館まで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -422,11 +422,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">【10月・11月秋の伊豆修善寺温泉ひとり旅・竹林の小径と修善寺自然公園もみじ林おこもり】桂川のせせらぎ・伊豆最古の美肌湯・伊豆旬会席！小京都リトリート厳選3宿！桂川のせせらぎ・伊豆最古の美肌湯・伊豆旬会席！小京都リトリート厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「【10月・11月秋の伊豆修善寺温泉ひとり旅・竹林の小径と修善寺自然公園もみじ林おこもり】桂川のせせらぎ・伊豆最古の美肌湯・伊豆旬会席！小京都リトリート厳選3宿！桂川のせせらぎ・伊豆最古の美肌湯・伊豆旬会席！小京都リトリート厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「【10月・11月秋の伊豆修善寺温泉ひとり旅・竹林の小径と修善寺自然公園もみじ林おこもり】桂川のせせらぎ・伊豆最古の美肌湯・伊豆旬会席！小京都リトリート厳選3宿！桂川のせせらぎ・伊豆最古の美肌湯・伊豆旬会席！小京都リトリート厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -490,7 +490,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/29806/29806_w.jpg" alt="修善寺温泉　瑞の里　〇久（まるきゅう）旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>冷蔵庫飲物無料★2024「泳ぎ湯」「寝湯」新設★宴処新装★『お客様が選ぶ人気宿』常連宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県伊豆市修善寺1146 ／ 最寄り駅：主要駅 ／ 交通案内：修善寺駅よりタクシー約10分／東名高速　沼津ＩＣより伊豆縦貫道を通り約30分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県伊豆市修善寺1146 ／ 交通案内：修善寺駅よりタクシー約10分／東名高速　沼津ＩＣより伊豆縦貫道を通り約30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　５０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -512,7 +512,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/72797/72797_hana.jpg" alt="修善寺温泉　柳生の庄 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>修善寺温泉の奥にある閑静な旅館。本格懐石料理と露天風呂が好評。露天風呂付客室や離れもおすすめ。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県伊豆市修善寺1116-6 ／ 最寄り駅：修善寺 ／ 交通案内：伊豆箱根鉄道　修善寺駅から車で約１０分 東名高速道路沼津ICまたは新東名高速道路長泉沼津ICから30分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県伊豆市修善寺1116-6 ／ 最寄り駅：修善寺 ／ 交通案内：伊豆箱根鉄道　修善寺駅から車で約１０分 東名高速道路沼津ICまたは新東名高速道路長泉沼津ICから30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -534,7 +534,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/187409/187409.jpg" alt="修善寺　離れ宿　鬼の栖 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>風情漂う日本庭園と全室離れの各お部屋には専用風呂あり。修善寺の奥座敷、大人の離れ宿をご堪能ください。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県伊豆市修善寺1163 ／ 最寄り駅：修善寺 ／ 交通案内：伊豆箱根鉄道駿豆線「修善寺駅」駅からタクシーで約10分。</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県伊豆市修善寺1163 ／ 最寄り駅：修善寺 ／ 交通案内：伊豆箱根鉄道駿豆線「修善寺駅」駅からタクシーで約10分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　15台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

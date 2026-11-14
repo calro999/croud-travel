@@ -510,10 +510,10 @@ export default function Page() {
                 富山県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/yamagata/"
+                href="/prefectures/hyogo/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                山形県の宿・温泉
+                兵庫県の宿・温泉
               </Link>
               <Link
                 href="/prefectures/tokyo/"
@@ -536,11 +536,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大港クルーズ＆夜景ディナークルーズ宿×ふるさと納税ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本三大港クルーズ＆夜景ディナークルーズ宿×ふるさと納税ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「日本三大港クルーズ＆夜景ディナークルーズ宿×ふるさと納税ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -604,7 +604,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/104705/104705_spa.jpg" alt="ホテル　ラ・スイート神戸ハーバーランド 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全64室が70㎡以上の大型ジャグジー＆テラス付オーシャンンビュールームのラグジュアリーホテル。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県神戸市中央区波止場町7-2 ／ 最寄り駅：神戸（兵庫） ／ 交通案内：JR「神戸駅」より徒歩約10分／地下鉄海岸線「みなと元町駅」より徒歩約4分／阪神高速3号神戸線「京橋出入口」より車約5分</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県神戸市中央区波止場町7-2 ／ 最寄り駅：神戸（兵庫） ／ 交通案内：JR「神戸駅」より徒歩約10分／地下鉄海岸線「みなと元町駅」より徒歩約4分／阪神高速3号神戸線「京橋出入口」より車約5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>57台(屋内46台、屋外11台) 1000円/泊</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -626,7 +626,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2003/2003_heya1.jpg" alt="横浜ベイホテル東急 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>横浜港を一望できるアーバンリゾートで最上のくつろぎを</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県横浜市西区みなとみらい2-3-7 ／ 最寄り駅：桜木町 ／ 交通案内：みなとみらい線みなとみらい駅徒歩約１分／ＪＲ・市営地下鉄線桜木町駅徒歩１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県横浜市西区みなとみらい2-3-7 ／ 最寄り駅：桜木町 ／ 交通案内：みなとみらい線みなとみらい駅徒歩約１分／ＪＲ・市営地下鉄線桜木町駅徒歩１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　1700台（街区共用）　1泊1600円 　正面玄関に入り口がございます（予約制ではありません）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -648,7 +648,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1027/1027_ky.jpg" alt="ホテルモントレ長崎 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>グラバー園に程近いオランダ通りに面した白いホテル。【全室Wi-Fi /  加湿機能付空気清浄器完備】</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長崎県長崎市大浦町1-22 ／ 最寄り駅：長崎（長崎） ／ 交通案内：ＪＲ長崎駅から車で5分。路面電車・大浦海岸通駅より徒歩1分。グラバー園、オランダ坂、軍艦島クルーズ船乗場も徒歩圏内。</p>
+                  <p><strong>【所在地・アクセス】</strong>長崎県長崎市大浦町1-22 ／ 最寄り駅：長崎（長崎） ／ 交通案内：ＪＲ長崎駅から車で5分。路面電車・大浦海岸通駅より徒歩1分。グラバー園、オランダ坂、軍艦島クルーズ船乗場も徒歩圏内。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>1800円/泊（先着順）満車時には近隣駐車場をご案内させていただきます。（最大2880円/泊）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

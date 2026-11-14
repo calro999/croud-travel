@@ -7,11 +7,11 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kumamoto-kurokawa-solo-retreat-onsen-stay/" },
   title: '黒川温泉ひとり旅・入湯手形おこもり：渓流露天風呂・立ち湯・あか牛会席！阿蘇の秘湯で里山情緒に浸る極上ソロ温泉厳選3宿',
-  description: '阿蘇山麓の静寂の秘湯・黒川！田の原川沿いで渓流露天風呂と足湯が心地よい「夢龍胆」、巨大な大露天風呂や深さ150cmの立ち湯が評判の「やまびこ旅館」、全8室・大人の隠れ家で名湯と美食を味わう「ふじ屋」を楽天トラベル公式API最新データに基づき徹底比較。',
+  description: '阿蘇山麓の静寂の秘湯・黒川！田の原川沿いで渓流露天風呂と足湯が心地よい「夢龍胆」、巨大な大露天風呂や深さ150cmの立ち湯が評判の「やまびこ旅館」、全8室・大人の隠れ家で名湯と美食を味わう「ふじ屋」を宿泊施設データ最新データに基づき徹底比較。',
   keywords: '黒川温泉 一人旅 宿,黒川温泉 ホテル 一人,夢龍胆,やまびこ旅館 黒川,黒川温泉 ふじ屋,黒川 入湯手形 ひとり旅',
   openGraph: {
     title: '黒川温泉ひとり旅・入湯手形おこもり：渓流露天風呂・立ち湯・あか牛会席！阿蘇の秘湯で里山情緒に浸る極上ソロ温泉厳選3宿',
-    description: '阿蘇山麓の静寂の秘湯・黒川！田の原川沿いで渓流露天風呂と足湯が心地よい「夢龍胆」、巨大な大露天風呂や深さ150cmの立ち湯が評判の「やまびこ旅館」、全8室・大人の隠れ家で名湯と美食を味わう「ふじ屋」を楽天トラベル公式API最新データに基づき徹底比較。',
+    description: '阿蘇山麓の静寂の秘湯・黒川！田の原川沿いで渓流露天風呂と足湯が心地よい「夢龍胆」、巨大な大露天風呂や深さ150cmの立ち湯が評判の「やまびこ旅館」、全8室・大人の隠れ家で名湯と美食を味わう「ふじ屋」を宿泊施設データ最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/kumamoto-kurokawa-solo-retreat-onsen-stay/',
     siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
@@ -24,7 +24,7 @@ export default function ArticlePage() {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: '黒川温泉ひとり旅・入湯手形おこもり：渓流露天風呂・立ち湯・あか牛会席！阿蘇の秘湯で里山情緒に浸る極上ソロ温泉厳選3宿',
-    description: '阿蘇山麓の静寂の秘湯・黒川！田の原川沿いで渓流露天風呂と足湯が心地よい「夢龍胆」、巨大な大露天風呂や深さ150cmの立ち湯が評判の「やまびこ旅館」、全8室・大人の隠れ家で名湯と美食を味わう「ふじ屋」を楽天トラベル公式API最新データに基づき徹底比較。',
+    description: '阿蘇山麓の静寂の秘湯・黒川！田の原川沿いで渓流露天風呂と足湯が心地よい「夢龍胆」、巨大な大露天風呂や深さ150cmの立ち湯が評判の「やまびこ旅館」、全8室・大人の隠れ家で名湯と美食を味わう「ふじ屋」を宿泊施設データ最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
       name: '旅宿クラウド ひとり旅・出張調査班',
@@ -77,7 +77,7 @@ export default function ArticlePage() {
             熊本・黒川温泉ひとり旅＆里山秘湯おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「黒川温泉ひとり旅・入湯手形おこもり」渓流露天風呂・立ち湯・あか牛会席！阿蘇の秘湯で里山情緒に浸る極上ソロ温泉厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               熊本・阿蘇の山あいに位置し、ミシュラン・グリーンガイド・ジャポンでも高評価を獲得した奇跡の秘湯・黒川温泉。「街全体が一つの宿」という理念のもと、落ち着いた黒塗りの木造建築と里山の自然が見事に調和し、一人旅で訪れる人々を温かく包み込みます。
             </p>
             <p>
-              せせらぎを聞きながら露天風呂に浸かれる名宿から、阿蘇の味覚「あか牛」を一人でゆっくり堪能できる割烹旅館まで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              せせらぎを聞きながら露天風呂に浸かれる名宿から、阿蘇の味覚「あか牛」を一人でゆっくり堪能できる割烹旅館まで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -419,11 +419,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">黒川温泉ひとり旅・入湯手形おこもり：渓流露天風呂・立ち湯・あか牛会席！阿蘇の秘湯で里山情緒に浸る極上ソロ温泉厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「黒川温泉ひとり旅・入湯手形おこもり：渓流露天風呂・立ち湯・あか牛会席！阿蘇の秘湯で里山情緒に浸る極上ソロ温泉厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「黒川温泉ひとり旅・入湯手形おこもり：渓流露天風呂・立ち湯・あか牛会席！阿蘇の秘湯で里山情緒に浸る極上ソロ温泉厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -487,7 +487,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4725/4725_heya1.jpg" alt="黒川温泉　夢龍胆 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>黒川温泉中心部に位置し、清流田ノ原川のほとりに面した情緒溢れるお料理自慢の純和風旅館。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 熊本県阿蘇郡南小国町満願寺6430-1 ／ 最寄り駅：阿蘇 ／ 交通案内：大分道日田ＩＣより車で６０分、黒川温泉バス停より徒歩1分。送迎あり(条件あり)事前予約要。</p>
+                  <p><strong>【所在地・アクセス】</strong>熊本県阿蘇郡南小国町満願寺6430-1 ／ 最寄り駅：阿蘇 ／ 交通案内：大分道日田ＩＣより車で６０分、黒川温泉バス停より徒歩1分。送迎あり(条件あり)事前予約要。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -509,7 +509,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/67974/67974_w.jpg" alt="黒川温泉　やまびこ旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>大きな露天風呂が自慢の宿！看板犬のえんちゃん(レオンベルガー　人見知り)もよろしくおねがいします＾＾</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 熊本県阿蘇郡南小国町黒川6704 ／ 最寄り駅：阿蘇 ／ 交通案内：ＪＲ阿蘇駅より車で４０分。ＪＲ日田駅より車で６０分。バスは九州横断バスほか、福岡より直行バスも４往復ございます。</p>
+                  <p><strong>【所在地・アクセス】</strong>熊本県阿蘇郡南小国町黒川6704 ／ 最寄り駅：阿蘇 ／ 交通案内：ＪＲ阿蘇駅より車で４０分。ＪＲ日田駅より車で６０分。バスは九州横断バスほか、福岡より直行バスも４往復ございます。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.68 ／ 立地 ★4.65 ／ 部屋 ★4.67 ／ 設備 ★4.58 ／ 風呂 ★4.72 ／ 食事 ★4.62</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -531,7 +531,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/78189/78189_kya.jpg" alt="黒川温泉　ふじ屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>熊本・阿蘇の旬を盛り込んだ美食を満喫。黒川温泉の中央に位置する、和の風情漂う旅館。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 熊本県阿蘇郡南小国町満願寺6541 ／ 最寄り駅：阿蘇 ／ 交通案内：阿蘇駅より産交九州横断定期観光バス（要予約）に乗車、別府行きで５０分。黒川温泉下車で徒歩５分</p>
+                  <p><strong>【所在地・アクセス】</strong>熊本県阿蘇郡南小国町満願寺6541 ／ 最寄り駅：阿蘇 ／ 交通案内：阿蘇駅より産交九州横断定期観光バス（要予約）に乗車、別府行きで５０分。黒川温泉下車で徒歩５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.86 ／ 立地 ★4.89 ／ 部屋 ★4.79 ／ 設備 ★4.79 ／ 風呂 ★4.76 ／ 食事 ★4.91</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

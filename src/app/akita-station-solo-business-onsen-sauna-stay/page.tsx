@@ -77,7 +77,7 @@ export default function ArticlePage() {
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.13 更新</time>
           <span>執筆：旅宿クラウド ひとり旅・出張調査班</span>
-          <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式API提携</span>
+          <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">編集部が厳選</span>
         </div>
 
         {/* リード文 */}
@@ -89,7 +89,7 @@ export default function ArticlePage() {
             秋田新幹線の終着駅であり、日本海側の経済・文化の中枢である秋田市。米どころ・酒どころとして名高いこの街は、出張の疲れを癒やす良質な天然温泉大浴場と、秋田ならではの温もりある郷土料理がビジネスパーソンを温かく迎えてくれます。
           </p>
           <p>
-            最上階露天風呂から星空を仰げる天然温泉ホテルから、駅前至近でテレワークに最適なワイドデスクを完備したシティホテルまで、楽天トラベル公式APIより直接取得した最新データをもとに厳選紹介します。
+            最上階露天風呂から星空を仰げる天然温泉ホテルから、駅前至近でテレワークに最適なワイドデスクを完備したシティホテルまで、宿泊施設データより直接取得した最新データをもとに厳選紹介します。
           </p>
         </div>
       </header>
@@ -345,7 +345,7 @@ export default function ArticlePage() {
           <p className="text-sm text-amber-100 mb-6 max-w-2xl mx-auto">平日限定の一人旅割引や、早期割・直前割など、楽天トラベルならではの特典プランが多数用意されています。人気日程は早めの予約がおすすめです。
           </p>
           <a
-            href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2F"
+            href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fsearch.travel.rakuten.co.jp%2Fds%2Fundated%2Fsearch%3Ff_query%3D%25E7%25A7%258B%25E7%2594%25B0%25E7%259C%258C"
             target="_blank"
             rel="sponsored noopener noreferrer"
             className="inline-flex items-center justify-center bg-white text-amber-900 font-bold px-8 py-3 rounded-xl shadow-lg hover:bg-amber-50 transition transform hover:-translate-y-0.5 text-sm sm:text-base"
@@ -388,11 +388,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋田駅前出張・天然温泉サウナ：秋田新幹線こまち・中通温泉こまちの湯・比内地鶏＆きりたんぽ！美酒王国の厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「秋田駅前出張・天然温泉サウナ：秋田新幹線こまち・中通温泉こまちの湯・比内地鶏＆きりたんぽ！美酒王国の厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「秋田駅前出張・天然温泉サウナ：秋田新幹線こまち・中通温泉こまちの湯・比内地鶏＆きりたんぽ！美酒王国の厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -474,7 +474,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2749/2749_ds.jpg" alt="ホテルパールシティ秋田　川反（旧　ホテルパールシティ秋田） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>竿燈大通り（竿灯）も、川反通り（かわばた）もすぐ近く。赤れんが郷土館・ねぶり流し館は徒歩圏内。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 秋田県秋田市大町3-4-18 ／ 最寄り駅：秋田 ／ 交通案内：ＪＲ秋田駅西口より車５分。バス（県庁・市役所行き５分）川反入口下車徒歩５分。秋田空港よりバス、川反入口下車徒歩５分。</p>
+                  <p><strong>【所在地・アクセス】</strong>秋田県秋田市大町3-4-18 ／ 最寄り駅：秋田 ／ 交通案内：ＪＲ秋田駅西口より車５分。バス（県庁・市役所行き５分）川反入口下車徒歩５分。秋田空港よりバス、川反入口下車徒歩５分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>要予約(予約順30台)1泊1台770円（税込）･満車時徒歩７分契約駐車場・大型車両、二輪車不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.82 ／ 立地 ★3.78 ／ 部屋 ★3.7 ／ 設備 ★3.68 ／ 風呂 ★3.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -496,7 +496,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2974/2974_heya.jpg" alt="縄文のふる里　大湯温泉　ホテル鹿角 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>開湯800年の名湯と四季折々の彩りが添えられた料理を楽しむ。箱根・富士屋ホテルや花巻温泉もグループ。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 秋田県鹿角市十和田大湯字中谷地５－１ ／ 最寄り駅：十和田南 ／ 交通案内：■十和田湖より車で30分■ＪＲ花輪線十和田南駅から車で１２分■東北道十和田ＩＣから国道１０３号線を十和田湖方面へ１２分</p>
+                  <p><strong>【所在地・アクセス】</strong>秋田県鹿角市十和田大湯字中谷地５－１ ／ 最寄り駅：十和田南 ／ 交通案内：■十和田湖より車で30分■ＪＲ花輪線十和田南駅から車で１２分■東北道十和田ＩＣから国道１０３号線を十和田湖方面へ１２分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　２００台　無料　　　　　　　　　　　　　　　　★お得な宿泊プラン満載★</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -518,7 +518,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2978/2978_tw.jpg" alt="アルバートホテル秋田 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>繁華街「かわばた」ど真ん中！全室有線・無線ＬＡＮ対応・シャワートイレ</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 秋田県秋田市大町4-3-22 ／ 最寄り駅：秋田 ／ 交通案内：秋田駅西口から車で５分。秋田空港からリムジンバスで約４０分、北都銀行前下車、徒歩２分。</p>
+                  <p><strong>【所在地・アクセス】</strong>秋田県秋田市大町4-3-22 ／ 最寄り駅：秋田 ／ 交通案内：秋田駅西口から車で５分。秋田空港からリムジンバスで約４０分、北都銀行前下車、徒歩２分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>先着順 83台：800円(税込/泊)　 ※満車時は近隣パーキング(自己負担) 　※大型車は駐車不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.09 ／ 立地 ★4.1 ／ 部屋 ★4.09 ／ 設備 ★4.02 ／ 風呂 ★4.01 ／ 食事 ★4.09</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -540,7 +540,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4624/4624_room.jpg" alt="天然温泉　田沢湖レイクリゾート 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>静寂の美、田沢湖まで車で約15分　わんちゃんと一緒の宿泊も人気です♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 秋田県仙北市田沢湖生保内字下高野82-117 ／ 最寄り駅：田沢湖 ／ 交通案内：JR秋田新幹線田沢湖駅からバスで２０分、盛岡Ｉ．Ｃから５０分。田沢湖駅から送迎バスにて約15分（要事前予約）</p>
+                  <p><strong>【所在地・アクセス】</strong>秋田県仙北市田沢湖生保内字下高野82-117 ／ 最寄り駅：田沢湖 ／ 交通案内：JR秋田新幹線田沢湖駅からバスで２０分、盛岡Ｉ．Ｃから５０分。田沢湖駅から送迎バスにて約15分（要事前予約）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５００台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.19 ／ 立地 ★3.99 ／ 部屋 ★4.02 ／ 設備 ★4.01 ／ 風呂 ★4.09 ／ 食事 ★4.29</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -562,7 +562,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5387/5387_heya.jpg" alt="心に和みが灯る宿　水沢温泉郷　青荷山荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>日本唯一の“秋田竿燈まつり”の宿が全室リニューアル！源泉100%掛け流し温泉と地元食材の料理が好評</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 秋田県仙北市田沢湖生保内下高野７３－１４ ／ 最寄り駅：田沢湖 ／ 交通案内：車以外／JR秋田新幹線田沢湖駅より乳頭温泉行バスで水沢温泉郷下車。車／東北自動車道盛岡IC～国道46号線を秋田方面へ。</p>
+                  <p><strong>【所在地・アクセス】</strong>秋田県仙北市田沢湖生保内下高野７３－１４ ／ 最寄り駅：田沢湖 ／ 交通案内：車以外／JR秋田新幹線田沢湖駅より乳頭温泉行バスで水沢温泉郷下車。車／東北自動車道盛岡IC～国道46号線を秋田方面へ。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>【あり】無料／１6台まで／予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

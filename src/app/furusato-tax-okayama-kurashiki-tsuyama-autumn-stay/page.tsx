@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-okayama-kurashiki-tsuyama-autumn-stay/"
   };
 
@@ -481,11 +481,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">岡山・倉敷美観地区＆津山城！白壁の秋情景と美作三湯・千屋牛＆瀬戸内鰆｜ふるさと納税で泊まれる名宿ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「岡山・倉敷美観地区＆津山城！白壁の秋情景と美作三湯・千屋牛＆瀬戸内鰆｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「岡山・倉敷美観地区＆津山城！白壁の秋情景と美作三湯・千屋牛＆瀬戸内鰆｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -549,7 +549,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/182714/182714.jpg" alt="ホテル　グラン・ココエ倉敷 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR倉敷駅から徒歩3分、湯と癒しの上質なひとときを♪　ビジネス・観光に最適なホテルです。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岡山県倉敷市阿知3-9-1 ／ 最寄り駅：倉敷 ／ 交通案内：山陽本線ＪＲ倉敷駅から徒歩で３分。</p>
+                  <p><strong>【所在地・アクセス】</strong>岡山県倉敷市阿知3-9-1 ／ 最寄り駅：倉敷 ／ 交通案内：山陽本線ＪＲ倉敷駅から徒歩で３分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>◆駐車場なし　近隣駐車場：市営あちてらす倉敷駐車場（ホテルから徒歩２分）1２時間830円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -571,7 +571,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7584/7584_we.jpg" alt="倉敷国際ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>木の温もりを感じる落ち着いた空間で歴史を感じさせてくれる洗練されたひとときをお過ごしいただけます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岡山県倉敷市中央1-1-44 ／ 最寄り駅：倉敷 ／ 交通案内：ＪＲ倉敷駅南口徒歩１０分、山陽自動車道倉敷Ｉ．Ｃから１０分。</p>
+                  <p><strong>【所在地・アクセス】</strong>岡山県倉敷市中央1-1-44 ／ 最寄り駅：倉敷 ／ 交通案内：ＪＲ倉敷駅南口徒歩１０分、山陽自動車道倉敷Ｉ．Ｃから１０分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有：３０台（１泊につき1,000円頂戴します。ご宿泊日の15：00からご出発の11：00）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -593,7 +593,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/15400/15400_sg.jpg" alt="ベッセルホテル倉敷（倉敷ＩＣから１０分） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>『家族サイズで旅しよう』広い客室とゆったりベッドが自慢！ビジネスや倉敷観光の拠点に最適！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岡山県倉敷市松島1177-7 ／ 最寄り駅：中庄 ／ 交通案内：【ＪＲ中庄駅】から0.9km【ＪＲ倉敷駅】から4.4km【ＪＲ岡山駅】から12km</p>
+                  <p><strong>【所在地・アクセス】</strong>岡山県倉敷市松島1177-7 ／ 最寄り駅：中庄 ／ 交通案内：【ＪＲ中庄駅】から0.9km【ＪＲ倉敷駅】から4.4km【ＪＲ岡山駅】から12km</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料88台（6m以上は有料1泊1,200円(税込)。事前にお問い合わせください）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

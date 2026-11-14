@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/couples-anniversary-private-villa-hanare/"
   };
 
@@ -186,6 +186,12 @@ export default function Page() {
           </p>
         </div>
 
+        <div className="pt-2">
+          <ShareButtons
+            title="二人だけの静寂と贅沢！全室離れ・客室露天風呂付き大人の隠れ家おこもり宿"
+            url="https://croud-travel.pages.dev/couples-anniversary-private-villa-hanare/"
+          />
+        </div>
         {/* クーポン特大バナー */}
         <SpecialCouponBanner />
 
@@ -306,11 +312,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">二人だけの静寂と贅沢！全室離れ・客室露天風呂付き大人の隠れ家おこもり宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「二人だけの静寂と贅沢！全室離れ・客室露天風呂付き大人の隠れ家おこもり宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「二人だけの静寂と贅沢！全室離れ・客室露天風呂付き大人の隠れ家おこもり宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -374,7 +380,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/72871/72871_gr.jpg" alt="由布院温泉　湯富里の宿　一壷天 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>一壷天では、古(骨董品）、新、和、洋のしつらいが見事にとけ合った大人の空間と時間をご堪能下さい</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大分県由布市湯布院町川上302-7 ／ 最寄り駅：由布院 ／ 交通案内：車/湯布院ICから県道216号。湯布院幹部交番を左折（7分）電車/JR由布院駅下車、車で約5分（2.5km）</p>
+                  <p><strong>【所在地・アクセス】</strong>大分県由布市湯布院町川上302-7 ／ 最寄り駅：由布院 ／ 交通案内：車/湯布院ICから県道216号。湯布院幹部交番を左折（7分）電車/JR由布院駅下車、車で約5分（2.5km）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料で15台停められます。予約は不要です。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -396,7 +402,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/76377/76377_kan.jpg" alt="由布院温泉　朝霧のみえる宿　ゆふいん花由 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【湯布院随一の絶景＆眺望★★★★★】お客様評価5つ星！由布岳を望む眺望とPH9.2の温泉自慢の宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大分県由布市湯布院町川北913-11 ／ 最寄り駅：由布院 ／ 交通案内：■湯布院ＩＣから車1分■由布院駅から車で７分程でございます。■無料送迎もございます（電話にて要予約）</p>
+                  <p><strong>【所在地・アクセス】</strong>大分県由布市湯布院町川北913-11 ／ 最寄り駅：由布院 ／ 交通案内：■湯布院ＩＣから車1分■由布院駅から車で７分程でございます。■無料送迎もございます（電話にて要予約）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>■20台程停められる広めの無料駐車場があり、予約は不要です。【フロント・ロビー/Wi-Fi完備】</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -418,7 +424,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/104780/104780_sa.jpg" alt="由布院温泉　お宿　有楽 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>由布院駅や湯の坪街道にも徒歩約５分の位置にある母屋と離れ全１０室のおもてなし宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大分県由布市湯布院町川上2868-5 ／ 最寄り駅：由布院 ／ 交通案内：ＪＲ　由布院駅より徒歩にて約5分</p>
+                  <p><strong>【所在地・アクセス】</strong>大分県由布市湯布院町川上2868-5 ／ 最寄り駅：由布院 ／ 交通案内：ＪＲ　由布院駅より徒歩にて約5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　9台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

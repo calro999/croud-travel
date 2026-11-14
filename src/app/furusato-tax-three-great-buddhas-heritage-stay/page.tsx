@@ -238,7 +238,7 @@ export default function Page() {
         <section className="space-y-10">
           <div className="text-center space-y-2">
             <h2 className="text-2xl md:text-3xl font-bold text-slate-900">楽天ふるさと納税で泊まる名宿＆厳選ホテル</h2>
-            <p className="text-xs md:text-sm text-slate-500">楽天トラベル公式APIより最新の宿情報・写真・最低参考価格を取得しています
+            <p className="text-xs md:text-sm text-slate-500">宿泊施設データより最新の宿情報・写真・最低参考価格を取得しています
             </p>
           </div>
 
@@ -541,11 +541,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大仏＆歴史古都の門前町・国宝仏閣と伝統会席宿×ふるさと納税厳選ガイド奈良・鎌倉・高岡大仏：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本三大仏＆歴史古都の門前町・国宝仏閣と伝統会席宿×ふるさと納税厳選ガイド奈良・鎌倉・高岡大仏」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「日本三大仏＆歴史古都の門前町・国宝仏閣と伝統会席宿×ふるさと納税厳選ガイド奈良・鎌倉・高岡大仏」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -609,7 +609,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8692/8692_rm.jpg" alt="ホテルニューわかさ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>奈良公園・東大寺まで徒歩5分！世界遺産を見渡せる屋上庭園や華やかな懐石料理で奈良をたっぷり味わえる宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 奈良県奈良市北半田東町1 ／ 最寄り駅：近鉄奈良 ／ 交通案内：車：名神高速道路京都南ICより60分　電車：近鉄奈良線近鉄奈良駅</p>
+                  <p><strong>【所在地・アクセス】</strong>奈良県奈良市北半田東町1 ／ 最寄り駅：近鉄奈良 ／ 交通案内：車：名神高速道路京都南ICより60分　電車：近鉄奈良線近鉄奈良駅</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　車40台バス6台　15時から１０時無料（時間外有料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.63 ／ 立地 ★4.5 ／ 部屋 ★4.62 ／ 設備 ★4.57 ／ 風呂 ★4.54 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -631,7 +631,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31648/31648_t.jpg" alt="鎌倉パークホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ヨーロッパのインテリアが配された落ち着いた雰囲気のアーバンリゾートホテル。大仏などの観光にも便利。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県鎌倉市坂ノ下33-6 ／ 最寄り駅：鎌倉 ／ 交通案内：ＪＲ鎌倉駅よりタクシーにて１０～１５分(平常時）。江ノ電長谷駅より徒歩約１３分。</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県鎌倉市坂ノ下33-6 ／ 最寄り駅：鎌倉 ／ 交通案内：ＪＲ鎌倉駅よりタクシーにて１０～１５分(平常時）。江ノ電長谷駅より徒歩約１３分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有 ６０台。チェックイン日は午前中から無料、チェックアウト後は１４時まで無料、それ以降は有料です。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -653,7 +653,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/146844/146844.jpg" alt="ホテルクラウンヒルズ高岡駅前（ＢＢＨホテルグループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>高岡駅から徒歩１分！大浴場、夕食、アルコールサービス等無料サービス充実！観光・ビジネスにオススメ♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 富山県高岡市駅南5-3-3 ／ 最寄り駅：高岡 ／ 交通案内：高岡駅瑞龍寺口より徒歩１分/新高岡駅よりバス8分/富山空港より車タクシーで約40分/高岡インターチェンジより10分</p>
+                  <p><strong>【所在地・アクセス】</strong>富山県高岡市駅南5-3-3 ／ 最寄り駅：高岡 ／ 交通案内：高岡駅瑞龍寺口より徒歩１分/新高岡駅よりバス8分/富山空港より車タクシーで約40分/高岡インターチェンジより10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル駐車場１泊５００円（先着順）満車の際は近隣コインパーキング（３００円～）へのご案内となります。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -668,7 +668,7 @@ export default function Page() {
 
       {/* フッター */}
       <footer className="bg-slate-950 text-slate-400 py-8 px-4 text-center text-xs border-t border-slate-800">
-        <p>© 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の楽天トラベル公式APIに基づきます。</p>
+        <p>© 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の宿泊施設データに基づきます。</p>
       </footer>
     
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

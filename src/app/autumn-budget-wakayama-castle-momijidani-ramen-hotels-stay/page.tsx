@@ -285,11 +285,11 @@ export default function AutumnBudgetWakayamaHotelsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">和歌山：和歌山城紅葉渓庭園と中華そば！2,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「和歌山：和歌山城紅葉渓庭園と中華そば！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「和歌山：和歌山城紅葉渓庭園と中華そば！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -371,7 +371,7 @@ export default function AutumnBudgetWakayamaHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1191/1191_tw.jpg" alt="ホテルグランヴィア和歌山 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>チェックイン前・チェックアウト後のお荷物一時預り（当日引取り限定）遠慮なくフロント係に申付け下さい。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県和歌山市友田町5-18 ／ 最寄り駅：和歌山 ／ 交通案内：JR和歌山駅中央口から徒歩2分！近鉄百貨店様と同じビル</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県和歌山市友田町5-18 ／ 最寄り駅：和歌山 ／ 交通案内：JR和歌山駅中央口から徒歩2分！近鉄百貨店様と同じビル</p>
                   <p><strong>【駐車場・マイカー利用】</strong>1泊1000円★近鉄百貨店様と同じ立体駐車場の最上階からホテル連絡通路利用★24時間入出庫自由</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.32 ／ 部屋 ★4.24 ／ 設備 ★4.14 ／ 風呂 ★4.1 ／ 食事 ★4.38</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -393,7 +393,7 @@ export default function AutumnBudgetWakayamaHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1256/1256_fro.jpg" alt="川湯温泉　冨士屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>河原を掘ればお湯が湧く！世界遺産・熊野古道歩きのお疲れを山野草の中で癒して下さい。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県田辺市本宮町川湯1452 ／ 最寄り駅：新宮 ／ 交通案内：JR新宮駅よりバス1時間。JR紀伊田辺駅からもバス便あり。（ふじや前下車。）名古屋方面　紀勢道大宮大台IC開通しました！</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県田辺市本宮町川湯1452 ／ 最寄り駅：新宮 ／ 交通案内：JR新宮駅よりバス1時間。JR紀伊田辺駅からもバス便あり。（ふじや前下車。）名古屋方面　紀勢道大宮大台IC開通しました！</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有（無料・３０台・屋外）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -415,7 +415,7 @@ export default function AutumnBudgetWakayamaHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1537/1537_twn.jpg" alt="メルキュール和歌山串本リゾート＆スパ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>本州最南端の地でオールインクルーシブステイ！幻想的な朝日・夕日を満喫できるオールインクルーシブホテル</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県東牟婁郡串本町サンゴ台1184-10 ／ 最寄り駅：串本 ／ 交通案内：南紀白浜よりお車で約60分。那智勝浦からお車で約40分。JR串本駅からお車で約5分。無料送迎バス有</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県東牟婁郡串本町サンゴ台1184-10 ／ 最寄り駅：串本 ／ 交通案内：南紀白浜よりお車で約60分。那智勝浦からお車で約40分。JR串本駅からお車で約5分。無料送迎バス有</p>
                   <p><strong>【駐車場・マイカー利用】</strong>乗用車駐車台数198台(内　障がい者用3台) 屋外駐車場無料　事前予約は承っておりません。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -437,7 +437,7 @@ export default function AutumnBudgetWakayamaHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2909/2909_view.jpg" alt="白浜温泉　白良荘グランドホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>白良浜まで直通徒歩30秒！海を一望する温泉と海の幸を中心とした会席料理で贅沢な時間を。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県西牟婁郡白浜町868 ／ 最寄り駅：白浜 ／ 交通案内：JR白浜駅よりタクシー・路線バス・車で約10分 南紀白浜空港より車で約10分  アドベンチャーワールドより車で約10分</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県西牟婁郡白浜町868 ／ 最寄り駅：白浜 ／ 交通案内：JR白浜駅よりタクシー・路線バス・車で約10分 南紀白浜空港より車で約10分  アドベンチャーワールドより車で約10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>屋外無料駐車場（約70台）13時&amp;amp;#12316;翌11時。時間外は有料につき公式HPを御確認下さい</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -459,7 +459,7 @@ export default function AutumnBudgetWakayamaHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4737/4737_heya.jpg" alt="一乗院 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>高野山の中央に位置する宿坊寺院です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県伊都郡高野町高野山606 ／ 最寄り駅：極楽橋 ／ 交通案内：南海高野線極楽橋駅～高野山駅迄ケーブルカーで５分。　高野山駅前～千手院橋バス停迄南海りんかんバスで約20分、下車徒歩5分</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県伊都郡高野町高野山606 ／ 最寄り駅：極楽橋 ／ 交通案内：南海高野線極楽橋駅～高野山駅迄ケーブルカーで５分。　高野山駅前～千手院橋バス停迄南海りんかんバスで約20分、下車徒歩5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.55 ／ 立地 ★4.53 ／ 部屋 ★4.49 ／ 設備 ★4.51 ／ 風呂 ★4.37 ／ 食事 ★4.71</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

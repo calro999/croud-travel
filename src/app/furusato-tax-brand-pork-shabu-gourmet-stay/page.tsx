@@ -592,11 +592,11 @@ export default function FurusatoFeaturePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">銘柄豚・極上しゃぶしゃぶ料理の名湯宿×ふるさと納税厳選ガイド鹿児島黒豚・平田牧場金華豚・那須高原豚の美食旅：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「銘柄豚・極上しゃぶしゃぶ料理の名湯宿×ふるさと納税厳選ガイド鹿児島黒豚・平田牧場金華豚・那須高原豚の美食旅」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「銘柄豚・極上しゃぶしゃぶ料理の名湯宿×ふるさと納税厳選ガイド鹿児島黒豚・平田牧場金華豚・那須高原豚の美食旅」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -687,7 +687,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/44034/44034_da.jpg" alt="霧島温泉郷　霧島みやまホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【貸切風呂★無料】リピーターが多い調理長の創作料理と、無料貸切できる3つの露天、2つの内湯が大好評！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県霧島市牧園町高千穂3900-3 ／ 最寄り駅：霧島神宮 ／ 交通案内：JR霧島神宮駅より車で15分/霧島温泉駅より車で15分　横川ICより車で20分/溝辺鹿児島空港ICより車で25分</p>
+                  <p><strong>【所在地・アクセス】</strong>鹿児島県霧島市牧園町高千穂3900-3 ／ 最寄り駅：霧島神宮 ／ 交通案内：JR霧島神宮駅より車で15分/霧島温泉駅より車で15分　横川ICより車で20分/溝辺鹿児島空港ICより車で25分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -709,7 +709,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/15962/15962_room.jpg" alt="指宿温泉　いぶすき秀水園 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>南薩摩の湯の里指宿にて心尽くしの料理とやすらぎのひとときを…</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県指宿市湯の浜5-27-27 ／ 最寄り駅：指宿 ／ 交通案内：ＪＲ指宿枕崎線指宿駅まで送迎あり／九州自動車道谷山インターより５０分</p>
+                  <p><strong>【所在地・アクセス】</strong>鹿児島県指宿市湯の浜5-27-27 ／ 最寄り駅：指宿 ／ 交通案内：ＪＲ指宿枕崎線指宿駅まで送迎あり／九州自動車道谷山インターより５０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.76 ／ 立地 ★4.55 ／ 部屋 ★4.55 ／ 設備 ★4.45 ／ 風呂 ★4.5 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -731,7 +731,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/76346/76346_ro.jpg" alt="指宿温泉　こらんの湯　錦江楼 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>美肌の湯（美肌成分のメタケイ酸を豊富に含む泉質）と桜島を望める和モダン旅館。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県指宿市西方4507 ／ 最寄り駅：宮ヶ浜 ／ 交通案内：JR指宿枕崎線　宮ヶ浜駅より徒歩9分（宮ケ浜駅からの送迎サービス有※要連絡）九州道終点から国道226号線を走って50分</p>
+                  <p><strong>【所在地・アクセス】</strong>鹿児島県指宿市西方4507 ／ 最寄り駅：宮ヶ浜 ／ 交通案内：JR指宿枕崎線　宮ヶ浜駅より徒歩9分（宮ケ浜駅からの送迎サービス有※要連絡）九州道終点から国道226号線を走って50分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　ホテル前に車60台分のスペースあり　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.39 ／ 立地 ★4.16 ／ 部屋 ★4.29 ／ 設備 ★4.12 ／ 風呂 ★4.25 ／ 食事 ★4.38</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -753,7 +753,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/141209/141209_kya.jpg" alt="湯の瀬温泉　湯の瀬旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>小さいお子様連れ大歓迎！日本最大級の大露天風呂。庄内の新鮮な魚介類を毎日仕入れています。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県鶴岡市戸沢神子谷103-2 ／ 最寄り駅：あつみ温泉 ／ 交通案内：あつみ温泉駅・鶴岡駅からお車で３０分</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県鶴岡市戸沢神子谷103-2 ／ 最寄り駅：あつみ温泉 ／ 交通案内：あつみ温泉駅・鶴岡駅からお車で３０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　2０台　無料　予約不要　大型もOK</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -775,7 +775,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31241/31241_room.jpg" alt="温海温泉　川端の宿　東屋旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>地元の素材を大切にした御料理と家庭的な雰囲気でおもてなしいたします。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県鶴岡市湯温海甲171 ／ 最寄り駅：あつみ温泉 ／ 交通案内：JR羽越線　あつみ温泉駅よりタクシーで約５分・バスで約８分／国道７号線　あつみ温泉入り口より約５分／庄内空港より５０分</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県鶴岡市湯温海甲171 ／ 最寄り駅：あつみ温泉 ／ 交通案内：JR羽越線　あつみ温泉駅よりタクシーで約５分・バスで約８分／国道７号線　あつみ温泉入り口より約５分／庄内空港より５０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　８台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -797,7 +797,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/54267/54267_he.jpg" alt="温海温泉　かしわや旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>素材が良いから料理が美味しい。庄内浜直送の新鮮な魚介類を使用してます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県鶴岡市湯温海甲191 ／ 最寄り駅：あつみ温泉 ／ 交通案内：羽越本線　あつみ温泉駅から車で６分</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県鶴岡市湯温海甲191 ／ 最寄り駅：あつみ温泉 ／ 交通案内：羽越本線　あつみ温泉駅から車で６分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　6台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

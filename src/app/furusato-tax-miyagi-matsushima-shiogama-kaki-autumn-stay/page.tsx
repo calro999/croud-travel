@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-miyagi-matsushima-shiogama-kaki-autumn-stay/"
   };
 
@@ -482,11 +482,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三景・松島＆塩竈の秋！松島湾の紅葉ライトアップ・解禁松島牡蠣＆極上三陸海鮮｜ふるさと納税で泊まれる名宿ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本三景・松島＆塩竈の秋！松島湾の紅葉ライトアップ・解禁松島牡蠣＆極上三陸海鮮｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「日本三景・松島＆塩竈の秋！松島湾の紅葉ライトアップ・解禁松島牡蠣＆極上三陸海鮮｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -550,7 +550,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7748/7748_war.jpg" alt="ホテル松島大観荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>■料理自慢の宿が提供する選べる2種のバイキング！■日本三景松島を一望！海と緑に囲まれたリゾートホテル</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮城県宮城郡松島町松島字犬田10-76 ／ 最寄り駅：松島海岸 ／ 交通案内：仙台駅よりJR仙石線乗車、松島海岸駅下車、ホテル無料シャトルバスで3分　　車は三陸道松島海岸ICより5分</p>
+                  <p><strong>【所在地・アクセス】</strong>宮城県宮城郡松島町松島字犬田10-76 ／ 最寄り駅：松島海岸 ／ 交通案内：仙台駅よりJR仙石線乗車、松島海岸駅下車、ホテル無料シャトルバスで3分　　車は三陸道松島海岸ICより5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場あり（200台）　※先着順となります。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -572,7 +572,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4964/4964_roten.jpg" alt="松島温泉　松島センチュリーホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>日本三景松島の中心部に位置し、主な観光施設へは徒歩圏内。目の前に広がる松島湾の風景は最高の贅沢。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮城県宮城郡松島町松島字仙随８番地 ／ 最寄り駅：松島海岸 ／ 交通案内：ＪＲ仙石線松島海岸駅下車徒歩10分、ＪＲ東北本線松島駅下車徒歩15分</p>
+                  <p><strong>【所在地・アクセス】</strong>宮城県宮城郡松島町松島字仙随８番地 ／ 最寄り駅：松島海岸 ／ 交通案内：ＪＲ仙石線松島海岸駅下車徒歩10分、ＪＲ東北本線松島駅下車徒歩15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -594,7 +594,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/29538/29538_kw.jpg" alt="松島温泉　ホテル絶景の館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>お部屋から刻々変化する180°のパノラマを体験しませんか</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮城県宮城郡松島町松島東浜4-6 ／ 最寄り駅：松島海岸 ／ 交通案内：仙石線 松島海岸駅・東北本線　松島駅　（15：00～21：00まで送迎有・予約不可）／三陸道松島ICより１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>宮城県宮城郡松島町松島東浜4-6 ／ 最寄り駅：松島海岸 ／ 交通案内：仙石線 松島海岸駅・東北本線　松島駅　（15：00～21：00まで送迎有・予約不可）／三陸道松島ICより１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料　４０台</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -236,7 +236,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -681,11 +681,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：森の宙に浮かぶ幻想空間！空中テント・ドームテント＆森林プライベートサウナ宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：森の宙に浮かぶ幻想空間！空中テント・ドームテント＆森林プライベートサウナ宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：森の宙に浮かぶ幻想空間！空中テント・ドームテント＆森林プライベートサウナ宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -714,7 +714,7 @@ export default function FeatureDetailPage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 由布院温泉グランピング　風の響き</td>
-                <td className="p-3 text-stone-600">福島県</td>
+                <td className="p-3 text-stone-600">大分県由布市湯布院町川上1314-1</td>
                 <td className="p-3 text-stone-600">ＪＲ由布院駅よりお車にて約7分/金鱗湖から車で5分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★5（46件）</td>
@@ -723,7 +723,7 @@ export default function FeatureDetailPage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. Ｔｈｅ　Ｖｉｌｌａｇｅ由布院　温泉グランピング</td>
-                <td className="p-3 text-stone-600">福島県</td>
+                <td className="p-3 text-stone-600">大分県由布市湯布院町川上1996-1</td>
                 <td className="p-3 text-stone-600">JR由布院駅から車で6分。湯布院インターチェンジから車で12分。金鱗湖</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.56（86件）</td>
@@ -732,7 +732,7 @@ export default function FeatureDetailPage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ＳＰＲＩＮＧＳ　ＶＩＬＬＡＧＥ　足柄・丹沢　温泉リゾート＆グランピング</td>
-                <td className="p-3 text-stone-600">福島県</td>
+                <td className="p-3 text-stone-600">神奈川県足柄上郡山北町中川448-2</td>
                 <td className="p-3 text-stone-600">新松田駅またはＪＲ谷峨駅から富士急湘南バス丹沢ホテル時之栖入口駅下車徒</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★3.39（236件）</td>
@@ -767,7 +767,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/171946/171946_kan1.jpg" alt="全室源泉かけ流し温泉付き旅館＆グランピング　美肌の湯　こしかの温泉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>温泉宿・グランピング全室で源泉掛け流しの天然炭酸泉が満喫できます。ペットOKの客室もございます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県霧島市隼人町松永2625 ／ 最寄り駅：日当山 ／ 交通案内：鹿児島空港より車で約15分【19時までなら鹿児島空港・国分駅まで無料送迎（要予約）】</p>
+                  <p><strong>【所在地・アクセス】</strong>鹿児島県霧島市隼人町松永2625 ／ 最寄り駅：日当山 ／ 交通案内：鹿児島空港より車で約15分【19時までなら鹿児島空港・国分駅まで無料送迎（要予約）】</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（無料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.55 ／ 立地 ★4.38 ／ 部屋 ★4.47 ／ 設備 ★4.51 ／ 風呂 ★4.68 ／ 食事 ★4.55</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -788,12 +788,12 @@ export default function FeatureDetailPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/187285/187285.jpg" alt="由布院温泉グランピング　風の響き 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「森の宙に浮かぶ幻想空間（空中テント・ドームテント＆森林プライベートサウナ宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ由布院駅よりお車にて約7分/金鱗湖から車で5分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>大分県由布市湯布院町川上1314-1の「由布院温泉グランピング 風の響き」（楽天トラベル評価5（45件）／1泊目安¥18,900〜）の魅力と宿泊ポイントを詳しく紹介。全棟温泉付のドームテント×手ぶらで本格グランピング×由布院の人気スポットまで車で５分。部屋タイプ選びのポイントや入浴・食事情報、交通アクセス・駐車場データ、楽天トラベルでの賢い予約方法を紹介します。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：ＪＲ由布院駅よりお車にて約7分/金鱗湖から車で5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「絶景のロケーションとおもてなしに心から癒やされました。」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「由布院温泉グランピング 風の響きでの快適な滞在とアクセス面の良さに満足したという評価が寄せられています。」
                   </blockquote>
                 </div>
               </div>
@@ -810,8 +810,8 @@ export default function FeatureDetailPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/180797/180797.jpg" alt="Ｔｈｅ　Ｖｉｌｌａｇｅ由布院　温泉グランピング 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「森の宙に浮かぶ幻想空間（空中テント・ドームテント＆森林プライベートサウナ宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：JR由布院駅から車で6分。湯布院インターチェンジから車で12分。金鱗湖まで車で8分。</p>
+                  <p><strong>【宿の特徴・魅力】</strong>楽天トラベルアワード2023受賞施設！源泉かけ流しの温泉と由布岳を望む絶景グランピング♪</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：JR由布院駅から車で6分。湯布院インターチェンジから車で12分。金鱗湖まで車で8分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -832,8 +832,8 @@ export default function FeatureDetailPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/149269/149269.jpg" alt="ＳＰＲＩＮＧＳ　ＶＩＬＬＡＧＥ　足柄・丹沢　温泉リゾート＆グランピング 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「森の宙に浮かぶ幻想空間（空中テント・ドームテント＆森林プライベートサウナ宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：新松田駅またはＪＲ谷峨駅から富士急湘南バス丹沢ホテル時之栖入口駅下車徒歩3分　車の場合大井松田ＩＣより車で30分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>神奈川県足柄上郡山北町中川448-2の「ＳＰＲＩＮＧＳ ＶＩＬＬＡＧＥ 足柄・丹沢 温泉リゾート＆グランピング」（楽天トラベル評価3.65（231件）／1泊目安¥6,100〜）の魅力と宿泊ポイントを詳しく紹介。神奈川県最大級のグランピングとホテルを複合した温泉リゾート「SPRINGS VILLAGE」。客室の特徴や館内設備、食事プラン、最寄り駅・駐車場アクセスからお得な予約のコツまで詳しくまとめました。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：新松田駅またはＪＲ谷峨駅から富士急湘南バス丹沢ホテル時之栖入口駅下車徒歩3分　車の場合大井松田ＩＣより車で30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -855,7 +855,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/184489/184489.jpg" alt="那須温泉グランピング　Ｎｅｎｎ（ネン） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>那須高原で天然温泉も楽しめる一味違ったグランピングで素敵な時間をお過ごしください。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県那須郡那須町高久甲5461-1 ／ 最寄り駅：那須塩原 ／ 交通案内：JR那須塩原駅より車で30分</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県那須郡那須町高久甲5461-1 ／ 最寄り駅：那須塩原 ／ 交通案内：JR那須塩原駅より車で30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">長野・志賀高原＆渋峠：日本国道最高地点・雲海テラス＆パウダースノー極上宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「長野・志賀高原＆渋峠：日本国道最高地点・雲海テラス＆パウダースノー極上宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「長野・志賀高原＆渋峠：日本国道最高地点・雲海テラス＆パウダースノー極上宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/39261/39261_kya.jpg" alt="志賀高原ロッヂ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>チェックイン13時～OK！貸切サウナ併設（要予約）ペット同伴可♪横手山渋峠＆熊の湯スキー場徒歩3分</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県下高井郡山ノ内町平穏7148-23 ／ 最寄り駅：湯田中 ／ 交通案内：湯田中駅からバスで45分ほたる温泉下車徒歩5分。信州中野ICから車で約40分。</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県下高井郡山ノ内町平穏7148-23 ／ 最寄り駅：湯田中 ／ 交通案内：湯田中駅からバスで45分ほたる温泉下車徒歩5分。信州中野ICから車で約40分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31423/31423_w.jpg" alt="志賀高原熊の湯・硯川温泉　にごり湯の宿硯川ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>熊の湯・硯川温泉に位置し、天然硫黄のにごり湯温泉です。トレッキング、スキーの疲れを癒して下さい。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県下高井郡山ノ内町平穏7148-10 ／ 最寄り駅：湯田中 ／ 交通案内：長野電鉄線　湯田中駅下車　バス４０分／上信越自動車道信州中野ＩＣ　国道２９２号経由３０分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県下高井郡山ノ内町平穏7148-10 ／ 最寄り駅：湯田中 ／ 交通案内：長野電鉄線　湯田中駅下車　バス４０分／上信越自動車道信州中野ＩＣ　国道２９２号経由３０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　６０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/30840/30840_u.jpg" alt="熊の湯温泉　熊の湯ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>由緒ある源泉掛け流しの硫黄泉は総檜造りで好評です。日によって透明な緑から乳緑色まで変化します。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県下高井郡山ノ内町平穏7148 ／ 最寄り駅：湯田中 ／ 交通案内：私鉄長野電鉄湯田中駅下車　長電バス熊の湯硯川行　熊の湯下車０分／上信越自動車道信州中野ＩＣ下車Ｒ２９２号線経由約３０ｋｍ</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県下高井郡山ノ内町平穏7148 ／ 最寄り駅：湯田中 ／ 交通案内：私鉄長野電鉄湯田中駅下車　長電バス熊の湯硯川行　熊の湯下車０分／上信越自動車道信州中野ＩＣ下車Ｒ２９２号線経由約３０ｋｍ</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　２５０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7379/7379_heya.jpg" alt="志賀高原　ホテル一望閣 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2023年コンドミニアム新客室OPEN★乳緑色が珍しい100％天然かけ流し温泉が自慢★日本一のホタル</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県下高井郡山ノ内町大字平穏7148-31 ／ 最寄り駅：長野 ／ 交通案内：上信越道信州中野ＩＣより国道２９２号線にて４５分。ＪＲ長野駅より急行バス８０分又は長電特急電車５０分＆バス利用４５分。</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県下高井郡山ノ内町大字平穏7148-31 ／ 最寄り駅：長野 ／ 交通案内：上信越道信州中野ＩＣより国道２９２号線にて４５分。ＪＲ長野駅より急行バス８０分又は長電特急電車５０分＆バス利用４５分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５０台。　当館前が満車の場合は徒歩３～４分の共同駐車場となります。共に無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31838/31838_k.jpg" alt="志賀高原発哺温泉　岩菅ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>東館山ゴンドラリフト乗り場横！標高1600Mから眺める北アルプスのパノラマにうっとり♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県下高井郡山ノ内町志賀高原7149 ／ 最寄り駅：湯田中 ／ 交通案内：長野電鉄　湯田中駅よりバスにて４０分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県下高井郡山ノ内町志賀高原7149 ／ 最寄り駅：湯田中 ／ 交通案内：長野電鉄　湯田中駅よりバスにて４０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　２０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/147144/147144_kan1.jpg" alt="志賀高原　ホテルタキモト 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>身も心も美味しいオーベルジュ。創作料理と天然温泉,志賀高原随一の大パノラマを堪能。ゲレンデ徒歩３分</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県下高井郡山ノ内町平穏7149-16 ／ 最寄り駅：湯田中 ／ 交通案内：高天ヶ原バス停より徒歩にて約２分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県下高井郡山ノ内町平穏7149-16 ／ 最寄り駅：湯田中 ／ 交通案内：高天ヶ原バス停より徒歩にて約２分</p>
                   <p>【長野・志賀高原＆渋峠：日本国道最高地点・雲海テラス＆】 <strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

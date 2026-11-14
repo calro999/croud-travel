@@ -77,7 +77,7 @@ export default function ArticlePage() {
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.13 更新</time>
           <span>執筆：旅宿クラウド ひとり旅・出張調査班</span>
-          <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式API提携</span>
+          <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">編集部が厳選</span>
         </div>
 
         {/* リード文 */}
@@ -89,7 +89,7 @@ export default function ArticlePage() {
             四国最大の人口を誇り、商業・金融・行政の中枢である愛媛県・松山市。道後温泉本館をはじめとする温泉文化が街全体に根づくこの街は、出張ビジネスの滞在先としても全国屈指の温浴クオリティを誇ります。
           </p>
           <p>
-            サウナシュランを受賞したメガスパ施設併設の最新ホテルから、道後温泉の引き湯に浸かれる市街地ホテルまで、楽天トラベル公式APIより直接取得した最新データをもとに厳選紹介します。
+            サウナシュランを受賞したメガスパ施設併設の最新ホテルから、道後温泉の引き湯に浸かれる市街地ホテルまで、宿泊施設データより直接取得した最新データをもとに厳選紹介します。
           </p>
         </div>
       </header>
@@ -345,7 +345,7 @@ export default function ArticlePage() {
           <p className="text-sm text-amber-100 mb-6 max-w-2xl mx-auto">平日限定の一人旅割引や、早期割・直前割など、楽天トラベルならではの特典プランが多数用意されています。人気日程は早めの予約がおすすめです。
           </p>
           <a
-            href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2F"
+            href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fsearch.travel.rakuten.co.jp%2Fds%2Fundated%2Fsearch%3Ff_query%3D%25E6%259D%25BE%25E5%25B1%25B1%25E5%2587%25BA%25E5%25BC%25B5%25E3%2583%25BB%25E6%25A5%25B5%25E4%25B8%258A%25E3%2582%25B5%25E3%2582%25A6%25E3%2583%258A%25E5%25A4%25A9%25E7%2584%25B6%25E6%25B8%25A9%25E6%25B3%2589%25EF%25BC%259A"
             target="_blank"
             rel="sponsored noopener noreferrer"
             className="inline-flex items-center justify-center bg-white text-amber-900 font-bold px-8 py-3 rounded-xl shadow-lg hover:bg-amber-50 transition transform hover:-translate-y-0.5 text-sm sm:text-base"
@@ -428,11 +428,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">松山出張・極上サウナ天然温泉：道後温泉引き湯・サウナシュラン新名所・大街道グルメ！四国最大の都を極める厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「松山出張・極上サウナ天然温泉：道後温泉引き湯・サウナシュラン新名所・大街道グルメ！四国最大の都を極める厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「松山出張・極上サウナ天然温泉：道後温泉引き湯・サウナシュラン新名所・大街道グルメ！四国最大の都を極める厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -496,7 +496,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/188927/188927.jpg" alt="サウナ＆スパホテル　喜助の宿　松山駅前店 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>サウナランキング2023で日本１位を受賞した5つのサウナと地下1,700ｍから湧き出た天然温泉</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛媛県松山市宮田町4　キスケＢＯＸ2階 ／ 最寄り駅：松山（愛媛） ／ 交通案内：ＪＲ　松山駅より徒歩約３分</p>
+                  <p><strong>【所在地・アクセス】</strong>愛媛県松山市宮田町4　キスケＢＯＸ2階 ／ 最寄り駅：松山（愛媛） ／ 交通案内：ＪＲ　松山駅より徒歩約３分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　1,109台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.44 ／ 立地 ★4.51 ／ 部屋 ★4.53 ／ 設備 ★4.6 ／ 風呂 ★4.68</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -518,7 +518,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/165105/165105.jpg" alt="天然温泉　石手の湯　ドーミーイン松山（ドーミーイン・御宿野乃　ホテルズグループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>伊予鉄城南線　大街道駅より徒歩２分の好立地。最上階には天然温泉大浴場！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛媛県松山市大街道2-6-5 ／ 最寄り駅：主要駅 ／ 交通案内：伊予鉄城南線「大街道」徒歩2分／伊予鉄「松山市駅」徒歩13分／空港リムジンバス30分／松山自動車道「松山ＩＣ」より25分</p>
+                  <p><strong>【所在地・アクセス】</strong>愛媛県松山市大街道2-6-5 ／ 交通案内：伊予鉄城南線「大街道」徒歩2分／伊予鉄「松山市駅」徒歩13分／空港リムジンバス30分／松山自動車道「松山ＩＣ」より25分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル併設駐車場5台(先着順  1,000/泊)。周辺に提携駐車場が4ヶ所ございます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -540,7 +540,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/19414/19414_kan.jpg" alt="天然温泉　松山ニューグランドホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【疲労回復・美肌・快眠】源泉かけ流し天然温泉大浴場オールナイト営業^^/　高速Wi-Fi完備♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛媛県松山市二番町３丁目４－１０ ／ 最寄り駅：松山（愛媛） ／ 交通案内：◆提携駐車場複数有！　◆松山ＩＣからお車で約２０分　◆松山空港からバスで約３０分　◆路面電車【大街道】下車⇒徒歩約４分</p>
+                  <p><strong>【所在地・アクセス】</strong>愛媛県松山市二番町３丁目４－１０ ／ 最寄り駅：松山（愛媛） ／ 交通案内：◆提携駐車場複数有！　◆松山ＩＣからお車で約２０分　◆松山空港からバスで約３０分　◆路面電車【大街道】下車⇒徒歩約４分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>提携先駐車場の詳細は「アクセス・駐車場」→「提携駐車場」をご確認ください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.26 ／ 立地 ★4.22 ／ 部屋 ★4.16 ／ 設備 ★4.15 ／ 風呂 ★4.36 ／ 食事 ★3.88</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

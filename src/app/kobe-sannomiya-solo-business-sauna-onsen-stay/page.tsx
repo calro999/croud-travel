@@ -77,7 +77,7 @@ export default function ArticlePage() {
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.13 更新</time>
           <span>執筆：旅宿クラウド ひとり旅・出張調査班</span>
-          <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式API提携</span>
+          <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">編集部が厳選</span>
         </div>
 
         {/* リード文 */}
@@ -89,7 +89,7 @@ export default function ArticlePage() {
             異国情緒漂う北野異人館や旧居留地、そしてメリケンパークのハーバービューが広がる神戸の中心地・三宮。関西の主要ビジネス拠点でありながら、洗練されたカフェやバー、そして全国からサウナーが集う名門サウナが点在します。
           </p>
           <p>
-            サウナ愛好家なら一度は訪れるべき歴史的名門サウナホテルから、デザインと快適性を両立した次世代ホテルまで、楽天トラベル公式APIより直接取得した最新データをもとに厳選紹介します。
+            サウナ愛好家なら一度は訪れるべき歴史的名門サウナホテルから、デザインと快適性を両立した次世代ホテルまで、宿泊施設データより直接取得した最新データをもとに厳選紹介します。
           </p>
         </div>
       </header>
@@ -347,7 +347,7 @@ export default function ArticlePage() {
           <p className="text-sm text-amber-100 mb-6 max-w-2xl mx-auto">平日限定の一人旅割引や、早期割・直前割など、楽天トラベルならではの特典プランが多数用意されています。人気日程は早めの予約がおすすめです。
           </p>
           <a
-            href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2F"
+            href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fsearch.travel.rakuten.co.jp%2Fds%2Fundated%2Fsearch%3Ff_query%3D%25E7%25A5%259E%25E6%2588%25B8%25E4%25B8%2589%25E5%25AE%25AE%25E5%2587%25BA%25E5%25BC%25B5%25E3%2583%25BB%25E6%25A5%25B5%25E4%25B8%258A%25E3%2582%25B5%25E3%2582%25A6%25E3%2583%258A%25E3%2582%25B9%25E3%2583%2586%25E3%2582%25A4"
             target="_blank"
             rel="sponsored noopener noreferrer"
             className="inline-flex items-center justify-center bg-white text-amber-900 font-bold px-8 py-3 rounded-xl shadow-lg hover:bg-amber-50 transition transform hover:-translate-y-0.5 text-sm sm:text-base"
@@ -430,11 +430,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">神戸三宮出張・極上サウナステイ：サウナシュラン殿堂の聖地・異人館港町夜景・神戸牛！関西屈指の洗練都市を極める厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「神戸三宮出張・極上サウナステイ：サウナシュラン殿堂の聖地・異人館港町夜景・神戸牛！関西屈指の洗練都市を極める厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「神戸三宮出張・極上サウナステイ：サウナシュラン殿堂の聖地・異人館港町夜景・神戸牛！関西屈指の洗練都市を極める厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -516,7 +516,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/20516/20516_room.jpg" alt="神戸サウナ＆スパ（ホテルカプセルイン神戸） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>各線三宮駅から５分。天然温泉・サウナを24時間ご利用可　メインサウナリニューアル完成!</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県神戸市中央区下山手通2-2-10 ／ 最寄り駅：三宮 ／ 交通案内：ＪＲ・阪急・阪神・市営地下鉄「三宮駅」から徒歩５分、新神戸駅から一駅です。</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県神戸市中央区下山手通2-2-10 ／ 最寄り駅：三宮 ／ 交通案内：ＪＲ・阪急・阪神・市営地下鉄「三宮駅」から徒歩５分、新神戸駅から一駅です。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場 、P-CLUB…20〜翌10時/1200円 等</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.5 ／ 部屋 ★4.37 ／ 設備 ★4.49 ／ 風呂 ★4.61 ／ 食事 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -538,7 +538,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/164/164_ky.jpg" alt="ＡＮＡクラウンプラザホテル神戸　ｂｙ　ＩＨＧ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>神戸の陸の玄関口、新神戸駅直結の37階高層ホテル。アクセス抜群！大阪まで約25分。全室Wi-fi無料</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県神戸市中央区北野町1 ／ 最寄り駅：新神戸 ／ 交通案内：新幹線・地下鉄「新神戸駅」直結 。三宮まで１駅2分。大阪まで約25分。</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県神戸市中央区北野町1 ／ 最寄り駅：新神戸 ／ 交通案内：新幹線・地下鉄「新神戸駅」直結 。三宮まで１駅2分。大阪まで約25分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>650台(1台1,500円/泊)　※クラブフロア宿泊者は1室1台無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -560,7 +560,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/812/812_si.jpg" alt="姫路城下町　ホテルクレール日笠 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2022年★改装客室OPEN★駅チカ×江戸風湯屋有り</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県姫路市十二所前町22番地 ／ 最寄り駅：姫路 ／ 交通案内：姫路駅より徒歩約５分、駅と姫路城の中間に位置し、姫路城へも徒歩圏内。山陽姫路東IC又は山陽姫路西ICより車にて約２０分</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県姫路市十二所前町22番地 ／ 最寄り駅：姫路 ／ 交通案内：姫路駅より徒歩約５分、駅と姫路城の中間に位置し、姫路城へも徒歩圏内。山陽姫路東IC又は山陽姫路西ICより車にて約２０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有20台　１泊 普通車880円税込、（要予約・ご予約順）　※大型車駐車可、問合せ下さい。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -582,7 +582,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1203/1203_syo.jpg" alt="料亭旅館　ほてるＩＳＡＧＯ神戸 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>料理口コミ高評価！証明書付き神戸牛会席は絶品♪新神戸駅徒歩5分、貸切天然温泉が人気の和モダン旅館</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県神戸市中央区熊内町4-3-7 ／ 最寄り駅：新神戸 ／ 交通案内：ＪＲ新幹線・新神戸駅から徒歩5分。北野異人館・ハーバーランド至近。有馬温泉まで車で30分。USJまで約40分。</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県神戸市中央区熊内町4-3-7 ／ 最寄り駅：新神戸 ／ 交通案内：ＪＲ新幹線・新神戸駅から徒歩5分。北野異人館・ハーバーランド至近。有馬温泉まで車で30分。USJまで約40分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -604,7 +604,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1206/1206_heya.jpg" alt="神戸牛と有馬温泉　天然金泉・銀泉の宿　有馬御苑 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【楽天ゴールド＆日本の宿アワード受賞】部屋食プラン多数★温泉街すぐ！金銀２種の温泉と神戸牛が自慢♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県神戸市北区有馬町1296 ／ 最寄り駅：有馬温泉 ／ 交通案内：神戸電鉄線有馬温泉駅から徒歩２分、阪急バス有馬停より徒歩２分、阪神高速有馬口ＩＣより車３分、中国道西宮北ＩＣより車１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県神戸市北区有馬町1296 ／ 最寄り駅：有馬温泉 ／ 交通案内：神戸電鉄線有馬温泉駅から徒歩２分、阪急バス有馬停より徒歩２分、阪神高速有馬口ＩＣより車３分、中国道西宮北ＩＣより車１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有（50台）ご宿泊者様は利用室数分まで無料　※場所が分かりづらいため当館HPアクセスページ参照下さい</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

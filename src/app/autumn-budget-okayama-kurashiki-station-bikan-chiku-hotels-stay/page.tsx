@@ -376,11 +376,11 @@ export default function AutumnBudgetHotelsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">倉敷駅前：美観地区白壁の町並み＆名物ままかり！2,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「倉敷駅前：美観地区白壁の町並み＆名物ままかり！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「倉敷駅前：美観地区白壁の町並み＆名物ままかり！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -453,7 +453,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/75332/75332_room.jpg" alt="アパホテル〈倉敷駅前〉 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>倉敷駅南口隣接の徒歩1分！美観地区・三井アウトレットへも便利です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岡山県倉敷市阿知1-7-2 JR倉敷駅前西ビル9階-12階 ／ 最寄り駅：倉敷 ／ 交通案内：倉敷駅南口から徒歩1分！駅1階からお越しになれば雨の日も快適チェックイン。</p>
+                  <p><strong>【所在地・アクセス】</strong>岡山県倉敷市阿知1-7-2 JR倉敷駅前西ビル9階-12階 ／ 最寄り駅：倉敷 ／ 交通案内：倉敷駅南口から徒歩1分！駅1階からお越しになれば雨の日も快適チェックイン。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場『カモ井パーキング』24時間1,000円（フロント精算）※途中出庫不可・到着順案内</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -475,7 +475,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/179392/179392.jpg" alt="ホテルリブマックス岡山倉敷駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【おかやま旅応援割】加盟店舗☆2020年5月ＯＰＥＮ☆電子レンジ＆空気清浄機充実のルームアイテム♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岡山県倉敷市阿知1-5-13 ／ 最寄り駅：倉敷 ／ 交通案内：ＪＲ山陽本線　倉敷駅より徒歩2分♪</p>
+                  <p><strong>【所在地・アクセス】</strong>岡山県倉敷市阿知1-5-13 ／ 最寄り駅：倉敷 ／ 交通案内：ＪＲ山陽本線　倉敷駅より徒歩2分♪</p>
                   <p><strong>【駐車場・マイカー利用】</strong>近隣にコインパーキングあり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.86 ／ 立地 ★4 ／ 部屋 ★4.02 ／ 設備 ★3.87 ／ 風呂 ★3.77</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -497,7 +497,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/108342/108342.jpg" alt="東横ＩＮＮ倉敷駅南口 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR倉敷駅から徒歩5分で朝食・小学生以下添い寝無料のホテル！倉敷美観地区まで徒歩5分</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岡山県倉敷市阿知2-10-20 ／ 最寄り駅：倉敷 ／ 交通案内：JR倉敷駅より美観地区方面に徒歩5分</p>
+                  <p><strong>【所在地・アクセス】</strong>岡山県倉敷市阿知2-10-20 ／ 最寄り駅：倉敷 ／ 交通案内：JR倉敷駅より美観地区方面に徒歩5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場有　1泊￥700　立体駐車場（32台）　先着順　高さ制限有：155cmまで</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.08 ／ 立地 ★4.03 ／ 部屋 ★4.03 ／ 設備 ★4.02 ／ 風呂 ★3.93 ／ 食事 ★4.04</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -519,7 +519,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/130504/130504_kya.jpg" alt="倉敷駅前ユニバーサルホテル（ユニバーサルホテルチェーン） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>倉敷駅より800ｍ／美観地区徒歩1分／朝食夕食無料!／大浴場＆サウナ!／WiFi全室完備！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岡山県倉敷市中央2-1-15 ／ 最寄り駅：倉敷 ／ 交通案内：倉敷駅より800ｍ</p>
+                  <p><strong>【所在地・アクセス】</strong>岡山県倉敷市中央2-1-15 ／ 最寄り駅：倉敷 ／ 交通案内：倉敷駅より800ｍ</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　1泊1,100円（税込　16時〜翌日10時）　予約不可先着順　※10時〜16時は」別途料金発生</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.86 ／ 立地 ★3.9 ／ 部屋 ★3.76 ／ 設備 ★3.72 ／ 風呂 ★3.79 ／ 食事 ★3.88</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

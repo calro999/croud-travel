@@ -376,11 +376,11 @@ export default function AutumnBudgetHotelsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">徳島駅前：眉山の秋パノラマ展望＆濃厚徳島ラーメン！4,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「徳島駅前：眉山の秋パノラマ展望＆濃厚徳島ラーメン！4,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「徳島駅前：眉山の秋パノラマ展望＆濃厚徳島ラーメン！4,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -462,7 +462,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/149130/149130.jpg" alt="ダイワロイネットホテル徳島駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR「徳島駅」より徒歩約1分■1階コンビニ有■バス・トイレ別客室有■徳島産素材使用の朝食メニュー有</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 徳島県徳島市寺島本町東3丁目8番地 ／ 最寄り駅：徳島 ／ 交通案内：JR「徳島駅」より徒歩約1分 。「徳島阿波おどり空港」よりリムジンバスで（約30分）「徳島駅」下車、徒歩約1分。</p>
+                  <p><strong>【所在地・アクセス】</strong>徳島県徳島市寺島本町東3丁目8番地 ／ 最寄り駅：徳島 ／ 交通案内：JR「徳島駅」より徒歩約1分 。「徳島阿波おどり空港」よりリムジンバスで（約30分）「徳島駅」下車、徒歩約1分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場 先着順1泊(14時〜翌11時)1,000円／税込※車高2.0m以下・22時〜7時入庫不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.35 ／ 立地 ★4.39 ／ 部屋 ★4.38 ／ 設備 ★4.31 ／ 風呂 ★4.29 ／ 食事 ★4.16</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -484,7 +484,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7503/7503_room.jpg" alt="アパホテル〈徳島駅前〉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全室50型液晶テレビ・有線LAN・無線LAN（Wi-Fi）・VOD（ビデオオンデマンド）全客室完備</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 徳島県徳島市一番町2-21 ／ 最寄り駅：徳島 ／ 交通案内：ＪＲ徳島駅より徒歩3分、徳島阿波踊り空港から車で20分</p>
+                  <p><strong>【所在地・アクセス】</strong>徳島県徳島市一番町2-21 ／ 最寄り駅：徳島 ／ 交通案内：ＪＲ徳島駅より徒歩3分、徳島阿波踊り空港から車で20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>敷地内有料駐車場: 4台　先着順サイズ制限有</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.06 ／ 立地 ★4.01 ／ 部屋 ★3.93 ／ 設備 ★3.86 ／ 風呂 ★3.77 ／ 食事 ★3.94</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -506,7 +506,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/202210/202210.jpg" alt="ＣＯＺＹ　ＣＯＭＦＯＲＴＳ　ＨＯＴＥＬ（コージーコンフォーツホテル）２０２６年８月８日新規オープン 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★令和８年８月８日★新築グランドオープン！〜デザイン性と快適性を兼ね備え快適なご滞在をお届けします〜</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 徳島県徳島市仲之町1-40 ／ 最寄り駅：徳島 ／ 交通案内：JR徳島駅より車で約4分／徳島阿波おどり空港より車で約25分／徳島最大の歓楽街「秋田町」徒歩1分</p>
+                  <p><strong>【所在地・アクセス】</strong>徳島県徳島市仲之町1-40 ／ 最寄り駅：徳島 ／ 交通案内：JR徳島駅より車で約4分／徳島阿波おどり空港より車で約25分／徳島最大の歓楽街「秋田町」徒歩1分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル専用P(先着順)または提携P（平日･日祝：1000円、金土･祝前：1500円）※お盆期間除く</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.29 ／ 立地 ★4 ／ 部屋 ★4.22 ／ 設備 ★4.03 ／ 風呂 ★3.97</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -528,7 +528,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/108376/108376room1.jpg" alt="東横ＩＮＮ徳島駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR徳島駅から徒歩4分で朝食・小学生以下添い寝無料のホテル！阿波踊り会館まで車で3分</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 徳島県徳島市両国本町１－５ ／ 最寄り駅：徳島 ／ 交通案内：JR徳島駅より徒歩４分</p>
+                  <p><strong>【所在地・アクセス】</strong>徳島県徳島市両国本町１－５ ／ 最寄り駅：徳島 ／ 交通案内：JR徳島駅より徒歩４分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>立体駐車場先着30台1泊500円(15時〜翌10時)満車時は近隣の契約駐車場ご案内。バイクの駐輪不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.06 ／ 立地 ★4.01 ／ 部屋 ★4.07 ／ 設備 ★4.02 ／ 風呂 ★3.92 ／ 食事 ★3.96</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -550,7 +550,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/532/532_room.jpg" alt="スマイルホテル徳島 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ＪＲ徳島駅から徒歩5分。ビジネスのお客様はもちろん、レジャーの拠点に最適立地</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 徳島県徳島市元町1-24 ／ 最寄り駅：徳島 ／ 交通案内：JR徳島駅より徒歩約5分／徳島ICより約15分／徳島阿波おどり空港よりリムジンバスにて徳島駅まで約30分</p>
+                  <p><strong>【所在地・アクセス】</strong>徳島県徳島市元町1-24 ／ 最寄り駅：徳島 ／ 交通案内：JR徳島駅より徒歩約5分／徳島ICより約15分／徳島阿波おどり空港よりリムジンバスにて徳島駅まで約30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>15時〜翌日10時…1,000円／18時〜翌日9時…500円／時間外・途中出入1時間…300円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.02 ／ 立地 ★4.11 ／ 部屋 ★3.98 ／ 設備 ★3.86 ／ 風呂 ★3.84 ／ 食事 ★4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

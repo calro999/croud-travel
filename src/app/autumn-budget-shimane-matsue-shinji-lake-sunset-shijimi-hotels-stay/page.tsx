@@ -379,11 +379,11 @@ export default function AutumnBudgetFeaturePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">松江：宍道湖の夕日絶景＆旬の宍道湖七珍しじみ汁！3,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「松江：宍道湖の夕日絶景＆旬の宍道湖七珍しじみ汁！3,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「松江：宍道湖の夕日絶景＆旬の宍道湖七珍しじみ汁！3,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -465,7 +465,7 @@ export default function AutumnBudgetFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5005/5005_twn.jpg" alt="松江しんじ湖温泉　ニューアーバンホテル本館・別館 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★ルーフトップのSKYTOPTERRACEがOPEN！天然温泉浴場と地元食材の手作り朝食で癒しステイ</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 島根県松江市西茶町40-1 ／ 最寄り駅：松江 ／ 交通案内：★ＪＲ松江駅より『松江市営バス北循環線外回り』で７分須衛都久神社前下車下車徒歩１分　★私鉄松江しんじ湖温泉駅より徒歩５分</p>
+                  <p><strong>【所在地・アクセス】</strong>島根県松江市西茶町40-1 ／ 最寄り駅：松江 ／ 交通案内：★ＪＲ松江駅より『松江市営バス北循環線外回り』で７分須衛都久神社前下車下車徒歩１分　★私鉄松江しんじ湖温泉駅より徒歩５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８０台（普通車）　800円(税込）／泊</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.35 ／ 立地 ★4.33 ／ 部屋 ★4.26 ／ 設備 ★4.19 ／ 風呂 ★4.15 ／ 食事 ★4.44</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -487,7 +487,7 @@ export default function AutumnBudgetFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/529/529_ky.jpg" alt="松江エクセルホテル東急 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全室ReFa完備☆松江駅から徒歩3分/出雲大社から車で60分/ビジネス・観光の拠点にアクセス抜群！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 島根県松江市朝日町590 ／ 最寄り駅：松江 ／ 交通案内：ＪＲ松江駅前、出雲空港より車で約30分／米子空港より車で約40分／八重垣神社まで車で15分</p>
+                  <p><strong>【所在地・アクセス】</strong>島根県松江市朝日町590 ／ 最寄り駅：松江 ／ 交通案内：ＪＲ松江駅前、出雲空港より車で約30分／米子空港より車で約40分／八重垣神社まで車で15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>1泊1200円（15時から翌10時まで）。平面駐車場、ゲート自動開閉で40台収容。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.35 ／ 立地 ★4.23 ／ 部屋 ★4.37 ／ 設備 ★4.29 ／ 風呂 ★4.26 ／ 食事 ★4.41</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -509,7 +509,7 @@ export default function AutumnBudgetFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/431/431_rm.jpg" alt="島根浜田ワシントンホテルプラザ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>(表示料金は、サービス料・消費税込み 高速インターネット接続可)</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 島根県浜田市黒川町4177 ／ 最寄り駅：浜田 ／ 交通案内：ＪＲ浜田駅より徒歩約３分。石見空港よりお車にて約５０分。</p>
+                  <p><strong>【所在地・アクセス】</strong>島根県浜田市黒川町4177 ／ 最寄り駅：浜田 ／ 交通案内：ＪＲ浜田駅より徒歩約３分。石見空港よりお車にて約５０分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>800円/浜田市営道分山立体駐車場利用</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.08 ／ 立地 ★4 ／ 部屋 ★3.97 ／ 設備 ★3.88 ／ 風呂 ★3.89</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -531,7 +531,7 @@ export default function AutumnBudgetFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1417/1417_heya.jpg" alt="寛ぎの宿　輝雲荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>1300年の歴史がある温泉の昔の趣を持つ温泉街にある真心込めたおもてなしで落ちつける宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 島根県大田市温泉津町温泉津ロ202-1 ／ 最寄り駅：温泉津 ／ 交通案内：ＪＲ温泉津駅下車</p>
+                  <p><strong>【所在地・アクセス】</strong>島根県大田市温泉津町温泉津ロ202-1 ／ 最寄り駅：温泉津 ／ 交通案内：ＪＲ温泉津駅下車</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料14台</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.25 ／ 部屋 ★4.36 ／ 設備 ★4.23 ／ 風呂 ★4.43</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -553,7 +553,7 @@ export default function AutumnBudgetFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1761/1761_sgl.jpg" alt="ホテルサンヌーベ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>■アパ　パートナーホテルズ加盟店■JR西出雲駅〜徒歩１分！無料駐車場♪全室Wi-Fi＆洗浄機付トイレ</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 島根県出雲市西新町一丁目2548番地1 ／ 最寄り駅：西出雲 ／ 交通案内：「JR西出雲駅」より徒歩１分／山陰道「出雲IC」より車で５分／「出雲大社」より車で約２０分／「石見銀山」より車で約５０分</p>
+                  <p><strong>【所在地・アクセス】</strong>島根県出雲市西新町一丁目2548番地1 ／ 最寄り駅：西出雲 ／ 交通案内：「JR西出雲駅」より徒歩１分／山陰道「出雲IC」より車で５分／「出雲大社」より車で約２０分／「石見銀山」より車で約５０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>50台（無料）／予約不要／広々とした平面駐車場完備（大型車両収容可能）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.23 ／ 立地 ★4.09 ／ 部屋 ★4.2 ／ 設備 ★4.12 ／ 風呂 ★4.04 ／ 食事 ★4.06</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

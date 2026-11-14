@@ -236,7 +236,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -680,11 +680,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：都会の空に浮かぶオアシス！ルーフトップインフィニティプール＆天然温泉ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：都会の空に浮かぶオアシス！ルーフトップインフィニティプール＆天然温泉ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：都会の空に浮かぶオアシス！ルーフトップインフィニティプール＆天然温泉ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -722,7 +722,7 @@ export default function FeatureDetailPage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 都ホテル博多</td>
-                <td className="p-3 text-stone-600">茨城県</td>
+                <td className="p-3 text-stone-600">福岡県福岡市博多区博多駅東2-1-1</td>
                 <td className="p-3 text-stone-600">博多駅直結！徒歩約１分。＜東７番出口＞福岡空港から地下鉄で約７分、車で</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.61（1159件）</td>
@@ -731,7 +731,7 @@ export default function FeatureDetailPage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. リブマックスリゾート宮浜温泉Ｏｃｅａｎ</td>
-                <td className="p-3 text-stone-600">茨城県</td>
+                <td className="p-3 text-stone-600">広島県廿日市市宮浜温泉2-13-10</td>
                 <td className="p-3 text-stone-600">山陽本線 [大野浦駅]から車で5分・[玖波駅]から車で5分・[宮島口駅</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.21（911件）</td>
@@ -740,7 +740,7 @@ export default function FeatureDetailPage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 神戸みなと温泉　蓮</td>
-                <td className="p-3 text-stone-600">茨城県</td>
+                <td className="p-3 text-stone-600">兵庫県神戸市中央区新港町1-1</td>
                 <td className="p-3 text-stone-600">JR大阪駅より新快速で21分、各線三宮駅からシャトルバスで5分。</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.64（1206件）</td>
@@ -766,7 +766,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/178447/178447.jpg" alt="ＨＯＴＥＬ　ＳＡＮＳＵＩ　ＮＡＨＡ　琉球温泉　波之上の湯 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>癒しの波上温泉とシースループール完備で那覇空港に一番近いスパ＆リゾート</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県那覇市辻2-25-1 ／ 最寄り駅：那覇空港 ／ 交通案内：空港から車で約8分◆ホテルと那覇空港を結ぶシャトルバスも運行中◆崖の上の「縁結びパワースポット」波上宮まで【徒歩4分】</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県那覇市辻2-25-1 ／ 最寄り駅：那覇空港 ／ 交通案内：空港から車で約8分◆ホテルと那覇空港を結ぶシャトルバスも運行中◆崖の上の「縁結びパワースポット」波上宮まで【徒歩4分】</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　42台　1,500円（税込み／泊）　先着順　※高さ制限有（175センチ）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -788,7 +788,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/184030/184030.jpg" alt="アパホテル＆リゾート〈大阪梅田駅タワー〉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>1704室！大浴殿・露天風呂、最上階展望プールを完備。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大阪府大阪市北区曽根崎2-8-32 ／ 最寄り駅：東梅田 ／ 交通案内：大阪メトロ谷町線「東梅田駅」（4番出口）徒歩3分</p>
+                  <p><strong>【所在地・アクセス】</strong>大阪府大阪市北区曽根崎2-8-32 ／ 最寄り駅：東梅田 ／ 交通案内：大阪メトロ谷町線「東梅田駅」（4番出口）徒歩3分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>入庫から24時間/3000円、20分/400円、最大6時間/1500円　※先着順になります。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.27 ／ 立地 ★4.28 ／ 部屋 ★4.28 ／ 設備 ★4.27 ／ 風呂 ★4.32 ／ 食事 ★4.28</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -809,8 +809,8 @@ export default function FeatureDetailPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/172310/172310.jpg" alt="都ホテル博多 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「都会の空に浮かぶオアシス（ルーフトップインフィニティプール＆天然温泉ホテル5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：博多駅直結！徒歩約１分。＜東７番出口＞福岡空港から地下鉄で約７分、車で約15分。一歩足を踏み入れたらもうそこはリゾート！</p>
+                  <p><strong>【宿の特徴・魅力】</strong>さあ、都心のリゾートへ！ここは、いつでも夏休み。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：博多駅直結！徒歩約１分。＜東７番出口＞福岡空港から地下鉄で約７分、車で約15分。一歩足を踏み入れたらもうそこはリゾート！</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -831,8 +831,8 @@ export default function FeatureDetailPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/178590/178590.jpg" alt="リブマックスリゾート宮浜温泉Ｏｃｅａｎ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「都会の空に浮かぶオアシス（ルーフトップインフィニティプール＆天然温泉ホテル5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：山陽本線 [大野浦駅]から車で5分・[玖波駅]から車で5分・[宮島口駅]から車で15分　岩国空港から車で30分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>【2019年OPEN】宮島を望む全室天然温泉＆オーシャンビュー露天風呂付スパ＆リゾートホテル</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：山陽本線 [大野浦駅]から車で5分・[玖波駅]から車で5分・[宮島口駅]から車で15分　岩国空港から車で30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -853,8 +853,8 @@ export default function FeatureDetailPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/149298/149298.jpg" alt="神戸みなと温泉　蓮 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「都会の空に浮かぶオアシス（ルーフトップインフィニティプール＆天然温泉ホテル5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：JR大阪駅より新快速で21分、各線三宮駅からシャトルバスで5分。</p>
+                  <p><strong>【宿の特徴・魅力】</strong>兵庫県神戸市中央区新港町1-1の「神戸みなと温泉 蓮」（楽天トラベル評価4.64（1208件）／1泊目安¥11,770〜）の魅力と宿泊ポイントを詳しく紹介。270度海に囲まれた天然温泉旅館。60㎡以上の客室は全室テラス付オーシャンビュー。客室の特徴や館内設備、食事プラン、最寄り駅・駐車場アクセスからお得な予約のコツまで詳しくまとめました。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：JR大阪駅より新快速で21分、各線三宮駅からシャトルバスで5分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

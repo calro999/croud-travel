@@ -636,11 +636,11 @@ export default function FurusatoFeaturePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">天然炭酸泉＆シュワシュワ美肌の湯宿×ふるさと納税厳選ガイド長湯・下呂・有馬の極上泡風呂：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「天然炭酸泉＆シュワシュワ美肌の湯宿×ふるさと納税厳選ガイド長湯・下呂・有馬の極上泡風呂」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「天然炭酸泉＆シュワシュワ美肌の湯宿×ふるさと納税厳選ガイド長湯・下呂・有馬の極上泡風呂」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -660,7 +660,7 @@ export default function FurusatoFeaturePage() {
               <tbody className="divide-y divide-stone-200">
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 長湯温泉　紅葉館＜大分県＞</td>
-                <td className="p-3 text-stone-600">岐阜県</td>
+                <td className="p-3 text-stone-600">大分県竹田市直入町長湯7996</td>
                 <td className="p-3 text-stone-600">ＪＲ豊肥本線　豊後竹田駅より車で２０分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★3.84（147件）</td>
@@ -669,7 +669,7 @@ export default function FurusatoFeaturePage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 長湯温泉　大丸旅館</td>
-                <td className="p-3 text-stone-600">岐阜県</td>
+                <td className="p-3 text-stone-600">大分県竹田市直入町長湯7992-1</td>
                 <td className="p-3 text-stone-600">JR豊肥本線・豊後竹田駅よりお車にて25分。（駅から路線バスもあります</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.37（199件）</td>
@@ -730,8 +730,8 @@ export default function FurusatoFeaturePage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/37846/37846.jpg" alt="長湯温泉　紅葉館＜大分県＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「天然炭酸泉＆シュワシュワ美肌の湯宿×ふるさと納税厳選ガイド長湯・下呂・有馬の極上泡風呂」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ豊肥本線　豊後竹田駅より車で２０分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>旅の目的に合わせて選ぶ「天然炭酸泉＆シュワシュワ美肌の湯宿×ふるさと納税厳選ガイド長湯・下呂・有馬の極上泡風呂」各宿の強みと基本情報は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：ＪＲ豊肥本線　豊後竹田駅より車で２０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -752,8 +752,8 @@ export default function FurusatoFeaturePage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/108788/108788.jpg" alt="長湯温泉　大丸旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「天然炭酸泉＆シュワシュワ美肌の湯宿×ふるさと納税厳選ガイド長湯・下呂・有馬の極上泡風呂」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：JR豊肥本線・豊後竹田駅よりお車にて25分。（駅から路線バスもあります。長湯行き約40分、長湯下車。）</p>
+                  <p><strong>【宿の特徴・魅力】</strong>長湯温泉の老舗宿。全室・芹川に面し温泉街散策にも便利。泡付き炭酸泉「ラムネ温泉館」入浴無料。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：JR豊肥本線・豊後竹田駅よりお車にて25分。（駅から路線バスもあります。長湯行き約40分、長湯下車。）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -775,7 +775,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/137839/137839_bth.jpg" alt="三船温泉　民宿城山＜大分県＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>炭酸泉の100％源泉掛け流し天然温泉宿☆野菜やお米は自家栽培♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大分県竹田市久住町仏原1066-2 ／ 最寄り駅：豊後竹田 ／ 交通案内：豊後竹田駅からバスで４５分</p>
+                  <p><strong>【所在地・アクセス】</strong>大分県竹田市久住町仏原1066-2 ／ 最寄り駅：豊後竹田 ／ 交通案内：豊後竹田駅からバスで４５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -797,7 +797,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31185/31185_r1.jpg" alt="下呂の奥座敷　炭酸泉の宿　泉岳舘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>天然炭酸泉を飲む　浸かる　美容。炭酸泉づくしを楽しむ宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岐阜県下呂市小坂町湯屋427番地1 ／ 最寄り駅：飛騨小坂 ／ 交通案内：■ＪＲ高山本線　飛騨小坂駅下車　■車　中央自動車道中津川ＩＣ→Ｒ２５７→Ｒ４１→小坂町湯屋温泉（詳細は交通アクセス記）</p>
+                  <p><strong>【所在地・アクセス】</strong>岐阜県下呂市小坂町湯屋427番地1 ／ 最寄り駅：飛騨小坂 ／ 交通案内：■ＪＲ高山本線　飛騨小坂駅下車　■車　中央自動車道中津川ＩＣ→Ｒ２５７→Ｒ４１→小坂町湯屋温泉（詳細は交通アクセス記）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り10台　無料(屋根付き５台のみあり）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -819,7 +819,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/134782/134782_was.jpg" alt="くるみ温泉＆キャンプ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>御嶽山から流れる清流秋神川　広がる大自然を眺めながら、くつろぎのひとときをご堪能ください。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岐阜県高山市朝日町胡桃島8 ／ 最寄り駅：高山 ／ 交通案内：ＪＲ　高山駅からお車で４０分、バスで５０分</p>
+                  <p><strong>【所在地・アクセス】</strong>岐阜県高山市朝日町胡桃島8 ／ 最寄り駅：高山 ／ 交通案内：ＪＲ　高山駅からお車で４０分、バスで５０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -841,7 +841,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31065/31065_k.jpg" alt="濁河温泉　湯の谷荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>秘湯 濁河温泉 御嶽山北麓 標高1800m 源泉掛け流し 静謐なひと時を</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岐阜県下呂市小坂町落合2376-1 ／ 最寄り駅：飛騨小坂 ／ 交通案内：名古屋市内から車で約3時間30分</p>
+                  <p><strong>【所在地・アクセス】</strong>岐阜県下呂市小坂町落合2376-1 ／ 最寄り駅：飛騨小坂 ／ 交通案内：名古屋市内から車で約3時間30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有 5台  無料　予約制</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

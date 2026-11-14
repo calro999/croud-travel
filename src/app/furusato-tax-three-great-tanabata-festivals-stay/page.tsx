@@ -536,11 +536,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大七夕まつり＆星空短冊散策宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本三大七夕まつり＆星空短冊散策宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「日本三大七夕まつり＆星空短冊散策宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -604,7 +604,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/191668/191668.jpg" alt="スーパーホテル仙台駅東口天然温泉 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【仙台駅徒歩5分の好立地】天然温泉◆無料健康朝食とウェルカムバー◆ぐっすり眠れるホテル◆全館禁煙</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮城県仙台市宮城野区名掛丁203-12 ／ 最寄り駅：仙台 ／ 交通案内：仙台駅東口より徒歩で約５分/北部名掛丁自由通路」を通り出口を出てから徒歩2分/高速バス「仙台駅前」のりばから徒歩5分</p>
+                  <p><strong>【所在地・アクセス】</strong>宮城県仙台市宮城野区名掛丁203-12 ／ 最寄り駅：仙台 ／ 交通案内：仙台駅東口より徒歩で約５分/北部名掛丁自由通路」を通り出口を出てから徒歩2分/高速バス「仙台駅前」のりばから徒歩5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無し（近隣コインパーキングをご利用ください）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.59 ／ 立地 ★4.44 ／ 部屋 ★4.47 ／ 設備 ★4.44 ／ 風呂 ★4.42 ／ 食事 ★4.43</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -626,7 +626,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/109410/109410_kan.jpg" alt="ホテルリブマックスＢＵＤＧＥＴ平塚駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ＪＲ平塚駅より徒歩５分。横浜や新宿、渋谷へ乗換なしでアクセス可能！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県平塚市明石町1-26 ／ 最寄り駅：平塚 ／ 交通案内：JR平塚駅北口から徒歩で5分　車：新湘南バイパス～茅ヶ崎西IC～国道1号線を平塚方面へ（東京・名古屋方面同じ）</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県平塚市明石町1-26 ／ 最寄り駅：平塚 ／ 交通案内：JR平塚駅北口から徒歩で5分　車：新湘南バイパス～茅ヶ崎西IC～国道1号線を平塚方面へ（東京・名古屋方面同じ）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無し/周辺のコインパーキングをご利用ください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -648,7 +648,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8952/8952_sgl.jpg" alt="アパホテル〈尾張一宮駅前〉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>岐阜・名古屋・中部国際空港へ好アクセス！尾張一宮駅東口からすぐ近く！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛知県一宮市栄3-3-10 ／ 最寄り駅：尾張一宮 ／ 交通案内：JR東海道本線『尾張一宮駅』・名鉄本線『名鉄一宮駅』東口より徒歩2分、名神一宮ＩＣ・東海北陸道西一宮ＩＣより車で10分</p>
+                  <p><strong>【所在地・アクセス】</strong>愛知県一宮市栄3-3-10 ／ 最寄り駅：尾張一宮 ／ 交通案内：JR東海道本線『尾張一宮駅』・名鉄本線『名鉄一宮駅』東口より徒歩2分、名神一宮ＩＣ・東海北陸道西一宮ＩＣより車で10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>1泊600円/1台（先着順予約不可)　満車時、提携駐車場（1泊1,200円）※出し入れ不可。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

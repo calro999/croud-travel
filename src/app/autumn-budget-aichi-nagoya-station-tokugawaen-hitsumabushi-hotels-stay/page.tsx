@@ -376,11 +376,11 @@ export default function AutumnBudgetHotelsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">名古屋駅前：徳川園錦秋ライトアップ＆名物ひつまぶし・味噌カツ！3,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「名古屋駅前：徳川園錦秋ライトアップ＆名物ひつまぶし・味噌カツ！3,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「名古屋駅前：徳川園錦秋ライトアップ＆名物ひつまぶし・味噌カツ！3,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -462,7 +462,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/153417/153417_kan1.jpg" alt="ダイワロイネットホテル名古屋太閤通口 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>クーポン配布中！ＪＲ名古屋駅太閤口徒歩約４分好立地</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛知県名古屋市中村区椿町18-10 ／ 最寄り駅：名古屋 ／ 交通案内：ＪＲ名古屋駅(太閤通口)より徒歩にて約４分</p>
+                  <p><strong>【所在地・アクセス】</strong>愛知県名古屋市中村区椿町18-10 ／ 最寄り駅：名古屋 ／ 交通案内：ＪＲ名古屋駅(太閤通口)より徒歩にて約４分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場(自走式立体駐車場/先着順/車高制限有)。満車の際は近隣駐車場へご案内致します。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.38 ／ 立地 ★4.31 ／ 部屋 ★4.4 ／ 設備 ★4.36 ／ 風呂 ★4.37 ／ 食事 ★4.18</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -484,7 +484,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/167562/167562.jpg" alt="ホテルリブマックスＢＵＤＧＥＴ名古屋太閤通口 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【2018年OPEN】4KTV&amp;空気清浄機&amp;電子レンジ標準設置した都市型ホテル♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛知県名古屋市中村区太閤4-9-25 ／ 最寄り駅：中村区役所 ／ 交通案内：JR東海道線　名古屋駅 太閤通口より徒歩にて約10分、名古屋市営桜通線　中村区役所駅徒歩5分</p>
+                  <p><strong>【所在地・アクセス】</strong>愛知県名古屋市中村区太閤4-9-25 ／ 最寄り駅：中村区役所 ／ 交通案内：JR東海道線　名古屋駅 太閤通口より徒歩にて約10分、名古屋市営桜通線　中村区役所駅徒歩5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>近隣に有料パーキングあり　※提携駐車場ではございません。　また満車の場合はご容赦下さい。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.58 ／ 立地 ★3.71 ／ 部屋 ★3.71 ／ 設備 ★3.54 ／ 風呂 ★3.45</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -506,7 +506,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/182813/182813.jpg" alt="相鉄フレッサイン　名古屋駅新幹線口 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>東海地区の拠点『名古屋駅』から徒歩４分。ＪＲ、市営地下鉄、近鉄線、名鉄線も利用できる好立地。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛知県名古屋市中村区椿町19-16 ／ 最寄り駅：名古屋 ／ 交通案内：名古屋駅★太閤口（豊臣秀吉ゆかりの地名）から徒歩約４分</p>
+                  <p><strong>【所在地・アクセス】</strong>愛知県名古屋市中村区椿町19-16 ／ 最寄り駅：名古屋 ／ 交通案内：名古屋駅★太閤口（豊臣秀吉ゆかりの地名）から徒歩約４分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>なし※近隣駐車場（有料）をご案内</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.05 ／ 立地 ★4.05 ／ 部屋 ★4.11 ／ 設備 ★4.07 ／ 風呂 ★3.99 ／ 食事 ★4.02</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -528,7 +528,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/166315/166315.jpg" alt="ヴィアイン名古屋駅前椿町（ＪＲ西日本グループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【駅近】2018年8月開業。名古屋駅太閤口から徒歩4分。全室禁煙。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛知県名古屋市中村区椿町9番13号 ／ 最寄り駅：名古屋 ／ 交通案内：ＪＲ　名古屋駅　太閤通口（新幹線口）より徒歩約４分</p>
+                  <p><strong>【所在地・アクセス】</strong>愛知県名古屋市中村区椿町9番13号 ／ 最寄り駅：名古屋 ／ 交通案内：ＪＲ　名古屋駅　太閤通口（新幹線口）より徒歩約４分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>コインパーキング14台　200円/40分　入庫から24時間最大￥1800※繰り返し適用</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.35 ／ 立地 ★4.2 ／ 部屋 ★4.37 ／ 設備 ★4.28 ／ 風呂 ★4.23 ／ 食事 ★4.26</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -550,7 +550,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/153532/153532.jpg" alt="名鉄イン名古屋駅新幹線口 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全室バストイレセパレート◆ミネラル＆コーヒーサービス◆全室TVミラーリング可能◆高層階は眺望抜群♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛知県名古屋市中村区則武1丁目6番3号 ／ 最寄り駅：名古屋 ／ 交通案内：JR名古屋駅徒歩約4分／地下鉄桜通線名古屋駅徒歩約5分★JR名古屋駅太閤通口（新幹線口）から建物見え分かりやすいアクセス</p>
+                  <p><strong>【所在地・アクセス】</strong>愛知県名古屋市中村区則武1丁目6番3号 ／ 最寄り駅：名古屋 ／ 交通案内：JR名古屋駅徒歩約4分／地下鉄桜通線名古屋駅徒歩約5分★JR名古屋駅太閤通口（新幹線口）から建物見え分かりやすいアクセス</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.29 ／ 立地 ★4.36 ／ 部屋 ★4.33 ／ 設備 ★4.31 ／ 風呂 ★4.33 ／ 食事 ★4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

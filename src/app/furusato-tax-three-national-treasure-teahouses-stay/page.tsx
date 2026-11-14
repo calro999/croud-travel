@@ -536,11 +536,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -578,7 +578,7 @@ export default function Page() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 割烹旅館　城山</td>
-                <td className="p-3 text-stone-600">茨城県</td>
+                <td className="p-3 text-stone-600">茨城県笠間市笠間14-1</td>
                 <td className="p-3 text-stone-600">JR水戸線笠間駅より約1.5km　タクシーで約3分／北関東自動車道友部</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（80件）</td>
@@ -604,7 +604,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/10854/10854_war.jpg" alt="京都竹の郷温泉　万葉の湯　ホテル京都エミナース 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ご宿泊者は24時間万葉の湯入り放題！.心ゆくまで温泉を満喫下さい。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 京都府京都市西京区大原野東境谷町2-4 ／ 最寄り駅：桂 ／ 交通案内：最寄駅（ＪＲ桂川、阪急洛西口）から無料送迎バス有。阪急「桂駅」西口より市バス西１、２、５で１５分「境谷大橋」下車すぐ。</p>
+                  <p><strong>【所在地・アクセス】</strong>京都府京都市西京区大原野東境谷町2-4 ／ 最寄り駅：桂 ／ 交通案内：最寄駅（ＪＲ桂川、阪急洛西口）から無料送迎バス有。阪急「桂駅」西口より市バス西１、２、５で１５分「境谷大橋」下車すぐ。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　250台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.07 ／ 立地 ★3.92 ／ 部屋 ★4.04 ／ 設備 ★4.13 ／ 風呂 ★4.4 ／ 食事 ★4.14</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -626,7 +626,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/183344/183344.jpg" alt="ホテルインディゴ犬山有楽苑　ｂｙ　ＩＨＧ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>名古屋駅から電車で30分〜犬山城を訪れ、天然温泉で寛ぎの時間を〜</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛知県犬山市犬山北古券103-1 ／ 最寄り駅：犬山遊園 ／ 交通案内：名鉄犬山遊園駅より徒歩約7分</p>
+                  <p><strong>【所在地・アクセス】</strong>愛知県犬山市犬山北古券103-1 ／ 最寄り駅：犬山遊園 ／ 交通案内：名鉄犬山遊園駅より徒歩約7分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有（190台）　無料／予約不要　※EVスタンド2台（要予約／1泊1,500円）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.49 ／ 部屋 ★4.47 ／ 設備 ★4.37 ／ 風呂 ★4.39 ／ 食事 ★4.44</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -647,8 +647,8 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/29364/29364.jpg" alt="割烹旅館　城山 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：JR水戸線笠間駅より約1.5km　タクシーで約3分／北関東自動車道友部ICよりR３５５にて１０分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>清閑な数奇屋造りの和風旅館──季節の味を巧みに引き立てる繊細な月替わり会席料理をお楽しみください</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：JR水戸線笠間駅より約1.5km　タクシーで約3分／北関東自動車道友部ICよりR３５５にて１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

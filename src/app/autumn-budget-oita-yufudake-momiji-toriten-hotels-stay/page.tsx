@@ -285,11 +285,11 @@ export default function AutumnBudgetOitaHotelsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">大分：由布岳・くじゅう連山紅葉拠点＆豊後グルメ！2,000円台〜格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「大分：由布岳・くじゅう連山紅葉拠点＆豊後グルメ！2,000円台〜格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「大分：由布岳・くじゅう連山紅葉拠点＆豊後グルメ！2,000円台〜格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -371,7 +371,7 @@ export default function AutumnBudgetOitaHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/197319/197319.jpg" alt="アパホテル〈大分駅前〉 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2025年12月3日（水）開業！温泉大浴場を完備し、ルーフトップバーから夜景をお楽しみいただけます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大分県大分市金池町1-1-1 ／ 最寄り駅：大分 ／ 交通案内：JR大分駅（北口）から徒歩1分</p>
+                  <p><strong>【所在地・アクセス】</strong>大分県大分市金池町1-1-1 ／ 最寄り駅：大分 ／ 交通案内：JR大分駅（北口）から徒歩1分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>10台(身障者用1台含む)　1泊1,000円(税込)　予約不可　先着順　提携駐車場あり</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -393,7 +393,7 @@ export default function AutumnBudgetOitaHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1678/1678_heya.jpg" alt="由布院温泉　ゆふいん山水館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【ドリンクインクルーシブ】 滞在中のドリンクが飲み放題！。由布岳を目の前に望む絶景露天風呂が自慢。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大分県由布市湯布院町大字川南108-1 ／ 最寄り駅：由布院 ／ 交通案内：ＪＲ由布院駅より徒歩約８分。大分自動車道湯布院ＩＣより車で約１５分。</p>
+                  <p><strong>【所在地・アクセス】</strong>大分県由布市湯布院町大字川南108-1 ／ 最寄り駅：由布院 ／ 交通案内：ＪＲ由布院駅より徒歩約８分。大分自動車道湯布院ＩＣより車で約１５分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　乗用車　約60台　大型バス　約6台　料金は宿泊者無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -415,7 +415,7 @@ export default function AutumnBudgetOitaHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1801/1801_tw.jpg" alt="ホテル日航大分　オアシスタワー 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>街の中心に位置する利便性と、大分の空や別府の海を望む客室。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大分県大分市高砂町2-48 ／ 最寄り駅：大分 ／ 交通案内：（JR大分駅から）徒歩で約10分（大分ＩＣから）車で約１５分（大分空港から）高速バスで約６０分</p>
+                  <p><strong>【所在地・アクセス】</strong>大分県大分市高砂町2-48 ／ 最寄り駅：大分 ／ 交通案内：（JR大分駅から）徒歩で約10分（大分ＩＣから）車で約１５分（大分空港から）高速バスで約６０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>一律料金（ご1泊あたり1,000円）にてご利用頂けます。駐車場の入り口はプラン詳細をご確認ください</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.43 ／ 立地 ★4.39 ／ 部屋 ★4.4 ／ 設備 ★4.28 ／ 風呂 ★4.21 ／ 食事 ★4.36</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -437,7 +437,7 @@ export default function AutumnBudgetOitaHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1938/1938_room.jpg" alt="別府温泉　ホテルニューツルタ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>別府湾を望む、まちなかに立地。地上20ｍにある大浴場からは別府湾が一望！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大分県別府市北浜1-14-15 ／ 最寄り駅：大分 ／ 交通案内：ＪＲ別府駅より徒歩8分。別府ＩＣより車で約15分。駐車場先着順、入庫後21時間最大700円。全室ロビー無料Wi-fi</p>
+                  <p><strong>【所在地・アクセス】</strong>大分県別府市北浜1-14-15 ／ 最寄り駅：大分 ／ 交通案内：ＪＲ別府駅より徒歩8分。別府ＩＣより車で約15分。駐車場先着順、入庫後21時間最大700円。全室ロビー無料Wi-fi</p>
                   <p><strong>【駐車場・マイカー利用】</strong>入庫後21時間：最大700円・駐車場は有料＆先着順。満車の場合はご利用いただけないことがございます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -459,7 +459,7 @@ export default function AutumnBudgetOitaHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4765/4765_room.jpg" alt="別府温泉　ホテル好楽 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>別府温泉の中心地に位置する好立地で源泉かけ流しの露天風呂を堪能＆ワンちゃんOKな客室あり！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大分県別府市北浜3-13-21 ／ 最寄り駅：別府（大分） ／ 交通案内：別府駅から徒歩10分、北浜バス停（福岡からの高速バス降り口）から2分</p>
+                  <p><strong>【所在地・アクセス】</strong>大分県別府市北浜3-13-21 ／ 最寄り駅：別府（大分） ／ 交通案内：別府駅から徒歩10分、北浜バス停（福岡からの高速バス降り口）から2分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　1泊550円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

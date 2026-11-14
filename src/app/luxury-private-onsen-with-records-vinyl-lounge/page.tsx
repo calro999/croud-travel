@@ -236,7 +236,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -680,11 +680,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：名盤の温もりに浸る。アナログレコード＆真空管アンプラウンジ付き大人の音楽温泉宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：名盤の温もりに浸る。アナログレコード＆真空管アンプラウンジ付き大人の音楽温泉宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：名盤の温もりに浸る。アナログレコード＆真空管アンプラウンジ付き大人の音楽温泉宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -766,7 +766,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/30663/30663_r.jpg" alt="作並温泉　湯の原ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>食事クチコミ４．７５と高評価／源泉貸切風呂と「朝夕個室の美食宿」</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮城県仙台市青葉区作並元木1 ／ 最寄り駅：作並 ／ 交通案内：JR仙山線　作並駅（駅からの無料送迎あり）／東北自動車道　仙台宮城ICより３０分</p>
+                  <p><strong>【所在地・アクセス】</strong>宮城県仙台市青葉区作並元木1 ／ 最寄り駅：作並 ／ 交通案内：JR仙山線　作並駅（駅からの無料送迎あり）／東北自動車道　仙台宮城ICより３０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　６０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.42 ／ 立地 ★4.16 ／ 部屋 ★4.26 ／ 設備 ★4.3 ／ 風呂 ★4.38 ／ 食事 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -788,7 +788,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/179071/179071_kan1.jpg" alt="ゆとりろ日光 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【2026年5月客室リニューアル】中禅寺湖ビューが愉しめる／夕食はステーキ＆生ビール飲み放題付き</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県日光市中宮祠2484 ／ 最寄り駅：東武日光 ／ 交通案内：東武日光駅よりお車にて約４５分／東武バスにて約４５分『中禅寺郵便局』下車後徒歩３分</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県日光市中宮祠2484 ／ 最寄り駅：東武日光 ／ 交通案内：東武日光駅よりお車にて約４５分／東武バスにて約４５分『中禅寺郵便局』下車後徒歩３分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場有り　２０台　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.93 ／ 立地 ★4.3 ／ 部屋 ★4.05 ／ 設備 ★3.86 ／ 風呂 ★4.01 ／ 食事 ★4.08</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -810,7 +810,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4772/4772_heya.jpg" alt="しあわせひょうたんの宿　旅館水郷 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>食事は部屋食か完全個室。源泉かけ流し。エレベーター完備。サイクリストに優しい宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鳥取県東伯郡湯梨浜町はわい温泉6-1 ／ 最寄り駅：倉吉 ／ 交通案内：山陰本線倉吉駅より車で１０分。</p>
+                  <p><strong>【所在地・アクセス】</strong>鳥取県東伯郡湯梨浜町はわい温泉6-1 ／ 最寄り駅：倉吉 ／ 交通案内：山陰本線倉吉駅より車で１０分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場無料。バイク歓迎、屋根付き部分あり。大型車可。自転車館内保管。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -832,7 +832,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/196732/196732.jpg" alt="泊まれる文化交流施設　盆宿Ｕ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>築180年の内蔵に泊まり、お囃子流れる蔵サウナと発酵食を堪能。西馬音内盆踊りの世界を体感する宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 秋田県雄勝郡羽後町西馬音内本町47 ／ 最寄り駅：湯沢 ／ 交通案内：ＪＲ湯沢駅／湯沢ＩＣより車で約１５分、ＪＲ大曲駅より車で約５０分、秋田空港より車で約１時間１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>秋田県雄勝郡羽後町西馬音内本町47 ／ 最寄り駅：湯沢 ／ 交通案内：ＪＲ湯沢駅／湯沢ＩＣより車で約１５分、ＪＲ大曲駅より車で約５０分、秋田空港より車で約１時間１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１２台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -854,7 +854,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/14103/14103_war.jpg" alt="坂元家 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>＜丹後随一＞由緒あるパワースポット【元伊勢籠神社】へ徒歩1分！神社へ一番近い旅館で海の幸を堪能♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 京都府宮津市江尻70-3 ／ 最寄り駅：天橋立 ／ 交通案内：京都丹後鉄道天橋立駅よりバスで20分下車徒歩1分。京都縦貫自動車道宮津天橋立出口より20分。</p>
+                  <p><strong>【所在地・アクセス】</strong>京都府宮津市江尻70-3 ／ 最寄り駅：天橋立 ／ 交通案内：京都丹後鉄道天橋立駅よりバスで20分下車徒歩1分。京都縦貫自動車道宮津天橋立出口より20分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

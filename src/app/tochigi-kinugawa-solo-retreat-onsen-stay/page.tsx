@@ -77,7 +77,7 @@ export default function ArticlePage() {
             栃木・鬼怒川温泉ひとり旅＆渓谷美おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「鬼怒川温泉ひとり旅・渓谷美おこもり」スペーシアX直通・鬼怒川渓谷露天・とちぎ和牛！都心から2時間の極上ソロ湯治厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               浅草や新宿から東武特急「スペーシアX」などで約2時間。かつて日光詣の僧侶や大名のみが入ることを許された由緒正しき名湯・鬼怒川温泉。渓谷沿いに立ち並ぶ宿からは迫力ある渓谷美が広がり、日常のストレスを忘れさせてくれます。
             </p>
             <p>
-              吊橋や絶景スポットへのアクセス良好な宿から、一人でも本格会席料理と上質なスパを堪能できる老舗ホテルまで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              吊橋や絶景スポットへのアクセス良好な宿から、一人でも本格会席料理と上質なスパを堪能できる老舗ホテルまで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -420,11 +420,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">鬼怒川温泉ひとり旅・渓谷美おこもり：スペーシアX直通・鬼怒川渓谷露天・とちぎ和牛！都心から2時間の極上ソロ湯治厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「鬼怒川温泉ひとり旅・渓谷美おこもり：スペーシアX直通・鬼怒川渓谷露天・とちぎ和牛！都心から2時間の極上ソロ湯治厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「鬼怒川温泉ひとり旅・渓谷美おこもり：スペーシアX直通・鬼怒川渓谷露天・とちぎ和牛！都心から2時間の極上ソロ湯治厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -488,7 +488,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5839/5839_bath.jpg" alt="鬼怒川温泉　ホテルサンシャイン鬼怒川 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>『でっかい。けど、あったかい。』これが、宿のスローガン！鬼怒川立岩は眼前☆全室渓谷沿いで風光明媚♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県日光市鬼怒川温泉大原1437-1 ／ 最寄り駅：鬼怒川温泉 ／ 交通案内：東北自動車道宇都宮ICから宇都宮・日光有料道路今市IC下車R121より30分</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県日光市鬼怒川温泉大原1437-1 ／ 最寄り駅：鬼怒川温泉 ／ 交通案内：東北自動車道宇都宮ICから宇都宮・日光有料道路今市IC下車R121より30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台　無料（先着順）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.21 ／ 立地 ★4.25 ／ 部屋 ★4.09 ／ 設備 ★3.98 ／ 風呂 ★4.12 ／ 食事 ★4.17</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -510,7 +510,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31366/31366_kan1.jpg" alt="鬼怒川温泉　鬼怒川グランドホテル　夢の季（ゆめのとき） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【９つの湯めぐり】緑美しい山並みに包まれて、四季の味わいと天然温泉で喧騒から離れた癒しの季に。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県日光市鬼怒川温泉大原1021 ／ 最寄り駅：鬼怒川温泉 ／ 交通案内：鬼怒川温泉駅より徒歩8分／日光・宇都宮有料道路今市ＩＣより車で20分</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県日光市鬼怒川温泉大原1021 ／ 最寄り駅：鬼怒川温泉 ／ 交通案内：鬼怒川温泉駅より徒歩8分／日光・宇都宮有料道路今市ＩＣより車で20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　無料先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.58 ／ 立地 ★4.35 ／ 部屋 ★4.53 ／ 設備 ★4.4 ／ 風呂 ★4.48 ／ 食事 ★4.62</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -532,7 +532,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/15835/15835_ba.jpg" alt="鬼怒川温泉ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★楽天トラベルブロンズアワード2025受賞★特製ローストビーフや石窯ピザなど出来立て料理が盛り沢山♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県日光市鬼怒川温泉滝545 ／ 最寄り駅：鬼怒川温泉 ／ 交通案内：東武「浅草駅」、ＪＲ「新宿駅」より特急で約2時間、「鬼怒川温泉駅」下車。ダイヤルバスにて約７分。</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県日光市鬼怒川温泉滝545 ／ 最寄り駅：鬼怒川温泉 ／ 交通案内：東武「浅草駅」、ＪＲ「新宿駅」より特急で約2時間、「鬼怒川温泉駅」下車。ダイヤルバスにて約７分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有130台（無料）※専用駐車場に移動させていただきます。ご自身で移動希望の方は係にお伝えください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

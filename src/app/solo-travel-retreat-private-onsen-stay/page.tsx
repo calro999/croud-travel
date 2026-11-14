@@ -228,11 +228,11 @@ export default function TargetAudienceHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">大人のひとり温泉旅：お部屋食・客室露天風呂＆レイトアウト完全おこもり宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「大人のひとり温泉旅：お部屋食・客室露天風呂＆レイトアウト完全おこもり宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「大人のひとり温泉旅：お部屋食・客室露天風呂＆レイトアウト完全おこもり宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function TargetAudienceHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/171946/171946_kan1.jpg" alt="全室源泉かけ流し温泉付き旅館＆グランピング　美肌の湯　こしかの温泉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>温泉宿・グランピング全室で源泉掛け流しの天然炭酸泉が満喫できます。ペットOKの客室もございます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県霧島市隼人町松永2625 ／ 最寄り駅：日当山 ／ 交通案内：鹿児島空港より車で約15分【19時までなら鹿児島空港・国分駅まで無料送迎（要予約）】</p>
+                  <p><strong>【所在地・アクセス】</strong>鹿児島県霧島市隼人町松永2625 ／ 最寄り駅：日当山 ／ 交通案内：鹿児島空港より車で約15分【19時までなら鹿児島空港・国分駅まで無料送迎（要予約）】</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（無料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.55 ／ 立地 ★4.38 ／ 部屋 ★4.47 ／ 設備 ★4.51 ／ 風呂 ★4.68 ／ 食事 ★4.55</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function TargetAudienceHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/27789/27789_b1.jpg" alt="土湯温泉　はるみや旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>自分だけの空間、時間にも縛られない。温泉も食事も、部屋で完結する露天風呂付き客室の温泉宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県福島市土湯温泉町杉ノ下72 ／ 最寄り駅：福島（福島） ／ 交通案内：ＪＲ福島駅より福島交通バスにて４５分／東北自動車道 福島西ＩＣよりお車で１５分｜有料EV充電器２台</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県福島市土湯温泉町杉ノ下72 ／ 最寄り駅：福島（福島） ／ 交通案内：ＪＲ福島駅より福島交通バスにて４５分／東北自動車道 福島西ＩＣよりお車で１５分｜有料EV充電器２台</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料　（有料EV充電器を２台設置。EV車でも安心してお越しください。）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function TargetAudienceHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/16668/16668_heya.jpg" alt="熱海温泉　古屋旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【創業220周年】安心の全室部屋食！2026年7月新タイプの露天付き客室OPEN！源泉かけ流し温泉</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県熱海市東海岸町5-24 ／ 最寄り駅：熱海 ／ 交通案内：ＪＲ熱海駅からタクシーで５分。徒歩１３分。熱海サンビーチまでは徒歩３分♪</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県熱海市東海岸町5-24 ／ 最寄り駅：熱海 ／ 交通案内：ＪＲ熱海駅からタクシーで５分。徒歩１３分。熱海サンビーチまでは徒歩３分♪</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３５台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.91 ／ 立地 ★4.49 ／ 部屋 ★4.88 ／ 設備 ★4.81 ／ 風呂 ★4.85 ／ 食事 ★4.89</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function TargetAudienceHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9133/9133_war.jpg" alt="白浜温泉　家族とすごす白浜の宿　柳屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【ファミリーにおすすめ】源泉かけ流しで寛ぎの一日を。露天風呂付き客室や貸切風呂が自慢の家族とすごす宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県西牟婁郡白浜町1870 ／ 最寄り駅：白浜 ／ 交通案内：ＪＲ白浜駅：車で約１１分／南紀白浜空港：車で約７分／南紀白浜ＩＣ：車で約１5分／アドベンチャーワールド：車で約１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県西牟婁郡白浜町1870 ／ 最寄り駅：白浜 ／ 交通案内：ＪＲ白浜駅：車で約１１分／南紀白浜空港：車で約７分／南紀白浜ＩＣ：車で約１5分／アドベンチャーワールド：車で約１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function TargetAudienceHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/49387/49387_kya.jpg" alt="オーベルジュ　箱根フォンテーヌブロー仙石亭 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全客室に展望温泉露天風呂付きの宿　　本格フレンチのオーベルジュ</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県足柄下郡箱根町仙石原1245-703 ／ 最寄り駅：箱根湯本 ／ 交通案内：箱根仙石原。お車で：東名御殿場ＩＣより車で３０分。ＪＲで：小田原駅下車湖尻桃源台行バス「箱根カントリー入口」下車</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県足柄下郡箱根町仙石原1245-703 ／ 最寄り駅：箱根湯本 ／ 交通案内：箱根仙石原。お車で：東名御殿場ＩＣより車で３０分。ＪＲで：小田原駅下車湖尻桃源台行バス「箱根カントリー入口」下車</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１２台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function TargetAudienceHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/107622/107622_dai.jpg" alt="いこいの村ヘリテイジ美の山 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【秩父雲海】標高417メートル！眺望自慢の宿★展望風呂・地産食材のお料理が自慢</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 埼玉県秩父郡皆野町皆野3415 ／ 最寄り駅：皆野 ／ 交通案内：関越花園IC約30分。皆野駅より15:00無料送迎（要予約）。西武秩父駅は10名以上で対応。</p>
+                  <p><strong>【所在地・アクセス】</strong>埼玉県秩父郡皆野町皆野3415 ／ 最寄り駅：皆野 ／ 交通案内：関越花園IC約30分。皆野駅より15:00無料送迎（要予約）。西武秩父駅は10名以上で対応。</p>
                   <p>【大人のひとり温泉旅：お部屋食・客室露天風呂＆レイトア】 <strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

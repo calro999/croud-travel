@@ -235,7 +235,7 @@ export default function Page() {
         <section className="space-y-10">
           <div className="text-center space-y-2">
             <h2 className="text-2xl md:text-3xl font-bold text-slate-900">楽天ふるさと納税で泊まる名宿＆厳選ホテル</h2>
-            <p className="text-xs md:text-sm text-slate-500">楽天トラベル公式APIより最新の宿情報・写真・最低参考価格を取得しています
+            <p className="text-xs md:text-sm text-slate-500">宿泊施設データより最新の宿情報・写真・最低参考価格を取得しています
             </p>
           </div>
 
@@ -538,11 +538,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大八幡宮＆厄除開運・勝運祈願の聖地巡礼宿×ふるさと納税厳選ガイド宇佐神宮・石清水八幡宮・筥崎宮：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本三大八幡宮＆厄除開運・勝運祈願の聖地巡礼宿×ふるさと納税厳選ガイド宇佐神宮・石清水八幡宮・筥崎宮」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「日本三大八幡宮＆厄除開運・勝運祈願の聖地巡礼宿×ふるさと納税厳選ガイド宇佐神宮・石清水八幡宮・筥崎宮」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -580,7 +580,7 @@ export default function Page() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 都ホテル博多</td>
-                <td className="p-3 text-stone-600">北海道</td>
+                <td className="p-3 text-stone-600">福岡県福岡市博多区博多駅東2-1-1</td>
                 <td className="p-3 text-stone-600">博多駅直結！徒歩約１分。＜東７番出口＞福岡空港から地下鉄で約７分、車で</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.61（1159件）</td>
@@ -606,7 +606,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/138111/138111_room.jpg" alt="宇佐ホテルリバーサイド 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【フロントは安心の24時間対応】国宝宇佐神宮のお膝元、駅館川のほとり、今日もなごやかに営業中♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大分県宇佐市別府6 ／ 最寄り駅：柳ヶ浦 ／ 交通案内：電車：JR日豊本線、柳ヶ浦駅より車で8分／お車：東九州自動車道、宇佐ICより5分</p>
+                  <p><strong>【所在地・アクセス】</strong>大分県宇佐市別府6 ／ 最寄り駅：柳ヶ浦 ／ 交通案内：電車：JR日豊本線、柳ヶ浦駅より車で8分／お車：東九州自動車道、宇佐ICより5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -628,7 +628,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/10854/10854_war.jpg" alt="京都竹の郷温泉　万葉の湯　ホテル京都エミナース 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ご宿泊者は24時間万葉の湯入り放題！.心ゆくまで温泉を満喫下さい。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 京都府京都市西京区大原野東境谷町2-4 ／ 最寄り駅：桂 ／ 交通案内：最寄駅（ＪＲ桂川、阪急洛西口）から無料送迎バス有。阪急「桂駅」西口より市バス西１、２、５で１５分「境谷大橋」下車すぐ。</p>
+                  <p><strong>【所在地・アクセス】</strong>京都府京都市西京区大原野東境谷町2-4 ／ 最寄り駅：桂 ／ 交通案内：最寄駅（ＪＲ桂川、阪急洛西口）から無料送迎バス有。阪急「桂駅」西口より市バス西１、２、５で１５分「境谷大橋」下車すぐ。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　250台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.07 ／ 立地 ★3.92 ／ 部屋 ★4.04 ／ 設備 ★4.13 ／ 風呂 ★4.4 ／ 食事 ★4.14</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -649,8 +649,8 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/172310/172310.jpg" alt="都ホテル博多 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「日本三大八幡宮＆厄除開運・勝運祈願の聖地巡礼宿×ふるさと納税厳選ガイド宇佐神宮・石清水八幡宮・筥崎宮」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：博多駅直結！徒歩約１分。＜東７番出口＞福岡空港から地下鉄で約７分、車で約15分。一歩足を踏み入れたらもうそこはリゾート！</p>
+                  <p><strong>【宿の特徴・魅力】</strong>さあ、都心のリゾートへ！ここは、いつでも夏休み。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：博多駅直結！徒歩約１分。＜東７番出口＞福岡空港から地下鉄で約７分、車で約15分。一歩足を踏み入れたらもうそこはリゾート！</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -665,7 +665,7 @@ export default function Page() {
 
       {/* フッター */}
       <footer className="bg-slate-950 text-slate-400 py-8 px-4 text-center text-xs border-t border-slate-800">
-        <p>© 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の楽天トラベル公式APIに基づきます。</p>
+        <p>© 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の宿泊施設データに基づきます。</p>
       </footer>
     
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

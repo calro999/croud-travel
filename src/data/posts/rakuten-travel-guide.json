@@ -45,5 +45,31 @@
   ],
   "summary": "楽天トラベルの最新セール・割引クーポン活用術と全国のおすすめ高評価ホテル・温泉宿の選び方を徹底解説。5と0のつく日やスーパーSALE、ふるさと納税宿泊クーポンの併用ポイントをまとめました。",
   "review_count": 103,
-  "is_special_feature": true
+  "is_special_feature": true,
+  "featured_hotels": [
+    {
+      "name": "ＮＩＰＰＯＮＩＡ ＨＯＴＥＬ 函館 港町",
+      "rating": "5",
+      "price": "¥35,122〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F182442%2F182442.html"
+    },
+    {
+      "name": "上高地帝国ホテル",
+      "rating": "5",
+      "price": "¥10,290〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F3093%2F3093.html"
+    },
+    {
+      "name": "富士山と河口湖とホテル風鈴",
+      "rating": "5",
+      "price": "¥19,000〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F193462%2F193462.html"
+    },
+    {
+      "name": "ーＳＯＲＡーＢＡＳＥ",
+      "rating": "5",
+      "price": "¥14,500〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F189010%2F189010.html"
+    }
+  ]
 }

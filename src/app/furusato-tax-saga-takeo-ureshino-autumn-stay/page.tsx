@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-saga-takeo-ureshino-autumn-stay/"
   };
 
@@ -481,11 +481,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">佐賀・武雄＆嬉野温泉！御船山楽園の紅葉ライトアップと美肌の湯・佐賀牛会席｜ふるさと納税で泊まれる名宿ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「佐賀・武雄＆嬉野温泉！御船山楽園の紅葉ライトアップと美肌の湯・佐賀牛会席｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「佐賀・武雄＆嬉野温泉！御船山楽園の紅葉ライトアップと美肌の湯・佐賀牛会席｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -549,7 +549,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/13417/13417_war.jpg" alt="武雄温泉　御船山楽園ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>１５万坪の雄大な敷地に自然と四季の花が溢れています。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 佐賀県武雄市武雄町武雄4100 ／ 最寄り駅：武雄温泉 ／ 交通案内：JR佐世保線「武雄温泉駅」より車で５分 / 長崎自動車道 武雄・北方ICより嬉野方面へ約５km</p>
+                  <p><strong>【所在地・アクセス】</strong>佐賀県武雄市武雄町武雄4100 ／ 最寄り駅：武雄温泉 ／ 交通案内：JR佐世保線「武雄温泉駅」より車で５分 / 長崎自動車道 武雄・北方ICより嬉野方面へ約５km</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.51 ／ 立地 ★4.29 ／ 部屋 ★4.24 ／ 設備 ★4.25 ／ 風呂 ★4.74 ／ 食事 ★4.72</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -571,7 +571,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/19713/19713_heya.jpg" alt="武雄温泉　ホテル春慶屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>☆源泉100％天然温泉展望露天風呂と佐賀の味覚・佐賀牛・佐賀産和牛取扱い認定店の宿☆</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 佐賀県武雄市武雄町大字武雄7407 ／ 最寄り駅：武雄温泉 ／ 交通案内：武雄温泉駅より約１キロ（無料送迎・事前予約）／武雄北方ＩＣ・車15分／佐賀空港・車60分／福岡空港・車60分高速利用</p>
+                  <p><strong>【所在地・アクセス】</strong>佐賀県武雄市武雄町大字武雄7407 ／ 最寄り駅：武雄温泉 ／ 交通案内：武雄温泉駅より約１キロ（無料送迎・事前予約）／武雄北方ＩＣ・車15分／佐賀空港・車60分／福岡空港・車60分高速利用</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -593,7 +593,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/19923/19923_bs.jpg" alt="嬉野温泉　大正屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>◆伝統的な旅館の良さを受継いだ創業約100年の老舗旅館◆</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 佐賀県嬉野市嬉野町下宿乙2276-1 ／ 最寄り駅：武雄温泉 ／ 交通案内：西九州新幹線嬉野温泉駅よりタクシー約5分／九州長崎自動車道 嬉野ICより約10分/ 博多駅交通センターより高速バス2時間</p>
+                  <p><strong>【所在地・アクセス】</strong>佐賀県嬉野市嬉野町下宿乙2276-1 ／ 最寄り駅：武雄温泉 ／ 交通案内：西九州新幹線嬉野温泉駅よりタクシー約5分／九州長崎自動車道 嬉野ICより約10分/ 博多駅交通センターより高速バス2時間</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　150台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

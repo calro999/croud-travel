@@ -236,7 +236,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -681,11 +681,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：迫力の津軽三味線生ライブ！陸奥湾海鮮会席＆青森名湯を味わう風情旅館5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：迫力の津軽三味線生ライブ！陸奥湾海鮮会席＆青森名湯を味わう風情旅館5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：迫力の津軽三味線生ライブ！陸奥湾海鮮会席＆青森名湯を味わう風情旅館5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -767,7 +767,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/32383/32383_ky.jpg" alt="浅虫温泉　絶景の宿　浅虫さくら観光ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【全室海側】陸奥湾を一望★絶景の春夏秋冬★眺望露天風呂★青森の旬な食材★唯一海岸沿に建つ希少な宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 青森県青森市浅虫坂本51-1 ／ 最寄り駅：浅虫温泉 ／ 交通案内：浅虫温泉駅／青森自動車道　青森東ＩＣよりＲ４経由、約１５分</p>
+                  <p><strong>【所在地・アクセス】</strong>青森県青森市浅虫坂本51-1 ／ 最寄り駅：浅虫温泉 ／ 交通案内：浅虫温泉駅／青森自動車道　青森東ＩＣよりＲ４経由、約１５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.01 ／ 立地 ★4.35 ／ 部屋 ★4.05 ／ 設備 ★3.93 ／ 風呂 ★4.13 ／ 食事 ★4.11</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -789,7 +789,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/32085/32085_r.jpg" alt="黒石温泉郷落合温泉　花禅の庄 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>首都圏(羽田空港)から最短2時間半でたどり着ける日本人の隠れ家旅館</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 青森県黒石市袋富山64-2 ／ 最寄り駅：黒石（青森） ／ 交通案内：弘南バス黒石駅より30分/黒石ＩＣより十和田方面に約１２分/弘前駅城東口より送迎有迎えは１５：３０の1本のみ ※要予約※</p>
+                  <p><strong>【所在地・アクセス】</strong>青森県黒石市袋富山64-2 ／ 最寄り駅：黒石（青森） ／ 交通案内：弘南バス黒石駅より30分/黒石ＩＣより十和田方面に約１２分/弘前駅城東口より送迎有迎えは１５：３０の1本のみ ※要予約※</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　約３０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.38 ／ 立地 ★4.15 ／ 部屋 ★4.27 ／ 設備 ★4.22 ／ 風呂 ★4.36 ／ 食事 ★4.46</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -811,7 +811,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/14787/14787_room.jpg" alt="龍飛崎温泉　ホテル竜飛 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>1階喫煙ブースを除き全館禁煙。津軽半島最北端☆ホテル直下は青函トンネル！津軽海峡一望の一軒宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 青森県東津軽郡外ヶ浜町三厩龍浜54-274 ／ 最寄り駅：三厩 ／ 交通案内：JR津軽線『三厩駅』/国道339号線(竜泊ライン)は冬季(11/15～翌4月中旬)通行止め。乗合タクシー「わんタク」あり</p>
+                  <p><strong>【所在地・アクセス】</strong>青森県東津軽郡外ヶ浜町三厩龍浜54-274 ／ 最寄り駅：三厩 ／ 交通案内：JR津軽線『三厩駅』/国道339号線(竜泊ライン)は冬季(11/15～翌4月中旬)通行止め。乗合タクシー「わんタク」あり</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.06 ／ 立地 ★4.48 ／ 部屋 ★4.1 ／ 設備 ★4.02 ／ 風呂 ★4.14 ／ 食事 ★4.17</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -833,7 +833,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/79441/79441_ryo.jpg" alt="ランプの宿　青荷温泉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>電気も電波も届かない「圏外の宿」ほぅっと灯されるランプの明かり。4つの湯めぐり。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 青森県黒石市沖浦青荷沢滝ノ上1-7 ／ 最寄り駅：黒石（青森） ／ 交通案内：弘南鉄道　黒石駅よりバスにて温川行き虹の湖公園下車後、無料送迎バス　※冬季は条件が異なります。詳しくはプラン内容参照</p>
+                  <p><strong>【所在地・アクセス】</strong>青森県黒石市沖浦青荷沢滝ノ上1-7 ／ 最寄り駅：黒石（青森） ／ 交通案内：弘南鉄道　黒石駅よりバスにて温川行き虹の湖公園下車後、無料送迎バス　※冬季は条件が異なります。詳しくはプラン内容参照</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.13 ／ 立地 ★4.44 ／ 部屋 ★3.98 ／ 設備 ★3.96 ／ 風呂 ★4.48 ／ 食事 ★4.35</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -855,7 +855,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4962/4962_bas.jpg" alt="浅虫温泉　南部屋・海扇閣（なんぶや・かいせんかく） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2024年4月リニューアルオープン！１階ロビーにて津軽三味線ショー毎晩開催</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 青森県青森市浅虫蛍谷31 ／ 最寄り駅：浅虫温泉 ／ 交通案内：青い森鉄道　浅虫温泉駅より　徒歩約2分。</p>
+                  <p><strong>【所在地・アクセス】</strong>青森県青森市浅虫蛍谷31 ／ 最寄り駅：浅虫温泉 ／ 交通案内：青い森鉄道　浅虫温泉駅より　徒歩約2分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　60台　宿泊者無料（先着順）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.64 ／ 立地 ★4.6 ／ 部屋 ★4.54 ／ 設備 ★4.55 ／ 風呂 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

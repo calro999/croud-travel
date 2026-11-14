@@ -310,37 +310,6 @@ export default function Page() {
           </div>
         </section>
 
-        {/* よくある質問 FAQ */}
-        <section className="mb-16 bg-white rounded-2xl shadow-sm border border-stone-200/80 p-6 md:p-8">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">よくある質問・歴史建築宿の楽しみ方</h2>
-          <div className="space-y-4">
-            
-            <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-amber-700 font-serif font-black text-lg">Q.</span>
-                <span>アールデコ様式とはどのような特徴がありますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
-                1920年代から30年代にかけて欧米を中心に流行した装飾様式で、直線や円、幾何学模様のパターン、原色のコントラスト、金属やガラスの質感を洗練された形で取り入れているのが特徴です。日本の昭和初期建築にも強い影響を与えました。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-amber-700 font-serif font-black text-lg">Q.</span>
-                <span>ドレスコードや服装に気を付けるべき点はありますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
-                館内レストラン（特にメインダイニングのディナー）ではスマートカジュアル（男性は襟付きシャツやジャケット、女性はワンピースなど）が推奨される場合があります。クラシカルな空間に合わせて少しお洒落をしていくと、特別な非日常感が一層高まります。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-amber-700 font-serif font-black text-lg">Q.</span>
-                <span>女子旅や一人旅でも気兼ねなく楽しめますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
-                大正ロマンや昭和モダンのレトロ建築は、写真映えするフォトスポットが多く、読書やティータイムを静かに満喫できるため、一人旅や大人の女子旅にも大変人気があります。落ち着いたバーやラウンジでのカクテルタイムもおすすめです。
-              </p>
-            </div>
-          </div>
-        </section>
-
         {/* 関連リンク */}
         <section className="bg-stone-200/70 rounded-2xl p-6 md:p-8 text-center border border-stone-300">
           <h3 className="text-xl font-bold text-stone-900 mb-3 font-serif">他のこだわり・テーマ特化ステイを探す</h3>

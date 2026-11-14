@@ -228,11 +228,11 @@ export default function HistoryHeritageHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">世界遺産・霊場巡り＆宿坊体験宿：高野山宿坊・熊野古道・比叡山延暦寺 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「世界遺産・霊場巡り＆宿坊体験宿：高野山宿坊・熊野古道・比叡山延暦寺 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「世界遺産・霊場巡り＆宿坊体験宿：高野山宿坊・熊野古道・比叡山延暦寺 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function HistoryHeritageHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/105973/105973_ka1.jpg" alt="高野山別格本山　宿坊　西門院 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>高野山街の中央.お買い物や各所観光に便利な宿坊。手作りごま豆腐と伝統の「精進料理」は好評です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県伊都郡高野町高野山447 ／ 最寄り駅：主要駅 ／ 交通案内：南海高野山駅より「奥の院」行きバスで１３分。「小田原通り」下車すぐ前。タクシーで約８分。</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県伊都郡高野町高野山447 ／ 交通案内：南海高野山駅より「奥の院」行きバスで１３分。「小田原通り」下車すぐ前。タクシーで約８分。</p>
                   <p>【世界遺産・霊場巡り＆宿坊体験宿：高野山宿坊・熊野古道】 <strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.58 ／ 立地 ★4 ／ 部屋 ★3.68 ／ 設備 ★3.71 ／ 風呂 ★3.44 ／ 食事 ★4.53</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function HistoryHeritageHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/184135/184135.jpg" alt="高野山　宿坊　大明王院 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>四季折々の精進料理や総高野槙風呂でおもてなし。美しい庭園を眺めながら当院で四季の高野山をご満喫下さい</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県伊都郡高野町高野山482 ／ 最寄り駅：極楽橋 ／ 交通案内：南海電鉄高野山駅よりバスにて約１５分。最寄りのバス停（苅萱堂前）から徒歩約３分</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県伊都郡高野町高野山482 ／ 最寄り駅：極楽橋 ／ 交通案内：南海電鉄高野山駅よりバスにて約１５分。最寄りのバス停（苅萱堂前）から徒歩約３分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function HistoryHeritageHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/84994/84994_ko.jpg" alt="高野山　熊谷寺 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>アットホームなおもてなしを心がけ、満足していただけるよう精一杯御奉仕しております。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県伊都郡高野町高野山501 ／ 最寄り駅：主要駅 ／ 交通案内：南海鉄道　高野山駅より定期バスにて「かるかや堂前」下車後徒歩２分</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県伊都郡高野町高野山501 ／ 交通案内：南海鉄道　高野山駅より定期バスにて「かるかや堂前」下車後徒歩２分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１0台　無料　要予約 (EV車充電システム完備）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function HistoryHeritageHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/184602/184602.jpg" alt="高野山　宿坊　宝城院 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>元閑院宮家のご菩提所も兼ねる由緒ある寺院です。古代文化を偲びつつ、心静かなひと時をお過ごし下さい。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県伊都郡高野町高野山156 ／ 最寄り駅：極楽橋 ／ 交通案内：南海電鉄高野山駅より公共交通機関（バス）にて約15分。最寄りのバス停（金剛峯寺前）から徒歩約5分。</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県伊都郡高野町高野山156 ／ 最寄り駅：極楽橋 ／ 交通案内：南海電鉄高野山駅より公共交通機関（バス）にて約15分。最寄りのバス停（金剛峯寺前）から徒歩約5分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　10台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function HistoryHeritageHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/38558/38558_kan.jpg" alt="川湯温泉　山水館　川湯みどりや 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>サウナ付きの源泉かけ流し露天風呂付客室が誕生！心身を癒す上質なひと時をお過ごしください。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県田辺市本宮町川湯13 ／ 最寄り駅：新宮 ／ 交通案内：大阪から阪和道「南紀田辺IC」経由で約3時間／JR「新宮駅」よりバスで約60分／JR「紀伊田辺駅」よりバスで約120分</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県田辺市本宮町川湯13 ／ 最寄り駅：新宮 ／ 交通案内：大阪から阪和道「南紀田辺IC」経由で約3時間／JR「新宮駅」よりバスで約60分／JR「紀伊田辺駅」よりバスで約120分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>60台（無料）／バイク利用の方には屋根付き駐車場有</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function HistoryHeritageHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/177628/177628_kan1.jpg" alt="民宿　すみ家 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>お湯が湧き出る澄んだ大塔川で、夏は水遊び、冬は大露天風呂をどうぞ！熊野古道歩きの疲れも癒されますよ。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県田辺市本宮町川湯1429 ／ 最寄り駅：新宮 ／ 交通案内：ＪＲ　新宮駅よりお車にて約６０分</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県田辺市本宮町川湯1429 ／ 最寄り駅：新宮 ／ 交通案内：ＪＲ　新宮駅よりお車にて約６０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無し　近隣徒歩200mに公共無料駐車場あり　近隣徒歩100mに有料駐車場あり</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

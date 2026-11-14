@@ -236,7 +236,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -681,11 +681,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：輪島塗の器で味わう能登前寿司！能登復興応援＆和倉温泉・七尾湾オーシャン宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：輪島塗の器で味わう能登前寿司！能登復興応援＆和倉温泉・七尾湾オーシャン宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：輪島塗の器で味わう能登前寿司！能登復興応援＆和倉温泉・七尾湾オーシャン宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -767,7 +767,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/14395/14395_kan1.jpg" alt="和倉温泉　ホテル海望 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>お客様に愛され続けて創業130余年。海を望むという名である理由、感動を一度ご体感ください。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県七尾市和倉町和歌崎部12-3 ／ 最寄り駅：和倉温泉 ／ 交通案内：JR和倉温泉駅から当館無料送迎バスで5分。金沢から「のと里山海道」徳田大津JCT、和倉IC経由、車で約1時間。</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県七尾市和倉町和歌崎部12-3 ／ 最寄り駅：和倉温泉 ／ 交通案内：JR和倉温泉駅から当館無料送迎バスで5分。金沢から「のと里山海道」徳田大津JCT、和倉IC経由、車で約1時間。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル海望と湯っ足りパークの間に、海を望む無料駐車場がございます。全150台。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.6 ／ 立地 ★4.72 ／ 部屋 ★4.48 ／ 設備 ★4.23 ／ 風呂 ★4.41 ／ 食事 ★4.71</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -789,7 +789,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/14026/14026_bath.jpg" alt="和倉温泉　味な宿　宝仙閣 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>能登半島の旬の幸と良質の温泉で至福の時間が過ごせる家庭的な宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県七尾市和倉町ヨ部19番地２ ／ 最寄り駅：和倉温泉 ／ 交通案内：北陸道金沢森本IC・のと里山海道・能越道利用 和倉ICより５分 / JR七尾線「和倉温泉駅」より無料送迎あり（要連絡）</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県七尾市和倉町ヨ部19番地２ ／ 最寄り駅：和倉温泉 ／ 交通案内：北陸道金沢森本IC・のと里山海道・能越道利用 和倉ICより５分 / JR七尾線「和倉温泉駅」より無料送迎あり（要連絡）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>運転の苦手な方もラクラク停められる♪広い駐車場（約４０台）をご用意しております。（無料・予約不要）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.2 ／ 立地 ★4.03 ／ 部屋 ★4.12 ／ 設備 ★3.91 ／ 風呂 ★4.12 ／ 食事 ★4.32</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -811,7 +811,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7182/7182_war.jpg" alt="和倉温泉　花ごよみ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>新鮮素材を使用したボリュームある料理が口コミで評判「小さな旅館ならではのサービス」でご希望に応じます</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県七尾市和倉町カ部１３番地 ／ 最寄り駅：和倉温泉 ／ 交通案内：JR和倉温泉駅下車、バスにて5分　総湯まで徒歩1、2分★</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県七尾市和倉町カ部１３番地 ／ 最寄り駅：和倉温泉 ／ 交通案内：JR和倉温泉駅下車、バスにて5分　総湯まで徒歩1、2分★</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　先着順　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.01 ／ 立地 ★3.85 ／ 部屋 ★3.76 ／ 設備 ★3.66 ／ 風呂 ★3.85 ／ 食事 ★4.21</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -833,7 +833,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9707/9707_room.jpg" alt="和倉温泉　宿守屋寿苑 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>当宿は全室、海眺望の客室です。【月の雫フロア ２０２３年春リニューアル】</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県七尾市和倉ひばり2-52 ／ 最寄り駅：和倉温泉 ／ 交通案内：JR七尾線『和倉温泉駅』下車、旅館送迎バスで５分/北陸道金沢森本IC下車～のと里山海道経由能越道『和倉IC』下車１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県七尾市和倉ひばり2-52 ／ 最寄り駅：和倉温泉 ／ 交通案内：JR七尾線『和倉温泉駅』下車、旅館送迎バスで５分/北陸道金沢森本IC下車～のと里山海道経由能越道『和倉IC』下車１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り   80台   予約不要   無料   ＥＶ充電器２台完備。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.68 ／ 立地 ★3.5 ／ 部屋 ★3.67 ／ 設備 ★3.6 ／ 風呂 ★3.71</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -855,7 +855,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/39556/39556_ky.jpg" alt="和倉温泉　日本の宿　のと楽 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>波静かな七尾湾を望む露天風呂で檜の香りを満喫。海の見えるお部屋で能登の旬をごゆっくりご堪能下さい。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県七尾市石崎町香島1-14 ／ 最寄り駅：和倉温泉 ／ 交通案内：ＪＲ　和倉温泉駅より車で５分／能越道和倉ＩＣより車で約７分</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県七尾市石崎町香島1-14 ／ 最寄り駅：和倉温泉 ／ 交通案内：ＪＲ　和倉温泉駅より車で５分／能越道和倉ＩＣより車で約７分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.33 ／ 部屋 ★4.26 ／ 設備 ★4.15 ／ 風呂 ★4.43 ／ 食事 ★4.27</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

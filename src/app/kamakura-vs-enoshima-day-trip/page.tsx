@@ -281,11 +281,11 @@ export default function KamakuraVsEnoshimaPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">鎌倉 vs 江の島 日帰りならどっち？：半日・1日コース別の楽しみ方＆費用を厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「鎌倉 vs 江の島 日帰りならどっち？：半日・1日コース別の楽しみ方＆費用を厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「鎌倉 vs 江の島 日帰りならどっち？：半日・1日コース別の楽しみ方＆費用を厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -376,7 +376,7 @@ export default function KamakuraVsEnoshimaPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/182420/182420.jpg" alt="トーセイホテルココネ鎌倉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2021年10月1日グランドオープン！鎌倉駅西口より徒歩4分。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県鎌倉市御成町7番10-1号 ／ 最寄り駅：鎌倉 ／ 交通案内：JR鎌倉駅西口から徒歩4分</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県鎌倉市御成町7番10-1号 ／ 最寄り駅：鎌倉 ／ 交通案内：JR鎌倉駅西口から徒歩4分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>完全予約制。当ホテル公式ホームぺージをご覧ください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -398,7 +398,7 @@ export default function KamakuraVsEnoshimaPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/161178/161178_kan1.jpg" alt="古都鎌倉のリゾートホテル　ＷｅＢａｓｅ鎌倉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【クラブラウンジ】ホテルメイドの焼き菓子や軽食、各種アルコール類やソフトドリンクをお楽しみください！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県鎌倉市由比ガ浜4丁目10-7 ／ 最寄り駅：由比ヶ浜 ／ 交通案内：JR鎌倉駅直結江ノ島電鉄線に乗り換え、鎌倉駅から由比ヶ浜駅で下車、徒歩3分！　（※長谷駅から由比ヶ浜駅まで乗車時間１分）</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県鎌倉市由比ガ浜4丁目10-7 ／ 最寄り駅：由比ヶ浜 ／ 交通案内：JR鎌倉駅直結江ノ島電鉄線に乗り換え、鎌倉駅から由比ヶ浜駅で下車、徒歩3分！　（※長谷駅から由比ヶ浜駅まで乗車時間１分）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>事前予約制/台数限定/1泊3000円 （15時-翌11時）※12/31～1/3はご利用不可</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -420,7 +420,7 @@ export default function KamakuraVsEnoshimaPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/37896/37896_he.jpg" alt="Hotel　鎌倉　mori 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>鎌倉駅より徒歩１分。チェックイン前後のお荷物の預かりもＯＫ！観光・ビジネスの拠点として最適です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県鎌倉市小町1-5-21 ／ 最寄り駅：鎌倉 ／ 交通案内：鎌倉駅東口より徒歩1分。横浜横須賀道路 朝比奈ＩＣより１５分。</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県鎌倉市小町1-5-21 ／ 最寄り駅：鎌倉 ／ 交通案内：鎌倉駅東口より徒歩1分。横浜横須賀道路 朝比奈ＩＣより１５分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２台　1泊（15:00～翌10:00）2000円(税込）※必ず事前に電話にてご予約下さい。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -442,7 +442,7 @@ export default function KamakuraVsEnoshimaPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/179415/179415_kan1.jpg" alt="江の島ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>江の島ホテル2020年3月開業。江ノ島大橋近くに位置し「江の島アイランドスパ」や観光拠点に便利</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県藤沢市江の島-1-3-8 ／ 最寄り駅：片瀬江ノ島 ／ 交通案内：小田急江ノ島線～片瀬江ノ島駅より徒歩約１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県藤沢市江の島-1-3-8 ／ 最寄り駅：片瀬江ノ島 ／ 交通案内：小田急江ノ島線～片瀬江ノ島駅より徒歩約１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>提携：観光協会江の島駐車場　駐車チケット(24時間/2,000円)のお取り扱い有　その他駐車場は除外</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -464,7 +464,7 @@ export default function KamakuraVsEnoshimaPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/172349/172349_kan1.jpg" alt="天然温泉　伝馬の湯　スーパーホテル湘南・藤沢駅南口 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ＪＲ・小田急電鉄・江ノ島電鉄　藤沢駅より徒歩２分！ビジネスはもちろん、観光としても大変便利です！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県藤沢市南藤沢23-7 ／ 最寄り駅：藤沢 ／ 交通案内：藤沢駅より徒歩にて約２分</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県藤沢市南藤沢23-7 ／ 最寄り駅：藤沢 ／ 交通案内：藤沢駅より徒歩にて約２分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>■提携駐車場■タイムズ藤沢リラパーキング・台数：137台（先着順）入庫後24時間1,200円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -486,7 +486,7 @@ export default function KamakuraVsEnoshimaPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/130658/130658.jpg" alt="８ｈｏｔｅｌ湘南藤沢（エイトホテル湘南藤沢） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>藤沢駅南口徒歩２分／スパ有／館内ラウンジ有／SAUNACHELIN2022受賞！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県藤沢市鵠沼花沢町1-5 ／ 最寄り駅：藤沢 ／ 交通案内：東海道線・小田急江ノ島線・江ノ島電鉄【藤沢駅南口より徒歩2分】電車で江の島まで約7分/鎌倉まで約15分</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県藤沢市鵠沼花沢町1-5 ／ 最寄り駅：藤沢 ／ 交通案内：東海道線・小田急江ノ島線・江ノ島電鉄【藤沢駅南口より徒歩2分】電車で江の島まで約7分/鎌倉まで約15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場有、タイムズ藤沢石上第九駐車場（先着順）入庫後24H￥1,200</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

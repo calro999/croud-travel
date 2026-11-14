@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">岐阜・下呂温泉：日本三名泉・美肌の湯＆飛騨牛トマト丼・温泉街湯めぐり 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「岐阜・下呂温泉：日本三名泉・美肌の湯＆飛騨牛トマト丼・温泉街湯めぐり 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「岐阜・下呂温泉：日本三名泉・美肌の湯＆飛騨牛トマト丼・温泉街湯めぐり 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5616/5616_an.jpg" alt="下呂温泉　下呂ロイヤルホテル雅亭 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>楽天売れ筋旅館ランキング（１１～５０室）東海エリア１位★貸切露天風呂や露天風呂付客室、お部屋食が人気</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岐阜県下呂市湯之島758-15 ／ 最寄り駅：下呂 ／ 交通案内：ＪＲ下呂駅より徒歩５分（送迎あり）【温泉街にある宿】　　　　　　　　　【団体客なし】　【お部屋食】　【コンビニ徒歩１分】</p>
+                  <p><strong>【所在地・アクセス】</strong>岐阜県下呂市湯之島758-15 ／ 最寄り駅：下呂 ／ 交通案内：ＪＲ下呂駅より徒歩５分（送迎あり）【温泉街にある宿】　　　　　　　　　【団体客なし】　【お部屋食】　【コンビニ徒歩１分】</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場完備</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/181693/181693.jpg" alt="桜　Ｒｉｖｅｒ　Ｓｉｄｅ　Ｓｔａｙ　下呂温泉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【食事4.2】源泉かけ流しを超える100%純生貸切温泉は体験型！源泉を使用し全身セルフエステ感覚に！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岐阜県下呂市湯之島868-1 ／ 最寄り駅：下呂 ／ 交通案内：JR下呂駅より徒歩9分</p>
+                  <p><strong>【所在地・アクセス】</strong>岐阜県下呂市湯之島868-1 ／ 最寄り駅：下呂 ／ 交通案内：JR下呂駅より徒歩9分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　10台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.69 ／ 立地 ★3.89 ／ 部屋 ★3.75 ／ 設備 ★3.61 ／ 風呂 ★3.71 ／ 食事 ★3.95</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/13738/13738_you.jpg" alt="下呂温泉　温泉ビジネスホテル富喜屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>『客室で天然温泉を独り占めできる宿』 全国でも珍しい、全室天然温泉シャワー完備。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岐阜県下呂市幸田1185 ／ 最寄り駅：下呂 ／ 交通案内：中央道・中津川ＩＣ／Ｒ２５７～５０分。名神・小牧ＩＣ／Ｒ４１～１０５分。ＪＲ高山線・下呂駅～北方向100ｍ・徒歩２分。</p>
+                  <p><strong>【所在地・アクセス】</strong>岐阜県下呂市幸田1185 ／ 最寄り駅：下呂 ／ 交通案内：中央道・中津川ＩＣ／Ｒ２５７～５０分。名神・小牧ＩＣ／Ｒ４１～１０５分。ＪＲ高山線・下呂駅～北方向100ｍ・徒歩２分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>当館無料Ｐ満車の際は、隣接の「下呂温泉栄パーキング」をご利用ください。当館にて半額補助いたします</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/56778/56778_ky.jpg" alt="下呂温泉　ホテルくさかべアルメリア 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>下呂市街を一望出来る展望露天風呂！和洋中50種を超えるバイキングや飛騨牛を使用したフルコース会席！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岐阜県下呂市幸田1811 ／ 最寄り駅：下呂 ／ 交通案内：ＪＲ高山線　下呂駅より車で３分（無料送迎バス有り）/東海環状道富加関ＩＣより７０分又は中央道中津川ＩＣより６０分</p>
+                  <p><strong>【所在地・アクセス】</strong>岐阜県下呂市幸田1811 ／ 最寄り駅：下呂 ／ 交通案内：ＪＲ高山線　下呂駅より車で３分（無料送迎バス有り）/東海環状道富加関ＩＣより７０分又は中央道中津川ＩＣより６０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料　予約不要　電気自動車充電器あり（有料、要ケーブル持込み）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8886/8886_ryu.jpg" alt="下呂温泉　水明館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>趣のことなる三箇所の大浴場と充実した設備が自慢です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岐阜県下呂市幸田1268 ／ 最寄り駅：下呂 ／ 交通案内：ＪＲ高山本線下呂駅より徒歩３分【下呂駅まで随時送迎バス有】／中央自動車道 中津川ＩＣよりＲ２５７で約６０分</p>
+                  <p><strong>【所在地・アクセス】</strong>岐阜県下呂市幸田1268 ／ 最寄り駅：下呂 ／ 交通案内：ＪＲ高山本線下呂駅より徒歩３分【下呂駅まで随時送迎バス有】／中央自動車道 中津川ＩＣよりＲ２５７で約６０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り ２００台 【無料】 ※大型車の駐車も可能です。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.38 ／ 立地 ★4.38 ／ 部屋 ★4.32 ／ 設備 ★4.26 ／ 風呂 ★4.53 ／ 食事 ★4.36</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/15392/15392_wa.jpg" alt="下呂温泉　紗々羅 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【受賞歴多数！温泉宿・ホテル総選挙女子旅部門1位】源泉かけ流しの美人の湯を堪能。大人の贅沢滞在。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岐阜県下呂市森1412-1 ／ 最寄り駅：下呂 ／ 交通案内：JR高山本線「下呂駅」よりタクシーで3分（タクシー代は当社持ち）。中央道　中津川ICよりR257経由で60分。</p>
+                  <p><strong>【所在地・アクセス】</strong>岐阜県下呂市森1412-1 ／ 最寄り駅：下呂 ／ 交通案内：JR高山本線「下呂駅」よりタクシーで3分（タクシー代は当社持ち）。中央道　中津川ICよりR257経由で60分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★4.12 ／ 部屋 ★4.22 ／ 設備 ★4.06 ／ 風呂 ★4.26 ／ 食事 ★4.24</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -359,11 +359,11 @@ export default function AutumnBudgetKofuHotelsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">甲府：新酒甲州ワインと名物ほうとう！3,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「甲府：新酒甲州ワインと名物ほうとう！3,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「甲府：新酒甲州ワインと名物ほうとう！3,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -445,7 +445,7 @@ export default function AutumnBudgetKofuHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/187168/187168.jpg" alt="トラベルイン甲府 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>甲府駅より徒歩10分｜軽朝食サービス（無料）｜ビジネス・観光の拠点に便利｜貸切風呂あり</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県甲府市丸の内3-19-10 ／ 最寄り駅：甲府 ／ 交通案内：JR中央本線甲府駅徒歩10分、中央道甲府昭和ICから車で10分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県甲府市丸の内3-19-10 ／ 最寄り駅：甲府 ／ 交通案内：JR中央本線甲府駅徒歩10分、中央道甲府昭和ICから車で10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　19台　500円（税込み／泊）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.83 ／ 立地 ★3.6 ／ 部屋 ★3.57 ／ 設備 ★3.43 ／ 風呂 ★3.38 ／ 食事 ★3.91</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -467,7 +467,7 @@ export default function AutumnBudgetKofuHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/129530/129530.jpg" alt="天然温泉　甲州隠し湯　スーパーホテル甲府昭和インター 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>天然温泉（男女入替制）／無料朝食／駐車場100台無料</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県中巨摩郡昭和町西条3787-1 ／ 最寄り駅：甲府 ／ 交通案内：【甲府昭和インターチェンジ】約1分／ 甲府駅より車で約20分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県中巨摩郡昭和町西条3787-1 ／ 最寄り駅：甲府 ／ 交通案内：【甲府昭和インターチェンジ】約1分／ 甲府駅より車で約20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>平面駐車場100台分有り（無料）先着順にて ※大型車は要予約</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.45 ／ 立地 ★4.26 ／ 部屋 ★4.26 ／ 設備 ★4.29 ／ 風呂 ★4.22 ／ 食事 ★4.26</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -489,7 +489,7 @@ export default function AutumnBudgetKofuHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/52640/52640_si.jpg" alt="東横ＩＮＮ甲府駅南口１ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR甲府駅から徒歩7分で朝食・小学生以下添い寝無料のホテル！舞鶴城址公園まで徒歩1分</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県甲府市丸の内1-13-20 ／ 最寄り駅：甲府 ／ 交通案内：ＪＲ　甲府駅より徒歩７分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県甲府市丸の内1-13-20 ／ 最寄り駅：甲府 ／ 交通案内：ＪＲ　甲府駅より徒歩７分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場有　800〜1000円（税込／泊）満車時は徒歩5分の提携コインパーキングへのご案内となります。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.09 ／ 立地 ★3.98 ／ 部屋 ★4.08 ／ 設備 ★3.99 ／ 風呂 ★3.93 ／ 食事 ★3.99</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -511,7 +511,7 @@ export default function AutumnBudgetKofuHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9474/9474_sgl.jpg" alt="センティア・ホテル内藤 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>コンビニ徒歩1分！甲府の中心地にも大変近く、イベント会場の県民文化ホールにも至近です！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県甲府市相生2-3-16 ／ 最寄り駅：甲府 ／ 交通案内：中央道甲府昭和ICより15分/JR甲府駅より徒歩約15分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県甲府市相生2-3-16 ／ 最寄り駅：甲府 ／ 交通案内：中央道甲府昭和ICより15分/JR甲府駅より徒歩約15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>１台/１泊1000円〜（普通車50台まで可）※大型車両につきましては事前にご連絡ください（別途料金）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.09 ／ 立地 ★3.84 ／ 部屋 ★3.82 ／ 設備 ★3.77 ／ 風呂 ★3.69</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -533,7 +533,7 @@ export default function AutumnBudgetKofuHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/68069/68069_s.jpg" alt="天然温泉　甲斐路の湯　ドーミーイン甲府 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>≪天然温泉大浴場に甲府駅周辺で唯一のオートロウリュサウナ導入≫</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県甲府市中央1-14-3 ／ 最寄り駅：甲府 ／ 交通案内：ＪＲ　甲府駅南口より徒歩約１５分　詳細：平和通りを南へ下り、甲府署前交差点を左折、桜通中を右折するとすぐ！</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県甲府市中央1-14-3 ／ 最寄り駅：甲府 ／ 交通案内：ＪＲ　甲府駅南口より徒歩約１５分　詳細：平和通りを南へ下り、甲府署前交差点を左折、桜通中を右折するとすぐ！</p>
                   <p><strong>【駐車場・マイカー利用】</strong>1000円（15時-翌朝11時）先着順連泊時、途中出庫時の取り置き不可満車時は別提携駐車場をご案内。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.4 ／ 立地 ★4.23 ／ 部屋 ★4.32 ／ 設備 ★4.36 ／ 風呂 ★4.46 ／ 食事 ★4.37</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

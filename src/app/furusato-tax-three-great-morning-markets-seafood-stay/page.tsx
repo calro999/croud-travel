@@ -536,11 +536,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大朝市＆獲れたて海鮮・朝ごはん宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本三大朝市＆獲れたて海鮮・朝ごはん宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「日本三大朝市＆獲れたて海鮮・朝ごはん宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -604,7 +604,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/14395/14395_kan1.jpg" alt="和倉温泉　ホテル海望 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>お客様に愛され続けて創業130余年。海を望むという名である理由、感動を一度ご体感ください。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県七尾市和倉町和歌崎部12-3 ／ 最寄り駅：和倉温泉 ／ 交通案内：JR和倉温泉駅から当館無料送迎バスで5分。金沢から「のと里山海道」徳田大津JCT、和倉IC経由、車で約1時間。</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県七尾市和倉町和歌崎部12-3 ／ 最寄り駅：和倉温泉 ／ 交通案内：JR和倉温泉駅から当館無料送迎バスで5分。金沢から「のと里山海道」徳田大津JCT、和倉IC経由、車で約1時間。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル海望と湯っ足りパークの間に、海を望む無料駐車場がございます。全150台。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.6 ／ 立地 ★4.72 ／ 部屋 ★4.48 ／ 設備 ★4.23 ／ 風呂 ★4.41 ／ 食事 ★4.71</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -625,8 +625,8 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/52129/52129_you1.jpg" alt="唐津シーサイドホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「日本三大朝市＆獲れたて海鮮・朝ごはん宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 佐賀県唐津市東唐津4-182 ／ 最寄り駅：東唐津 ／ 交通案内：ＪＲ　東唐津駅より車にて約３分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>唐津湾と虹の松原に囲まれた景色と海の幸・山の幸。天然温泉で心身ともにリラックス！</p>
+                  <p><strong>【所在地・アクセス】</strong>佐賀県唐津市東唐津4-182 ／ 最寄り駅：東唐津 ／ 交通案内：ＪＲ　東唐津駅より車にて約３分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　105台　無料　※障がい者スペースは要予約</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -648,7 +648,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/51868/51868_wa.jpg" alt="三日月イン 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>勝浦駅至近、全室バストイレ付。プラズマクラスタ空気清浄機常備。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 千葉県勝浦市墨名258 ／ 最寄り駅：勝浦 ／ 交通案内：ＪＲ外房線勝浦駅下車　徒歩０分（ロータリー脇）・館山道市原ＩＣ又は圏央道市原鶴舞ＩＣより国道297号線勝浦方面へ。</p>
+                  <p><strong>【所在地・アクセス】</strong>千葉県勝浦市墨名258 ／ 最寄り駅：勝浦 ／ 交通案内：ＪＲ外房線勝浦駅下車　徒歩０分（ロータリー脇）・館山道市原ＩＣ又は圏央道市原鶴舞ＩＣより国道297号線勝浦方面へ。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>先着２５台（無料）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

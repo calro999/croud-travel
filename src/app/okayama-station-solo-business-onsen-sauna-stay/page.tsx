@@ -77,7 +77,7 @@ export default function ArticlePage() {
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.13 更新</time>
           <span>執筆：旅宿クラウド ひとり旅・出張調査班</span>
-          <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式API提携</span>
+          <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">編集部が厳選</span>
         </div>
 
         {/* リード文 */}
@@ -89,7 +89,7 @@ export default function ArticlePage() {
             日本三名園の一つ・岡山後楽園や漆黒の岡山城が佇む「晴れの国」岡山。中四国のビジネスハブとして全国から出張者が集まる岡山駅周辺は、新幹線改札からスムーズにチェックインでき、天然温泉やサウナを備えた高機能ホテルが充実しています。
           </p>
           <p>
-            自家源泉の天然温泉と名物夜鳴きそばを堪能できる人気宿から、最新のウェルネススパを備えた新都市型リゾートホテルまで、楽天トラベル公式APIより直接取得した最新データをもとに厳選紹介します。
+            自家源泉の天然温泉と名物夜鳴きそばを堪能できる人気宿から、最新のウェルネススパを備えた新都市型リゾートホテルまで、宿泊施設データより直接取得した最新データをもとに厳選紹介します。
           </p>
         </div>
       </header>
@@ -346,7 +346,7 @@ export default function ArticlePage() {
           <p className="text-sm text-amber-100 mb-6 max-w-2xl mx-auto">平日限定の一人旅割引や、早期割・直前割など、楽天トラベルならではの特典プランが多数用意されています。人気日程は早めの予約がおすすめです。
           </p>
           <a
-            href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2F"
+            href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fsearch.travel.rakuten.co.jp%2Fds%2Fundated%2Fsearch%3Ff_query%3D%25E5%25B2%25A1%25E5%25B1%25B1%25E7%259C%258C"
             target="_blank"
             rel="sponsored noopener noreferrer"
             className="inline-flex items-center justify-center bg-white text-amber-900 font-bold px-8 py-3 rounded-xl shadow-lg hover:bg-amber-50 transition transform hover:-translate-y-0.5 text-sm sm:text-base"
@@ -429,11 +429,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">岡山駅前出張・天然温泉サウナ：新幹線直結・天然温泉吉備の湯・後楽園＆白壁美観地区！中国・四国の十字路を制する厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「岡山駅前出張・天然温泉サウナ：新幹線直結・天然温泉吉備の湯・後楽園＆白壁美観地区！中国・四国の十字路を制する厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「岡山駅前出張・天然温泉サウナ：新幹線直結・天然温泉吉備の湯・後楽園＆白壁美観地区！中国・四国の十字路を制する厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -497,7 +497,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/184280/184280.jpg" alt="天然温泉　吉備の湯　ドーミーイン岡山（ドーミーイン・御宿野乃　ホテルズグループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>最上階11階には天然温泉大浴場完備、高温サウナにはセルフロウリュ完備。朝食バイキングも人気！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岡山県岡山市北区錦町8-1 ／ 最寄り駅：岡山 ／ 交通案内：■JR東海道・山陽新幹線・山陽本線・赤穂線「岡山」駅  東口（エスカレーターあり） 徒歩 約7分</p>
+                  <p><strong>【所在地・アクセス】</strong>岡山県岡山市北区錦町8-1 ／ 最寄り駅：岡山 ／ 交通案内：■JR東海道・山陽新幹線・山陽本線・赤穂線「岡山」駅  東口（エスカレーターあり） 徒歩 約7分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>敷地内機械式立体駐車場(高さ2.05ｍ)先着順1泊1,300円。満車の際は近隣駐車場をご案内致します</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.52 ／ 立地 ★4.4 ／ 部屋 ★4.5 ／ 設備 ★4.5 ／ 風呂 ★4.57 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -519,7 +519,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/179160/179160.jpg" alt="天然温泉　備前の湯　スーパーホテル岡山駅東口 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>岡山駅近隣で唯一の天然温泉！ウェルカムバー飲み放題！（17〜21時）朝食ビュッフェ無料！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岡山県岡山市北区桑田町17-10 ／ 最寄り駅：岡山 ／ 交通案内：岡山駅東口より徒歩にて約１０分！岡山空港よりバスで約３０分！岡山ICより車で約２０分！</p>
+                  <p><strong>【所在地・アクセス】</strong>岡山県岡山市北区桑田町17-10 ／ 最寄り駅：岡山 ／ 交通案内：岡山駅東口より徒歩にて約１０分！岡山空港よりバスで約３０分！岡山ICより車で約２０分！</p>
                   <p><strong>【駐車場・マイカー利用】</strong>近隣提携駐車場をご案内しております（1500円/泊）　満車時は近隣コインパーキングのご案内。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.48 ／ 立地 ★4.18 ／ 部屋 ★4.33 ／ 設備 ★4.36 ／ 風呂 ★4.3 ／ 食事 ★4.37</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -541,7 +541,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/199176/199176.jpg" alt="アパホテル＆リゾート〈岡山駅新幹線口〉（２０２６年８月ＯＰＥＮ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>岡山で心躍る、大浴場・サウナ・プールのある非日常。洗練された都市のアーバンリゾートホテル。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岡山県岡山市北区桑田町1-10 ／ 最寄り駅：岡山 ／ 交通案内：山陽新幹線・JR各線「岡山駅」後楽園口(東口)から徒歩7分</p>
+                  <p><strong>【所在地・アクセス】</strong>岡山県岡山市北区桑田町1-10 ／ 最寄り駅：岡山 ／ 交通案内：山陽新幹線・JR各線「岡山駅」後楽園口(東口)から徒歩7分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>・駐車場56台　1500円/1泊　・提携駐車場【タイムズ岡山下石井第2】88台　1400円/24時間</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.22 ／ 立地 ★4.16 ／ 部屋 ★4.24 ／ 設備 ★4.24 ／ 風呂 ★4.23 ／ 食事 ★4.02</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

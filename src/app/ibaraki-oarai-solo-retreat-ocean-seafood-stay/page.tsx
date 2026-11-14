@@ -77,7 +77,7 @@ export default function ArticlePage() {
             茨城・大洗ひとり旅＆太平洋神磯おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「茨城・大洗ひとり旅・大洗磯前神社神磯鳥居おこもり」太平洋の荒波朝日・冬のアンコウ鍋・常陸牛！水戸駅直通鹿島臨海鉄道の海辺厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               白砂青松の海岸美と古くからの漁港文化が息づく茨城・大洗。徳川光圀公も絶賛した景勝地であり、太平洋に面した大洗磯前神社の「神磯の鳥居」は、岩礁に砕け散る波しぶきと朝日が織りなす日本屈指の聖地です。冷え込む冬の「あんこう鍋（どぶ汁）」をはじめ、夏秋の岩牡蠣、春のシラスなど、黒潮と親潮が交わる鹿島灘の新鮮な海の幸が一人旅を迎えます。
             </p>
             <p>
-              一人旅を温かく迎えてくれる料理自慢の割烹民宿から、伝統の粋を極めた老舗料亭旅館まで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              一人旅を温かく迎えてくれる料理自慢の割烹民宿から、伝統の粋を極めた老舗料亭旅館まで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -360,11 +360,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">茨城・大洗ひとり旅・大洗磯前神社神磯鳥居おこもり：太平洋の荒波朝日・冬のアンコウ鍋・常陸牛！水戸駅直通鹿島臨海鉄道の海辺厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「茨城・大洗ひとり旅・大洗磯前神社神磯鳥居おこもり：太平洋の荒波朝日・冬のアンコウ鍋・常陸牛！水戸駅直通鹿島臨海鉄道の海辺厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「茨城・大洗ひとり旅・大洗磯前神社神磯鳥居おこもり：太平洋の荒波朝日・冬のアンコウ鍋・常陸牛！水戸駅直通鹿島臨海鉄道の海辺厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -446,7 +446,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/598/598_one.jpg" alt="プレジデントホテル水戸 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【水戸駅南口より徒歩5分】広々したお部屋で快適ステイ♪観光・出張に！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 茨城県水戸市城南2-2-2 ／ 最寄り駅：水戸 ／ 交通案内：JR常磐線水戸駅南口より徒歩5分　北関東道水戸南ICより8分　常磐道水戸ICより25分</p>
+                  <p><strong>【所在地・アクセス】</strong>茨城県水戸市城南2-2-2 ／ 最寄り駅：水戸 ／ 交通案内：JR常磐線水戸駅南口より徒歩5分　北関東道水戸南ICより8分　常磐道水戸ICより25分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>提携コインパーキング（平面駐車場）　1滞在1台500円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★4.2 ／ 部屋 ★4.28 ／ 設備 ★4.06 ／ 風呂 ★4.14 ／ 食事 ★4.12</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -468,7 +468,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1302/1302_k.jpg" alt="ホテル日航つくば 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>つくば駅A3出口より徒歩2分の好立地。つくばの中心に位置する都市型ホテル。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 茨城県つくば市吾妻1-1364-1 ／ 最寄り駅：土浦 ／ 交通案内：つくばエクスプレス「つくば駅」（秋葉原より快速で45分）下車、A3出口より徒歩2分</p>
+                  <p><strong>【所在地・アクセス】</strong>茨城県つくば市吾妻1-1364-1 ／ 最寄り駅：土浦 ／ 交通案内：つくばエクスプレス「つくば駅」（秋葉原より快速で45分）下車、A3出口より徒歩2分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>別館横 ホテル専用駐車場　1泊につき￥1,000（税込み）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★4.27 ／ 部屋 ★4.07 ／ 設備 ★3.92 ／ 風呂 ★3.99 ／ 食事 ★4.35</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -490,7 +490,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1605/1605_twn.jpg" alt="北茨城ロハス　磯原シーサイドホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>常陸灘と星空パノラマの癒し　屋上露天風呂オープン！早朝の日の出、夜は満天星空をお楽しみいただけます♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 茨城県北茨城市磯原町磯原二ッ島2550 ／ 最寄り駅：磯原 ／ 交通案内：北茨城ＩＣ車10分・磯原駅車で約5分・高萩駅車で約20分・大津港駅より車で約10分。東京から約2.5時間</p>
+                  <p><strong>【所在地・アクセス】</strong>茨城県北茨城市磯原町磯原二ッ島2550 ／ 最寄り駅：磯原 ／ 交通案内：北茨城ＩＣ車10分・磯原駅車で約5分・高萩駅車で約20分・大津港駅より車で約10分。東京から約2.5時間</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り６０台 無料（普通車）　大型バス可(要予約)　＊不法改造車の駐車はお断りさせて頂きます。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.46 ／ 立地 ★4.6 ／ 部屋 ★4.33 ／ 設備 ★4.26 ／ 風呂 ★4.42 ／ 食事 ★4.61</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -511,8 +511,8 @@ export default function ArticlePage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1812/1812_twn.jpg" alt="ホテルマロウド筑波 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「茨城・大洗ひとり旅・大洗磯前神社神磯鳥居おこもり（太平洋の荒波朝日・冬のアンコウ鍋・常陸牛）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 茨城県土浦市城北町2-24 ／ 最寄り駅：土浦 ／ 交通案内：JR常磐線 土浦駅西口から徒歩１2分 お車でＴＸつくば駅から２５分 常磐道桜土浦ＩＣから１５分 土浦北ＩＣから１０分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>ホテルマロウド筑波（茨城県土浦市城北町2-24）は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>茨城県土浦市城北町2-24 ／ 最寄り駅：土浦 ／ 交通案内：JR常磐線 土浦駅西口から徒歩１2分 お車でＴＸつくば駅から２５分 常磐道桜土浦ＩＣから１５分 土浦北ＩＣから１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>300台有　無料(普通乗用車)　それ以外(中型車以上)の車は有料￥2200（電話にて要予約）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -534,7 +534,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2099/2099_sb.jpg" alt="ホテルシーズン 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>まんが(10,000冊)にかこまれたホテル　コンビニ目の前</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 茨城県水戸市桜川1-9-6 ／ 最寄り駅：水戸 ／ 交通案内：JR水戸駅南口より徒歩約7分／常磐道・水戸IC約20分／北関東道・水戸南IC約15分／駐車場有料（先着順・30台）</p>
+                  <p><strong>【所在地・アクセス】</strong>茨城県水戸市桜川1-9-6 ／ 最寄り駅：水戸 ／ 交通案内：JR水戸駅南口より徒歩約7分／常磐道・水戸IC約20分／北関東道・水戸南IC約15分／駐車場有料（先着順・30台）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有料駐車場有（1泊500円）先着30台◆高さ2.1ｍ制限あり◆</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.24 ／ 立地 ★4.16 ／ 部屋 ★4.14 ／ 設備 ★4.03 ／ 風呂 ★3.94</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

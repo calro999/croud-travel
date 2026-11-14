@@ -226,11 +226,11 @@ export default function KyushuTravelNightsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">九州旅行 何泊必要？：2泊3日・3泊4日の費用＆福岡→熊本→別府→鹿児島モデルルートの予算内訳：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「九州旅行 何泊必要？：2泊3日・3泊4日の費用＆福岡→熊本→別府→鹿児島モデルルートの予算内訳」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「九州旅行 何泊必要？：2泊3日・3泊4日の費用＆福岡→熊本→別府→鹿児島モデルルートの予算内訳」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -321,7 +321,7 @@ export default function KyushuTravelNightsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/106080/106080_iro.jpg" alt="湯布院温泉　御宿　由布乃庄 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>夜空の星と二人だけの時間に包まれる高原の離れ宿。露天からの星空は絶景です</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大分県由布市湯布院町塚原1009 ／ 最寄り駅：由布院 ／ 交通案内：大分自動車道（由布岳スマートＩＣの場合）５分※ＥＴＣ搭載車のみ（湯布院ＩＣの場合）湯布院交差点から塚原高原方面へ約１５分</p>
+                  <p><strong>【所在地・アクセス】</strong>大分県由布市湯布院町塚原1009 ／ 最寄り駅：由布院 ／ 交通案内：大分自動車道（由布岳スマートＩＣの場合）５分※ＥＴＣ搭載車のみ（湯布院ＩＣの場合）湯布院交差点から塚原高原方面へ約１５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>◆駐車場有、予約不要◆ 送迎【要予約】（由布院駅お迎え16時もしくは17時）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.88 ／ 立地 ★4.66 ／ 部屋 ★4.68 ／ 設備 ★4.68 ／ 風呂 ★4.82</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -343,7 +343,7 @@ export default function KyushuTravelNightsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/65439/65439.jpg" alt="博多天然温泉「旅人の湯」ホテルルートイン博多駅前　－博多口－ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>☆博多駅が目の前でアクセス抜群！雨の日でもほぼ濡れずに直行！天然温泉大浴場、バイキング朝食無料♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福岡県福岡市博多区博多駅前1-1-20 ／ 最寄り駅：博多 ／ 交通案内：JR博多駅より徒歩3分(博多口右のバスターミナル前)／福岡空港より地下鉄約10分／福岡都市高速呉服町ランプより車で約５分</p>
+                  <p><strong>【所在地・アクセス】</strong>福岡県福岡市博多区博多駅前1-1-20 ／ 最寄り駅：博多 ／ 交通案内：JR博多駅より徒歩3分(博多口右のバスターミナル前)／福岡空港より地下鉄約10分／福岡都市高速呉服町ランプより車で約５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>《先着順でのご案内》　1500円（税込）／泊　　26台（普通車6台、ハイルーフ対応20台）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -365,7 +365,7 @@ export default function KyushuTravelNightsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/163065/163065.jpg" alt="スーパーホテルＰｒｅｍｉｅｒ博多駅・筑紫口天然温泉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>博多駅から徒歩約８分☆福岡「原鶴温泉」直送の天然温泉＆ウェルカムバーでリフレッシュ☆</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福岡県福岡市博多区博多駅南2-1-32 ／ 最寄り駅：博多 ／ 交通案内：JR博多駅・筑紫口徒歩約８分！福岡空港から車で約10分！地下鉄博多駅東5番出口！博多駅東３丁目交差点セブンイレブン前</p>
+                  <p><strong>【所在地・アクセス】</strong>福岡県福岡市博多区博多駅南2-1-32 ／ 最寄り駅：博多 ／ 交通案内：JR博多駅・筑紫口徒歩約８分！福岡空港から車で約10分！地下鉄博多駅東5番出口！博多駅東３丁目交差点セブンイレブン前</p>
                   <p><strong>【駐車場・マイカー利用】</strong>7台分（事前予約制） 1泊2，000円 ※高さ制限なし 　　近隣にコインパーキング多数あり</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -387,7 +387,7 @@ export default function KyushuTravelNightsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5012/5012_sgl.jpg" alt="天然温泉　八百治の湯　八百治博多ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>博多駅徒歩5分!!天然温泉大浴場完備!!Wi-Fi無料＆加湿機能付空気清浄機完備♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福岡県福岡市博多区博多駅前4-9-2 ／ 最寄り駅：博多 ／ 交通案内：博多駅博多口より徒歩５分（福岡空港から博多駅まで地下鉄で５分。）</p>
+                  <p><strong>【所在地・アクセス】</strong>福岡県福岡市博多区博多駅前4-9-2 ／ 最寄り駅：博多 ／ 交通案内：博多駅博多口より徒歩５分（福岡空港から博多駅まで地下鉄で５分。）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>契約駐車場　1,500円（税込）/14時～翌日14時</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -409,7 +409,7 @@ export default function KyushuTravelNightsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/14835/14835_war.jpg" alt="由布院温泉　旅館光の家 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>由布岳の麓通りにある小さな湯宿 -盆地の傍 静かな暮らしを‐ 古道具屋、古着屋、図書室、茶室を備える</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大分県由布市湯布院町川上2490 ／ 最寄り駅：由布院 ／ 交通案内：由布院駅より車で５分／湯布院ＩＣから１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>大分県由布市湯布院町川上2490 ／ 最寄り駅：由布院 ／ 交通案内：由布院駅より車で５分／湯布院ＩＣから１０分</p>
                   <p>【九州旅行 何泊必要？：2泊3日・3泊4日の費用＆福岡】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -431,7 +431,7 @@ export default function KyushuTravelNightsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/70229/70229_h.jpg" alt="由布院温泉　旅館　めばえ荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>心静かに季節をめぐる。惜しみなく流れるゆたかな時を、想いを込めてお客様にお贈りいたします。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大分県由布市湯布院町川南249-1 ／ 最寄り駅：由布院 ／ 交通案内：由布院駅より車で５分</p>
+                  <p><strong>【所在地・アクセス】</strong>大分県由布市湯布院町川南249-1 ／ 最寄り駅：由布院 ／ 交通案内：由布院駅より車で５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２５台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

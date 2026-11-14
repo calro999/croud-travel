@@ -597,11 +597,11 @@ export default function FurusatoTaxPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">ブランド地鶏・水炊き・軍鶏料理の名湯宿×ふるさと納税厳選ガイド比内地鶏・土佐ジロー・黒さつま鶏の美食旅：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「ブランド地鶏・水炊き・軍鶏料理の名湯宿×ふるさと納税厳選ガイド比内地鶏・土佐ジロー・黒さつま鶏の美食旅」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「ブランド地鶏・水炊き・軍鶏料理の名湯宿×ふるさと納税厳選ガイド比内地鶏・土佐ジロー・黒さつま鶏の美食旅」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -674,7 +674,7 @@ export default function FurusatoTaxPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2974/2974_heya.jpg" alt="縄文のふる里　大湯温泉　ホテル鹿角 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>開湯800年の名湯と四季折々の彩りが添えられた料理を楽しむ。箱根・富士屋ホテルや花巻温泉もグループ。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 秋田県鹿角市十和田大湯字中谷地５－１ ／ 最寄り駅：十和田南 ／ 交通案内：■十和田湖より車で30分■ＪＲ花輪線十和田南駅から車で１２分■東北道十和田ＩＣから国道１０３号線を十和田湖方面へ１２分</p>
+                  <p><strong>【所在地・アクセス】</strong>秋田県鹿角市十和田大湯字中谷地５－１ ／ 最寄り駅：十和田南 ／ 交通案内：■十和田湖より車で30分■ＪＲ花輪線十和田南駅から車で１２分■東北道十和田ＩＣから国道１０３号線を十和田湖方面へ１２分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　２００台　無料　　　　　　　　　　　　　　　　★お得な宿泊プラン満載★</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -696,7 +696,7 @@ export default function FurusatoTaxPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31154/31154_f1.jpg" alt="龍門亭　千葉旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ライトアップされた庭園を眺めながら露天に浸かる贅沢と、飽きることの無いお料理を堪能あれ。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 秋田県鹿角市十和田大湯上の湯1丁目38-1 ／ 最寄り駅：十和田南 ／ 交通案内：JＲ花輪線　十和田南駅より車で約15分／東北自動車道十和田ＩＣより国道１０３を９ｋｍ</p>
+                  <p><strong>【所在地・アクセス】</strong>秋田県鹿角市十和田大湯上の湯1丁目38-1 ／ 最寄り駅：十和田南 ／ 交通案内：JＲ花輪線　十和田南駅より車で約15分／東北自動車道十和田ＩＣより国道１０３を９ｋｍ</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　３０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.6 ／ 立地 ★4.47 ／ 部屋 ★4.6 ／ 設備 ★4.48 ／ 風呂 ★4.74 ／ 食事 ★4.73</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -718,7 +718,7 @@ export default function FurusatoTaxPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/13810/13810_room.jpg" alt="癒しの湯宿　龍河温泉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>龍河洞・やなせたかし記念館がある田園と星空広がる街の温泉宿。季節料理、とろんとろんの天然温泉を堪能</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 高知県香美市土佐山田町佐古薮430-1 ／ 最寄り駅：土佐山田 ／ 交通案内：高知自動車道・南国ICよりR195を経て龍河洞方面へ約20分／JR土佐山田駅より車で8分。または土電バスで約15分</p>
+                  <p><strong>【所在地・アクセス】</strong>高知県香美市土佐山田町佐古薮430-1 ／ 最寄り駅：土佐山田 ／ 交通案内：高知自動車道・南国ICよりR195を経て龍河洞方面へ約20分／JR土佐山田駅より車で8分。または土電バスで約15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料　屋外駐車場　予約不要　２５台　バイク屋根付き駐輪場も有り</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -740,7 +740,7 @@ export default function FurusatoTaxPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/171986/171986_sho1.jpg" alt="全室露天風呂付　ｏｎｓｅｎ　ｇａｒｄｅｎ　湯本庵　清姫 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全９室離れのデザイナーズ客室は源泉掛流しの温泉露天風呂付！美肌の湯と旬のお食事をお楽しみください♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県霧島市隼人町姫城3-124 ／ 最寄り駅：隼人 ／ 交通案内：【お車】溝辺鹿児島空港ＩＣより約１５分【電車】九州新幹線鹿児島中央駅乗換、JR日豊本線隼人駅下車後、タクシ－で８分。</p>
+                  <p><strong>【所在地・アクセス】</strong>鹿児島県霧島市隼人町姫城3-124 ／ 最寄り駅：隼人 ／ 交通案内：【お車】溝辺鹿児島空港ＩＣより約１５分【電車】九州新幹線鹿児島中央駅乗換、JR日豊本線隼人駅下車後、タクシ－で８分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

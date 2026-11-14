@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">京都・宇治：平等院鳳凰堂・宇治茶＆源氏物語ゆかりの川畔宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「京都・宇治：平等院鳳凰堂・宇治茶＆源氏物語ゆかりの川畔宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「京都・宇治：平等院鳳凰堂・宇治茶＆源氏物語ゆかりの川畔宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -314,7 +314,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/153403/153403_kan1.jpg" alt="宇治壱番宿にがうり 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR宇治駅徒歩5分★１日１組限定の一棟貸切タイプ旅館★平等院も徒歩10分★お茶の街「宇治」に宿泊♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 京都府宇治市宇治里尻2-17 ／ 最寄り駅：宇治（京都） ／ 交通案内：ＪＲ宇治駅及び京阪宇治駅より徒歩にて約５分</p>
+                  <p><strong>【所在地・アクセス】</strong>京都府宇治市宇治里尻2-17 ／ 最寄り駅：宇治（京都） ／ 交通案内：ＪＲ宇治駅及び京阪宇治駅より徒歩にて約５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>★徒歩2分以内に専用駐車場がございます(無料)★</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -336,7 +336,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/151223/151223_kan1.jpg" alt="旅館あづまや　＜京都府＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>西本願寺からすぐ！アクセス抜群の素泊まり旅館です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 京都府京都市下京区堀川通り七条上ル（西本願寺前） ／ 最寄り駅：京都 ／ 交通案内：ＪＲ　京都駅より徒歩にて約12分</p>
+                  <p><strong>【所在地・アクセス】</strong>京都府京都市下京区堀川通り七条上ル（西本願寺前） ／ 最寄り駅：京都 ／ 交通案内：ＪＲ　京都駅より徒歩にて約12分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>なし</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.25 ／ 部屋 ★4.06 ／ 設備 ★4 ／ 風呂 ★4.05</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -358,7 +358,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/167/167_lob.jpg" alt="ホテル日航大阪 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>大阪メトロ「心斎橋駅」直結！道頓堀まで徒歩約9分！観光・ビジネスに大変便利な立地です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大阪府大阪市中央区西心斎橋1-3-3 ／ 最寄り駅：心斎橋 ／ 交通案内：大阪メトロ御堂筋線、長堀鶴見緑地線「心斎橋駅」8番出口直結、梅田、難波、京セラドームなど主要エリアへ抜群のアクセスです。</p>
+                  <p><strong>【所在地・アクセス】</strong>大阪府大阪市中央区西心斎橋1-3-3 ／ 最寄り駅：心斎橋 ／ 交通案内：大阪メトロ御堂筋線、長堀鶴見緑地線「心斎橋駅」8番出口直結、梅田、難波、京セラドームなど主要エリアへ抜群のアクセスです。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　 ご宿泊のお客様は１泊 3000円（12：00～翌12：00まで）にて利用可能！　１６０台</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -380,7 +380,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4841/4841_heya.jpg" alt="京都タワーホテルアネックス 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>アメニティ・ピローバーで快適旅をクリエイト！コワーキングスペースもございます！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 京都府京都市下京区新町通七条下る東塩小路町 595-1 ／ 最寄り駅：京都 ／ 交通案内：ＪＲ京都駅徒歩約3分。京都市営地下鉄京都駅(C10出口)徒歩約1分。チェックイン前＆チェックアウト後の荷物預かりOK！</p>
+                  <p><strong>【所在地・アクセス】</strong>京都府京都市下京区新町通七条下る東塩小路町 595-1 ／ 最寄り駅：京都 ／ 交通案内：ＪＲ京都駅徒歩約3分。京都市営地下鉄京都駅(C10出口)徒歩約1分。チェックイン前＆チェックアウト後の荷物預かりOK！</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無し（提携駐車場もございません。周辺コインパーキングをご利用ください。）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -402,7 +402,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/180370/180370.jpg" alt="ホテルトレンドＪＲ宇治駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR宇治駅南口より徒歩約3分♪源氏物語ミュージアムや平等院鳳凰堂など観光にGood☆</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 京都府宇治市宇治壱番19-2 ／ 最寄り駅：主要駅 ／ 交通案内：JR宇治駅より徒歩にて約3分</p>
+                  <p><strong>【所在地・アクセス】</strong>京都府宇治市宇治壱番19-2 ／ 交通案内：JR宇治駅より徒歩にて約3分</p>
                   <p>【京都・宇治：平等院鳳凰堂・宇治茶＆源氏物語ゆかりの川】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

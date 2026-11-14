@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-akita-tazawako-nyuto-autumn-stay/"
   };
 
@@ -482,11 +482,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋田・乳頭温泉郷の秘湯紅葉＆田沢湖！乳白色硫黄泉の湯めぐりと名物きりたんぽ・比内地鶏｜ふるさと納税で泊まれる名宿ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「秋田・乳頭温泉郷の秘湯紅葉＆田沢湖！乳白色硫黄泉の湯めぐりと名物きりたんぽ・比内地鶏｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「秋田・乳頭温泉郷の秘湯紅葉＆田沢湖！乳白色硫黄泉の湯めぐりと名物きりたんぽ・比内地鶏｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -550,7 +550,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4624/4624_room.jpg" alt="天然温泉　田沢湖レイクリゾート 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>静寂の美、田沢湖まで車で約15分　わんちゃんと一緒の宿泊も人気です♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 秋田県仙北市田沢湖生保内字下高野82-117 ／ 最寄り駅：田沢湖 ／ 交通案内：JR秋田新幹線田沢湖駅からバスで２０分、盛岡Ｉ．Ｃから５０分。田沢湖駅から送迎バスにて約15分（要事前予約）</p>
+                  <p><strong>【所在地・アクセス】</strong>秋田県仙北市田沢湖生保内字下高野82-117 ／ 最寄り駅：田沢湖 ／ 交通案内：JR秋田新幹線田沢湖駅からバスで２０分、盛岡Ｉ．Ｃから５０分。田沢湖駅から送迎バスにて約15分（要事前予約）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５００台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.19 ／ 立地 ★3.99 ／ 部屋 ★4.02 ／ 設備 ★4.01 ／ 風呂 ★4.09 ／ 食事 ★4.29</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -572,7 +572,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/11222/11222_war.jpg" alt="亀の井ホテル　田沢湖 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ブナの森に包まれる泉質自慢の温泉と旬の郷土料理を味わうくつろぎの宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 秋田県仙北市田沢湖生保内駒ケ岳2-32 ／ 最寄り駅：田沢湖 ／ 交通案内：JR田沢湖駅より乳頭温泉行バス約35分「杉谷地」下車　駒ケ岳登山口行きバス停まで徒歩約10分　乳頭温泉まで車で約10分</p>
+                  <p><strong>【所在地・アクセス】</strong>秋田県仙北市田沢湖生保内駒ケ岳2-32 ／ 最寄り駅：田沢湖 ／ 交通案内：JR田沢湖駅より乳頭温泉行バス約35分「杉谷地」下車　駒ケ岳登山口行きバス停まで徒歩約10分　乳頭温泉まで車で約10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.13 ／ 立地 ★3.96 ／ 部屋 ★3.82 ／ 設備 ★3.78 ／ 風呂 ★4.05 ／ 食事 ★4.24</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -594,7 +594,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7188/7188_bath.jpg" alt="四季彩り　秋田づくし　湯瀬ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>源泉かけ流しの「美人の湯」と創作秋田郷土料理を堪能できる「四季彩り、秋田づくし」の宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 秋田県鹿角市八幡平字湯瀬湯端43 ／ 最寄り駅：湯瀬温泉 ／ 交通案内：東北道【鹿角八幡平IC】から車で10分JR盛岡駅から高速バスで73分（湯瀬パーキング下車）【大館能代空港】から車で1時間</p>
+                  <p><strong>【所在地・アクセス】</strong>秋田県鹿角市八幡平字湯瀬湯端43 ／ 最寄り駅：湯瀬温泉 ／ 交通案内：東北道【鹿角八幡平IC】から車で10分JR盛岡駅から高速バスで73分（湯瀬パーキング下車）【大館能代空港】から車で1時間</p>
                   <p><strong>【駐車場・マイカー利用】</strong>１００台（無料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.54 ／ 立地 ★4.5 ／ 部屋 ★4.6 ／ 設備 ★4.49 ／ 風呂 ★4.7 ／ 食事 ★4.65</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

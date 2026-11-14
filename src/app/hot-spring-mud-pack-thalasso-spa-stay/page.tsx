@@ -228,11 +228,11 @@ export default function WellnessRetreatHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">温泉泥パック＆タラソテラピー宿：天然クレイ泥湯・海洋深層水スパ 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「温泉泥パック＆タラソテラピー宿：天然クレイ泥湯・海洋深層水スパ 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「温泉泥パック＆タラソテラピー宿：天然クレイ泥湯・海洋深層水スパ 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -297,7 +297,7 @@ export default function WellnessRetreatHubPage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 長湯温泉　大丸旅館</td>
-                <td className="p-3 text-stone-600">鹿児島県</td>
+                <td className="p-3 text-stone-600">大分県竹田市直入町長湯7992-1</td>
                 <td className="p-3 text-stone-600">JR豊肥本線・豊後竹田駅よりお車にて25分。（駅から路線バスもあります</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.37（199件）</td>
@@ -323,7 +323,7 @@ export default function WellnessRetreatHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/15081/15081_war.jpg" alt="どろ湯の旅籠さくらさくら温泉　霧島神宮温泉郷 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>美しい山々に囲まれた閑静な別荘地にある宿。天然泥湯温泉が自慢の一つ。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県霧島市霧島田口2324-7 ／ 最寄り駅：霧島神宮 ／ 交通案内：【ＪＲ霧島神宮駅】下車タクシー10分。【鹿児島空港】から車で40分。【鹿児島市内】より車で1時間10分</p>
+                  <p><strong>【所在地・アクセス】</strong>鹿児島県霧島市霧島田口2324-7 ／ 最寄り駅：霧島神宮 ／ 交通案内：【ＪＲ霧島神宮駅】下車タクシー10分。【鹿児島空港】から車で40分。【鹿児島市内】より車で1時間10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.57 ／ 立地 ★4.22 ／ 部屋 ★3.9 ／ 設備 ★3.96 ／ 風呂 ★4.38 ／ 食事 ★4.58</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function WellnessRetreatHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/69360/69360_ro.jpg" alt="グランヴィリオリゾート石垣島　Ｏｃｅａｎ’ｓ　Ｗｉｎｇ　＆　Ｖｉｌｌａ　Ｇａｒｄｅｎ＜石垣島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>オーシャンズウィングとヴィラガーデン　趣の異なる２つの宿泊エリアと充実の施設が魅力的な南国リゾート</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県石垣市新川舟蔵2481-1 ／ 最寄り駅：石垣空港 ／ 交通案内：新石垣空港より車で40分</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県石垣市新川舟蔵2481-1 ／ 最寄り駅：石垣空港 ／ 交通案内：新石垣空港より車で40分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　110台収容　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.53 ／ 立地 ★4.47 ／ 部屋 ★4.48 ／ 設備 ★4.41 ／ 風呂 ★4.38 ／ 食事 ★4.5</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function WellnessRetreatHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1973/1973_room.jpg" alt="ＡＮＡインターコンチネンタル石垣リゾート　ｂｙ　ＩＨＧ　＜石垣島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>豊かな自然と文化が根付いた島で、心の琴線に触れる出会いと発見に満ちた、ラグジュアリーリゾート</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県石垣市真栄里354-1 ／ 最寄り駅：石垣空港 ／ 交通案内：石垣空港からお車で約20分, 空港バスで約25分（ホテル前下車）</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県石垣市真栄里354-1 ／ 最寄り駅：石垣空港 ／ 交通案内：石垣空港からお車で約20分, 空港バスで約25分（ホテル前下車）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　456台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function WellnessRetreatHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/168769/168769.jpg" alt="ホテルシギラミラージュ＜宮古島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>旅人を魅了する蒼の楽園 ～二つとして同じ色のない幻想の世界へ～</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県宮古島市上野新里1405-201 ／ 最寄り駅：宮古空港 ／ 交通案内：宮古空港ーホテル：シャトルバス空港カウンター受付（１０時ー１７時３０分）、下地島空港ーホテル：公式サイトをご確認ください</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県宮古島市上野新里1405-201 ／ 最寄り駅：宮古空港 ／ 交通案内：宮古空港ーホテル：シャトルバス空港カウンター受付（１０時ー１７時３０分）、下地島空港ーホテル：公式サイトをご確認ください</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function WellnessRetreatHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/188998/188998.jpg" alt="ホテルシギラミラージュビーチフロント＜宮古島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>宮古島の海と空を一望する「シギラミラージュ」の新たなデスティネーションが誕生</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県宮古島市上野字新里1405-271 ／ 最寄り駅：宮古空港 ／ 交通案内：宮古空港ーホテル：シャトルバス空港カウンター受付（１０時ー１７時３０分）、下地島空港ーホテル：公式サイトをご確認ください</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県宮古島市上野字新里1405-271 ／ 最寄り駅：宮古空港 ／ 交通案内：宮古空港ーホテル：シャトルバス空港カウンター受付（１０時ー１７時３０分）、下地島空港ーホテル：公式サイトをご確認ください</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２３台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -432,8 +432,8 @@ export default function WellnessRetreatHubPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/108788/108788.jpg" alt="長湯温泉　大丸旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「温泉泥パック＆タラソテラピー宿（天然クレイ泥湯・海洋深層水スパ 厳選ガイド）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：JR豊肥本線・豊後竹田駅よりお車にて25分。（駅から路線バスもあります。長湯行き約40分、長湯下車。）</p>
+                  <p><strong>【宿の特徴・魅力】</strong>長湯温泉の老舗宿。全室・芹川に面し温泉街散策にも便利。泡付き炭酸泉「ラムネ温泉館」入浴無料。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：JR豊肥本線・豊後竹田駅よりお車にて25分。（駅から路線バスもあります。長湯行き約40分、長湯下車。）</p>
                   <p>【温泉泥パック＆タラソテラピー宿：天然クレイ泥湯・海洋】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -228,11 +228,11 @@ export default function SakeTourismHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本酒飲み放題＆利き酒Bar完備温泉宿：インクルーシブ・銘酒ラウンジ 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本酒飲み放題＆利き酒Bar完備温泉宿：インクルーシブ・銘酒ラウンジ 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「日本酒飲み放題＆利き酒Bar完備温泉宿：インクルーシブ・銘酒ラウンジ 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -261,7 +261,7 @@ export default function SakeTourismHubPage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 岩室温泉　高志の宿　高島屋</td>
-                <td className="p-3 text-stone-600">山形県</td>
+                <td className="p-3 text-stone-600">新潟県新潟市西蒲区岩室温泉678甲</td>
                 <td className="p-3 text-stone-600">【無料送迎サービス有・２名様より】燕三条駅１４：４０・岩室駅・弥彦駅は</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.57（418件）</td>
@@ -305,7 +305,7 @@ export default function SakeTourismHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/38764/38764_wa.jpg" alt="越後湯沢温泉　湯沢グランドホテル＜新潟県＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★楽天シルバーアワード3年連続受賞★湯沢旅館部門売上1位★出来立ての美味しさが自慢のバイキング★</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県南魚沼郡湯沢町大字湯沢2494 ／ 最寄り駅：越後湯沢 ／ 交通案内：駅から徒歩3分＆湯沢ＩＣから5分！入口はセブンイレブンが目印！※ホテル前の坂道は急なので遠慮なく送迎をご依頼ください。</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県南魚沼郡湯沢町大字湯沢2494 ／ 最寄り駅：越後湯沢 ／ 交通案内：駅から徒歩3分＆湯沢ＩＣから5分！入口はセブンイレブンが目印！※ホテル前の坂道は急なので遠慮なく送迎をご依頼ください。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　約８０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -326,8 +326,8 @@ export default function SakeTourismHubPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/38827/38827.jpg" alt="岩室温泉　高志の宿　高島屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「日本酒飲み放題＆利き酒Bar完備温泉宿（インクルーシブ・銘酒ラウンジ 厳選ガイド）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：【無料送迎サービス有・２名様より】燕三条駅１４：４０・岩室駅・弥彦駅はご到着時刻（いずれも３日前までの予約制）</p>
+                  <p><strong>【宿の特徴・魅力】</strong>【楽天トラベルアワード2024】ブロンズアワード受賞！大切な日は高島屋で…</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：【無料送迎サービス有・２名様より】燕三条駅１４：４０・岩室駅・弥彦駅はご到着時刻（いずれも３日前までの予約制）</p>
                   <p>【日本酒飲み放題＆利き酒Bar完備温泉宿：インクルーシ】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -349,7 +349,7 @@ export default function SakeTourismHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5954/5954_heya.jpg" alt="天童温泉　美味求真の宿　天童ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【楽天トラベルゴールドアワード】【楽天トラベル日本の宿】2024年W受賞！山形の旬を味わえる会席料理</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県天童市鎌田本町2-1-3 ／ 最寄り駅：天童 ／ 交通案内：山形新幹線で東京駅ー天童駅3H。天童駅東口から無料送迎4分（要予約）。天童ICから10分、山形北ICから15分。街中の宿</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県天童市鎌田本町2-1-3 ／ 最寄り駅：天童 ／ 交通案内：山形新幹線で東京駅ー天童駅3H。天童駅東口から無料送迎4分（要予約）。天童ICから10分、山形北ICから15分。街中の宿</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料200台・予約不要｜ホテル玄関前で荷下ろし後、当館から東に約130mの駐車場へご駐車ください</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.58 ／ 立地 ★4.43 ／ 部屋 ★4.53 ／ 設備 ★4.47 ／ 風呂 ★4.54 ／ 食事 ★4.61</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -371,7 +371,7 @@ export default function SakeTourismHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/6191/6191_room.jpg" alt="山代温泉　瑠璃光 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>進化する日本の宿。上質な心地よいもてなしでお客様をお迎えします</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県加賀市山代温泉19-58-1 ／ 最寄り駅：加賀温泉 ／ 交通案内：【ＪＲ】「加賀温泉駅」より無料送迎バス有（詳細は公式HP）【車】北陸道「加賀IC」or「片山津IC」より約20分</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県加賀市山代温泉19-58-1 ／ 最寄り駅：加賀温泉 ／ 交通案内：【ＪＲ】「加賀温泉駅」より無料送迎バス有（詳細は公式HP）【車】北陸道「加賀IC」or「片山津IC」より約20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料200台　※正面玄関へお越しください。スタッフが駐車場をご案内いたします。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.07 ／ 部屋 ★4.27 ／ 設備 ★4.12 ／ 風呂 ★4.31 ／ 食事 ★4.28</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

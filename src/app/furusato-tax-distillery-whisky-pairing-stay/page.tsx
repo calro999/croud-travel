@@ -548,11 +548,11 @@ export default function FurusatoFeaturePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">国産ウイスキー蒸溜所＆銘酒ペアリング宿×ふるさと納税厳選ガイド余市・白州・秩父のモルト旅：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「国産ウイスキー蒸溜所＆銘酒ペアリング宿×ふるさと納税厳選ガイド余市・白州・秩父のモルト旅」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「国産ウイスキー蒸溜所＆銘酒ペアリング宿×ふるさと納税厳選ガイド余市・白州・秩父のモルト旅」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -643,7 +643,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/172337/172337.jpg" alt="アンワインドホテルアンドバー小樽（ＵＮＷＩＮＤ　ＨＯＴＥＬ　＆　ＢＡＲ　小樽） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>北海道随一のクラシックホテルを現代的感性で再生</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道小樽市色内1-8-25 ／ 最寄り駅：小樽 ／ 交通案内：小樽駅より徒歩にて約10分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道小樽市色内1-8-25 ／ 最寄り駅：小樽 ／ 交通案内：小樽駅より徒歩にて約10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　5台　1500円（1泊1台分）　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -665,7 +665,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/825/825_room.jpg" alt="オーセントホテル小樽 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>小樽駅より徒歩5分で観光便利♪海と街を望むノスタルジックなホテル。地産地消の美食も口コミ高評価！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道小樽市稲穂2-15-1 ／ 最寄り駅：主要駅 ／ 交通案内：</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道小樽市稲穂2-15-1 ／ 交通案内：</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -687,7 +687,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/183954/183954.jpg" alt="グリッズプレミアムホテル小樽 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>小樽運河まで徒歩4分！露天風呂付き展望大浴場や3～4名様まで泊まれるバラエティ豊富な客室をご用意♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道小樽市稲穂1丁目3-13 ／ 最寄り駅：小樽 ／ 交通案内：小樽駅より徒歩9分、新千歳空港からお車にて約90分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道小樽市稲穂1丁目3-13 ／ 最寄り駅：小樽 ／ 交通案内：小樽駅より徒歩9分、新千歳空港からお車にて約90分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　45台　1500円（税込／１泊）　先着順（事前予約不可）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -709,7 +709,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/28780/28780_heya.jpg" alt="八ヶ岳の恵みを味わうレストラン＆ホテル　オーベルジュ清里 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>自家農園野菜を使ったレストランが人気！牧場、工房、農園など体験も充実のホテル</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県北杜市高根町清里３５４５－９４３　コートドゥヴェール内 ／ 最寄り駅：清里 ／ 交通案内：JR小海線・清里駅から車で5分／中央道・長坂ICから25分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県北杜市高根町清里３５４５－９４３　コートドゥヴェール内 ／ 最寄り駅：清里 ／ 交通案内：JR小海線・清里駅から車で5分／中央道・長坂ICから25分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -731,7 +731,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2636/2636_rst.jpg" alt="ナチュラルファームシティ農園ホテル　＜秩父の街並みを眼下に望むロケーション＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>高台に位置する当ホテルは運が良ければ雲海に出会えるかも　～「雲海に 出会えたあなたは 運がいい」～</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 埼玉県秩父市大宮5911-1 ／ 最寄り駅：秩父 ／ 交通案内：西武池袋線、西武秩父駅より車で約７分（無料送迎有）、関越自動車道　花園Ｉ．Ｃから皆野寄居バイパス経由約４０分</p>
+                  <p><strong>【所在地・アクセス】</strong>埼玉県秩父市大宮5911-1 ／ 最寄り駅：秩父 ／ 交通案内：西武池袋線、西武秩父駅より車で約７分（無料送迎有）、関越自動車道　花園Ｉ．Ｃから皆野寄居バイパス経由約４０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台　無料　本館前Ｐ　第二駐車場　※先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -753,7 +753,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/184555/184555.jpg" alt="ＮＩＰＰＯＮＩＡ　秩父　門前町 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【池袋から約70分】歴史建築に泊まり、レトロなまちなみに溶け込む非日常体験</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 埼玉県秩父市宮側町17-5（MARUJU棟） ／ 最寄り駅：西武秩父 ／ 交通案内：西武鉄道 西武秩父駅より徒歩にて約15分/秩父鉄道 秩父駅より徒歩にて約5分</p>
+                  <p><strong>【所在地・アクセス】</strong>埼玉県秩父市宮側町17-5（MARUJU棟） ／ 最寄り駅：西武秩父 ／ 交通案内：西武鉄道 西武秩父駅より徒歩にて約15分/秩父鉄道 秩父駅より徒歩にて約5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（MARUJU棟に4台駐車場可能です。満車時は近隣の提携駐車場をご案内いたします。）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

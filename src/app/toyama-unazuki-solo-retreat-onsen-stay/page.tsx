@@ -77,7 +77,7 @@ export default function ArticlePage() {
             富山・宇奈月温泉ひとり旅＆黒部峡谷おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「宇奈月温泉ひとり旅・黒部峡谷秘境おこもり」日本一の透明度・峡谷美露天風呂・富山湾の白えび＆寒鰤！トロッコ電車玄関口の名湯厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               北陸新幹線の黒部宇奈月温泉駅から富山地方鉄道で約25分。立山連峰と黒部峡谷の雄大な大自然に囲まれた宇奈月温泉は、無色透明で肌に優しい「美肌の湯」。黒部峡谷トロッコ電車の起点としても名高く、四季折々のダイナミックな山肌と清らかな水音が、忙しい日常を完全にリセットしてくれます。
             </p>
             <p>
-              プライベート感あふれる渓谷沿いの隠れ宿から、近代的な快適設備とサウナを備えたリゾートホテルまで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              プライベート感あふれる渓谷沿いの隠れ宿から、近代的な快適設備とサウナを備えたリゾートホテルまで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -419,11 +419,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">宇奈月温泉ひとり旅・黒部峡谷秘境おこもり：日本一の透明度・峡谷美露天風呂・富山湾の白えび＆寒鰤！トロッコ電車玄関口の名湯厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「宇奈月温泉ひとり旅・黒部峡谷秘境おこもり：日本一の透明度・峡谷美露天風呂・富山湾の白えび＆寒鰤！トロッコ電車玄関口の名湯厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「宇奈月温泉ひとり旅・黒部峡谷秘境おこもり：日本一の透明度・峡谷美露天風呂・富山湾の白えび＆寒鰤！トロッコ電車玄関口の名湯厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -487,7 +487,7 @@ export default function ArticlePage() {
                 
                 <div className="md:col-span-3 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>令和5年3月オープン☆川側特別室　宇奈月の山々と眼下に清流黒部川　貸切岩盤浴や貸切露天風呂も好評！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 富山県黒部市宇奈月温泉1397-2 ／ 最寄り駅：主要駅 ／ 交通案内：</p>
+                  <p><strong>【所在地・アクセス】</strong>富山県黒部市宇奈月温泉1397-2 ／ 交通案内：</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -509,7 +509,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/184485/184485.jpg" alt="グランヴィリオホテル宇奈月温泉－ルートインホテルズ－ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2022年9月28日(水)OPEN！天然温泉大浴場を備えたリゾートホテルで癒しのひとときを</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 富山県黒部市宇奈月温泉7-26 ／ 最寄り駅：宇奈月温泉 ／ 交通案内：富山地方鉄道 宇奈月温泉駅より 徒歩5分/北陸道 黒部ICより 車で約20分</p>
+                  <p><strong>【所在地・アクセス】</strong>富山県黒部市宇奈月温泉7-26 ／ 最寄り駅：宇奈月温泉 ／ 交通案内：富山地方鉄道 宇奈月温泉駅より 徒歩5分/北陸道 黒部ICより 車で約20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>あり　駐車可能台数：79台　先着順・予約不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.67 ／ 立地 ★4.5 ／ 部屋 ★4.64 ／ 設備 ★4.54 ／ 風呂 ★4.56 ／ 食事 ★4.71</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -531,7 +531,7 @@ export default function ArticlePage() {
                 
                 <div className="md:col-span-3 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>温泉街でも最も眺望の良い場所に立地し、源泉１００％の加温・加水無しの湯がお楽しみいただけます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 富山県黒部市宇奈月温泉53 ／ 最寄り駅：主要駅 ／ 交通案内：</p>
+                  <p><strong>【所在地・アクセス】</strong>富山県黒部市宇奈月温泉53 ／ 交通案内：</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/matcha-green-tea-experience-onsen-stay/"
   };
 
@@ -270,23 +270,6 @@ export default function Page() {
             ))}
           </div>
         </section>
-
-        {/* 旅のQ&A */}
-        <section className="bg-white rounded-2xl p-6 md:p-8 border border-stone-200 shadow-sm space-y-4">
-          <h2 className="text-lg md:text-xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">よくある質問・失敗しない宿選び</h2>
-          <div className="space-y-4 text-sm">
-            <div className="border border-stone-100 rounded-xl p-4 bg-stone-50/50 space-y-2">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5"><span className="text-emerald-700 font-black">Q.</span> おすすめの予約時期やタイミングは？</h3>
-              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">人気の日程（連休や週末）は1〜2ヶ月前には満室になることが多いため、早期予約（早割プラン）の利用がおすすめです。また楽天トラベルの「5と0のつく日」キャンペーンを活用すると最大20%オフのクーポンが併用でき、最もお得に予約できます。
-              </p>
-            </div>
-            <div className="border border-stone-100 rounded-xl p-4 bg-stone-50/50 space-y-2">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5"><span className="text-emerald-700 font-black">Q.</span> 宿選びで失敗しないためのポイントは？</h3>
-              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">宿泊者レビューのお風呂・お食事・接客評価が4.3以上の宿を選ぶと満足度が非常に高くなります。またアクセス手段（送迎バスの有無など）やプランに含まれる特典を事前に確認しておくと安心です。
-              </p>
-            </div>
-          </div>
-        </section>
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -416,11 +399,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：宇治・静岡・八女の銘茶香る！本格茶室体験とお茶風呂・茶懐石の美肌宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：宇治・静岡・八女の銘茶香る！本格茶室体験とお茶風呂・茶懐石の美肌宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：宇治・静岡・八女の銘茶香る！本格茶室体験とお茶風呂・茶懐石の美肌宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -440,7 +423,7 @@ export default function Page() {
               <tbody className="divide-y divide-stone-200">
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 塩原温泉　旅館　上会津屋</td>
-                <td className="p-3 text-stone-600">栃木県</td>
+                <td className="p-3 text-stone-600">栃木県那須塩原市塩原745</td>
                 <td className="p-3 text-stone-600">東北道・西那須野塩原ＩＣから２０分。東北新幹線那須塩原駅からバス６５分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.13（317件）</td>
@@ -449,7 +432,7 @@ export default function Page() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 長湯温泉　大丸旅館</td>
-                <td className="p-3 text-stone-600">栃木県</td>
+                <td className="p-3 text-stone-600">大分県竹田市直入町長湯7992-1</td>
                 <td className="p-3 text-stone-600">JR豊肥本線・豊後竹田駅よりお車にて25分。（駅から路線バスもあります</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.37（199件）</td>
@@ -467,7 +450,7 @@ export default function Page() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 四万温泉　春木亭　なかざわ旅館</td>
-                <td className="p-3 text-stone-600">栃木県</td>
+                <td className="p-3 text-stone-600">群馬県吾妻郡中之条町大字四万4238-41</td>
                 <td className="p-3 text-stone-600">関越自動車道『渋川伊香保IC』→R１７→R３５３で５０分　JR吾妻線『</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.82（704件）</td>
@@ -476,7 +459,7 @@ export default function Page() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. からつ温泉　かぐや姫の湯　旅館　綿屋</td>
-                <td className="p-3 text-stone-600">栃木県</td>
+                <td className="p-3 text-stone-600">佐賀県唐津市大名小路5-10</td>
                 <td className="p-3 text-stone-600">福岡空港、JR博多駅よりＪＲ唐津行唐津駅下車、車３分　徒歩１5分／長崎</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★3.64（282件）</td>
@@ -501,8 +484,8 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4674/4674.jpg" alt="塩原温泉　旅館　上会津屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「宇治・静岡・八女の銘茶香る（本格茶室体験とお茶風呂・茶懐石の美肌宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：東北道・西那須野塩原ＩＣから２０分。東北新幹線那須塩原駅からバス６５分終点下車、徒歩２分。</p>
+                  <p><strong>【宿の特徴・魅力】</strong>旅の目的に合わせて選ぶ「宇治・静岡・八女の銘茶香る（本格茶室体験とお茶風呂・茶懐石の美肌宿5選）」各宿の強みと基本情報は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：東北道・西那須野塩原ＩＣから２０分。東北新幹線那須塩原駅からバス６５分終点下車、徒歩２分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -523,8 +506,8 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/108788/108788.jpg" alt="長湯温泉　大丸旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「宇治・静岡・八女の銘茶香る（本格茶室体験とお茶風呂・茶懐石の美肌宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：JR豊肥本線・豊後竹田駅よりお車にて25分。（駅から路線バスもあります。長湯行き約40分、長湯下車。）</p>
+                  <p><strong>【宿の特徴・魅力】</strong>長湯温泉の老舗宿。全室・芹川に面し温泉街散策にも便利。泡付き炭酸泉「ラムネ温泉館」入浴無料。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：JR豊肥本線・豊後竹田駅よりお車にて25分。（駅から路線バスもあります。長湯行き約40分、長湯下車。）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -546,7 +529,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7027/7027_room.jpg" alt="宮津温泉　料理旅館　茶六別館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>天橋立を望む数奇屋造りの料理宿。春夏には岩牡蠣など丹後の海の幸を生かした京風会席をご堪能下さい。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 京都府宮津市島崎2039-4 ／ 最寄り駅：宮津（京都） ／ 交通案内：車：京都縦貫自動車道宮津天橋立ＩＣより約５分　電車：京都丹後鉄道宮津駅より徒歩１０分　高速バス：キセンバ港館より徒歩７分</p>
+                  <p><strong>【所在地・アクセス】</strong>京都府宮津市島崎2039-4 ／ 最寄り駅：宮津（京都） ／ 交通案内：車：京都縦貫自動車道宮津天橋立ＩＣより約５分　電車：京都丹後鉄道宮津駅より徒歩１０分　高速バス：キセンバ港館より徒歩７分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１２台　無料　宿の左斜め前にございます</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.29 ／ 部屋 ★4.31 ／ 設備 ★4.26 ／ 風呂 ★4.4 ／ 食事 ★4.66</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -567,8 +550,8 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/13630/13630.jpg" alt="四万温泉　春木亭　なかざわ旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「宇治・静岡・八女の銘茶香る（本格茶室体験とお茶風呂・茶懐石の美肌宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：関越自動車道『渋川伊香保IC』→R１７→R３５３で５０分　JR吾妻線『中之条駅』下車バス四万温泉『桐の木平』下車徒歩２分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>山間をのぞむ高台の和の宿５室と離れ１室の現代の旅籠(はたご)</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：関越自動車道『渋川伊香保IC』→R１７→R３５３で５０分　JR吾妻線『中之条駅』下車バス四万温泉『桐の木平』下車徒歩２分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -589,8 +572,8 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/14889/14889.jpg" alt="からつ温泉　かぐや姫の湯　旅館　綿屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「宇治・静岡・八女の銘茶香る（本格茶室体験とお茶風呂・茶懐石の美肌宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：福岡空港、JR博多駅よりＪＲ唐津行唐津駅下車、車３分　徒歩１5分／長崎自動車道多久ＩＣより４０分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>佐賀県唐津市大名小路5-10の「からつ温泉 かぐや姫の湯 旅館 綿屋」（楽天トラベル評価3.64（282件）／1泊目安¥18,340〜）の魅力と宿泊ポイントを詳しく紹介。天然温泉と陶芸コーナー新設の和風老舗旅館。実際の口コミ評価や施設スペック、周辺観光スポット、1泊2日の滞在モデルコースまで分かりやすく案内します。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：福岡空港、JR博多駅よりＪＲ唐津行唐津駅下車、車３分　徒歩１5分／長崎自動車道多久ＩＣより４０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -601,6 +584,9 @@ export default function Page() {
             </div>
           </div></section>
 
+              <div className="my-8">
+          <ShareButtons title="【2026年】宇治・静岡・八女の銘茶香る！本格茶室体験とお茶風呂・茶懐石の美肌宿5選" url="https://croud-travel.pages.dev/matcha-green-tea-experience-onsen-stay/" />
+        </div>
       </main>
     
       <HubRelatedPosts currentSlug="matcha-green-tea-experience-onsen-stay" />

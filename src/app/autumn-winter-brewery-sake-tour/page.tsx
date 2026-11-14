@@ -237,11 +237,11 @@ export default function SeasonalFeaturePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">新酒の季節：日本酒酒蔵めぐり＆地酒飲み比べ温泉宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「新酒の季節：日本酒酒蔵めぐり＆地酒飲み比べ温泉宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「新酒の季節：日本酒酒蔵めぐり＆地酒飲み比べ温泉宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -332,7 +332,7 @@ export default function SeasonalFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/52880/52880_ky.jpg" alt="越後湯沢温泉　湯沢東映ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【クチコミ高評価の温泉宿】 上越最大級の露天大岩風呂が自慢、料理が美味しいクチコミ人気宿も受賞♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県南魚沼郡湯沢町湯沢3459 ／ 最寄り駅：越後湯沢 ／ 交通案内：JR越後湯沢駅西口より徒歩8分。関越自動車道・越後湯沢ICより約5分。越後湯沢駅西口・高速バス乗り場の無料送迎有。</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県南魚沼郡湯沢町湯沢3459 ／ 最寄り駅：越後湯沢 ／ 交通案内：JR越後湯沢駅西口より徒歩8分。関越自動車道・越後湯沢ICより約5分。越後湯沢駅西口・高速バス乗り場の無料送迎有。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>第1～第4駐車場まで82台駐車可能　（無料・予約不要）。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -354,7 +354,7 @@ export default function SeasonalFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2671/2671_heya1.jpg" alt="アルミュール 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>お手製ディナーはコシヒカリライス、アメリカンスタイルの朝食はほかほかパンおかわり自由です♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県南魚沼市石打834-28 ／ 最寄り駅：越後湯沢 ／ 交通案内：車：関越道/湯沢ＩＣから国道17号を新潟方面へ約５ｋｍ熱気球の絵の看板を左折。電車：上越新幹線/越後湯沢駅タクシー約7分</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県南魚沼市石打834-28 ／ 最寄り駅：越後湯沢 ／ 交通案内：車：関越道/湯沢ＩＣから国道17号を新潟方面へ約５ｋｍ熱気球の絵の看板を左折。電車：上越新幹線/越後湯沢駅タクシー約7分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>専用駐車場0分：無料（チェックイン前とアウト後も駐車ＯＫです）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -376,7 +376,7 @@ export default function SeasonalFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7526/7526_fr.jpg" alt="会津東山温泉　くつろぎ宿　新滝 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>明治、大正、昭和と多くの文人、墨客に愛された宿です。趣の異なる多彩な湯処が自慢。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県会津若松市東山町湯本川向222 ／ 最寄り駅：会津若松 ／ 交通案内：【お車】会津若松ＩＣ～約２０分【会津若松駅より】タクシー１３分／周遊バス「あかべぇ」１６分「東山温泉駅バス停」～徒歩３分</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県会津若松市東山町湯本川向222 ／ 最寄り駅：会津若松 ／ 交通案内：【お車】会津若松ＩＣ～約２０分【会津若松駅より】タクシー１３分／周遊バス「あかべぇ」１６分「東山温泉駅バス停」～徒歩３分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場は80台まで無料で可能です★予約は不要です★大型車でのご来館は事前にご相談ください★</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.62 ／ 立地 ★4.49 ／ 部屋 ★4.66 ／ 設備 ★4.57 ／ 風呂 ★4.7 ／ 食事 ★4.72</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -398,7 +398,7 @@ export default function SeasonalFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5887/5887_nk.jpg" alt="会津東山温泉　いろりの宿　芦名 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>7つの囲炉裏に7つの客室。懐かしい佇まいのいろりの宿。お客様より４つ星以上の人気宿に選ばれました</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県会津若松市東山町湯本下原232-1 ／ 最寄り駅：会津若松 ／ 交通案内：最寄駅：会津若松駅からタクシー又は「東山温泉」へ向かう路線バスで約20分　最寄IC:会津若松から約15分</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県会津若松市東山町湯本下原232-1 ／ 最寄り駅：会津若松 ／ 交通案内：最寄駅：会津若松駅からタクシー又は「東山温泉」へ向かう路線バスで約20分　最寄IC:会津若松から約15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　10台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -420,7 +420,7 @@ export default function SeasonalFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5675/5675_bath.jpg" alt="会津東山温泉　くつろぎ宿　千代滝 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>郷土料理ビュッフェと展望露天風呂が自慢☆会津の日本酒が楽しめる地酒の館/ライブラリーラウンジ好評♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県会津若松市東山町湯本寺屋敷43 ／ 最寄り駅：会津若松 ／ 交通案内：【車】会津若松ＩＣ～約20分【会津若松駅より】周遊バスにて「会津武家屋敷前」下車徒歩約15分or送迎有：到着時TEL</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県会津若松市東山町湯本寺屋敷43 ／ 最寄り駅：会津若松 ／ 交通案内：【車】会津若松ＩＣ～約20分【会津若松駅より】周遊バスにて「会津武家屋敷前」下車徒歩約15分or送迎有：到着時TEL</p>
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場：70台有り／ 無料／すべて野外駐車場／予約は不要です</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.47 ／ 立地 ★4.36 ／ 部屋 ★4.57 ／ 設備 ★4.42 ／ 風呂 ★4.5 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -442,7 +442,7 @@ export default function SeasonalFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8099/8099_lb.jpg" alt="ホテル佐野家 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>京都の玄関口、京都駅より徒歩３分！京の風情たっぷり、はんなりとしたおもてなしの創業６５年の老舗の宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 京都府京都市下京区東洞院通七条下ル2東塩小路町539 ／ 最寄り駅：京都 ／ 交通案内：京都の玄関口JR・近鉄・地下鉄京都駅から徒歩3分の立地！地下街ポルタのA-5出口から約20秒の所に位置しております。</p>
+                  <p><strong>【所在地・アクセス】</strong>京都府京都市下京区東洞院通七条下ル2東塩小路町539 ／ 最寄り駅：京都 ／ 交通案内：京都の玄関口JR・近鉄・地下鉄京都駅から徒歩3分の立地！地下街ポルタのA-5出口から約20秒の所に位置しております。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無し。近くの有料駐車場のご案内となります。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

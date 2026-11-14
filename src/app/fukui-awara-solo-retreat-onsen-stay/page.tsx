@@ -77,7 +77,7 @@ export default function ArticlePage() {
             福井・あわら温泉ひとり旅＆北陸名湯おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「あわら温泉ひとり旅・関西の奥座敷おこもり」74本もの独自源泉・庭園露天風呂・越前がにと若狭牛！北陸新幹線延伸で注目の名湯厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               あわら温泉の最大の特長は、各旅館が敷地内に専用の源泉（全74本）を所有している点。宿ごとに泉質や湯温、成分の微妙な違いを楽しむことができ、まさに贅沢な湯巡りが叶います。越前和紙や越前漆器などの伝統美に囲まれ、冬は越前がに、春夏秋は若狭牛や新鮮な地魚といった極上の北陸ガストロノミーが迎えてくれます。
             </p>
             <p>
-              広大な日本庭園と多彩な露天風呂で心身を解き放てる大型旅館から、静かに源泉のぬくもりに浸れる落ち着いた名宿まで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              広大な日本庭園と多彩な露天風呂で心身を解き放てる大型旅館から、静かに源泉のぬくもりに浸れる落ち着いた名宿まで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -421,11 +421,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわら温泉ひとり旅・関西の奥座敷おこもり：74本もの独自源泉・庭園露天風呂・越前がにと若狭牛！北陸新幹線延伸で注目の名湯厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「あわら温泉ひとり旅・関西の奥座敷おこもり：74本もの独自源泉・庭園露天風呂・越前がにと若狭牛！北陸新幹線延伸で注目の名湯厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「あわら温泉ひとり旅・関西の奥座敷おこもり：74本もの独自源泉・庭園露天風呂・越前がにと若狭牛！北陸新幹線延伸で注目の名湯厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -489,7 +489,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/17657/17657_r.jpg" alt="越前あわら温泉　長谷川 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>令和4年3月　和洋室　リニューアル！　全館Wi-Fi完備！　レトロでモダンな刻を過ごせる宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福井県あわら市二面48-14 ／ 最寄り駅：芦原温泉 ／ 交通案内：北陸自動車道金津ＩＣより車15分 　ＪＲでお越しの場合　芦原温泉駅より送迎有（約10分）15時～18時</p>
+                  <p><strong>【所在地・アクセス】</strong>福井県あわら市二面48-14 ／ 最寄り駅：芦原温泉 ／ 交通案内：北陸自動車道金津ＩＣより車15分 　ＪＲでお越しの場合　芦原温泉駅より送迎有（約10分）15時～18時</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.09 ／ 部屋 ★4.46 ／ 設備 ★4.22 ／ 風呂 ★4.3 ／ 食事 ★4.49</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -511,7 +511,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8114/8114_heya.jpg" alt="北陸　福井　あわら温泉　美松 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>◆充実！美松のドリンクインクルーシブスタート◆別邸「美悠」など趣の異なる温泉露天風呂付客室が好評◆</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福井県あわら市舟津26-10 ／ 最寄り駅：芦原温泉 ／ 交通案内：JR北陸新幹線芦原温泉駅より約15分（要予約）／北陸自動車道金津ICより約15分／小松空港より車で約50分</p>
+                  <p><strong>【所在地・アクセス】</strong>福井県あわら市舟津26-10 ／ 最寄り駅：芦原温泉 ／ 交通案内：JR北陸新幹線芦原温泉駅より約15分（要予約）／北陸自動車道金津ICより約15分／小松空港より車で約50分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>先着順の無料駐車場（100台）お体の不自由なお客様には駐車場の確保も致します。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -533,7 +533,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/67904/67904_h.jpg" alt="あわら温泉　みのや泰平閣 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>静かな庭園を眺め、湯に浸かり、旬をいただく。心ほどける大人時間</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福井県あわら市舟津50-1-1 ／ 最寄り駅：芦原温泉 ／ 交通案内：【車】北陸自動車道金津ICより約15分【電車】JR北陸本線芦原温泉駅より車で約10分（無料送迎有／事前予約要）</p>
+                  <p><strong>【所在地・アクセス】</strong>福井県あわら市舟津50-1-1 ／ 最寄り駅：芦原温泉 ／ 交通案内：【車】北陸自動車道金津ICより約15分【電車】JR北陸本線芦原温泉駅より車で約10分（無料送迎有／事前予約要）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　屋外駐車場　約100台（宿泊者無料／予約不要）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

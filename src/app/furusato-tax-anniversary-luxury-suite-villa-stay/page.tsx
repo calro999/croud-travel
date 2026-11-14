@@ -395,37 +395,6 @@ export default function Page() {
           </div>
         </section>
 
-        {/* よくある質問 FAQ */}
-        <section className="mb-16 bg-white rounded-3xl shadow-sm border border-stone-200/80 p-6 md:p-10">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">よくある質問・ふるさと納税トラベルクーポンの疑問を解消</h2>
-          <div className="space-y-4">
-            
-            <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>記念日のケーキや花束の手配はクーポンの割引対象になりますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
-                宿泊プランに「アニバーサリーケーキ付き」「シャンパン＆フラワー特典付き」として含まれているプランであれば、その代金も含めてふるさと納税クーポンの30％割引が適用されます。現地で追加注文するオプションは対象外となる場合があるため、特典込みプランの事前予約が最もお得です。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>プロポーズの相談や演出サポートはしてもらえますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
-                ハイクラス宿やラグジュアリーホテルでは、専任のコンシェルジュがプロポーズのタイミングや部屋のデコレーション、ディナー席の指定などを丁寧にサポートしてくれます。予約完了後に宿へ連絡し、想いを伝えておくのが成功の秘訣です。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>土日や連休などの特別期間でもクーポンは利用できますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
-                はい、ふるさと納税クーポンはゴールデンウィークやお盆、シルバーウィーク、年末年始などの繁忙期でも除外日なく利用可能です（対象宿のプランが販売されている限り）。人気の日程は早く埋まりやすいため、早めの予約をおすすめします。
-              </p>
-            </div>
-          </div>
-        </section>
-
         {/* 相互回遊リンク */}
         <section className="bg-stone-200/80 rounded-3xl p-6 md:p-10 border border-stone-300">
           <div className="text-center max-w-2xl mx-auto mb-8">

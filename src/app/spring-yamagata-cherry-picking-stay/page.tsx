@@ -236,7 +236,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -681,11 +681,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：ルビーのように輝く初夏の宝石！佐藤錦さくらんぼ狩り＆天童・かみのやま名湯宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：ルビーのように輝く初夏の宝石！佐藤錦さくらんぼ狩り＆天童・かみのやま名湯宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：ルビーのように輝く初夏の宝石！佐藤錦さくらんぼ狩り＆天童・かみのやま名湯宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -714,7 +714,7 @@ export default function FeatureDetailPage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 湯田川温泉　つかさや旅館</td>
-                <td className="p-3 text-stone-600">山形県</td>
+                <td className="p-3 text-stone-600">山形県鶴岡市湯田川乙52</td>
                 <td className="p-3 text-stone-600">ＪＲ　鶴岡駅よりタクシーにて２０分／バスにて３０分　庄内空港より車30</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.83（104件）</td>
@@ -767,7 +767,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/11339/11339_room.jpg" alt="さくらんぼ東根温泉　のゝか本郷館(ののか) 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>＼地元次年子焼きの貸切風呂が自慢！！／旬の素材を取り入れた和懐石をお楽しみください♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県東根市温泉町二丁目１－１ ／ 最寄り駅：東根 ／ 交通案内：JR山形新幹線さくらんぼ東根駅車８分／東北中央道東根北ＩＣ車１０分／山形駅車５０分/銀山温泉車５０分／山形空港車１２分</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県東根市温泉町二丁目１－１ ／ 最寄り駅：東根 ／ 交通案内：JR山形新幹線さくらんぼ東根駅車８分／東北中央道東根北ＩＣ車１０分／山形駅車５０分/銀山温泉車５０分／山形空港車１２分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り。旅館の道を挟んで向かい側に１つ、２０台ほどのスペースがあります。無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -788,12 +788,12 @@ export default function FeatureDetailPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/79497/79497.jpg" alt="湯田川温泉　つかさや旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「ルビーのように輝く初夏の宝石（佐藤錦さくらんぼ狩り＆天童・かみのやま名湯宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ　鶴岡駅よりタクシーにて２０分／バスにて３０分　庄内空港より車30分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>1日5組限定。個室でゆったり食事。源泉かけ流しの湯と野菜や魚介類の味を生かした料理に日本酒。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：ＪＲ　鶴岡駅よりタクシーにて２０分／バスにて３０分　庄内空港より車30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「絶景のロケーションとおもてなしに心から癒やされました。」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「湯田川温泉 つかさや旅館での快適な滞在とアクセス面の良さに満足したという評価が寄せられています。」
                   </blockquote>
                 </div>
               </div>
@@ -811,7 +811,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/197453/197453.jpg" alt="旅館　温活サ活 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>本格サウナ、水深１１０ｃｍ水風呂、温泉が楽しめる、食事なし、テレビ無し、おもてなし無し　無人旅館</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県東根市温泉町1-9-13 ／ 最寄り駅：東根 ／ 交通案内：ＪＲ東根駅 徒歩約１８分 山形空港 車で約１３分 山形新幹線　村山駅 車で約６分　さくらんぼ東根温泉のどまんなか</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県東根市温泉町1-9-13 ／ 最寄り駅：東根 ／ 交通案内：ＪＲ東根駅 徒歩約１８分 山形空港 車で約１３分 山形新幹線　村山駅 車で約６分　さくらんぼ東根温泉のどまんなか</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　16台　無料　先着順　満車の場合　温泉組合駐車場もご利用いただけます。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.4 ／ 立地 ★4.43 ／ 部屋 ★4.55 ／ 設備 ★4.6 ／ 風呂 ★4.69</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -833,7 +833,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/147604/147604_meal.jpg" alt="旅館　さくら湯 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【おもてなしの心・琥珀色の源泉掛け流しと四季の味】</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県東根市温泉町1-9-3 ／ 最寄り駅：東根 ／ 交通案内：東根駅よりお車にて約３分。</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県東根市温泉町1-9-3 ／ 最寄り駅：東根 ／ 交通案内：東根駅よりお車にて約３分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３５台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.26 ／ 立地 ★3.97 ／ 部屋 ★3.8 ／ 設備 ★3.93 ／ 風呂 ★4.47 ／ 食事 ★4.61</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -855,7 +855,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9412/9412_kya.jpg" alt="かみのやま温泉　果実（かみ）の山　あづま屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>4月27日リニューアルオープン！源泉かけ流し露天風呂付客室と貸切風呂が完成。※館内全室禁煙</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県上山市新湯1-23 ／ 最寄り駅：かみのやま温泉 ／ 交通案内：山形新幹線かみのやま温泉駅下車徒歩８分≪送迎サービスもございます≫</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県上山市新湯1-23 ／ 最寄り駅：かみのやま温泉 ／ 交通案内：山形新幹線かみのやま温泉駅下車徒歩８分≪送迎サービスもございます≫</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　150台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.01 ／ 立地 ★3.83 ／ 部屋 ★3.8 ／ 設備 ★3.8 ／ 風呂 ★4.08 ／ 食事 ★4.01</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

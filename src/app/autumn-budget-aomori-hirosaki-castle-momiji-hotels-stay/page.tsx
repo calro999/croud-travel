@@ -317,11 +317,11 @@ export default function HirosakiBudgetAutumnPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋の弘前×格安：弘前城菊と紅葉まつりと焼きたてアップルパイ！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「秋の弘前×格安：弘前城菊と紅葉まつりと焼きたてアップルパイ！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「秋の弘前×格安：弘前城菊と紅葉まつりと焼きたてアップルパイ！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -403,7 +403,7 @@ export default function HirosakiBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/504/504_ky.jpg" alt="アートホテル弘前シティ 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR弘前駅前、津軽の自然の彩を感じるホテル。旅の拠点として最適です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 青森県弘前市大町1-1-2 ／ 最寄り駅：弘前 ／ 交通案内：ＪＲ弘前駅中央口より徒歩1分、青森空港より車で約６０分、東北自動車道（大鰐・弘前ＩＣ）より車で約１５分</p>
+                  <p><strong>【所在地・アクセス】</strong>青森県弘前市大町1-1-2 ／ 最寄り駅：弘前 ／ 交通案内：ＪＲ弘前駅中央口より徒歩1分、青森空港より車で約６０分、東北自動車道（大鰐・弘前ＩＣ）より車で約１５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>先着順　ホテル駐車場・提携先駐車場は普通車1泊700円、満車の際は近隣有料駐車場をご案内。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -425,7 +425,7 @@ export default function HirosakiBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/50632/50632_kya.jpg" alt="スーパーホテル弘前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>◆弘前市内の土手町で唯一の天然温泉＆日替わりバイキング朝食無料◆52台駐車場（先着順／500円）◆</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 青森県弘前市土手町148 ／ 最寄り駅：弘前 ／ 交通案内：弘前駅より徒歩約１2分　100円バスで6分　東北自動車道路「大鰐弘前ＩＣ」より20分　駐車場は先着順（1台500円/泊）</p>
+                  <p><strong>【所在地・アクセス】</strong>青森県弘前市土手町148 ／ 最寄り駅：弘前 ／ 交通案内：弘前駅より徒歩約１2分　100円バスで6分　東北自動車道路「大鰐弘前ＩＣ」より20分　駐車場は先着順（1台500円/泊）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　徒歩３分　５２台　１区画５００円／先着順(１５時〜翌朝１０時）。満車の場合は周辺駐車場をご案内。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.13 ／ 立地 ★4 ／ 部屋 ★4.09 ／ 設備 ★4.09 ／ 風呂 ★3.97 ／ 食事 ★4.05</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -447,7 +447,7 @@ export default function HirosakiBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/70913/70913_k.jpg" alt="ホテルルートイン弘前城東 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ＷＯＷＯＷ全室で無料視聴可■VODルームシアター無料視聴可能（一般映画のみ）（コンフォート特典）</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 青森県弘前市城東中央5-5-6 ／ 最寄り駅：弘前 ／ 交通案内：JR奥羽本線弘前駅城東口より約2km/東北自動車道大鰐・弘前ICより約8km/青森空港より弘前バスターミナルまで約60分</p>
+                  <p><strong>【所在地・アクセス】</strong>青森県弘前市城東中央5-5-6 ／ 最寄り駅：弘前 ／ 交通案内：JR奥羽本線弘前駅城東口より約2km/東北自動車道大鰐・弘前ICより約8km/青森空港より弘前バスターミナルまで約60分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１４５台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.07 ／ 立地 ★3.98 ／ 部屋 ★4.08 ／ 設備 ★4.05 ／ 風呂 ★4.02 ／ 食事 ★4.03</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -469,7 +469,7 @@ export default function HirosakiBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/70291/70291_rte.jpg" alt="天然温泉　岩木桜の湯　ドーミーイン弘前（ドーミーイン・御宿野乃　ホテルズグループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>最上階天然温泉大浴場と、高温サウナで心身共にととのう！男性露天風呂からは青森の津軽富士をご覧頂けます</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 青森県弘前市大字本町71-1 ／ 最寄り駅：中央弘前 ／ 交通案内：JR弘前駅より車で約10分</p>
+                  <p><strong>【所在地・アクセス】</strong>青森県弘前市大字本町71-1 ／ 最寄り駅：中央弘前 ／ 交通案内：JR弘前駅より車で約10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有料先着順 普通車700円（1泊）満車時は近隣駐車場へ別途料金にてご案内。大型車は要問合せ。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.29 ／ 立地 ★4.29 ／ 部屋 ★4.32 ／ 設備 ★4.31 ／ 風呂 ★4.42 ／ 食事 ★4.32</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -491,7 +491,7 @@ export default function HirosakiBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/161017/161017_kan1.jpg" alt="ホテルあずまし屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ご当地牛すき焼き、大間まぐろ、ご当地そばなどの夕食が人気。露天風呂完備。全室Wi-Fi無料。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 青森県黒石市板留宮下23 ／ 最寄り駅：主要駅 ／ 交通案内：東北自動車道　黒石ＩＣからお車にて約１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>青森県黒石市板留宮下23 ／ 交通案内：東北自動車道　黒石ＩＣからお車にて約１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>約２０台の無料駐車場有り（先着順）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.24 ／ 立地 ★4.09 ／ 部屋 ★4.1 ／ 設備 ★3.95 ／ 風呂 ★4 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

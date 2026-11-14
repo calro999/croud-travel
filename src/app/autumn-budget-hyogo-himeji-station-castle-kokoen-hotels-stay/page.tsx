@@ -376,11 +376,11 @@ export default function AutumnBudgetHotelsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">姫路駅前：世界遺産姫路城・好古園紅葉＆名物姫路おでん！2,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「姫路駅前：世界遺産姫路城・好古園紅葉＆名物姫路おでん！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「姫路駅前：世界遺産姫路城・好古園紅葉＆名物姫路おでん！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -462,7 +462,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/164/164_ky.jpg" alt="ＡＮＡクラウンプラザホテル神戸　ｂｙ　ＩＨＧ 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>神戸の陸の玄関口、新神戸駅直結の37階高層ホテル。アクセス抜群！大阪まで約25分。全室Wi-fi無料</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県神戸市中央区北野町1 ／ 最寄り駅：新神戸 ／ 交通案内：新幹線・地下鉄「新神戸駅」直結 。三宮まで１駅2分。大阪まで約25分。</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県神戸市中央区北野町1 ／ 最寄り駅：新神戸 ／ 交通案内：新幹線・地下鉄「新神戸駅」直結 。三宮まで１駅2分。大阪まで約25分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>650台(1台1,500円/泊)　※クラブフロア宿泊者は1室1台無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -484,7 +484,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/812/812_si.jpg" alt="姫路城下町　ホテルクレール日笠 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2022年★改装客室OPEN★駅チカ×江戸風湯屋有り</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県姫路市十二所前町22番地 ／ 最寄り駅：姫路 ／ 交通案内：姫路駅より徒歩約５分、駅と姫路城の中間に位置し、姫路城へも徒歩圏内。山陽姫路東IC又は山陽姫路西ICより車にて約２０分</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県姫路市十二所前町22番地 ／ 最寄り駅：姫路 ／ 交通案内：姫路駅より徒歩約５分、駅と姫路城の中間に位置し、姫路城へも徒歩圏内。山陽姫路東IC又は山陽姫路西ICより車にて約２０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有20台　１泊 普通車880円税込、（要予約・ご予約順）　※大型車駐車可、問合せ下さい。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -506,7 +506,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1203/1203_syo.jpg" alt="料亭旅館　ほてるＩＳＡＧＯ神戸 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>料理口コミ高評価！証明書付き神戸牛会席は絶品♪新神戸駅徒歩5分、貸切天然温泉が人気の和モダン旅館</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県神戸市中央区熊内町4-3-7 ／ 最寄り駅：新神戸 ／ 交通案内：ＪＲ新幹線・新神戸駅から徒歩5分。北野異人館・ハーバーランド至近。有馬温泉まで車で30分。USJまで約40分。</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県神戸市中央区熊内町4-3-7 ／ 最寄り駅：新神戸 ／ 交通案内：ＪＲ新幹線・新神戸駅から徒歩5分。北野異人館・ハーバーランド至近。有馬温泉まで車で30分。USJまで約40分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -528,7 +528,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1206/1206_heya.jpg" alt="神戸牛と有馬温泉　天然金泉・銀泉の宿　有馬御苑 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【楽天ゴールド＆日本の宿アワード受賞】部屋食プラン多数★温泉街すぐ！金銀２種の温泉と神戸牛が自慢♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県神戸市北区有馬町1296 ／ 最寄り駅：有馬温泉 ／ 交通案内：神戸電鉄線有馬温泉駅から徒歩２分、阪急バス有馬停より徒歩２分、阪神高速有馬口ＩＣより車３分、中国道西宮北ＩＣより車１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県神戸市北区有馬町1296 ／ 最寄り駅：有馬温泉 ／ 交通案内：神戸電鉄線有馬温泉駅から徒歩２分、阪急バス有馬停より徒歩２分、阪神高速有馬口ＩＣより車３分、中国道西宮北ＩＣより車１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有（50台）ご宿泊者様は利用室数分まで無料　※場所が分かりづらいため当館HPアクセスページ参照下さい</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -550,7 +550,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1421/1421_twn.jpg" alt="シーサイドホテル舞子ビラ神戸 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【1月ポイント10倍！得旅キャンペーンエントリー必須】25年5月新館リニューアル！大浴場/サウナ無料</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県神戸市垂水区東舞子町18-11 ／ 最寄り駅：舞子 ／ 交通案内：ＪＲ神戸線「舞子駅」から徒歩で7分。ＪＲ舞子駅はＪＲ三宮駅から約１９分。</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県神戸市垂水区東舞子町18-11 ／ 最寄り駅：舞子 ／ 交通案内：ＪＲ神戸線「舞子駅」から徒歩で7分。ＪＲ舞子駅はＪＲ三宮駅から約１９分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　300台　1泊24時間　800円（2025年4月1日より）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

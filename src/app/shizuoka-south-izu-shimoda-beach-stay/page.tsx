@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">静岡・南伊豆＆下田・ヒリゾ浜：開国の港街・白浜海岸＆秘境シュノーケリング・金目鯛宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「静岡・南伊豆＆下田・ヒリゾ浜：開国の港街・白浜海岸＆秘境シュノーケリング・金目鯛宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「静岡・南伊豆＆下田・ヒリゾ浜：開国の港街・白浜海岸＆秘境シュノーケリング・金目鯛宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -297,7 +297,7 @@ export default function MicroTouristHubPage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. ホテル四季の蔵　高台から海を臨む　貸切温泉のペットリゾート</td>
-                <td className="p-3 text-stone-600">静岡県</td>
+                <td className="p-3 text-stone-600">静岡県賀茂郡河津町峰1169-13</td>
                 <td className="p-3 text-stone-600">東名高速沼津ＩＣから５０ｋｍ、９０分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（351件）</td>
@@ -323,7 +323,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/138065/138065_rm1.jpg" alt="野の花亭こむらさき 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>１日僅か５組みだけ　おもてなしの日本旅館　全室露天風呂付き客室</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県下田市西本郷1-5-30 ／ 最寄り駅：伊豆急下田 ／ 交通案内：伊豆急下田駅から徒歩３分　降車改札を出て右に進む、線路沿いを進みビジネスホテルTSUMEKIの角を左に曲がり道路を渡る。</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県下田市西本郷1-5-30 ／ 最寄り駅：伊豆急下田 ／ 交通案内：伊豆急下田駅から徒歩３分　降車改札を出て右に進む、線路沿いを進みビジネスホテルTSUMEKIの角を左に曲がり道路を渡る。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>同敷地内旅館建物沿い裏手に屋外駐車場有り　宿泊者無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/67430/67430_fu.jpg" alt="南伊豆弓ヶ浜温泉　季一遊 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>旅館のスタイルにこだわらない自由な発想。南伊豆の「今日の美味」をお届けします。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県賀茂郡南伊豆町湊川口902-1 ／ 最寄り駅：伊豆急下田 ／ 交通案内：伊豆急下田駅より送迎バスにて約20分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県賀茂郡南伊豆町湊川口902-1 ／ 最寄り駅：伊豆急下田 ／ 交通案内：伊豆急下田駅より送迎バスにて約20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5252/5252_irr.jpg" alt="南伊豆弓ヶ浜温泉　古民家の宿　山海 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>どこか懐かしい古民家造り♪下田海中水族館やヒリゾ浜・弓ヶ浜・竜宮窟まで便利！何度でも入れる貸切風呂♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県賀茂郡南伊豆町湊1709 ／ 最寄り駅：伊豆急下田 ／ 交通案内：●お車で/伊豆縦貫道河津ICから30分または小田原厚木道から140分●電車で/伊豆急下田駅よりバス15分、バス停日野</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県賀茂郡南伊豆町湊1709 ／ 最寄り駅：伊豆急下田 ／ 交通案内：●お車で/伊豆縦貫道河津ICから30分または小田原厚木道から140分●電車で/伊豆急下田駅よりバス15分、バス停日野</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（無料）　乗用車15台</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/72672/72672_gr.jpg" alt="南伊豆弓ヶ浜温泉　なごみ詩 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>松の合間から海が見え.波音が聞こえ.浜辺まで徒歩３０秒の好立地</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県賀茂郡南伊豆町湊891-12 ／ 最寄り駅：伊豆急下田 ／ 交通案内：伊豆東海岸道路 伊東～下田 ●東名沼津～伊豆縦貫道～下田～弓ヶ浜/電車利用伊豆急下田からバス４番線</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県賀茂郡南伊豆町湊891-12 ／ 最寄り駅：伊豆急下田 ／ 交通案内：伊豆東海岸道路 伊東～下田 ●東名沼津～伊豆縦貫道～下田～弓ヶ浜/電車利用伊豆急下田からバス４番線</p>
                   <p><strong>【駐車場・マイカー利用】</strong>アスファルト舗装　６台　無料　平らで一台分のスペース広く止めやすさ抜群　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/40166/40166_syo.jpg" alt="弓ヶ浜温泉　くつろぎと料理の御宿　花さと 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>南伊豆名産の伊勢海老・幻の伊豆牛　ここでしか食べれない評価5.0のお食事！貸切温泉も！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県賀茂郡南伊豆町湊417 ／ 最寄り駅：伊豆急下田 ／ 交通案内：電車：伊豆急下田駅よりバス２０分 「弓ヶ浜大橋」下車　車：沼津I.CよりR414で120分　熱海よりR135で150分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県賀茂郡南伊豆町湊417 ／ 最寄り駅：伊豆急下田 ／ 交通案内：電車：伊豆急下田駅よりバス２０分 「弓ヶ浜大橋」下車　車：沼津I.CよりR414で120分　熱海よりR135で150分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.96 ／ 立地 ★4.35 ／ 部屋 ★4.63 ／ 設備 ★4.37 ／ 風呂 ★4.56 ／ 食事 ★4.96</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -432,8 +432,8 @@ export default function MicroTouristHubPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/30048/30048.jpg" alt="ホテル四季の蔵　高台から海を臨む　貸切温泉のペットリゾート 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「静岡・南伊豆＆下田・ヒリゾ浜（開国の港街・白浜海岸＆秘境シュノーケリング・金目鯛宿 厳選ガイド）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：東名高速沼津ＩＣから５０ｋｍ、９０分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>●自家源泉●愛犬と過ごす森の中の休日。アジアンテイストの癒しの隠れ家的スモールホテルです。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：東名高速沼津ＩＣから５０ｋｍ、９０分</p>
                   <p>【静岡・南伊豆＆下田・ヒリゾ浜：開国の港街・白浜海岸＆】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

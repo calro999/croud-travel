@@ -317,11 +317,11 @@ export default function NyutoOnsenAutumnPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋の乳頭温泉郷・田沢湖：ブナ原生林の黄金紅葉と名物きりたんぽ鍋！憧れの秘湯温泉宿5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「秋の乳頭温泉郷・田沢湖：ブナ原生林の黄金紅葉と名物きりたんぽ鍋！憧れの秘湯温泉宿5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「秋の乳頭温泉郷・田沢湖：ブナ原生林の黄金紅葉と名物きりたんぽ鍋！憧れの秘湯温泉宿5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -403,7 +403,7 @@ export default function NyutoOnsenAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/72803/72803_wa.jpg" alt="休暇村　乳頭温泉郷 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>美しいブナ林に囲まれた静かな宿です。温泉浴や森林浴が楽しめ、ここでは時間がゆっくりと流れています。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 秋田県仙北市田沢湖生保内駒ヶ岳2-1 ／ 最寄り駅：田沢湖 ／ 交通案内：ＪＲ　田沢湖駅より羽後交通乳頭温泉行「休暇村」下車、徒歩０分</p>
+                  <p><strong>【所在地・アクセス】</strong>秋田県仙北市田沢湖生保内駒ヶ岳2-1 ／ 最寄り駅：田沢湖 ／ 交通案内：ＪＲ　田沢湖駅より羽後交通乳頭温泉行「休暇村」下車、徒歩０分</p>
                   <p>【秋の乳頭温泉郷・田沢湖：ブナ原生林の黄金紅葉と名物き】 <strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.44 ／ 立地 ★4.5 ／ 部屋 ★4.34 ／ 設備 ★4.35 ／ 風呂 ★4.67 ／ 食事 ★4.63</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -425,7 +425,7 @@ export default function NyutoOnsenAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/139459/139459_rm1.jpg" alt="花心亭しらはま 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【10月〜秋田得旅クーポン配布！】秋田を纏う日本旅館。素足の解放感、専用個室ダイニングで味わう美味。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 秋田県仙北市田沢湖田沢春山145-15 ／ 最寄り駅：田沢湖 ／ 交通案内：田沢湖駅からお車で約12分</p>
+                  <p><strong>【所在地・アクセス】</strong>秋田県仙北市田沢湖田沢春山145-15 ／ 最寄り駅：田沢湖 ／ 交通案内：田沢湖駅からお車で約12分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>当館正面、道路向かい側の春山第一駐車場に駐車し、そのままフロントへお越しください(無料・予約不要)</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.68 ／ 立地 ★4.55 ／ 部屋 ★4.75 ／ 設備 ★4.61 ／ 風呂 ★4.54 ／ 食事 ★4.76</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -447,7 +447,7 @@ export default function NyutoOnsenAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/70772/70772_meal.jpg" alt="田沢湖水沢温泉郷セルリアンリゾートＡＯＮＩ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★2024年露天風呂リニューアル！美肌成分豊富な源泉かけ流しの露天風呂付き大浴場と地元食材の料理</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 秋田県仙北市田沢湖生保内下高野73-13 ／ 最寄り駅：田沢湖 ／ 交通案内：田沢湖駅よりバスで約２５分（乳頭線、水沢温泉郷で降車）、タクシーで約１５分</p>
+                  <p><strong>【所在地・アクセス】</strong>秋田県仙北市田沢湖生保内下高野73-13 ／ 最寄り駅：田沢湖 ／ 交通案内：田沢湖駅よりバスで約２５分（乳頭線、水沢温泉郷で降車）、タクシーで約１５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料／40台／予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.26 ／ 立地 ★4 ／ 部屋 ★4.49 ／ 設備 ★4.21 ／ 風呂 ★4.15 ／ 食事 ★4.34</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -469,7 +469,7 @@ export default function NyutoOnsenAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4624/4624_room.jpg" alt="天然温泉　田沢湖レイクリゾート 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>静寂の美、田沢湖まで車で約15分　わんちゃんと一緒の宿泊も人気です♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 秋田県仙北市田沢湖生保内字下高野82-117 ／ 最寄り駅：田沢湖 ／ 交通案内：JR秋田新幹線田沢湖駅からバスで２０分、盛岡Ｉ．Ｃから５０分。田沢湖駅から送迎バスにて約15分（要事前予約）</p>
+                  <p><strong>【所在地・アクセス】</strong>秋田県仙北市田沢湖生保内字下高野82-117 ／ 最寄り駅：田沢湖 ／ 交通案内：JR秋田新幹線田沢湖駅からバスで２０分、盛岡Ｉ．Ｃから５０分。田沢湖駅から送迎バスにて約15分（要事前予約）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５００台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.19 ／ 立地 ★3.99 ／ 部屋 ★4.02 ／ 設備 ★4.01 ／ 風呂 ★4.09 ／ 食事 ★4.29</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -491,7 +491,7 @@ export default function NyutoOnsenAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/11222/11222_war.jpg" alt="亀の井ホテル　田沢湖 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ブナの森に包まれる泉質自慢の温泉と旬の郷土料理を味わうくつろぎの宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 秋田県仙北市田沢湖生保内駒ケ岳2-32 ／ 最寄り駅：田沢湖 ／ 交通案内：JR田沢湖駅より乳頭温泉行バス約35分「杉谷地」下車　駒ケ岳登山口行きバス停まで徒歩約10分　乳頭温泉まで車で約10分</p>
+                  <p><strong>【所在地・アクセス】</strong>秋田県仙北市田沢湖生保内駒ケ岳2-32 ／ 最寄り駅：田沢湖 ／ 交通案内：JR田沢湖駅より乳頭温泉行バス約35分「杉谷地」下車　駒ケ岳登山口行きバス停まで徒歩約10分　乳頭温泉まで車で約10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.13 ／ 立地 ★3.96 ／ 部屋 ★3.82 ／ 設備 ★3.78 ／ 風呂 ★4.05 ／ 食事 ★4.24</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

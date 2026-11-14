@@ -51,5 +51,31 @@
   ],
   "summary": "大阪府大阪市此花区桜島1丁目1番35号の「ユニバーサル・スタジオ・ジャパン スタジオ・パス（Eチケット）」（楽天トラベル評価★4.71（6969件）／1泊目安¥6,150〜）を徹底解説！≪6年連続楽天トラベルアワード受賞≫2025ゴールドアワード☆ホテル＆旅館オブ・ザ・イヤー全国9位☆。実際の口コミ評価や施設スペック、周辺観光スポット、1泊2日の滞在モデルコースまで分かりやすく案内します。",
   "review_count": 7119,
-  "is_special_feature": true
+  "is_special_feature": true,
+  "featured_hotels": [
+    {
+      "name": "リーベルホテル大阪",
+      "rating": "4.71",
+      "price": "¥4,000〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172378%2F172378.html"
+    },
+    {
+      "name": "コンラッド大阪",
+      "rating": "4.92",
+      "price": "¥30,928〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F162668%2F162668.html"
+    },
+    {
+      "name": "ファミリーロッジ旅籠屋・大阪港店",
+      "rating": "4.83",
+      "price": "¥4,235〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172570%2F172570.html"
+    },
+    {
+      "name": "ＦＯＲＺＡ ホテルフォルツァ大阪なんば道頓堀",
+      "rating": "4.75",
+      "price": "¥7,590〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F182489%2F182489.html"
+    }
+  ]
 }

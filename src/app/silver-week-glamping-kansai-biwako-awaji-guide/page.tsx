@@ -452,11 +452,11 @@ export default function SilverWeekGlampingKansaiBiwakoAwajiPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">関西シルバーウィーク グランピング：琵琶湖レイクビュー＆淡路島オーシャンビュー極上ドームヴィラ：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「関西シルバーウィーク グランピング：琵琶湖レイクビュー＆淡路島オーシャンビュー極上ドームヴィラ」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「関西シルバーウィーク グランピング：琵琶湖レイクビュー＆淡路島オーシャンビュー極上ドームヴィラ」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -538,7 +538,7 @@ export default function SilverWeekGlampingKansaiBiwakoAwajiPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/188928/188928.jpg" alt="ｇｌａｎｔａ　ｇｌａｍｐｉｎｇ　ｖｉｌｌａｇｅ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>琵琶湖の隣にある小さな森。水の音、陽の光、鳥の囀り、自然を感じながら穏やかな時間が流れる特別な場所。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 滋賀県長浜市早崎町1669-1 ／ 最寄り駅：長浜 ／ 交通案内：ＪＲ西日本北陸本線　長浜駅より車で約１５分</p>
+                  <p><strong>【所在地・アクセス】</strong>滋賀県長浜市早崎町1669-1 ／ 最寄り駅：長浜 ／ 交通案内：ＪＲ西日本北陸本線　長浜駅より車で約１５分</p>
                   <p>【関西シルバーウィーク グランピング：琵琶湖レイクビュ】 <strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -560,7 +560,7 @@ export default function SilverWeekGlampingKansaiBiwakoAwajiPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/193389/193389.jpg" alt="ＧＬＡＭＰＩＮＧ＆ＣＡＦＥ　ＭＵＫＵ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>四季ごとに表情を変えるメタセコイア並木沿いにあり、近江牛を堪能できる絶景グランピング。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 滋賀県高島市マキノ町蛭口1663-1 ／ 最寄り駅：マキノ（滋賀） ／ 交通案内：マキノ駅よりコミュニティバスマキノ高原線に乗り、マキノピックランドで下車 徒歩約２分</p>
+                  <p><strong>【所在地・アクセス】</strong>滋賀県高島市マキノ町蛭口1663-1 ／ 最寄り駅：マキノ（滋賀） ／ 交通案内：マキノ駅よりコミュニティバスマキノ高原線に乗り、マキノピックランドで下車 徒歩約２分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -582,7 +582,7 @@ export default function SilverWeekGlampingKansaiBiwakoAwajiPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/183785/183785.jpg" alt="Ｇｌａｍｐｉｎｇ　Ｖｉｌｌａ　鮫家　ＡＷＡＪＩ＜淡路島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>約４００坪オーシャンビューの敷地♪なんでもアリな遊び空間！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県洲本市中津川組105 ／ 最寄り駅：三ノ宮 ／ 交通案内：三ノ宮駅から車で約１時間半／洲本ＩＣから車で約３０分</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県洲本市中津川組105 ／ 最寄り駅：三ノ宮 ／ 交通案内：三ノ宮駅から車で約１時間半／洲本ＩＣから車で約３０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -604,7 +604,7 @@ export default function SilverWeekGlampingKansaiBiwakoAwajiPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/191860/191860.jpg" alt="コスタブルー　あわじ西海岸＜淡路島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【2024年 春OPEN】グランピングやトレーラーなど淡路島 西海岸でアウトドア体験を満喫！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県淡路市野島江崎604 ／ 最寄り駅：舞子 ／ 交通案内：神戸淡路鳴門自動車道 淡路ICより車で約10分</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県淡路市野島江崎604 ／ 最寄り駅：舞子 ／ 交通案内：神戸淡路鳴門自動車道 淡路ICより車で約10分</p>
                   <p>【関西シルバーウィーク グランピング：琵琶湖レイクビュ】 <strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -626,7 +626,7 @@ export default function SilverWeekGlampingKansaiBiwakoAwajiPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/108118/108118_room.jpg" alt="洲本温泉　海のホテル　島花　＜淡路島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>マリーナに臨む海辺のホテルで心と身体を満たすリゾートステイ</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県洲本市小路谷1277-5 ／ 最寄り駅：舞子 ／ 交通案内：車：洲本ICから18分／高速バス：大阪120分・三宮80分で洲本BCへ</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県洲本市小路谷1277-5 ／ 最寄り駅：舞子 ／ 交通案内：車：洲本ICから18分／高速バス：大阪120分・三宮80分で洲本BCへ</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（無料/予約不要）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

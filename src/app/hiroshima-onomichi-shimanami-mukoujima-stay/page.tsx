@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">広島・尾道＆しまなみ海道向島：千光寺坂の街・猫の細道＆尾道ラーメン・サイクリング宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「広島・尾道＆しまなみ海道向島：千光寺坂の街・猫の細道＆尾道ラーメン・サイクリング宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「広島・尾道＆しまなみ海道向島：千光寺坂の街・猫の細道＆尾道ラーメン・サイクリング宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/196258/196258.jpg" alt="町家旅館　航　ＨＯＴＥＬ　ｗａｔａｒｉ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>広島尾道の一棟貸し宿で大人の隠れ家ステイ｜サイクリスト歓迎</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 広島県尾道市久保3-11-11-2 ／ 最寄り駅：尾道 ／ 交通案内：ＪＲ『尾道』駅から徒歩約２３分 、『福山西ＩＣ』から車で約１５分</p>
+                  <p><strong>【所在地・アクセス】</strong>広島県尾道市久保3-11-11-2 ／ 最寄り駅：尾道 ／ 交通案内：ＪＲ『尾道』駅から徒歩約２３分 、『福山西ＩＣ』から車で約１５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/74580/74580_wa.jpg" alt="鞆の浦温泉　ホテル鴎風亭 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2022年3月　「2タイプのスイートルーム」　「プレミアムラウンジ」がOPEN！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 広島県福山市鞆町鞆136 ／ 最寄り駅：福山 ／ 交通案内：福山駅南口～予約制シャトルバス1日3便12：00／14：45／16：15　福山東IC・福山西IC共に車で30分</p>
+                  <p><strong>【所在地・アクセス】</strong>広島県福山市鞆町鞆136 ／ 最寄り駅：福山 ／ 交通案内：福山駅南口～予約制シャトルバス1日3便12：00／14：45／16：15　福山東IC・福山西IC共に車で30分</p>
                   <p>【広島・尾道＆しまなみ海道向島：千光寺坂の街・猫の細道】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7099/7099_bath.jpg" alt="鞆の浦温泉　景勝館　漣亭 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【2024年3月全館リニューアルオープン】鞆の浦散策に最適な場所に立地する、料理とおもてなし自慢の宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 広島県福山市鞆町鞆421 ／ 最寄り駅：福山 ／ 交通案内：福山駅～予約制シャトルバス1日3便12：00／14：45／16：15　福山東IC・福山西IC共に車で30分</p>
+                  <p><strong>【所在地・アクセス】</strong>広島県福山市鞆町鞆421 ／ 最寄り駅：福山 ／ 交通案内：福山駅～予約制シャトルバス1日3便12：00／14：45／16：15　福山東IC・福山西IC共に車で30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料。 敷地内にはございません。約400ｍ離れた場所にございます。スタッフでご移動かご誘導します。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function MicroTouristHubPage() {
                 
                 <div className="md:col-span-3 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>目の前に広がる尾道の絶景をお楽しみください☆特におすすめは夜景！水面に映る街灯りが幻想的です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 広島県尾道市向島町84-2 ／ 最寄り駅：主要駅 ／ 交通案内：</p>
+                  <p><strong>【所在地・アクセス】</strong>広島県尾道市向島町84-2 ／ 交通案内：</p>
                   <p>【広島・尾道＆しまなみ海道向島：千光寺坂の街・猫の細道】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4612/4612_heya.jpg" alt="尾道第一ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【尾道駅から徒歩3分】◆無料駐車場◆しまなみ海道観光＆サイクリングの拠点に＜尾道水道を望む客室あり＞</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 広島県尾道市西御所町4-7 ／ 最寄り駅：尾道 ／ 交通案内：ＪＲ尾道駅より徒歩３分、新尾道駅より車で７分。</p>
+                  <p><strong>【所在地・アクセス】</strong>広島県尾道市西御所町4-7 ／ 最寄り駅：尾道 ／ 交通案内：ＪＲ尾道駅より徒歩３分、新尾道駅より車で７分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場有り　３０台。　※トラックや大型バスなどは有料。（要事前相談）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/783/783_twn.jpg" alt="グリーンヒルホテル尾道 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ＪＲ尾道駅から徒歩２分に位置し、尾道観光やしまなみ海道サイクリングの拠点に最適！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 広島県尾道市東御所町9-1 ／ 最寄り駅：尾道 ／ 交通案内：山陽本線尾道駅駅前　山陽新幹線新尾道駅より車で７分 山陽自動車道福山西・尾道ＩＣより約２０分</p>
+                  <p><strong>【所在地・アクセス】</strong>広島県尾道市東御所町9-1 ／ 最寄り駅：尾道 ／ 交通案内：山陽本線尾道駅駅前　山陽新幹線新尾道駅より車で７分 山陽自動車道福山西・尾道ＩＣより約２０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>専用駐車場無し。駅前港湾駐車場 2000円/1日 1000円の割引券あり。＊満車の場合有</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

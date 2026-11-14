@@ -77,7 +77,7 @@ export default function ArticlePage() {
             和歌山・龍神温泉ひとり旅＆日本三美人の湯おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「日本三美人の湯・紀州龍神温泉ひとり旅・日高川渓谷おこもり」pH8.4極上とろみ重曹泉・紀州梅豚＆あまご・徳川頼宣公の別荘！弘法大師ゆかりの厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               紀伊半島の山深き奥地、日高川の渓谷に佇む龍神温泉。ナトリウム-炭酸水素塩泉（重曹泉）の泉質は、触れた瞬間に肌に吸い付くようなとろみがあり、古い角質や皮脂を溶かしてツルツルの陶器肌へと導く「日本三美人の湯」の筆頭格です。江戸時代には紀州徳川藩主が逗留するための御殿が建てられ、今なお当時の格式と清らかな渓流のせせらぎが息づいています。
             </p>
             <p>
-              紀州徳川家ゆかりの歴史ある老舗旅館から、旬の山菜や川魚会席を味わえる料理旅館まで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              紀州徳川家ゆかりの歴史ある老舗旅館から、旬の山菜や川魚会席を味わえる料理旅館まで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -422,11 +422,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三美人の湯・紀州龍神温泉ひとり旅・日高川渓谷おこもり：pH8.4極上とろみ重曹泉・紀州梅豚＆あまご・徳川頼宣公の別荘！弘法大師ゆかりの厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本三美人の湯・紀州龍神温泉ひとり旅・日高川渓谷おこもり：pH8.4極上とろみ重曹泉・紀州梅豚＆あまご・徳川頼宣公の別荘！弘法大師ゆかりの厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「日本三美人の湯・紀州龍神温泉ひとり旅・日高川渓谷おこもり：pH8.4極上とろみ重曹泉・紀州梅豚＆あまご・徳川頼宣公の別荘！弘法大師ゆかりの厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -490,7 +490,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/68138/68138_k.jpg" alt="龍神温泉　下御殿 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>寛永１６年創業。日本三美人の湯で有名な温泉は、美肌、美白効果高く、女性に大変人気です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県田辺市龍神村龍神38 ／ 最寄り駅：紀伊田辺 ／ 交通案内：紀伊田辺駅から龍神バスにて８０分／車で、有田ＩＣから新宮方面へ県道３４号、Ｒ４２４、４２５、３７１を経由して約９０分</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県田辺市龍神村龍神38 ／ 最寄り駅：紀伊田辺 ／ 交通案内：紀伊田辺駅から龍神バスにて８０分／車で、有田ＩＣから新宮方面へ県道３４号、Ｒ４２４、４２５、３７１を経由して約９０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２４台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -512,7 +512,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/30006/30006_roo.jpg" alt="龍神温泉　料理旅館萬屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>本物の食と日本三美人の湯を気軽に愉しめる大人限定の料理旅館。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県田辺市龍神村龍神47 ／ 最寄り駅：紀伊田辺 ／ 交通案内：JR紀勢本線紀伊田辺駅／海南湯浅自動車道 有田ＩＣ より９０分・高野山より６０分</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県田辺市龍神村龍神47 ／ 最寄り駅：紀伊田辺 ／ 交通案内：JR紀勢本線紀伊田辺駅／海南湯浅自動車道 有田ＩＣ より９０分・高野山より６０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場のご用意があります。全室分の駐車スペースを確保しておりますのでご予約は不要です。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.7 ／ 立地 ★4.3 ／ 部屋 ★4.25 ／ 設備 ★4.09 ／ 風呂 ★4.48 ／ 食事 ★4.66</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -534,7 +534,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/109360/109360_swa.jpg" alt="龍神温泉　上御殿 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>４００年近く吹き続く徳川の世の風を感じて下さい。歴史の旅と温泉が、あなたの心を癒してくれるでしょう。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県田辺市龍神村龍神42 ／ 最寄り駅：紀伊田辺 ／ 交通案内：ＪＲ　紀伊田辺駅から龍神バスにて７５分</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県田辺市龍神村龍神42 ／ 最寄り駅：紀伊田辺 ／ 交通案内：ＪＲ　紀伊田辺駅から龍神バスにて７５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

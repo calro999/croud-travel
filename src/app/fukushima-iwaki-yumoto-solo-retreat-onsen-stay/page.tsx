@@ -77,7 +77,7 @@ export default function ArticlePage() {
             福島・いわき湯本温泉ひとり旅＆日本三古湯おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「いわき湯本温泉ひとり旅・三函の名湯おこもり」日本三古湯・毎分5トン自噴硫黄泉・常磐もの海鮮！フラガール温泉郷厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               上野駅から特急ひたち号で乗り換えなし約130分。福島県浜通りに位置するいわき湯本温泉は、道後・有馬と並ぶ悠久の歴史を誇る名湯。硫黄の香る白濁した源泉は「美人の湯」「心臓の湯」「熱の湯」と呼ばれる多彩な効能を持ち、親潮と黒潮が交わる常磐沖の極上鮮魚が旅人を迎えます。
             </p>
             <p>
-              文人ゆかりの老舗旅館から、獲れたての地魚料理を一人で心ゆくまで味わえる料理自慢の宿まで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              文人ゆかりの老舗旅館から、獲れたての地魚料理を一人で心ゆくまで味わえる料理自慢の宿まで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -420,11 +420,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">いわき湯本温泉ひとり旅・三函の名湯おこもり：日本三古湯・毎分5トン自噴硫黄泉・常磐もの海鮮！フラガール温泉郷厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「いわき湯本温泉ひとり旅・三函の名湯おこもり：日本三古湯・毎分5トン自噴硫黄泉・常磐もの海鮮！フラガール温泉郷厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「いわき湯本温泉ひとり旅・三函の名湯おこもり：日本三古湯・毎分5トン自噴硫黄泉・常磐もの海鮮！フラガール温泉郷厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -444,7 +444,7 @@ export default function ArticlePage() {
               <tbody className="divide-y divide-stone-200">
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. いわき湯本温泉　吹の湯旅館</td>
-                <td className="p-3 text-stone-600">福島県</td>
+                <td className="p-3 text-stone-600">福島県いわき市常磐湯本町吹谷48</td>
                 <td className="p-3 text-stone-600">ＪＲ常磐線　湯本駅よりタクシー５分／常磐自動車道　湯本ＩＣより約１５分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（281件）</td>
@@ -487,8 +487,8 @@ export default function ArticlePage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31822/31822.jpg" alt="いわき湯本温泉　吹の湯旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「いわき湯本温泉ひとり旅・三函の名湯おこもり（日本三古湯・毎分5トン自噴硫黄泉・常磐もの海鮮）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ常磐線　湯本駅よりタクシー５分／常磐自動車道　湯本ＩＣより約１５分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>いわき湯本温泉ひとり旅・三函の名湯おこもりエリアの宿泊施設別スペック＆滞在チェックポイントは、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：ＪＲ常磐線　湯本駅よりタクシー５分／常磐自動車道　湯本ＩＣより約１５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -510,7 +510,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/40630/40630_he.jpg" alt="いわき湯本温泉　鮮の宿　柏 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★2024年 全客室リニューアル★　全室シャワールーム＆トイレ付</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県いわき市常磐湯本町三函196 ／ 最寄り駅：湯本 ／ 交通案内：ＪＲ常磐線　湯本駅より徒歩５分／常磐自動車道　いわき湯本ＩＣよりお車で１０分　ハワイアンズまでお車で10分</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県いわき市常磐湯本町三函196 ／ 最寄り駅：湯本 ／ 交通案内：ＪＲ常磐線　湯本駅より徒歩５分／常磐自動車道　いわき湯本ＩＣよりお車で１０分　ハワイアンズまでお車で10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　（無料）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -532,7 +532,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/18337/18337_r.jpg" alt="いわき湯本温泉　雨情の宿　新つた 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>野口雨情ゆかりの宿。庭園露天風呂と海鮮料理が自慢の宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県いわき市常磐湯本町吹谷58 ／ 最寄り駅：湯本 ／ 交通案内：常磐線・湯本駅より徒歩７分／常磐自動車道・湯本ＩＣよりお車で１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県いわき市常磐湯本町吹谷58 ／ 最寄り駅：湯本 ／ 交通案内：常磐線・湯本駅より徒歩７分／常磐自動車道・湯本ＩＣよりお車で１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

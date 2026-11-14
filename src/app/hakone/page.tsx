@@ -159,11 +159,11 @@ export default function HakoneHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">箱根温泉 完全計画ガイド 2026：1泊2日・2泊3日モデルコース＆箱根湯本・強羅・芦ノ湖・露天風呂付き客室・カップル温泉宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「箱根温泉 完全計画ガイド 2026：1泊2日・2泊3日モデルコース＆箱根湯本・強羅・芦ノ湖・露天風呂付き客室・カップル温泉宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「箱根温泉 完全計画ガイド 2026：1泊2日・2泊3日モデルコース＆箱根湯本・強羅・芦ノ湖・露天風呂付き客室・カップル温泉宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -254,7 +254,7 @@ export default function HakoneHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/108157/108157_room.jpg" alt="箱根湯本温泉　吉池旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>６本の自家源泉と広大な日本庭園「山月園」が魅力の宿。源泉かけ流し温泉と季節の和会席で心ほどける滞在を</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県足柄下郡箱根町湯本597 ／ 最寄り駅：箱根湯本 ／ 交通案内：箱根湯本駅から徒歩で７分</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県足柄下郡箱根町湯本597 ／ 最寄り駅：箱根湯本 ／ 交通案内：箱根湯本駅から徒歩で７分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６５台　無料　予約不要　※屋根付駐車場あり</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -276,7 +276,7 @@ export default function HakoneHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/187989/187989.jpg" alt="箱根湯本　温泉旅館「大和館」 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>～江戸初期創業。箱根最古の良質な温泉を「源泉かけ流し」「貸切」で～【温泉ソムリエ がいる宿】</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県足柄下郡箱根町湯本655 ／ 最寄り駅：箱根湯本 ／ 交通案内：「箱根湯本駅」より徒歩約6分／「温泉場入口」バス停より徒歩すぐ／小田原厚木道路「箱根口IC」より10分（5km）</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県足柄下郡箱根町湯本655 ／ 最寄り駅：箱根湯本 ／ 交通案内：「箱根湯本駅」より徒歩約6分／「温泉場入口」バス停より徒歩すぐ／小田原厚木道路「箱根口IC」より10分（5km）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場（4台／先着順）駐車可能な最大サイズはハイエース程度です。国道1号線からお越しください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -298,7 +298,7 @@ export default function HakoneHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9669/9669_war.jpg" alt="箱根湯本温泉　箱根パークス吉野 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>楽天アワード2025　地上２０ｍ展望露天風呂からの眺望はリフレッシュに最適　三箇所ある貸切風呂も好評</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県足柄下郡箱根町湯本茶屋139-5 ／ 最寄り駅：箱根湯本 ／ 交通案内：箱根湯本駅より徒歩12分。お車では小田原厚木道路小田原西ICから国道1号線経由約12分。無料駐車場併設。</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県足柄下郡箱根町湯本茶屋139-5 ／ 最寄り駅：箱根湯本 ／ 交通案内：箱根湯本駅より徒歩12分。お車では小田原厚木道路小田原西ICから国道1号線経由約12分。無料駐車場併設。</p>
                   <p>【箱根温泉 完全計画ガイド 2026：1泊2日・2泊3】 <strong>【駐車場・マイカー利用】</strong>有り　４０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -320,7 +320,7 @@ export default function HakoneHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/19684/19684_r.jpg" alt="箱根湯本温泉　ホテル　おかだ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>５本の源泉持ち、豊富な湯量、良質の温泉が楽しめる宿。展望大浴場、足湯、湯の里（特別優待）と種類も豊富</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県足柄下郡箱根町湯本茶屋191 ／ 最寄り駅：箱根湯本 ／ 交通案内：箱根湯本駅～徒歩２０分（温泉郷共同バス有料（詳細は公式ＨＰをご参照下さい）／小田原厚木道路・箱根口～国道１号線経由１５分</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県足柄下郡箱根町湯本茶屋191 ／ 最寄り駅：箱根湯本 ／ 交通案内：箱根湯本駅～徒歩２０分（温泉郷共同バス有料（詳細は公式ＨＰをご参照下さい）／小田原厚木道路・箱根口～国道１号線経由１５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　無料　※チェックイン前は12時以降、翌日は12時迄利用可能（滞在時間外は、事前連絡要）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.43 ／ 立地 ★4.22 ／ 部屋 ★4.39 ／ 設備 ★4.29 ／ 風呂 ★4.38 ／ 食事 ★4.46</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -342,7 +342,7 @@ export default function HakoneHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/20447/20447_ume.jpg" alt="箱根湯本温泉　静観荘＜神奈川県＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>秋は紅葉、春は若緑。湯坂山の四季を愛でる露天風呂のくつろぎを。旧東海道沿いにひっそりと佇む全9室の宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県足柄下郡箱根町湯本茶屋19 ／ 最寄り駅：箱根湯本 ／ 交通案内：箱根湯本駅から旅館組合の送迎バスあり（Bコース　片道200円）／徒歩（上り坂）約20分／小田原西ICより車で約15分</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県足柄下郡箱根町湯本茶屋19 ／ 最寄り駅：箱根湯本 ／ 交通案内：箱根湯本駅から旅館組合の送迎バスあり（Bコース　片道200円）／徒歩（上り坂）約20分／小田原西ICより車で約15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場10台分（予約不要）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.45 ／ 立地 ★4.15 ／ 部屋 ★4.42 ／ 設備 ★4.16 ／ 風呂 ★4.42 ／ 食事 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -364,7 +364,7 @@ export default function HakoneHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/70712/70712_o.jpg" alt="箱根湯本温泉　ホテル仙景 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>須雲川沿いの温泉情趣あふれる滝通りにある朝夕部屋食が人気の旅館です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県足柄下郡箱根町湯本592 ／ 最寄り駅：箱根湯本 ／ 交通案内：箱根湯本駅より徒歩にて１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県足柄下郡箱根町湯本592 ／ 最寄り駅：箱根湯本 ／ 交通案内：箱根湯本駅より徒歩にて１０分</p>
                   <p>【箱根温泉 完全計画ガイド 2026：1泊2日・2泊3】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

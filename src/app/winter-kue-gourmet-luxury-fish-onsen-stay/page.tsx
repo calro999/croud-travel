@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/winter-kue-gourmet-luxury-fish-onsen-stay/"
   };
 
@@ -186,6 +186,12 @@ export default function Page() {
           </p>
         </div>
 
+        <div className="pt-2">
+          <ShareButtons
+            title="白身のトロと称される幻の高級魚！天然本クエ鍋＆クエフルコースを味わう冬の温泉宿 ｜ 日本全国・旅宿クラウド"
+            url="https://croud-travel.pages.dev/winter-kue-gourmet-luxury-fish-onsen-stay/"
+          />
+        </div>
         {/* クーポン特大バナー */}
         <SpecialCouponBanner />
 
@@ -303,11 +309,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">白身のトロと称される幻の高級魚！天然本クエ鍋＆クエフルコースを味わう冬の温泉宿 ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「白身のトロと称される幻の高級魚！天然本クエ鍋＆クエフルコースを味わう冬の温泉宿 ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「白身のトロと称される幻の高級魚！天然本クエ鍋＆クエフルコースを味わう冬の温泉宿 ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -371,7 +377,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8113/8113_bath.jpg" alt="白浜温泉　民宿Ａコース 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>旅館並みの設備を兼ね備えた民宿。シーフードが自慢。「インターネット無線スポット」ご利用いただけます</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県西牟婁郡白浜町1091-6 ／ 最寄り駅：白浜 ／ 交通案内：JR白浜駅よりバスで10分、旭ヶ丘下車3分。</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県西牟婁郡白浜町1091-6 ／ 最寄り駅：白浜 ／ 交通案内：JR白浜駅よりバスで10分、旭ヶ丘下車3分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.89 ／ 立地 ★3.84 ／ 部屋 ★3.94 ／ 設備 ★3.81 ／ 風呂 ★3.95</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -393,7 +399,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5174/5174_ro.jpg" alt="温泉めい想倶楽部　富士屋旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【料理高評価】ライブラリ・ギャラリー・無料卓球・など嬉しいがいっぱい♪◆楽天トラベルアワード受賞の宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県加賀市山代温泉桔梗ヶ丘2-121-3 ／ 最寄り駅：加賀温泉 ／ 交通案内：【ＪＲ】北陸本線加賀温泉駅より送迎有（１4：３０～１８：００）要事前予約／【車】北陸道加賀IC又は片山津ICより約20分</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県加賀市山代温泉桔梗ヶ丘2-121-3 ／ 最寄り駅：加賀温泉 ／ 交通案内：【ＪＲ】北陸本線加賀温泉駅より送迎有（１4：３０～１８：００）要事前予約／【車】北陸道加賀IC又は片山津ICより約20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.09 ／ 立地 ★3.81 ／ 部屋 ★3.96 ／ 設備 ★3.73 ／ 風呂 ★3.97 ／ 食事 ★4.26</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -415,7 +421,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/10994/10994_heya.jpg" alt="鎌先温泉　すヾきや旅館（すずきや） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全プランゆったりお部屋食の人気宿♪仙台・福島・山形エリアにも好アクセス！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮城県白石市福岡蔵本鎌先1-38 ／ 最寄り駅：白石蔵王 ／ 交通案内：東北新幹線白石蔵王駅より車で1５分／東北自動車道白石ＩＣより約１５分</p>
+                  <p><strong>【所在地・アクセス】</strong>宮城県白石市福岡蔵本鎌先1-38 ／ 最寄り駅：白石蔵王 ／ 交通案内：東北新幹線白石蔵王駅より車で1５分／東北自動車道白石ＩＣより約１５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -77,7 +77,7 @@ export default function ArticlePage() {
             熊本・阿蘇温泉郷ひとり旅＆カルデラ絶景おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「熊本・阿蘇温泉郷ひとり旅・世界最大級カルデラおこもり」阿蘇五岳パノラマ露天・あか牛会席・名水湧く自家源泉！大自然のパワーチャージ厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               熊本空港や熊本駅からJR豊肥本線や特急バスでアクセスできる火の国・熊本の象徴・阿蘇。カルデラ内には内牧温泉をはじめ数多くの良質な温泉地が点在し、メタケイ酸豊富な美肌の湯や鉄分を含む赤湯など、多彩な泉質が楽しめます。緑の草原を渡る爽快な風と、ブランド和牛「あか牛」の豊かな旨味が一人旅の五感を満たします。
             </p>
             <p>
-              静寂を愛する大人のためのおこもりリゾートから、阿蘇の歴史と文人に愛された老舗旅館まで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              静寂を愛する大人のためのおこもりリゾートから、阿蘇の歴史と文人に愛された老舗旅館まで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -420,11 +420,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">熊本・阿蘇温泉郷ひとり旅・世界最大級カルデラおこもり：阿蘇五岳パノラマ露天・あか牛会席・名水湧く自家源泉！大自然のパワーチャージ厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「熊本・阿蘇温泉郷ひとり旅・世界最大級カルデラおこもり：阿蘇五岳パノラマ露天・あか牛会席・名水湧く自家源泉！大自然のパワーチャージ厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「熊本・阿蘇温泉郷ひとり旅・世界最大級カルデラおこもり：阿蘇五岳パノラマ露天・あか牛会席・名水湧く自家源泉！大自然のパワーチャージ厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -506,7 +506,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31687/31687_kan.jpg" alt="蘇る山と故郷　阿蘇内牧温泉　蘇山郷 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>源泉かけ流し温泉24時間入浴可『大浴場』『貸切風呂』『露天付客室』あり。阿蘇のあか牛と郷土会席が自慢</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 熊本県阿蘇市内牧145-1 ／ 最寄り駅：阿蘇 ／ 交通案内：【車】熊本IC⇒R57⇒北側復旧ルート経由⇒内牧温泉　【公共機関】JR阿蘇駅⇒内牧温泉行きバス⇒商工会前バス停⇒徒歩2分</p>
+                  <p><strong>【所在地・アクセス】</strong>熊本県阿蘇市内牧145-1 ／ 最寄り駅：阿蘇 ／ 交通案内：【車】熊本IC⇒R57⇒北側復旧ルート経由⇒内牧温泉　【公共機関】JR阿蘇駅⇒内牧温泉行きバス⇒商工会前バス停⇒徒歩2分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料（約25台） 予約不要。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.64 ／ 立地 ★4.37 ／ 部屋 ★4.5 ／ 設備 ★4.43 ／ 風呂 ★4.58 ／ 食事 ★4.63</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -528,7 +528,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/38542/38542_kya.jpg" alt="阿蘇内牧温泉　御料理旅館　親和苑 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>料理長が贈る美味しい芸術！【源泉掛け流し】露天風呂（男女別）／貸切家族風呂／離れ露天風呂付客室あり</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 熊本県阿蘇市内牧1354 ／ 最寄り駅：阿蘇 ／ 交通案内：肥後豊肥線　阿蘇駅より車で１５分程／肥後豊肥線　内牧駅より車で１５分程</p>
+                  <p><strong>【所在地・アクセス】</strong>熊本県阿蘇市内牧1354 ／ 最寄り駅：阿蘇 ／ 交通案内：肥後豊肥線　阿蘇駅より車で１５分程／肥後豊肥線　内牧駅より車で１５分程</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.68 ／ 立地 ★4.44 ／ 部屋 ★4.61 ／ 設備 ★4.46 ／ 風呂 ★4.18 ／ 食事 ★4.78</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -550,7 +550,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2749/2749_ds.jpg" alt="ホテルパールシティ秋田　川反（旧　ホテルパールシティ秋田） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>竿燈大通り（竿灯）も、川反通り（かわばた）もすぐ近く。赤れんが郷土館・ねぶり流し館は徒歩圏内。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 秋田県秋田市大町3-4-18 ／ 最寄り駅：秋田 ／ 交通案内：ＪＲ秋田駅西口より車５分。バス（県庁・市役所行き５分）川反入口下車徒歩５分。秋田空港よりバス、川反入口下車徒歩５分。</p>
+                  <p><strong>【所在地・アクセス】</strong>秋田県秋田市大町3-4-18 ／ 最寄り駅：秋田 ／ 交通案内：ＪＲ秋田駅西口より車５分。バス（県庁・市役所行き５分）川反入口下車徒歩５分。秋田空港よりバス、川反入口下車徒歩５分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>要予約(予約順30台)1泊1台770円（税込）･満車時徒歩７分契約駐車場・大型車両、二輪車不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.82 ／ 立地 ★3.78 ／ 部屋 ★3.7 ／ 設備 ★3.68 ／ 風呂 ★3.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -572,7 +572,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2974/2974_heya.jpg" alt="縄文のふる里　大湯温泉　ホテル鹿角 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>開湯800年の名湯と四季折々の彩りが添えられた料理を楽しむ。箱根・富士屋ホテルや花巻温泉もグループ。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 秋田県鹿角市十和田大湯字中谷地５－１ ／ 最寄り駅：十和田南 ／ 交通案内：■十和田湖より車で30分■ＪＲ花輪線十和田南駅から車で１２分■東北道十和田ＩＣから国道１０３号線を十和田湖方面へ１２分</p>
+                  <p><strong>【所在地・アクセス】</strong>秋田県鹿角市十和田大湯字中谷地５－１ ／ 最寄り駅：十和田南 ／ 交通案内：■十和田湖より車で30分■ＪＲ花輪線十和田南駅から車で１２分■東北道十和田ＩＣから国道１０３号線を十和田湖方面へ１２分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　２００台　無料　　　　　　　　　　　　　　　　★お得な宿泊プラン満載★</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -594,7 +594,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2978/2978_tw.jpg" alt="アルバートホテル秋田 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>繁華街「かわばた」ど真ん中！全室有線・無線ＬＡＮ対応・シャワートイレ</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 秋田県秋田市大町4-3-22 ／ 最寄り駅：秋田 ／ 交通案内：秋田駅西口から車で５分。秋田空港からリムジンバスで約４０分、北都銀行前下車、徒歩２分。</p>
+                  <p><strong>【所在地・アクセス】</strong>秋田県秋田市大町4-3-22 ／ 最寄り駅：秋田 ／ 交通案内：秋田駅西口から車で５分。秋田空港からリムジンバスで約４０分、北都銀行前下車、徒歩２分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>先着順 83台：800円(税込/泊)　 ※満車時は近隣パーキング(自己負担) 　※大型車は駐車不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.09 ／ 立地 ★4.1 ／ 部屋 ★4.09 ／ 設備 ★4.02 ／ 風呂 ★4.01 ／ 食事 ★4.09</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

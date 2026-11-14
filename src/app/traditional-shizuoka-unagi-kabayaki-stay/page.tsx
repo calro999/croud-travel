@@ -211,7 +211,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -599,11 +599,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：香ばしい秘伝のタレとふっくら極上肉厚！浜名湖うなぎ尽くし会席＆舘山寺名湯宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：香ばしい秘伝のタレとふっくら極上肉厚！浜名湖うなぎ尽くし会席＆舘山寺名湯宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：香ばしい秘伝のタレとふっくら極上肉厚！浜名湖うなぎ尽くし会席＆舘山寺名湯宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -676,7 +676,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2092/2092_hos.jpg" alt="浜名湖かんざんじ温泉　ホテル鞠水亭 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>浜名湖内浦湾と大草山を一望できる湖畔の宿。石造りと御殿風檜造りの2種類の展望露天風呂が自慢です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県浜松市中央区舘山寺町398番地 ／ 最寄り駅：浜松 ／ 交通案内：ＪＲ浜松駅より路線バスで４５分（舘山寺温泉行き）　東名高速、舘山寺スマートＩＣより約５分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県浜松市中央区舘山寺町398番地 ／ 最寄り駅：浜松 ／ 交通案内：ＪＲ浜松駅より路線バスで４５分（舘山寺温泉行き）　東名高速、舘山寺スマートＩＣより約５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　乗用車　80台　大型　4台，無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -698,7 +698,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7682/7682_room.jpg" alt="月の名勝地　割烹旅館　琴水 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>浜名湖すぐ目の前！全室レイクビュー＆お部屋食で寛ぐ老舗旅館</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県浜松市浜名区三ヶ日町都筑595-1 ／ 最寄り駅：東都筑 ／ 交通案内：東名高速三ヶ日ＩＣから車で5分/　天竜浜名湖鉄道　東都筑駅から徒歩13分/　遠州鉄道バス　東都筑駅から徒歩13分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県浜松市浜名区三ヶ日町都筑595-1 ／ 最寄り駅：東都筑 ／ 交通案内：東名高速三ヶ日ＩＣから車で5分/　天竜浜名湖鉄道　東都筑駅から徒歩13分/　遠州鉄道バス　東都筑駅から徒歩13分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り：２０台（無料・先着順）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -720,7 +720,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/64543/64543_ky.jpg" alt="旅館ふじや 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>浜名湖にたたずみ、沈む夕日の美しさに感動！お料理は浜名湖、遠州灘の幸を心を込めて調理致します。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県浜松市中央区舘山寺町2268 ／ 最寄り駅：浜松 ／ 交通案内：東名高速浜松西ICから15分、舘山寺スマートICから5分　ＪＲ浜松駅からバスで45分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県浜松市中央区舘山寺町2268 ／ 最寄り駅：浜松 ／ 交通案内：東名高速浜松西ICから15分、舘山寺スマートICから5分　ＪＲ浜松駅からバスで45分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　10台　無料（大人の人数の半数台まで無料）　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -742,7 +742,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/39935/39935_meal.jpg" alt="愛知渥美半島　伊良湖温泉　魚と貝のうまい宿　玉川 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>愛知・伊良湖温泉 露天風呂付き客室のある料理旅館</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛知県田原市福江町中紺屋瀬古22-1 ／ 最寄り駅：豊橋 ／ 交通案内：豊橋よりバスにて６０分～福江バス停で下車～徒歩１分／当館の入口は、通りに面したレンガの壁が目印です</p>
+                  <p><strong>【所在地・アクセス】</strong>愛知県田原市福江町中紺屋瀬古22-1 ／ 最寄り駅：豊橋 ／ 交通案内：豊橋よりバスにて６０分～福江バス停で下車～徒歩１分／当館の入口は、通りに面したレンガの壁が目印です</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

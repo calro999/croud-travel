@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-iwate-hachimantai-appikogen-autumn-stay/"
   };
 
@@ -482,11 +482,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">岩手・八幡平アスピーテラインの紅葉パノラマ＆安比高原！秘湯名湯と前沢牛・杜陵ポーク｜ふるさと納税で泊まれる名宿ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「岩手・八幡平アスピーテラインの紅葉パノラマ＆安比高原！秘湯名湯と前沢牛・杜陵ポーク｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「岩手・八幡平アスピーテラインの紅葉パノラマ＆安比高原！秘湯名湯と前沢牛・杜陵ポーク｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -550,7 +550,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1702/1702_y.jpg" alt="八幡平マウンテンホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>大自然のなかでアクティブな休日を！スキー場直結でお子様連れでも快適♪夏期はトレッキングが人気</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岩手県八幡平市松尾寄木第1地割509-1 ／ 最寄り駅：盛岡 ／ 交通案内：東北自動車道 松尾ICより15分。盛岡駅より岩手県北バスで約80分。</p>
+                  <p><strong>【所在地・アクセス】</strong>岩手県八幡平市松尾寄木第1地割509-1 ／ 最寄り駅：盛岡 ／ 交通案内：東北自動車道 松尾ICより15分。盛岡駅より岩手県北バスで約80分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　200台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -572,7 +572,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/16623/16623_st.jpg" alt="ＡＮＡクラウンプラザリゾート安比高原　ｂｙ　ＩＨＧ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>高原ウエディングと、クラウンプラザリゾートで安比高原の自然を生かした滞在体験を満喫いただけます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岩手県八幡平市安比高原 ／ 最寄り駅：安比高原 ／ 交通案内：ＪＲ花輪線・安比高原駅／東北新幹線・盛岡駅より路線バス約60分／東北道・松尾八幡平IC～Ｒ282経由15ＫＭ</p>
+                  <p><strong>【所在地・アクセス】</strong>岩手県八幡平市安比高原 ／ 最寄り駅：安比高原 ／ 交通案内：ＪＲ花輪線・安比高原駅／東北新幹線・盛岡駅より路線バス約60分／東北道・松尾八幡平IC～Ｒ282経由15ＫＭ</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -594,7 +594,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31864/31864_w.jpg" alt="八幡平ライジングサンホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>３つの特色！！フリードリンク・源泉掛け流し・温かい暖炉の宿！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岩手県八幡平市松尾寄木1-590-226 ／ 最寄り駅：盛岡 ／ 交通案内：JR盛岡駅から岩手県北バスで約８０分「ライジングサンホテル前」下車／東北自動車道　松尾八幡平ＩＣから車で約１５分</p>
+                  <p><strong>【所在地・アクセス】</strong>岩手県八幡平市松尾寄木1-590-226 ／ 最寄り駅：盛岡 ／ 交通案内：JR盛岡駅から岩手県北バスで約８０分「ライジングサンホテル前」下車／東北自動車道　松尾八幡平ＩＣから車で約１５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　５０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

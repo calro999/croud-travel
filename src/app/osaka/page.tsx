@@ -159,11 +159,11 @@ export default function OsakaHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">大阪観光 完全計画ガイド 2026：1泊2日・2泊3日モデルコース＆梅田・なんば・USJ・道頓堀グルメ・おすすめホテル：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「大阪観光 完全計画ガイド 2026：1泊2日・2泊3日モデルコース＆梅田・なんば・USJ・道頓堀グルメ・おすすめホテル」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「大阪観光 完全計画ガイド 2026：1泊2日・2泊3日モデルコース＆梅田・なんば・USJ・道頓堀グルメ・おすすめホテル」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -254,7 +254,7 @@ export default function OsakaHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/184013/184013.jpg" alt="住友不動産ホテル　ヴィラフォンテーヌグランド大阪梅田 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【大浴場付♪有料のプライベートエリアも！】主要駅から徒歩圏内。朝食はこだわりの和食ブッフェ</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大阪府大阪市北区曾根崎2-15-9 ／ 最寄り駅：阪急梅田 ／ 交通案内：御堂筋線「梅田」徒歩3分、JR線「大阪」徒歩6分、谷町線「東梅田」徒歩2分、阪急本線「大阪梅田」徒歩4分</p>
+                  <p><strong>【所在地・アクセス】</strong>大阪府大阪市北区曾根崎2-15-9 ／ 最寄り駅：阪急梅田 ／ 交通案内：御堂筋線「梅田」徒歩3分、JR線「大阪」徒歩6分、谷町線「東梅田」徒歩2分、阪急本線「大阪梅田」徒歩4分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -276,7 +276,7 @@ export default function OsakaHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/181504/181504.jpg" alt="梅田ホリックホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2021年4月1日オープン◆お部屋は18㎡～の水回り3点独立客室◆JR大阪駅徒歩10分</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大阪府大阪市北区兎我野町5番2号 ／ 最寄り駅：東梅田 ／ 交通案内：JR「大阪駅」徒歩10分。大阪メトロ御堂筋線「梅田駅」徒歩9分。大阪メトロ谷町線「東梅田駅」徒歩6分。</p>
+                  <p><strong>【所在地・アクセス】</strong>大阪府大阪市北区兎我野町5番2号 ／ 最寄り駅：東梅田 ／ 交通案内：JR「大阪駅」徒歩10分。大阪メトロ御堂筋線「梅田駅」徒歩9分。大阪メトロ谷町線「東梅田駅」徒歩6分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　4台　2,000円／日 （先着順）※ご宿泊以外に関しましてはホテルにお問合せください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -298,7 +298,7 @@ export default function OsakaHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1210/1210_twn.jpg" alt="ホテルビナリオ梅田 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【阪急「梅田駅」から徒歩10分】朝食バイキングはクチコミ評価4.7！！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大阪府大阪市北区豊崎3-9-1 ／ 最寄り駅：中津（大阪市営） ／ 交通案内：JR大阪駅御堂筋口より徒歩10分。阪急大阪梅田茶屋町出口より8分。地下鉄御堂筋線中津駅4番出口より徒歩3分。</p>
+                  <p><strong>【所在地・アクセス】</strong>大阪府大阪市北区豊崎3-9-1 ／ 最寄り駅：中津（大阪市営） ／ 交通案内：JR大阪駅御堂筋口より徒歩10分。阪急大阪梅田茶屋町出口より8分。地下鉄御堂筋線中津駅4番出口より徒歩3分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>先着順24時間1500円(高155cm幅185㎝長505㎝重1.6ｔ未満)入出庫7：00～22：00</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -320,7 +320,7 @@ export default function OsakaHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/182440/182440.jpg" alt="アパホテル〈新大阪駅前タワー〉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>御堂筋線「新大阪駅」7番出口徒歩2分。地上32階建てタワー型ホテル！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大阪府大阪市淀川区西中島7-4-20 ／ 最寄り駅：新大阪 ／ 交通案内：大阪メトロ御堂筋線「新大阪駅」7番出口 徒歩2分、JR「新大阪駅」正面口 徒歩6分</p>
+                  <p><strong>【所在地・アクセス】</strong>大阪府大阪市淀川区西中島7-4-20 ／ 最寄り駅：新大阪 ／ 交通案内：大阪メトロ御堂筋線「新大阪駅」7番出口 徒歩2分、JR「新大阪駅」正面口 徒歩6分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>￥2,000（税込）／泊　宿泊者専用。台数 16台。（先着順）　入出庫不可時間 22時～翌朝7時</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -342,7 +342,7 @@ export default function OsakaHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/198933/198933.jpg" alt="ホテルジオメティック大阪梅田，ａｎ　Ａｓｃｅｎｄ　Ｃｏｌｌｅｃｔｉｏｎ　Ｈｏｔｅｌ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2026年7月16日開業◆地下街で直結する３駅まで徒歩約６分◆地下街ホワイティ梅田に直結</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大阪府大阪市北区曽根崎2-15-23 ／ 最寄り駅：阪神梅田 ／ 交通案内：地下街で直結する３駅８路線まで徒歩約６分</p>
+                  <p><strong>【所在地・アクセス】</strong>大阪府大阪市北区曽根崎2-15-23 ／ 最寄り駅：阪神梅田 ／ 交通案内：地下街で直結する３駅８路線まで徒歩約６分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>なし</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.42 ／ 立地 ★4.33 ／ 部屋 ★4.31 ／ 設備 ★4.26 ／ 風呂 ★4.23 ／ 食事 ★3.93</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -364,7 +364,7 @@ export default function OsakaHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1008/1008_sgl.jpg" alt="ハートンホテル西梅田 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR大阪駅西口改札から徒歩3分。ビジネスや観光の拠点に便利。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大阪府大阪市北区梅田3-3-55 ／ 最寄り駅：大阪 ／ 交通案内：JR大阪駅西口改札から徒歩3分！ 空港リムジンバス発着所「ハービス大阪」から徒歩２分</p>
+                  <p><strong>【所在地・アクセス】</strong>大阪府大阪市北区梅田3-3-55 ／ 最寄り駅：大阪 ／ 交通案内：JR大阪駅西口改札から徒歩3分！ 空港リムジンバス発着所「ハービス大阪」から徒歩２分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

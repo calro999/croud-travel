@@ -236,7 +236,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -681,11 +681,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：甘い香りに満ちる春の高原！完熟いちご狩り＆摘みたて苺パフェと八ヶ岳温泉宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：甘い香りに満ちる春の高原！完熟いちご狩り＆摘みたて苺パフェと八ヶ岳温泉宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：甘い香りに満ちる春の高原！完熟いちご狩り＆摘みたて苺パフェと八ヶ岳温泉宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -767,7 +767,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/28780/28780_heya.jpg" alt="八ヶ岳の恵みを味わうレストラン＆ホテル　オーベルジュ清里 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>自家農園野菜を使ったレストランが人気！牧場、工房、農園など体験も充実のホテル</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県北杜市高根町清里３５４５－９４３　コートドゥヴェール内 ／ 最寄り駅：清里 ／ 交通案内：JR小海線・清里駅から車で5分／中央道・長坂ICから25分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県北杜市高根町清里３５４５－９４３　コートドゥヴェール内 ／ 最寄り駅：清里 ／ 交通案内：JR小海線・清里駅から車で5分／中央道・長坂ICから25分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -789,7 +789,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/37944/37944_wa.jpg" alt="八ヶ岳温泉　樅の木荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>＜八ヶ岳中央高原＞標高１２００ｍの豊かな大自然と源泉掛け流しの天然温泉が、心と身体を癒してくれます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県諏訪郡原村原山17217-1729 ／ 最寄り駅：茅野 ／ 交通案内：中央道諏訪南ＩＣより車で15分 ＪＲ茅野駅より車30分/JRすずらんの里駅より10分＜団体ご予約は送迎可能＞</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県諏訪郡原村原山17217-1729 ／ 最寄り駅：茅野 ／ 交通案内：中央道諏訪南ＩＣより車で15分 ＪＲ茅野駅より車30分/JRすずらんの里駅より10分＜団体ご予約は送迎可能＞</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -811,7 +811,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/53178/53178_wa.jpg" alt="１０００Ｍのおもてなし　八ヶ岳　ホテル風か 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「オールインクルーシブ」ご夕食時約50種&amp;amp;バータイム約80種のフリードリンク</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県北杜市小淵沢町上の原3989-1 ／ 最寄り駅：小淵沢 ／ 交通案内：ＪＲ中央本線　小淵沢駅より車で7分／中央自動車道　小淵沢ＩＣより車で4分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県北杜市小淵沢町上の原3989-1 ／ 最寄り駅：小淵沢 ／ 交通案内：ＪＲ中央本線　小淵沢駅より車で7分／中央自動車道　小淵沢ＩＣより車で4分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　35台　無料　予約不要　満車の場合は第２駐車場をご利用下さい。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -833,7 +833,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/16099/16099_wa.jpg" alt="蓼科温泉　いろりの宿　蓼科パークホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>晴れた夜には満天の星空を眺めながらの温泉　囲炉裏を囲んで愉しむご夕食で思い出に残るご旅行へ</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県茅野市北山5522 ／ 最寄り駅：茅野 ／ 交通案内：ＪＲ茅野駅下車タクシー２０分バス３０分／中央道諏訪ＩＣより約３０分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県茅野市北山5522 ／ 最寄り駅：茅野 ／ 交通案内：ＪＲ茅野駅下車タクシー２０分バス３０分／中央道諏訪ＩＣより約３０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>■有り200台無料　■全館Wi-Fi対応　■禁煙・喫煙ルームあり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.46 ／ 立地 ★3.48 ／ 部屋 ★3.14 ／ 設備 ★2.94 ／ 風呂 ★3.46 ／ 食事 ★3.61</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -855,7 +855,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/72037/72037_wa.jpg" alt="芹ヶ沢温泉　白樺湖ビューホテル（伊東園ホテルズ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>四季の表情の豊かな白樺湖、春の優しさ、夏は爽やかな風、秋には豊かな実り、冬は白銀の世界へ。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県北佐久郡立科町芦田八ヶ野白樺湖1525 ／ 最寄り駅：茅野 ／ 交通案内：ＪＲ　茅野駅よりバス乗車約５０分、西白樺湖下車徒歩４分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県北佐久郡立科町芦田八ヶ野白樺湖1525 ／ 最寄り駅：茅野 ／ 交通案内：ＪＲ　茅野駅よりバス乗車約５０分、西白樺湖下車徒歩４分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７0台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

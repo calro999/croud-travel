@@ -77,7 +77,7 @@ export default function ArticlePage() {
             石川・山代温泉ひとり旅＆加賀伝統文化おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「山代温泉ひとり旅・加賀百万石おこもり」総湯・古総湯・加賀橋立港の海の幸！千三百年続く加賀温泉郷の歴史と美湯に浸る厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               行基菩薩が傷を癒やす烏を見て発見したと伝わる石川県・山代温泉。北大路魯山人や与謝野晶子など多くの文人墨客が愛した温泉街であり、中心に共同浴場「総湯」「古総湯」を配した『湯の曲輪（ゆのがわ）』の街並みは歩くだけで風情たっぷりです。
             </p>
             <p>
-              料理評価が極めて高く一人旅プランが充実した割烹宿から、広々とした温泉大浴場と庭園を備えた老舗旅館まで、楽天トラベル公式APIより直接取得した最新データをもとに厳選紹介します。
+              料理評価が極めて高く一人旅プランが充実した割烹宿から、広々とした温泉大浴場と庭園を備えた老舗旅館まで、宿泊施設データより直接取得した最新データをもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -420,11 +420,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">山代温泉ひとり旅・加賀百万石おこもり：総湯・古総湯・加賀橋立港の海の幸！千三百年続く加賀温泉郷の歴史と美湯に浸る厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「山代温泉ひとり旅・加賀百万石おこもり：総湯・古総湯・加賀橋立港の海の幸！千三百年続く加賀温泉郷の歴史と美湯に浸る厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「山代温泉ひとり旅・加賀百万石おこもり：総湯・古総湯・加賀橋立港の海の幸！千三百年続く加賀温泉郷の歴史と美湯に浸る厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -488,7 +488,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7955/7955_war.jpg" alt="山代温泉　料理自慢の宿　ホテルききょう 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>18部屋の料理自慢の宿　新しくなった「くろ」と「しろ」を基調とした天然温泉が心と体を癒します</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県加賀市山代温泉16-162-5 ／ 最寄り駅：加賀温泉 ／ 交通案内：◆JR加賀温泉駅より車で10分◆JR金沢駅より車で55分◆小松空港より車で25分</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県加賀市山代温泉16-162-5 ／ 最寄り駅：加賀温泉 ／ 交通案内：◆JR加賀温泉駅より車で10分◆JR金沢駅より車で55分◆小松空港より車で25分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>【有り】　50台  先着順/ 駐車料金　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.54 ／ 立地 ★4.29 ／ 部屋 ★4.62 ／ 設備 ★4.53 ／ 風呂 ★4.57 ／ 食事 ★4.74</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -510,7 +510,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/10624/10624_spa.jpg" alt="山代温泉　葉渡莉（はとり） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>自然と人の優しさ溢れる和の上質宿。加賀の旬のお料理と2種類の大浴場が自慢です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県加賀市山代温泉温泉通り17 ／ 最寄り駅：加賀温泉 ／ 交通案内：【ＪＲ】「加賀温泉駅」より無料送迎バス有（詳細は公式HP）【車】北陸道「加賀IC」or「片山津IC」より約20分</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県加賀市山代温泉温泉通り17 ／ 最寄り駅：加賀温泉 ／ 交通案内：【ＪＲ】「加賀温泉駅」より無料送迎バス有（詳細は公式HP）【車】北陸道「加賀IC」or「片山津IC」より約20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料50台 ※正面玄関前にお越しください。スタッフが駐車場をご案内いたします。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.38 ／ 立地 ★4.21 ／ 部屋 ★4.37 ／ 設備 ★4.24 ／ 風呂 ★4.46 ／ 食事 ★4.53</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -532,7 +532,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/6191/6191_room.jpg" alt="山代温泉　瑠璃光 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>進化する日本の宿。上質な心地よいもてなしでお客様をお迎えします</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県加賀市山代温泉19-58-1 ／ 最寄り駅：加賀温泉 ／ 交通案内：【ＪＲ】「加賀温泉駅」より無料送迎バス有（詳細は公式HP）【車】北陸道「加賀IC」or「片山津IC」より約20分</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県加賀市山代温泉19-58-1 ／ 最寄り駅：加賀温泉 ／ 交通案内：【ＪＲ】「加賀温泉駅」より無料送迎バス有（詳細は公式HP）【車】北陸道「加賀IC」or「片山津IC」より約20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料200台　※正面玄関へお越しください。スタッフが駐車場をご案内いたします。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.07 ／ 部屋 ★4.27 ／ 設備 ★4.12 ／ 風呂 ★4.31 ／ 食事 ★4.28</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

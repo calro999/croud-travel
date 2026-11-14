@@ -285,11 +285,11 @@ export default function AutumnBudgetOkayamaHotelsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">岡山：後楽園・烏城の秋紅葉と名物デミカツ丼！2,000円台〜格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「岡山：後楽園・烏城の秋紅葉と名物デミカツ丼！2,000円台〜格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「岡山：後楽園・烏城の秋紅葉と名物デミカツ丼！2,000円台〜格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -371,7 +371,7 @@ export default function AutumnBudgetOkayamaHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/684/684_sing.jpg" alt="岡山ビューホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>マイホームのような「靴を脱ぐ、床に座る」コンセプトルーム★お布団敷のファミリールームも有</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岡山県岡山市北区中山下1-11-17 ／ 最寄り駅：岡山 ／ 交通案内：バス「天満屋」下車徒歩約2分◆JR岡山駅東口より車で約5分◆路面電車「清輝橋行」「郵便局前」下車徒歩約3分</p>
+                  <p><strong>【所在地・アクセス】</strong>岡山県岡山市北区中山下1-11-17 ／ 最寄り駅：岡山 ／ 交通案内：バス「天満屋」下車徒歩約2分◆JR岡山駅東口より車で約5分◆路面電車「清輝橋行」「郵便局前」下車徒歩約3分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル１Ｆ(フロントは2F)　約20台収容　一泊800~1000円　高さ2.5m迄2t車も可　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.2 ／ 立地 ★3.95 ／ 部屋 ★4.18 ／ 設備 ★3.99 ／ 風呂 ★3.91</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -393,7 +393,7 @@ export default function AutumnBudgetOkayamaHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2098/2098_kya.jpg" alt="ホテルエクセル岡山＜後楽園・岡山城前＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>日本三名園の岡山後楽園、岡山城が散策圏内のホテルです♪岡山駅前→路面電車「城下」電停より徒歩約1分！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岡山県岡山市北区石関町5-1 ／ 最寄り駅：岡山 ／ 交通案内：岡山駅 後楽園口から路面電車（東山行き）に乗車、「しろした電停」下車徒歩1分／[E2]山陽道 岡山ICより約25分</p>
+                  <p><strong>【所在地・アクセス】</strong>岡山県岡山市北区石関町5-1 ／ 最寄り駅：岡山 ／ 交通案内：岡山駅 後楽園口から路面電車（東山行き）に乗車、「しろした電停」下車徒歩1分／[E2]山陽道 岡山ICより約25分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>専用駐車場1泊1000円（先着予約制）満車の場合は各提携駐車場へご案内致します。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.24 ／ 立地 ★4.3 ／ 部屋 ★4.24 ／ 設備 ★4.13 ／ 風呂 ★4.04</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -415,7 +415,7 @@ export default function AutumnBudgetOkayamaHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/799/799_tw.jpg" alt="倉敷シーサイドホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>瀬戸内海を眺望できる大浴場サウナ付きホテル。夏はプール営業やガーデンBBQあり。研修施設充実。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岡山県倉敷市児島塩生2767-21 ／ 最寄り駅：児島 ／ 交通案内：■水島ICから車15分■水島工場C地区に隣接■鷲羽山ハイランドまで車10分■倉敷由加山まで車30分■駐車場無料■</p>
+                  <p><strong>【所在地・アクセス】</strong>岡山県倉敷市児島塩生2767-21 ／ 最寄り駅：児島 ／ 交通案内：■水島ICから車15分■水島工場C地区に隣接■鷲羽山ハイランドまで車10分■倉敷由加山まで車30分■駐車場無料■</p>
                   <p>【岡山：後楽園・烏城の秋紅葉と名物デミカツ丼】 <strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -437,7 +437,7 @@ export default function AutumnBudgetOkayamaHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/822/822.jpg" alt="ホテルグランヴィア岡山 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR岡山駅２階から連絡通路で直結。全室無線LAN（WI-FI）接続が無料でご利用いただけます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岡山県岡山市北区駅元町1-5 ／ 最寄り駅：岡山 ／ 交通案内：JR岡山駅直結（徒歩1分）／山陽自動車道　岡山ICより車で20分／岡山空港より車で30分</p>
+                  <p><strong>【所在地・アクセス】</strong>岡山県岡山市北区駅元町1-5 ／ 最寄り駅：岡山 ／ 交通案内：JR岡山駅直結（徒歩1分）／山陽自動車道　岡山ICより車で20分／岡山空港より車で30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル地下に有り　171台　24時間1,300円　事前予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.54 ／ 部屋 ★4.46 ／ 設備 ★4.4 ／ 風呂 ★4.36</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -459,7 +459,7 @@ export default function AutumnBudgetOkayamaHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1453/1453_juniorsweet.jpg" alt="ダイヤモンド瀬戸内マリンホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>瀬戸内のビーチリゾートホテル。おもちゃ王国や地中美術館で有名な直島へのアクセスも便利です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岡山県玉野市渋川2-12-1 ／ 最寄り駅：児島 ／ 交通案内：(車)瀬戸中央自動車道・児島ICよりＲ430経由25分(JR)岡山駅下車「玉野・渋川」行きバス（②乗場）終点下車徒歩0分</p>
+                  <p><strong>【所在地・アクセス】</strong>岡山県玉野市渋川2-12-1 ／ 最寄り駅：児島 ／ 交通案内：(車)瀬戸中央自動車道・児島ICよりＲ430経由25分(JR)岡山駅下車「玉野・渋川」行きバス（②乗場）終点下車徒歩0分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有：普通車９０台　無料　予約不可先着順　※渋川観光駐車場は２１時間無料（２１時間以降はお客様ご負担）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.04 ／ 立地 ★4.16 ／ 部屋 ★3.93 ／ 設備 ★3.83 ／ 風呂 ★3.99 ／ 食事 ★4.05</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

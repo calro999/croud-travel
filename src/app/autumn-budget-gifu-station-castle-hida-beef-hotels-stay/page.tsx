@@ -376,11 +376,11 @@ export default function AutumnBudgetHotelsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">岐阜駅前：岐阜城金華山パノラマ＆名物飛騨牛・鮎料理！2,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「岐阜駅前：岐阜城金華山パノラマ＆名物飛騨牛・鮎料理！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「岐阜駅前：岐阜城金華山パノラマ＆名物飛騨牛・鮎料理！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -462,7 +462,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/139796/139796_huro.jpg" alt="天然温泉　金華の湯　ドーミーイン岐阜駅前（ドーミーイン・御宿野乃　ホテルズグループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR岐阜駅前で天然温泉大浴場とサウナ完備。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岐阜県岐阜市吉野町6-31 ／ 最寄り駅：岐阜 ／ 交通案内：ＪＲ　岐阜駅「中央北口」より徒歩約8分／名鉄岐阜駅より徒歩約10分</p>
+                  <p><strong>【所在地・アクセス】</strong>岐阜県岐阜市吉野町6-31 ／ 最寄り駅：岐阜 ／ 交通案内：ＪＲ　岐阜駅「中央北口」より徒歩約8分／名鉄岐阜駅より徒歩約10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>なし（普通車のみホテル提携駐車場￥1,000/1泊先着順・入出庫不可）※バス、トラック、バイク不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.44 ／ 立地 ★4.35 ／ 部屋 ★4.4 ／ 設備 ★4.4 ／ 風呂 ★4.51 ／ 食事 ★4.48</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -484,7 +484,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/167380/167380.jpg" alt="ホテルリブマックス岐阜駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ＪＲ岐阜駅から徒歩5分！アクセス抜群のホテルです★全室シモンズベッド完備</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岐阜県岐阜市金町7-11-1 ／ 最寄り駅：岐阜 ／ 交通案内：ＪＲ東海道本線　岐阜駅中央北口/名鉄岐阜駅より徒歩にて約５分</p>
+                  <p><strong>【所在地・アクセス】</strong>岐阜県岐阜市金町7-11-1 ／ 最寄り駅：岐阜 ／ 交通案内：ＪＲ東海道本線　岐阜駅中央北口/名鉄岐阜駅より徒歩にて約５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>近隣に有料パーキングあり　※提携はしておりません　満車の場合はご容赦下さい。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.92 ／ 立地 ★3.92 ／ 部屋 ★3.79 ／ 設備 ★3.88 ／ 風呂 ★3.84</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -506,7 +506,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/161010/161010_kan1.jpg" alt="ＡＢホテル岐阜 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>男女別大浴場完備♪ＪＲ岐阜駅からは徒歩約７分の好立地！　◆Wi-Fi接続無料◆個別空調◆</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岐阜県岐阜市金町7-12-1 ／ 最寄り駅：岐阜 ／ 交通案内：ＪＲ／名鉄　岐阜駅より徒歩にて約5分</p>
+                  <p><strong>【所在地・アクセス】</strong>岐阜県岐阜市金町7-12-1 ／ 最寄り駅：岐阜 ／ 交通案内：ＪＲ／名鉄　岐阜駅より徒歩にて約5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場：500円（1泊＝15：00から翌10：00）予約不可・出入別料金・台数制限有</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.15 ／ 立地 ★4.08 ／ 部屋 ★4.14 ／ 設備 ★4.09 ／ 風呂 ★4.1</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -528,7 +528,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/52250/52250_ys.jpg" alt="ダイワロイネットホテル岐阜 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2024年4月リニューアルオープン！1階にコンビニ、周辺には飲食店が多数。観光・ビジネスの拠点に！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岐阜県岐阜市神田町8-5 ／ 最寄り駅：岐阜 ／ 交通案内：JR「岐阜駅」長良川口より徒歩約7分／「名鉄岐阜駅」より徒歩約2分／名古屋国際空港より特急で「名鉄岐阜駅」へ約60分</p>
+                  <p><strong>【所在地・アクセス】</strong>岐阜県岐阜市神田町8-5 ／ 最寄り駅：岐阜 ／ 交通案内：JR「岐阜駅」長良川口より徒歩約7分／「名鉄岐阜駅」より徒歩約2分／名古屋国際空港より特急で「名鉄岐阜駅」へ約60分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>提携立体駐車場／44台／一泊（14時〜翌12時）1,200円税込／車高制限有／営業時間外入出庫不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.42 ／ 立地 ★4.38 ／ 部屋 ★4.48 ／ 設備 ★4.42 ／ 風呂 ★4.34 ／ 食事 ★4.21</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -550,7 +550,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/20562/20562_sgl.jpg" alt="コンフォートホテル岐阜（２０２６年３月３１日　リニューアル） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>日替わりスムージーが人気★無料朝食サービスがイチオシのコスパ最強ホテル◆小学6年生まで添い寝無料</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岐阜県岐阜市吉野町6-6 ／ 最寄り駅：岐阜 ／ 交通案内：ＪＲ岐阜駅北口より約３分（駅前立地）◆名鉄岐阜駅より約６分◆東海北陸自動車道「岐阜各務原IC」約３０分</p>
+                  <p><strong>【所在地・アクセス】</strong>岐阜県岐阜市吉野町6-6 ／ 最寄り駅：岐阜 ／ 交通案内：ＪＲ岐阜駅北口より約３分（駅前立地）◆名鉄岐阜駅より約６分◆東海北陸自動車道「岐阜各務原IC」約３０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>なし。近隣のコインパーキングにご駐車ください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4 ／ 立地 ★4.14 ／ 部屋 ★4.02 ／ 設備 ★3.92 ／ 風呂 ★3.86 ／ 食事 ★3.99</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

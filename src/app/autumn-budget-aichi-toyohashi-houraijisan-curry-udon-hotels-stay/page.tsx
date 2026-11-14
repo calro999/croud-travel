@@ -285,11 +285,11 @@ export default function AutumnBudgetToyohashiHotelsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">豊橋：鳳来寺山・香嵐渓紅葉ドライブ拠点＆豊橋カレーうどん！2,000円台〜格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「豊橋：鳳来寺山・香嵐渓紅葉ドライブ拠点＆豊橋カレーうどん！2,000円台〜格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「豊橋：鳳来寺山・香嵐渓紅葉ドライブ拠点＆豊橋カレーうどん！2,000円台〜格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -371,7 +371,7 @@ export default function AutumnBudgetToyohashiHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/149200/149200_kan1.jpg" alt="ＡＢホテル豊橋 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>和洋バイキング無料朝食・男女別大浴場・ネット接続無料</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛知県豊橋市白河町85-1 ／ 最寄り駅：豊橋 ／ 交通案内：ＪＲ・名鉄『豊橋駅』西口より徒歩3分。東名高速「豊川IC」より車で約25分。</p>
+                  <p><strong>【所在地・アクセス】</strong>愛知県豊橋市白河町85-1 ／ 最寄り駅：豊橋 ／ 交通案内：ＪＲ・名鉄『豊橋駅』西口より徒歩3分。東名高速「豊川IC」より車で約25分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場：500円（1泊：15：00〜翌12：00）先着順・予約不可・出入別料金・台数制限有</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.14 ／ 立地 ★4.08 ／ 部屋 ★4.13 ／ 設備 ★4.07 ／ 風呂 ★4.13 ／ 食事 ★4.16</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -393,7 +393,7 @@ export default function AutumnBudgetToyohashiHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/178410/178410.jpg" alt="備長炭の湯　ホテルクラウンヒルズ豊橋（ＢＢＨホテルグループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>◆豊橋中心街に立地◆無料朝食バイキング、夜カレー、アルコール付きウェルカムドリンク、備長炭の湯が好評</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛知県豊橋市札木町66-1 ／ 最寄り駅：豊橋 ／ 交通案内：JR・名鉄「豊橋」駅東口より徒歩約１０分。　路面電車「札木」駅より徒歩約２分。豊鉄バス「本町」降車　徒歩０分</p>
+                  <p><strong>【所在地・アクセス】</strong>愛知県豊橋市札木町66-1 ／ 最寄り駅：豊橋 ／ 交通案内：JR・名鉄「豊橋」駅東口より徒歩約１０分。　路面電車「札木」駅より徒歩約２分。豊鉄バス「本町」降車　徒歩０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>先着順・予約不可の敷地外駐車場11台分有り。出庫後再確保は不可となります。提携コインPはありません</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.14 ／ 立地 ★3.98 ／ 部屋 ★3.97 ／ 設備 ★4.04 ／ 風呂 ★4.03 ／ 食事 ★4.14</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -415,7 +415,7 @@ export default function AutumnBudgetToyohashiHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/168620/168620_kan1.jpg" alt="ジャストインプレミアム豊橋駅新幹線口 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>豊橋駅西口（新幹線口）徒歩１分、地元名産品を取り揃えた朝食、世界のベッド「シモンズ」で超快眠！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛知県豊橋市白河町31-2 ／ 最寄り駅：豊橋 ／ 交通案内：豊橋駅西口（新幹線口）より徒歩１分、東名豊川インターより約25分</p>
+                  <p><strong>【所在地・アクセス】</strong>愛知県豊橋市白河町31-2 ／ 最寄り駅：豊橋 ／ 交通案内：豊橋駅西口（新幹線口）より徒歩１分、東名豊川インターより約25分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>提携のみ①グッドパーキング(15時〜翌11時1100円)②ダイワパーク(18時〜翌9時1000円)</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.24 ／ 立地 ★4.31 ／ 部屋 ★4.28 ／ 設備 ★4.21 ／ 風呂 ★4.11 ／ 食事 ★4.24</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -437,7 +437,7 @@ export default function AutumnBudgetToyohashiHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/109436/109436_meal.jpg" alt="豊橋ビジネスホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2022年6月リニューアルオープン◎朝食無料　駅より徒歩8分コンビニ2分　静かな環境　隣接駐車場</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛知県豊橋市花園町12 ／ 最寄り駅：豊橋 ／ 交通案内：ＪＲ豊橋駅より徒歩8分</p>
+                  <p><strong>【所在地・アクセス】</strong>愛知県豊橋市花園町12 ／ 最寄り駅：豊橋 ／ 交通案内：ＪＲ豊橋駅より徒歩8分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>隣接あお空駐車場有り　24台　普通車８００円　大型車１，６００〜３，２００円　最大12ｍまで</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.17 ／ 立地 ★3.96 ／ 部屋 ★4.08 ／ 設備 ★4 ／ 風呂 ★3.93 ／ 食事 ★4.3</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -459,7 +459,7 @@ export default function AutumnBudgetToyohashiHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7781/7781_sgl.jpg" alt="ロワジールホテル豊橋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ロワジールホテル豊橋は、地上30階・高さ120ｍのスケールを誇る、豊橋のランドマークホテルです。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛知県豊橋市藤沢町141 ／ 最寄り駅：豊橋 ／ 交通案内：「豊橋駅」より車で約10分</p>
+                  <p><strong>【所在地・アクセス】</strong>愛知県豊橋市藤沢町141 ／ 最寄り駅：豊橋 ／ 交通案内：「豊橋駅」より車で約10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル専用無料駐車場138台完備。　隣接施設共用駐車場も無料でご利用頂けます。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.47 ／ 立地 ★4.4 ／ 部屋 ★4.45 ／ 設備 ★4.31 ／ 風呂 ★4.24 ／ 食事 ★4.46</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

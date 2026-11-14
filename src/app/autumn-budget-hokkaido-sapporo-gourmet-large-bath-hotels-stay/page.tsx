@@ -317,11 +317,11 @@ export default function SapporoBudgetAutumnPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋の札幌×格安：紅葉散策とすすきのグルメ！大浴場付き1泊3,000円台〜のコスパ最強おすすめホテル5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「秋の札幌×格安：紅葉散策とすすきのグルメ！大浴場付き1泊3,000円台〜のコスパ最強おすすめホテル5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「秋の札幌×格安：紅葉散策とすすきのグルメ！大浴場付き1泊3,000円台〜のコスパ最強おすすめホテル5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -394,7 +394,7 @@ export default function SapporoBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/172398/172398.jpg" alt="ベッセルホテルカンパーナすすきの｜サウナ付大浴場（札幌・すすきの） 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>旅の疲れを癒してくれるサウナ付き大浴場完備。すすきの駅から徒歩４分の好立地</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道札幌市中央区南五条西6-16-1 ／ 最寄り駅：すすきの ／ 交通案内：すすきの駅より徒歩にて約４分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道札幌市中央区南五条西6-16-1 ／ 最寄り駅：すすきの ／ 交通案内：すすきの駅より徒歩にて約４分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>立体駐車場(先着順)／８０台１5００円（税込／泊）　平面駐車場(要予約)／２台１５００円(税込／泊)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -416,7 +416,7 @@ export default function SapporoBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/67324/67324_ww.jpg" alt="ティアラホテル札幌すすきの 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>すすきの繁華街からすぐ。全室シモンズベッドで快眠×大浴場（男女入替）完備！抗菌・抗ウイルス対応で安心</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道札幌市中央区南8条西3-7-19 ／ 最寄り駅：すすきの ／ 交通案内：地下鉄南北線　すすきの駅から徒歩７分、中島公園駅から徒歩4分。地下鉄東豊線　豊水すすきの駅から徒歩７分。</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道札幌市中央区南8条西3-7-19 ／ 最寄り駅：すすきの ／ 交通案内：地下鉄南北線　すすきの駅から徒歩７分、中島公園駅から徒歩4分。地下鉄東豊線　豊水すすきの駅から徒歩７分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場　1泊/1,600円　入庫後出入不可/予約不可</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -438,7 +438,7 @@ export default function SapporoBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/79254/79254_ka.jpg" alt="ホテル京阪　札幌 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR「札幌」駅より徒歩約4分！全客室にReFa製シャワーヘッド・ドライヤーを新しく導入しました！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道札幌市北区北6条西6丁目1-9 ／ 最寄り駅：札幌 ／ 交通案内：【新千歳空港からホテルまで約44分】JR「札幌」駅西口より徒歩約4分★詳しくはアクセスページをご覧ください。</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道札幌市北区北6条西6丁目1-9 ／ 最寄り駅：札幌 ／ 交通案内：【新千歳空港からホテルまで約44分】JR「札幌」駅西口より徒歩約4分★詳しくはアクセスページをご覧ください。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>20台有り予約不可・先着順　一泊1,500円　満車時は同料金にて提携駐車場をご案内いたします</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -460,7 +460,7 @@ export default function SapporoBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/70234/70234_s.jpg" alt="ホテルリソルトリニティ札幌 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>市内中心部、大通公園に位置した出張・観光にも便利なアクセス。人気の大浴場もございます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道札幌市中央区大通西5丁目3 ／ 最寄り駅：札幌 ／ 交通案内：地下鉄大通駅②より徒歩1分(南大通)・新千歳空港連絡バス停留所は正面にあり(停留所：ホテルリソルトリニティ札幌前)</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道札幌市中央区大通西5丁目3 ／ 最寄り駅：札幌 ／ 交通案内：地下鉄大通駅②より徒歩1分(南大通)・新千歳空港連絡バス停留所は正面にあり(停留所：ホテルリソルトリニティ札幌前)</p>
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル立体(1泊1800円)・提携(1泊1500円)車高2m/幅1.8ｍ以内・予約不可(当日案内)</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.45 ／ 立地 ★4.48 ／ 部屋 ★4.47 ／ 設備 ★4.41 ／ 風呂 ★4.48 ／ 食事 ★4.19</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

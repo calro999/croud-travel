@@ -356,28 +356,6 @@ export default function ArticlePage() {
         </section>
 
         {/* よくある質問 FAQ */}
-        <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-6">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-stone-900 border-b border-stone-200 pb-3">よくある質問（FAQ）</h2>
-          <div className="space-y-4">
-            
-            <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
-                <span>LRT（芳賀・宇都宮LRT）の乗り方はどうなっていますか？</span></h3>
-              <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
-                宇都宮駅東口から発着しており、SuicaやPASMO、totraなどの交通系ICカードを全扉のリーダーにタッチするだけでスムーズに乗降できます。
-              </p>
-            </div>
-            
-            <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
-                <span>一人で「餃子通り」へ行くにはどう行けばいいですか？</span></h3>
-              <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
-                宇都宮駅西口から市内路線バスで約5分（馬場町下車）、または徒歩約15分で、みんみん本店や正嗣（まさし）が並ぶ餃子通りへアクセスできます。
-              </p>
-            </div>
-            
-          </div>
-        </section>
 
         {/* 関連リンク・ナビゲーション */}
         <div className="text-center pt-8 border-t border-stone-200">
@@ -423,11 +401,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">宇都宮出張＆餃子ひとり旅：最上階展望スカイスパ・駅直結・名物餃子食べ比べ！北関東の要所で整う極上ホテル 厳選3選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「宇都宮出張＆餃子ひとり旅：最上階展望スカイスパ・駅直結・名物餃子食べ比べ！北関東の要所で整う極上ホテル 厳選3選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「宇都宮出張＆餃子ひとり旅：最上階展望スカイスパ・駅直結・名物餃子食べ比べ！北関東の要所で整う極上ホテル 厳選3選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -491,7 +469,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/184376/184376.jpg" alt="ＣＡＮＤＥＯ　ＨＯＴＥＬＳ（カンデオホテルズ）宇都宮 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2022年8月26日開業「宇都宮駅東口」徒歩2分。露天風呂とロウリュサウナで心洗われるの癒しを。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県宇都宮市宮みらい1-1 ／ 最寄り駅：宇都宮 ／ 交通案内：JR宇都宮駅から徒歩2分</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県宇都宮市宮みらい1-1 ／ 最寄り駅：宇都宮 ／ 交通案内：JR宇都宮駅から徒歩2分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場：なし　併設の宇都宮テラス駐車場：24時間毎最大料金 上層1,100円、下層1,300円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.4 ／ 立地 ★4.57 ／ 部屋 ★4.54 ／ 設備 ★4.44 ／ 風呂 ★4.49 ／ 食事 ★4.32</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -513,7 +491,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/136222/136222_ka1.jpg" alt="ＪＲ東日本ホテルメッツ宇都宮 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR宇都宮駅西口徒歩1分。女性も安心♪フィットネス＆ラウンジも★全部屋19㎡以上</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県宇都宮市川向町1-23 ／ 最寄り駅：宇都宮 ／ 交通案内：ＪＲ宇都宮駅西口から徒歩1分。東武宇都宮駅から徒歩20分。日光東照宮まで’電車で45分・車で60分。</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県宇都宮市川向町1-23 ／ 最寄り駅：宇都宮 ／ 交通案内：ＪＲ宇都宮駅西口から徒歩1分。東武宇都宮駅から徒歩20分。日光東照宮まで’電車で45分・車で60分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>専用駐車場無し（提携駐車場あり・有料・詳しくはプラン詳細をご覧ください）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.41 ／ 部屋 ★4.4 ／ 設備 ★4.35 ／ 風呂 ★4.26 ／ 食事 ★4.26</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -535,7 +513,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/67045/67045_room.jpg" alt="ホテルマイステイズ宇都宮 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ＪＲ宇都宮駅東口より３分、全室Wi-Fi完備＆1階にはコンビニがあり、皆様の旅をサポートいたします</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県宇都宮市東宿郷2-4-1 ／ 最寄り駅：宇都宮 ／ 交通案内：ＪＲ宇都宮駅東口より徒歩３分という好立地。1階にコンビニ併設でビジネスユースにピッタリ。</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県宇都宮市東宿郷2-4-1 ／ 最寄り駅：宇都宮 ／ 交通案内：ＪＲ宇都宮駅東口より徒歩３分という好立地。1階にコンビニ併設でビジネスユースにピッタリ。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>58台(全高1.55m迄の制限あり)1泊1100円/泊 先着順。入庫不可時は徒歩5分の駐車場を案内。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.32 ／ 立地 ★4.25 ／ 部屋 ★4.1 ／ 設備 ★3.99 ／ 風呂 ★3.92 ／ 食事 ★4.21</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

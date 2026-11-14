@@ -636,11 +636,11 @@ export default function FurusatoFeaturePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大峡谷＆巨岩奇勝パノラマ露天風呂宿×ふるさと納税厳選ガイド清津峡・黒部峡谷・大杉谷の絶景名湯：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本三大峡谷＆巨岩奇勝パノラマ露天風呂宿×ふるさと納税厳選ガイド清津峡・黒部峡谷・大杉谷の絶景名湯」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「日本三大峡谷＆巨岩奇勝パノラマ露天風呂宿×ふるさと納税厳選ガイド清津峡・黒部峡谷・大杉谷の絶景名湯」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -731,7 +731,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/109363/109363_kya.jpg" alt="清津峡湯元温泉　清津館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>インスタ映え間違いなし☆十日町市人気No1スポット「清津峡トンネル」へ徒歩1分の秘湯の宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県十日町市小出癸2126-1 ／ 最寄り駅：越後湯沢 ／ 交通案内：塩沢石打ICより車で25分/湯沢ICより車で27分/十日町市内より35分</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県十日町市小出癸2126-1 ／ 最寄り駅：越後湯沢 ／ 交通案内：塩沢石打ICより車で25分/湯沢ICより車で27分/十日町市内より35分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１２台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -753,7 +753,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5735/5735_war.jpg" alt="越後湯沢温泉　音羽屋旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>温泉街中央高台にあり、料理自慢・風呂自慢のこじんまりとした純和風宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県南魚沼郡湯沢町湯沢419 ／ 最寄り駅：越後湯沢 ／ 交通案内：JR上越新幹線、越後湯沢駅西口より徒歩７分。関越自動車道、越後湯沢ＩＣより、越後湯沢駅方面に向かって約6分。駐車場完備。</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県南魚沼郡湯沢町湯沢419 ／ 最寄り駅：越後湯沢 ／ 交通案内：JR上越新幹線、越後湯沢駅西口より徒歩７分。関越自動車道、越後湯沢ＩＣより、越後湯沢駅方面に向かって約6分。駐車場完備。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　15台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.96 ／ 立地 ★4.02 ／ 部屋 ★4.09 ／ 設備 ★3.94 ／ 風呂 ★4.21 ／ 食事 ★4.14</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -775,7 +775,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1567/1567_room.jpg" alt="旬彩の庄　坂戸城 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【魚沼産コシヒカリ食べ放題！】当宿人気のにいがた朝ごはん＆源泉かけ流しの温泉宿です♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県南魚沼市坂戸292-4 ／ 最寄り駅：六日町 ／ 交通案内：JR六日町駅下車徒歩15分。 JR越後湯沢駅下車タクシー約30分。 六日町ICより車で約10分。</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県南魚沼市坂戸292-4 ／ 最寄り駅：六日町 ／ 交通案内：JR六日町駅下車徒歩15分。 JR越後湯沢駅下車タクシー約30分。 六日町ICより車で約10分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -797,7 +797,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/40625/40625_kya.jpg" alt="黒部峡谷・宇奈月温泉　ホテル黒部 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>『宇奈月温泉随一の眺望』四季折々の地元食材と透明な美肌湯を堪能</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 富山県黒部市宇奈月温泉７番地 ／ 最寄り駅：宇奈月温泉 ／ 交通案内：北陸新幹線黒部宇奈月温泉駅から富山地鉄乗り換え25分。 宇奈月温泉駅から歩10分／北陸道 黒部ＩＣから約20分。</p>
+                  <p><strong>【所在地・アクセス】</strong>富山県黒部市宇奈月温泉７番地 ／ 最寄り駅：宇奈月温泉 ／ 交通案内：北陸新幹線黒部宇奈月温泉駅から富山地鉄乗り換え25分。 宇奈月温泉駅から歩10分／北陸道 黒部ＩＣから約20分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　無料 （トロッコ観光中もお預かりいたします）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -819,7 +819,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/10719/10719_war.jpg" alt="宇奈月温泉　延楽 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>季節のお料理と樹齢四百年の総檜露天風呂。露天風呂付き客室でゆったり自分時間。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 富山県黒部市宇奈月温泉347-1 ／ 最寄り駅：宇奈月温泉 ／ 交通案内：富山地方鉄道「宇奈月温泉駅」より徒歩3分 / 北陸自動車道 黒部ICより約２０分</p>
+                  <p><strong>【所在地・アクセス】</strong>富山県黒部市宇奈月温泉347-1 ／ 最寄り駅：宇奈月温泉 ／ 交通案内：富山地方鉄道「宇奈月温泉駅」より徒歩3分 / 北陸自動車道 黒部ICより約２０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り・4０台・無料・先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.63 ／ 立地 ★4.67 ／ 部屋 ★4.49 ／ 設備 ★4.4 ／ 風呂 ★4.65 ／ 食事 ★4.68</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -841,7 +841,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9591/9591_rot.jpg" alt="黒部・宇奈月温泉　やまのは（オリックスホテルズ＆リゾーツ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>おかげさまで連続受賞！「楽天トラベル 日本の宿アワード2025 TOP47」♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 富山県黒部市宇奈月温泉352番地7 ／ 最寄り駅：宇奈月温泉 ／ 交通案内：富山地方鉄道「宇奈月温泉駅」下車徒歩３分　無料送迎バス有※要確認／北陸自動車道黒部IC下車約２０分</p>
+                  <p><strong>【所在地・アクセス】</strong>富山県黒部市宇奈月温泉352番地7 ／ 最寄り駅：宇奈月温泉 ／ 交通案内：富山地方鉄道「宇奈月温泉駅」下車徒歩３分　無料送迎バス有※要確認／北陸自動車道黒部IC下車約２０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>140台の無料駐車スペースがございます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

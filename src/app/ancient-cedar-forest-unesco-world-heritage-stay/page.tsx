@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/ancient-cedar-forest-unesco-world-heritage-stay/"
   };
 
@@ -132,7 +132,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F41962%2F41962.html%26f_flg%3DPLAN",
     "hotelMinCharge": 10450,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/41962/41962.jpg",
-    "userReview": "絶景のロケーションとおもてなしに心から癒やされました。",
+    "userReview": "割烹旅館　美よし荘ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
     "reviewAverage": 5,
     "reviewCount": 13,
     "address": "和歌山県有田郡湯浅町別所166-1",
@@ -270,23 +270,6 @@ export default function Page() {
             ))}
           </div>
         </section>
-
-        {/* 旅のQ&A */}
-        <section className="bg-white rounded-2xl p-6 md:p-8 border border-stone-200 shadow-sm space-y-4">
-          <h2 className="text-lg md:text-xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">よくある質問・失敗しない宿選び</h2>
-          <div className="space-y-4 text-sm">
-            <div className="border border-stone-100 rounded-xl p-4 bg-stone-50/50 space-y-2">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5"><span className="text-emerald-700 font-black">Q.</span> おすすめの予約時期やタイミングは？</h3>
-              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">人気の日程（連休や週末）は1〜2ヶ月前には満室になることが多いため、早期予約（早割プラン）の利用がおすすめです。また楽天トラベルの「5と0のつく日」キャンペーンを活用すると最大20%オフのクーポンが併用でき、最もお得に予約できます。
-              </p>
-            </div>
-            <div className="border border-stone-100 rounded-xl p-4 bg-stone-50/50 space-y-2">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5"><span className="text-emerald-700 font-black">Q.</span> 宿選びで失敗しないためのポイントは？</h3>
-              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">宿泊者レビューのお風呂・お食事・接客評価が4.3以上の宿を選ぶと満足度が非常に高くなります。またアクセス手段（送迎バスの有無など）やプランに含まれる特典を事前に確認しておくと安心です。
-              </p>
-            </div>
-          </div>
-        </section>
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -363,31 +346,31 @@ export default function Page() {
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <a href="/winter-yamagata-shirabu-onsen-snow-yonezawa-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-crab-gourmet/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12月山形・白布温泉＆新高湯温泉】西吾妻山の豪雪秘湯と開湯700年の名物湯滝・最高峰A5米沢牛すき焼きを堪能する名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【冬の味覚の王様】ブランド松葉ガニ・越前ガニ食べ放題＆温泉旅館厳選特集</span>
             </a>
-            <a href="/yamagata-ginzan-solo-retreat-taisho-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-snow-onsen/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">山形・銀山温泉ひとり旅・大正浪漫ガス灯おこもり：木造多層建築群・銀山川の雪景色・山形牛と尾花沢蕎麦！大正タイムスリップの美湯厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">雪見露天風呂の絶景宿特集｜銀世界の温泉とあったか部屋食を楽しむ冬旅</span>
             </a>
-            <a href="/yamagata-tendo-yamadera-cherry-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/furusato/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">山形・天童温泉＆山寺立石寺：将棋の街・千段の石段絶景＆山形牛・さくらんぼ宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【最大30%還元】楽天トラベルふるさと納税宿泊クーポン完全攻略ガイド</span>
             </a>
-            <a href="/autumn-yamagata-yamadera-risshakuji-tendo-onsen-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
+            <a href="/winter-travel-special/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">秋の山形：山寺（立石寺）の奇岩絶壁紅葉クライミングと天童温泉！美食と名湯を楽しむおすすめ旅館5選「2026最新」</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">2026-2027冬の絶景＆美食旅行特集まとめ｜年末年始・雪見温泉・イルミ</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/yamagata/"
+                href="/prefectures/nara/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                山形県の宿・温泉
+                奈良県の宿・温泉
               </Link>
               <Link
                 href="/prefectures/shiga/"
@@ -416,11 +399,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：悠久の歴史と祈りの道を歩く！世界遺産・熊野古道＆聖地巡礼の秘湯名宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：悠久の歴史と祈りの道を歩く！世界遺産・熊野古道＆聖地巡礼の秘湯名宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：悠久の歴史と祈りの道を歩く！世界遺産・熊野古道＆聖地巡礼の秘湯名宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -440,7 +423,7 @@ export default function Page() {
               <tbody className="divide-y divide-stone-200">
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 洞川温泉　桝源旅館</td>
-                <td className="p-3 text-stone-600">山形県</td>
+                <td className="p-3 text-stone-600">奈良県吉野郡天川村洞川189</td>
                 <td className="p-3 text-stone-600">近鉄吉野線　下市口駅より洞川温泉行きバス１本。　車：国道169号から3</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.13（133件）</td>
@@ -458,7 +441,7 @@ export default function Page() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. クリスタル旅館　白浜　灯りや</td>
-                <td className="p-3 text-stone-600">山形県</td>
+                <td className="p-3 text-stone-600">和歌山県西牟婁郡白浜町2411-1</td>
                 <td className="p-3 text-stone-600">JR白浜駅より車で約10分／南紀白浜空港より車で約6分／アドベンチャー</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.16（339件）</td>
@@ -476,7 +459,7 @@ export default function Page() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 割烹旅館　美よし荘</td>
-                <td className="p-3 text-stone-600">山形県</td>
+                <td className="p-3 text-stone-600">和歌山県有田郡湯浅町別所166-1</td>
                 <td className="p-3 text-stone-600">紀勢本線　湯浅駅より車で２～３分、徒歩で７分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★5（13件）</td>
@@ -501,8 +484,8 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/68262/68262.jpg" alt="洞川温泉　桝源旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「悠久の歴史と祈りの道を歩く（世界遺産・熊野古道＆聖地巡礼の秘湯名宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：近鉄吉野線　下市口駅より洞川温泉行きバス１本。　車：国道169号から309号。　世界遺産の高野山、熊野古道へも120分圏</p>
+                  <p><strong>【宿の特徴・魅力】</strong>「悠久の歴史と祈りの道を歩く（世界遺産・熊野古道＆聖地巡礼の秘湯名宿5選）」掲載宿の所在地・アクセス・特徴データ一覧は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：近鉄吉野線　下市口駅より洞川温泉行きバス１本。　車：国道169号から309号。　世界遺産の高野山、熊野古道へも120分圏</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -524,7 +507,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/129554/129554_rm1.jpg" alt="旅館あづまや　＜和歌山県＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>名湯と温泉料理の宿で知られている当館。熊野古道のメッカ、本宮に在り、つぼ湯が目印です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県田辺市本宮町湯峰122 ／ 最寄り駅：新宮 ／ 交通案内：紀伊田辺駅よりバス・タクシーで約９０分/新宮駅よりバス、タクシーで６０分「湯峰温泉」下車すぐ/南紀田辺ＩＣから車で70分</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県田辺市本宮町湯峰122 ／ 最寄り駅：新宮 ／ 交通案内：紀伊田辺駅よりバス・タクシーで約９０分/新宮駅よりバス、タクシーで６０分「湯峰温泉」下車すぐ/南紀田辺ＩＣから車で70分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.5 ／ 立地 ★4.55 ／ 部屋 ★4.4 ／ 設備 ★3.94 ／ 風呂 ★4.59 ／ 食事 ★4.55</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -545,8 +528,8 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/144560/144560.jpg" alt="クリスタル旅館　白浜　灯りや 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「悠久の歴史と祈りの道を歩く（世界遺産・熊野古道＆聖地巡礼の秘湯名宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：JR白浜駅より車で約10分／南紀白浜空港より車で約6分／アドベンチャーワールドより車で約10分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>南紀白浜の人気ビーチ「白良浜」まで徒歩約7分！リニューアルし人気宿！好立地でリピーター様多数 ♪</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：JR白浜駅より車で約10分／南紀白浜空港より車で約6分／アドベンチャーワールドより車で約10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -568,7 +551,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9133/9133_war.jpg" alt="白浜温泉　家族とすごす白浜の宿　柳屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【ファミリーにおすすめ】源泉かけ流しで寛ぎの一日を。露天風呂付き客室や貸切風呂が自慢の家族とすごす宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県西牟婁郡白浜町1870 ／ 最寄り駅：白浜 ／ 交通案内：ＪＲ白浜駅：車で約１１分／南紀白浜空港：車で約７分／南紀白浜ＩＣ：車で約１5分／アドベンチャーワールド：車で約１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県西牟婁郡白浜町1870 ／ 最寄り駅：白浜 ／ 交通案内：ＪＲ白浜駅：車で約１１分／南紀白浜空港：車で約７分／南紀白浜ＩＣ：車で約１5分／アドベンチャーワールド：車で約１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -589,18 +572,21 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/41962/41962.jpg" alt="割烹旅館　美よし荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「悠久の歴史と祈りの道を歩く（世界遺産・熊野古道＆聖地巡礼の秘湯名宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：紀勢本線　湯浅駅より車で２～３分、徒歩で７分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>割烹旅館 美よし荘（和歌山県有田郡湯浅町別所166-1）は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：紀勢本線　湯浅駅より車で２～３分、徒歩で７分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「絶景のロケーションとおもてなしに心から癒やされました。」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「割烹旅館 美よし荘での快適な滞在とアクセス面の良さに満足したという評価が寄せられています。」
                   </blockquote>
                 </div>
               </div>
             </div>
           </div></section>
 
+              <div className="my-8">
+          <ShareButtons title="【2026年】悠久の歴史と祈りの道を歩く！世界遺産・熊野古道＆聖地巡礼の秘湯名宿5選" url="https://croud-travel.pages.dev/ancient-cedar-forest-unesco-world-heritage-stay/" />
+        </div>
       </main>
     
       <HubRelatedPosts currentSlug="ancient-cedar-forest-unesco-world-heritage-stay" />

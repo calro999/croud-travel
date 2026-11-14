@@ -236,7 +236,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -681,11 +681,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：旨味と甘み極まる幻の島豚！あぐー豚しゃぶしゃぶ＆美ら海・古宇利島リゾート5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：旨味と甘み極まる幻の島豚！あぐー豚しゃぶしゃぶ＆美ら海・古宇利島リゾート5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：旨味と甘み極まる幻の島豚！あぐー豚しゃぶしゃぶ＆美ら海・古宇利島リゾート5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -767,7 +767,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/184118/184118.jpg" alt="ウォーターマークホテル沖縄　宮古島＜伊良部島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>日本の渚100選に選ばれた美しいビーチで、夕陽の名所ホテルより青い海も、夕陽も一望できます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県宮古島市伊良部佐和田前原1725 ／ 最寄り駅：宮古空港 ／ 交通案内：宮古島空港より車で約35分、みやこ下地島空港より車で約5分</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県宮古島市伊良部佐和田前原1725 ／ 最寄り駅：宮古空港 ／ 交通案内：宮古島空港より車で約35分、みやこ下地島空港より車で約5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　1室につき1台無料　（予約不要）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.57 ／ 部屋 ★4.42 ／ 設備 ★4.26 ／ 風呂 ★4.39 ／ 食事 ★4.48</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -789,7 +789,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/177099/177099.jpg" alt="ホテル沖縄　ｗｉｔｈ　サンリオキャラクターズ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全室サンリオ仕様♪推しキャラと過ごす夢かわホテル！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県那覇市安里1-2-25 ／ 最寄り駅：主要駅 ／ 交通案内：ゆいレール　牧志駅より徒歩にて約1分</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県那覇市安里1-2-25 ／ 交通案内：ゆいレール　牧志駅より徒歩にて約1分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場なし。近くのコインパーキングをご案内中。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.39 ／ 立地 ★4.4 ／ 部屋 ★4.27 ／ 設備 ★4.07 ／ 風呂 ★3.88 ／ 食事 ★3.95</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -811,7 +811,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/75371/75371_kya.jpg" alt="ホテルグランビューガーデン沖縄 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>那覇空港から車で約１５分のアクセス。キレイな海、最高の夕日が楽しめます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県豊見城市豊崎3-82 ／ 最寄り駅：主要駅 ／ 交通案内：那覇空港から車で約１５分</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県豊見城市豊崎3-82 ／ 交通案内：那覇空港から車で約１５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７７台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.05 ／ 立地 ★4.09 ／ 部屋 ★4.07 ／ 設備 ★3.96 ／ 風呂 ★3.96 ／ 食事 ★4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -833,7 +833,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/30045/30045_s.jpg" alt="グランドメルキュール沖縄残波岬リゾート 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>県内最大級スライダー付プール／全客室ラウンジ付／ホテル日航アリビラとの相互利用あり</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県中頭郡読谷村宇座1575 ／ 最寄り駅：那覇空港 ／ 交通案内：那覇空港より国道５８号線を名護方面へ読谷村伊良皆交差点を残波岬方面へ。車で70分。</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県中頭郡読谷村宇座1575 ／ 最寄り駅：那覇空港 ／ 交通案内：那覇空港より国道５８号線を名護方面へ読谷村伊良皆交差点を残波岬方面へ。車で70分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有(無料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.11 ／ 立地 ★4.28 ／ 部屋 ★4.26 ／ 設備 ★4.05 ／ 風呂 ★4.16 ／ 食事 ★4.23</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -855,7 +855,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/184140/184140.jpg" alt="ホーム・ステイ・ユミハ沖縄　ｂｙバンヤン・グループ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全棟ヴィラタイプ、プライベートな空間で過ごす休日。人、自然、すべてに優しいホテル。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県国頭郡恩納村字山田2455-1 ／ 最寄り駅：那覇空港 ／ 交通案内：那覇空港よりお車にて60分</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県国頭郡恩納村字山田2455-1 ／ 最寄り駅：那覇空港 ／ 交通案内：那覇空港よりお車にて60分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　18台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.6 ／ 立地 ★4.67 ／ 部屋 ★4.8 ／ 設備 ★4.8 ／ 風呂 ★4.6</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">鹿児島・指宿温泉：天然砂むし温泉＆開聞岳パノラマ・黒豚極上宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「鹿児島・指宿温泉：天然砂むし温泉＆開聞岳パノラマ・黒豚極上宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「鹿児島・指宿温泉：天然砂むし温泉＆開聞岳パノラマ・黒豚極上宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/76346/76346_ro.jpg" alt="指宿温泉　こらんの湯　錦江楼 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>美肌の湯（美肌成分のメタケイ酸を豊富に含む泉質）と桜島を望める和モダン旅館。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県指宿市西方4507 ／ 最寄り駅：宮ヶ浜 ／ 交通案内：JR指宿枕崎線　宮ヶ浜駅より徒歩9分（宮ケ浜駅からの送迎サービス有※要連絡）九州道終点から国道226号線を走って50分</p>
+                  <p><strong>【所在地・アクセス】</strong>鹿児島県指宿市西方4507 ／ 最寄り駅：宮ヶ浜 ／ 交通案内：JR指宿枕崎線　宮ヶ浜駅より徒歩9分（宮ケ浜駅からの送迎サービス有※要連絡）九州道終点から国道226号線を走って50分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　ホテル前に車60台分のスペースあり　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.39 ／ 立地 ★4.16 ／ 部屋 ★4.29 ／ 設備 ★4.12 ／ 風呂 ★4.25 ／ 食事 ★4.38</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/10832/10832_heya.jpg" alt="指宿温泉　指宿ロイヤルホテル　～すべての女性へ美と健康を楽しむホテル～ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>南九州鹿児島。薩摩半島最南端に位置するホテルからの海の眺めは最高！女性に喜ばれるホテルです</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県指宿市十二町4232-1 ／ 最寄り駅：指宿 ／ 交通案内：鹿児島空港→指宿駅　空港バス約１１０分。指宿駅→タクシー約５分。屋久島、霧島、大隅、南薩等指宿を拠点に観光がおすすめ</p>
+                  <p><strong>【所在地・アクセス】</strong>鹿児島県指宿市十二町4232-1 ／ 最寄り駅：指宿 ／ 交通案内：鹿児島空港→指宿駅　空港バス約１１０分。指宿駅→タクシー約５分。屋久島、霧島、大隅、南薩等指宿を拠点に観光がおすすめ</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場完備（全50台）バイク・大型車両OK予約不要。指宿を観光するなら車での移動がおすすめ</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31775/31775_f.jpg" alt="指宿砂むし温泉　指宿シーサイドホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>錦江湾を目の前に望む海辺の絶好のロケーション！館内で名物砂むし温泉が楽しめる♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県指宿市十町1912 ／ 最寄り駅：指宿 ／ 交通案内：ＪＲ指宿枕崎線　指宿駅よりタクシー５分</p>
+                  <p><strong>【所在地・アクセス】</strong>鹿児島県指宿市十町1912 ／ 最寄り駅：指宿 ／ 交通案内：ＪＲ指宿枕崎線　指宿駅よりタクシー５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　１００台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.75 ／ 立地 ★3.89 ／ 部屋 ★3.5 ／ 設備 ★3.32 ／ 風呂 ★3.83 ／ 食事 ★3.98</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/147517/147517_kan1.jpg" alt="ローズマリーホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ハーブに囲まれた閑静な小さなお宿。手作りの家庭料理とアットホームなおもてなしでお出迎え。。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県指宿市湊4-4-16 ／ 最寄り駅：指宿 ／ 交通案内：ＪＲ　指宿駅から徒歩にて約10分</p>
+                  <p><strong>【所在地・アクセス】</strong>鹿児島県指宿市湊4-4-16 ／ 最寄り駅：指宿 ／ 交通案内：ＪＲ　指宿駅から徒歩にて約10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　10台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/153299/153299_kan1.jpg" alt="ＨＯＴＥＬ　ＡＺ　鹿児島喜入店 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全室禁煙、朝食無料、Wi-Fi無料、駐車場無料（大・中型車除く）ＪＲ指宿枕崎線　中名駅より徒歩５分。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県鹿児島市喜入中名町2936-3 ／ 最寄り駅：中名 ／ 交通案内：中名駅より車で約５分！　谷山ＩＣより車で約40分！</p>
+                  <p><strong>【所在地・アクセス】</strong>鹿児島県鹿児島市喜入中名町2936-3 ／ 最寄り駅：中名 ／ 交通案内：中名駅より車で約５分！　谷山ＩＣより車で約40分！</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場106台あり　普通車：予約不要 、中型車・大型車：要予約（有料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.88 ／ 立地 ★3.83 ／ 部屋 ★3.95 ／ 設備 ★3.83 ／ 風呂 ★3.78 ／ 食事 ★3.96</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/15962/15962_room.jpg" alt="指宿温泉　いぶすき秀水園 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>南薩摩の湯の里指宿にて心尽くしの料理とやすらぎのひとときを…</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県指宿市湯の浜5-27-27 ／ 最寄り駅：指宿 ／ 交通案内：ＪＲ指宿枕崎線指宿駅まで送迎あり／九州自動車道谷山インターより５０分</p>
+                  <p><strong>【所在地・アクセス】</strong>鹿児島県指宿市湯の浜5-27-27 ／ 最寄り駅：指宿 ／ 交通案内：ＪＲ指宿枕崎線指宿駅まで送迎あり／九州自動車道谷山インターより５０分</p>
                   <p>【鹿児島・指宿温泉：天然砂むし温泉＆開聞岳パノラマ・黒】 <strong>【駐車場・マイカー利用】</strong>有り　50台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.76 ／ 立地 ★4.55 ／ 部屋 ★4.55 ／ 設備 ★4.45 ／ 風呂 ★4.5 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

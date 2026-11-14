@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/autumn-chestnut-gourmet-montblanc-stay/"
   };
 
@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40731%2F40731.html%26f_flg%3DPLAN",
     "hotelMinCharge": 17100,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40731/40731.jpg",
-    "userReview": "絶景のロケーションとおもてなしに心から癒やされました。",
+    "userReview": "長湯温泉　丸長旅館ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
     "reviewAverage": 4.85,
     "reviewCount": 54,
     "address": "大分県竹田市直入町長湯温泉７９９５－２",
@@ -270,23 +270,6 @@ export default function Page() {
             ))}
           </div>
         </section>
-
-        {/* 旅のQ&A */}
-        <section className="bg-white rounded-2xl p-6 md:p-8 border border-stone-200 shadow-sm space-y-4">
-          <h2 className="text-lg md:text-xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">よくある質問・失敗しない宿選び</h2>
-          <div className="space-y-4 text-sm">
-            <div className="border border-stone-100 rounded-xl p-4 bg-stone-50/50 space-y-2">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5"><span className="text-emerald-700 font-black">Q.</span> おすすめの予約時期やタイミングは？</h3>
-              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">人気の日程（連休や週末）は1〜2ヶ月前には満室になることが多いため、早期予約（早割プラン）の利用がおすすめです。また楽天トラベルの「5と0のつく日」キャンペーンを活用すると最大20%オフのクーポンが併用でき、最もお得に予約できます。
-              </p>
-            </div>
-            <div className="border border-stone-100 rounded-xl p-4 bg-stone-50/50 space-y-2">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5"><span className="text-emerald-700 font-black">Q.</span> 宿選びで失敗しないためのポイントは？</h3>
-              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">宿泊者レビューのお風呂・お食事・接客評価が4.3以上の宿を選ぶと満足度が非常に高くなります。またアクセス手段（送迎バスの有無など）やプランに含まれる特典を事前に確認しておくと安心です。
-              </p>
-            </div>
-          </div>
-        </section>
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -416,11 +399,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：小布施・丹波の極上和栗！搾りたて生モンブラン＆栗おこわ会席の秋グルメ宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：小布施・丹波の極上和栗！搾りたて生モンブラン＆栗おこわ会席の秋グルメ宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：小布施・丹波の極上和栗！搾りたて生モンブラン＆栗おこわ会席の秋グルメ宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -440,7 +423,7 @@ export default function Page() {
               <tbody className="divide-y divide-stone-200">
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 長湯温泉　丸長旅館</td>
-                <td className="p-3 text-stone-600">福島県</td>
+                <td className="p-3 text-stone-600">大分県竹田市直入町長湯温泉７９９５－２</td>
                 <td className="p-3 text-stone-600">◆湯布院IC国道210号を湯平温泉経由で広域農道50分◆ＪＲ豊肥本線</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.85（54件）</td>
@@ -458,7 +441,7 @@ export default function Page() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 有福温泉　旅館ぬしや</td>
-                <td className="p-3 text-stone-600">福島県</td>
+                <td className="p-3 text-stone-600">島根県江津市有福温泉町955</td>
                 <td className="p-3 text-stone-600">山陰道浜田東ＩＣより車で約２０分　山陰本線波子駅よりタクシーで約10分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.59（279件）</td>
@@ -467,7 +450,7 @@ export default function Page() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 赤穂温泉　割烹旅館　鹿久居荘　赤穂店</td>
-                <td className="p-3 text-stone-600">福島県</td>
+                <td className="p-3 text-stone-600">兵庫県赤穂市さつき町35-5</td>
                 <td className="p-3 text-stone-600">ＪＲ播州赤穂。送迎バスの御利用は、お電話でお申し込み下さい。　お迎え1</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★3.86（580件）</td>
@@ -501,12 +484,12 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/40731/40731.jpg" alt="長湯温泉　丸長旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「小布施・丹波の極上和栗（搾りたて生モンブラン＆栗おこわ会席の秋グルメ宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：◆湯布院IC国道210号を湯平温泉経由で広域農道50分◆ＪＲ豊肥本線　豊後竹田駅から車（タクシー）で３０分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>旅の目的に合わせて選ぶ「小布施・丹波の極上和栗（搾りたて生モンブラン＆栗おこわ会席の秋グルメ宿5選）」各宿の強みと基本情報は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：◆湯布院IC国道210号を湯平温泉経由で広域農道50分◆ＪＲ豊肥本線　豊後竹田駅から車（タクシー）で３０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「絶景のロケーションとおもてなしに心から癒やされました。」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「長湯温泉 丸長旅館での快適な滞在とアクセス面の良さに満足したという評価が寄せられています。」
                   </blockquote>
                 </div>
               </div>
@@ -524,7 +507,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8733/8733_twn.jpg" alt="大阪の絶景温泉旅館　ホテルセイリュウ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>個人・グループ様の春の集いも、おトクに乾杯！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大阪府東大阪市上石切町1-11-12 ／ 最寄り駅：石切 ／ 交通案内：阪神高速東大阪線　水走出口より車で約５分　第２阪道路　石切出口より約５分/近鉄奈良線石切駅より徒歩5分</p>
+                  <p><strong>【所在地・アクセス】</strong>大阪府東大阪市上石切町1-11-12 ／ 最寄り駅：石切 ／ 交通案内：阪神高速東大阪線　水走出口より車で約５分　第２阪道路　石切出口より約５分/近鉄奈良線石切駅より徒歩5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.09 ／ 立地 ★4.15 ／ 部屋 ★3.91 ／ 設備 ★3.66 ／ 風呂 ★3.78 ／ 食事 ★4.06</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -545,8 +528,8 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/79268/79268.jpg" alt="有福温泉　旅館ぬしや 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「小布施・丹波の極上和栗（搾りたて生モンブラン＆栗おこわ会席の秋グルメ宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：山陰道浜田東ＩＣより車で約２０分　山陰本線波子駅よりタクシーで約10分　料金は約4000円　事前のご予約をおすすめします</p>
+                  <p><strong>【宿の特徴・魅力】</strong>創業270年・3,000坪の敷地に古民家を移築した全9室の離れの一軒宿◇Wi-Fi完備</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：山陰道浜田東ＩＣより車で約２０分　山陰本線波子駅よりタクシーで約10分　料金は約4000円　事前のご予約をおすすめします</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -567,8 +550,8 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/18924/18924.jpg" alt="赤穂温泉　割烹旅館　鹿久居荘　赤穂店 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「小布施・丹波の極上和栗（搾りたて生モンブラン＆栗おこわ会席の秋グルメ宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ播州赤穂。送迎バスの御利用は、お電話でお申し込み下さい。　お迎え15時４0分・16時４0分　朝送り10時</p>
+                  <p><strong>【宿の特徴・魅力】</strong>元禄浪漫漂う義士の街赤穂。瀬戸内海をそのまま包んだ水族館料理で、新鮮な海の幸をご堪能下さい。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：ＪＲ播州赤穂。送迎バスの御利用は、お電話でお申し込み下さい。　お迎え15時４0分・16時４0分　朝送り10時</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -590,7 +573,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/13871/13871_room.jpg" alt="美又温泉　かめや旅館＜島根県＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ｐＨ9.3、メタケイ酸豊富な肌再生に優れた湯♪♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 島根県浜田市金城町追原7-2 ／ 最寄り駅：浜田 ／ 交通案内：Ｊ浜田道「旭IC」より車で約10分／「JR浜田駅」より車で約25分／「しまね海洋館アクアス」より車で約40分</p>
+                  <p><strong>【所在地・アクセス】</strong>島根県浜田市金城町追原7-2 ／ 最寄り駅：浜田 ／ 交通案内：Ｊ浜田道「旭IC」より車で約10分／「JR浜田駅」より車で約25分／「しまね海洋館アクアス」より車で約40分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場　９台完備／予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.14 ／ 部屋 ★4.04 ／ 設備 ★3.96 ／ 風呂 ★4.43 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -601,6 +584,9 @@ export default function Page() {
             </div>
           </div></section>
 
+              <div className="my-8">
+          <ShareButtons title="【2026年】小布施・丹波の極上和栗！搾りたて生モンブラン＆栗おこわ会席の秋グルメ宿5選" url="https://croud-travel.pages.dev/autumn-chestnut-gourmet-montblanc-stay/" />
+        </div>
       </main>
     
       <HubRelatedPosts currentSlug="autumn-chestnut-gourmet-montblanc-stay" />

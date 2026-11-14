@@ -228,11 +228,11 @@ export default function LuxuryPremiumHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">全室離れ・源泉かけ流し露天風呂付き隠れ家宿：大人の静寂＆名門温泉割烹 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「全室離れ・源泉かけ流し露天風呂付き隠れ家宿：大人の静寂＆名門温泉割烹 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「全室離れ・源泉かけ流し露天風呂付き隠れ家宿：大人の静寂＆名門温泉割烹 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function LuxuryPremiumHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/137862/137862_rm1.jpg" alt="赤川温泉スパージュ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>目の前には久住高原の美しい景色が広がり、天気によって満点の星空を楽しめることもできます！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大分県竹田市久住町久住4026-1 ／ 最寄り駅：豊後竹田 ／ 交通案内：豊後竹田駅からバスで２０分</p>
+                  <p><strong>【所在地・アクセス】</strong>大分県竹田市久住町久住4026-1 ／ 最寄り駅：豊後竹田 ／ 交通案内：豊後竹田駅からバスで２０分</p>
                   <p>【全室離れ・源泉かけ流し露天風呂付き隠れ家宿：大人の静】 <strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function LuxuryPremiumHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/165731/165731_kan1.jpg" alt="箱根湯本温泉　離れ山家荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全室離れお部屋食の宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県足柄下郡箱根町湯本592 ／ 最寄り駅：箱根湯本 ／ 交通案内：箱根湯本駅より徒歩にて約１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県足柄下郡箱根町湯本592 ／ 最寄り駅：箱根湯本 ／ 交通案内：箱根湯本駅より徒歩にて約１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（本館仙景の駐車場をご利用ください。水車が目印です。無料　予約不要）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function LuxuryPremiumHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/197971/197971.jpg" alt="ＫＵＯＮ　箱根強羅　（オープンハウス・ホテルズ＆リゾーツ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>箱根強羅の高台に誕生した14室の隠れ家ホテル。オールインクルーシブでお茶や和菓子のモダンな宿泊体験。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県足柄下郡箱根町強羅1322-32 ／ 最寄り駅：強羅 ／ 交通案内：強羅駅からタクシーで5分、小田原駅から最寄りのバス停まで40分、バス停から徒歩5分</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県足柄下郡箱根町強羅1322-32 ／ 最寄り駅：強羅 ／ 交通案内：強羅駅からタクシーで5分、小田原駅から最寄りのバス停まで40分、バス停から徒歩5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>あり　11台(到着順)　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function LuxuryPremiumHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/29488/29488_room.jpg" alt="箱根温泉　鶴井の宿　紫雲荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>渓流沿い×部屋食×露付客室｜おこもりステイの叶う宿★ベビーフレンドリー三世代旅行人気宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県足柄下郡箱根町塔之沢92 ／ 最寄り駅：箱根湯本 ／ 交通案内：用賀I.C.より車で約1時間。箱根湯本駅より徒歩15分（箱根湯本駅より路線バスにて５分「上塔ノ沢下車」）</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県足柄下郡箱根町塔之沢92 ／ 最寄り駅：箱根湯本 ／ 交通案内：用賀I.C.より車で約1時間。箱根湯本駅より徒歩15分（箱根湯本駅より路線バスにて５分「上塔ノ沢下車」）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>２２台収容可能な無料駐車場有。(要事前予約)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function LuxuryPremiumHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/13791/13791_war.jpg" alt="箱根湯本温泉　あうら橘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>箱根湯本のリゾートホテルを感じさせる源泉の宿。露天風呂付き客室が24室。屋上に開放感あるスカイテラス</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県足柄下郡箱根町湯本574 ／ 最寄り駅：箱根湯本 ／ 交通案内：小田急線「箱根湯本駅」より徒歩１５分 / 小田原厚木道路 箱根ICより国道1号線→県道732号線経由</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県足柄下郡箱根町湯本574 ／ 最寄り駅：箱根湯本 ／ 交通案内：小田急線「箱根湯本駅」より徒歩１５分 / 小田原厚木道路 箱根ICより国道1号線→県道732号線経由</p>
                   <p>【全室離れ・源泉かけ流し露天風呂付き隠れ家宿：大人の静】 <strong>【駐車場・マイカー利用】</strong>有り　30台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.48 ／ 立地 ★4.36 ／ 部屋 ★4.33 ／ 設備 ★4.17 ／ 風呂 ★4.49 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function LuxuryPremiumHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/18252/18252.jpg" alt="有馬温泉　月光園　鴻朧館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ロビーや浴場等随所より壮大な景色がご覧頂ける有馬随一の立地条件。有馬の元湯をお楽しみくださいませ。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県神戸市北区有馬町318 ／ 最寄り駅：有馬温泉 ／ 交通案内：中国自動車道 西宮北ＩＣより有馬温泉方面約１０分／神戸電鉄「有馬温泉」駅下車 徒歩１０分（※毎日８時～１９時は無料送迎可</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県神戸市北区有馬町318 ／ 最寄り駅：有馬温泉 ／ 交通案内：中国自動車道 西宮北ＩＣより有馬温泉方面約１０分／神戸電鉄「有馬温泉」駅下車 徒歩１０分（※毎日８時～１９時は無料送迎可</p>
                   <p>【全室離れ・源泉かけ流し露天風呂付き隠れ家宿：大人の静】 <strong>【駐車場・マイカー利用】</strong>有り　４０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.6 ／ 立地 ★4.53 ／ 部屋 ★4.52 ／ 設備 ★4.36 ／ 風呂 ★4.62 ／ 食事 ★4.68</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

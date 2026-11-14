@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-shiga-biwako-otsu-ogoto-autumn-stay/"
   };
 
@@ -482,11 +482,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">琵琶湖・おごと温泉と比叡山延暦寺の紅葉！近江牛会席＆最澄開湯1200年の名湯｜ふるさと納税で泊まれる名宿ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「琵琶湖・おごと温泉と比叡山延暦寺の紅葉！近江牛会席＆最澄開湯1200年の名湯｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「琵琶湖・おごと温泉と比叡山延暦寺の紅葉！近江牛会席＆最澄開湯1200年の名湯｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -550,7 +550,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8165/8165_war.jpg" alt="おごと温泉　暖灯館　きくのや 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>地元食材を使った会席料理■テラスラウンジでフリードリンク■8/31-12/5貸切風呂リニューアル工事</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 滋賀県大津市雄琴6-1-29 ／ 最寄り駅：雄琴 ／ 交通案内：京都駅より20分、JR湖西線おごと温泉駅下車、車5分＜送迎有＞。京都東ICより湖西道路経由20分558号線沿い</p>
+                  <p><strong>【所在地・アクセス】</strong>滋賀県大津市雄琴6-1-29 ／ 最寄り駅：雄琴 ／ 交通案内：京都駅より20分、JR湖西線おごと温泉駅下車、車5分＜送迎有＞。京都東ICより湖西道路経由20分558号線沿い</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　23台　先着順　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -572,7 +572,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/3165/3165_wa.jpg" alt="おごと温泉　びわこ緑水亭 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>滋賀県おごと温泉、琵琶湖畔の旅館、露天風呂付客室や近江牛のプラン、家族・カップルに人気の旅館。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 滋賀県大津市雄琴6-1-6 ／ 最寄り駅：雄琴 ／ 交通案内：名神京都東Ｉ．Ｃから湖西道路経由で20分。ＪＲおごと温泉駅から送迎あり（要電話）</p>
+                  <p><strong>【所在地・アクセス】</strong>滋賀県大津市雄琴6-1-6 ／ 最寄り駅：雄琴 ／ 交通案内：名神京都東Ｉ．Ｃから湖西道路経由で20分。ＪＲおごと温泉駅から送迎あり（要電話）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.69 ／ 立地 ★4.59 ／ 部屋 ★4.62 ／ 設備 ★4.62 ／ 風呂 ★4.63 ／ 食事 ★4.74</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -594,7 +594,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8798/8798_heya.jpg" alt="おごと温泉　びわ湖花街道 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>湖も碧、山の蒼。時を忘れ。そして心がほどける。湖国が織りなす季節に移ろいを感じて。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 滋賀県大津市雄琴1-1-3 ／ 最寄り駅：雄琴 ／ 交通案内：車：名神京都東ＩＣ～約20分　電車：京都駅よりJR湖西線で20分。おごと温泉駅～無料送迎あり。（要連絡）</p>
+                  <p><strong>【所在地・アクセス】</strong>滋賀県大津市雄琴1-1-3 ／ 最寄り駅：雄琴 ／ 交通案内：車：名神京都東ＩＣ～約20分　電車：京都駅よりJR湖西線で20分。おごと温泉駅～無料送迎あり。（要連絡）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４８台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

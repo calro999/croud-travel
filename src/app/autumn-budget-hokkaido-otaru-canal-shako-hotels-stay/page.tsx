@@ -359,11 +359,11 @@ export default function AutumnBudgetOtaruHotelsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">小樽：秋の味覚シャコ・秋鮭＆運河ガス燈！3,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「小樽：秋の味覚シャコ・秋鮭＆運河ガス燈！3,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「小樽：秋の味覚シャコ・秋鮭＆運河ガス燈！3,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -445,7 +445,7 @@ export default function AutumnBudgetOtaruHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/3119/3119_heya.jpg" alt="ホテルノルド小樽 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ご宿泊者様限定で展望ラウンジの無料開放実施中。小樽の日の出をお楽しみ頂けます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道小樽市色内1-4-16 ／ 最寄り駅：小樽 ／ 交通案内：小樽駅から徒歩7分◆LeTAO・オルゴール堂が人気の堺町通りまで徒歩圏内◆札幌駅から車で40分・電車で35分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道小樽市色内1-4-16 ／ 最寄り駅：小樽 ／ 交通案内：小樽駅から徒歩7分◆LeTAO・オルゴール堂が人気の堺町通りまで徒歩圏内◆札幌駅から車で40分・電車で35分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　46台　1200円(１泊）　先着順となります。チェックイン前でもお車をお預かりいたします。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -467,7 +467,7 @@ export default function AutumnBudgetOtaruHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5170/5170_twn.jpg" alt="ホテルソニア小樽 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>-小樽運河前の天然温泉ホテル-朝食はビュッフェ　入浴時間15:00～24:00・6:00～10:00</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道小樽市色内1-4-20 ／ 最寄り駅：小樽 ／ 交通案内：「小樽運河」目の前。札幌駅から快速で32分のJR小樽駅より徒歩8分。高速小樽ICより5分。ニセコまでバスで1時間50分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道小樽市色内1-4-20 ／ 最寄り駅：小樽 ／ 交通案内：「小樽運河」目の前。札幌駅から快速で32分のJR小樽駅より徒歩8分。高速小樽ICより5分。ニセコまでバスで1時間50分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　37台　1,200円　先着順/満車時は周辺のコインパーキングへご案内致します。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -489,7 +489,7 @@ export default function AutumnBudgetOtaruHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/126/126_sgl.jpg" alt="ホテル法華クラブ函館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>函館郷土料理が豊富な朝食バイキングを是非■人工温泉準天然《光明石温泉》完備！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道函館市本町27-1 ／ 最寄り駅：函館 ／ 交通案内：函館駅からタクシーで約10分、函館空港からタクシーで約15分。市電五稜郭公園前から徒歩1分。</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道函館市本町27-1 ／ 最寄り駅：函館 ／ 交通案内：函館駅からタクシーで約10分、函館空港からタクシーで約15分。市電五稜郭公園前から徒歩1分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>◆1泊 800円（先着順）地下（10台）屋外（40台）※バイク500円　バス・トラック2400円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.4 ／ 立地 ★4.35 ／ 部屋 ★4.35 ／ 設備 ★4.29 ／ 風呂 ★4.34 ／ 食事 ★4.5</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -511,7 +511,7 @@ export default function AutumnBudgetOtaruHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/169/169_room.jpg" alt="ＡＮＡクラウンプラザホテル札幌　ｂｙ　ＩＨＧ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全室禁煙・ＪＲ札幌駅徒歩7分、地下鉄さっぽろ駅東豊線改札21番出口徒歩1分、空港バスホテル正面停車</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道札幌市中央区北3条西1丁目 ／ 最寄り駅：札幌 ／ 交通案内：JR札幌駅より徒歩7分/地下鉄東豊線さっぽろ駅21番出口（階段）より徒歩1分・23番出口（エレベーター）より徒歩2分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道札幌市中央区北3条西1丁目 ／ 最寄り駅：札幌 ／ 交通案内：JR札幌駅より徒歩7分/地下鉄東豊線さっぽろ駅21番出口（階段）より徒歩1分・23番出口（エレベーター）より徒歩2分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>79台収容（1泊￥2,000/地下駐車場：車高1.9m迄/国道5号線北方面沿い）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -533,7 +533,7 @@ export default function AutumnBudgetOtaruHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/238/238_twn.jpg" alt="旭川トーヨーホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ロビー直結コンビニございます！旭川空港発着・カムイスキーリンクス発着のバス停がホテル正面！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道旭川市7条通7丁目32-12 ／ 最寄り駅：旭川 ／ 交通案内：ＪＲ旭川駅西口から車で5分徒歩で15分、旭川空港発着のバスでおよそ40分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道旭川市7条通7丁目32-12 ／ 最寄り駅：旭川 ／ 交通案内：ＪＲ旭川駅西口から車で5分徒歩で15分、旭川空港発着のバスでおよそ40分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場含めて100台収容（１泊800円）ページ内に「駐車場」案内有り</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

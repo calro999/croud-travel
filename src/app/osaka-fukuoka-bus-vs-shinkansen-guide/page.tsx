@@ -357,11 +357,11 @@ export default function HighwayBusArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">大阪から福岡・博多 安く行く方法：新幹線 vs 夜行バス徹底比較！中洲屋台・もつ鍋1泊2日モデルコース：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「大阪から福岡・博多 安く行く方法：新幹線 vs 夜行バス徹底比較！中洲屋台・もつ鍋1泊2日モデルコース」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「大阪から福岡・博多 安く行く方法：新幹線 vs 夜行バス徹底比較！中洲屋台・もつ鍋1泊2日モデルコース」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -425,7 +425,7 @@ export default function HighwayBusArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/65439/65439.jpg" alt="博多天然温泉「旅人の湯」ホテルルートイン博多駅前　－博多口－ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>☆博多駅が目の前でアクセス抜群！雨の日でもほぼ濡れずに直行！天然温泉大浴場、バイキング朝食無料♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福岡県福岡市博多区博多駅前1-1-20 ／ 最寄り駅：博多 ／ 交通案内：JR博多駅より徒歩3分(博多口右のバスターミナル前)／福岡空港より地下鉄約10分／福岡都市高速呉服町ランプより車で約５分</p>
+                  <p><strong>【所在地・アクセス】</strong>福岡県福岡市博多区博多駅前1-1-20 ／ 最寄り駅：博多 ／ 交通案内：JR博多駅より徒歩3分(博多口右のバスターミナル前)／福岡空港より地下鉄約10分／福岡都市高速呉服町ランプより車で約５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>《先着順でのご案内》　1500円（税込）／泊　　26台（普通車6台、ハイルーフ対応20台）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -447,7 +447,7 @@ export default function HighwayBusArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5012/5012_sgl.jpg" alt="天然温泉　八百治の湯　八百治博多ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>博多駅徒歩5分!!天然温泉大浴場完備!!Wi-Fi無料＆加湿機能付空気清浄機完備♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福岡県福岡市博多区博多駅前4-9-2 ／ 最寄り駅：博多 ／ 交通案内：博多駅博多口より徒歩５分（福岡空港から博多駅まで地下鉄で５分。）</p>
+                  <p><strong>【所在地・アクセス】</strong>福岡県福岡市博多区博多駅前4-9-2 ／ 最寄り駅：博多 ／ 交通案内：博多駅博多口より徒歩５分（福岡空港から博多駅まで地下鉄で５分。）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>契約駐車場　1,500円（税込）/14時～翌日14時</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -469,7 +469,7 @@ export default function HighwayBusArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/41372/41372_dai.jpg" alt="西鉄ホテル　クルーム博多 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>天然温泉・サウナ完備／博多駅すぐ隣／開放的で居心地のよいロビー空間／コンビニ併設</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福岡県福岡市博多区博多駅前一丁目１７番６号 ／ 最寄り駅：博多 ／ 交通案内：ＪＲ　博多駅「博多口」より徒歩約４分    　　　地下鉄　博多駅「西４番出口」より徒歩約４分</p>
+                  <p><strong>【所在地・アクセス】</strong>福岡県福岡市博多区博多駅前一丁目１７番６号 ／ 最寄り駅：博多 ／ 交通案内：ＪＲ　博多駅「博多口」より徒歩約４分    　　　地下鉄　博多駅「西４番出口」より徒歩約４分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>１泊1台２，０００円（税込）14:30～翌12：30</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

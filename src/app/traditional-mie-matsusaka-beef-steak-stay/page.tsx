@@ -236,7 +236,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -681,11 +681,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：肉の芸術品・特選松阪牛！炭火ステーキ・すき焼き会席＆伊勢志摩・鳥羽の極上宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：肉の芸術品・特選松阪牛！炭火ステーキ・すき焼き会席＆伊勢志摩・鳥羽の極上宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：肉の芸術品・特選松阪牛！炭火ステーキ・すき焼き会席＆伊勢志摩・鳥羽の極上宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -767,7 +767,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/12599/12599_war.jpg" alt="湯の山温泉　旅館寿亭 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>選べる6つの貸切風呂と部屋食で味わう三重の旬。大切な人と気兼ねなく過ごす湯の山温泉の老舗旅館</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 三重県三重郡菰野町菰野8585 ／ 最寄り駅：湯の山温泉 ／ 交通案内：【車】新名神：菰野ＩＣ（※ＥＴＣ専用）約１０分　東名阪：四日市ＩＣ約２５分【電車】湯の山温泉駅から無料送迎（約１０分）</p>
+                  <p><strong>【所在地・アクセス】</strong>三重県三重郡菰野町菰野8585 ／ 最寄り駅：湯の山温泉 ／ 交通案内：【車】新名神：菰野ＩＣ（※ＥＴＣ専用）約１０分　東名阪：四日市ＩＣ約２５分【電車】湯の山温泉駅から無料送迎（約１０分）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有４０台無料　係員が駐車場までご案内します　Google map「寿亭専用駐車場」と検索してください</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.69 ／ 立地 ★4.44 ／ 部屋 ★4.44 ／ 設備 ★4.31 ／ 風呂 ★4.51 ／ 食事 ★4.65</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -789,7 +789,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/37898/37898_room.jpg" alt="榊原温泉　旅館　清少納言 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>枕草子にも 【三大名泉】 と謳われた、湯治にも最適の湯宿。温泉自慢！ 堂々の【クチコミ★4.0以上】</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 三重県津市榊原町6010 ／ 最寄り駅：榊原温泉口 ／ 交通案内：近畿日本鉄道大阪線「榊原温泉口駅」より車で約10分 送迎あり／伊勢自動車道ICより車で約15分</p>
+                  <p><strong>【所在地・アクセス】</strong>三重県津市榊原町6010 ／ 最寄り駅：榊原温泉口 ／ 交通案内：近畿日本鉄道大阪線「榊原温泉口駅」より車で約10分 送迎あり／伊勢自動車道ICより車で約15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.93 ／ 立地 ★3.79 ／ 部屋 ★3.85 ／ 設備 ★3.61 ／ 風呂 ★4.26 ／ 食事 ★4.09</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -811,7 +811,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/15042/15042_w.jpg" alt="塩田温泉旅館　湯元　うえやま 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>平成13年7月　心と身体の休まる宿として改装オープン</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県姫路市夢前町塩田287 ／ 最寄り駅：姫路 ／ 交通案内：ＪＲ姫路→神姫バス塩田温泉〜前之庄３５分　中国道福崎ＩＣ２０分　山陽道姫路西ＩＣ２５分  中国道夢前スマートＩＣ５分</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県姫路市夢前町塩田287 ／ 最寄り駅：姫路 ／ 交通案内：ＪＲ姫路→神姫バス塩田温泉〜前之庄３５分　中国道福崎ＩＣ２０分　山陽道姫路西ＩＣ２５分  中国道夢前スマートＩＣ５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.43 ／ 立地 ★4.37 ／ 部屋 ★4.33 ／ 設備 ★4.28 ／ 風呂 ★4.51 ／ 食事 ★4.67</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -833,7 +833,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5677/5677_heya1.jpg" alt="あわら温泉　伝統旅館のぬくもり　灰屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【ガーデンサウナOPEN】明治１７年創業当時の趣を残す伝統旅館。奥深いおもてなしを提供いたします</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福井県あわら市温泉2-205 ／ 最寄り駅：芦原温泉 ／ 交通案内：ＪＲ北陸本線芦原温泉駅から路線バスにて１５分/無料送迎あり。北陸道金津ＩＣより車で１５分。駐車場無料(係が案内します。)</p>
+                  <p><strong>【所在地・アクセス】</strong>福井県あわら市温泉2-205 ／ 最寄り駅：芦原温泉 ／ 交通案内：ＪＲ北陸本線芦原温泉駅から路線バスにて１５分/無料送迎あり。北陸道金津ＩＣより車で１５分。駐車場無料(係が案内します。)</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料 （エントランスにはスロープもございます。係がご案内いたします。）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.39 ／ 立地 ★4.16 ／ 部屋 ★4.3 ／ 設備 ★4.23 ／ 風呂 ★4.31 ／ 食事 ★4.5</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -855,7 +855,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/15941/15941_bt1.jpg" alt="風待ちの湯福寿荘　伊勢志摩の温泉旅館＜渡鹿野島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>◆船で3分の温泉宿◆地下1,300メートルから湧く天然療養温泉と伊勢海老・松阪牛・旬の海の幸を満喫！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 三重県志摩市磯部町渡鹿野517 ／ 最寄り駅：鵜方 ／ 交通案内：近鉄「鵜方駅」下車、送迎バス（予約制）１５分～船３分(有料）、伊勢自動車道　伊勢西ＩＣ～６０分～船３分(有料）</p>
+                  <p><strong>【所在地・アクセス】</strong>三重県志摩市磯部町渡鹿野517 ／ 最寄り駅：鵜方 ／ 交通案内：近鉄「鵜方駅」下車、送迎バス（予約制）１５分～船３分(有料）、伊勢自動車道　伊勢西ＩＣ～６０分～船３分(有料）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.27 ／ 立地 ★4.33 ／ 部屋 ★4.28 ／ 設備 ★4.21 ／ 風呂 ★4.38 ／ 食事 ★4.4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

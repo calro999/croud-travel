@@ -647,11 +647,11 @@ export default function FurusatoTaxPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">雲海テラス＆天空パノラマリゾート×ふるさと納税厳選ガイドトマム・志賀高原・蔵王の雲上絶景ホテル：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「雲海テラス＆天空パノラマリゾート×ふるさと納税厳選ガイドトマム・志賀高原・蔵王の雲上絶景ホテル」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「雲海テラス＆天空パノラマリゾート×ふるさと納税厳選ガイドトマム・志賀高原・蔵王の雲上絶景ホテル」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -733,7 +733,7 @@ export default function FurusatoTaxPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/29261/29261_t.jpg" alt="ペンション　イング・トマム 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>大自然に囲まれ、豊富なアウトドアメニューが四季を通し楽しめる。清潔・清楚な温泉付きペンション。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道勇払郡占冠村上トマム ／ 最寄り駅：トマム ／ 交通案内：富良野から：約６０ｋｍ/札幌・小樽から高速・道東道トマムＩＣ下車５分/</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道勇払郡占冠村上トマム ／ 最寄り駅：トマム ／ 交通案内：富良野から：約６０ｋｍ/札幌・小樽から高速・道東道トマムＩＣ下車５分/</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -755,7 +755,7 @@ export default function FurusatoTaxPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8875/8875_war.jpg" alt="志賀高原　癒しの宿幸の湯 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「故郷のない方いらっしゃい」をコンセプトに、祖父の代から受け継いだアットホームなお宿です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県下高井郡山ノ内町志賀高原平床 ／ 最寄り駅：湯田中 ／ 交通案内：JR長野駅より志賀高原行き直通バスで約70分。上信越自動車道・信州中野ICより約40分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県下高井郡山ノ内町志賀高原平床 ／ 最寄り駅：湯田中 ／ 交通案内：JR長野駅より志賀高原行き直通バスで約70分。上信越自動車道・信州中野ICより約40分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　無料　（冬季：10台）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -777,7 +777,7 @@ export default function FurusatoTaxPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/39261/39261_kya.jpg" alt="志賀高原ロッヂ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>チェックイン13時～OK！貸切サウナ併設（要予約）ペット同伴可♪横手山渋峠＆熊の湯スキー場徒歩3分</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県下高井郡山ノ内町平穏7148-23 ／ 最寄り駅：湯田中 ／ 交通案内：湯田中駅からバスで45分ほたる温泉下車徒歩5分。信州中野ICから車で約40分。</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県下高井郡山ノ内町平穏7148-23 ／ 最寄り駅：湯田中 ／ 交通案内：湯田中駅からバスで45分ほたる温泉下車徒歩5分。信州中野ICから車で約40分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -799,7 +799,7 @@ export default function FurusatoTaxPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/187457/187457.jpg" alt="天然温泉　旅人の湯（源泉名：延徳温泉）ホテルルートインＧｒａｎｄ中野小布施－信州中野駅前－ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>長野電鉄信州中野駅より徒歩3分！無料駐車場・天然温泉大浴場完備！小布施町・志賀高原へ良アクセス！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県中野市西1-3-27 ／ 最寄り駅：信州中野 ／ 交通案内：信州中野駅より徒歩で約3分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県中野市西1-3-27 ／ 最寄り駅：信州中野 ／ 交通案内：信州中野駅より徒歩で約3分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　109台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -821,7 +821,7 @@ export default function FurusatoTaxPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8084/8084_room1.jpg" alt="蔵王温泉　最上高湯　善七乃湯（旧：蔵王温泉　大平ホテル） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【温泉4.9】5つの無料貸切風呂完備｜強酸性硫黄泉×源泉かけ流しの極上湯を堪能◆ペット同伴客室あり◆</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県山形市蔵王温泉825 ／ 最寄り駅：山形 ／ 交通案内：JR山形駅より定期バス45分／山形蔵王ICより車で25分／山形駅からの無料送迎（予約サイト・EGBY12月～3月）</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県山形市蔵王温泉825 ／ 最寄り駅：山形 ／ 交通案内：JR山形駅より定期バス45分／山形蔵王ICより車で25分／山形駅からの無料送迎（予約サイト・EGBY12月～3月）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>普通車40台（無料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.48 ／ 立地 ★4.33 ／ 部屋 ★4.28 ／ 設備 ★4.18 ／ 風呂 ★4.6 ／ 食事 ★4.54</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

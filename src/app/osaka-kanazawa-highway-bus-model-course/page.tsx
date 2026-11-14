@@ -349,11 +349,11 @@ export default function HighwayBusArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">大阪から金沢 高速バス 新幹線 どっち？：安く行く方法＆乗り換えなし1泊2日モデルコース：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「大阪から金沢 高速バス 新幹線 どっち？：安く行く方法＆乗り換えなし1泊2日モデルコース」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「大阪から金沢 高速バス 新幹線 どっち？：安く行く方法＆乗り換えなし1泊2日モデルコース」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -435,7 +435,7 @@ export default function HighwayBusArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/147638/147638_kan.jpg" alt="ＡＢホテル金沢 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>男女別浴場完備・ネット接続無料。金沢駅より徒歩１分の好アクセス♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県金沢市広岡１丁目９番２５号 ／ 最寄り駅：金沢 ／ 交通案内：『北陸新幹線・ＪＲ金沢駅』西口より徒歩1分。北陸自動車道『金沢西・東インター』より車で約１５分の好アクセス！</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県金沢市広岡１丁目９番２５号 ／ 最寄り駅：金沢 ／ 交通案内：『北陸新幹線・ＪＲ金沢駅』西口より徒歩1分。北陸自動車道『金沢西・東インター』より車で約１５分の好アクセス！</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有料　1,000円/泊(１５：００～１０：００)　ホテル隣接の『名鉄協商パーキング』　※出し入別料金</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -457,7 +457,7 @@ export default function HighwayBusArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/167963/167963.jpg" alt="三井ガーデンホテル金沢 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>観光名所が身近に揃うロケーション。加賀友禅をあしらった客室や最上階の大浴場でおくつろぎください。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県金沢市上堤町1-22 ／ 最寄り駅：金沢 ／ 交通案内：ＪＲ　金沢駅よりお車にて約8分</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県金沢市上堤町1-22 ／ 最寄り駅：金沢 ／ 交通案内：ＪＲ　金沢駅よりお車にて約8分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>ホテルに専用駐車場はございません。提携駐車場はホテル公式HP「館内利用案内」の駐車場をご覧ください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -479,7 +479,7 @@ export default function HighwayBusArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/168622/168622_kan1.jpg" alt="ホテルインターゲート金沢 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ハッピーアワーからお茶漬けバイキングまで無料ラウンジサービスが充実・大浴場完備・朝食高評価</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県金沢市高岡町2-5 ／ 最寄り駅：金沢 ／ 交通案内：JR金沢駅から北鉄バス「南町・尾山神社」迄7分下車1分｜小松空港からバスで「武蔵ヶ辻・近江町市場」迄50分下車7分</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県金沢市高岡町2-5 ／ 最寄り駅：金沢 ／ 交通案内：JR金沢駅から北鉄バス「南町・尾山神社」迄7分下車1分｜小松空港からバスで「武蔵ヶ辻・近江町市場」迄50分下車7分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>ホテルには駐車場がございません。周辺コインパーキング（ホテルから徒歩5～10分程）をご利用ください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -501,7 +501,7 @@ export default function HighwayBusArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/54537/54537_ky.jpg" alt="ホテルルートイン金沢駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ＷＯＷＯＷ全室で無料視聴可■VODルームシアター(一般映画のみ)無料視聴可（コンフォート特典）</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県金沢市昭和町22-5 ／ 最寄り駅：金沢 ／ 交通案内：ＪＲ北陸本線・新幹線　金沢駅より徒歩５分／北陸自動車道　金沢西ＩＣより５．５ｋｍ</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県金沢市昭和町22-5 ／ 最寄り駅：金沢 ／ 交通案内：ＪＲ北陸本線・新幹線　金沢駅より徒歩５分／北陸自動車道　金沢西ＩＣより５．５ｋｍ</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１６６台　１，０００円（税込み／泊）　先着順・高さ制限２．１M迄</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -523,7 +523,7 @@ export default function HighwayBusArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/141319/141319.jpg" alt="備長炭の湯　ホテルクラウンヒルズ金沢香林坊（ＢＢＨホテルグループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>金沢の繁華街香林坊・兼六園に隣接した地にありながら静かな環境。教会の鐘の音に包まれます♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県金沢市片町1-2-44 ／ 最寄り駅：金沢 ／ 交通案内：金沢駅よりお車にて８分 東口バス乗り場6・８・９・10番から香林坊下車徒歩２分</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県金沢市片町1-2-44 ／ 最寄り駅：金沢 ／ 交通案内：金沢駅よりお車にて８分 東口バス乗り場6・８・９・10番から香林坊下車徒歩２分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>提携のセントラルパーキングを、一泊１０００円(１５：００－翌１０：００)にて利用可能。出し入れ不可。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

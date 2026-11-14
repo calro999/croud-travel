@@ -536,11 +536,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大火祭り＆燃え盛る情熱の伝統宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本三大火祭り＆燃え盛る情熱の伝統宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「日本三大火祭り＆燃え盛る情熱の伝統宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -578,7 +578,7 @@ export default function Page() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ザ・プリンス　京都宝ヶ池、オートグラフコレクション</td>
-                <td className="p-3 text-stone-600">北海道</td>
+                <td className="p-3 text-stone-600">京都府 京都市左京区宝ヶ池</td>
                 <td className="p-3 text-stone-600">【地下鉄烏丸線】京都駅から国際会館駅まで乗り換えなし20分。④-2出入</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（2277件）</td>
@@ -604,7 +604,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/54556/54556_b1.jpg" alt="南紀勝浦温泉　ホテル浦島 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【楽天トラベルゴールドアワード受賞】圧倒的なスケールと開放感！天然洞窟温泉など湯巡りを楽しもう♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県東牟婁郡那智勝浦町勝浦1165-2 ／ 最寄り駅：紀伊勝浦 ／ 交通案内：ＪＲ紀勢線　紀伊勝浦駅から徒歩6分で桟橋へ。更に専用ボート又は、シャトルバスで５分　詳しくは交通案内ページをご覧ください</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県東牟婁郡那智勝浦町勝浦1165-2 ／ 最寄り駅：紀伊勝浦 ／ 交通案内：ＪＲ紀勢線　紀伊勝浦駅から徒歩6分で桟橋へ。更に専用ボート又は、シャトルバスで５分　詳しくは交通案内ページをご覧ください</p>
                   <p><strong>【駐車場・マイカー利用】</strong>400台（無料）／駐車場はホテルより離れた場所にございます。詳しくは交通案内ページをご覧ください</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.16 ／ 立地 ★4.41 ／ 部屋 ★4.18 ／ 設備 ★4.03 ／ 風呂 ★4.51 ／ 食事 ★4.22</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -626,7 +626,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8186/8186.jpg" alt="野沢温泉　河一屋旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【新客室オープン】天下の名湯・真湯を贅沢に独り占めできます♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県下高井郡野沢温泉村豊郷8923-1 ／ 最寄り駅：戸狩野沢温泉 ／ 交通案内：豊田飯山IC⇒R117「野沢温泉」方面25分　新幹線飯山駅⇒野沢温泉行バス25分「野沢温泉」下車徒歩2分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県下高井郡野沢温泉村豊郷8923-1 ／ 最寄り駅：戸狩野沢温泉 ／ 交通案内：豊田飯山IC⇒R117「野沢温泉」方面25分　新幹線飯山駅⇒野沢温泉行バス25分「野沢温泉」下車徒歩2分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り：（専用駐車場）18台　無料・（村営駐車場）1500円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -647,8 +647,8 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1471/1471_room.jpg" alt="ザ・プリンス　京都宝ヶ池、オートグラフコレクション 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「日本三大火祭り＆燃え盛る情熱の伝統宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：【地下鉄烏丸線】京都駅から国際会館駅まで乗り換えなし20分。④-2出入口より徒歩3分【車】京都東I.C.から平常時35分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>京都駅から乗り換えなし20分。都会の喧騒から離れてこころ穏やかなひとときをお過ごしください。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：【地下鉄烏丸線】京都駅から国際会館駅まで乗り換えなし20分。④-2出入口より徒歩3分【車】京都東I.C.から平常時35分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

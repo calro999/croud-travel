@@ -395,37 +395,6 @@ export default function Page() {
           </div>
         </section>
 
-        {/* よくある質問 FAQ */}
-        <section className="mb-16 bg-white rounded-3xl shadow-sm border border-stone-200/80 p-6 md:p-10">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">よくある質問・ふるさと納税トラベルクーポンの疑問を解消</h2>
-          <div className="space-y-4">
-            
-            <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>ゴルフプレー代金もクーポンの割引対象に含まれますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
-                楽天トラベル上で販売されている「ゴルフプレー券付き宿泊プラン」や「1ラウンドプレー代込みリゾートプラン」であれば、宿泊とプレー代を合わせた総額に対してふるさと納税クーポンが適用されます。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>仲間との複数名予約でまとめてクーポンを使えますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
-                代表者が1つの予約として同伴者全員分の部屋をまとめて予約した場合、その予約総額に対してクーポンが適用可能です。また、メンバー各自がそれぞれの楽天アカウントでふるさと納税を行い、個別に予約してクーポンを充当することもできます。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>ゴルフバッグの事前発送やレンタルクラブの手配は可能ですか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
-                多くのゴルフリゾートホテルでは宅急便によるゴルフバッグの事前受け取り・保管サービスを行っています。また、最新モデルのレンタルクラブやシューズを用意しているリゾートも多く、手ぶらでの飛行機移動も快適です。
-              </p>
-            </div>
-          </div>
-        </section>
-
         {/* 相互回遊リンク */}
         <section className="bg-stone-200/80 rounded-3xl p-6 md:p-10 border border-stone-300">
           <div className="text-center max-w-2xl mx-auto mb-8">

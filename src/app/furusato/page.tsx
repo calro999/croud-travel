@@ -1,6 +1,7 @@
 import { Metadata } from "next";
 import Link from "next/link";
 import FloatingMobileCTA from "@/app/components/FloatingMobileCTA";
+import ShareButtons from "@/app/components/ShareButtons";
 
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || "https://croud-travel.pages.dev";
 const AFFILIATE_FURUSATO_URL = "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F";
@@ -263,6 +264,11 @@ export default function FurusatoPage() {
           </div>
         </div>
       </section>
+
+      <ShareButtons
+        title="【最大30%還元】楽天トラベルふるさと納税宿泊クーポン完全攻略"
+        url={`${baseUrl}/furusato/`}
+      />
 
       {/* 年末駆け込みふるさと納税キラー特集への特設誘導 */}
       <section className="bg-gradient-to-r from-amber-50 via-orange-50 to-amber-50 border-2 border-amber-300 rounded-3xl p-6 md:p-8 shadow-sm flex flex-col md:flex-row items-center justify-between gap-5">
@@ -540,6 +546,11 @@ export default function FurusatoPage() {
           </a>
         </div>
       </section>
+
+      <ShareButtons
+        title="【最大30%還元】楽天トラベルふるさと納税宿泊クーポン完全攻略"
+        url={`${baseUrl}/furusato/`}
+      />
 
       {/* 画面下部 スマホ追従CTAバー */}
       <FloatingMobileCTA

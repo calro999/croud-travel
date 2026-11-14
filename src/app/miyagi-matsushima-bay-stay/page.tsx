@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">宮城・日本三景松島：松島湾260島パノラマ・瑞巌寺＆極上牡蠣・牛たん宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「宮城・日本三景松島：松島湾260島パノラマ・瑞巌寺＆極上牡蠣・牛たん宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「宮城・日本三景松島：松島湾260島パノラマ・瑞巌寺＆極上牡蠣・牛たん宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4964/4964_roten.jpg" alt="松島温泉　松島センチュリーホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>日本三景松島の中心部に位置し、主な観光施設へは徒歩圏内。目の前に広がる松島湾の風景は最高の贅沢。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮城県宮城郡松島町松島字仙随８番地 ／ 最寄り駅：松島海岸 ／ 交通案内：ＪＲ仙石線松島海岸駅下車徒歩10分、ＪＲ東北本線松島駅下車徒歩15分</p>
+                  <p><strong>【所在地・アクセス】</strong>宮城県宮城郡松島町松島字仙随８番地 ／ 最寄り駅：松島海岸 ／ 交通案内：ＪＲ仙石線松島海岸駅下車徒歩10分、ＪＲ東北本線松島駅下車徒歩15分</p>
                   <p>【宮城・日本三景松島：松島湾260島パノラマ・瑞巌寺＆】 <strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2047/2047_bas.jpg" alt="松島温泉　ホテル大松荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>松島海岸駅から徒歩１分、天然温泉とおいしいお料理でおもてなしいたします。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮城県宮城郡松島町松島字町内25 ／ 最寄り駅：松島海岸 ／ 交通案内：ＪＲ松島海岸駅より徒歩１分。東北自動車道仙台南IC～南部道路～三陸自動車道　松島海岸ICより３分</p>
+                  <p><strong>【所在地・アクセス】</strong>宮城県宮城郡松島町松島字町内25 ／ 最寄り駅：松島海岸 ／ 交通案内：ＪＲ松島海岸駅より徒歩１分。東北自動車道仙台南IC～南部道路～三陸自動車道　松島海岸ICより３分</p>
                   <p>【宮城・日本三景松島：松島湾260島パノラマ・瑞巌寺＆】 <strong>【駐車場・マイカー利用】</strong>有り　50台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/29538/29538_kw.jpg" alt="松島温泉　ホテル絶景の館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>お部屋から刻々変化する180°のパノラマを体験しませんか</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮城県宮城郡松島町松島東浜4-6 ／ 最寄り駅：松島海岸 ／ 交通案内：仙石線 松島海岸駅・東北本線　松島駅　（15：00～21：00まで送迎有・予約不可）／三陸道松島ICより１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>宮城県宮城郡松島町松島東浜4-6 ／ 最寄り駅：松島海岸 ／ 交通案内：仙石線 松島海岸駅・東北本線　松島駅　（15：00～21：00まで送迎有・予約不可）／三陸道松島ICより１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料　４０台</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/176564/176564_kan1.jpg" alt="奥松島レーンホテル～旬の美味と大浴場「松島・嵯峨の湯」 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>旬の地産食材の魅力が奏でる創作和食会席に広々大浴場と客室が自慢の宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮城県東松島市野蒜ケ丘3-29-1 ／ 最寄り駅：陸前大塚 ／ 交通案内：松島から車で約１０分の好アクセス。ＪＲ仙石線　陸前大塚駅／東名駅より徒歩にて約１０分。送迎可能※要事前予約</p>
+                  <p><strong>【所在地・アクセス】</strong>宮城県東松島市野蒜ケ丘3-29-1 ／ 最寄り駅：陸前大塚 ／ 交通案内：松島から車で約１０分の好アクセス。ＪＲ仙石線　陸前大塚駅／東名駅より徒歩にて約１０分。送迎可能※要事前予約</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/27993/27993_ks.jpg" alt="奥松島　漁師の宿　桜荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>宮戸島、奥松島縄文村に近く。海に近い静かな漁師の宿です。新鮮な素材の味にこだわった島の宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮城県東松島市宮戸里25 ／ 最寄り駅：野蒜 ／ 交通案内：ＪＲ野蒜駅より車で１5分。三陸自動車道 鳴瀬・奥松島ICより車で15分。送迎可※要事前予約</p>
+                  <p><strong>【所在地・アクセス】</strong>宮城県東松島市宮戸里25 ／ 最寄り駅：野蒜 ／ 交通案内：ＪＲ野蒜駅より車で１5分。三陸自動車道 鳴瀬・奥松島ICより車で15分。送迎可※要事前予約</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１0台　5分程のところに桜荘臨時駐車場も有りマイクロバス等もとめられます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4675/4675_heya.jpg" alt="松島温泉　小松館　好風亭 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>貸切露天風呂が大人気　　松島で一番海に近い宿/最高の料理といい景色と天然温泉</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮城県宮城郡松島町松島字仙随35-2 ／ 最寄り駅：松島 ／ 交通案内：JR仙台駅より仙石線・東北本線で40分。仙石線松島海岸駅・東北本線松島駅より車で５分</p>
+                  <p><strong>【所在地・アクセス】</strong>宮城県宮城郡松島町松島字仙随35-2 ／ 最寄り駅：松島 ／ 交通案内：JR仙台駅より仙石線・東北本線で40分。仙石線松島海岸駅・東北本線松島駅より車で５分</p>
                   <p>【宮城・日本三景松島：松島湾260島パノラマ・瑞巌寺＆】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

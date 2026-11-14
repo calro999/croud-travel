@@ -310,37 +310,6 @@ export default function Page() {
           </div>
         </section>
 
-        {/* よくある質問 FAQ */}
-        <section className="mb-16 bg-white rounded-2xl shadow-sm border border-stone-200/80 p-6 md:p-8">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">よくある質問・伝統文化体験＆宿坊の楽しみ方</h2>
-          <div className="space-y-4">
-            
-            <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-amber-700 font-serif font-black text-lg">Q.</span>
-                <span>茶道の作法や知識が全くなくても体験できますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
-                全く問題ありません。旅館やホテルの茶道体験では、お茶のいただき方や器の鑑賞法、お菓子の食べ方まで優しく丁寧に教えてもらえます。「美味しく味わい、そのひとときを愉しむ」ことが基本ですので気兼ねなくご参加ください。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-amber-700 font-serif font-black text-lg">Q.</span>
-                <span>服装に指定や注意点はありますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
-                茶室に入る際は、畳を傷つけないよう清潔な白い靴下（または白足袋）を着用するのがマナーです。また、大切な茶器を傷つけないよう、指輪や腕時計などのアクセサリー類は事前に外しておきましょう。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-amber-700 font-serif font-black text-lg">Q.</span>
-                <span>客室でお茶を点てるプランもありますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
-                はい、客室に茶道具一式（茶筅、抹茶、茶碗、ポット等）が用意されており、好きな時間に自分自身でお茶を点てて愉しめるプライベートなお茶体験プランを用意している宿も増えています。
-              </p>
-            </div>
-          </div>
-        </section>
-
         {/* 関連リンク */}
         <section className="bg-stone-200/70 rounded-2xl p-6 md:p-8 text-center border border-stone-300">
           <h3 className="text-xl font-bold text-stone-900 mb-3 font-serif">他の伝統文化・リトリート宿を探す</h3>
@@ -484,10 +453,10 @@ export default function Page() {
                 鹿児島県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/yamagata/"
+                href="/prefectures/kyoto/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                山形県の宿・温泉
+                京都府の宿・温泉
               </Link>
               <Link
                 href="/prefectures/nagasaki/"

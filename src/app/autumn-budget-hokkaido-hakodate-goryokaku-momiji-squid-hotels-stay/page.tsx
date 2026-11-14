@@ -285,11 +285,11 @@ export default function AutumnBudgetHakodateHotelsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">函館：五稜郭の星形秋紅葉と名物秋真イカ！2,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「函館：五稜郭の星形秋紅葉と名物秋真イカ！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「函館：五稜郭の星形秋紅葉と名物秋真イカ！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -371,7 +371,7 @@ export default function AutumnBudgetHakodateHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/165716/165716_kan1.jpg" alt="クレドホテル函館 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>函館市電競馬場前駅から徒歩１分、函館アリーナへは電車５分、徒歩５分と好アクセスの新築ホテルです</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道函館市深堀町22-42 ／ 最寄り駅：主要駅 ／ 交通案内：函館市電　競馬場前駅より徒歩にて約１分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道函館市深堀町22-42 ／ 交通案内：函館市電　競馬場前駅より徒歩にて約１分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　※２０２４年５月１日より新規予約分から１泊１台５００円　（大型車両はご連絡下さい）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.15 ／ 立地 ★4.06 ／ 部屋 ★4.26 ／ 設備 ★4.11 ／ 風呂 ★3.99 ／ 食事 ★4.03</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -393,7 +393,7 @@ export default function AutumnBudgetHakodateHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/165825/165825.jpg" alt="ホテルオールインステイ函館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ＪＲ函館駅から徒歩にて７分の好立地、観光やビジネス、小グループの拠点として最適です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道函館市若松町32-8 ／ 最寄り駅：函館 ／ 交通案内：ＪＲ　函館駅から0.7K徒歩にて約７分。函館空港より車15分、空港より函館駅までシャトルバス有り</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道函館市若松町32-8 ／ 最寄り駅：函館 ／ 交通案内：ＪＲ　函館駅から0.7K徒歩にて約７分。函館空港より車15分、空港より函館駅までシャトルバス有り</p>
                   <p><strong>【駐車場・マイカー利用】</strong>1階が12台（先着順）他に第2、第3駐車場がございます。お車の出し入れは自由です。1泊500円/台</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.43 ／ 立地 ★4.34 ／ 部屋 ★4.43 ／ 設備 ★4.31 ／ 風呂 ★4.23</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -415,7 +415,7 @@ export default function AutumnBudgetHakodateHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/160793/160793_kan1.jpg" alt="ホテル・ラ・ジェント・プラザ函館北斗 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>北海道新幹線「新函館北斗駅」徒歩1分！癒しの温泉大浴場、地場食材を使用した朝食は5時45分から！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道北斗市市渡1丁目1番7号 ／ 最寄り駅：主要駅 ／ 交通案内：北海道新幹線「新函館北斗駅」より徒歩約1分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道北斗市市渡1丁目1番7号 ／ 交通案内：北海道新幹線「新函館北斗駅」より徒歩約1分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>1泊1台700円（先着順）　近隣有料駐車場あり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.27 ／ 立地 ★4.19 ／ 部屋 ★4.31 ／ 設備 ★4.22 ／ 風呂 ★4.24 ／ 食事 ★4.29</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -437,7 +437,7 @@ export default function AutumnBudgetHakodateHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/179797/179797_kan1.jpg" alt="スマイルホテルプレミアム函館五稜郭 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【全館全室禁煙】すべてのお部屋に空気清浄機完備★五稜郭公園まで徒歩約5分♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道函館市本町8-15 ／ 最寄り駅：主要駅 ／ 交通案内：市電「五稜郭公園前」より徒歩約3分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道函館市本町8-15 ／ 交通案内：市電「五稜郭公園前」より徒歩約3分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>1泊 800円（立体駐車場14台・先着順）事前予約不可　近隣に有料駐車場あり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.32 ／ 部屋 ★4.4 ／ 設備 ★4.31 ／ 風呂 ★4.26 ／ 食事 ★4.34</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -459,7 +459,7 @@ export default function AutumnBudgetHakodateHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/126/126_sgl.jpg" alt="ホテル法華クラブ函館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>函館郷土料理が豊富な朝食バイキングを是非■人工温泉準天然《光明石温泉》完備！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道函館市本町27-1 ／ 最寄り駅：函館 ／ 交通案内：函館駅からタクシーで約10分、函館空港からタクシーで約15分。市電五稜郭公園前から徒歩1分。</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道函館市本町27-1 ／ 最寄り駅：函館 ／ 交通案内：函館駅からタクシーで約10分、函館空港からタクシーで約15分。市電五稜郭公園前から徒歩1分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>◆1泊 800円（先着順）地下（10台）屋外（40台）※バイク500円　バス・トラック2400円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.4 ／ 立地 ★4.35 ／ 部屋 ★4.35 ／ 設備 ★4.29 ／ 風呂 ★4.34 ／ 食事 ★4.5</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

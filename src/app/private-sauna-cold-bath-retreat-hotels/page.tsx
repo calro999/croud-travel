@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/private-sauna-cold-bath-retreat-hotels/"
   };
 
@@ -186,6 +186,12 @@ export default function Page() {
           </p>
         </div>
 
+        <div className="pt-2">
+          <ShareButtons
+            title="澄んだ冬空の下で極上の外気浴！完全貸切プライベートサウナ＆天然水風呂完備ホテル"
+            url="https://croud-travel.pages.dev/private-sauna-cold-bath-retreat-hotels/"
+          />
+        </div>
         {/* クーポン特大バナー */}
         <SpecialCouponBanner />
 
@@ -306,11 +312,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">澄んだ冬空の下で極上の外気浴！完全貸切プライベートサウナ＆天然水風呂完備ホテル：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「澄んだ冬空の下で極上の外気浴！完全貸切プライベートサウナ＆天然水風呂完備ホテル」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「澄んだ冬空の下で極上の外気浴！完全貸切プライベートサウナ＆天然水風呂完備ホテル」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -374,7 +380,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/187535/187535.jpg" alt="ＭＯＳＳ十里木キャンプリゾート 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【天然温泉×貸切湯×サウナ】で心身をリセット。富士山麓の森でととのうグランピング。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県裾野市須山2427-1 ／ 最寄り駅：御殿場 ／ 交通案内：御殿場駅よりお車にて約４０分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県裾野市須山2427-1 ／ 最寄り駅：御殿場 ／ 交通案内：御殿場駅よりお車にて約４０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料で1台横付けできます。2台目以降1000円の追加料金がかかります。第2駐車場にお停めください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -396,7 +402,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/183305/183305.jpg" alt="ＴＯＣＯＲＯ．Ｍｔ．Ｆｕｊｉ　ＣＡＭＰ＆ＧＬＡＭＰＩＮＧ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>富士山展望、全天候型ハイグレードグランピング施設。ドームは冷暖房完備でホテルと同等の快適に過ごせます</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県南都留郡富士河口湖町大石2533-1 ／ 最寄り駅：河口湖 ／ 交通案内：河口湖駅から車で約20分　河口湖駅から施設までの無料送迎あり（要事前予約）ご利用の場合はご連絡下さい。</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県南都留郡富士河口湖町大石2533-1 ／ 最寄り駅：河口湖 ／ 交通案内：河口湖駅から車で約20分　河口湖駅から施設までの無料送迎あり（要事前予約）ご利用の場合はご連絡下さい。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場有り　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -418,7 +424,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/191841/191841.jpg" alt="ＨＯＴＥＬ　＆　ＳＡＵＮＡ　ＦＵＪＩＮＯＳ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>サウナとホテルの贅沢を一度に。至福のリトリート体験を、富士の巣で。　2024年8月新規OPEN！！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県富士市横割4-8-24 ／ 最寄り駅：富士 ／ 交通案内：富士駅より徒歩約13分（JR東海道線・富士駅南口下車）｜新富士駅より徒歩約13分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県富士市横割4-8-24 ／ 最寄り駅：富士 ／ 交通案内：富士駅より徒歩約13分（JR東海道線・富士駅南口下車）｜新富士駅より徒歩約13分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１３台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

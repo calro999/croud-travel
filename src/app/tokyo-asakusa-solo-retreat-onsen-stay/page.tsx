@@ -77,7 +77,7 @@ export default function ArticlePage() {
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.13 更新</time>
           <span>執筆：旅宿クラウド ひとり旅・出張調査班</span>
-          <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式API提携</span>
+          <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">編集部が厳選</span>
         </div>
 
         {/* リード文 */}
@@ -89,7 +89,7 @@ export default function ArticlePage() {
             浅草寺の門前町として古くから栄え、落語や歌舞伎、江戸前グルメなど日本独自の粋な文化が今なお息づく浅草。夕暮れとともに仲見世のシャッターアートが灯り、ライトアップされた浅草寺五重塔や東京スカイツリーが静かに夜空を彩ります。
           </p>
           <p>
-            客室や展望大浴場から隅田川の水鏡とスカイツリーを独り占めできるホテルから、リーズナブルに快適なデスクワークと快眠を叶える下町の拠点まで、楽天トラベル公式APIより直接取得した最新データをもとに厳選紹介します。
+            客室や展望大浴場から隅田川の水鏡とスカイツリーを独り占めできるホテルから、リーズナブルに快適なデスクワークと快眠を叶える下町の拠点まで、宿泊施設データより直接取得した最新データをもとに厳選紹介します。
           </p>
         </div>
       </header>
@@ -368,7 +368,7 @@ export default function ArticlePage() {
           <p className="text-sm text-amber-100 mb-6 max-w-2xl mx-auto">平日限定の一人旅割引や、早期割・直前割など、楽天トラベルならではの特典プランが多数用意されています。人気日程は早めの予約がおすすめです。
           </p>
           <a
-            href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2F"
+            href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fsearch.travel.rakuten.co.jp%2Fds%2Fundated%2Fsearch%3Ff_query%3D%25E6%259D%25B1%25E4%25BA%25AC%25E9%2583%25BD"
             target="_blank"
             rel="sponsored noopener noreferrer"
             className="inline-flex items-center justify-center bg-white text-amber-900 font-bold px-8 py-3 rounded-xl shadow-lg hover:bg-amber-50 transition transform hover:-translate-y-0.5 text-sm sm:text-base"
@@ -451,11 +451,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">浅草ひとり旅・下町温泉おこもり：隅田川スカイツリー夜景・天然温泉展望露天・老舗江戸前グルメ！歴史と現代が交差する厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「浅草ひとり旅・下町温泉おこもり：隅田川スカイツリー夜景・天然温泉展望露天・老舗江戸前グルメ！歴史と現代が交差する厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「浅草ひとり旅・下町温泉おこもり：隅田川スカイツリー夜景・天然温泉展望露天・老舗江戸前グルメ！歴史と現代が交差する厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -519,7 +519,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/819/819_sgl.jpg" alt="展望大浴場あさひ湯　ドーミーインＥＸＰＲＥＳＳ浅草（ドーミーイン・御宿野乃　ホテルズグループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全客室Wｉｆｉ可能！　川面を一望の天望露天風呂！　お仕事に観光に、どちらにも最適のホテルです</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 東京都台東区花川戸1-3-4 ／ 最寄り駅：浅草 ／ 交通案内：★東武線・地下鉄銀座線「浅草駅」5番出口より徒歩1分、都営浅草線「浅草駅」A5番出口から徒歩5分</p>
+                  <p><strong>【所在地・アクセス】</strong>東京都台東区花川戸1-3-4 ／ 最寄り駅：浅草 ／ 交通案内：★東武線・地下鉄銀座線「浅草駅」5番出口より徒歩1分、都営浅草線「浅草駅」A5番出口から徒歩5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.16 ／ 立地 ★4.27 ／ 部屋 ★4.1 ／ 設備 ★4.05 ／ 風呂 ★4.18 ／ 食事 ★4.25</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -541,7 +541,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/70768/70768_t.jpg" alt="ホテルサンルート浅草 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>『銀座線田原町駅』から徒歩2分！世界のベッド！シモンズ社製ベッドとロフテー社オリジナル製枕で快眠を！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 東京都台東区雷門1-8-5 ／ 最寄り駅：田原町（東京） ／ 交通案内：地下鉄銀座線　田原町駅３番出口より徒歩2分</p>
+                  <p><strong>【所在地・アクセス】</strong>東京都台東区雷門1-8-5 ／ 最寄り駅：田原町（東京） ／ 交通案内：地下鉄銀座線　田原町駅３番出口より徒歩2分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>【完全電話予約制】車幅は一律180cmまで（車高155cm以上は4台のみ）2,500円/1泊</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.47 ／ 立地 ★4.4 ／ 部屋 ★4.39 ／ 設備 ★4.24 ／ 風呂 ★4.23 ／ 食事 ★3.89</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -563,7 +563,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/129965/129965_yy.jpg" alt="アパホテル〈浅草　蔵前〉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>■2025年3月客室設備リニューアル　■12階に大浴殿完備　■浅草寺・雷門は徒歩圏内</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 東京都台東区駒形2-4-6 ／ 最寄り駅：蔵前 ／ 交通案内：■大江戸線「蔵前駅」～徒歩2分■浅草線「蔵前駅」～徒歩4分■浅草線「浅草駅」～徒歩4分■メトロ銀座線「浅草駅」～徒歩9分</p>
+                  <p><strong>【所在地・アクセス】</strong>東京都台東区駒形2-4-6 ／ 最寄り駅：蔵前 ／ 交通案内：■大江戸線「蔵前駅」～徒歩2分■浅草線「蔵前駅」～徒歩4分■浅草線「浅草駅」～徒歩4分■メトロ銀座線「浅草駅」～徒歩9分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>立体駐車場26台　先着順予約不可　入庫から24時間2,000円（税込）　車高制限2.0m</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

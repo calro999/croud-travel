@@ -236,7 +236,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -681,11 +681,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：天然精油の香りで深呼吸。ヒノキ・スギ精油アロマスパスパ＆森林浴プライベートヴィラ5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：天然精油の香りで深呼吸。ヒノキ・スギ精油アロマスパスパ＆森林浴プライベートヴィラ5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：天然精油の香りで深呼吸。ヒノキ・スギ精油アロマスパスパ＆森林浴プライベートヴィラ5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -767,7 +767,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/70934/70934_ww.jpg" alt="セトレ　ハイランドヴィラ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【絶景＆貸切風呂＆サウナ】食と体験でココロとカラダがととのうオーベルジュ</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県姫路市広嶺山224-26 ／ 最寄り駅：姫路 ／ 交通案内：ＪＲ　姫路駅から車で２０分 　※送迎はお電話にてご相談下さいませ。</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県姫路市広嶺山224-26 ／ 最寄り駅：姫路 ／ 交通案内：ＪＲ　姫路駅から車で２０分 　※送迎はお電話にてご相談下さいませ。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.43 ／ 立地 ★4.41 ／ 部屋 ★4.39 ／ 設備 ★4.23 ／ 風呂 ★4.14 ／ 食事 ★4.47</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -789,7 +789,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/184402/184402.jpg" alt="ＬＡＶＡ　ＳＡＵＮＡ　＆　ＶＩＬＬＡ＜八丈島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>極上のサウナ体験！非対面、非接触でスマートチェックイン・プライベートヴィラ・オープン！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 東京都八丈島八丈町三根1412-1 ／ 最寄り駅：八丈島空港 ／ 交通案内：八丈島空港よりお車にて約７分 底土港よりお車にて約１分 八重根港よりお車にて約1０分</p>
+                  <p><strong>【所在地・アクセス】</strong>東京都八丈島八丈町三根1412-1 ／ 最寄り駅：八丈島空港 ／ 交通案内：八丈島空港よりお車にて約７分 底土港よりお車にて約１分 八重根港よりお車にて約1０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -811,7 +811,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/189121/189121.jpg" alt="軽井沢森四季ＶＩＬＬＡ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>軽井沢の森に佇む上質な一棟貸し別荘。 苔庭でBBQや焚き火、炭火料理と24時間対応の安心滞在。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県北佐久郡軽井沢町長倉2147-118 ／ 最寄り駅：中軽井沢 ／ 交通案内：星野温泉・ハルニレテラスまで1km徒歩圏、中軽井沢駅から車で約３分（２．６ｋｍ）</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県北佐久郡軽井沢町長倉2147-118 ／ 最寄り駅：中軽井沢 ／ 交通案内：星野温泉・ハルニレテラスまで1km徒歩圏、中軽井沢駅から車で約３分（２．６ｋｍ）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -833,7 +833,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/151049/151049_kan1.jpg" alt="滝ノ原温泉　四季の味宿　割烹ちどり荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>個室で味わう、地場産食材と自家製米・野菜を活かした創作懐石。1日4組限定、山間に佇む小さな秘湯宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮城県黒川郡大和町宮床高山18-13 ／ 最寄り駅：仙台 ／ 交通案内：仙台駅よりお車で約５０分 　※電車をご利用のお客様は、泉中央駅よりレンタカー又はタクシーでお越しください。</p>
+                  <p><strong>【所在地・アクセス】</strong>宮城県黒川郡大和町宮床高山18-13 ／ 最寄り駅：仙台 ／ 交通案内：仙台駅よりお車で約５０分 　※電車をご利用のお客様は、泉中央駅よりレンタカー又はタクシーでお越しください。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場10台有（予約不要）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.53 ／ 立地 ★4.47 ／ 部屋 ★4.24 ／ 設備 ★4.35 ／ 風呂 ★4.65</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -855,7 +855,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/56748/56748_kan.jpg" alt="指宿温泉　温泉水プール＆夫婦露天風呂の離れ宿　悠離庵 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>離れ全棟に露天風呂、内13棟は温泉水プール付。南国ムードに包まれて心身ともにリラックス※個室食事処</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県指宿市十二町6771-6 ／ 最寄り駅：指宿 ／ 交通案内：ＪＲ指宿駅よりタクシーで１３分 ★お越しの際はGoogleマップにて『悠離庵』とご設定下さい★</p>
+                  <p><strong>【所在地・アクセス】</strong>鹿児島県指宿市十二町6771-6 ／ 最寄り駅：指宿 ／ 交通案内：ＪＲ指宿駅よりタクシーで１３分 ★お越しの際はGoogleマップにて『悠離庵』とご設定下さい★</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１７台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

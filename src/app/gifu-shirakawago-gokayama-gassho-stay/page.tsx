@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">岐阜・白川郷＆五箇山：世界遺産合掌造り集落・荻町展望台＆飛騨牛・すったて汁宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「岐阜・白川郷＆五箇山：世界遺産合掌造り集落・荻町展望台＆飛騨牛・すったて汁宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「岐阜・白川郷＆五箇山：世界遺産合掌造り集落・荻町展望台＆飛騨牛・すったて汁宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -288,7 +288,7 @@ export default function MicroTouristHubPage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 奥飛騨　平湯温泉　岡田旅館</td>
-                <td className="p-3 text-stone-600">富山県</td>
+                <td className="p-3 text-stone-600">岐阜県高山市奥飛騨温泉郷平湯</td>
                 <td className="p-3 text-stone-600">平湯温泉方面行きバス乗車、「平湯温泉駅」下車／松本ＩＣより６０分／富山</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★3.91（627件）</td>
@@ -323,7 +323,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4992/4992_heya.jpg" alt="飛騨高山温泉　飛騨の里　旅館　むら山 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>飛騨高山温泉◎カップル・ファミリーにうれしい無料貸切風呂あり♪個室食事処も★駐車場無料♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岐阜県高山市西之一色町3-829 ／ 最寄り駅：高山 ／ 交通案内：高山駅・濃飛バスセンターよりさるぼぼバスにて約１０分（飛騨の里下下車）徒歩１分。</p>
+                  <p><strong>【所在地・アクセス】</strong>岐阜県高山市西之一色町3-829 ／ 最寄り駅：高山 ／ 交通案内：高山駅・濃飛バスセンターよりさるぼぼバスにて約１０分（飛騨の里下下車）徒歩１分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　12台　無料　駐輪OK！</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.66 ／ 立地 ★4.24 ／ 部屋 ★4.51 ／ 設備 ★4.46 ／ 風呂 ★4.45 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/105996/105996.jpg" alt="料理旅館　備前屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>一期一会の気持ちを込めて郡上の季節をお届けします。明治創業、日本庭園には四季の移り変わりが見られます</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岐阜県郡上市八幡町柳町264 ／ 最寄り駅：郡上八幡 ／ 交通案内：長良川鉄道　郡上八幡駅より岐阜バス「城下町プラザ」下車３分</p>
+                  <p><strong>【所在地・アクセス】</strong>岐阜県郡上市八幡町柳町264 ／ 最寄り駅：郡上八幡 ／ 交通案内：長良川鉄道　郡上八幡駅より岐阜バス「城下町プラザ」下車３分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/106058/106058_ka1.jpg" alt="日本の宿　ひだ高山　倭乃里 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全室スイートのやすらぎの一室　絶景、美食、清流の宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岐阜県高山市一之宮町1682 ／ 最寄り駅：高山 ／ 交通案内：高山駅よりお車で20分　（高山駅⇔倭乃里送迎あり／7日前までの予約制）</p>
+                  <p><strong>【所在地・アクセス】</strong>岐阜県高山市一之宮町1682 ／ 最寄り駅：高山 ／ 交通案内：高山駅よりお車で20分　（高山駅⇔倭乃里送迎あり／7日前までの予約制）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　（10台／無料／予約不要）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31820/31820_h.jpg" alt="五箇山　旅館　よしのや＜富山県＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>五箇山の豊富に採れる旬の山菜やきのこなどを生かした美味しい料理が自慢♪ 五箇山観光の拠点にも◎</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 富山県南砺市五箇山皆葎366 ／ 最寄り駅：城端 ／ 交通案内：JR城端駅から車にて２５分・JR高岡駅からバスで130分／東海北陸自動車道　五箇山ICから10分</p>
+                  <p><strong>【所在地・アクセス】</strong>富山県南砺市五箇山皆葎366 ／ 最寄り駅：城端 ／ 交通案内：JR城端駅から車にて２５分・JR高岡駅からバスで130分／東海北陸自動車道　五箇山ICから10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　１０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -410,8 +410,8 @@ export default function MicroTouristHubPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/54007/54007.jpg" alt="奥飛騨　平湯温泉　岡田旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「岐阜・白川郷＆五箇山（世界遺産合掌造り集落・荻町展望台＆飛騨牛・すったて汁宿 厳選ガイド）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：平湯温泉方面行きバス乗車、「平湯温泉駅」下車／松本ＩＣより６０分／富山ＩＣより９０分／清見ＩＣより８０分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>全て掛け流しの温泉旅館。貸切＆露天風呂付客室の温もり感じるおもてなしの湯宿。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：平湯温泉方面行きバス乗車、「平湯温泉駅」下車／松本ＩＣより６０分／富山ＩＣより９０分／清見ＩＣより８０分</p>
                   <p>【岐阜・白川郷＆五箇山：世界遺産合掌造り集落・荻町展望】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/39984/39984_ky.jpg" alt="小さな料理旅館　こまくさ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>手づくり料理が美味しいと地元で評判。静かな環境の小さな料理旅館。風呂は貸切制です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岐阜県高山市岡本町4-172-1 ／ 最寄り駅：高山 ／ 交通案内：JR高山駅から北へ1.3㌔車3～5分/徒歩15分、東海北陸道/飛騨清見JCTから中部縦貫道/高山IC、小館へ2㌔5分、</p>
+                  <p><strong>【所在地・アクセス】</strong>岐阜県高山市岡本町4-172-1 ／ 最寄り駅：高山 ／ 交通案内：JR高山駅から北へ1.3㌔車3～5分/徒歩15分、東海北陸道/飛騨清見JCTから中部縦貫道/高山IC、小館へ2㌔5分、</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約いりません</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

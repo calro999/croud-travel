@@ -506,11 +506,11 @@ export default function OsakaAmazingPassPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">大阪周遊パス1日券 完全元取りガイド：電車乗り放題＋40ヶ所以上の観光施設が無料！1万円分得するモデルコース：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「大阪周遊パス1日券 完全元取りガイド：電車乗り放題＋40ヶ所以上の観光施設が無料！1万円分得するモデルコース」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「大阪周遊パス1日券 完全元取りガイド：電車乗り放題＋40ヶ所以上の観光施設が無料！1万円分得するモデルコース」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -557,7 +557,7 @@ export default function OsakaAmazingPassPage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. アスティルホテル十三　プレシャス</td>
-                <td className="p-3 text-stone-600">群馬県</td>
+                <td className="p-3 text-stone-600">大阪府大阪市淀川区十三本町1-10-13</td>
                 <td className="p-3 text-stone-600">梅田から約5分、新大阪から約15分。阪急「十三駅」西口より徒歩約2分の</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（1199件）</td>
@@ -583,7 +583,7 @@ export default function OsakaAmazingPassPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/197689/197689.jpg" alt="アンカード・バイ・リーガ　大阪なんば（リーガロイヤルホテルズ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2026年4月OPEN！大阪の魅力を存分に楽しめる絶好のロケーション！全室24㎡以上、大浴場も完備！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大阪府大阪市浪速区日本橋5-6-16 ／ 最寄り駅：なんば ／ 交通案内：関西国際空港から電車で約50分、大阪メトロ堺筋線「恵美須町」駅から徒歩２分、南海電車「なんば」駅 から 徒歩約15分</p>
+                  <p><strong>【所在地・アクセス】</strong>大阪府大阪市浪速区日本橋5-6-16 ／ 最寄り駅：なんば ／ 交通案内：関西国際空港から電車で約50分、大阪メトロ堺筋線「恵美須町」駅から徒歩２分、南海電車「なんば」駅 から 徒歩約15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>なし</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -605,7 +605,7 @@ export default function OsakaAmazingPassPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/191842/191842.jpg" alt="アパホテル＆リゾート〈大阪なんば駅前タワー〉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【2024年誕生のタワー型アーバンリゾートホテル】　都会の夜景と大きなお風呂を心ゆくまで</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大阪府大阪市浪速区湊町1-2-13 ／ 最寄り駅：ＪＲ難波 ／ 交通案内：JR難波駅徒歩1分／大阪メトロ御堂筋線・四つ橋線・千日前線なんば駅（30番出口）徒歩2分</p>
+                  <p><strong>【所在地・アクセス】</strong>大阪府大阪市浪速区湊町1-2-13 ／ 最寄り駅：ＪＲ難波 ／ 交通案内：JR難波駅徒歩1分／大阪メトロ御堂筋線・四つ橋線・千日前線なんば駅（30番出口）徒歩2分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>機械式立体駐車場　2,000円（入庫から24時間）　2階レストラン利用時2時間無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -627,7 +627,7 @@ export default function OsakaAmazingPassPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/160810/160810_room.jpg" alt="ＣＡＮＤＥＯ　ＨＯＴＥＬＳ（カンデオホテルズ）大阪なんば 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>星空に一番近い露天風呂で、心洗われる極上の癒しを。心斎橋やなんばに程近い、唯一無二の4つ星ホテル。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大阪府大阪市中央区東心斎橋2-2-5 ／ 最寄り駅：日本橋（大阪） ／ 交通案内：心斎橋駅、なんば駅より徒歩にて約15分、日本橋駅より徒歩にて約5分、長堀橋駅より徒歩にて約4分</p>
+                  <p><strong>【所在地・アクセス】</strong>大阪府大阪市中央区東心斎橋2-2-5 ／ 最寄り駅：日本橋（大阪） ／ 交通案内：心斎橋駅、なんば駅より徒歩にて約15分、日本橋駅より徒歩にて約5分、長堀橋駅より徒歩にて約4分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　料金：3,200円/1泊(13:00～翌13:00)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -648,8 +648,8 @@ export default function OsakaAmazingPassPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/177866/177866.jpg" alt="アスティルホテル十三　プレシャス 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「大阪周遊パス1日券 完全元取りガイド（電車乗り放題＋40ヶ所以上の観光施設が無料）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：梅田から約5分、新大阪から約15分。阪急「十三駅」西口より徒歩約2分の好立地です。</p>
+                  <p><strong>【宿の特徴・魅力】</strong>2020年新築OP！十三西口・徒歩２分！24時間ジアイーノ稼働中！男女別・露天壺湯・大浴場が魅力！</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：梅田から約5分、新大阪から約15分。阪急「十三駅」西口より徒歩約2分の好立地です。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

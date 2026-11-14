@@ -636,11 +636,11 @@ export default function FurusatoFeaturePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">夕映えリアス式海岸＆伊勢海老・鮑料理の海宿×ふるさと納税厳選ガイド志摩英虞湾・南三陸・伊根の舟屋の贅沢旅：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「夕映えリアス式海岸＆伊勢海老・鮑料理の海宿×ふるさと納税厳選ガイド志摩英虞湾・南三陸・伊根の舟屋の贅沢旅」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「夕映えリアス式海岸＆伊勢海老・鮑料理の海宿×ふるさと納税厳選ガイド志摩英虞湾・南三陸・伊根の舟屋の贅沢旅」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -731,7 +731,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/142676/142676_wa.jpg" alt="大江戸温泉物語Ｐｒｅｍｉｕｍ　志摩彩朝楽 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>眼下に広がる英虞湾の絶景と夕日を堪能するオーシャンフロントの温泉宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 三重県志摩市阿児町神明687-2 ／ 最寄り駅：賢島 ／ 交通案内：賢島駅よりお車にて５分／ホテルへの送迎もございます（要予約）</p>
+                  <p><strong>【所在地・アクセス】</strong>三重県志摩市阿児町神明687-2 ／ 最寄り駅：賢島 ／ 交通案内：賢島駅よりお車にて５分／ホテルへの送迎もございます（要予約）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>１００台　予約不要　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.91 ／ 立地 ★3.81 ／ 部屋 ★3.79 ／ 設備 ★3.77 ／ 風呂 ★3.89 ／ 食事 ★3.98</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -753,7 +753,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1150/1150_twn.jpg" alt="志摩観光ホテル　ザ　クラシック 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>伊勢志摩サミット開催ホテル。落ち着いた空間で時を過ごせるリゾートホテル。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 三重県志摩市阿児町神明731 ／ 最寄り駅：賢島 ／ 交通案内：近鉄「賢島駅」から徒歩約5分、シャトルバス2分。（定時運行・予約不要）</p>
+                  <p><strong>【所在地・アクセス】</strong>三重県志摩市阿児町神明731 ／ 最寄り駅：賢島 ／ 交通案内：近鉄「賢島駅」から徒歩約5分、シャトルバス2分。（定時運行・予約不要）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>屋外、無料、66台</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.72 ／ 立地 ★4.81 ／ 部屋 ★4.73 ／ 設備 ★4.69 ／ 風呂 ★4.43 ／ 食事 ★4.76</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -775,7 +775,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/27737/27737_room.jpg" alt="都リゾート　志摩　ベイサイドテラス 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>英虞湾の絶景を望む、南欧風リゾート　海辺のオーベルジュ</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 三重県志摩市阿児町鵜方3618-33 ／ 最寄り駅：賢島 ／ 交通案内：近鉄「賢島駅」よりシャトルバスで約７分（無料）／伊勢神宮（内宮）から車で約35分／志摩スペイン村から車で約15分</p>
+                  <p><strong>【所在地・アクセス】</strong>三重県志摩市阿児町鵜方3618-33 ／ 最寄り駅：賢島 ／ 交通案内：近鉄「賢島駅」よりシャトルバスで約７分（無料）／伊勢神宮（内宮）から車で約35分／志摩スペイン村から車で約15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -797,7 +797,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/19228/19228_b1.jpg" alt="南三陸　ホテル観洋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>海と一つになる絶景インフィニティ温泉と三陸海鮮を味わう宮城の宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮城県本吉郡南三陸町志津川字黒崎99-17 ／ 最寄り駅：志津川 ／ 交通案内：三陸自動車道：桃生津山Ｉ.Ｃ→R45で25分。/仙台空港より90分/仙台駅東口より送迎あり（要予約）</p>
+                  <p><strong>【所在地・アクセス】</strong>宮城県本吉郡南三陸町志津川字黒崎99-17 ／ 最寄り駅：志津川 ／ 交通案内：三陸自動車道：桃生津山Ｉ.Ｃ→R45で25分。/仙台空港より90分/仙台駅東口より送迎あり（要予約）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -819,7 +819,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4665/4665_by.jpg" alt="大江戸温泉物語Ｐｒｅｍｉｕｍ　ホテル壮観 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>絶好のロケーションでグルメや名所を堪能！プレミアムラウンジとテラスで心地よい海風に癒されるひと時を。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮城県宮城郡松島町磯崎字浜1-1 ／ 最寄り駅：松島 ／ 交通案内：東北本線松島駅より徒歩約15分！シャトルバス有り(松島駅・松島海岸駅より)出発時間はホテルへお問い合わせ下さいませ</p>
+                  <p><strong>【所在地・アクセス】</strong>宮城県宮城郡松島町磯崎字浜1-1 ／ 最寄り駅：松島 ／ 交通案内：東北本線松島駅より徒歩約15分！シャトルバス有り(松島駅・松島海岸駅より)出発時間はホテルへお問い合わせ下さいませ</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -841,7 +841,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/15784/15784_heya.jpg" alt="サンマリン気仙沼ホテル観洋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>気仙沼湾を見渡す高台に建ち、地下1800Mから湧き出す「気仙沼温泉」と三陸の海鮮料理をご堪能ください</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮城県気仙沼市港町4-19 ／ 最寄り駅：気仙沼 ／ 交通案内：ＪＲ気仙沼駅よりタクシーで１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>宮城県気仙沼市港町4-19 ／ 最寄り駅：気仙沼 ／ 交通案内：ＪＲ気仙沼駅よりタクシーで１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　※一部屋根付き駐車場あり・バイクも大歓迎</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.24 ／ 立地 ★4.35 ／ 部屋 ★4.18 ／ 設備 ★4.06 ／ 風呂 ★4.25 ／ 食事 ★4.43</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

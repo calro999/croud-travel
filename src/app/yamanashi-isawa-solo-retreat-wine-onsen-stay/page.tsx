@@ -77,7 +77,7 @@ export default function ArticlePage() {
             山梨・石和温泉ひとり旅＆甲州ワインおこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「甲州・石和温泉ひとり旅・甲州ワインと名湯おこもり」広大な日本庭園露天風呂・甲州牛鉄板焼き・ワイナリー巡り！新宿特急90分の果樹郷厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               昭和36年、ぶどう園の青空から突如湧き出し「青空温泉」として名を馳せた石和温泉。肌触りが柔らかく湯あたりしにくい良質な源泉は、長風呂や湯治にも最適です。勝沼や笛吹の日本屈指のワイナリーがすぐ近隣に集まり、甲州ワインのテイスティングと地元食材の会席を一人静かに楽しむ大人の贅沢が叶います。
             </p>
             <p>
-              上質な大人の隠れ家小宿から、名石美と壮大な池庭園に息を呑む高級和風旅館まで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              上質な大人の隠れ家小宿から、名石美と壮大な池庭園に息を呑む高級和風旅館まで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -421,11 +421,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">甲州・石和温泉ひとり旅・甲州ワインと名湯おこもり：広大な日本庭園露天風呂・甲州牛鉄板焼き・ワイナリー巡り！新宿特急90分の果樹郷厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「甲州・石和温泉ひとり旅・甲州ワインと名湯おこもり：広大な日本庭園露天風呂・甲州牛鉄板焼き・ワイナリー巡り！新宿特急90分の果樹郷厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「甲州・石和温泉ひとり旅・甲州ワインと名湯おこもり：広大な日本庭園露天風呂・甲州牛鉄板焼き・ワイナリー巡り！新宿特急90分の果樹郷厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -507,7 +507,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/20033/20033_room.jpg" alt="石和温泉　糸柳こやど　ゆわ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>心ほどける、くつろぎの時を。嵐の湯に癒される全19室の小さな宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県笛吹市石和町川中島410 ／ 最寄り駅：石和温泉 ／ 交通案内：JR中央本線 石和温泉駅・送迎あり／中央自動車道一宮・御坂ICより石和へ車で約15分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県笛吹市石和町川中島410 ／ 最寄り駅：石和温泉 ／ 交通案内：JR中央本線 石和温泉駅・送迎あり／中央自動車道一宮・御坂ICより石和へ車で約15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.7 ／ 立地 ★4.47 ／ 部屋 ★4.62 ／ 設備 ★4.51 ／ 風呂 ★4.66 ／ 食事 ★4.75</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -529,7 +529,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/16656/16656_w.jpg" alt="富士山石和温泉郷　旅館喜仙（きせん） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2400坪の敷地にちりばめられた手入れの行き届いた日本庭園と庭園露天風呂が自慢の宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県笛吹市石和町川中島482 ／ 最寄り駅：石和温泉 ／ 交通案内：JR中央線 石和温泉駅／中央道 一宮御坂IC または 甲府昭和IC</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県笛吹市石和町川中島482 ／ 最寄り駅：石和温泉 ／ 交通案内：JR中央線 石和温泉駅／中央道 一宮御坂IC または 甲府昭和IC</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -551,7 +551,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/935/935_room.jpg" alt="那須温泉　ホテルフォレストヒルズ那須　ｗｉｔｈ　ＤＯＧＳ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>＜愛犬と泊まる宿＞那須高原の隠れ家リゾート／温泉付客室多数／全館プライベートコテージ ペットと一緒旅</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県那須郡那須町高久乙1880 ／ 最寄り駅：那須塩原 ／ 交通案内：安心＆安全な愛犬との旅をお約束＜全館 独立コテージタイプ・ペットと泊まる宿＞“北関東最大級”愛犬同伴の複合型リゾート♪</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県那須郡那須町高久乙1880 ／ 最寄り駅：那須塩原 ／ 交通案内：安心＆安全な愛犬との旅をお約束＜全館 独立コテージタイプ・ペットと泊まる宿＞“北関東最大級”愛犬同伴の複合型リゾート♪</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　60台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.45 ／ 立地 ★4.35 ／ 部屋 ★4.2 ／ 設備 ★4.22 ／ 風呂 ★4.16 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -573,7 +573,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2338/2338_en.jpg" alt="湯西川温泉　彩り湯かしき　花と華 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>深山の里の「美肌の湯」で湯めぐりを☆伝統の囲炉裏料理「平家お狩場焼」に舌鼓</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県日光市湯西川601 ／ 最寄り駅：湯西川温泉 ／ 交通案内：東武鉄道・野岩鉄道にて湯西川温泉駅下車。路線バスにて20分。（1日1回無料送迎バス運行有※要事前電話予約）</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県日光市湯西川601 ／ 最寄り駅：湯西川温泉 ／ 交通案内：東武鉄道・野岩鉄道にて湯西川温泉駅下車。路線バスにて20分。（1日1回無料送迎バス運行有※要事前電話予約）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>【無料】車50台・バス5台の十分な広さで御座いますので、ご安心してお越し下さい。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.13 ／ 立地 ★4.14 ／ 部屋 ★4.01 ／ 設備 ★3.9 ／ 風呂 ★4.3 ／ 食事 ★4.15</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -595,7 +595,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2477/2477_bi.jpg" alt="大江戸温泉物語Ｐｒｅｍｉｕｍ　ホテルニュー塩原 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【楽しいが、ぜんぶ込み】心ゆくまで楽しむオールインクルーシブ（10/1〜2/28迄※延長の可能性有）</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県那須塩原市塩原705 ／ 最寄り駅：那須塩原 ／ 交通案内：JR那須塩原駅下車　送迎バス運行　迎え13：50　送り10：30（予約制　※電話予約要・定員あり）</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県那須塩原市塩原705 ／ 最寄り駅：那須塩原 ／ 交通案内：JR那須塩原駅下車　送迎バス運行　迎え13：50　送り10：30（予約制　※電話予約要・定員あり）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.02 ／ 立地 ★3.94 ／ 部屋 ★3.95 ／ 設備 ★3.95 ／ 風呂 ★4.11</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

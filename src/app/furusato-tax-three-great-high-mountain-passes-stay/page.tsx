@@ -238,7 +238,7 @@ export default function Page() {
         <section className="space-y-10">
           <div className="text-center space-y-2">
             <h2 className="text-2xl md:text-3xl font-bold text-slate-900">楽天ふるさと納税で泊まる名宿＆厳選ホテル</h2>
-            <p className="text-xs md:text-sm text-slate-500">楽天トラベル公式APIより最新の宿情報・写真・最低参考価格を取得しています
+            <p className="text-xs md:text-sm text-slate-500">宿泊施設データより最新の宿情報・写真・最低参考価格を取得しています
             </p>
           </div>
 
@@ -541,11 +541,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大急坂・天空峠道＆雲海パノラマ・絶景ドライブ温泉宿×ふるさと納税厳選ガイド渋峠・富士山スカイライン・温見峠：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本三大急坂・天空峠道＆雲海パノラマ・絶景ドライブ温泉宿×ふるさと納税厳選ガイド渋峠・富士山スカイライン・温見峠」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「日本三大急坂・天空峠道＆雲海パノラマ・絶景ドライブ温泉宿×ふるさと納税厳選ガイド渋峠・富士山スカイライン・温見峠」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -609,7 +609,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/3033/3033_rm1.jpg" alt="万座温泉　日進舘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>標高1800ｍ万座温泉の老舗宿『日進舘』＜エントリーで最大ポイント15倍！得旅キャンペーン実施中！＞</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県吾妻郡嬬恋村大字干俣万座温泉２４０１ ／ 最寄り駅：万座・鹿沢口 ／ 交通案内：上信越自動車道碓氷軽井沢ＩＣより車で９０分。</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県吾妻郡嬬恋村大字干俣万座温泉２４０１ ／ 最寄り駅：万座・鹿沢口 ／ 交通案内：上信越自動車道碓氷軽井沢ＩＣより車で９０分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.24 ／ 立地 ★4.26 ／ 部屋 ★4.02 ／ 設備 ★3.98 ／ 風呂 ★4.58 ／ 食事 ★4.12</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -631,7 +631,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/106186/106186_hu.jpg" alt="レンブラントプレミアム富士御殿場 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>２０１９年１０月大浴場リニューアルオープン。夕食はレジェンドシェフ山本秀正氏プロデュースのフレンチ。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県御殿場市深沢2571 ／ 最寄り駅：御殿場 ／ 交通案内：御殿場駅より小田急箱根高速バス又はお車にて１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県御殿場市深沢2571 ／ 最寄り駅：御殿場 ／ 交通案内：御殿場駅より小田急箱根高速バス又はお車にて１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３２台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.64 ／ 立地 ★4.64 ／ 部屋 ★4.59 ／ 設備 ★4.43 ／ 風呂 ★4.6 ／ 食事 ★4.61</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -653,7 +653,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/184487/184487.jpg" alt="亀屋旅館＜岐阜県＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>日本三大桜の一つ淡墨桜のそばに佇むビジネス旅館♪家族経営のほっこりさと素朴で優しいお料理でお出迎え。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岐阜県本巣市根尾樽見40-1 ／ 最寄り駅：樽見 ／ 交通案内：樽見駅より徒歩にて約5分</p>
+                  <p><strong>【所在地・アクセス】</strong>岐阜県本巣市根尾樽見40-1 ／ 最寄り駅：樽見 ／ 交通案内：樽見駅より徒歩にて約5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -668,7 +668,7 @@ export default function Page() {
 
       {/* フッター */}
       <footer className="bg-slate-950 text-slate-400 py-8 px-4 text-center text-xs border-t border-slate-800">
-        <p>© 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の楽天トラベル公式APIに基づきます。</p>
+        <p>© 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の宿泊施設データに基づきます。</p>
       </footer>
     
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

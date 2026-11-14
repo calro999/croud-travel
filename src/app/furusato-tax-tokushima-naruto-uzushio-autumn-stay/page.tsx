@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-tokushima-naruto-uzushio-autumn-stay/"
   };
 
@@ -482,11 +482,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">徳島・鳴門海峡の秋の大潮うずしお＆大毛島リゾート！鳴門鯛・阿波牛と絶景オーシャンビュー温泉｜ふるさと納税で泊まれる名宿ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「徳島・鳴門海峡の秋の大潮うずしお＆大毛島リゾート！鳴門鯛・阿波牛と絶景オーシャンビュー温泉｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「徳島・鳴門海峡の秋の大潮うずしお＆大毛島リゾート！鳴門鯛・阿波牛と絶景オーシャンビュー温泉｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -506,7 +506,7 @@ export default function Page() {
               <tbody className="divide-y divide-stone-200">
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. アオアヲナルトリゾート</td>
-                <td className="p-3 text-stone-600">大阪府</td>
+                <td className="p-3 text-stone-600">徳島県 鳴門市鳴門町土佐泊浦字大毛16-45</td>
                 <td className="p-3 text-stone-600">神戸淡路鳴門自動車道 鳴門北ＩＣより１分 ＪＲ鳴門駅より車で約１０分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.46（4254件）</td>
@@ -549,8 +549,8 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/6123/6123_meal1.jpg" alt="アオアヲナルトリゾート 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「徳島・鳴門海峡の秋の大潮うずしお＆大毛島リゾート（鳴門鯛・阿波牛と絶景オーシャンビュー温泉）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：神戸淡路鳴門自動車道 鳴門北ＩＣより１分 ＪＲ鳴門駅より車で約１０分 大塚美術館まで車で3分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>徳島・鳴門海峡の秋の大潮うずしお＆大毛島リゾート！鳴門鯛・阿波牛と絶景オーシャンビュー温泉｜ふるさと納税で泊まれる名宿ガイドで比較したい各宿のロケーション・駐車場・料金詳細は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：神戸淡路鳴門自動車道 鳴門北ＩＣより１分 ＪＲ鳴門駅より車で約１０分 大塚美術館まで車で3分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -572,7 +572,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7769/7769_room1.jpg" alt="リゾートホテル　モアナコースト 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>メゾネットスタイルのリゾートホテル。本格イタリア家庭料理と、客室専用ジャグジーで鳴門リゾートを満喫♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 徳島県鳴門市鳴門町土佐泊浦字高砂186-16 ／ 最寄り駅：鳴門 ／ 交通案内：大阪から車で２時間。鳴門北ＩＣより車で３分・高速鳴門バス乗り場より５分・JR鳴門駅より10分（無料送迎有※要予約）</p>
+                  <p><strong>【所在地・アクセス】</strong>徳島県鳴門市鳴門町土佐泊浦字高砂186-16 ／ 最寄り駅：鳴門 ／ 交通案内：大阪から車で２時間。鳴門北ＩＣより車で３分・高速鳴門バス乗り場より５分・JR鳴門駅より10分（無料送迎有※要予約）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　70台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -594,7 +594,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/149301/149301_kan1.jpg" alt="鳴門グランドホテル海月 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>アワード受賞！徳島の幸満載の会席料理が食べ放題のブッフェ！鳴門海峡の絶景！大浴場には露天風呂も</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 徳島県鳴門市鳴門町土佐泊浦大毛82-88 ／ 最寄り駅：鳴門 ／ 交通案内：神戸淡路鳴門自動車道：鳴門北ＩＣより２分。ＪＲ鳴門駅より車で約１０分。大塚国際美術館まで車で約２分。</p>
+                  <p><strong>【所在地・アクセス】</strong>徳島県鳴門市鳴門町土佐泊浦大毛82-88 ／ 最寄り駅：鳴門 ／ 交通案内：神戸淡路鳴門自動車道：鳴門北ＩＣより２分。ＪＲ鳴門駅より車で約１０分。大塚国際美術館まで車で約２分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -181,7 +181,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全3選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -490,10 +490,10 @@ export default function FeatureDetailPage() {
                 北海道の宿・温泉
               </Link>
               <Link
-                href="/prefectures/yamagata/"
+                href="/prefectures/akita/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                山形県の宿・温泉
+                秋田県の宿・温泉
               </Link>
               <Link
                 href="/prefectures/aichi/"
@@ -510,11 +510,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：天然クレイで全身つるつる美肌！泥パック泥湯＆源泉掛け流し泥温泉宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：天然クレイで全身つるつる美肌！泥パック泥湯＆源泉掛け流し泥温泉宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：天然クレイで全身つるつる美肌！泥パック泥湯＆源泉掛け流し泥温泉宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -578,7 +578,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/141266/141266_room.jpg" alt="泥湯温泉　奥山旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>手つかずの自然という贅沢が当館のおもてなし。3種の源泉からかけ流しの泥湯温泉が自慢、秘境の湯宿です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 秋田県湯沢市高松泥湯沢25 ／ 最寄り駅：湯沢 ／ 交通案内：JR奥羽本線湯沢駅下車、車で50分。国道13号、県道51号を経て泥湯へ。</p>
+                  <p><strong>【所在地・アクセス】</strong>秋田県湯沢市高松泥湯沢25 ／ 最寄り駅：湯沢 ／ 交通案内：JR奥羽本線湯沢駅下車、車で50分。国道13号、県道51号を経て泥湯へ。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.67 ／ 立地 ★4.59 ／ 部屋 ★4.67 ／ 設備 ★4.53 ／ 風呂 ★4.82 ／ 食事 ★4.65</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -600,7 +600,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/15081/15081_war.jpg" alt="どろ湯の旅籠さくらさくら温泉　霧島神宮温泉郷 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>美しい山々に囲まれた閑静な別荘地にある宿。天然泥湯温泉が自慢の一つ。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県霧島市霧島田口2324-7 ／ 最寄り駅：霧島神宮 ／ 交通案内：【ＪＲ霧島神宮駅】下車タクシー10分。【鹿児島空港】から車で40分。【鹿児島市内】より車で1時間10分</p>
+                  <p><strong>【所在地・アクセス】</strong>鹿児島県霧島市霧島田口2324-7 ／ 最寄り駅：霧島神宮 ／ 交通案内：【ＪＲ霧島神宮駅】下車タクシー10分。【鹿児島空港】から車で40分。【鹿児島市内】より車で1時間10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.57 ／ 立地 ★4.22 ／ 部屋 ★3.9 ／ 設備 ★3.96 ／ 風呂 ★4.38 ／ 食事 ★4.58</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -622,7 +622,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5121/5121_room.jpg" alt="ホテルアルペンブリック 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>黒泥湯の温泉、自家製ビール、アウトドア体験。ペットも泊まれる妙高高原リゾートで心身共にリフレッシュ。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県妙高市関川2452 ／ 最寄り駅：妙高高原 ／ 交通案内：北しなの線　妙高高原駅より車で10分／上信越道 妙高高原ＩＣ～国道１８号線を通過、直進後突き当りを左折し、2.5キロ先</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県妙高市関川2452 ／ 最寄り駅：妙高高原 ／ 交通案内：北しなの線　妙高高原駅より車で10分／上信越道 妙高高原ＩＣ～国道１８号線を通過、直進後突き当りを左折し、2.5キロ先</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り / 200台 / 宿泊者無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.96 ／ 立地 ★4.1 ／ 部屋 ★4 ／ 設備 ★3.73 ／ 風呂 ★4.1 ／ 食事 ★4.15</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

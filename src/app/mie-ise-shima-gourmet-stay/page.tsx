@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">三重・伊勢志摩：お伊勢参り＆伊勢海老・的矢かき極上宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「三重・伊勢志摩：お伊勢参り＆伊勢海老・的矢かき極上宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「三重・伊勢志摩：お伊勢参り＆伊勢海老・的矢かき極上宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/740/740_sgl.jpg" alt="伊勢シティホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>朝食は三重県産卵と伊勢志摩産あおさを使用した「だし巻き玉子」がおすすめ■ウエルカムドリンクサービス</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 三重県伊勢市吹上1-11-31 ／ 最寄り駅：伊勢市 ／ 交通案内：■近鉄「伊勢市駅」徒歩3分、「宇治山田駅」徒歩5分※JRでお越しの方は近鉄改札口をご利用下さい　■「伊勢西IC」8分</p>
+                  <p><strong>【所在地・アクセス】</strong>三重県伊勢市吹上1-11-31 ／ 最寄り駅：伊勢市 ／ 交通案内：■近鉄「伊勢市駅」徒歩3分、「宇治山田駅」徒歩5分※JRでお越しの方は近鉄改札口をご利用下さい　■「伊勢西IC」8分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>35台（無料、先着順、予約不可）※チェックアウト後の駐車不可</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/40176/40176_be1.jpg" alt="ホテルキャッスルイン伊勢夫婦岩（旧：ホテルリゾートイン二見） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>貸切風呂を無料で楽しめるリーズナブルなホテル。伊勢神宮（内宮・外宮）・おかげ横丁まで約15分</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 三重県伊勢市二見町茶屋537-20 ／ 最寄り駅：二見浦 ／ 交通案内：ＪＲ参宮線 二見浦駅より徒歩10分／伊勢市駅より無料送迎あり(要予約)／伊勢神宮(内宮)よりお車で15分</p>
+                  <p><strong>【所在地・アクセス】</strong>三重県伊勢市二見町茶屋537-20 ／ 最寄り駅：二見浦 ／ 交通案内：ＪＲ参宮線 二見浦駅より徒歩10分／伊勢市駅より無料送迎あり(要予約)／伊勢神宮(内宮)よりお車で15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料の自走式平面駐車場80台</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.9 ／ 立地 ★4.07 ／ 部屋 ★3.88 ／ 設備 ★3.78 ／ 風呂 ★3.82 ／ 食事 ★4.05</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1360/1360_sgl.jpg" alt="ホテルキャッスルイン伊勢 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>檜の大浴場あり！ビジネスもリゾート気分で宿泊出来るホテルです</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 三重県伊勢市神久3-5-55 ／ 最寄り駅：宇治山田 ／ 交通案内：伊勢自動車道 伊勢西I・Cから車で9分　無料平面駐車場140台　伊勢市駅より無料送迎あり（要予約）</p>
+                  <p><strong>【所在地・アクセス】</strong>三重県伊勢市神久3-5-55 ／ 最寄り駅：宇治山田 ／ 交通案内：伊勢自動車道 伊勢西I・Cから車で9分　無料平面駐車場140台　伊勢市駅より無料送迎あり（要予約）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　120台　無料　大型の場合、お電話で問い合わせ下さい</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.81 ／ 立地 ★3.66 ／ 部屋 ★3.67 ／ 設備 ★3.67 ／ 風呂 ★3.77 ／ 食事 ★3.48</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/43998/43998_kya1.jpg" alt="ホテル　キャッスルイン津 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ビジネスホテルでありながらリゾートホテルのくつろぎがあるホテル。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 三重県津市港町15-22 ／ 最寄り駅：津 ／ 交通案内：近鉄・ＪＲ　津駅よりバスで１５分</p>
+                  <p><strong>【所在地・アクセス】</strong>三重県津市港町15-22 ／ 最寄り駅：津 ／ 交通案内：近鉄・ＪＲ　津駅よりバスで１５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場80台。ご利用は先着順となります。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.2 ／ 立地 ★3.99 ／ 部屋 ★4.07 ／ 設備 ★4.03 ／ 風呂 ★4.13 ／ 食事 ★3.77</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/15548/15548_kan.jpg" alt="鳥羽ビューホテル　花真珠 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★★ファミリー旅おすすめ！【キッズパーク】完備★★　鳥羽でココだけ！【絶景露天】×【バラ風呂】</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 三重県鳥羽市安楽島町1075-98 ／ 最寄り駅：鳥羽 ／ 交通案内：伊勢神宮より車で３０分/近鉄 鳥羽駅から車で8分／伊勢自動車道伊勢西ＩＣより２５分</p>
+                  <p><strong>【所在地・アクセス】</strong>三重県鳥羽市安楽島町1075-98 ／ 最寄り駅：鳥羽 ／ 交通案内：伊勢神宮より車で３０分/近鉄 鳥羽駅から車で8分／伊勢自動車道伊勢西ＩＣより２５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.56 ／ 立地 ★4.4 ／ 部屋 ★4.23 ／ 設備 ★4.21 ／ 風呂 ★4.23 ／ 食事 ★4.55</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5889/5889_war.jpg" alt="おもてなし処　龍宮之宿（旧　伊良湖リゾートホテル　龍宮之宿） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>伊良湖港を望む高台に建つ、磯料理が自慢の宿。四季折々に伊良湖の海の幸を堪能していただけます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛知県田原市伊良湖町宮下3000-63 ／ 最寄り駅：豊橋 ／ 交通案内：JR豊橋駅よりバス伊良湖岬行きシーパーク前下車約90分　東名高速豊川ICより約90分　伊良湖岬</p>
+                  <p><strong>【所在地・アクセス】</strong>愛知県田原市伊良湖町宮下3000-63 ／ 最寄り駅：豊橋 ／ 交通案内：JR豊橋駅よりバス伊良湖岬行きシーパーク前下車約90分　東名高速豊川ICより約90分　伊良湖岬</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　無料　(正面駐車場が満車の際は、建物すぐ裏の駐車場をご利用くださいませ。)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

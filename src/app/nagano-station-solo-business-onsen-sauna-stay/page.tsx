@@ -77,7 +77,7 @@ export default function ArticlePage() {
             長野・長野駅前天然温泉＆善光寺サウナ出張特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「長野駅前出張・天然温泉サウナ」北陸新幹線・善光寺門前町・天然温泉善光の湯！信州の山並みを仰ぐ厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               国宝・善光寺の門前町として栄え、長野県北部の経済・行政・観光の中枢である長野市。東京から新幹線で最速80分という圧倒的な近さに加え、駅周辺には仕事の疲れを芯から癒やす天然温泉やサウナを備えたホテルが充実しています。
             </p>
             <p>
-              天然温泉露天風呂とサウナ・名物夜鳴きそばが揃う人気宿から、リーズナブルに快適なワーケーションができるビジネスホテルまで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              天然温泉露天風呂とサウナ・名物夜鳴きそばが揃う人気宿から、リーズナブルに快適なワーケーションができるビジネスホテルまで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -418,11 +418,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">長野駅前出張・天然温泉サウナ：北陸新幹線・善光寺門前町・天然温泉善光の湯！信州の山並みを仰ぐ厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「長野駅前出張・天然温泉サウナ：北陸新幹線・善光寺門前町・天然温泉善光の湯！信州の山並みを仰ぐ厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「長野駅前出張・天然温泉サウナ：北陸新幹線・善光寺門前町・天然温泉善光の湯！信州の山並みを仰ぐ厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -504,7 +504,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/181252/181252.jpg" alt="天然温泉ホテルリブマックスＰＲＥＭＩＵＭ長野駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【2020年10月OPEN】ＪＲ信越線、北陸新幹線「長野」駅東口より徒歩約３分 ◇天然温泉＆サウナ◇</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県長野市大字栗田2145 ／ 最寄り駅：長野 ／ 交通案内：ＪＲ信越線／北陸新幹線　長野駅より徒歩にて約３分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県長野市大字栗田2145 ／ 最寄り駅：長野 ／ 交通案内：ＪＲ信越線／北陸新幹線　長野駅より徒歩にて約３分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -526,7 +526,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/11084/11084_sig.jpg" alt="アイランドホテル　天然温泉　白馬の湯 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR長野駅 善光寺口より徒歩約5分♪天然温泉大浴場で疲れを癒せる★善光寺までバスで約20分！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県長野市南千歳2-15-8 ／ 最寄り駅：長野 ／ 交通案内：JR長野駅 善光寺口より徒歩約5分/長野電鉄長野線 市役所前駅より徒歩約2分/上信越道 長野ICより車で約25分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県長野市南千歳2-15-8 ／ 最寄り駅：長野 ／ 交通案内：JR長野駅 善光寺口より徒歩約5分/長野電鉄長野線 市役所前駅より徒歩約2分/上信越道 長野ICより車で約25分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>事前予約制（1泊1台1,000円）　車高・車幅等によりご案内場所が異なります（台数制限あり）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.86 ／ 立地 ★3.85 ／ 部屋 ★3.85 ／ 設備 ★3.78 ／ 風呂 ★3.81</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -548,7 +548,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2749/2749_ds.jpg" alt="ホテルパールシティ秋田　川反（旧　ホテルパールシティ秋田） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>竿燈大通り（竿灯）も、川反通り（かわばた）もすぐ近く。赤れんが郷土館・ねぶり流し館は徒歩圏内。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 秋田県秋田市大町3-4-18 ／ 最寄り駅：秋田 ／ 交通案内：ＪＲ秋田駅西口より車５分。バス（県庁・市役所行き５分）川反入口下車徒歩５分。秋田空港よりバス、川反入口下車徒歩５分。</p>
+                  <p><strong>【所在地・アクセス】</strong>秋田県秋田市大町3-4-18 ／ 最寄り駅：秋田 ／ 交通案内：ＪＲ秋田駅西口より車５分。バス（県庁・市役所行き５分）川反入口下車徒歩５分。秋田空港よりバス、川反入口下車徒歩５分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>要予約(予約順30台)1泊1台770円（税込）･満車時徒歩７分契約駐車場・大型車両、二輪車不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.82 ／ 立地 ★3.78 ／ 部屋 ★3.7 ／ 設備 ★3.68 ／ 風呂 ★3.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -570,7 +570,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2974/2974_heya.jpg" alt="縄文のふる里　大湯温泉　ホテル鹿角 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>開湯800年の名湯と四季折々の彩りが添えられた料理を楽しむ。箱根・富士屋ホテルや花巻温泉もグループ。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 秋田県鹿角市十和田大湯字中谷地５－１ ／ 最寄り駅：十和田南 ／ 交通案内：■十和田湖より車で30分■ＪＲ花輪線十和田南駅から車で１２分■東北道十和田ＩＣから国道１０３号線を十和田湖方面へ１２分</p>
+                  <p><strong>【所在地・アクセス】</strong>秋田県鹿角市十和田大湯字中谷地５－１ ／ 最寄り駅：十和田南 ／ 交通案内：■十和田湖より車で30分■ＪＲ花輪線十和田南駅から車で１２分■東北道十和田ＩＣから国道１０３号線を十和田湖方面へ１２分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　２００台　無料　　　　　　　　　　　　　　　　★お得な宿泊プラン満載★</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -592,7 +592,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2978/2978_tw.jpg" alt="アルバートホテル秋田 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>繁華街「かわばた」ど真ん中！全室有線・無線ＬＡＮ対応・シャワートイレ</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 秋田県秋田市大町4-3-22 ／ 最寄り駅：秋田 ／ 交通案内：秋田駅西口から車で５分。秋田空港からリムジンバスで約４０分、北都銀行前下車、徒歩２分。</p>
+                  <p><strong>【所在地・アクセス】</strong>秋田県秋田市大町4-3-22 ／ 最寄り駅：秋田 ／ 交通案内：秋田駅西口から車で５分。秋田空港からリムジンバスで約４０分、北都銀行前下車、徒歩２分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>先着順 83台：800円(税込/泊)　 ※満車時は近隣パーキング(自己負担) 　※大型車は駐車不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.09 ／ 立地 ★4.1 ／ 部屋 ★4.09 ／ 設備 ★4.02 ／ 風呂 ★4.01 ／ 食事 ★4.09</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

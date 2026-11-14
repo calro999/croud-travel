@@ -369,7 +369,7 @@ export default function IseshimaWinterPage() {
             <span className="text-xs font-bold text-amber-600 uppercase tracking-widest">Selected Ryokans</span>
             <h2 className="text-2xl sm:text-3xl font-bold text-stone-900 mt-1">冬至参拝と的矢かき・伊勢海老を堪能する鳥羽・伊勢志摩の厳選宿5選</h2>
             <p className="text-stone-500 text-sm mt-2">
-              楽天トラベル公式APIより取得した最新データに基づき、おもてなし・温泉・料理評価が卓越した5宿をご紹介。
+              宿泊施設データより取得した最新データに基づき、おもてなし・温泉・料理評価が卓越した5宿をご紹介。
             </p>
           </div>
 

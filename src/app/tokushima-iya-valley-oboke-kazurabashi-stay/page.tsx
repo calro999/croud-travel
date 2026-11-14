@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">徳島・祖谷渓＆大歩危・かずら橋：日本三大秘境・スリルのかずら橋＆大歩危峡舟下り・祖谷そば宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「徳島・祖谷渓＆大歩危・かずら橋：日本三大秘境・スリルのかずら橋＆大歩危峡舟下り・祖谷そば宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「徳島・祖谷渓＆大歩危・かずら橋：日本三大秘境・スリルのかずら橋＆大歩危峡舟下り・祖谷そば宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -305,7 +305,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/20228/20228_h.jpg" alt="新祖谷温泉　ホテルかずら橋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ケーブルカーで登る天空露天風呂と囲炉裏の宿。渓谷の絶景と郷土料理、温かなおもてなしでお迎えいたします</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 徳島県三好市西祖谷山村善徳３３－１ ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲのお客様 大歩危駅～路線バス20分（タクシー15分）・お車のお客様　徳島自動車道井川池田ＩＣより大歩危経由で５０分</p>
+                  <p><strong>【所在地・アクセス】</strong>徳島県三好市西祖谷山村善徳３３－１ ／ 交通案内：ＪＲのお客様 大歩危駅～路線バス20分（タクシー15分）・お車のお客様　徳島自動車道井川池田ＩＣより大歩危経由で５０分</p>
                   <p>【徳島・祖谷渓＆大歩危・かずら橋：日本三大秘境・スリル】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -327,7 +327,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/14619/14619_heya.jpg" alt="白地温泉　小西旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>林芙美子ゆかりの宿。芙美子も愛した吉野川と山々を眺めながら、山の幸を温泉でのんびり癒しのひと時を</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 徳島県三好市池田町白地本名76-2 ／ 最寄り駅：阿波池田 ／ 交通案内：徳島自動車道　井川・池田ＩＣより高知方面へ5.8ｋｍ   大歩危祖谷観光やラフティングにも最適です。</p>
+                  <p><strong>【所在地・アクセス】</strong>徳島県三好市池田町白地本名76-2 ／ 最寄り駅：阿波池田 ／ 交通案内：徳島自動車道　井川・池田ＩＣより高知方面へ5.8ｋｍ   大歩危祖谷観光やラフティングにも最適です。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -349,7 +349,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/14442/14442_room.jpg" alt="神山温泉　ホテル四季の里＆いやしの湯 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>県都徳島市より車で35分の里山環境。地産の料理とぬるぬるとした泉質が自慢。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 徳島県名西郡神山町神領本上角80-2 ／ 最寄り駅：徳島 ／ 交通案内：ＪＲ徳島駅よりバスにて約60分／徳島自動車道藍住ＩＣより45分／高松自動車道坂野ＩＣより55分</p>
+                  <p><strong>【所在地・アクセス】</strong>徳島県名西郡神山町神領本上角80-2 ／ 最寄り駅：徳島 ／ 交通案内：ＪＲ徳島駅よりバスにて約60分／徳島自動車道藍住ＩＣより45分／高松自動車道坂野ＩＣより55分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り120台（無料・先着順）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -371,7 +371,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/74531/74531_s.jpg" alt="阿波の国・昴宿よしの 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>駅前の便利さと旅館のぬくもりを。多彩な客室と大浴場、真心を込めたおもてなしでお迎えする和風旅館</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 徳島県徳島市一番町3-18 ／ 最寄り駅：徳島 ／ 交通案内：徳島駅・高速バス乗り場より徒歩2分。徳島空港よりお車で１５分。神戸・淡路鳴門自動車道、徳島ＩＣ．より1０分。</p>
+                  <p><strong>【所在地・アクセス】</strong>徳島県徳島市一番町3-18 ／ 最寄り駅：徳島 ／ 交通案内：徳島駅・高速バス乗り場より徒歩2分。徳島空港よりお車で１５分。神戸・淡路鳴門自動車道、徳島ＩＣ．より1０分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　3０台　1000円（税込み／泊）　　但し、阿波踊り期間中は￥3000です。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

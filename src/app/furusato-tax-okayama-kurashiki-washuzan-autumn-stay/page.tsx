@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-okayama-kurashiki-washuzan-autumn-stay/"
   };
 
@@ -482,11 +482,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">岡山・倉敷美観地区の白壁紅葉＆鷲羽山！瀬戸内海多島美温泉と極上千屋牛・鰆会席｜ふるさと納税で泊まれる名宿ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「岡山・倉敷美観地区の白壁紅葉＆鷲羽山！瀬戸内海多島美温泉と極上千屋牛・鰆会席｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「岡山・倉敷美観地区の白壁紅葉＆鷲羽山！瀬戸内海多島美温泉と極上千屋牛・鰆会席｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -550,7 +550,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7135/7135_lobi.jpg" alt="倉敷由加温泉ホテル　山桃花 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ゆるやかな時間が流れる大人の隠れ宿。瀬戸内の幸と四季折々の花が咲く天然温泉をお楽しみください。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岡山県倉敷市児島由加3285番地 ／ 最寄り駅：児島 ／ 交通案内：瀬戸中央自動車道　水島ＩＣより　県道６２号線へ約8km１０分でご到着です。</p>
+                  <p><strong>【所在地・アクセス】</strong>岡山県倉敷市児島由加3285番地 ／ 最寄り駅：児島 ／ 交通案内：瀬戸中央自動車道　水島ＩＣより　県道６２号線へ約8km１０分でご到着です。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料です。【無料送迎あり】JR児島駅・JR倉敷より運行。事前要予約</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -572,7 +572,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/178392/178392.jpg" alt="たびのホテル倉敷水島 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>約30種類の手作り朝食が人気◎コンビニ隣接◆大浴場＆無料駐車場有り◆大型車両もOK（有料・要予約）</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岡山県倉敷市水島西常盤町4-25 ／ 最寄り駅：常盤（岡山） ／ 交通案内：水島臨海鉄道水島本線常盤駅より徒歩5分。瀬戸内中央自動車道水島ICより約14分。</p>
+                  <p><strong>【所在地・アクセス】</strong>岡山県倉敷市水島西常盤町4-25 ／ 最寄り駅：常盤（岡山） ／ 交通案内：水島臨海鉄道水島本線常盤駅より徒歩5分。瀬戸内中央自動車道水島ICより約14分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>施設内、隣地に合計120台分の無料駐車場有（トラック・バス等の大型車は有料2000円／泊・要予約）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -594,7 +594,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/799/799_tw.jpg" alt="倉敷シーサイドホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>瀬戸内海を眺望できる大浴場サウナ付きホテル。夏はプール営業やガーデンBBQあり。研修施設充実。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岡山県倉敷市児島塩生2767-21 ／ 最寄り駅：児島 ／ 交通案内：■水島ICから車15分■水島工場C地区に隣接■鷲羽山ハイランドまで車10分■倉敷由加山まで車30分■駐車場無料■</p>
+                  <p><strong>【所在地・アクセス】</strong>岡山県倉敷市児島塩生2767-21 ／ 最寄り駅：児島 ／ 交通案内：■水島ICから車15分■水島工場C地区に隣接■鷲羽山ハイランドまで車10分■倉敷由加山まで車30分■駐車場無料■</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

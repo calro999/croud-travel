@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/temple-shukubo-shojin-cuisine-mindfulness-stay/"
   };
 
@@ -186,6 +186,12 @@ export default function Page() {
           </p>
         </div>
 
+        <div className="pt-2">
+          <ShareButtons
+            title="歴史ある古刹で心を洗う！本格精進料理＆朝のお勤め体験ができる名門宿坊"
+            url="https://croud-travel.pages.dev/temple-shukubo-shojin-cuisine-mindfulness-stay/"
+          />
+        </div>
         {/* クーポン特大バナー */}
         <SpecialCouponBanner />
 
@@ -303,11 +309,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">歴史ある古刹で心を洗う！本格精進料理＆朝のお勤め体験ができる名門宿坊：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「歴史ある古刹で心を洗う！本格精進料理＆朝のお勤め体験ができる名門宿坊」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「歴史ある古刹で心を洗う！本格精進料理＆朝のお勤め体験ができる名門宿坊」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -371,7 +377,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/135569/135569_ro.jpg" alt="信州善光寺　薬王院 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>善光寺本堂まで徒歩3分の好立地。善光寺が建立された1400年前に、阿弥陀堂として建てられた伝統の宿坊</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県長野市元善町657 ／ 最寄り駅：長野 ／ 交通案内：長野駅よりお車で10分。バスで15分（長野駅-善光寺西　180円。バス停から当院まで200m。）</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県長野市元善町657 ／ 最寄り駅：長野 ／ 交通案内：長野駅よりお車で10分。バスで15分（長野駅-善光寺西　180円。バス停から当院まで200m。）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　有料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -393,7 +399,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/13751/13751.jpg" alt="恵光院 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>霊峰高野山。静かな宿坊でのひとときが心を癒します。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県伊都郡高野町高野山497 ／ 最寄り駅：極楽橋 ／ 交通案内：南海『難波駅』より南海電鉄高野線で『高野山駅』より南海バス10分</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県伊都郡高野町高野山497 ／ 最寄り駅：極楽橋 ／ 交通案内：南海『難波駅』より南海電鉄高野線で『高野山駅』より南海バス10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.56 ／ 立地 ★4.5 ／ 部屋 ★4.5 ／ 設備 ★4.5 ／ 風呂 ★4.33 ／ 食事 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -415,7 +421,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/135369/135369_hi.jpg" alt="大進坊 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>三百年の歴史ある宿坊。地元の素材に拘った手作り精進料理、ごま豆腐・栃餅が好評。希望者は祈祷体験可能。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県鶴岡市羽黒町手向95 ／ 最寄り駅：鶴岡 ／ 交通案内：羽越線鶴岡駅より車で20分／庄内空港より車で30分／山形自動車道 庄内あさひICより車で40分</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県鶴岡市羽黒町手向95 ／ 最寄り駅：鶴岡 ／ 交通案内：羽越線鶴岡駅より車で20分／庄内空港より車で30分／山形自動車道 庄内あさひICより車で40分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>屋外駐車場30台完備　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

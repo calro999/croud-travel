@@ -77,7 +77,7 @@ export default function ArticlePage() {
             和歌山・南紀勝浦温泉ひとり旅＆熊野古道おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「南紀勝浦温泉ひとり旅・世界遺産熊野古道おこもり」太平洋パノラマ露天・生まぐろ水揚げ日本一・島まるごと天然温泉！那智の滝と海の秘境厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               名古屋・新大阪から特急くろしお・特急南紀でアクセスできる紀伊半島の南端・南紀勝浦。リアス海岸の美しい入江に無数の良質な源泉が湧き出ており、海と一体になれる絶景露天風呂が点在します。日本一の生鮮マグロ水揚げ高を誇る勝浦漁港の活気と、熊野那智大社・那智の滝の霊験あらたかな空気が一人旅の心を深く満たします。
             </p>
             <p>
-              潮風を感じる高台の国立公園リゾートから、船でしか行けないプライベートアイランドの隠れ宿まで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              潮風を感じる高台の国立公園リゾートから、船でしか行けないプライベートアイランドの隠れ宿まで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -419,11 +419,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">南紀勝浦温泉ひとり旅・世界遺産熊野古道おこもり：太平洋パノラマ露天・生まぐろ水揚げ日本一・島まるごと天然温泉！那智の滝と海の秘境厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「南紀勝浦温泉ひとり旅・世界遺産熊野古道おこもり：太平洋パノラマ露天・生まぐろ水揚げ日本一・島まるごと天然温泉！那智の滝と海の秘境厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「南紀勝浦温泉ひとり旅・世界遺産熊野古道おこもり：太平洋パノラマ露天・生まぐろ水揚げ日本一・島まるごと天然温泉！那智の滝と海の秘境厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -487,7 +487,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/75227/75227_grnv.jpg" alt="勝浦温泉　休暇村　南紀勝浦 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>熊野灘の潮騒と朝陽に癒される高台のリゾートホテル</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県東牟婁郡那智勝浦町宇久井719 ／ 最寄り駅：宇久井 ／ 交通案内：送迎バス（要予約）</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県東牟婁郡那智勝浦町宇久井719 ／ 最寄り駅：宇久井 ／ 交通案内：送迎バス（要予約）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.4 ／ 立地 ★4.42 ／ 部屋 ★4.29 ／ 設備 ★4.21 ／ 風呂 ★4.45 ／ 食事 ★4.39</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -509,7 +509,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/6002/6002_bath.jpg" alt="南紀勝浦温泉　ホテルなぎさや 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>トンネルを抜けるとそこは…映画のような入り江の中にある秘密のお宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県東牟婁郡那智勝浦町大字湯川955番地の1 ／ 最寄り駅：紀伊勝浦 ／ 交通案内：JR「紀伊勝浦駅」より車で約5分（事前予約で送迎サービス有）／大阪から紀勢自動車道「すさみ南IC」経由で約3時間半</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県東牟婁郡那智勝浦町大字湯川955番地の1 ／ 最寄り駅：紀伊勝浦 ／ 交通案内：JR「紀伊勝浦駅」より車で約5分（事前予約で送迎サービス有）／大阪から紀勢自動車道「すさみ南IC」経由で約3時間半</p>
                   <p><strong>【駐車場・マイカー利用】</strong>50台（無料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.9 ／ 立地 ★4.14 ／ 部屋 ★3.71 ／ 設備 ★3.59 ／ 風呂 ★4.05 ／ 食事 ★4.03</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -531,7 +531,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5335/5335_bath.jpg" alt="碧き島の宿　熊野別邸　中の島 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【碧き海に浮かぶ、一島一旅館のおもてなし】開放感抜群の絶景露天風呂は圧巻！露天風呂付客室も好評</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県東牟婁郡那智勝浦町勝浦1179-9 ／ 最寄り駅：紀伊勝浦 ／ 交通案内：ＪＲ紀勢本線紀伊勝浦駅から徒歩７分。観光桟橋より専用船約5分</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県東牟婁郡那智勝浦町勝浦1179-9 ／ 最寄り駅：紀伊勝浦 ／ 交通案内：ＪＲ紀勢本線紀伊勝浦駅から徒歩７分。観光桟橋より専用船約5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有・無料＞カーナビTEL番号の場合、0735-52-1110（客船待合処）をご入力下さい</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.84 ／ 立地 ★4.84 ／ 部屋 ★4.77 ／ 設備 ★4.75 ／ 風呂 ★4.82 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">山形・鶴岡＆羽黒山・出羽三山：国宝羽黒山五重塔・杉並木＆精進料理・庄内浜宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「山形・鶴岡＆羽黒山・出羽三山：国宝羽黒山五重塔・杉並木＆精進料理・庄内浜宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「山形・鶴岡＆羽黒山・出羽三山：国宝羽黒山五重塔・杉並木＆精進料理・庄内浜宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -288,7 +288,7 @@ export default function MicroTouristHubPage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 湯田川温泉　ますや旅館</td>
-                <td className="p-3 text-stone-600">山形県</td>
+                <td className="p-3 text-stone-600">山形県鶴岡市湯田川乙63</td>
                 <td className="p-3 text-stone-600">ＪＲ鶴岡駅から庄内交通バス乗車「湯田川温泉」下車徒歩３分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.59（60件）</td>
@@ -297,7 +297,7 @@ export default function MicroTouristHubPage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 湯田川温泉　つかさや旅館</td>
-                <td className="p-3 text-stone-600">山形県</td>
+                <td className="p-3 text-stone-600">山形県鶴岡市湯田川乙52</td>
                 <td className="p-3 text-stone-600">ＪＲ　鶴岡駅よりタクシーにて２０分／バスにて３０分　庄内空港より車30</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.83（104件）</td>
@@ -323,7 +323,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/44069/44069_ko.jpg" alt="羽黒山　三光院 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>羽黒山の玄関「隋神門」まで徒歩約7分の宿坊。東北の山岳信仰の中心地で自然と伝統をじっくり体験</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県鶴岡市羽黒町手向92 ／ 最寄り駅：鶴岡 ／ 交通案内：庄内空港より車で約35分／JR羽越本線鶴岡駅下車、車で約25分・バスで約40分／山形自動車道・庄内あさひICより約30分</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県鶴岡市羽黒町手向92 ／ 最寄り駅：鶴岡 ／ 交通案内：庄内空港より車で約35分／JR羽越本線鶴岡駅下車、車で約25分・バスで約40分／山形自動車道・庄内あさひICより約30分</p>
                   <p>【山形・鶴岡＆羽黒山・出羽三山：国宝羽黒山五重塔・杉並】 <strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/14581/14581_wy.jpg" alt="旅館　羽黒館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>羽黒の歴史を感じ、伝統息づく料理に舌鼓。国宝「羽黒山五重塔」の入り口までは、当館より徒歩約10分。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県鶴岡市羽黒町手向字手向111 ／ 最寄り駅：鶴岡 ／ 交通案内：庄内空港より車３５分／鶴岡駅より車２５分バス・４０分／山形道朝日ＩＣより２０分／ＪＲ羽越本線鶴岡駅</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県鶴岡市羽黒町手向字手向111 ／ 最寄り駅：鶴岡 ／ 交通案内：庄内空港より車３５分／鶴岡駅より車２５分バス・４０分／山形道朝日ＩＣより２０分／ＪＲ羽越本線鶴岡駅</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/135369/135369_hi.jpg" alt="大進坊 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>三百年の歴史ある宿坊。地元の素材に拘った手作り精進料理、ごま豆腐・栃餅が好評。希望者は祈祷体験可能。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県鶴岡市羽黒町手向95 ／ 最寄り駅：鶴岡 ／ 交通案内：羽越線鶴岡駅より車で20分／庄内空港より車で30分／山形自動車道 庄内あさひICより車で40分</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県鶴岡市羽黒町手向95 ／ 最寄り駅：鶴岡 ／ 交通案内：羽越線鶴岡駅より車で20分／庄内空港より車で30分／山形自動車道 庄内あさひICより車で40分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>屋外駐車場30台完備　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/12536/12536_ky.jpg" alt="湯田川温泉　九兵衛旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>13室の小さな湯宿♪珠玉の手づくりできたて料理を朝夕個室で堪能♪温泉は源泉かけ流しで露天、無料貸切♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県鶴岡市湯田川乙19 ／ 最寄り駅：鶴岡 ／ 交通案内：ＪＲ羽越線鶴岡駅よりバス25分／庄内空港よりタクシー30分／山形自動車道鶴岡ＩＣより15分</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県鶴岡市湯田川乙19 ／ 最寄り駅：鶴岡 ／ 交通案内：ＪＲ羽越線鶴岡駅よりバス25分／庄内空港よりタクシー30分／山形自動車道鶴岡ＩＣより15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.82 ／ 立地 ★4.34 ／ 部屋 ★4.75 ／ 設備 ★4.64 ／ 風呂 ★4.71 ／ 食事 ★4.89</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -410,8 +410,8 @@ export default function MicroTouristHubPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/128586/128586.jpg" alt="湯田川温泉　ますや旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「山形・鶴岡＆羽黒山・出羽三山（国宝羽黒山五重塔・杉並木＆精進料理・庄内浜宿 厳選ガイド）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ鶴岡駅から庄内交通バス乗車「湯田川温泉」下車徒歩３分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>令和５年６月リニューアル！快適客室と朝夕個室で手作り料理♪九兵衛と珠玉やの大浴場＆貸切も無料湯めぐり</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：ＪＲ鶴岡駅から庄内交通バス乗車「湯田川温泉」下車徒歩３分</p>
                   <p>【山形・鶴岡＆羽黒山・出羽三山：国宝羽黒山五重塔・杉並】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -432,12 +432,12 @@ export default function MicroTouristHubPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/79497/79497.jpg" alt="湯田川温泉　つかさや旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「山形・鶴岡＆羽黒山・出羽三山（国宝羽黒山五重塔・杉並木＆精進料理・庄内浜宿 厳選ガイド）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ　鶴岡駅よりタクシーにて２０分／バスにて３０分　庄内空港より車30分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>1日5組限定。個室でゆったり食事。源泉かけ流しの湯と野菜や魚介類の味を生かした料理に日本酒。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：ＪＲ　鶴岡駅よりタクシーにて２０分／バスにて３０分　庄内空港より車30分</p>
                   <p>【山形・鶴岡＆羽黒山・出羽三山：国宝羽黒山五重塔・杉並】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「絶景のロケーションとおもてなしに心から癒やされました。」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「湯田川温泉 つかさや旅館での快適な滞在とアクセス面の良さに満足したという評価が寄せられています。」
                   </blockquote>
                 </div>
               </div>

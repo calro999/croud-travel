@@ -416,7 +416,7 @@ export default function KyotoHubPage() {
             </div>
             <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-stone-900">京都駅 ホテル ｜ 新幹線・観光アクセス抜群の駅チカ人気宿</h2>
             <p className="text-xs text-stone-700 leading-relaxed font-medium">
-              新幹線改札から徒歩1〜5分圏内。荷物を預けて手ぶら観光に出発できる、口コミ高評価の駅周辺ホテルを楽天トラベル公式APIから直接厳選。
+              新幹線改札から徒歩1〜5分圏内。荷物を預けて手ぶら観光に出発できる、口コミ高評価の駅周辺ホテルを宿泊施設データから直接厳選。
             </p>
           </div>
 

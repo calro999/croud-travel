@@ -395,37 +395,6 @@ export default function Page() {
           </div>
         </section>
 
-        {/* よくある質問 FAQ */}
-        <section className="mb-16 bg-white rounded-3xl shadow-sm border border-stone-200/80 p-6 md:p-10">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">よくある質問・ふるさと納税トラベルクーポンの疑問を解消</h2>
-          <div className="space-y-4">
-            
-            <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>駅からの無料送迎バスは事前予約が必要ですか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
-                多くの宿では新幹線の到着時刻に合わせた送迎バスを運行していますが、宿によって「完全事前予約制」の場合と「駅到着時に電話すれば随時迎えに来てくれる」場合があります。宿泊予約時に送迎の利用条件を確認しておくと安心です。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>チェックイン前やチェックアウト後に荷物を預かってもらえますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
-                駅徒歩圏内の宿や送迎付きの宿のほぼ全てで、フロントでの荷物預かりに対応しています。また、駅の観光案内所と宿の間で荷物を配送してくれる「手荷物配送サービス（キャリーサービス）」を行っている温泉地も多く、手ぶらで身軽に観光できます。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>新幹線のチケット代もふるさと納税クーポンに含まれますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
-                楽天トラベルクーポンは「宿泊代金（または新幹線＋宿泊のJR楽パック）」に対して適用されます。楽天トラベルの「JR楽パック」対象プランであれば、新幹線チケット代と宿泊代金のセット総額に対してクーポンが適用できるため、交通費も含めて大幅に節約できます。
-              </p>
-            </div>
-          </div>
-        </section>
-
         {/* 相互回遊リンク */}
         <section className="bg-stone-200/80 rounded-3xl p-6 md:p-10 border border-stone-300">
           <div className="text-center max-w-2xl mx-auto mb-8">

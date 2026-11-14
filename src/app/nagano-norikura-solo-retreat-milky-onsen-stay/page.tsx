@@ -77,7 +77,7 @@ export default function ArticlePage() {
             長野・乗鞍高原温泉ひとり旅＆北アルプス白濁美肌湯おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「信州・乗鞍高原温泉ひとり旅・北アルプス白濁硫黄泉おこもり」乳白色源泉掛け流し・満天星空露天風呂・信州蕎麦と岩魚！乗鞍岳山麓の秘湯厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               乗鞍岳の中腹、地下深くの火山活動によって生まれた乗鞍高原温泉。pH3前後の酸性硫黄泉は、空気に触れることで青みがかった乳白色に濁り、湯の花が舞う極上の湯触りを誇ります。夜には街明かりが一切ない標高1,500mの漆黒の夜空に天の川がくっきりと瞬き、露天風呂に浸かりながら満天の星を一人占めする時間は、人生観が変わるほどの感動を与えてくれます。
             </p>
             <p>
-              素朴な囲炉裏端で山菜や岩魚を味わえる温かい温泉民宿から、星空鑑賞にも最適な静かな山岳ロッヂまで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              素朴な囲炉裏端で山菜や岩魚を味わえる温かい温泉民宿から、星空鑑賞にも最適な静かな山岳ロッヂまで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -423,11 +423,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">信州・乗鞍高原温泉ひとり旅・北アルプス白濁硫黄泉おこもり：乳白色源泉掛け流し・満天星空露天風呂・信州蕎麦と岩魚！乗鞍岳山麓の秘湯厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「信州・乗鞍高原温泉ひとり旅・北アルプス白濁硫黄泉おこもり：乳白色源泉掛け流し・満天星空露天風呂・信州蕎麦と岩魚！乗鞍岳山麓の秘湯厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「信州・乗鞍高原温泉ひとり旅・北アルプス白濁硫黄泉おこもり：乳白色源泉掛け流し・満天星空露天風呂・信州蕎麦と岩魚！乗鞍岳山麓の秘湯厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -509,7 +509,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5135/5135_r1.jpg" alt="乗鞍高原温泉　旅館　仙山乗鞍 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>県公認【信州オリジナル食材】提供する宿の登録宿。また、国内産・県内産にこだわる証「緑提灯」登録宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県松本市安曇4238-1 ／ 最寄り駅：新島々 ／ 交通案内：新島々駅よりバスで６０分、松本ＩＣより５０分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県松本市安曇4238-1 ／ 最寄り駅：新島々 ／ 交通案内：新島々駅よりバスで６０分、松本ＩＣより５０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -531,7 +531,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2749/2749_ds.jpg" alt="ホテルパールシティ秋田　川反（旧　ホテルパールシティ秋田） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>竿燈大通り（竿灯）も、川反通り（かわばた）もすぐ近く。赤れんが郷土館・ねぶり流し館は徒歩圏内。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 秋田県秋田市大町3-4-18 ／ 最寄り駅：秋田 ／ 交通案内：ＪＲ秋田駅西口より車５分。バス（県庁・市役所行き５分）川反入口下車徒歩５分。秋田空港よりバス、川反入口下車徒歩５分。</p>
+                  <p><strong>【所在地・アクセス】</strong>秋田県秋田市大町3-4-18 ／ 最寄り駅：秋田 ／ 交通案内：ＪＲ秋田駅西口より車５分。バス（県庁・市役所行き５分）川反入口下車徒歩５分。秋田空港よりバス、川反入口下車徒歩５分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>要予約(予約順30台)1泊1台770円（税込）･満車時徒歩７分契約駐車場・大型車両、二輪車不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.82 ／ 立地 ★3.78 ／ 部屋 ★3.7 ／ 設備 ★3.68 ／ 風呂 ★3.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -553,7 +553,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2974/2974_heya.jpg" alt="縄文のふる里　大湯温泉　ホテル鹿角 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>開湯800年の名湯と四季折々の彩りが添えられた料理を楽しむ。箱根・富士屋ホテルや花巻温泉もグループ。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 秋田県鹿角市十和田大湯字中谷地５－１ ／ 最寄り駅：十和田南 ／ 交通案内：■十和田湖より車で30分■ＪＲ花輪線十和田南駅から車で１２分■東北道十和田ＩＣから国道１０３号線を十和田湖方面へ１２分</p>
+                  <p><strong>【所在地・アクセス】</strong>秋田県鹿角市十和田大湯字中谷地５－１ ／ 最寄り駅：十和田南 ／ 交通案内：■十和田湖より車で30分■ＪＲ花輪線十和田南駅から車で１２分■東北道十和田ＩＣから国道１０３号線を十和田湖方面へ１２分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　２００台　無料　　　　　　　　　　　　　　　　★お得な宿泊プラン満載★</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -575,7 +575,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2978/2978_tw.jpg" alt="アルバートホテル秋田 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>繁華街「かわばた」ど真ん中！全室有線・無線ＬＡＮ対応・シャワートイレ</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 秋田県秋田市大町4-3-22 ／ 最寄り駅：秋田 ／ 交通案内：秋田駅西口から車で５分。秋田空港からリムジンバスで約４０分、北都銀行前下車、徒歩２分。</p>
+                  <p><strong>【所在地・アクセス】</strong>秋田県秋田市大町4-3-22 ／ 最寄り駅：秋田 ／ 交通案内：秋田駅西口から車で５分。秋田空港からリムジンバスで約４０分、北都銀行前下車、徒歩２分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>先着順 83台：800円(税込/泊)　 ※満車時は近隣パーキング(自己負担) 　※大型車は駐車不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.09 ／ 立地 ★4.1 ／ 部屋 ★4.09 ／ 設備 ★4.02 ／ 風呂 ★4.01 ／ 食事 ★4.09</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -597,7 +597,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4624/4624_room.jpg" alt="天然温泉　田沢湖レイクリゾート 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>静寂の美、田沢湖まで車で約15分　わんちゃんと一緒の宿泊も人気です♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 秋田県仙北市田沢湖生保内字下高野82-117 ／ 最寄り駅：田沢湖 ／ 交通案内：JR秋田新幹線田沢湖駅からバスで２０分、盛岡Ｉ．Ｃから５０分。田沢湖駅から送迎バスにて約15分（要事前予約）</p>
+                  <p><strong>【所在地・アクセス】</strong>秋田県仙北市田沢湖生保内字下高野82-117 ／ 最寄り駅：田沢湖 ／ 交通案内：JR秋田新幹線田沢湖駅からバスで２０分、盛岡Ｉ．Ｃから５０分。田沢湖駅から送迎バスにて約15分（要事前予約）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５００台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.19 ／ 立地 ★3.99 ／ 部屋 ★4.02 ／ 設備 ★4.01 ／ 風呂 ★4.09 ／ 食事 ★4.29</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

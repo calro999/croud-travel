@@ -317,11 +317,11 @@ export default function TakedaCastleAutumnPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋の竹田城跡：天空の城の幻想的な雲海と但馬牛グルメ！城下町を満喫するおすすめ宿5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「秋の竹田城跡：天空の城の幻想的な雲海と但馬牛グルメ！城下町を満喫するおすすめ宿5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「秋の竹田城跡：天空の城の幻想的な雲海と但馬牛グルメ！城下町を満喫するおすすめ宿5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -402,8 +402,8 @@ export default function TakedaCastleAutumnPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/145001/145001_room.jpg" alt="竹田城　城下町　ホテルＥＮ（えん） 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「秋の竹田城跡（天空の城の幻想的な雲海と但馬牛グルメ）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県朝来市和田山町竹田上町西側363 ／ 最寄り駅：竹田（兵庫） ／ 交通案内：JR播但線　竹田駅より徒歩にて3分（駅より250ｍ）</p>
+                  <p><strong>【宿の特徴・魅力】</strong>【大阪から車で約100分】竹田城跡の麓で約400年の歴史を持つ旧酒造場に泊まる。</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県朝来市和田山町竹田上町西側363 ／ 最寄り駅：竹田（兵庫） ／ 交通案内：JR播但線　竹田駅より徒歩にて3分（駅より250ｍ）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>竹田まちなか観光駐車場にお停めください。無料でご利用いただけます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -425,7 +425,7 @@ export default function TakedaCastleAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/153666/153666_kan1.jpg" alt="竹田城下まち　朱々　‐ＳｈｕＳｈｕ‐ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>それぞれ独立した3棟メゾネット貸切で気兼ねなく＋夕・朝食お部屋食だからお子様連れでも安心！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県朝来市和田山町竹田中町西側264-1 ／ 最寄り駅：竹田（兵庫） ／ 交通案内：ＪＲ播但線　竹田駅より徒歩１分（約100ｍ）／北近畿自動車道和田山IC～竹田方面へお車５分</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県朝来市和田山町竹田中町西側264-1 ／ 最寄り駅：竹田（兵庫） ／ 交通案内：ＪＲ播但線　竹田駅より徒歩１分（約100ｍ）／北近畿自動車道和田山IC～竹田方面へお車５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>竹田まちなか観光駐車場 60台（無料）当宿より徒歩3分</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -447,7 +447,7 @@ export default function TakedaCastleAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/40571/40571_he.jpg" alt="有斐軒 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>季節の花と心にひびくおもてなしをモットーにしています。素朴な味と心づくしの手料理が自慢です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県朝来市和田山町和田山31 ／ 最寄り駅：和田山 ／ 交通案内：ＪＲ山陰本線　和田山駅より徒歩５分</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県朝来市和田山町和田山31 ／ 最寄り駅：和田山 ／ 交通案内：ＪＲ山陰本線　和田山駅より徒歩５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.67 ／ 立地 ★4 ／ 部屋 ★4.56 ／ 設備 ★4.47 ／ 風呂 ★4.2 ／ 食事 ★4.53</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -469,7 +469,7 @@ export default function TakedaCastleAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8537/8537_nbe.jpg" alt="囲炉裏の宿　豊楽 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>味、素材にこだわり、自然を味わう料理自慢の宿【最寄駅JR播但線寺前駅より無料送迎有】</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県神崎郡神河町上小田332 ／ 最寄り駅：寺前 ／ 交通案内：ＪＲ播但線寺前駅より無料送迎15分。神崎南ICより峰山高原方向へ車で約15分。</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県神崎郡神河町上小田332 ／ 最寄り駅：寺前 ／ 交通案内：ＪＲ播但線寺前駅より無料送迎15分。神崎南ICより峰山高原方向へ車で約15分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>50台有　無料　予約不要　大型バス、トラックも無料利用可能　電気自動車充電可（テスラも）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -491,7 +491,7 @@ export default function TakedaCastleAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/139826/139826_kan.jpg" alt="竹田町屋　寺子屋　はな亭 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>天空の城「竹田城」の麓の温泉付き貸切町屋宿2棟、30坪1戸建貸切1棟。パン工房も新設。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県朝来市和田山町竹田中町西側250-1 ／ 最寄り駅：竹田（兵庫） ／ 交通案内：北近畿自動車道・播但有料道路和田山ＩＣから車で10分。ＪＲ和田山駅乗り換え7分のＪＲ竹田駅より徒歩にて１分</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県朝来市和田山町竹田中町西側250-1 ／ 最寄り駅：竹田（兵庫） ／ 交通案内：北近畿自動車道・播但有料道路和田山ＩＣから車で10分。ＪＲ和田山駅乗り換え7分のＪＲ竹田駅より徒歩にて１分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　6台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -228,11 +228,11 @@ export default function PetDogResortHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">天然芝プライベートドッグラン付きヴィラ：アジリティ＆貸切一棟ステイ 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「天然芝プライベートドッグラン付きヴィラ：アジリティ＆貸切一棟ステイ 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「天然芝プライベートドッグラン付きヴィラ：アジリティ＆貸切一棟ステイ 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -314,7 +314,7 @@ export default function PetDogResortHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/198859/198859.jpg" alt="Ｐｒｕｎｉｍｏ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>海近ドッグラン付き、愛犬家のための一棟貸</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 千葉県山武市本須賀字塩浜3841-425 ／ 最寄り駅：成東 ／ 交通案内：JR成東駅よりお車で約20分、成田国際空港よりお車で約55分、九十九里有料道路より約20分</p>
+                  <p><strong>【所在地・アクセス】</strong>千葉県山武市本須賀字塩浜3841-425 ／ 最寄り駅：成東 ／ 交通案内：JR成東駅よりお車で約20分、成田国際空港よりお車で約55分、九十九里有料道路より約20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>あり　2台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -336,7 +336,7 @@ export default function PetDogResortHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/70844/70844_s.jpg" alt="ホテルハーヴェスト浜名湖 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2022年7月より温泉へリニューアル！湖畔を一望できるホテル！ご当地メニュー鰻飯や浜松餃子が大好評♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県浜松市浜名区三ヶ日町大崎372 ／ 最寄り駅：東都筑 ／ 交通案内：東名三ヶ日ICより車５分。天竜浜名湖線都筑駅・JR鷲津駅より無料送迎有。事前要予約</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県浜松市浜名区三ヶ日町大崎372 ／ 最寄り駅：東都筑 ／ 交通案内：東名三ヶ日ICより車５分。天竜浜名湖線都筑駅・JR鷲津駅より無料送迎有。事前要予約</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -358,7 +358,7 @@ export default function PetDogResortHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/188914/188914.jpg" alt="ホテルビワドッグ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ワンちゃんと一緒に楽しい時間を過ごし、家族の絆を深める場所</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 滋賀県彦根市新海町3260 ／ 最寄り駅：能登川 ／ 交通案内：ＪＲ　能登川駅よりお車で約１５分</p>
+                  <p><strong>【所在地・アクセス】</strong>滋賀県彦根市新海町3260 ／ 最寄り駅：能登川 ／ 交通案内：ＪＲ　能登川駅よりお車で約１５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４６台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -380,7 +380,7 @@ export default function PetDogResortHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/149145/149145.jpg" alt="ＷＡＳＵＫＩ　ＢＡＳＥ　びわ湖　ＶＩＬＬＡ　ＳＴＹＬＥ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>泳げる琵琶湖まで徒歩5分・屋根付BBQサイトは持込BBQもOK・大人数大歓迎・ペットOK</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 滋賀県高島市マキノ町西浜87 ／ 最寄り駅：マキノ（滋賀） ／ 交通案内：マキノ駅より徒歩約15分、琵琶湖徒歩5分、メタセコイア並木車10分、京都方面：車約90分、名古屋方面：車約100分</p>
+                  <p><strong>【所在地・アクセス】</strong>滋賀県高島市マキノ町西浜87 ／ 最寄り駅：マキノ（滋賀） ／ 交通案内：マキノ駅より徒歩約15分、琵琶湖徒歩5分、メタセコイア並木車10分、京都方面：車約90分、名古屋方面：車約100分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有＞大コテージ3台無料、中コテージ2台無料、グランピング1台無料。追加：1台につき1200円/税込</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -402,7 +402,7 @@ export default function PetDogResortHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/183207/183207.jpg" alt="ＲＥＳＯＲＴ×ＳＰＡ　Ｆｕｔｕｒｅ　ＲＥＳＯＲＴ（旧：フューチャーリゾート） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>関西中部に近く、伊吹山を望む非日常の優雅な自然の中で、手軽にアウトドアを楽しめるグランピングリゾート</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 滋賀県長浜市名越町1016-4 ／ 最寄り駅：米原 ／ 交通案内：新幹線　・北陸本線　ＪＲ米原駅よりお車にて約１５分／北陸自動車道 長浜Ｉ．Ｃまたは米原Ｉ．Ｃから車で約１５分</p>
+                  <p><strong>【所在地・アクセス】</strong>滋賀県長浜市名越町1016-4 ／ 最寄り駅：米原 ／ 交通案内：新幹線　・北陸本線　ＪＲ米原駅よりお車にて約１５分／北陸自動車道 長浜Ｉ．Ｃまたは米原Ｉ．Ｃから車で約１５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２２台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

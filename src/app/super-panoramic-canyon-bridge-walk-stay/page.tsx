@@ -231,7 +231,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全5選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -674,11 +674,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：日本三大秘境のスリルと絶景！祖谷のかずら橋＆断崖ケーブルカー露天の秘境宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：日本三大秘境のスリルと絶景！祖谷のかずら橋＆断崖ケーブルカー露天の秘境宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：日本三大秘境のスリルと絶景！祖谷のかずら橋＆断崖ケーブルカー露天の秘境宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -716,7 +716,7 @@ export default function FeatureDetailPage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 薬師湯温泉　旅館　竹屋敷</td>
-                <td className="p-3 text-stone-600">群馬県</td>
+                <td className="p-3 text-stone-600">香川県さぬき市多和竹屋敷123-1</td>
                 <td className="p-3 text-stone-600">高松空港より車で約50分/高松自動車道さぬき志度ICより30分/徳島自</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.56（54件）</td>
@@ -760,7 +760,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8498/8498_ml.jpg" alt="南あわじ温泉郷　潮崎の湯　やぶ萬旅館　＜淡路島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>創業160年の老舗料理旅館！当館名物料理「鯛めん」＆美肌の湯【潮崎温泉】を堪能あれ◎</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県南あわじ市福良乙4 ／ 最寄り駅：三宮 ／ 交通案内：ＪＲ三宮駅またはＪＲ舞子駅より福良行きバス　終点より徒歩5分</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県南あわじ市福良乙4 ／ 最寄り駅：三宮 ／ 交通案内：ＪＲ三宮駅またはＪＲ舞子駅より福良行きバス　終点より徒歩5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -782,7 +782,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/14619/14619_heya.jpg" alt="白地温泉　小西旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>林芙美子ゆかりの宿。芙美子も愛した吉野川と山々を眺めながら、山の幸を温泉でのんびり癒しのひと時を</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 徳島県三好市池田町白地本名76-2 ／ 最寄り駅：阿波池田 ／ 交通案内：徳島自動車道　井川・池田ＩＣより高知方面へ5.8ｋｍ   大歩危祖谷観光やラフティングにも最適です。</p>
+                  <p><strong>【所在地・アクセス】</strong>徳島県三好市池田町白地本名76-2 ／ 最寄り駅：阿波池田 ／ 交通案内：徳島自動車道　井川・池田ＩＣより高知方面へ5.8ｋｍ   大歩危祖谷観光やラフティングにも最適です。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -803,12 +803,12 @@ export default function FeatureDetailPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/19409/19409.jpg" alt="薬師湯温泉　旅館　竹屋敷 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「日本三大秘境のスリルと絶景（祖谷のかずら橋＆断崖ケーブルカー露天の秘境宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：高松空港より車で約50分/高松自動車道さぬき志度ICより30分/徳島自動車道脇町ICより30分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>薬師湯温泉 旅館 竹屋敷（香川県さぬき市多和竹屋敷123-1）は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：高松空港より車で約50分/高松自動車道さぬき志度ICより30分/徳島自動車道脇町ICより30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「絶景のロケーションとおもてなしに心から癒やされました。」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「薬師湯温泉 旅館 竹屋敷での快適な滞在とアクセス面の良さに満足したという評価が寄せられています。」
                   </blockquote>
                 </div>
               </div>
@@ -826,7 +826,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/192038/192038.jpg" alt="料理旅館　ゆり野 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ゴッホのジャポニズムが織成す和モダンの空間〜ジャズミュージックが流れる『料理旅館　ゆり野』</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 徳島県那賀郡那賀町百合字松の木310-1 ／ 最寄り駅：新野（徳島） ／ 交通案内：車：国道195号線から細渕橋を入り看板を目印に道なりに進む。交差点を左に百合トンネルに入ると到着。</p>
+                  <p><strong>【所在地・アクセス】</strong>徳島県那賀郡那賀町百合字松の木310-1 ／ 最寄り駅：新野（徳島） ／ 交通案内：車：国道195号線から細渕橋を入り看板を目印に道なりに進む。交差点を左に百合トンネルに入ると到着。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.57 ／ 立地 ★4.33 ／ 部屋 ★4.4 ／ 設備 ★4 ／ 風呂 ★4.2 ／ 食事 ★4.6</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -848,7 +848,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9133/9133_war.jpg" alt="白浜温泉　家族とすごす白浜の宿　柳屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【ファミリーにおすすめ】源泉かけ流しで寛ぎの一日を。露天風呂付き客室や貸切風呂が自慢の家族とすごす宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県西牟婁郡白浜町1870 ／ 最寄り駅：白浜 ／ 交通案内：ＪＲ白浜駅：車で約１１分／南紀白浜空港：車で約７分／南紀白浜ＩＣ：車で約１5分／アドベンチャーワールド：車で約１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県西牟婁郡白浜町1870 ／ 最寄り駅：白浜 ／ 交通案内：ＪＲ白浜駅：車で約１１分／南紀白浜空港：車で約７分／南紀白浜ＩＣ：車で約１5分／アドベンチャーワールド：車で約１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">高知・四万十川＆沈下橋・足摺岬：日本最後の清流カヌー・天然うなぎ＆カツオ宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「高知・四万十川＆沈下橋・足摺岬：日本最後の清流カヌー・天然うなぎ＆カツオ宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「高知・四万十川＆沈下橋・足摺岬：日本最後の清流カヌー・天然うなぎ＆カツオ宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -314,7 +314,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8989/8989_sigl.jpg" alt="中村プリンスホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>四万十川のほとりに建ち、繁華街まで徒歩約５分、コンビニ目の前</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 高知県四万十市中村弥生町4-1 ／ 最寄り駅：中村 ／ 交通案内：中村駅より車で約５分(駅ご到着時,お電話頂きましたらタクシー《有料》をお呼び致します)</p>
+                  <p><strong>【所在地・アクセス】</strong>高知県四万十市中村弥生町4-1 ／ 最寄り駅：中村 ／ 交通案内：中村駅より車で約５分(駅ご到着時,お電話頂きましたらタクシー《有料》をお呼び致します)</p>
                   <p><strong>【駐車場・マイカー利用】</strong>ご宿泊者様は皆様駐車可能（場所は先着順・無料です。ご予約は承っておりません。ご了承下さいませ）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -336,7 +336,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/67099/67099_kr.jpg" alt="ゆのごう温泉　ホテル湯の杜（旧：ホテル湯の杜美春閣） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>様々な旅の目的にお応えできる本格和風旅館</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岡山県美作市中山1144 ／ 最寄り駅：林野 ／ 交通案内：ＪＲ姫新線　林野駅より車で１０分  中国自動車道　美作インターより車で15分</p>
+                  <p><strong>【所在地・アクセス】</strong>岡山県美作市中山1144 ／ 最寄り駅：林野 ／ 交通案内：ＪＲ姫新線　林野駅より車で１０分  中国自動車道　美作インターより車で15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.69 ／ 立地 ★4.46 ／ 部屋 ★4.6 ／ 設備 ★4.54 ／ 風呂 ★4.58 ／ 食事 ★4.74</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -358,7 +358,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/10838/10838_room.jpg" alt="新安並温泉　なごみ宿　安住庵 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>城山の山頂に建つ四万十の川と街を眼下に望む一軒宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 高知県四万十市中村1815為松公園頂上 ／ 最寄り駅：中村 ／ 交通案内：土佐くろしお鉄道中村駅下車　タクシーで約１０分（徒歩４０分） / 高知自動車道四万十町中央ICより国道５６号線で約６０分</p>
+                  <p><strong>【所在地・アクセス】</strong>高知県四万十市中村1815為松公園頂上 ／ 最寄り駅：中村 ／ 交通案内：土佐くろしお鉄道中村駅下車　タクシーで約１０分（徒歩４０分） / 高知自動車道四万十町中央ICより国道５６号線で約６０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -380,7 +380,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/10680/10680_war.jpg" alt="土佐御苑(とさぎょえん) 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>プロが選ぶ日本のホテル旅館100選料理部門連続受賞中|高知駅徒歩5分の鰹料理とおもてなしの宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 高知県高知市大川筋1-4-8 ／ 最寄り駅：高知 ／ 交通案内：高知ICよりお車で１０分　高知駅より徒歩５分　高知空港よりお車で３０分</p>
+                  <p><strong>【所在地・アクセス】</strong>高知県高知市大川筋1-4-8 ／ 最寄り駅：高知 ／ 交通案内：高知ICよりお車で１０分　高知駅より徒歩５分　高知空港よりお車で３０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>駐車料金：普通車1100円・二輪800円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -402,7 +402,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8329/8329_room.jpg" alt="あしずり温泉郷　足摺国際ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>四国最南端、あしずり温泉郷にあって果てしなく広がる真っ青な大空と紺碧の太平洋がお出迎え致します。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 高知県土佐清水市足摺岬662 ／ 最寄り駅：主要駅 ／ 交通案内：高知自動車道四万十町中央ICより国道56号線経由で140分／土佐くろしお鉄道中村駅よりバス100分、タクシー60分</p>
+                  <p><strong>【所在地・アクセス】</strong>高知県土佐清水市足摺岬662 ／ 交通案内：高知自動車道四万十町中央ICより国道56号線経由で140分／土佐くろしお鉄道中村駅よりバス100分、タクシー60分</p>
                   <p>【高知・四万十川＆沈下橋・足摺岬：日本最後の清流カヌー】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

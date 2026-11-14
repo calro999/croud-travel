@@ -77,7 +77,7 @@ export default function ArticlePage() {
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.13 更新</time>
           <span>執筆：旅宿クラウド ひとり旅・出張調査班</span>
-          <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式API提携</span>
+          <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">編集部が厳選</span>
         </div>
 
         {/* リード文 */}
@@ -89,7 +89,7 @@ export default function ArticlePage() {
             開港都市としてのモダンな西洋建築、赤レンガ倉庫、そして津軽海峡に点々と広がる幻想的なイカ釣り船の漁火（いさりび）。函館は日本で最もロマンチックな港町の情緒と、空港至近の名湯・湯の川温泉を併せ持つ一人旅の理想郷です。
           </p>
           <p>
-            湯蔵をイメージした圧倒的なデザイン風呂を備えるモダンリゾートから、静寂に包まれた本格純和風旅館まで、楽天トラベル公式APIより直接取得した最新スペック（客室・温泉・料金）をもとに厳選紹介します。
+            湯蔵をイメージした圧倒的なデザイン風呂を備えるモダンリゾートから、静寂に包まれた本格純和風旅館まで、宿泊施設の詳細スペック・設備情報（客室・温泉・料金）をもとに厳選紹介します。
           </p>
         </div>
       </header>
@@ -345,7 +345,7 @@ export default function ArticlePage() {
           <p className="text-sm text-amber-100 mb-6 max-w-2xl mx-auto">平日限定の一人旅割引や、早期割・直前割など、楽天トラベルならではの特典プランが多数用意されています。人気日程は早めの予約がおすすめです。
           </p>
           <a
-            href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2F"
+            href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fsearch.travel.rakuten.co.jp%2Fds%2Fundated%2Fsearch%3Ff_query%3D%25E5%258C%2597%25E6%25B5%25B7%25E9%2581%2593"
             target="_blank"
             rel="sponsored noopener noreferrer"
             className="inline-flex items-center justify-center bg-white text-amber-900 font-bold px-8 py-3 rounded-xl shadow-lg hover:bg-amber-50 transition transform hover:-translate-y-0.5 text-sm sm:text-base"

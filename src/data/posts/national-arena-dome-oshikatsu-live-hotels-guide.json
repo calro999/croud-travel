@@ -10,7 +10,7 @@
     "https://img.travel.rakuten.co.jp/share/HOTEL/184792/184792.jpg",
     "https://img.travel.rakuten.co.jp/share/HOTEL/161189/161189.jpg"
   ],
-  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2F",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D195932%26f_flg%3DPLAN",
   "prefecture": "全国",
   "area": "全国主要都市",
   "categories": [
@@ -49,16 +49,64 @@
   "is_special_feature": true,
   "featured_hotels": [
     {
-      "name": "座席はどこでしたか？スタンド席・天井席でも推しの表情を肉眼レベルで捉える神アイテム",
+      "name": "アパホテル〈水道橋駅前〉",
       "rating": "4.35",
       "price": "¥7,290〜",
       "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D195932%26f_flg%3DPLAN"
     },
     {
-      "name": "KアリーナのLEVEL7やドームの天井席で「推しを見失わない」ための双眼鏡選び",
+      "name": "東急ステイ水道橋",
+      "rating": "4.32",
+      "price": "¥7,298〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D67160%26f_flg%3DPLAN"
+    },
+    {
+      "name": "ＰＩＣＮＩＣ ＨＯＳＴＥＬ ＯＳＡＫＡ （ピクニックホステル大阪）",
+      "rating": "4.3",
+      "price": "空室プラン確認",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D160772%26f_flg%3DPLAN"
+    },
+    {
+      "name": "東横ＩＮＮ大阪弁天町",
+      "rating": "4.22",
+      "price": "¥5,408〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D187090%26f_flg%3DPLAN"
+    },
+    {
+      "name": "横浜平和プラザホテル",
+      "rating": "4.03",
+      "price": "¥3,839〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D11195%26f_flg%3DPLAN"
+    },
+    {
+      "name": "横浜桜木町ワシントンホテル",
+      "rating": "4.20",
+      "price": "¥5,650〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D5242%26f_flg%3DPLAN"
+    },
+    {
+      "name": "アパホテル〈さいたま新都心駅西〉（２０２６年６月ＯＰＥＮ）",
       "rating": "4.41",
       "price": "¥4,680〜",
       "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D198830%26f_flg%3DPLAN"
+    },
+    {
+      "name": "マロウドイン大宮",
+      "rating": "3.79",
+      "price": "¥5,250〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D1814%26f_flg%3DPLAN"
+    },
+    {
+      "name": "ワシントンＲ＆Ｂホテル名古屋栄東",
+      "rating": "4.09",
+      "price": "¥4,500〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D18171%26f_flg%3DPLAN"
+    },
+    {
+      "name": "ホテル メルパルク名古屋",
+      "rating": "4.10",
+      "price": "¥6,800〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D10897%26f_flg%3DPLAN"
     }
   ]
 }

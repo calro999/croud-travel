@@ -310,37 +310,6 @@ export default function Page() {
           </div>
         </section>
 
-        {/* よくある質問 FAQ */}
-        <section className="mb-16 bg-white rounded-2xl shadow-sm border border-emerald-900/10 p-6 md:p-8">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">よくある質問・サウナリゾートの楽しみ方</h2>
-          <div className="space-y-4">
-            
-            <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-emerald-700 font-serif font-black text-lg">Q.</span>
-                <span>バレルサウナとはどのような特徴がありますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
-                樽型（バレル）の形状により角がないため、発生したロウリュの熱気・蒸気が部屋全体を円滑に循環し、温度ムラが少なく全身を均一に温めることができます。木の香りと温もりをダイレクトに味わえるのも大きな魅力です。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-emerald-700 font-serif font-black text-lg">Q.</span>
-                <span>水着の着用は必要ですか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
-                男女共用の屋外バレルサウナや湖畔テントサウナの場合、水着やサウナポンチョ・サウナハットの着用が必要な施設が一般的です。客室専用や貸切サウナの場合は施設ごとの規定をご確認ください。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-emerald-700 font-serif font-black text-lg">Q.</span>
-                <span>サウナ初心者でも薪ストーブサウナを楽しめますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
-                スタッフが薪のくべ方やロウリュのコツを丁寧にレクチャーしてくれる施設が多く、初心者でも安心して楽しめます。電気ストーブにはない柔らかな輻射熱は息苦しさが少なく、初心者の方にも心地よく過ごせます。
-              </p>
-            </div>
-          </div>
-        </section>
-
         {/* 関連リンク */}
         <section className="bg-stone-200/70 rounded-2xl p-6 md:p-8 text-center border border-stone-300">
           <h3 className="text-xl font-bold text-stone-900 mb-3 font-serif">他のサウナ＆ウェルネス・癒しの宿を探す</h3>
@@ -484,10 +453,10 @@ export default function Page() {
                 山梨県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/yamagata/"
+                href="/prefectures/hokkaido/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                山形県の宿・温泉
+                北海道の宿・温泉
               </Link>
               <Link
                 href="/prefectures/wakayama/"

@@ -577,10 +577,10 @@ export default function FurusatoArticlePage() {
                 青森県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/yamagata/"
+                href="/prefectures/hiroshima/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                山形県の宿・温泉
+                広島県の宿・温泉
               </Link>
               <Link
                 href="/prefectures/shiga/"

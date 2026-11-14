@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">沖縄・宮古島＆伊良部島・来間島：宮古ブルー・与那覇前浜＆伊良部大橋・宮古牛宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「沖縄・宮古島＆伊良部島・来間島：宮古ブルー・与那覇前浜＆伊良部大橋・宮古牛宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「沖縄・宮古島＆伊良部島・来間島：宮古ブルー・与那覇前浜＆伊良部大橋・宮古牛宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/183727/183727.jpg" alt="グレースヴィラ宮古島＜宮古島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【1日限定2組】最大8名まで宿泊できる1棟貸切ヴィラホテル。BBQ設備やジャグジーもございます</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県宮古島市下地字嘉手苅283-5 ／ 最寄り駅：宮古空港 ／ 交通案内：宮古空港より車で約13分、下地島空港より車で約30分</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県宮古島市下地字嘉手苅283-5 ／ 最寄り駅：宮古空港 ／ 交通案内：宮古空港より車で約13分、下地島空港より車で約30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　10台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/147595/147595_room.jpg" alt="下地島コーラルホテル　＜伊良部島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★宮古空港から「伊良部大橋」を渡って車で30分♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県宮古島市伊良部国仲925-1 ／ 最寄り駅：主要駅 ／ 交通案内：宮古島空港から車で30分</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県宮古島市伊良部国仲925-1 ／ 交通案内：宮古島空港から車で30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/183958/183958.jpg" alt="ＨＯＴＥＬ　Ｋｕｕ＜伊良部島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>エメラルドグリーンに輝く青い海に囲まれた伊良部島に「2022年2月新築オープン♪」</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県【本館】宮古島市伊良部前里添594-2　【Sarahama別館】宮古島市伊良部前里添1708-2 ／ 最寄り駅：宮古空港 ／ 交通案内：下地島空港よりお車にて約10分、宮古島空港よりお車にて約30分　マップコード721 309 689*76</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県【本館】宮古島市伊良部前里添594-2　【Sarahama別館】宮古島市伊良部前里添1708-2 ／ 最寄り駅：宮古空港 ／ 交通案内：下地島空港よりお車にて約10分、宮古島空港よりお車にて約30分　マップコード721 309 689*76</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　本館24台、 別館10台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/130627/130627_room.jpg" alt="ホテル　サウス　アイランド　＜伊良部島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>宮古島空港から車で30分。徒歩10分の静かなビーチに新鮮な海鮮、沖縄島暮らしを愉しむ伊良部島滞在。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県宮古島市伊良部町伊良部1493-1 ／ 最寄り駅：主要駅 ／ 交通案内：宮古空港から車で25分♪下地島空港から車で10分♪</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県宮古島市伊良部町伊良部1493-1 ／ 交通案内：宮古空港から車で25分♪下地島空港から車で10分♪</p>
                   <p><strong>【駐車場・マイカー利用】</strong>★有り★　約10台無料　予約不要！</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/184118/184118.jpg" alt="ウォーターマークホテル沖縄　宮古島＜伊良部島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>日本の渚100選に選ばれた美しいビーチで、夕陽の名所ホテルより青い海も、夕陽も一望できます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県宮古島市伊良部佐和田前原1725 ／ 最寄り駅：宮古空港 ／ 交通案内：宮古島空港より車で約35分、みやこ下地島空港より車で約5分</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県宮古島市伊良部佐和田前原1725 ／ 最寄り駅：宮古空港 ／ 交通案内：宮古島空港より車で約35分、みやこ下地島空港より車で約5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　1室につき1台無料　（予約不要）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.57 ／ 部屋 ★4.42 ／ 設備 ★4.26 ／ 風呂 ★4.39 ／ 食事 ★4.48</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/171984/171984_kan1.jpg" alt="ｔｈｅ　ｒｅｓｃａｐｅ（ザ・リスケープ）＜宮古島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【特別な島体験】プライベートハイダウェイの贅沢、時間を五感で感じるザ・リスケープ</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県宮古島市城辺長間1901-1 ／ 最寄り駅：宮古空港 ／ 交通案内：宮古空港よりお車にて約１５分｜下地島空港から車で45分</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県宮古島市城辺長間1901-1 ／ 最寄り駅：宮古空港 ／ 交通案内：宮古空港よりお車にて約１５分｜下地島空港から車で45分</p>
                   <p>【沖縄・宮古島＆伊良部島・来間島：宮古ブルー・与那覇前】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

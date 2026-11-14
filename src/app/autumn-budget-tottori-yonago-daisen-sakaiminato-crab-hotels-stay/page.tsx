@@ -285,11 +285,11 @@ export default function AutumnBudgetYonagoHotelsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">米子：国立公園大山の紅葉ドライブ拠点＆境港紅ずわいがに！1,000円台〜ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「米子：国立公園大山の紅葉ドライブ拠点＆境港紅ずわいがに！1,000円台〜ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「米子：国立公園大山の紅葉ドライブ拠点＆境港紅ずわいがに！1,000円台〜ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -371,7 +371,7 @@ export default function AutumnBudgetYonagoHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/19434/19434_fro.jpg" alt="ホテル真田 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>低料金。無料朝食サービス。無料インターネツト（無線LAN）客室内装備。米子駅前徒歩３分。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鳥取県米子市明治町197 ／ 最寄り駅：米子 ／ 交通案内：JR米子駅より徒歩3分の好立地です♪　米子自動車道 米子ICより車で1０分♪　米子空港よりバス電車で１５分♪</p>
+                  <p><strong>【所在地・アクセス】</strong>鳥取県米子市明治町197 ／ 最寄り駅：米子 ／ 交通案内：JR米子駅より徒歩3分の好立地です♪　米子自動車道 米子ICより車で1０分♪　米子空港よりバス電車で１５分♪</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　60台　￥480／泊（税込み）　全てのお客様の駐車台数有ります。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.35 ／ 立地 ★4.26 ／ 部屋 ★4.1 ／ 設備 ★4.01 ／ 風呂 ★3.96 ／ 食事 ★4.1</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -393,7 +393,7 @@ export default function AutumnBudgetYonagoHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/814/814_sgl.jpg" alt="ホテルハーベストイン米子 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ＪＲ米子駅の隣に建つヨーロッパ調の外観。ＪＲ米子駅・バスターミナルから徒歩１分とアクセス環境も抜群。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鳥取県米子市弥生町8-27 ／ 最寄り駅：米子 ／ 交通案内：米子駅/バスターミナルより徒歩1分。米子空港よりシャトルバスにて２５分。　米子道米子ＩＣより車で１０分。</p>
+                  <p><strong>【所在地・アクセス】</strong>鳥取県米子市弥生町8-27 ／ 最寄り駅：米子 ／ 交通案内：米子駅/バスターミナルより徒歩1分。米子空港よりシャトルバスにて２５分。　米子道米子ＩＣより車で１０分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>契約40台【有料1台800円/泊】隣接：弥生町有料駐車場・日本交通立体駐車場　満車時近隣案内</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.07 ／ 立地 ★4.12 ／ 部屋 ★4.01 ／ 設備 ★3.93 ／ 風呂 ★3.92</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -415,7 +415,7 @@ export default function AutumnBudgetYonagoHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/104681/104681_kya.jpg" alt="スーパーホテル米子駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ＪＲ米子駅より徒歩2分！焼き立てパンと和洋朝食ビュッフェ無料・天然温泉完備（男女入替制）♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鳥取県米子市万能町112番地 ／ 最寄り駅：米子 ／ 交通案内：JR米子駅より徒歩2分／米子空港より空港の有料シャトルバスで30分／コンベンションセンターまで徒歩５分</p>
+                  <p><strong>【所在地・アクセス】</strong>鳥取県米子市万能町112番地 ／ 最寄り駅：米子 ／ 交通案内：JR米子駅より徒歩2分／米子空港より空港の有料シャトルバスで30分／コンベンションセンターまで徒歩５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場３０台（予約不可の先着順）。１泊５００円（税込み）高さ制限2ｍ。途中入出庫不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.11 ／ 立地 ★4.07 ／ 部屋 ★4.07 ／ 設備 ★4.04 ／ 風呂 ★3.91 ／ 食事 ★4.04</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -437,7 +437,7 @@ export default function AutumnBudgetYonagoHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/177821/177821.jpg" alt="グリーンリッチホテル米子駅前　人工温泉・二股湯の華 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ＪＲ米子駅北口徒歩３分■男女別大浴場完備■米子コンベンションセンター・ビッグシップまで徒歩5分■</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鳥取県米子市明治町175 ／ 最寄り駅：米子 ／ 交通案内：ＪＲ米子駅北口より徒歩にて約３分／山陰道　米子中ＩＣよりお車にて約４分／米子鬼太郎空港より空港リムジンバスにて約２５分</p>
+                  <p><strong>【所在地・アクセス】</strong>鳥取県米子市明治町175 ／ 最寄り駅：米子 ／ 交通案内：ＪＲ米子駅北口より徒歩にて約３分／山陰道　米子中ＩＣよりお車にて約４分／米子鬼太郎空港より空港リムジンバスにて約２５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２３台（1000円/1泊）　先着順　※満車の場合は、お近くの駐車場をご案内いたします。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -459,7 +459,7 @@ export default function AutumnBudgetYonagoHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/19478/19478_kya.jpg" alt="米子ニューアーバンホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【米子城を望む下町ホテル】広めのお部屋でゆったり滞在。周辺に繁華街。コンビニまで徒歩1分。無料駐車場</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鳥取県米子市中町28 ／ 最寄り駅：米子 ／ 交通案内：JR米子駅より徒歩約15分・車で約3分・定期バスで約4分「市役所前」下車／米子鬼太郎空港より米子駅行きバス　市役所前下車</p>
+                  <p><strong>【所在地・アクセス】</strong>鳥取県米子市中町28 ／ 最寄り駅：米子 ／ 交通案内：JR米子駅より徒歩約15分・車で約3分・定期バスで約4分「市役所前」下車／米子鬼太郎空港より米子駅行きバス　市役所前下車</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料　20台完備　予約不可　 敷地内満車時は、別途無料契約駐車をご案内いたします(徒歩1分)</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.26 ／ 立地 ★4.12 ／ 部屋 ★4.07 ／ 設備 ★3.99 ／ 風呂 ★4.01 ／ 食事 ★4.41</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

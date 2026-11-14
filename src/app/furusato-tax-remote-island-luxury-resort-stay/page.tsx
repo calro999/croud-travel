@@ -395,37 +395,6 @@ export default function Page() {
           </div>
         </section>
 
-        {/* よくある質問 FAQ */}
-        <section className="mb-16 bg-white rounded-3xl shadow-sm border border-stone-200/80 p-6 md:p-10">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">よくある質問・ふるさと納税トラベルクーポンの疑問を解消</h2>
-          <div className="space-y-4">
-            
-            <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>離島への飛行機代やフェリー代もクーポンで割引できますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
-                楽天トラベルの「JAL楽パック」「ANA楽パック」などの航空券付き宿泊パックプランであれば、航空券と宿泊を合わせた総額に対してふるさと納税クーポンが適用可能です（パック対象プランに限る）。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>屋久島や奄美でのネイチャーガイドツアーの手配はどうすればいいですか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
-                多くのリゾートホテルでは、提携しているプロの公認ガイドによるトレッキングツアーやカヤック体験の事前予約代行を行っています。初心者でも体力に合わせたコースを提案してもらえるため、宿泊予約時に宿へ相談するのがおすすめです。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>レンタカーは島で手配したほうがいいですか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
-                屋久島や奄美大島、石垣島は周囲が広く見どころが点在しているため、レンタカーの利用が非常に便利です。繁忙期は現地のレンタカーが満車になりやすいため、航空券・宿の予約と同時にレンタカーも確保しておくのが鉄則です。
-              </p>
-            </div>
-          </div>
-        </section>
-
         {/* 相互回遊リンク */}
         <section className="bg-stone-200/80 rounded-3xl p-6 md:p-10 border border-stone-300">
           <div className="text-center max-w-2xl mx-auto mb-8">

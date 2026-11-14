@@ -77,7 +77,7 @@ export default function ArticlePage() {
             山梨・富士河口湖温泉ひとり旅＆富士山絶景おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「富士山麓・富士河口湖温泉ひとり旅・富士絶景おこもり」屋上展望足湯・富士ビュー露天風呂・甲州牛懐石！新宿特急直通の絶景リトリート厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               古くから富士講の参詣道や文人墨客の静養地として愛されてきた富士河口湖温泉。富士山の地下深くから湧出するミネラル豊富な温泉は、神経痛や冷え性を和らげ、肌をすべすべに整えます。湖面に映る神秘的な「逆さ富士」や、夕日に染まる赤富士を温泉露天風呂から一人静かに眺める体験は、まさに一生の思い出に残る贅沢です。
             </p>
             <p>
-              客室や足湯からダイナミックな富士山を望むハイグレード旅館から、洗練されたモダン空間で心地よい時間を過ごせるデザインホテルまで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              客室や足湯からダイナミックな富士山を望むハイグレード旅館から、洗練されたモダン空間で心地よい時間を過ごせるデザインホテルまで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -421,11 +421,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">富士山麓・富士河口湖温泉ひとり旅・富士絶景おこもり：屋上展望足湯・富士ビュー露天風呂・甲州牛懐石！新宿特急直通の絶景リトリート厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「富士山麓・富士河口湖温泉ひとり旅・富士絶景おこもり：屋上展望足湯・富士ビュー露天風呂・甲州牛懐石！新宿特急直通の絶景リトリート厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「富士山麓・富士河口湖温泉ひとり旅・富士絶景おこもり：屋上展望足湯・富士ビュー露天風呂・甲州牛懐石！新宿特急直通の絶景リトリート厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -507,7 +507,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31111/31111_h1.jpg" alt="富士河口湖温泉　湖南荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>富士山が見える大浴場＆展望足湯。富士山側と河口湖側の露天風呂付や豊富な部屋タイプ。ご夕食はお部屋で。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県南都留郡富士河口湖町船津4020 ／ 最寄り駅：河口湖 ／ 交通案内：私鉄富士急行線　河口湖駅／中央自動車道　河口湖ＩＣより約４ｋｍ</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県南都留郡富士河口湖町船津4020 ／ 最寄り駅：河口湖 ／ 交通案内：私鉄富士急行線　河口湖駅／中央自動車道　河口湖ＩＣより約４ｋｍ</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　4０台　無料　県営駐車場</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -529,7 +529,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/61663/61663_si.jpg" alt="富士河口湖温泉　若草の宿　丸栄 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>夕食は　お部屋食　または　個室食事処　★チェックアウト11時の「ゆったりステイ」</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県南都留郡富士河口湖町小立498 ／ 最寄り駅：河口湖 ／ 交通案内：【電車・バス】河口湖駅より送迎有15～17時駅到着後要連絡【車】中央道河口湖ＩＣより10分／東名高速御殿場ＩＣより40分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県南都留郡富士河口湖町小立498 ／ 最寄り駅：河口湖 ／ 交通案内：【電車・バス】河口湖駅より送迎有15～17時駅到着後要連絡【車】中央道河口湖ＩＣより10分／東名高速御殿場ＩＣより40分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>専用駐車場有り　１００台／全て屋外　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -551,7 +551,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1779/1779_sgl.jpg" alt="ホテルルートイン高崎駅西口 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>朝食バイキング無料！！大浴場完備♪全室空気清浄機＆加湿器完備＆全館無料ｗｉｆｉ完備！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県高崎市旭町128-4 ／ 最寄り駅：高崎 ／ 交通案内：上越新幹線高崎駅から徒歩で10分 高崎インターより車で約15分</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県高崎市旭町128-4 ／ 最寄り駅：高崎 ／ 交通案内：上越新幹線高崎駅から徒歩で10分 高崎インターより車で約15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り:無料　ただし、大型車(２Tトラック以上、またはレントゲン車、積載車)は有料となります。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.56 ／ 立地 ★3.33 ／ 部屋 ★3.42 ／ 設備 ★3.34 ／ 風呂 ★3.52 ／ 食事 ★3.51</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -573,7 +573,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1981/1981_meal1.jpg" alt="猿ヶ京温泉　猿ヶ京ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>天然温泉豊富な大浴場、自然に囲まれた露天風呂と貸切風呂。夕食は和食膳とハーフバイキング。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県利根郡みなかみ町猿ヶ京温泉1171 ／ 最寄り駅：上毛高原 ／ 交通案内：【車】関越道月夜野IC～Ｒ17を新潟方面に約20分【電車】上越新幹線上毛高原駅～猿ケ京行きバスで35分※送迎有要問合</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県利根郡みなかみ町猿ヶ京温泉1171 ／ 最寄り駅：上毛高原 ／ 交通案内：【車】関越道月夜野IC～Ｒ17を新潟方面に約20分【電車】上越新幹線上毛高原駅～猿ケ京行きバスで35分※送迎有要問合</p>
                   <p><strong>【駐車場・マイカー利用】</strong>70台、無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.36 ／ 立地 ★4.13 ／ 部屋 ★4.1 ／ 設備 ★3.92 ／ 風呂 ★4.19 ／ 食事 ★4.36</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -595,7 +595,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2370/2370_heya.jpg" alt="水上温泉郷　湯檜曽温泉　天空の湯　なかや旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>4万組以上のママパパに選ばれた赤ちゃんファーストの温泉宿★安心の設備でママもほっと一息できる癒し時間</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県利根郡みなかみ町湯桧曽93 ／ 最寄り駅：上毛高原 ／ 交通案内：車：水上ICから約15分　車以外：上越線ゆびそ駅より徒歩5分、又は水上駅よりバス・タクシーで約10分</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県利根郡みなかみ町湯桧曽93 ／ 最寄り駅：上毛高原 ／ 交通案内：車：水上ICから約15分　車以外：上越線ゆびそ駅より徒歩5分、又は水上駅よりバス・タクシーで約10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　16台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.84 ／ 立地 ★4.6 ／ 部屋 ★4.62 ／ 設備 ★4.65 ／ 風呂 ★4.77 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

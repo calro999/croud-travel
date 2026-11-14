@@ -77,7 +77,7 @@ export default function ArticlePage() {
             新潟・越後湯沢温泉ひとり旅＆雪国文学湯治おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「新潟・越後湯沢温泉ひとり旅・川端康成『雪国』の文学湯治おこもり」新幹線直結・谷川連峰一望の露天風呂・魚沼産コシヒカリ会席！白銀の温泉郷厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               東京駅から上越新幹線で1本、改札を出れば駅ナカ「ぽんしゅ館」で新潟全蔵元の地酒利き酒体験が迎えてくれる越後湯沢。古くは平安時代から続く歴史ある温泉は、肌に優しくさらりとした無色透明の単純温泉。冬は銀世界の山々、春から秋は眩しい新緑と黄金色の稲穂を眺めながら、文豪たちが愛した静寂の空間で心身を解きほぐせます。
             </p>
             <p>
-              上質なホスピタリティが光る和風旅館から、谷川連峰の絶景を見下ろす展望露天の宿まで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              上質なホスピタリティが光る和風旅館から、谷川連峰の絶景を見下ろす展望露天の宿まで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -420,11 +420,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">新潟・越後湯沢温泉ひとり旅・川端康成『雪国』の文学湯治おこもり：新幹線直結・谷川連峰一望の露天風呂・魚沼産コシヒカリ会席！白銀の温泉郷厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「新潟・越後湯沢温泉ひとり旅・川端康成『雪国』の文学湯治おこもり：新幹線直結・谷川連峰一望の露天風呂・魚沼産コシヒカリ会席！白銀の温泉郷厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「新潟・越後湯沢温泉ひとり旅・川端康成『雪国』の文学湯治おこもり：新幹線直結・谷川連峰一望の露天風呂・魚沼産コシヒカリ会席！白銀の温泉郷厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -488,7 +488,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/28757/28757_lg.jpg" alt="越後湯沢温泉　一望千里　御湯宿　中屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【温泉口コミ4.68】源泉かけ流し露天風呂の眺望は絶景。人気の露天風呂付客室で季節の旬の味を堪能！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県南魚沼郡湯沢町湯沢924 ／ 最寄り駅：越後湯沢 ／ 交通案内：越後湯沢駅西口よりお車で約3分・徒歩約20分／湯沢IC→国道17号線約10分　★駅から送迎あり（要連絡20時迄）</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県南魚沼郡湯沢町湯沢924 ／ 最寄り駅：越後湯沢 ／ 交通案内：越後湯沢駅西口よりお車で約3分・徒歩約20分／湯沢IC→国道17号線約10分　★駅から送迎あり（要連絡20時迄）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　無料　冬期は関越道のチェーン規制がございます。予めご注意ください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.3 ／ 部屋 ★4.36 ／ 設備 ★4.22 ／ 風呂 ★4.56 ／ 食事 ★4.38</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -510,7 +510,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/40019/40019_gr.jpg" alt="越後湯沢温泉　松泉閣花月 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「お帰りなさいませ「｢いってらっしゃいませ」が花月の合言葉　故郷に帰ってきたようにお過ごしください</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県南魚沼郡湯沢町湯沢318-5 ／ 最寄り駅：越後湯沢 ／ 交通案内：越後湯沢駅から徒歩約５分。越後湯沢駅への送迎も可能です。（要事前連絡）・お車で湯沢IC～１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県南魚沼郡湯沢町湯沢318-5 ／ 最寄り駅：越後湯沢 ／ 交通案内：越後湯沢駅から徒歩約５分。越後湯沢駅への送迎も可能です。（要事前連絡）・お車で湯沢IC～１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１４台　無料　※鍵をフロントでお預かり致します</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.82 ／ 立地 ★4.57 ／ 部屋 ★4.52 ／ 設備 ★4.53 ／ 風呂 ★4.61 ／ 食事 ★4.61</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -532,7 +532,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/52880/52880_ky.jpg" alt="越後湯沢温泉　湯沢東映ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【クチコミ高評価の温泉宿】 上越最大級の露天大岩風呂が自慢、料理が美味しいクチコミ人気宿も受賞♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県南魚沼郡湯沢町湯沢3459 ／ 最寄り駅：越後湯沢 ／ 交通案内：JR越後湯沢駅西口より徒歩8分。関越自動車道・越後湯沢ICより約5分。越後湯沢駅西口・高速バス乗り場の無料送迎有。</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県南魚沼郡湯沢町湯沢3459 ／ 最寄り駅：越後湯沢 ／ 交通案内：JR越後湯沢駅西口より徒歩8分。関越自動車道・越後湯沢ICより約5分。越後湯沢駅西口・高速バス乗り場の無料送迎有。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>第1～第4駐車場まで82台駐車可能　（無料・予約不要）。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

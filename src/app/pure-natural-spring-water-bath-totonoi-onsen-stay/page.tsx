@@ -310,37 +310,6 @@ export default function Page() {
           </div>
         </section>
 
-        {/* よくある質問 FAQ */}
-        <section className="mb-16 bg-white rounded-2xl shadow-sm border border-emerald-900/10 p-6 md:p-8">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">よくある質問・サウナリゾートの楽しみ方</h2>
-          <div className="space-y-4">
-            
-            <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-emerald-700 font-serif font-black text-lg">Q.</span>
-                <span>天然水の水風呂は一般的な水道水の水風呂と何が違いますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
-                塩素（カルキ）による刺激や臭いが一切なく、ミネラルバランスに優れているため肌触りが非常に柔らかく滑らかです。「いつまでも入っていたくなる」「水に溶け込むような感覚」と表現されるほどの違いがあります。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-emerald-700 font-serif font-black text-lg">Q.</span>
-                <span>水温（水風呂の温度）はどのくらいですか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
-                地下水は年間を通じて14〜17度前後の安定した水温を保つ施設が多く、過度な冷たさを感じさせずにしっかりとクールダウンできます。一部施設では10度前後のシングル水温を楽しめる場合もあります。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-emerald-700 font-serif font-black text-lg">Q.</span>
-                <span>サウナ後の水分補給としてその天然水を飲むことはできますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
-                飲用許可を取得している施設では、水風呂の注ぎ口や専用給水所から汲みたての天然水をそのまま飲むことができます。体の中からピュアな名水で満たされる感動を味わえます。
-              </p>
-            </div>
-          </div>
-        </section>
-
         {/* 関連リンク */}
         <section className="bg-stone-200/70 rounded-2xl p-6 md:p-8 text-center border border-stone-300">
           <h3 className="text-xl font-bold text-stone-900 mb-3 font-serif">他のサウナ＆ウェルネス・癒しの宿を探す</h3>

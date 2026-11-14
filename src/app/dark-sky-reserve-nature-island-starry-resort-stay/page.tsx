@@ -228,11 +228,11 @@ export default function StargazingHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">国際星空保護区＆離島ネイチャーステイ：石垣島・西表島・神津島 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「国際星空保護区＆離島ネイチャーステイ：石垣島・西表島・神津島 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「国際星空保護区＆離島ネイチャーステイ：石垣島・西表島・神津島 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function StargazingHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/172112/172112_kan1.jpg" alt="ホテル星立　西表島＜西表島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>目の前に広がるコバルトブルーの海！満点の星空、雄大なサンセットに感動！嬉しい朝食無料サービス♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県八重山郡竹富町西表949 ／ 最寄り駅：石垣空港 ／ 交通案内：石垣島の「離島ターミナル」から上原港まで約50分、上原港からバスで約20分</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県八重山郡竹富町西表949 ／ 最寄り駅：石垣空港 ／ 交通案内：石垣島の「離島ターミナル」から上原港まで約50分、上原港からバスで約20分</p>
                   <p>【国際星空保護区＆離島ネイチャーステイ：石垣島・西表島】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function StargazingHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/13633/13633_room.jpg" alt="石垣島ビーチホテルサンシャイン＜石垣島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>海・空・星・風－素朴な贅沢をあなたに。島内唯一の展望露天風呂や海辺のレストランで癒しのひとときを。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県石垣市新川2484 ／ 最寄り駅：石垣空港 ／ 交通案内：新石垣空港からタクシーで約30分（約4,500円）離島ターミナル（石垣港）からバスまたはタクシーで約12分の好立地</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県石垣市新川2484 ／ 最寄り駅：石垣空港 ／ 交通案内：新石垣空港からタクシーで約30分（約4,500円）離島ターミナル（石垣港）からバスまたはタクシーで約12分の好立地</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（70台）　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function StargazingHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/149092/149092.jpg" alt="ホテルエメラルドアイル石垣島　＜石垣島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>朝食口コミ4.6獲得★手作りおむすびは自慢の味。「八重山諸島の玄関口」離島ターミナルまで徒歩約1分！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県石垣市美崎町7-14 ／ 最寄り駅：石垣空港 ／ 交通案内：石垣バスターミナルより徒歩にて約４分 ! 離島ターミナルへは徒歩1分の好立地！！</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県石垣市美崎町7-14 ／ 最寄り駅：石垣空港 ／ 交通案内：石垣バスターミナルより徒歩にて約４分 ! 離島ターミナルへは徒歩1分の好立地！！</p>
                   <p><strong>【駐車場・マイカー利用】</strong>当ホテルに駐車場のご用意はございませんので、近隣の有料コインパーキングをご利用下さいませ。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function StargazingHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/28513/28513_t.jpg" alt="ホテルイーストチャイナシー　＜石垣島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>客室・テラスから眺めるジオパーク。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県石垣市美崎町2-8 ／ 最寄り駅：石垣空港 ／ 交通案内：石垣空港より路線バスで約40分「離島ターミナル」下車徒歩3分。お車で約30分。離島アクセスや街歩きに便利な好立地です。</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県石垣市美崎町2-8 ／ 最寄り駅：石垣空港 ／ 交通案内：石垣空港より路線バスで約40分「離島ターミナル」下車徒歩3分。お車で約30分。離島アクセスや街歩きに便利な好立地です。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場はございません。ホテルの隣に市営の駐車場がございます。(1時間100円、夜間1時間50円)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function StargazingHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/172885/172885.jpg" alt="神津島　民宿　菊乃屋＜神津島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★　海・山・星　★　あなたの旅をコーディネート♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 東京都神津島村377 ／ 最寄り駅：神津島空港 ／ 交通案内：神津島港から車で約7分または神津島空港から車で約15分（送迎可）</p>
+                  <p><strong>【所在地・アクセス】</strong>東京都神津島村377 ／ 最寄り駅：神津島空港 ／ 交通案内：神津島港から車で約7分または神津島空港から車で約15分（送迎可）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料　要予約</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function StargazingHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/38770/38770_he.jpg" alt="山下別館　＜神津島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>☆美しい星空の島☆「神津島唯一の温泉旅館」で絶品料理を楽しむ！大浴場から夕日が見えます。(時期限定)</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 東京都神津島村2番地 ／ 最寄り駅：神津島前浜港 ／ 交通案内：神津島港より徒歩７分（送迎有り）。　三浦港・神津島空港までの送迎も可能です。</p>
+                  <p><strong>【所在地・アクセス】</strong>東京都神津島村2番地 ／ 最寄り駅：神津島前浜港 ／ 交通案内：神津島港より徒歩７分（送迎有り）。　三浦港・神津島空港までの送迎も可能です。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り・無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

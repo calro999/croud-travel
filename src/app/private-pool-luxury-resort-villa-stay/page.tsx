@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/private-pool-luxury-resort-villa-stay/"
   };
 
@@ -186,6 +186,12 @@ export default function Page() {
           </p>
         </div>
 
+        <div className="pt-2">
+          <ShareButtons
+            title="誰にも邪魔されない極上の水辺！専用プライベートプール付き高級リゾートヴィラ"
+            url="https://croud-travel.pages.dev/private-pool-luxury-resort-villa-stay/"
+          />
+        </div>
         {/* クーポン特大バナー */}
         <SpecialCouponBanner />
 
@@ -303,11 +309,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">誰にも邪魔されない極上の水辺！専用プライベートプール付き高級リゾートヴィラ：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「誰にも邪魔されない極上の水辺！専用プライベートプール付き高級リゾートヴィラ」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「誰にも邪魔されない極上の水辺！専用プライベートプール付き高級リゾートヴィラ」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -371,7 +377,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/183834/183834.jpg" alt="プライベートプールヴィラもとぶ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【完全プライベートプール・サウナ付ヴィラ】家具家電キッチン完備♪美ら海水族館へ車で約5分♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県国頭郡本部町山川473-3 ／ 最寄り駅：那覇空港 ／ 交通案内：那覇空港から、沖縄自動車道を経由して約１００分</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県国頭郡本部町山川473-3 ／ 最寄り駅：那覇空港 ／ 交通案内：那覇空港から、沖縄自動車道を経由して約１００分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り/無料/予約不要＜デラックス：2台、エグゼクテイブ：3台＞</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -393,7 +399,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/38599/38599_kan.jpg" alt="フサキビーチリゾート　ホテル＆ヴィラズ　＜石垣島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【楽天トラベルアワード受賞】島内随一の天然ビーチとプールエリアで極上の休日を</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県石垣市新川1625番地 ／ 最寄り駅：石垣空港 ／ 交通案内：石垣空港より　車で約35分。石垣港より車で約15分。空港・ホテル間の無料送迎バスもございます。</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県石垣市新川1625番地 ／ 最寄り駅：石垣空港 ／ 交通案内：石垣空港より　車で約35分。石垣港より車で約15分。空港・ホテル間の無料送迎バスもございます。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（299台/先着順）：宿泊者無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -415,7 +421,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/176665/176665_kan1.jpg" alt="ジ・ウザテラス　ビーチクラブヴィラズ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全室プール付きのヴィラ。ご家族やパートナーと、まるで別荘にいるかのような休日をお過ごしください。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県中頭郡読谷村宇座630-1 ／ 最寄り駅：那覇空港 ／ 交通案内：那覇空港より車またはタクシー利用で国道58号線経由または、沖縄自動車道石川I.C.経由で約70分</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県中頭郡読谷村宇座630-1 ／ 最寄り駅：那覇空港 ／ 交通案内：那覇空港より車またはタクシー利用で国道58号線経由または、沖縄自動車道石川I.C.経由で約70分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有料 1台につき1泊￥2,000（税込み）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

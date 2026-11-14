@@ -235,7 +235,7 @@ export default function Page() {
         <section className="space-y-10">
           <div className="text-center space-y-2">
             <h2 className="text-2xl md:text-3xl font-bold text-slate-900">楽天ふるさと納税で泊まる名宿＆厳選ホテル</h2>
-            <p className="text-xs md:text-sm text-slate-500">楽天トラベル公式APIより最新の宿情報・写真・最低参考価格を取得しています
+            <p className="text-xs md:text-sm text-slate-500">宿泊施設データより最新の宿情報・写真・最低参考価格を取得しています
             </p>
           </div>
 
@@ -538,11 +538,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大そうめん＆手延べ極細麺の伝統技・名水と古都の湯宿×ふるさと納税厳選ガイド三輪・播州・小豆島：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本三大そうめん＆手延べ極細麺の伝統技・名水と古都の湯宿×ふるさと納税厳選ガイド三輪・播州・小豆島」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「日本三大そうめん＆手延べ極細麺の伝統技・名水と古都の湯宿×ふるさと納税厳選ガイド三輪・播州・小豆島」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -605,8 +605,8 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5407/5407_twn.jpg" alt="大和橿原シティホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「日本三大そうめん＆手延べ極細麺の伝統技・名水と古都の湯宿×ふるさと納税厳選ガイド三輪・播州・小豆島」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 奈良県橿原市八木町1-8-16 ／ 最寄り駅：大和八木 ／ 交通案内：★大和八木駅より徒歩４分★八木西口駅より徒歩３分★ＪＲ畝傍駅より徒歩４分★南阪奈道路葛城ICより約１５分★</p>
+                  <p><strong>【宿の特徴・魅力】</strong>橿原市の中央街で、ビジネス・観光のベースとして好適です。近鉄大和八木駅より徒歩４分。</p>
+                  <p><strong>【所在地・アクセス】</strong>奈良県橿原市八木町1-8-16 ／ 最寄り駅：大和八木 ／ 交通案内：★大和八木駅より徒歩４分★八木西口駅より徒歩３分★ＪＲ畝傍駅より徒歩４分★南阪奈道路葛城ICより約１５分★</p>
                   <p><strong>【駐車場・マイカー利用】</strong>１６台　無料　先着順　R２４『南八木』交差点東側　当館より徒歩２～３分　詳細はフロントにてご案内。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -628,7 +628,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/56745/56745_dt.jpg" alt="ＨＯＴＥＬ万葉岬 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>瀬戸内絶景パノラマ！瀬戸の山頂にひっそりと佇む癒しの宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県相生市相生金ケ崎5321 ／ 最寄り駅：相生（兵庫） ／ 交通案内：ＪＲ　相生駅より送迎有り（予約制）</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県相生市相生金ケ崎5321 ／ 最寄り駅：相生（兵庫） ／ 交通案内：ＪＲ　相生駅より送迎有り（予約制）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -650,7 +650,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/192875/192875.jpg" alt="アクアホテル小豆島リゾート＜小豆島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>小豆島北東の閑静なエリアに佇むオーシャンビューホテル！日常から離れた開放的空間で何もしない贅沢を♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 香川県小豆郡小豆島町吉田乙276-2 ／ 最寄り駅：高松空港 ／ 交通案内：小豆島福田港よりお車で約８分、小豆島土庄港よりお車で約４０分</p>
+                  <p><strong>【所在地・アクセス】</strong>香川県小豆郡小豆島町吉田乙276-2 ／ 最寄り駅：高松空港 ／ 交通案内：小豆島福田港よりお車で約８分、小豆島土庄港よりお車で約４０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１６台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -665,7 +665,7 @@ export default function Page() {
 
       {/* フッター */}
       <footer className="bg-slate-950 text-slate-400 py-8 px-4 text-center text-xs border-t border-slate-800">
-        <p>© 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の楽天トラベル公式APIに基づきます。</p>
+        <p>© 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の宿泊施設データに基づきます。</p>
       </footer>
     
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

@@ -78,7 +78,7 @@ export default function ArticlePage() {
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.12 更新</time>
           <span>執筆：旅宿クラウド ひとり旅・出張調査班</span>
-          <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式API提携</span>
+          <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">編集部が厳選</span>
         </div>
 
         {/* リード文 */}
@@ -90,7 +90,7 @@ export default function ArticlePage() {
             本州最西端に位置し、関門トンネルや関門橋を通じて北九州・博多とも密接に結ばれる海峡都市・下関。水産・造船・化学などの産業集積地としてのビジネス需要に加え、唐戸市場の活気や維新の歴史散策を目的とした一人旅でも人気の高いエリアです。
           </p>
           <p>
-            海峡を行き交う船舶の汽笛に耳を澄ませ、夜は名物ふく料理（河豚）や瓦そばに舌鼓。楽天トラベル公式APIより取得した最新の宿泊データとレビュー評価をもとに、出張とソロ旅を劇的に快適にする3宿を厳選紹介します。
+            海峡を行き交う船舶の汽笛に耳を澄ませ、夜は名物ふく料理（河豚）や瓦そばに舌鼓。宿泊施設データより取得した最新の宿泊データとレビュー評価をもとに、出張とソロ旅を劇的に快適にする3宿を厳選紹介します。
           </p>
         </div>
       </header>
@@ -370,7 +370,7 @@ export default function ArticlePage() {
           <p className="text-sm text-amber-100 mb-6 max-w-2xl mx-auto">平日限定の一人旅割引や、早期割・直前割など、楽天トラベルならではの特典プランが多数用意されています。人気日程は早めの予約がおすすめです。
           </p>
           <a
-            href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2F"
+            href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fsearch.travel.rakuten.co.jp%2Fds%2Fundated%2Fsearch%3Ff_query%3D%25E4%25B8%258B%25E9%2596%25A2%25E5%2587%25BA%25E5%25BC%25B5%25E3%2583%25BB%25E7%2594%25B7%25E4%25B8%2580%25E4%25BA%25BA%25E6%2597%2585%25EF%25BC%259A%25E5%25A4%25A9%25E7%2584%25B6%25E6%25B8%25A9%25E6%25B3%2589%25E9%2596%25A2"
             target="_blank"
             rel="sponsored noopener noreferrer"
             className="inline-flex items-center justify-center bg-white text-amber-900 font-bold px-8 py-3 rounded-xl shadow-lg hover:bg-amber-50 transition transform hover:-translate-y-0.5 text-sm sm:text-base"
@@ -453,11 +453,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">下関出張・男一人旅：天然温泉関門の湯・関門海峡パノラマ・本場下関ふく料理！本州最西端の海峡拠点でととのう厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「下関出張・男一人旅：天然温泉関門の湯・関門海峡パノラマ・本場下関ふく料理！本州最西端の海峡拠点でととのう厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「下関出張・男一人旅：天然温泉関門の湯・関門海峡パノラマ・本場下関ふく料理！本州最西端の海峡拠点でととのう厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -521,7 +521,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/104702/104702_kya.jpg" alt="天然温泉関門の湯　ドーミーインＰＲＥＭＩＵＭ下関（ドーミーイン・御宿野乃　ホテルズグループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>最上階にサウナ付・天然温泉大浴場★全館無料Wi-Fi完備★夜鳴きそば無料サービス実施</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山口県下関市細江新町3-40 ／ 最寄り駅：下関 ／ 交通案内：ＪＲ下関駅より徒歩にて8分</p>
+                  <p><strong>【所在地・アクセス】</strong>山口県下関市細江新町3-40 ／ 最寄り駅：下関 ／ 交通案内：ＪＲ下関駅より徒歩にて8分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>1泊1500円先着順。満車時は提携先を案内(1泊1,300円）※ご連泊利用は、アウト日まで取り置き可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.42 ／ 部屋 ★4.46 ／ 設備 ★4.48 ／ 風呂 ★4.56 ／ 食事 ★4.63</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -543,7 +543,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/178561/178561_kan1.jpg" alt="ヴィアイン下関＜維新の湯＞（ＪＲ西日本グループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>時ーＴＯＫＩ－日本の歴史が動いた舞台で やすらぎのひととき　◇ＪＲ下関駅東口より徒歩にて約３分◇</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山口県下関市竹崎町4丁目2番33号 ／ 最寄り駅：下関 ／ 交通案内：［鉄道］JR山陽本線下関駅（東口）より徒歩約３分 / ［車］中国自動車道下関ICより約１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>山口県下関市竹崎町4丁目2番33号 ／ 最寄り駅：下関 ／ 交通案内：［鉄道］JR山陽本線下関駅（東口）より徒歩約３分 / ［車］中国自動車道下関ICより約１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>近隣の提携駐車場をご案内させていただきます</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.2 ／ 立地 ★4.25 ／ 部屋 ★4.17 ／ 設備 ★4.15 ／ 風呂 ★4.18 ／ 食事 ★4.06</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -565,7 +565,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/104619/104619.jpg" alt="下関ステーションホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ＪＲ下関駅より１分。全室無線LAN完備／朝食付／サウナ付人工温泉あり</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山口県下関市竹崎町2-8-11 ／ 最寄り駅：下関 ／ 交通案内：ＪＲ下関駅東口より徒歩１分</p>
+                  <p><strong>【所在地・アクセス】</strong>山口県下関市竹崎町2-8-11 ／ 最寄り駅：下関 ／ 交通案内：ＪＲ下関駅東口より徒歩１分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル専用P＝600円（16台）二輪車300円※先着順／タイムズ下関駅西口駐車場500円＝約120台</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.89 ／ 立地 ★3.95 ／ 部屋 ★3.77 ／ 設備 ★3.71 ／ 風呂 ★3.86 ／ 食事 ★3.78</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

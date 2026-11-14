@@ -379,11 +379,11 @@ export default function AutumnBudgetFeaturePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">徳島市街：眉山秋パノラマ＆甘辛豚バラ徳島ラーメン！4,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「徳島市街：眉山秋パノラマ＆甘辛豚バラ徳島ラーメン！4,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「徳島市街：眉山秋パノラマ＆甘辛豚バラ徳島ラーメン！4,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -456,7 +456,7 @@ export default function AutumnBudgetFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7503/7503_room.jpg" alt="アパホテル〈徳島駅前〉 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全室50型液晶テレビ・有線LAN・無線LAN（Wi-Fi）・VOD（ビデオオンデマンド）全客室完備</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 徳島県徳島市一番町2-21 ／ 最寄り駅：徳島 ／ 交通案内：ＪＲ徳島駅より徒歩3分、徳島阿波踊り空港から車で20分</p>
+                  <p><strong>【所在地・アクセス】</strong>徳島県徳島市一番町2-21 ／ 最寄り駅：徳島 ／ 交通案内：ＪＲ徳島駅より徒歩3分、徳島阿波踊り空港から車で20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>敷地内有料駐車場: 4台　先着順サイズ制限有</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.06 ／ 立地 ★4.01 ／ 部屋 ★3.93 ／ 設備 ★3.86 ／ 風呂 ★3.77 ／ 食事 ★3.94</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -478,7 +478,7 @@ export default function AutumnBudgetFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8830/8830.jpg" alt="ハイパーイン　ホテル越久（えちひさ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>繁華街、ビジネス街に近くて便利。川辺で閑静です。全館Wi-Fi接続無料(有線LANもあり)</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 徳島県徳島市富田浜1-22 ／ 最寄り駅：徳島 ／ 交通案内：ＪＲ徳島駅より徒歩15分/徳島ICより車で20分</p>
+                  <p><strong>【所在地・アクセス】</strong>徳島県徳島市富田浜1-22 ／ 最寄り駅：徳島 ／ 交通案内：ＪＲ徳島駅より徒歩15分/徳島ICより車で20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>600円/泊 日中駐車代金400円※23時以降お車の出入不可。10月1日より駐車代金改訂となります。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.1 ／ 立地 ★3.93 ／ 部屋 ★3.86 ／ 設備 ★3.71 ／ 風呂 ★3.81 ／ 食事 ★4.17</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -500,7 +500,7 @@ export default function AutumnBudgetFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/187619/187619.jpg" alt="天空のスカイビューホテル　眉山海月 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>絶景レストランで徳島グルメのビュッフェを堪能。お部屋から望む夜景は最高！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 徳島県徳島市八万町中津山3-70 ／ 最寄り駅：徳島 ／ 交通案内：JR徳島駅から車で約15分【駐車場無料】。無料送迎は徳島駅、眉山ロープウェイ　山頂駅にて（前日までの事前予約が必要）</p>
+                  <p><strong>【所在地・アクセス】</strong>徳島県徳島市八万町中津山3-70 ／ 最寄り駅：徳島 ／ 交通案内：JR徳島駅から車で約15分【駐車場無料】。無料送迎は徳島駅、眉山ロープウェイ　山頂駅にて（前日までの事前予約が必要）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　60台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.37 ／ 立地 ★4.49 ／ 部屋 ★4.35 ／ 設備 ★4.22 ／ 風呂 ★4.29 ／ 食事 ★4.5</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -522,7 +522,7 @@ export default function AutumnBudgetFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/17801/17801_s.jpg" alt="ハイパーイン　メイアップ徳島 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>最終チェックイン時間が24:00となります。(チェックイン後は夜間も出入り可能)</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 徳島県徳島市幸町3-108 ／ 最寄り駅：徳島 ／ 交通案内：JR徳島駅より徒歩10～15分・車で5分以内／徳島ICより車で15分</p>
+                  <p><strong>【所在地・アクセス】</strong>徳島県徳島市幸町3-108 ／ 最寄り駅：徳島 ／ 交通案内：JR徳島駅より徒歩10～15分・車で5分以内／徳島ICより車で15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>600円/泊・日中駐車400円※2026年10月1日より700円/泊・日中駐車500円に変更</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.26 ／ 立地 ★3.96 ／ 部屋 ★3.99 ／ 設備 ★4.05 ／ 風呂 ★3.96 ／ 食事 ★4.33</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

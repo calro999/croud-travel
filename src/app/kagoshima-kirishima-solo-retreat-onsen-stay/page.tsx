@@ -77,7 +77,7 @@ export default function ArticlePage() {
             鹿児島・霧島温泉ひとり旅＆天孫降臨神話おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「霧島温泉ひとり旅・天孫降臨神話おこもり」霧島連峰パノラマ・源泉かけ流し露天・黒豚地鶏会席！坂本龍馬も愛した南九州の霊峰厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               天孫降臨の地として名高い鹿児島県・霧島。霧島神宮の厳かな杜と、新燃岳や高千穂峰を望む大パノラマが広がり、坂本龍馬が日本人初の新婚旅行で逗留した歴史的な名湯郷です。多彩な泉質と豊かな湯量を誇り、ソロリトリートに最高のロケーションを誇ります。
             </p>
             <p>
-              客室専用の露天風呂でプライベートステイが叶うリゾートから、霧島の美食と名湯を堪能できる宿まで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              客室専用の露天風呂でプライベートステイが叶うリゾートから、霧島の美食と名湯を堪能できる宿まで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -419,11 +419,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">霧島温泉ひとり旅・天孫降臨神話おこもり：霧島連峰パノラマ・源泉かけ流し露天・黒豚地鶏会席！坂本龍馬も愛した南九州の霊峰厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「霧島温泉ひとり旅・天孫降臨神話おこもり：霧島連峰パノラマ・源泉かけ流し露天・黒豚地鶏会席！坂本龍馬も愛した南九州の霊峰厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「霧島温泉ひとり旅・天孫降臨神話おこもり：霧島連峰パノラマ・源泉かけ流し露天・黒豚地鶏会席！坂本龍馬も愛した南九州の霊峰厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -487,7 +487,7 @@ export default function ArticlePage() {
                 
                 <div className="md:col-span-3 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>宿から雄大な桜島を一望。霧島の大自然に包まれながら深まる絆 / 貸切露天(無料)・露天風呂付客室あり</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県霧島市牧園町高千穂3761 ／ 最寄り駅：主要駅 ／ 交通案内：</p>
+                  <p><strong>【所在地・アクセス】</strong>鹿児島県霧島市牧園町高千穂3761 ／ 交通案内：</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -509,7 +509,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/30120/30120_r1.jpg" alt="霧島温泉　いで湯の宿　霧島花紫 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>館内に露天風呂と内風呂が２ヶ所ずつ有り、いづれも貸切で御利用頂けます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県霧島市牧園町高千穂3254-23 ／ 最寄り駅：霧島神宮 ／ 交通案内：霧島温泉駅・霧島神宮駅より車で１５分　鹿児島空港から車で２５分、路線バスにて３０分（柳平バス停から徒歩１分含）</p>
+                  <p><strong>【所在地・アクセス】</strong>鹿児島県霧島市牧園町高千穂3254-23 ／ 最寄り駅：霧島神宮 ／ 交通案内：霧島温泉駅・霧島神宮駅より車で１５分　鹿児島空港から車で２５分、路線バスにて３０分（柳平バス停から徒歩１分含）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　3０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -531,7 +531,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/196303/196303.jpg" alt="ザ・パルス霧島 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>霧島の大自然と過ごす、ネイチャーリゾート 2025年8月16日オープン!</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県霧島市霧島田口2703-5 ／ 最寄り駅：霧島神宮 ／ 交通案内：日豊本線 霧島神宮駅よりお車で約１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>鹿児島県霧島市霧島田口2703-5 ／ 最寄り駅：霧島神宮 ／ 交通案内：日豊本線 霧島神宮駅よりお車で約１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★4.33 ／ 部屋 ★4.33 ／ 設備 ★4.25 ／ 風呂 ★4.35 ／ 食事 ★4.41</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

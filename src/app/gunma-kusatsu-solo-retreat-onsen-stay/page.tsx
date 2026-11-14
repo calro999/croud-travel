@@ -7,11 +7,11 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/gunma-kusatsu-solo-retreat-onsen-stay/" },
   title: '草津温泉ひとり旅・名湯おこもり：湯畑源泉かけ流し・貸切風呂・上州和牛！日本三名泉の湯ヂカラに浸る贅沢ソロ温泉厳選3宿',
-  description: '日本三名泉・草津温泉！湯畑徒歩2分の好立地で全館源泉かけ流し貸切風呂が評判の「湯の宿 みさご」、洗練された和モダン空間で大人のおこもりステイが叶う「湯畑泉水」、草津の名湯とコスパ抜群の滞在が魅力の「山の湯ホテル」を楽天トラベル公式API最新データに基づき徹底比較。',
+  description: '日本三名泉・草津温泉！湯畑徒歩2分の好立地で全館源泉かけ流し貸切風呂が評判の「湯の宿 みさご」、洗練された和モダン空間で大人のおこもりステイが叶う「湯畑泉水」、草津の名湯とコスパ抜群の滞在が魅力の「山の湯ホテル」を宿泊施設データ最新データに基づき徹底比較。',
   keywords: '草津温泉 一人旅 宿,草津温泉 ホテル 一人,湯の宿みさご,湯畑泉水,草津温泉 山の湯ホテル,草津 湯畑 温泉 ひとり旅',
   openGraph: {
     title: '草津温泉ひとり旅・名湯おこもり：湯畑源泉かけ流し・貸切風呂・上州和牛！日本三名泉の湯ヂカラに浸る贅沢ソロ温泉厳選3宿',
-    description: '日本三名泉・草津温泉！湯畑徒歩2分の好立地で全館源泉かけ流し貸切風呂が評判の「湯の宿 みさご」、洗練された和モダン空間で大人のおこもりステイが叶う「湯畑泉水」、草津の名湯とコスパ抜群の滞在が魅力の「山の湯ホテル」を楽天トラベル公式API最新データに基づき徹底比較。',
+    description: '日本三名泉・草津温泉！湯畑徒歩2分の好立地で全館源泉かけ流し貸切風呂が評判の「湯の宿 みさご」、洗練された和モダン空間で大人のおこもりステイが叶う「湯畑泉水」、草津の名湯とコスパ抜群の滞在が魅力の「山の湯ホテル」を宿泊施設データ最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/gunma-kusatsu-solo-retreat-onsen-stay/',
     siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
@@ -24,7 +24,7 @@ export default function ArticlePage() {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: '草津温泉ひとり旅・名湯おこもり：湯畑源泉かけ流し・貸切風呂・上州和牛！日本三名泉の湯ヂカラに浸る贅沢ソロ温泉厳選3宿',
-    description: '日本三名泉・草津温泉！湯畑徒歩2分の好立地で全館源泉かけ流し貸切風呂が評判の「湯の宿 みさご」、洗練された和モダン空間で大人のおこもりステイが叶う「湯畑泉水」、草津の名湯とコスパ抜群の滞在が魅力の「山の湯ホテル」を楽天トラベル公式API最新データに基づき徹底比較。',
+    description: '日本三名泉・草津温泉！湯畑徒歩2分の好立地で全館源泉かけ流し貸切風呂が評判の「湯の宿 みさご」、洗練された和モダン空間で大人のおこもりステイが叶う「湯畑泉水」、草津の名湯とコスパ抜群の滞在が魅力の「山の湯ホテル」を宿泊施設データ最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
       name: '旅宿クラウド ひとり旅・出張調査班',
@@ -77,7 +77,7 @@ export default function ArticlePage() {
             群馬・草津温泉ひとり旅＆名湯源泉かけ流しおこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「草津温泉ひとり旅・名湯おこもり」湯畑源泉かけ流し・貸切風呂・上州和牛！日本三名泉の湯ヂカラに浸る贅沢ソロ温泉厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               日本屈指の自然湧出量を誇り、強酸性の良質な泉質で古くから多くの湯治客を魅了し続ける群馬県・草津温泉。湯畑周辺の情緒あふれる温泉街を気ままに下駄履きで散策し、熱気あふれる名湯に浸かる時間は、心と体を根本からリフレッシュさせてくれます。
             </p>
             <p>
-              湯畑から徒歩すぐで貸切温泉にゆったり浸かれる隠れ家宿から、モダンで快適な客室を備えた大人のリトリート宿まで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              湯畑から徒歩すぐで貸切温泉にゆったり浸かれる隠れ家宿から、モダンで快適な客室を備えた大人のリトリート宿まで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -418,11 +418,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">草津温泉ひとり旅・名湯おこもり：湯畑源泉かけ流し・貸切風呂・上州和牛！日本三名泉の湯ヂカラに浸る贅沢ソロ温泉厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「草津温泉ひとり旅・名湯おこもり：湯畑源泉かけ流し・貸切風呂・上州和牛！日本三名泉の湯ヂカラに浸る贅沢ソロ温泉厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「草津温泉ひとり旅・名湯おこもり：湯畑源泉かけ流し・貸切風呂・上州和牛！日本三名泉の湯ヂカラに浸る贅沢ソロ温泉厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -486,7 +486,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31451/31451_w.jpg" alt="草津温泉　湯の宿　みさご 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>＼万代鉱のかけ流し温泉／24時間利用可能＊３つの貸切風呂はすべて無料です♪全室エアウィーヴ＆トイレ付</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県吾妻郡草津町546 ／ 最寄り駅：主要駅 ／ 交通案内：草津温泉バスターミナルより徒歩１０分 関越道渋川・伊香保ＩＣよりＲ３５３～１４５～２９２（約９０分）</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県吾妻郡草津町546 ／ 交通案内：草津温泉バスターミナルより徒歩１０分 関越道渋川・伊香保ＩＣよりＲ３５３～１４５～２９２（約９０分）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　８台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.7 ／ 立地 ★4.48 ／ 部屋 ★4.73 ／ 設備 ★4.73 ／ 風呂 ★4.85 ／ 食事 ★4.87</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -508,7 +508,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/189254/189254.jpg" alt="草津温泉　湯畑泉水 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「湯畑」から徒歩１分、温泉街のドまん中　全室露天風呂付の素泊まりの宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県吾妻郡草津町草津392ー1 ／ 最寄り駅：長野原草津口 ／ 交通案内：長野原草津口駅より路線バスで約２約５分、草津温泉バスターミナルより徒歩約５分</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県吾妻郡草津町草津392ー1 ／ 最寄り駅：長野原草津口 ／ 交通案内：長野原草津口駅より路線バスで約２約５分、草津温泉バスターミナルより徒歩約５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無し※姉妹館「草津ナウリゾートホテル」の駐車場を無料でご利用いただけます。往復シャトルバス運行中。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -530,7 +530,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/151295/151295_kan1.jpg" alt="草津温泉３２６　山の湯ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>湯畑まで徒歩約2分　観光にもビジネス利用にも最適の宿！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県吾妻郡草津町草津326 ／ 最寄り駅：長野原草津口 ／ 交通案内：長野原草津口駅よりバス</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県吾妻郡草津町草津326 ／ 最寄り駅：長野原草津口 ／ 交通案内：長野原草津口駅よりバス</p>
                   <p><strong>【駐車場・マイカー利用】</strong>普通車1台1泊５００円（税込み）　ホテルより徒歩約2分の場所</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

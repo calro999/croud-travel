@@ -440,11 +440,11 @@ export default function SilverWeekGlampingKantoFujiPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">シルバーウィーク2026 富士山・関東グランピング：客室天然温泉＆富士絶景ドームテントおすすめ厳選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「シルバーウィーク2026 富士山・関東グランピング：客室天然温泉＆富士絶景ドームテントおすすめ厳選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「シルバーウィーク2026 富士山・関東グランピング：客室天然温泉＆富士絶景ドームテントおすすめ厳選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -526,7 +526,7 @@ export default function SilverWeekGlampingKantoFujiPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/184648/184648.jpg" alt="全室富士山ビュー　ビジョングランピングリゾート山中湖 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>山中湖｜全室富士山ビューでBBQ｜各客室内に専用の露天風呂・サウナ付き完全プライベートグランピング</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県南都留郡山中湖村山中字栗木林１３８５－４３ ／ 最寄り駅：富士吉田 ／ 交通案内：富士山駅からバスで30分／山中湖ICより車で5分／河口湖ICより車で15分／御殿場ICより車で30分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県南都留郡山中湖村山中字栗木林１３８５－４３ ／ 最寄り駅：富士吉田 ／ 交通案内：富士山駅からバスで30分／山中湖ICより車で5分／河口湖ICより車で15分／御殿場ICより車で30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料（20台、予約不要）　無料送迎あり（富士山駅・富士山山中湖バス停付近）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -548,7 +548,7 @@ export default function SilverWeekGlampingKantoFujiPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/180416/180416_kan1.jpg" alt="Ｄｏｔ　Ｇｌａｍｐｉｎｇ　富士山 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>日常を離れ、富士山と河口湖を望みながら“Ｓｌｏｗ＆Ｅａｓｙ“な時間を過ごす絶景グランピング</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県南都留郡富士河口湖町大石2872-65 ／ 最寄り駅：河口湖 ／ 交通案内：河口湖駅よりお車にて約１７分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県南都留郡富士河口湖町大石2872-65 ／ 最寄り駅：河口湖 ／ 交通案内：河口湖駅よりお車にて約１７分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　7台（各グループ1台まで）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -570,7 +570,7 @@ export default function SilverWeekGlampingKantoFujiPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/197307/197307.jpg" alt="Ｇｏｄｅｒｅ　ｈｏｔｅｌ　富士山中湖　Ｔａｂｉｓｔ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ワンちゃんと泊まれるグランピングドームあり！富士山を眺めながら楽しむ絶景BBQが自慢</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県南都留郡山中湖村平野3201 ／ 最寄り駅：河口湖 ／ 交通案内：富士山山中湖（ホテルマウント富士）バス停より車で約５分。14時半から17時は事前連絡で無料送迎可能</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県南都留郡山中湖村平野3201 ／ 最寄り駅：河口湖 ／ 交通案内：富士山山中湖（ホテルマウント富士）バス停より車で約５分。14時半から17時は事前連絡で無料送迎可能</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　28台　無料　屋外駐車場です。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.24 ／ 立地 ★3.55 ／ 部屋 ★3.1 ／ 設備 ★3 ／ 風呂 ★2.7</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -592,7 +592,7 @@ export default function SilverWeekGlampingKantoFujiPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/185235/185235.jpg" alt="Ｍｔ．Ｆｕｊｉグランピングテラス嶺乃華　＾ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong></p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県南都留郡富士河口湖町河口2044　Ｍｔ．Ｆｕｊｉグランピングテラス嶺乃華 ／ 最寄り駅：河口湖 ／ 交通案内：河口湖駅から車で約１４分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県南都留郡富士河口湖町河口2044　Ｍｔ．Ｆｕｊｉグランピングテラス嶺乃華 ／ 最寄り駅：河口湖 ／ 交通案内：河口湖駅から車で約１４分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場 敷地内有(第2駐車場もあり)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -614,7 +614,7 @@ export default function SilverWeekGlampingKantoFujiPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/185220/185220.jpg" alt="猫穴グランピング　＾ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong></p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県南都留郡富士河口湖町船津字猫穴3554-1　猫穴グランピング ／ 最寄り駅：河口湖 ／ 交通案内：富士急ハイランド駅から車で約１１分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県南都留郡富士河口湖町船津字猫穴3554-1　猫穴グランピング ／ 最寄り駅：河口湖 ／ 交通案内：富士急ハイランド駅から車で約１１分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

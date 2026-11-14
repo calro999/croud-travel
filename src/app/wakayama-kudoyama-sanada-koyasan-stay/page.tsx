@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">和歌山・高野山山麓＆九度山：真田幸村蟄居の地・善名称院＆世界遺産慈尊院・富有柿宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「和歌山・高野山山麓＆九度山：真田幸村蟄居の地・善名称院＆世界遺産慈尊院・富有柿宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「和歌山・高野山山麓＆九度山：真田幸村蟄居の地・善名称院＆世界遺産慈尊院・富有柿宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/107720/107720_ru.jpg" alt="中川旅館　＜和歌山県＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>高野山への参拝前泊に便利　世界遺産３ヶ所　真田隠れ里　Wi-Fi FREE</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県伊都郡九度山町九度山1421 ／ 最寄り駅：九度山 ／ 交通案内：南海電鉄高野線九度山駅下車徒歩７分</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県伊都郡九度山町九度山1421 ／ 最寄り駅：九度山 ／ 交通案内：南海電鉄高野線九度山駅下車徒歩７分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>２台枠有り。1泊５００円予約要。隣接塩看板前横道路際とその隣。無料駐車広場は南へ15ｍ3台枠。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/172303/172303.jpg" alt="くどやま旅館　玉川亭 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>弘法大師ゆかりの世界遺産慈尊院、町石道登山口近く。大正時代の旅館で日常を忘れる異空間でのんびりと。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県伊都郡九度山町九度山555-19 ／ 最寄り駅：九度山 ／ 交通案内：南海高野線　九度山駅より徒歩にて約４分</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県伊都郡九度山町九度山555-19 ／ 最寄り駅：九度山 ／ 交通案内：南海高野線　九度山駅より徒歩にて約４分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５台</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/172304/172304.jpg" alt="くどやま旅館　玉川亭町石道別館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>世界遺産・真田ミュージアムまで８００ｍ！道の駅裏手と高野山トレッキングや観光にとても便利な別館。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県伊都郡九度山町入郷76-1 ／ 最寄り駅：九度山 ／ 交通案内：チェックイン受付は九度山駅より300mのくどやま旅館玉川亭本館でお願い致します。</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県伊都郡九度山町入郷76-1 ／ 最寄り駅：九度山 ／ 交通案内：チェックイン受付は九度山駅より300mのくどやま旅館玉川亭本館でお願い致します。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>宿泊施設「別館」にはございません。くどやま旅館玉川亭本館に駐車場をご利用下さい。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/137866/137866_hey.jpg" alt="〜真田昌幸・幸村父子の隠れ宿〜紀伊見荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>若返り効果があると言われる〈紀伊見の湯〉広々とした絶景ラウンジはファミリー・ビジネス利用にもオススメ</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県橋本市矢倉脇115 ／ 最寄り駅：紀見峠 ／ 交通案内：南海高野線　紀見峠駅から徒歩で４分</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県橋本市矢倉脇115 ／ 最寄り駅：紀見峠 ／ 交通案内：南海高野線　紀見峠駅から徒歩で４分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３３台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.95 ／ 立地 ★3.85 ／ 部屋 ★3.92 ／ 設備 ★3.64 ／ 風呂 ★3.99 ／ 食事 ★4.13</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/145476/145476_kan1.jpg" alt="ホテル　ルートイン橋本 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ビジネス・高野山観光に最適橋本IC車で5分■駐車場・朝食・ＷＯＷＯＷ無料■Wi-Fi完備■居酒屋併設</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県橋本市市脇4-10-28 ／ 最寄り駅：橋本（和歌山） ／ 交通案内：ＪＲ・南海高野線　橋本駅　TAXIにて約７分。/京奈和自動車道・橋本ICより約5分。　平面駐車場100台完備</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県橋本市市脇4-10-28 ／ 最寄り駅：橋本（和歌山） ／ 交通案内：ＪＲ・南海高野線　橋本駅　TAXIにて約７分。/京奈和自動車道・橋本ICより約5分。　平面駐車場100台完備</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　108台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/108568/108568_wa.jpg" alt="かめや旅館　＜和歌山県＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>昭和２年創業の小さな宿です。世界遺産の高野山、天野丹生都比売神社、九度山慈尊院などにおこしに便利です</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県伊都郡かつらぎ町新田106 ／ 最寄り駅：妙寺 ／ 交通案内：妙寺駅より徒歩にて２分</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県伊都郡かつらぎ町新田106 ／ 最寄り駅：妙寺 ／ 交通案内：妙寺駅より徒歩にて２分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

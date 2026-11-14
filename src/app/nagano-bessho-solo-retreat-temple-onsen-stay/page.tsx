@@ -77,7 +77,7 @@ export default function ArticlePage() {
             長野・別所温泉ひとり旅＆信州最古名湯おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「信州の鎌倉・別所温泉ひとり旅・信州最古の名湯おこもり」信州サーモン＆松茸会席・木造建築文化財・国宝八角三重塔！上田電鉄で行く古刹厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               平安時代の清少納言『枕草子』にも「七久里の湯」として記された別所温泉。ほのかに硫黄が香る弱アルカリ性の単純硫黄泉は、「美人の湯」として肌を滑らかに整え、体の芯から疲労を癒やします。国宝の安楽寺八角三重塔や厄除けの北向観音など、鎌倉時代の面影を残す名所が徒歩圏内に集まり、一人静かに思索にふける旅に最適です。
             </p>
             <p>
-              登録有形文化財の壮麗な木造宿から、料理と温泉で極上の評価を獲得する老舗旅館まで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              登録有形文化財の壮麗な木造宿から、料理と温泉で極上の評価を獲得する老舗旅館まで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -421,11 +421,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">信州の鎌倉・別所温泉ひとり旅・信州最古の名湯おこもり：信州サーモン＆松茸会席・木造建築文化財・国宝八角三重塔！上田電鉄で行く古刹厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「信州の鎌倉・別所温泉ひとり旅・信州最古の名湯おこもり：信州サーモン＆松茸会席・木造建築文化財・国宝八角三重塔！上田電鉄で行く古刹厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「信州の鎌倉・別所温泉ひとり旅・信州最古の名湯おこもり：信州サーモン＆松茸会席・木造建築文化財・国宝八角三重塔！上田電鉄で行く古刹厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -489,7 +489,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/15864/15864_heya.jpg" alt="信州別所温泉　玉屋旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>湯のまちの美食宿。和モダンに設えた和洋室と信州プレミアム牛肉の会席料理。源泉掛け流しの美人の湯を堪能</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県上田市別所温泉227 ／ 最寄り駅：上田（長野） ／ 交通案内：北陸新幹線上田駅乗り換え、別所温泉駅より徒歩7分（14時～17時は無料送迎バス有）、上信越道「上田菅平IC」から車30分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県上田市別所温泉227 ／ 最寄り駅：上田（長野） ／ 交通案内：北陸新幹線上田駅乗り換え、別所温泉駅より徒歩7分（14時～17時は無料送迎バス有）、上信越道「上田菅平IC」から車30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.74 ／ 立地 ★4.48 ／ 部屋 ★4.71 ／ 設備 ★4.66 ／ 風呂 ★4.63 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -511,7 +511,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31713/31713_r3.jpg" alt="別所温泉　旅館　中松屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>楽天トラベルブロンズアワード2年連続受賞！全館畳敷き＆貸切風呂が好評♪3世代旅行にも◎</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県上田市別所温泉1627 ／ 最寄り駅：別所温泉 ／ 交通案内：新幹線上田駅より別所線別所温泉駅まで30分。駅前から巡回バス有／上信越自動車道上田ICより50分。北向観音まで徒歩1分。</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県上田市別所温泉1627 ／ 最寄り駅：別所温泉 ／ 交通案内：新幹線上田駅より別所線別所温泉駅まで30分。駅前から巡回バス有／上信越自動車道上田ICより50分。北向観音まで徒歩1分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場。お車は当方にて移動いたします。玄関に直接お越しくださいませ。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -533,7 +533,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/108580/108580_ru.jpg" alt="別所温泉　旅館　花屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>大正浪漫漂う登録有形文化財の温泉宿〜非日常の空間と温かなおもてなし、手作りの会席料理が織りなす贅沢</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県上田市別所温泉169番地　【文化庁登録有形文化財選定】宮大工が造った老舗旅館　大正浪漫漂う温泉宿　旅館花屋 ／ 最寄り駅：別所温泉 ／ 交通案内：JR上田駅より乗換・上田交通別所線別所温泉駅下車徒歩約５分（当地で最も駅に近い旅館）◆上信越道上田菅平ＩＣより車で３０分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県上田市別所温泉169番地　【文化庁登録有形文化財選定】宮大工が造った老舗旅館　大正浪漫漂う温泉宿　旅館花屋 ／ 最寄り駅：別所温泉 ／ 交通案内：JR上田駅より乗換・上田交通別所線別所温泉駅下車徒歩約５分（当地で最も駅に近い旅館）◆上信越道上田菅平ＩＣより車で３０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>◆約３０台分の無料駐車場あり◆全室Wi－Fi完備◆全室禁煙（喫煙室あり）◆当地で最大湯量の天然温泉</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.6 ／ 立地 ★4.55 ／ 部屋 ★4.49 ／ 設備 ★4.29 ／ 風呂 ★4.52 ／ 食事 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -229,11 +229,11 @@ export default function AtamiBudgetGuidePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">熱海・伊豆旅行 費用：日帰り・1泊2日でいくら？東京から片道2,000円で行ける温泉リゾートの全費用：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「熱海・伊豆旅行 費用：日帰り・1泊2日でいくら？東京から片道2,000円で行ける温泉リゾートの全費用」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「熱海・伊豆旅行 費用：日帰り・1泊2日でいくら？東京から片道2,000円で行ける温泉リゾートの全費用」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -324,7 +324,7 @@ export default function AtamiBudgetGuidePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/194486/194486.jpg" alt="雲海オーシャンビュー熱海天空　＾ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>箱根、伊東は、熱海天空からすぐ。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県熱海市上多賀1065-195　初島台244　熱海天空 ／ 最寄り駅：伊豆多賀 ／ 交通案内：伊豆多賀駅から徒歩で約１２分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県熱海市上多賀1065-195　初島台244　熱海天空 ／ 最寄り駅：伊豆多賀 ／ 交通案内：伊豆多賀駅から徒歩で約１２分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -346,7 +346,7 @@ export default function AtamiBudgetGuidePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/186044/186044.jpg" alt="熱海オーシャンビュースパリゾートヴィラ／熱海の海・市街地海上花火が一望／ＢＢＱ可　＾ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>熱海サンビーチから徒歩（約１５分）で山手の小嵐町に進んでいくと、ビーチ通りなど人であふれる観光地とは</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県熱海市小嵐町13-25　Ｖｉｌｌａ　Ｍａｒｅ　Ａｔａｍｉ ／ 最寄り駅：来宮 ／ 交通案内：来宮駅から徒歩で約７分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県熱海市小嵐町13-25　Ｖｉｌｌａ　Ｍａｒｅ　Ａｔａｍｉ ／ 最寄り駅：来宮 ／ 交通案内：来宮駅から徒歩で約７分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -368,7 +368,7 @@ export default function AtamiBudgetGuidePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/189655/189655.jpg" alt="オーシャンビューテラス南熱海　＾ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ＪＲ熱海駅より車で約２５分。絶景テラスのある温泉付貸別荘でワンランク上の休日を。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県熱海市下多賀1702-188　オーシャンビューテラス南熱海 ／ 最寄り駅：網代 ／ 交通案内：網代駅から徒歩で約１４分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県熱海市下多賀1702-188　オーシャンビューテラス南熱海 ／ 最寄り駅：網代 ／ 交通案内：網代駅から徒歩で約１４分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -390,7 +390,7 @@ export default function AtamiBudgetGuidePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/147933/147933_kan.jpg" alt="石のや　伊豆長岡（ＴＫＰ　Ｈｏｔｅｌｓ　＆　Ｒｅｓｏｒｔｓ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>和と洋のコラボレーション旅館を是非ご体感ください</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県伊豆の国市長岡192 ／ 最寄り駅：伊豆長岡 ／ 交通案内：東京より新幹線～伊豆箱根鉄道で約1時間15分/伊豆長岡駅よりお車で約10分/JR東海道新幹線三島駅よりお車で約30分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県伊豆の国市長岡192 ／ 最寄り駅：伊豆長岡 ／ 交通案内：東京より新幹線～伊豆箱根鉄道で約1時間15分/伊豆長岡駅よりお車で約10分/JR東海道新幹線三島駅よりお車で約30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有/無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -412,7 +412,7 @@ export default function AtamiBudgetGuidePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/158403/158403_kan1.jpg" alt="伊豆高原温泉ホテル　森の泉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>広大な大自然に佇む大人の癒し空間でオールインクルーシブを満喫◇伊豆の味覚と四季折々の景色を味わう</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県伊東市吉田901-75 ／ 最寄り駅：川奈（静岡） ／ 交通案内：【最寄り駅】川奈駅より車で約15分（※無料送迎／予約制）【最寄りIC】小田原西ICから車で約90分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県伊東市吉田901-75 ／ 最寄り駅：川奈（静岡） ／ 交通案内：【最寄り駅】川奈駅より車で約15分（※無料送迎／予約制）【最寄りIC】小田原西ICから車で約90分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　35台（無料）予約不要　　　Wi-fi　：有り（館内全て）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★4.21 ／ 部屋 ★4.25 ／ 設備 ★4.1 ／ 風呂 ★4.3 ／ 食事 ★4.47</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -434,7 +434,7 @@ export default function AtamiBudgetGuidePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/128493/128493_room.jpg" alt="伊豆高原　記念日を祝う宿　自然家．Ｈａｃｏ（しぜんや．ハコ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【全室露天風呂付客室＆お部屋食の安心Relaxスタイル】海一望、絶景ロケーションで二人きり癒しステイ</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県伊東市富戸1160-11 ／ 最寄り駅：富戸 ／ 交通案内：富戸駅より送迎可能（要予約）徒歩２０分／東名厚木ＩＣ、沼津ＩＣより約９０分 電気自動車でお越しの方 充電可能！</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県伊東市富戸1160-11 ／ 最寄り駅：富戸 ／ 交通案内：富戸駅より送迎可能（要予約）徒歩２０分／東名厚木ＩＣ、沼津ＩＣより約９０分 電気自動車でお越しの方 充電可能！</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.78 ／ 立地 ★4.69 ／ 部屋 ★4.67 ／ 設備 ★4.64 ／ 風呂 ★4.89 ／ 食事 ★4.92</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

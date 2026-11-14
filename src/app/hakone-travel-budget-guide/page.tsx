@@ -203,11 +203,11 @@ export default function HakoneBudgetGuidePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">箱根旅行 費用：日帰り・1泊2日それぞれいくら？フリーパス活用の交通費＆温泉旅館の宿泊費シミュレーション：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「箱根旅行 費用：日帰り・1泊2日それぞれいくら？フリーパス活用の交通費＆温泉旅館の宿泊費シミュレーション」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「箱根旅行 費用：日帰り・1泊2日それぞれいくら？フリーパス活用の交通費＆温泉旅館の宿泊費シミュレーション」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -272,7 +272,7 @@ export default function HakoneBudgetGuidePage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 箱根湯本温泉　女性に優しい癒しの宿　ホテルマイユクール祥月</td>
-                <td className="p-3 text-stone-600">神奈川県</td>
+                <td className="p-3 text-stone-600">神奈川県足柄下郡箱根町湯本468-1</td>
                 <td className="p-3 text-stone-600">箱根湯本駅下車徒歩１２分／小田原厚木道路箱根口ＩＣから2ｋｍ　箱根神社</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（6648件）</td>
@@ -298,7 +298,7 @@ export default function HakoneBudgetGuidePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/178290/178290.jpg" alt="箱根つたや旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>箱根七湯「底倉」の湯を楽しめる、老舗旅館型ゲストハウス</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県足柄下郡箱根町底倉240-1 ／ 最寄り駅：宮ノ下 ／ 交通案内：箱根登山バス　箱根町線「神社下」バス停より徒歩にて約１分</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県足柄下郡箱根町底倉240-1 ／ 最寄り駅：宮ノ下 ／ 交通案内：箱根登山バス　箱根町線「神社下」バス停より徒歩にて約１分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４台　要予約(1000円／泊)　※空車状況に関しては施設に直接ご連絡ください</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -320,7 +320,7 @@ export default function HakoneBudgetGuidePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/181128/181128.jpg" alt="箱根小涌園　三河屋旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>創業明治１６年　歴史に触れ、自家源泉で癒される大人のための宿、箱根小涌園　三河屋旅館</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県足柄下郡箱根町小涌谷503 ／ 最寄り駅：箱根湯本 ／ 交通案内：箱根湯本駅よりお車にて約２０分</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県足柄下郡箱根町小涌谷503 ／ 最寄り駅：箱根湯本 ／ 交通案内：箱根湯本駅よりお車にて約２０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　要予約</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -342,7 +342,7 @@ export default function HakoneBudgetGuidePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/108157/108157_room.jpg" alt="箱根湯本温泉　吉池旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>６本の自家源泉と広大な日本庭園「山月園」が魅力の宿。源泉かけ流し温泉と季節の和会席で心ほどける滞在を</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県足柄下郡箱根町湯本597 ／ 最寄り駅：箱根湯本 ／ 交通案内：箱根湯本駅から徒歩で７分</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県足柄下郡箱根町湯本597 ／ 最寄り駅：箱根湯本 ／ 交通案内：箱根湯本駅から徒歩で７分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６５台　無料　予約不要　※屋根付駐車場あり</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -364,7 +364,7 @@ export default function HakoneBudgetGuidePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/40781/40781_wa.jpg" alt="箱根湯本温泉　伊東園ホテル　箱根湯本 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>箱根湯本駅から車で10分　アルカリ性の温泉とバイキング(夕食飲み放題付き)が魅力のホテルです</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県足柄下郡箱根町湯本茶屋95-1 ／ 最寄り駅：箱根湯本 ／ 交通案内：小田急　箱根湯本駅より徒歩２０分、バス５分、車で５分.カーナビは0460-85-5743小田原湯本カントリークラブ途中。</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県足柄下郡箱根町湯本茶屋95-1 ／ 最寄り駅：箱根湯本 ／ 交通案内：小田急　箱根湯本駅より徒歩２０分、バス５分、車で５分.カーナビは0460-85-5743小田原湯本カントリークラブ途中。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>屋根付きあり　収容台数36台　1部屋あたり1台までとさせていただいております</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.03 ／ 立地 ★3.78 ／ 部屋 ★3.98 ／ 設備 ★3.84 ／ 風呂 ★4.11 ／ 食事 ★4.06</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -386,7 +386,7 @@ export default function HakoneBudgetGuidePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31708/31708_k.jpg" alt="箱根湯本温泉　ホテル河鹿荘＜神奈川県＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【人気温泉旅館ホテル5つ星の宿】7つの湯巡りと柔らかな温泉。食の匠が紡ぐ月替わり会席で極上の滞在を</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県足柄下郡箱根町湯本688 ／ 最寄り駅：箱根湯本 ／ 交通案内：小田急ロマンスカーで新宿から箱根湯本駅まで９０分◆箱根湯本駅から徒歩５分</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県足柄下郡箱根町湯本688 ／ 最寄り駅：箱根湯本 ／ 交通案内：小田急ロマンスカーで新宿から箱根湯本駅まで９０分◆箱根湯本駅から徒歩５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　40台　無料　※但し満車の場合は近隣の有料駐車場へのご案内となります。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.34 ／ 立地 ★4.4 ／ 部屋 ★4.42 ／ 設備 ★4.14 ／ 風呂 ★4.45 ／ 食事 ★4.24</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -407,8 +407,8 @@ export default function HakoneBudgetGuidePage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/19786/19786.jpg" alt="箱根湯本温泉　女性に優しい癒しの宿　ホテルマイユクール祥月 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「箱根旅行 費用（日帰り・1泊2日それぞれいくら？フリーパス活用の交通費＆温泉旅館の宿泊費シミュレーション）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：箱根湯本駅下車徒歩１２分／小田原厚木道路箱根口ＩＣから2ｋｍ　箱根神社約40分／箱根ターンパイク約10分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>神奈川県足柄下郡箱根町湯本468-1の「箱根湯本温泉 女性に優しい癒しの宿 ホテルマイユクール祥月」（楽天トラベル評価4.55（6588件）／1泊目安¥8,500〜）の魅力と宿泊ポイントを詳しく紹介。◆全室禁煙、女性に優しい美肌の湯が自慢の縁結びの宿。実際の口コミ評価や施設スペック、周辺観光スポット、1泊2日の滞在モデルコースまで分かりやすく案内します。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：箱根湯本駅下車徒歩１２分／小田原厚木道路箱根口ＩＣから2ｋｍ　箱根神社約40分／箱根ターンパイク約10分</p>
                   <p>【箱根旅行 費用：日帰り・1泊2日それぞれいくら？フリ】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

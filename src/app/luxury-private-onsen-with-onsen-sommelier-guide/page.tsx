@@ -236,7 +236,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -681,11 +681,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：湯守のこだわりが息づく。本物の源泉掛け流し＆極上泉質を極めた名湯宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：湯守のこだわりが息づく。本物の源泉掛け流し＆極上泉質を極めた名湯宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：湯守のこだわりが息づく。本物の源泉掛け流し＆極上泉質を極めた名湯宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -714,7 +714,7 @@ export default function FeatureDetailPage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 鳴子温泉郷　極上の貸切露天風呂　旅館大沼</td>
-                <td className="p-3 text-stone-600">北海道</td>
+                <td className="p-3 text-stone-600">宮城県大崎市鳴子温泉赤湯34</td>
                 <td className="p-3 text-stone-600">東北新幹線『古川駅』よりＪＲ陸羽東線に乗り換え、『鳴子御殿湯駅』下車、</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（614件）</td>
@@ -767,7 +767,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1971/1971_heya.jpg" alt="富山の奥座敷、秘湯の一軒宿　小川温泉元湯　ホテルおがわ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>開湯400周年を優に超える越中四名湯にも数えられた歴史ある小川温泉　山間の一軒宿　ホテルおがわ</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 富山県下新川郡朝日町湯ノ瀬１ ／ 最寄り駅：泊（富山） ／ 交通案内：北陸自動車道朝日インター下車２０分。無料送迎サービスあり（北陸新幹線黒部宇奈月温泉駅、あいの風鉄道泊駅）</p>
+                  <p><strong>【所在地・アクセス】</strong>富山県下新川郡朝日町湯ノ瀬１ ／ 最寄り駅：泊（富山） ／ 交通案内：北陸自動車道朝日インター下車２０分。無料送迎サービスあり（北陸新幹線黒部宇奈月温泉駅、あいの風鉄道泊駅）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　北陸自動車道朝日ＩＣより１５分。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.32 ／ 立地 ★4.31 ／ 部屋 ★4.34 ／ 設備 ★3.96 ／ 風呂 ★4.3 ／ 食事 ★4.12</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -788,8 +788,8 @@ export default function FeatureDetailPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/106139/106139.jpg" alt="鳴子温泉郷　極上の貸切露天風呂　旅館大沼 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「湯守のこだわりが息づく。本物の源泉掛け流し＆極上泉質を極めた名湯宿5選」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：東北新幹線『古川駅』よりＪＲ陸羽東線に乗り換え、『鳴子御殿湯駅』下車、徒歩５分。鳴子温泉からはタクシーで約5分。</p>
+                  <p><strong>【宿の特徴・魅力】</strong>美肌湯が自慢の宮城・東鳴子温泉の秘湯宿。源泉かけ流しの天然温泉を使用した大浴場・家族風呂をご堪能。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：東北新幹線『古川駅』よりＪＲ陸羽東線に乗り換え、『鳴子御殿湯駅』下車、徒歩５分。鳴子温泉からはタクシーで約5分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -811,7 +811,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/69255/69255_w.jpg" alt="ニセコ五色温泉旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>仙境の名にふさわしい、不思議なやすらぎの郷。それは醸し出す癒しの時間。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道磯谷郡蘭越町字湯里六七三番地 ／ 最寄り駅：ニセコ ／ 交通案内：ニセコ駅よりニセコバス「山の家行き」に乗車、終点下車で徒歩にて５分(夏季のみ運行)</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道磯谷郡蘭越町字湯里六七三番地 ／ 最寄り駅：ニセコ ／ 交通案内：ニセコ駅よりニセコバス「山の家行き」に乗車、終点下車で徒歩にて５分(夏季のみ運行)</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -833,7 +833,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/56197/56197_kya.jpg" alt="俵山温泉　泉屋旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>歴史ある湯治場で外湯を楽しむ。自然素材の山野草・薬草を使った体に優しい家庭健康料理のおもてなし。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山口県長門市俵山温泉湯町5139 ／ 最寄り駅：長門湯本 ／ 交通案内：ＪＲ美祢線　長門湯本駅よりバスにて２０分、「俵山温泉」下車、徒歩１分</p>
+                  <p><strong>【所在地・アクセス】</strong>山口県長門市俵山温泉湯町5139 ／ 最寄り駅：長門湯本 ／ 交通案内：ＪＲ美祢線　長門湯本駅よりバスにて２０分、「俵山温泉」下車、徒歩１分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -855,7 +855,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/38986/38986_he.jpg" alt="白骨温泉　お宿つるや　（旧：つるや旅館） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>白骨の名湯とつるや10大無料サービスをお楽しみください。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県松本市安曇4202-6 ／ 最寄り駅：主要駅 ／ 交通案内：松本ICより沢渡経由で車で60分。国道158号線→沢渡（さわんど）より県道300号線が最短ルートです。</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県松本市安曇4202-6 ／ 交通案内：松本ICより沢渡経由で車で60分。国道158号線→沢渡（さわんど）より県道300号線が最短ルートです。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　約２０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

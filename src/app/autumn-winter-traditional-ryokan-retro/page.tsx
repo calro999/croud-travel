@@ -237,11 +237,11 @@ export default function SeasonalFeaturePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">大正ロマンの宿：文化財建築美と木造意匠！老舗名門旅館 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「大正ロマンの宿：文化財建築美と木造意匠！老舗名門旅館 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「大正ロマンの宿：文化財建築美と木造意匠！老舗名門旅館 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -332,7 +332,7 @@ export default function SeasonalFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/183204/183204.jpg" alt="銀山温泉　能登屋旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>明治25年創業、木造三階建ての宿。昔の面影をそのままに、古き良き時代の懐かしさを伝える佇まい。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県尾花沢市大字銀山新畑446 ／ 最寄り駅：大石田 ／ 交通案内：JR大石田駅よりバス40分、東北中央道東根IC尾花沢方面へ50分、尾花沢バス停より市営バスで35分</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県尾花沢市大字銀山新畑446 ／ 最寄り駅：大石田 ／ 交通案内：JR大石田駅よりバス40分、東北中央道東根IC尾花沢方面へ50分、尾花沢バス停より市営バスで35分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -354,7 +354,7 @@ export default function SeasonalFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/32044/32044_r1.jpg" alt="渋温泉　歴史の宿　金具屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>国登録文化財の建築や豊富な源泉からなるかけ流しの風呂など、昔ながらの温泉旅情をお楽しみ下さい。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県下高井郡山ノ内町平穏2202 ／ 最寄り駅：湯田中 ／ 交通案内：長野電鉄線　湯田中駅／上信越自動車道　信州中野ＩＣより国道２９２号線を志賀高原方面へ約１５分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県下高井郡山ノ内町平穏2202 ／ 最寄り駅：湯田中 ／ 交通案内：長野電鉄線　湯田中駅／上信越自動車道　信州中野ＩＣより国道２９２号線を志賀高原方面へ約１５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　３０台　無料　屋外のみ　マイクロバス以上は有料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -376,7 +376,7 @@ export default function SeasonalFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/182752/182752.jpg" alt="渋温泉かどや 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>日本初無人の湯治宿！当館独自の源泉かけ流しと渋温泉の九湯巡りを</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県下高井郡山ノ内町大字平穏2201 ／ 最寄り駅：湯田中 ／ 交通案内：長野電鉄湯田中駅からバスで7分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県下高井郡山ノ内町大字平穏2201 ／ 最寄り駅：湯田中 ／ 交通案内：長野電鉄湯田中駅からバスで7分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>渋温泉公共駐車場(湯めぐりパーキング)をご利用ください（1000円/24時間）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -398,7 +398,7 @@ export default function SeasonalFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7473/7473_ky.jpg" alt="伊東温泉　陽気館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>明治43年創業、朝夕お部屋食の老舗宿。２つの自家源泉かけ流し・登山電車で向かう絶景露天が人気です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県伊東市末広町2-24 ／ 最寄り駅：伊東 ／ 交通案内：＜電車＞JR「伊東駅」より徒歩12分／＜お車＞東名厚木IC→小田原厚木道路経由→国道135号線、約90分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県伊東市末広町2-24 ／ 最寄り駅：伊東 ／ 交通案内：＜電車＞JR「伊東駅」より徒歩12分／＜お車＞東名厚木IC→小田原厚木道路経由→国道135号線、約90分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料　※カーナビは名称・電話ではなく住所（静岡県伊東市末広町1－21）で検索して下さい</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -420,7 +420,7 @@ export default function SeasonalFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/135390/135390_ky1.jpg" alt="城崎温泉　扇屋旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>地蔵湯すぐそば！大正時代から続く老舗の宿。城崎温泉に３軒しかない源泉かけ流しの小さな内湯あり。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県豊岡市城崎町湯島243 ／ 最寄り駅：主要駅 ／ 交通案内：城崎温泉駅より徒歩１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県豊岡市城崎町湯島243 ／ 交通案内：城崎温泉駅より徒歩１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -442,7 +442,7 @@ export default function SeasonalFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/138019/138019_ka1.jpg" alt="城崎温泉　旨し隠れ家　湯宿　山よし 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>城崎のど真ん中♪なのに静かで美しい木屋町通りに佇むたった5室の 美食家集う、旨し隠れ宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県豊岡市城崎町湯島379 ／ 最寄り駅：主要駅 ／ 交通案内：城崎温泉駅から徒歩７分</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県豊岡市城崎町湯島379 ／ 交通案内：城崎温泉駅から徒歩７分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５台　無料　お手数ですがチェックイン前に一度お電話下さい。ご案内します。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

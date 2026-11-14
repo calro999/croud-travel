@@ -236,7 +236,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -681,11 +681,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：福を呼ぶ伝統工芸体験！高崎だるま絵付け＆伊香保石段街・黄金の湯の名旅館5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：福を呼ぶ伝統工芸体験！高崎だるま絵付け＆伊香保石段街・黄金の湯の名旅館5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：福を呼ぶ伝統工芸体験！高崎だるま絵付け＆伊香保石段街・黄金の湯の名旅館5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -767,7 +767,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/38692/38692_k1.jpg" alt="伊香保温泉　旅館　さくらい 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>喧騒を離れた小宿。4名まで夕食お部屋出し。小ぶりながら上州の山々を一望する展望露天風呂</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県渋川市伊香保町伊香保210-2 ／ 最寄り駅：渋川 ／ 交通案内：JR上越線　渋川駅より伊香保温泉行きバス、又は車で２０分。関越自動車道 渋川伊香保ＩＣより３０分。</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県渋川市伊香保町伊香保210-2 ／ 最寄り駅：渋川 ／ 交通案内：JR上越線　渋川駅より伊香保温泉行きバス、又は車で２０分。関越自動車道 渋川伊香保ＩＣより３０分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８０台　無料　予約不要　チェックイン前ご利用可能</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.13 ／ 部屋 ★4.4 ／ 設備 ★4.22 ／ 風呂 ★4.31 ／ 食事 ★4.42</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -789,7 +789,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/17741/17741_rote.jpg" alt="伊香保温泉　森秋旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★名湯「黄金の湯」源泉掛け流しが自慢の宿♪ ★観光名所「石段街」まで徒歩３分♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県渋川市伊香保町伊香保60 ／ 最寄り駅：渋川 ／ 交通案内：ＪＲ渋川駅下車バスで25分！新宿から高速バスで2時間半！伊香保の名物石段街から徒歩３分と好立地♪散策に抜群の好立地</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県渋川市伊香保町伊香保60 ／ 最寄り駅：渋川 ／ 交通案内：ＪＲ渋川駅下車バスで25分！新宿から高速バスで2時間半！伊香保の名物石段街から徒歩３分と好立地♪散策に抜群の好立地</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有（無料）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -811,7 +811,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/19362/19362_heya.jpg" alt="伊香保温泉　松本楼　洋風旅館ぴのん 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>女性が1人でも安心して宿泊できる洋風旅館。1品1品出来立てでお出しする『フレンチ風懐石』が人気</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県渋川市伊香保町伊香保383 ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ上越線渋川駅よりバスで約２０分、見晴下 下車／関越道渋川・伊香保ＩＣより約１０ｋｍ</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県渋川市伊香保町伊香保383 ／ 交通案内：ＪＲ上越線渋川駅よりバスで約２０分、見晴下 下車／関越道渋川・伊香保ＩＣより約１０ｋｍ</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -833,7 +833,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/18838/18838_heya.jpg" alt="伊香保温泉　吉田屋旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>湯治場の雰囲気を色濃く残した「明治初期創業の老舗旅館」。湯量豊富な「黄金の湯」が温泉通に人気！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県渋川市伊香保町伊香保49 ／ 最寄り駅：渋川 ／ 交通案内：渋川駅よりバスで約30分／渋川伊香保I.Cより約２0分</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県渋川市伊香保町伊香保49 ／ 最寄り駅：渋川 ／ 交通案内：渋川駅よりバスで約30分／渋川伊香保I.Cより約２0分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無。市営物聞駐車場又は徳冨 蘆花記念文学館駐車場をご利用下さい（1泊（15時～翌10時）800円）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -855,7 +855,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/68523/68523_w.jpg" alt="伊香保温泉　石坂旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>石段街まで徒歩１分。【黄金の湯】源泉かけ流しの湯。客室からの山々の景色は必見です！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県渋川市伊香保町伊香保67 ／ 最寄り駅：渋川 ／ 交通案内：ＪＲ上越線　渋川駅前より伊香保温泉行バス乗車にて終点「伊香保温泉」下車で徒歩５分　【石段まで徒歩1分】</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県渋川市伊香保町伊香保67 ／ 最寄り駅：渋川 ／ 交通案内：ＪＲ上越線　渋川駅前より伊香保温泉行バス乗車にて終点「伊香保温泉」下車で徒歩５分　【石段まで徒歩1分】</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　・旅館前５～６台(入り口大変狭し)・少し離れた場所に３０台(送迎有り)　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

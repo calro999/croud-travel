@@ -7,11 +7,11 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/gunma-ikaho-solo-retreat-onsen-stay/" },
   title: '伊香保温泉ひとり旅・石段街おこもり：黄金の湯・白銀の湯・屋上絶景露天！レトロな石段街で情緒と癒やしを味わう厳選3宿',
-  description: '万葉の時代から愛される名湯・伊香保！屋上露天風呂から上州の山並みを一望する「和心の宿 大森」、石段街近くで家庭的な温もりと源泉を楽しめる「旅館 春日楼」、創業440余年を誇る名門「福一」を楽天トラベル公式API最新データに基づき徹底比較。',
+  description: '万葉の時代から愛される名湯・伊香保！屋上露天風呂から上州の山並みを一望する「和心の宿 大森」、石段街近くで家庭的な温もりと源泉を楽しめる「旅館 春日楼」、創業440余年を誇る名門「福一」を宿泊施設データ最新データに基づき徹底比較。',
   keywords: '伊香保温泉 一人旅 宿,伊香保 ホテル 一人,和心の宿大森,伊香保 福一,旅館春日楼,伊香保 石段街 ひとり旅',
   openGraph: {
     title: '伊香保温泉ひとり旅・石段街おこもり：黄金の湯・白銀の湯・屋上絶景露天！レトロな石段街で情緒と癒やしを味わう厳選3宿',
-    description: '万葉の時代から愛される名湯・伊香保！屋上露天風呂から上州の山並みを一望する「和心の宿 大森」、石段街近くで家庭的な温もりと源泉を楽しめる「旅館 春日楼」、創業440余年を誇る名門「福一」を楽天トラベル公式API最新データに基づき徹底比較。',
+    description: '万葉の時代から愛される名湯・伊香保！屋上露天風呂から上州の山並みを一望する「和心の宿 大森」、石段街近くで家庭的な温もりと源泉を楽しめる「旅館 春日楼」、創業440余年を誇る名門「福一」を宿泊施設データ最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/gunma-ikaho-solo-retreat-onsen-stay/',
     siteName: 'トラベルガイド - 旅宿クラウド',
     locale: 'ja_JP',
@@ -24,7 +24,7 @@ export default function ArticlePage() {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: '伊香保温泉ひとり旅・石段街おこもり：黄金の湯・白銀の湯・屋上絶景露天！レトロな石段街で情緒と癒やしを味わう厳選3宿',
-    description: '万葉の時代から愛される名湯・伊香保！屋上露天風呂から上州の山並みを一望する「和心の宿 大森」、石段街近くで家庭的な温もりと源泉を楽しめる「旅館 春日楼」、創業440余年を誇る名門「福一」を楽天トラベル公式API最新データに基づき徹底比較。',
+    description: '万葉の時代から愛される名湯・伊香保！屋上露天風呂から上州の山並みを一望する「和心の宿 大森」、石段街近くで家庭的な温もりと源泉を楽しめる「旅館 春日楼」、創業440余年を誇る名門「福一」を宿泊施設データ最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
       name: '旅宿クラウド ひとり旅・出張調査班',
@@ -77,7 +77,7 @@ export default function ArticlePage() {
             群馬・伊香保温泉ひとり旅＆石段街レトロおこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「伊香保温泉ひとり旅・石段街おこもり」黄金の湯・白銀の湯・屋上絶景露天！レトロな石段街で情緒と癒やしを味わう厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               榛名山の中腹に位置し、どこか懐かしい昭和レトロな風情が漂う群馬県・伊香保温泉。茶褐色の名湯「黄金の湯」と近年湧出した無色透明の「白銀の湯」という2つの異なる源泉を持ち、温泉好きにはたまらない魅力に満ちています。
             </p>
             <p>
-              石段街の散策に便利なロケーションと絶景露天風呂を兼ね備えた老舗宿から、歴史ある名門旅館まで、楽天トラベル公式APIより直接取得した最新データをもとに厳選紹介します。
+              石段街の散策に便利なロケーションと絶景露天風呂を兼ね備えた老舗宿から、歴史ある名門旅館まで、宿泊施設データより直接取得した最新データをもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -419,11 +419,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">伊香保温泉ひとり旅・石段街おこもり：黄金の湯・白銀の湯・屋上絶景露天！レトロな石段街で情緒と癒やしを味わう厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「伊香保温泉ひとり旅・石段街おこもり：黄金の湯・白銀の湯・屋上絶景露天！レトロな石段街で情緒と癒やしを味わう厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「伊香保温泉ひとり旅・石段街おこもり：黄金の湯・白銀の湯・屋上絶景露天！レトロな石段街で情緒と癒やしを味わう厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -487,7 +487,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/10737/10737_room.jpg" alt="伊香保温泉　和心の宿　大森 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>口コミサービス部門「4.7点」石段まで徒歩5分、標高800mの絶景露天風呂・貸切風呂あり</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県渋川市伊香保町伊香保58 ／ 最寄り駅：渋川 ／ 交通案内：関越道『渋川伊香保IC』より12km/JR上越線『渋川駅』</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県渋川市伊香保町伊香保58 ／ 最寄り駅：渋川 ／ 交通案内：関越道『渋川伊香保IC』より12km/JR上越線『渋川駅』</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　80台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.69 ／ 立地 ★4.43 ／ 部屋 ★4.44 ／ 設備 ★4.31 ／ 風呂 ★4.49 ／ 食事 ★4.65</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -509,7 +509,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/197742/197742.jpg" alt="伊香保温泉　旅館　春日楼 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>伊香保温泉石段街へ送迎付＆カップルに人気の無料貸切風呂｜ペット可対応で広々120平米ドッグランあり</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県渋川市伊香保町伊香保329-10 ／ 最寄り駅：渋川 ／ 交通案内：渋川駅からバスで約２０分、渋川伊香保ICから約２０分</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県渋川市伊香保町伊香保329-10 ／ 最寄り駅：渋川 ／ 交通案内：渋川駅からバスで約２０分、渋川伊香保ICから約２０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>あり　20台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.44 ／ 立地 ★4.07 ／ 部屋 ★4.4 ／ 設備 ★4.33 ／ 風呂 ★4.47</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -531,7 +531,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/28606/28606_heya.jpg" alt="伊香保温泉　福一 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>創業440年。石段街最上段「黄金の湯」「白銀の湯」二湯を有す数少ない宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県渋川市伊香保町伊香保香湯5-4 ／ 最寄り駅：渋川 ／ 交通案内：渋川駅より伊香保温泉行きバス30分、終点伊香保温泉下車。新宿駅新南口発着の高速バス有※バス停から徒歩数分バス停まで送迎有</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県渋川市伊香保町伊香保香湯5-4 ／ 最寄り駅：渋川 ／ 交通案内：渋川駅より伊香保温泉行きバス30分、終点伊香保温泉下車。新宿駅新南口発着の高速バス有※バス停から徒歩数分バス停まで送迎有</p>
                   <p><strong>【駐車場・マイカー利用】</strong>建物地下駐車場約50台 ※満車の場合は近隣駐車場を使う場合がございます</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

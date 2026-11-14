@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">千葉・銚子＆九十九里・犬吠埼：本州一早い日の出・犬吠埼灯台＆銚子電鉄・金目鯛宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「千葉・銚子＆九十九里・犬吠埼：本州一早い日の出・犬吠埼灯台＆銚子電鉄・金目鯛宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「千葉・銚子＆九十九里・犬吠埼：本州一早い日の出・犬吠埼灯台＆銚子電鉄・金目鯛宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -305,7 +305,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/40498/40498_he.jpg" alt="犬吠埼潮の湯温泉　犬吠埼観光ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全室オーシャンビュー！まるで海と繋がるかのような露天風呂？！◆温泉宿ホテル総選挙´２１犬吠埼地区１位</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 千葉県銚子市犬吠埼10293 ／ 最寄り駅：犬吠 ／ 交通案内：銚子電鉄　犬吠駅より車で３分　犬吠駅よりお電話にて送迎承ります。銚子駅より車で15分</p>
+                  <p><strong>【所在地・アクセス】</strong>千葉県銚子市犬吠埼10293 ／ 最寄り駅：犬吠 ／ 交通案内：銚子電鉄　犬吠駅より車で３分　犬吠駅よりお電話にて送迎承ります。銚子駅より車で15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.55 ／ 部屋 ★4.02 ／ 設備 ★3.94 ／ 風呂 ★4.31 ／ 食事 ★4.27</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -327,7 +327,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/14580/14580_war.jpg" alt="南房総君津　燦美の宿　旅館かわな 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>大正ロマンで癒しをテーマにした旅館です！展望貸切露天や江戸前簀立て盛り会席も大好評！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 千葉県君津市人見915 ／ 最寄り駅：君津 ／ 交通案内：館山自動車道木更津南ＩＣ富津岬方面出口より3km／JR君津駅より3kmタクシー約5分／JR青堀駅より1km徒歩約15分</p>
+                  <p><strong>【所在地・アクセス】</strong>千葉県君津市人見915 ／ 最寄り駅：君津 ／ 交通案内：館山自動車道木更津南ＩＣ富津岬方面出口より3km／JR君津駅より3kmタクシー約5分／JR青堀駅より1km徒歩約15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　普通車15台(無料)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -349,7 +349,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5704/5704_room.jpg" alt="旅館　あしか荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>天然鉱石「嵐の湯」＆ラドン風呂◆高台からの眺望と食の癒し宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 千葉県銚子市海鹿島町5290 ／ 最寄り駅：海鹿島 ／ 交通案内：銚子駅より電車にて６ヶ目海鹿島駅下車徒歩５分</p>
+                  <p><strong>【所在地・アクセス】</strong>千葉県銚子市海鹿島町5290 ／ 最寄り駅：海鹿島 ／ 交通案内：銚子駅より電車にて６ヶ目海鹿島駅下車徒歩５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>４０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -371,7 +371,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/158515/158515_kan1.jpg" alt="箱根強羅温泉　瑞の香り 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>箱根の蒼い空、緑の山々に囲まれた静かな温泉宿。イタリア由来の温泉泥セラピーで現代版湯治を楽しめます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県足柄下郡箱根町強羅1321-395 ／ 最寄り駅：主要駅 ／ 交通案内：箱根登山鉄道　早雲山駅から徒歩約１２分</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県足柄下郡箱根町強羅1321-395 ／ 交通案内：箱根登山鉄道　早雲山駅から徒歩約１２分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場完備</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★3.91 ／ 部屋 ★4.09 ／ 設備 ★3.84 ／ 風呂 ★4.29 ／ 食事 ★4.4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

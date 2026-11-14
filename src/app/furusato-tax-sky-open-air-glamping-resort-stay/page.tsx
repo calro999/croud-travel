@@ -637,11 +637,11 @@ export default function FurusatoFeaturePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">天空の露天風呂付きグランピング＆星空ドーム×ふるさと納税厳選ガイド富士山・阿蘇・那須の高級アウトドア宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「天空の露天風呂付きグランピング＆星空ドーム×ふるさと納税厳選ガイド富士山・阿蘇・那須の高級アウトドア宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「天空の露天風呂付きグランピング＆星空ドーム×ふるさと納税厳選ガイド富士山・阿蘇・那須の高級アウトドア宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -732,7 +732,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/72689/72689_gr1.jpg" alt="河口湖カントリーコテージＢａｎ＆グランピングリゾート 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>富士山と河口湖が一望できる一棟貸切リゾート！楽天トラベル　グランピング人気宿「全国1位」</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県南都留郡富士河口湖町河口2092 ／ 最寄り駅：河口湖 ／ 交通案内：中央道河口湖ＩＣ10分、富士急河口湖駅から車10分＜10名様以上河口湖駅より無料送迎あり(要予約） ＞</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県南都留郡富士河口湖町河口2092 ／ 最寄り駅：河口湖 ／ 交通案内：中央道河口湖ＩＣ10分、富士急河口湖駅から車10分＜10名様以上河口湖駅より無料送迎あり(要予約） ＞</p>
                   <p><strong>【駐車場・マイカー利用】</strong>大型駐車場有り　60台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -754,7 +754,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/180435/180435.jpg" alt="ＨＡＮＺ　ＯＵＴＤＯＯＲ　ＲＥＳＯＲＴ（旧：グランピングヴィラハンズ河口湖） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>Relax if you can... 自然と寄り添い、遊びつくす</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県南都留郡富士河口湖町勝山3283－1 ／ 最寄り駅：河口湖 ／ 交通案内：河口湖ＩＣよりお車にて約９分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県南都留郡富士河口湖町勝山3283－1 ／ 最寄り駅：河口湖 ／ 交通案内：河口湖ＩＣよりお車にて約９分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２７台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -776,7 +776,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/185235/185235.jpg" alt="Ｍｔ．Ｆｕｊｉグランピングテラス嶺乃華　＾ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong></p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県南都留郡富士河口湖町河口2044　Ｍｔ．Ｆｕｊｉグランピングテラス嶺乃華 ／ 最寄り駅：河口湖 ／ 交通案内：河口湖駅から車で約１４分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県南都留郡富士河口湖町河口2044　Ｍｔ．Ｆｕｊｉグランピングテラス嶺乃華 ／ 最寄り駅：河口湖 ／ 交通案内：河口湖駅から車で約１４分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場 敷地内有(第2駐車場もあり)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -798,7 +798,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/183951/183951.jpg" alt="南阿蘇　Ｂｌｕｅ　Ｂｅｅ　Ｇａｒｄｅｎ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>9000坪の広大な敷地に11棟だけのグランピング★天然温泉など南阿蘇の大自然の中で贅沢なひと時を</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 熊本県阿蘇郡南阿蘇村長野1874-1 ／ 最寄り駅：立野（熊本） ／ 交通案内：九州自動車道熊本ICより車で約40分</p>
+                  <p><strong>【所在地・アクセス】</strong>熊本県阿蘇郡南阿蘇村長野1874-1 ／ 最寄り駅：立野（熊本） ／ 交通案内：九州自動車道熊本ICより車で約40分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場有り15台程度備えております</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -820,7 +820,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/198835/198835.jpg" alt="南阿蘇フィールドホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>Place To Life Sketch　人生の特別な1コマを描く場所。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 熊本県阿蘇郡南阿蘇村河陰3624 ／ 最寄り駅：長陽 ／ 交通案内：阿蘇くまもと空港より車で20分　長陽駅より歩いて20分</p>
+                  <p><strong>【所在地・アクセス】</strong>熊本県阿蘇郡南阿蘇村河陰3624 ／ 最寄り駅：長陽 ／ 交通案内：阿蘇くまもと空港より車で20分　長陽駅より歩いて20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>あり　64台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -842,7 +842,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/196111/196111.jpg" alt="南阿蘇ＳＴＡＹＨＡＰＰＹ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>南阿蘇の大自然の中でグランピング＆地産地消食材で手ぶらでBBQ</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 熊本県阿蘇郡南阿蘇村河陽5953-1 ／ 最寄り駅：長陽 ／ 交通案内：JR立野駅から車で6分。熊本ICから車で35分。阿蘇山上から33分、白川水源から15分</p>
+                  <p><strong>【所在地・アクセス】</strong>熊本県阿蘇郡南阿蘇村河陽5953-1 ／ 最寄り駅：長陽 ／ 交通案内：JR立野駅から車で6分。熊本ICから車で35分。阿蘇山上から33分、白川水源から15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

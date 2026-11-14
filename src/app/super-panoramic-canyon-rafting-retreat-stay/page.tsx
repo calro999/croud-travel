@@ -236,7 +236,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -680,11 +680,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：激流の爽快アクティビティ！ラフティング体験＆渓谷美一望の露天風呂リゾート5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：激流の爽快アクティビティ！ラフティング体験＆渓谷美一望の露天風呂リゾート5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：激流の爽快アクティビティ！ラフティング体験＆渓谷美一望の露天風呂リゾート5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -766,7 +766,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/16280/16280_w.jpg" alt="国登録有形文化財の宿　人吉温泉　芳野旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【国登録有形文化財の宿】歴史感じる純和風旅館　源泉掛け流し天然温泉と旬の会席料理で心和むひと時を</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 熊本県人吉市上青井町180 ／ 最寄り駅：人吉 ／ 交通案内：人吉ICより車で約8分</p>
+                  <p><strong>【所在地・アクセス】</strong>熊本県人吉市上青井町180 ／ 最寄り駅：人吉 ／ 交通案内：人吉ICより車で約8分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.66 ／ 立地 ★4.29 ／ 部屋 ★4.54 ／ 設備 ★4.4 ／ 風呂 ★4.51 ／ 食事 ★4.3</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -788,7 +788,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9340/9340_rote.jpg" alt="１１種類の貸切露天風呂　水上高原／奥利根温泉　ホテルサンバード 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>１１種の貸切露天風呂や滝を望む高台の露天風呂など湯めぐりを満喫！高原ＢＢＱプランも大人気！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県利根郡みなかみ町藤原4957-1 ／ 最寄り駅：水上 ／ 交通案内：車で関越自動車道・水上ＩＣから３０分・ＪＲで上越線　水上駅より　湯ノ小屋行きバスで藤原スキー場入口下車900M</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県利根郡みなかみ町藤原4957-1 ／ 最寄り駅：水上 ／ 交通案内：車で関越自動車道・水上ＩＣから３０分・ＪＲで上越線　水上駅より　湯ノ小屋行きバスで藤原スキー場入口下車900M</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り ３００台 無料 先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.03 ／ 立地 ★4.08 ／ 部屋 ★3.94 ／ 設備 ★3.75 ／ 風呂 ★4.19 ／ 食事 ★4.16</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -810,7 +810,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/30696/30696_ctw.jpg" alt="水上温泉郷　水上高原ホテル２００ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>夕食バイキング飲み放題無料★本当に涼しい高原がここにある。高原リゾートで日々の喧騒から離れるひととき</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県利根郡みなかみ町藤原6152-1 ／ 最寄り駅：上毛高原 ／ 交通案内：関越自動車道「水上ＩＣ」から19ｋｍ（30分）／上越新幹線「上毛高原駅」から送迎シャトルバス有(3日前までの要事前予約)</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県利根郡みなかみ町藤原6152-1 ／ 最寄り駅：上毛高原 ／ 交通案内：関越自動車道「水上ＩＣ」から19ｋｍ（30分）／上越新幹線「上毛高原駅」から送迎シャトルバス有(3日前までの要事前予約)</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　７００台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -832,7 +832,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/109036/109036_wy.jpg" alt="湯宿くったり温泉レイク・イン 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>◆湖畔に佇む隠れ家リゾート◆本格的なサウナ＆温泉あり◆くったり湖を望むサウナ付ヴィラ＆寛ぎのお部屋</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道上川郡新得町屈足808番地 ／ 最寄り駅：新得 ／ 交通案内：新得駅から車で約20分／札幌北IC～高速トマムIC経由：約2時間30分／千歳東IC～高速トマムIC経由：約2時間</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道上川郡新得町屈足808番地 ／ 最寄り駅：新得 ／ 交通案内：新得駅から車で約20分／札幌北IC～高速トマムIC経由：約2時間30分／千歳東IC～高速トマムIC経由：約2時間</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　60台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.15 ／ 立地 ★4.08 ／ 部屋 ★4.2 ／ 設備 ★4.07 ／ 風呂 ★4.3 ／ 食事 ★4.25</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -854,7 +854,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/144534/144534_kya.jpg" alt="瓜島温泉　翠紅苑さくら 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>１日４組　静寂の隠れ宿　天然貸切温泉　オーナシェフが織りなす出来たての和風懐石をお好みの地酒と共に</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県富士宮市内房385 ／ 最寄り駅：芝川 ／ 交通案内：新東名新清水インターよりお車で７分。東名高速富士川サービスエリアよりお車で２０分。ＪＲ芝川駅よりタクシーで１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県富士宮市内房385 ／ 最寄り駅：芝川 ／ 交通案内：新東名新清水インターよりお車で７分。東名高速富士川サービスエリアよりお車で２０分。ＪＲ芝川駅よりタクシーで１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

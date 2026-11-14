@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">徳島・鳴門＆大塚国際美術館：世界三大潮流・鳴門の渦潮＆陶板名画・鳴門鯛宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「徳島・鳴門＆大塚国際美術館：世界三大潮流・鳴門の渦潮＆陶板名画・鳴門鯛宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「徳島・鳴門＆大塚国際美術館：世界三大潮流・鳴門の渦潮＆陶板名画・鳴門鯛宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -261,7 +261,7 @@ export default function MicroTouristHubPage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. アオアヲナルトリゾート</td>
-                <td className="p-3 text-stone-600">徳島県</td>
+                <td className="p-3 text-stone-600">徳島県 鳴門市鳴門町土佐泊浦字大毛16-45</td>
                 <td className="p-3 text-stone-600">神戸淡路鳴門自動車道 鳴門北ＩＣより１分 ＪＲ鳴門駅より車で約１０分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.46（4254件）</td>
@@ -296,7 +296,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/17766/17766_kan.jpg" alt="ベイリゾートホテル　鳴門海月 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>部屋食で鳴門の会席を♪鳴門うず潮に一番近い景色に感動の旅館</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 徳島県鳴門市鳴門町土佐泊浦福池65-7 ／ 最寄り駅：鳴門 ／ 交通案内：高速道路　鳴門北ICより車で６分。高速バス鳴門公園口より徒歩10分。大塚美術館バス停などからシャトルバス送迎有。要予約</p>
+                  <p><strong>【所在地・アクセス】</strong>徳島県鳴門市鳴門町土佐泊浦福池65-7 ／ 最寄り駅：鳴門 ／ 交通案内：高速道路　鳴門北ICより車で６分。高速バス鳴門公園口より徒歩10分。大塚美術館バス停などからシャトルバス送迎有。要予約</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有３０台　無料　予約不要。当館まではアクセスページに掲載の写真付き道順をご覧ください</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -317,8 +317,8 @@ export default function MicroTouristHubPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/6123/6123_meal1.jpg" alt="アオアヲナルトリゾート 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「徳島・鳴門＆大塚国際美術館（世界三大潮流・鳴門の渦潮＆陶板名画・鳴門鯛宿 厳選ガイド）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：神戸淡路鳴門自動車道 鳴門北ＩＣより１分 ＪＲ鳴門駅より車で約１０分 大塚美術館まで車で3分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>温泉もお部屋もオーシャンビュー！瀬戸内海国立公園内に位置する南欧風リゾートホテルです。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：神戸淡路鳴門自動車道 鳴門北ＩＣより１分 ＪＲ鳴門駅より車で約１０分 大塚美術館まで車で3分</p>
                   <p>【徳島・鳴門＆大塚国際美術館：世界三大潮流・鳴門の渦潮】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -340,7 +340,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/40154/40154_ro.jpg" alt="グランドメルキュール淡路島リゾート＆スパ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【オールインクルーシブ】海と空を愉しむ！淡路島の癒しの絶景リゾートで上質な滞在を</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県南あわじ市福良丙317 ／ 最寄り駅：鳴門 ／ 交通案内：【淡路島南】車約10分、【西淡三原】車約20分（コンビニ等経由はこちら）</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県南あわじ市福良丙317 ／ 最寄り駅：鳴門 ／ 交通案内：【淡路島南】車約10分、【西淡三原】車約20分（コンビニ等経由はこちら）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有／240台（無料・先着順）優先駐車場（妊婦様含む）有電気自動車用充電器×4基（有料）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

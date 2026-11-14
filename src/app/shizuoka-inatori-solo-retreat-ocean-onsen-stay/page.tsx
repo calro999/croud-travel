@@ -77,7 +77,7 @@ export default function ArticlePage() {
             静岡・稲取温泉ひとり旅＆東伊豆オーシャンおこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「東伊豆・稲取温泉ひとり旅・太平洋インフィニティ絶景おこもり」波打ち際露天風呂・金目鯛煮付け発祥の地・雛のつるし飾り！伊豆急直通の海リトリート厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               東伊豆の海岸線から太平洋に向かって突き出た岬に広がる稲取温泉。良質な塩化物温泉が豊富に湧出しており、湯船に浸かりながら波音を聞き、水平線から昇る朝日を浴びる開放感は唯一無二です。「金目鯛の煮付け発祥の地」として名高く、日戻り操業で一本釣りされる最高級ブランド「稲取キンメ」の脂の乗った極上の味覚が一人旅の夜を彩ります。
             </p>
             <p>
-              圧倒的な海絶景とサウナ・インフィニティ露天を誇る人気宿から、海鮮料理を心ゆくまで味わえる料理自慢の宿まで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              圧倒的な海絶景とサウナ・インフィニティ露天を誇る人気宿から、海鮮料理を心ゆくまで味わえる料理自慢の宿まで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -419,11 +419,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">東伊豆・稲取温泉ひとり旅・太平洋インフィニティ絶景おこもり：波打ち際露天風呂・金目鯛煮付け発祥の地・雛のつるし飾り！伊豆急直通の海リトリート厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「東伊豆・稲取温泉ひとり旅・太平洋インフィニティ絶景おこもり：波打ち際露天風呂・金目鯛煮付け発祥の地・雛のつるし飾り！伊豆急直通の海リトリート厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「東伊豆・稲取温泉ひとり旅・太平洋インフィニティ絶景おこもり：波打ち際露天風呂・金目鯛煮付け発祥の地・雛のつるし飾り！伊豆急直通の海リトリート厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -487,7 +487,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/30928/30928_lo.jpg" alt="海一望絶景の宿　いなとり荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全室オーシャンビュー！レイトチェックアウト12時まで心からのんびり♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県賀茂郡東伊豆町稲取1531 ／ 最寄り駅：伊豆稲取 ／ 交通案内：伊豆稲取駅より送迎バスにて約5分、徒歩約15分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県賀茂郡東伊豆町稲取1531 ／ 最寄り駅：伊豆稲取 ／ 交通案内：伊豆稲取駅より送迎バスにて約5分、徒歩約15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　５０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -509,7 +509,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5261/5261_kw.jpg" alt="絶景温泉と魚介満腹の宿　稲取東海ホテル湯苑 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>伊豆七島を一望する波打際のホテル。新鮮な魚介を使った海鮮料理を満喫頂けます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県賀茂郡東伊豆町稲取1599-1 ／ 最寄り駅：伊豆稲取 ／ 交通案内：伊豆急線伊豆稲取駅下車。徒歩約１５分。無料送迎バスあり　※要事前予約（13：30～18：00）　明朝は定期便あります。</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県賀茂郡東伊豆町稲取1599-1 ／ 最寄り駅：伊豆稲取 ／ 交通案内：伊豆急線伊豆稲取駅下車。徒歩約１５分。無料送迎バスあり　※要事前予約（13：30～18：00）　明朝は定期便あります。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -531,7 +531,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/74683/74683_ru1.jpg" alt="稲取温泉　石花海（せのうみ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★プロが認定★伊豆の絶景温泉宿に石花海が選ばれました！最上階から望む絶景をぜひお楽しみください！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県賀茂郡東伊豆町稲取1604-1 ／ 最寄り駅：伊豆稲取 ／ 交通案内：伊豆稲取駅より徒歩にて１５分／お車にて５分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県賀茂郡東伊豆町稲取1604-1 ／ 最寄り駅：伊豆稲取 ／ 交通案内：伊豆稲取駅より徒歩にて１５分／お車にて５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　有料・無料あり　有料駐車場は要予約</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

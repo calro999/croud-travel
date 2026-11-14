@@ -317,11 +317,11 @@ export default function HiroshimaBudgetAutumnPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋の広島×格安：縮景園の紅葉ライトアップと旬の牡蠣・お好み焼き！大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「秋の広島×格安：縮景園の紅葉ライトアップと旬の牡蠣・お好み焼き！大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「秋の広島×格安：縮景園の紅葉ライトアップと旬の牡蠣・お好み焼き！大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -403,7 +403,7 @@ export default function HiroshimaBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/153290/153290.jpg" alt="アパホテル〈広島駅前大橋〉 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ご宿泊者様専用露天風呂付大浴殿完備！おいしい朝食ビュッフェ付きプランあり！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 広島県広島市南区京橋町2-26 ／ 最寄り駅：広島 ／ 交通案内：［山陽新幹線＋JR各線］広島駅南口8番出口から徒歩4分［市内電車］広島電停から徒歩6分　［空港］広島駅から直通バス50分</p>
+                  <p><strong>【所在地・アクセス】</strong>広島県広島市南区京橋町2-26 ／ 最寄り駅：広島 ／ 交通案内：［山陽新幹線＋JR各線］広島駅南口8番出口から徒歩4分［市内電車］広島電停から徒歩6分　［空港］広島駅から直通バス50分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>先着順　入庫から24時間で1500円　入出庫：7：00-22：00　大きさ制限あり　詳細はホテルへ</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -425,7 +425,7 @@ export default function HiroshimaBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/183824/183824.jpg" alt="トラストホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>個室とカプセルが充実のビジネスホテル、朝食無料、大浴場、広島駅より徒歩6分</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 広島県広島市東区光町1-14-10 ／ 最寄り駅：広島 ／ 交通案内：広島駅より徒歩6分</p>
+                  <p><strong>【所在地・アクセス】</strong>広島県広島市東区光町1-14-10 ／ 最寄り駅：広島 ／ 交通案内：広島駅より徒歩6分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>最大2台まで。電話予約受付（082-569-6433）高さ制限2ｍ以下　1泊1100円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★4.2 ／ 部屋 ★4.21 ／ 設備 ★4.12 ／ 風呂 ★4.09 ／ 食事 ★4.21</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -447,7 +447,7 @@ export default function HiroshimaBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/3145/3145_sr.jpg" alt="広島パシフィックホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【男性専用サウナ亀の家】100℃の熱気×オートロウリュで整う。宿泊者無料。心身をリセットし再起動！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 広島県広島市中区上八丁堀8-16 ／ 最寄り駅：広島 ／ 交通案内：JR広島駅からタクシー約5分。路面電車なら「女学院前」徒歩1分。迷わず着ける好立地。</p>
+                  <p><strong>【所在地・アクセス】</strong>広島県広島市中区上八丁堀8-16 ／ 最寄り駅：広島 ／ 交通案内：JR広島駅からタクシー約5分。路面電車なら「女学院前」徒歩1分。迷わず着ける好立地。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>鯉城ガレージ1泊1,200円税込(15時〜翌11時出入れなし）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.24 ／ 立地 ★4.04 ／ 部屋 ★3.99 ／ 設備 ★4.03 ／ 風呂 ★4.27 ／ 食事 ★3.82</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -469,7 +469,7 @@ export default function HiroshimaBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/191892/191892.jpg" alt="アパホテル〈広島駅前新幹線口〉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>大浴殿・露天風呂完備！観光・ビジネスの拠点ホテルにおすすめです。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 広島県広島市東区上大須賀町2-29 ／ 最寄り駅：広島 ／ 交通案内：山陽新幹線・JR各線「広島駅」新幹線口（北口）徒歩4分</p>
+                  <p><strong>【所在地・アクセス】</strong>広島県広島市東区上大須賀町2-29 ／ 最寄り駅：広島 ／ 交通案内：山陽新幹線・JR各線「広島駅」新幹線口（北口）徒歩4分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>16台（先着順、予約不可）、【料金】入庫から24時間 1,500円【時間外】 30分につき200円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -491,7 +491,7 @@ export default function HiroshimaBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/183389/183389.jpg" alt="天然温泉　芸州の湯　ドーミーイン広島ＡＮＮＥＸ（ドーミーイン・御宿野乃　ホテルズグループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>広島県に2店舗目OPEN！最上階には天然温泉と男女共に高温サウナを完備。水風呂も完備</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 広島県広島市中区田中町5-9 ／ 最寄り駅：広島 ／ 交通案内：バス：広島電鉄　エキまちループ線「田中町」下車1分、路面電車：広島電鉄「銀山町(かなやまちょう）」電停より徒歩約10分。</p>
+                  <p><strong>【所在地・アクセス】</strong>広島県広島市中区田中町5-9 ／ 最寄り駅：広島 ／ 交通案内：バス：広島電鉄　エキまちループ線「田中町」下車1分、路面電車：広島電鉄「銀山町(かなやまちょう）」電停より徒歩約10分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>【先着順】機械式立体駐車場18台 平面車椅子利用者用駐車場1台（1泊15時－翌11時 2,300円）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.41 ／ 立地 ★4.24 ／ 部屋 ★4.39 ／ 設備 ★4.39 ／ 風呂 ★4.46 ／ 食事 ★4.46</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

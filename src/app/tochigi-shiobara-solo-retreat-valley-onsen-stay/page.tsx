@@ -77,7 +77,7 @@ export default function ArticlePage() {
             栃木・塩原温泉郷ひとり旅＆十一湯渓谷おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「那須塩原・塩原温泉郷ひとり旅・十一湯渓谷おこもり」開湯1200年名瀑露天・乳白色硫黄泉・文豪の愛した湯治場！箒川渓谷美の秘湯厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               那須塩原駅からバスで渓谷を登ること約40分〜60分。塩原温泉郷は、開湯806年、1200年以上の歴史を誇り、箒川沿いに泉質や効能の異なる11の温泉（塩原十一湯）が点在する稀有な温泉郷です。大自然のマイナスイオンを浴びながら、白濁した硫黄泉や肌に優しい重曹泉など、好みの湯を一人心ゆくまで味わう贅沢が待っています。
             </p>
             <p>
-              湯治場の風情を残す温かいもてなしの宿から、渓谷美を間近に感じる名物露天風呂の宿まで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              湯治場の風情を残す温かいもてなしの宿から、渓谷美を間近に感じる名物露天風呂の宿まで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -388,10 +388,10 @@ export default function ArticlePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/yamagata/"
+                href="/prefectures/tochigi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                山形県の宿・温泉
+                栃木県の宿・温泉
               </Link>
               <Link
                 href="/prefectures/kochi/"
@@ -420,11 +420,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">那須塩原・塩原温泉郷ひとり旅・十一湯渓谷おこもり：開湯1200年名瀑露天・乳白色硫黄泉・文豪の愛した湯治場！箒川渓谷美の秘湯厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「那須塩原・塩原温泉郷ひとり旅・十一湯渓谷おこもり：開湯1200年名瀑露天・乳白色硫黄泉・文豪の愛した湯治場！箒川渓谷美の秘湯厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「那須塩原・塩原温泉郷ひとり旅・十一湯渓谷おこもり：開湯1200年名瀑露天・乳白色硫黄泉・文豪の愛した湯治場！箒川渓谷美の秘湯厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -488,7 +488,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9304/9304_roten.jpg" alt="塩原温泉　山口屋旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>1日100トン湧く自家源泉★2007年に完成した露天風呂や無料の貸切風呂・拘りのお料理が大人気♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県那須塩原市塩原703 ／ 最寄り駅：那須塩原 ／ 交通案内：那須塩原よりタクシーにて３５分/西那須野塩原ＩＣより国道４００号２０分</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県那須塩原市塩原703 ／ 最寄り駅：那須塩原 ／ 交通案内：那須塩原よりタクシーにて３５分/西那須野塩原ＩＣより国道４００号２０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>先着　３０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -510,7 +510,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5650/5650_bath.jpg" alt="塩原温泉　やまの宿　下藤屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>平成温泉旅館番付にも掲載された栃木県を代表する　にごり湯の温泉です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県那須塩原市湯本塩原11 ／ 最寄り駅：那須塩原 ／ 交通案内：東北自動車道　西那須野塩原I.Cより35分。東北新幹線那須塩原より路線バス55分終点下車。送迎車有り、要予約。</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県那須塩原市湯本塩原11 ／ 最寄り駅：那須塩原 ／ 交通案内：東北自動車道　西那須野塩原I.Cより35分。東北新幹線那須塩原より路線バス55分終点下車。送迎車有り、要予約。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　25台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.62 ／ 立地 ★4.13 ／ 部屋 ★4.43 ／ 設備 ★4.34 ／ 風呂 ★4.65 ／ 食事 ★4.7</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -532,7 +532,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31902/31902_r1.jpg" alt="塩原温泉　湯守田中屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>創業明治17年。地元食材を豊富に使用した炉端料理と源泉掛け流し天然温泉100％が自慢の一軒宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県那須塩原市塩原6　（塩原温泉郷 大網温泉） ／ 最寄り駅：那須塩原 ／ 交通案内：東北新幹線 那須塩原駅より送迎（事前予約制／有料1,100円）あり　西那須野塩原ICより車約15分</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県那須塩原市塩原6　（塩原温泉郷 大網温泉） ／ 最寄り駅：那須塩原 ／ 交通案内：東北新幹線 那須塩原駅より送迎（事前予約制／有料1,100円）あり　西那須野塩原ICより車約15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　30台　無料（車高が低い車や、大型車、車椅子利用時などは事前にご連絡ください）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.46 ／ 立地 ★4.41 ／ 部屋 ★4.32 ／ 設備 ★4.28 ／ 風呂 ★4.48 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

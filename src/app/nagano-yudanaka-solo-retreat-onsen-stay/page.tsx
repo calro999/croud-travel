@@ -77,7 +77,7 @@ export default function ArticlePage() {
             長野・信州湯田中温泉ひとり旅＆開湯千三百年おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「信州湯田中温泉ひとり旅・開湯千三百年おこもり」長命長寿の霊泉・スノーモンキー拠点・信州郷土会席！志賀高原の麓で静寂にととのう厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               飛鳥時代、智由法師によって発見されたと伝わる長野県山ノ内町の湯田中温泉。長野駅から特急スノーモンキー号で直通約45分という抜群のアクセスを誇り、小林一茶が長年逗留して数多くの名句を残した文学薫る温泉郷です。豊富な湯量と情緒あふれる街並みが、気ままな一人旅を優しく迎えてくれます。
             </p>
             <p>
-              わずか6室のみの大人の隠れ家宿から、一人旅でも利用しやすい老舗の温泉旅館まで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              わずか6室のみの大人の隠れ家宿から、一人旅でも利用しやすい老舗の温泉旅館まで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -420,11 +420,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">信州湯田中温泉ひとり旅・開湯千三百年おこもり：長命長寿の霊泉・スノーモンキー拠点・信州郷土会席！志賀高原の麓で静寂にととのう厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「信州湯田中温泉ひとり旅・開湯千三百年おこもり：長命長寿の霊泉・スノーモンキー拠点・信州郷土会席！志賀高原の麓で静寂にととのう厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「信州湯田中温泉ひとり旅・開湯千三百年おこもり：長命長寿の霊泉・スノーモンキー拠点・信州郷土会席！志賀高原の麓で静寂にととのう厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -506,7 +506,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/44187/44187_kya.jpg" alt="信州湯田中温泉　華灯りの宿　加命の湯 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>100以上のランプが彩る、寛ぎの湯宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県下高井郡山ノ内町平隠3174 ／ 最寄り駅：湯田中 ／ 交通案内：長野電鉄　湯田中駅より徒歩で５分　【竜王スキーパーク　ソラテラスまで車で20分】</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県下高井郡山ノ内町平隠3174 ／ 最寄り駅：湯田中 ／ 交通案内：長野電鉄　湯田中駅より徒歩で５分　【竜王スキーパーク　ソラテラスまで車で20分】</p>
                   <p><strong>【駐車場・マイカー利用】</strong>宿敷地内に駐車スペースがあります。冬期はスタッドレスタイヤもしくはタイヤチェーンをご用意ください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.7 ／ 立地 ★4.48 ／ 部屋 ★4.48 ／ 設備 ★4.52 ／ 風呂 ★4.7 ／ 食事 ★4.57</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -528,7 +528,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/41634/41634_fu.jpg" alt="信州・湯田中温泉　清風荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★無料貸切風呂や天然温泉の露天風呂。卓球台もあります。人気の信州牛も☆食事は個室</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県下高井郡山ノ内町平穏3268 ／ 最寄り駅：湯田中 ／ 交通案内：長野電鉄　湯田中駅より徒歩２分／上信越自動車道　信州中野ＩＣよりＲ２９２経由で１５分。</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県下高井郡山ノ内町平穏3268 ／ 最寄り駅：湯田中 ／ 交通案内：長野電鉄　湯田中駅より徒歩２分／上信越自動車道　信州中野ＩＣよりＲ２９２経由で１５分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り 10台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -550,7 +550,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1350/1350_ks.jpg" alt="ホテル小田島 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【ＷＩＦＩ接続無料】盛岡の中心ビジネス街に位置し、繁華街までも徒歩2分</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岩手県盛岡市中央通1-12-24 ／ 最寄り駅：盛岡 ／ 交通案内：盛岡駅から車で5分徒歩17分。県庁、市役所まで徒歩5分　☆1階のファミマが目印です♪☆彡</p>
+                  <p><strong>【所在地・アクセス】</strong>岩手県盛岡市中央通1-12-24 ／ 最寄り駅：盛岡 ／ 交通案内：盛岡駅から車で5分徒歩17分。県庁、市役所まで徒歩5分　☆1階のファミマが目印です♪☆彡</p>
                   <p><strong>【駐車場・マイカー利用】</strong>先着順40台迄　1泊880円（税込）14時〜翌11時  満車の際は契約駐車場へご案内</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.16 ／ 立地 ★4.06 ／ 部屋 ★4.07 ／ 設備 ★4.03 ／ 風呂 ★4.02 ／ 食事 ★4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -572,7 +572,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1702/1702_y.jpg" alt="八幡平マウンテンホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>大自然のなかでアクティブな休日を！スキー場直結でお子様連れでも快適♪夏期はトレッキングが人気</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岩手県八幡平市松尾寄木第1地割509-1 ／ 最寄り駅：盛岡 ／ 交通案内：東北自動車道 松尾ICより15分。盛岡駅より岩手県北バスで約80分。</p>
+                  <p><strong>【所在地・アクセス】</strong>岩手県八幡平市松尾寄木第1地割509-1 ／ 最寄り駅：盛岡 ／ 交通案内：東北自動車道 松尾ICより15分。盛岡駅より岩手県北バスで約80分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　200台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -594,7 +594,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1710/1710_sgl.jpg" alt="ＪＲ東日本ホテルメッツ北上 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR北上駅西口徒歩1分！！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岩手県北上市大通1-1-34 ／ 最寄り駅：北上 ／ 交通案内：ＪＲ東北本線・新幹線　北上駅西口から徒歩１分  国道４号線より車で３分</p>
+                  <p><strong>【所在地・アクセス】</strong>岩手県北上市大通1-1-34 ／ 最寄り駅：北上 ／ 交通案内：ＪＲ東北本線・新幹線　北上駅西口から徒歩１分  国道４号線より車で３分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>【 駐車料金：1泊800円 】敷地内17台。満車の場合は提携駐車場をご案内します。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.17 ／ 立地 ★4.23 ／ 部屋 ★4.15 ／ 設備 ★4.1 ／ 風呂 ★4.06</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

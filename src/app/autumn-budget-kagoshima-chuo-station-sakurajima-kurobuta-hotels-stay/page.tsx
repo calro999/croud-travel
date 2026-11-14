@@ -376,11 +376,11 @@ export default function AutumnBudgetHotelsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">鹿児島中央駅前：桜島絶景庭園・仙巌園＆名物黒豚しゃぶしゃぶ！2,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「鹿児島中央駅前：桜島絶景庭園・仙巌園＆名物黒豚しゃぶしゃぶ！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「鹿児島中央駅前：桜島絶景庭園・仙巌園＆名物黒豚しゃぶしゃぶ！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -462,7 +462,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/189101/189101.jpg" alt="ＨＯＴＥＬ　ＮＯＩＲ（ホテルノイル）鹿児島中央駅 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【2024年1月15日グランドオープン！】鹿児島中央駅より徒歩4分！チェックアウト11時!</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県鹿児島市中央町24-16 ／ 最寄り駅：鹿児島中央 ／ 交通案内：鹿児島中央駅(東口／桜島口)より徒歩で約4分。Li-Kaから一番街経由で駅直結</p>
+                  <p><strong>【所在地・アクセス】</strong>鹿児島県鹿児島市中央町24-16 ／ 最寄り駅：鹿児島中央 ／ 交通案内：鹿児島中央駅(東口／桜島口)より徒歩で約4分。Li-Kaから一番街経由で駅直結</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り・先着順(1500円) ファミリーカータイプ収納／立体18台、平面3台（障碍者用含む）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -484,7 +484,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/192839/192839.jpg" alt="アパホテル〈鹿児島中央駅前西口〉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2024年開業。コネクトルーム・モデレートルームを備えたアパホテルの新世代ホテル</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県鹿児島市西田2-20-14 ／ 最寄り駅：鹿児島中央 ／ 交通案内：九州新幹線・JR鹿児島本線「鹿児島中央駅」（西口）徒歩3分</p>
+                  <p><strong>【所在地・アクセス】</strong>鹿児島県鹿児島市西田2-20-14 ／ 最寄り駅：鹿児島中央 ／ 交通案内：九州新幹線・JR鹿児島本線「鹿児島中央駅」（西口）徒歩3分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>ホテルから徒歩1分「NEO西田パーキング」122台（先着順）1泊最大1,100円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -506,7 +506,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/144497/144497_room.jpg" alt="アパホテル〈鹿児島中央駅前〉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>鹿児島中央駅（西口）から最も近いアパホテル。人気の朝食ビュッフェと敷地内駐車場（56台）備える</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県鹿児島市西田2-21-22 ／ 最寄り駅：鹿児島中央 ／ 交通案内：鹿児島中央駅から徒歩1分！天文館まで路面電車で5分！鹿児島ICから車で10分！</p>
+                  <p><strong>【所在地・アクセス】</strong>鹿児島県鹿児島市西田2-21-22 ／ 最寄り駅：鹿児島中央 ／ 交通案内：鹿児島中央駅から徒歩1分！天文館まで路面電車で5分！鹿児島ICから車で10分！</p>
                   <p><strong>【駐車場・マイカー利用】</strong>立体駐車場58台完備。15：00～翌11：00まで1100円、先着順。高さ制限あり。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -528,7 +528,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/108378/108378room1.jpg" alt="東横ＩＮＮ鹿児島中央駅東口 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>鹿児島中央駅から徒歩3分で朝食・小学生以下添い寝無料のホテル！空港バスターミナルまで徒歩で3分</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県鹿児島市中央町26-25 ／ 最寄り駅：鹿児島中央 ／ 交通案内：JR九州新幹線・鹿児島本線・日豊本線・指宿枕崎線　鹿児島中央駅東口より徒歩３分</p>
+                  <p><strong>【所在地・アクセス】</strong>鹿児島県鹿児島市中央町26-25 ／ 最寄り駅：鹿児島中央 ／ 交通案内：JR九州新幹線・鹿児島本線・日豊本線・指宿枕崎線　鹿児島中央駅東口より徒歩３分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>立体60台(高さ２M幅１．８５Mまで）1,000円/泊 平置駐車場のみ予約制　1,000円/泊</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -550,7 +550,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/172024/172024.jpg" alt="ネム〜ル　鹿児島中央駅 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>鹿児島中央駅から歩いて３分と好立地。長期滞在にも！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県鹿児島市西田2-19-3 ／ 最寄り駅：鹿児島中央 ／ 交通案内：鹿児島中央駅より徒歩にて約３分</p>
+                  <p><strong>【所在地・アクセス】</strong>鹿児島県鹿児島市西田2-19-3 ／ 最寄り駅：鹿児島中央 ／ 交通案内：鹿児島中央駅より徒歩にて約３分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.08 ／ 立地 ★4.19 ／ 部屋 ★4.43 ／ 設備 ★4.36 ／ 風呂 ★4.27</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

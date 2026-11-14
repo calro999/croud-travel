@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/onsen-ryokan-with-oceanfront-infinity-pool-stay/"
   };
 
@@ -270,23 +270,6 @@ export default function Page() {
             ))}
           </div>
         </section>
-
-        {/* 旅のQ&A */}
-        <section className="bg-white rounded-2xl p-6 md:p-8 border border-stone-200 shadow-sm space-y-4">
-          <h2 className="text-lg md:text-xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">よくある質問・失敗しない宿選び</h2>
-          <div className="space-y-4 text-sm">
-            <div className="border border-stone-100 rounded-xl p-4 bg-stone-50/50 space-y-2">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5"><span className="text-emerald-700 font-black">Q.</span> おすすめの予約時期やタイミングは？</h3>
-              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">人気の日程（連休や週末）は1〜2ヶ月前には満室になることが多いため、早期予約（早割プラン）の利用がおすすめです。また楽天トラベルの「5と0のつく日」キャンペーンを活用すると最大20%オフのクーポンが併用でき、最もお得に予約できます。
-              </p>
-            </div>
-            <div className="border border-stone-100 rounded-xl p-4 bg-stone-50/50 space-y-2">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5"><span className="text-emerald-700 font-black">Q.</span> 宿選びで失敗しないためのポイントは？</h3>
-              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">宿泊者レビューのお風呂・お食事・接客評価が4.3以上の宿を選ぶと満足度が非常に高くなります。またアクセス手段（送迎バスの有無など）やプランに含まれる特典を事前に確認しておくと安心です。
-              </p>
-            </div>
-          </div>
-        </section>
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -416,11 +399,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：海と空に溶け込むインフィニティプール＆展望温泉！絶景リゾートホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：海と空に溶け込むインフィニティプール＆展望温泉！絶景リゾートホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：海と空に溶け込むインフィニティプール＆展望温泉！絶景リゾートホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -440,7 +423,7 @@ export default function Page() {
               <tbody className="divide-y divide-stone-200">
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. プレジャーリゾート伊豆赤沢温泉</td>
-                <td className="p-3 text-stone-600">東京都</td>
+                <td className="p-3 text-stone-600">静岡県伊東市赤沢浮山163-1</td>
                 <td className="p-3 text-stone-600">伊豆高原駅、南口より無料送迎バスで約１５分※ダイヤは事前にご確認くださ</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（1955件）</td>
@@ -458,7 +441,7 @@ export default function Page() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテル四季の蔵　高台から海を臨む　貸切温泉のペットリゾート</td>
-                <td className="p-3 text-stone-600">東京都</td>
+                <td className="p-3 text-stone-600">静岡県賀茂郡河津町峰1169-13</td>
                 <td className="p-3 text-stone-600">東名高速沼津ＩＣから５０ｋｍ、９０分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（351件）</td>
@@ -476,7 +459,7 @@ export default function Page() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 指宿温泉　夫婦露天風呂の宿　吟松（ぎんしょう）</td>
-                <td className="p-3 text-stone-600">東京都</td>
+                <td className="p-3 text-stone-600">鹿児島県指宿市湯の浜5-26-29</td>
                 <td className="p-3 text-stone-600">車やレンタカー：カーナビに0993-22-3231をご設定下さい　タク</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.63（1565件）</td>
@@ -501,8 +484,8 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/107696/107696.jpg" alt="プレジャーリゾート伊豆赤沢温泉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「海と空に溶け込むインフィニティプール＆展望温泉（絶景リゾートホテル5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：伊豆高原駅、南口より無料送迎バスで約１５分※ダイヤは事前にご確認ください。</p>
+                  <p><strong>【宿の特徴・魅力】</strong>「海と空に溶け込むインフィニティプール＆展望温泉（絶景リゾートホテル5選）」掲載宿の所在地・アクセス・特徴データ一覧は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：伊豆高原駅、南口より無料送迎バスで約１５分※ダイヤは事前にご確認ください。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -524,7 +507,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/178706/178706_kan1.jpg" alt="北谷温泉　レクー沖縄北谷スパ＆リゾート｜ＬｅＱｕ　沖縄北谷｜ベッセルホテルズ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>天然北谷温泉やバリエーションに富んだ客室を保有するベッセルグループ初のリゾートホテル</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県中頭郡北谷町美浜34-2 ／ 最寄り駅：那覇空港 ／ 交通案内：那覇空港より車で約４０分、沖縄アリーナより車で15分、北谷アメリカンビレッジとサンセットビーチまで徒歩５分以内</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県中頭郡北谷町美浜34-2 ／ 最寄り駅：那覇空港 ／ 交通案内：那覇空港より車で約４０分、沖縄アリーナより車で15分、北谷アメリカンビレッジとサンセットビーチまで徒歩５分以内</p>
                   <p><strong>【駐車場・マイカー利用】</strong>北谷アメリカンビレッジ近くのホテルに隣接の自走式立体駐車場無料　250台収容可能！</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -545,8 +528,8 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/30048/30048.jpg" alt="ホテル四季の蔵　高台から海を臨む　貸切温泉のペットリゾート 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「海と空に溶け込むインフィニティプール＆展望温泉（絶景リゾートホテル5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：東名高速沼津ＩＣから５０ｋｍ、９０分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>●自家源泉●愛犬と過ごす森の中の休日。アジアンテイストの癒しの隠れ家的スモールホテルです。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：東名高速沼津ＩＣから５０ｋｍ、９０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -568,7 +551,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31539/31539_w.jpg" alt="白浜温泉　ホテル天山閣　海ゆぅ庭 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>高台から望む全室オーシャンビュー。全室露天風呂付きの宿で紀州の幸を贅沢に味わう</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県西牟婁郡白浜町2020 ／ 最寄り駅：白浜 ／ 交通案内：JR白浜駅より車で約13分／南紀白浜空港より車で約7分</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県西牟婁郡白浜町2020 ／ 最寄り駅：白浜 ／ 交通案内：JR白浜駅より車で約13分／南紀白浜空港より車で約7分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　24台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -589,8 +572,8 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/49347/49347.jpg" alt="指宿温泉　夫婦露天風呂の宿　吟松（ぎんしょう） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「海と空に溶け込むインフィニティプール＆展望温泉（絶景リゾートホテル5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：車やレンタカー：カーナビに0993-22-3231をご設定下さい　タクシー：ＪＲ指宿駅から４分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>鹿児島県指宿市湯の浜5-26-29の「指宿温泉 夫婦露天風呂の宿 吟松（ぎんしょう）」（楽天トラベル評価4.6（1565件）／1泊目安¥14,300〜）の魅力と宿泊ポイントを詳しく紹介。≪2025年9月に新客室がリニューアルオープン≫天空野天風呂から錦江湾を一望。砂むし会館「砂楽」隣。客室の特徴や館内設備、食事プラン、最寄り駅・駐車場アクセスからお得な予約のコツまで詳しくまとめました。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：車やレンタカー：カーナビに0993-22-3231をご設定下さい　タクシー：ＪＲ指宿駅から４分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -601,6 +584,9 @@ export default function Page() {
             </div>
           </div></section>
 
+              <div className="my-8">
+          <ShareButtons title="【2026年】海と空に溶け込むインフィニティプール＆展望温泉！絶景リゾートホテル5選" url="https://croud-travel.pages.dev/onsen-ryokan-with-oceanfront-infinity-pool-stay/" />
+        </div>
       </main>
     
       <HubRelatedPosts currentSlug="onsen-ryokan-with-oceanfront-infinity-pool-stay" />

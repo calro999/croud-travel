@@ -310,37 +310,6 @@ export default function Page() {
           </div>
         </section>
 
-        {/* よくある質問 FAQ */}
-        <section className="mb-16 bg-white rounded-2xl shadow-sm border border-stone-200/80 p-6 md:p-8">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">よくある質問・歴史建築宿の楽しみ方</h2>
-          <div className="space-y-4">
-            
-            <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-amber-700 font-serif font-black text-lg">Q.</span>
-                <span>ヴォーリズ建築の魅力や特徴は何ですか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
-                装飾過多にならず、住む人の使いやすさや居心地、健康を第一に考えた「ヒューマニズム」が最大の特徴です。風通しの良い間取り、温かみのある木製階段や手すり、暖炉、自然光を取り込む窓など、包み込まれるような安心感があります。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-amber-700 font-serif font-black text-lg">Q.</span>
-                <span>フランク・ロイド・ライトの有機的建築（オーガニック・アーキテクチャー）とは？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
-                自然環境と建築が対立せず、まるで大地から生えてきたかのように一体化する建築思想です。水平方向を強調した深い庇、幾何学模様の大谷石やスクラッチタイルの装飾などが代表的なディテールです。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-amber-700 font-serif font-black text-lg">Q.</span>
-                <span>建築見学と合わせて楽しめるおすすめのアクティビティはありますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
-                近江八幡の水郷めぐりや古い町並み散策、軽井沢の美術館巡りや森のサイクリング、阪神間のカフェやベーカリー巡りなど、文化や景観を五感で楽しむ散策との相性が抜群です。
-              </p>
-            </div>
-          </div>
-        </section>
-
         {/* 関連リンク */}
         <section className="bg-stone-200/70 rounded-2xl p-6 md:p-8 text-center border border-stone-300">
           <h3 className="text-xl font-bold text-stone-900 mb-3 font-serif">他のこだわり・テーマ特化ステイを探す</h3>

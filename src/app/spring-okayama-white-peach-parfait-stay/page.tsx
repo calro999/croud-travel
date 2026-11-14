@@ -231,7 +231,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全5選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -674,11 +674,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：果物王国の極上スイーツ！名産清水白桃パフェ＆倉敷美観地区・湯原温泉の風情宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：果物王国の極上スイーツ！名産清水白桃パフェ＆倉敷美観地区・湯原温泉の風情宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：果物王国の極上スイーツ！名産清水白桃パフェ＆倉敷美観地区・湯原温泉の風情宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -760,7 +760,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/39303/39303_hu.jpg" alt="湯原温泉　湯めぐりの宿　松の家花泉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>10の湯めぐりが楽しめる湯めぐりの宿。料理長が厳選した食材で造る創作懐石も魅力。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岡山県真庭市湯原温泉320-1 ／ 最寄り駅：中国勝山 ／ 交通案内：米子自動車道　湯原ＩＣ下車</p>
+                  <p><strong>【所在地・アクセス】</strong>岡山県真庭市湯原温泉320-1 ／ 最寄り駅：中国勝山 ／ 交通案内：米子自動車道　湯原ＩＣ下車</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（無料）３０台まで　河川敷のため無舗装路。駐車が不安な方はスタッフにお申し出くださいませ。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.98 ／ 立地 ★3.71 ／ 部屋 ★3.89 ／ 設備 ★3.7 ／ 風呂 ★4.3 ／ 食事 ★4.19</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -782,7 +782,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/15060/15060_war.jpg" alt="湯原温泉　湯の蔵　つるや 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>創業110年の元酒蔵のお宿。美味しいお酒と料理をきどらないおもてなしで、源泉掛け流しの温泉宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岡山県真庭市湯原温泉144 ／ 最寄り駅：中国勝山 ／ 交通案内：米子道「湯原IC」より湯原温泉方面へ5分。中国銀行手前右折50ｍ。お車は向かいの市営駐車場へ無料完備</p>
+                  <p><strong>【所在地・アクセス】</strong>岡山県真庭市湯原温泉144 ／ 最寄り駅：中国勝山 ／ 交通案内：米子道「湯原IC」より湯原温泉方面へ5分。中国銀行手前右折50ｍ。お車は向かいの市営駐車場へ無料完備</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り 約７０台 市営駐車場を無料で完備</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.61 ／ 立地 ★4.14 ／ 部屋 ★4.29 ／ 設備 ★4.22 ／ 風呂 ★4.57 ／ 食事 ★4.54</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -804,7 +804,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/147649/147649_kan1.jpg" alt="湯原温泉　元禄旅籠　油屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>当館地下より湧く源泉と地元の旬食材を愉しむ西洋料理が自慢。心と身体が満たされる、非日常をあなたに。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岡山県真庭市湯原温泉29 ／ 最寄り駅：中国勝山 ／ 交通案内：ＪＲ　姫新線　中国勝山駅よりバスで４９分湯原温泉バス停下車　バス停までの送迎あります。</p>
+                  <p><strong>【所在地・アクセス】</strong>岡山県真庭市湯原温泉29 ／ 最寄り駅：中国勝山 ／ 交通案内：ＪＲ　姫新線　中国勝山駅よりバスで４９分湯原温泉バス停下車　バス停までの送迎あります。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料にてご利用いただけます。ご到着されましたらご案内させていただきます。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.72 ／ 立地 ★4.18 ／ 部屋 ★4.17 ／ 設備 ★4.17 ／ 風呂 ★4.89</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -826,7 +826,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/137067/137067_kya.jpg" alt="湯原温泉　旅館　かじか荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>消毒・加水・加熱をしない１００％源泉掛け流し・露天風呂（砂湯）まで歩いて２分のお宿。【全館禁煙】</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岡山県真庭市湯原温泉13-6 ／ 最寄り駅：中国勝山 ／ 交通案内：中国勝山駅よりバスで４５分</p>
+                  <p><strong>【所在地・アクセス】</strong>岡山県真庭市湯原温泉13-6 ／ 最寄り駅：中国勝山 ／ 交通案内：中国勝山駅よりバスで４５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.76 ／ 立地 ★4.71 ／ 部屋 ★4.46 ／ 設備 ★4.49 ／ 風呂 ★4.77 ／ 食事 ★4.72</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -848,7 +848,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/56321/56321_ka.jpg" alt="さつき荘＜岡山県＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>四季折々の旬の味を豊富に取り揃えています。音楽・バイク好き大歓迎です♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岡山県真庭市湯原温泉155 ／ 最寄り駅：主要駅 ／ 交通案内：米子自動車道　湯原ＩＣより１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>岡山県真庭市湯原温泉155 ／ 交通案内：米子自動車道　湯原ＩＣより１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -77,7 +77,7 @@ export default function ArticlePage() {
             大分・長湯温泉ひとり旅＆世界屈指の炭酸泉おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「竹田・長湯温泉ひとり旅・世界屈指の高濃度炭酸泉おこもり」ラムネ温泉館・芹川せせらぎ露天・豊後牛＆エノハ料理！くじゅう連山山麓厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               大分空港や熊本方面からアクセスできる奥豊後の秘湯・長湯温泉。ドイツの保養地バードクロイツナハと提携し、「飲んで効き 浸かって効く」と称えられる日本随一の高濃度天然炭酸泉です。湯船に入ると瞬く間に全身が微細な炭酸の泡で包まれ、血行が促進されて体の芯からポカポカと温まります。文豪・川端康成や種田山頭火もこのぬる湯を愛しました。
             </p>
             <p>
-              わずか数室の大人の隠れ家高級旅館から、老舗の風情を伝える名門旅館まで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              わずか数室の大人の隠れ家高級旅館から、老舗の風情を伝える名門旅館まで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -423,11 +423,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">竹田・長湯温泉ひとり旅・世界屈指の高濃度炭酸泉おこもり：ラムネ温泉館・芹川せせらぎ露天・豊後牛＆エノハ料理！くじゅう連山山麓厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「竹田・長湯温泉ひとり旅・世界屈指の高濃度炭酸泉おこもり：ラムネ温泉館・芹川せせらぎ露天・豊後牛＆エノハ料理！くじゅう連山山麓厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「竹田・長湯温泉ひとり旅・世界屈指の高濃度炭酸泉おこもり：ラムネ温泉館・芹川せせらぎ露天・豊後牛＆エノハ料理！くじゅう連山山麓厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -447,7 +447,7 @@ export default function ArticlePage() {
               <tbody className="divide-y divide-stone-200">
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 長湯温泉　丸長旅館</td>
-                <td className="p-3 text-stone-600">長野県</td>
+                <td className="p-3 text-stone-600">大分県竹田市直入町長湯温泉７９９５－２</td>
                 <td className="p-3 text-stone-600">◆湯布院IC国道210号を湯平温泉経由で広域農道50分◆ＪＲ豊肥本線</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.85（54件）</td>
@@ -456,7 +456,7 @@ export default function ArticlePage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 長湯温泉　大丸旅館</td>
-                <td className="p-3 text-stone-600">長野県</td>
+                <td className="p-3 text-stone-600">大分県竹田市直入町長湯7992-1</td>
                 <td className="p-3 text-stone-600">JR豊肥本線・豊後竹田駅よりお車にて25分。（駅から路線バスもあります</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.37（199件）</td>
@@ -490,12 +490,12 @@ export default function ArticlePage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/40731/40731.jpg" alt="長湯温泉　丸長旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「竹田・長湯温泉ひとり旅・世界屈指の高濃度炭酸泉おこもり（ラムネ温泉館・芹川せせらぎ露天・豊後牛＆エノハ料理）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：◆湯布院IC国道210号を湯平温泉経由で広域農道50分◆ＪＲ豊肥本線　豊後竹田駅から車（タクシー）で３０分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>「竹田・長湯温泉ひとり旅・世界屈指の高濃度炭酸泉おこもり」掲載宿の所在地・アクセス・特徴データ一覧は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：◆湯布院IC国道210号を湯平温泉経由で広域農道50分◆ＪＲ豊肥本線　豊後竹田駅から車（タクシー）で３０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「絶景のロケーションとおもてなしに心から癒やされました。」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「長湯温泉 丸長旅館での快適な滞在とアクセス面の良さに満足したという評価が寄せられています。」
                   </blockquote>
                 </div>
               </div>
@@ -512,8 +512,8 @@ export default function ArticlePage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/108788/108788.jpg" alt="長湯温泉　大丸旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「竹田・長湯温泉ひとり旅・世界屈指の高濃度炭酸泉おこもり（ラムネ温泉館・芹川せせらぎ露天・豊後牛＆エノハ料理）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：JR豊肥本線・豊後竹田駅よりお車にて25分。（駅から路線バスもあります。長湯行き約40分、長湯下車。）</p>
+                  <p><strong>【宿の特徴・魅力】</strong>長湯温泉の老舗宿。全室・芹川に面し温泉街散策にも便利。泡付き炭酸泉「ラムネ温泉館」入浴無料。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：JR豊肥本線・豊後竹田駅よりお車にて25分。（駅から路線バスもあります。長湯行き約40分、長湯下車。）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -535,7 +535,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/104673/104673_ru.jpg" alt="長湯温泉　上野屋旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>飲んで良し、浸かって良しの自慢の温泉。  高濃度の炭酸ガスを含むお湯です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大分県竹田市直入町長湯7961 ／ 最寄り駅：豊後竹田 ／ 交通案内：JR豊肥本線・豊後竹田駅より長湯温泉行バスで45分（お車で30分）。【マイカー】大分道・湯布院ICから車で45分</p>
+                  <p><strong>【所在地・アクセス】</strong>大分県竹田市直入町長湯7961 ／ 最寄り駅：豊後竹田 ／ 交通案内：JR豊肥本線・豊後竹田駅より長湯温泉行バスで45分（お車で30分）。【マイカー】大分道・湯布院ICから車で45分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

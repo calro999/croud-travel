@@ -77,7 +77,7 @@ export default function ArticlePage() {
         <div className="flex flex-wrap items-center text-xs text-stone-500 gap-4 border-b border-stone-200 pb-4">
           <time dateTime="">2026.09.13 更新</time>
           <span>執筆：旅宿クラウド ひとり旅・出張調査班</span>
-          <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">楽天トラベル公式API提携</span>
+          <span className="bg-amber-100 text-amber-900 px-2 py-0.5 rounded font-medium">編集部が厳選</span>
         </div>
 
         {/* リード文 */}
@@ -89,7 +89,7 @@ export default function ArticlePage() {
             西日本最大のターミナルであり、ビジネス・商業・グルメのあらゆるエネルギーが凝縮する大阪・梅田（キタ）。日中は分刻みの商談やカンファレンスに追われるビジネスパーソンにとって、夜の滞在先での完全なリカバリーは翌日のパフォーマンスを決定づけます。
           </p>
           <p>
-            客室の浴槽をひねるだけで天然温泉が溢れ出る極上ステイから、サウナ愛好家（サウナー）の聖地として知られるスパサウナ施設まで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+            客室の浴槽をひねるだけで天然温泉が溢れ出る極上ステイから、サウナ愛好家（サウナー）の聖地として知られるスパサウナ施設まで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
           </p>
         </div>
       </header>
@@ -368,7 +368,7 @@ export default function ArticlePage() {
           <p className="text-sm text-amber-100 mb-6 max-w-2xl mx-auto">平日限定の一人旅割引や、早期割・直前割など、楽天トラベルならではの特典プランが多数用意されています。人気日程は早めの予約がおすすめです。
           </p>
           <a
-            href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2F"
+            href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fsearch.travel.rakuten.co.jp%2Fds%2Fundated%2Fsearch%3Ff_query%3D%25E5%25A4%25A7%25E9%2598%25AA%25E5%25BA%259C"
             target="_blank"
             rel="sponsored noopener noreferrer"
             className="inline-flex items-center justify-center bg-white text-amber-900 font-bold px-8 py-3 rounded-xl shadow-lg hover:bg-amber-50 transition transform hover:-translate-y-0.5 text-sm sm:text-base"
@@ -440,10 +440,10 @@ export default function ArticlePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/yamagata/"
+                href="/prefectures/osaka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                山形県の宿・温泉
+                大阪府の宿・温泉
               </Link>
               <Link
                 href="/prefectures/tottori/"

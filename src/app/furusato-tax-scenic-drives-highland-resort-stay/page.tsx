@@ -325,7 +325,7 @@ export default function FurusatoUpgradedPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-6 my-10 max-w-5xl mx-auto">
           <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本百名道の絶景ドライブルートと高原温泉宿×ふるさと納税厳選ガイドビーナスライン・志賀草津・やまなみ：楽天トラベル高評価宿スペック比較表＆クチコミ徹底解説</h2>
           <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-            楽天トラベル公式APIから取得した全国の高評価宿データ（所在地・最寄り駅・駐車場・総合評価・参考最安料金）と実際の宿泊者レビューを整理しました。ふるさと納税の旅行クーポンや早期割引プランと併用することで、ワンランク上の滞在をお得に実現できます。
+            全国の高評価宿データ（所在地・アクセス・駐車場・評価・参考料金）と宿泊者レビューを整理しました。ふるさと納税の旅行クーポンや早期割引プランと併用することで、ワンランク上の滞在をお得に実現できます。
           </p>
           <div className="overflow-x-auto">
             <table className="w-full text-left text-xs border-collapse bg-white rounded-xl overflow-hidden border border-stone-200">

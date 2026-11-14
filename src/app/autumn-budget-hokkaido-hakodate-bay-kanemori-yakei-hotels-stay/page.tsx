@@ -376,11 +376,11 @@ export default function AutumnBudgetHotelsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">函館ベイエリア：函館山世界三大夜景＆金森赤レンガ倉庫・海鮮！2,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「函館ベイエリア：函館山世界三大夜景＆金森赤レンガ倉庫・海鮮！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「函館ベイエリア：函館山世界三大夜景＆金森赤レンガ倉庫・海鮮！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -462,7 +462,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9240/9240_room.jpg" alt="ホテル函館ロイヤル　シーサイド　（ＢＢＨホテルグループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>観光とビジネスに最適な大型シティホテル♪駐車場代無料(普通車)！夜鳴きそば提供中♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道函館市大森町16-9 ／ 最寄り駅：函館 ／ 交通案内：■函館空港から車で約17分■JR函館駅から徒歩で約10分■市電松風町から徒歩3分■空港線バス大森町から徒歩2分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道函館市大森町16-9 ／ 最寄り駅：函館 ／ 交通案内：■函館空港から車で約17分■JR函館駅から徒歩で約10分■市電松風町から徒歩3分■空港線バス大森町から徒歩2分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　70台（先着順）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.88 ／ 立地 ★3.84 ／ 部屋 ★3.87 ／ 設備 ★3.68 ／ 風呂 ★3.67 ／ 食事 ★4.21</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -484,7 +484,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/126/126_sgl.jpg" alt="ホテル法華クラブ函館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>函館郷土料理が豊富な朝食バイキングを是非■人工温泉準天然《光明石温泉》完備！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道函館市本町27-1 ／ 最寄り駅：函館 ／ 交通案内：函館駅からタクシーで約10分、函館空港からタクシーで約15分。市電五稜郭公園前から徒歩1分。</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道函館市本町27-1 ／ 最寄り駅：函館 ／ 交通案内：函館駅からタクシーで約10分、函館空港からタクシーで約15分。市電五稜郭公園前から徒歩1分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>◆1泊 800円（先着順）地下（10台）屋外（40台）※バイク500円　バス・トラック2400円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.4 ／ 立地 ★4.35 ／ 部屋 ★4.35 ／ 設備 ★4.29 ／ 風呂 ★4.34 ／ 食事 ★4.5</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -506,7 +506,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/69326/69326_s.jpg" alt="天然温泉　漁火の湯　スーパーホテル函館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>泉質の良い小さな天然温泉【漁火の湯】★焼きたてパンや函館名物イカの塩辛にスープカレーの健康朝食♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道函館市松風町1-10 ／ 最寄り駅：函館 ／ 交通案内：ＪＲ　函館駅より徒歩７分／函館空港より函館駅行きシャトルバスにて「大森町」下車、徒歩１分/コンビニまで徒歩１分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道函館市松風町1-10 ／ 最寄り駅：函館 ／ 交通案内：ＪＲ　函館駅より徒歩７分／函館空港より函館駅行きシャトルバスにて「大森町」下車、徒歩１分/コンビニまで徒歩１分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４２台　５００円（税込み／泊）　当日来館先着到着順のご案内</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -528,7 +528,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/69295/69295_da.jpg" alt="ラビスタ函館ベイ（共立リゾート） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>最上階の展望温泉と和洋朝食バイキングが彩る、どこよりも「函館らしい」ホテル。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道函館市豊川町12-6 ／ 最寄り駅：函館 ／ 交通案内：ＪＲ函館駅より徒歩15分  函館空港よりタクシーで約20分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道函館市豊川町12-6 ／ 最寄り駅：函館 ／ 交通案内：ＪＲ函館駅より徒歩15分  函館空港よりタクシーで約20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　1,000円（税込／泊）先着順／170台</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -550,7 +550,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/184486/184486.jpg" alt="グランパレット函館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>函館山が一望できるファミリー向けホテル</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道函館市大手町1-1 ／ 最寄り駅：函館 ／ 交通案内：魚市場通駅から徒歩1分、JR函館駅から徒歩13分、函館空港から車で20分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道函館市大手町1-1 ／ 最寄り駅：函館 ／ 交通案内：魚市場通駅から徒歩1分、JR函館駅から徒歩13分、函館空港から車で20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>先着順　1泊／1台700円（事前予約不可）　ご利用開始時間は 13時 から</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.24 ／ 部屋 ★4.39 ／ 設備 ★4.2 ／ 風呂 ★4.16</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

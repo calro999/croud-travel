@@ -77,7 +77,7 @@ export default function ArticlePage() {
             佐賀・武雄温泉ひとり旅＆歴史アートおこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「佐賀・武雄温泉ひとり旅・楼門辰野金吾おこもり」千三百年美肌湯・御船山楽園チームラボ・佐賀牛！武雄温泉駅直通の極上厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               開湯1300年の歴史を誇り、宮本武蔵やシーボルト、伊達政宗など歴史上の偉人たちが湯治に訪れた佐賀県・武雄温泉。西九州新幹線「かもめ」の開通により博多や長崎からのアクセスが飛躍的に向上し、日本屈指のサウナ聖地としても世界中からサウナーやソロ旅人が集まっています。
             </p>
             <p>
-              全国サウナランキングで3年連続1位を獲得した異次元のリゾートから、一人旅で気軽に駅前温泉を楽しめるホテルまで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              全国サウナランキングで3年連続1位を獲得した異次元のリゾートから、一人旅で気軽に駅前温泉を楽しめるホテルまで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -418,11 +418,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">佐賀・武雄温泉ひとり旅・楼門辰野金吾おこもり：千三百年美肌湯・御船山楽園チームラボ・佐賀牛！武雄温泉駅直通の極上厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「佐賀・武雄温泉ひとり旅・楼門辰野金吾おこもり：千三百年美肌湯・御船山楽園チームラボ・佐賀牛！武雄温泉駅直通の極上厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「佐賀・武雄温泉ひとり旅・楼門辰野金吾おこもり：千三百年美肌湯・御船山楽園チームラボ・佐賀牛！武雄温泉駅直通の極上厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -486,7 +486,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/13417/13417_war.jpg" alt="武雄温泉　御船山楽園ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>１５万坪の雄大な敷地に自然と四季の花が溢れています。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 佐賀県武雄市武雄町武雄4100 ／ 最寄り駅：武雄温泉 ／ 交通案内：JR佐世保線「武雄温泉駅」より車で５分 / 長崎自動車道 武雄・北方ICより嬉野方面へ約５km</p>
+                  <p><strong>【所在地・アクセス】</strong>佐賀県武雄市武雄町武雄4100 ／ 最寄り駅：武雄温泉 ／ 交通案内：JR佐世保線「武雄温泉駅」より車で５分 / 長崎自動車道 武雄・北方ICより嬉野方面へ約５km</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.51 ／ 立地 ★4.29 ／ 部屋 ★4.24 ／ 設備 ★4.25 ／ 風呂 ★4.74 ／ 食事 ★4.72</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -508,7 +508,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9074/9074_si.jpg" alt="セントラルホテル武雄温泉駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>武雄温泉駅前より徒歩1分！大浴場・露天風呂完備！＜Wi-Fi完備＞</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 佐賀県武雄市武雄町昭和16-12 ／ 最寄り駅：武雄温泉 ／ 交通案内：ＪＲ博多駅より１時間・ＪＲ新鳥栖駅より４０分・ＪＲ武雄温泉駅より徒歩１分/高速武雄北方ＩＣより車で７分！</p>
+                  <p><strong>【所在地・アクセス】</strong>佐賀県武雄市武雄町昭和16-12 ／ 最寄り駅：武雄温泉 ／ 交通案内：ＪＲ博多駅より１時間・ＪＲ新鳥栖駅より４０分・ＪＲ武雄温泉駅より徒歩１分/高速武雄北方ＩＣより車で７分！</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り 約70台 無料 先着順（一区画内に収まらない車両の駐車は、ご遠慮いただいております）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -530,7 +530,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/184906/184906.jpg" alt="武雄温泉　星の華 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2022.10月　武雄に大人2名様だけのお部屋、全室温泉露天風呂付の宿がOPEN</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 佐賀県武雄市武雄町大字武雄3688 ／ 最寄り駅：佐賀空港 ／ 交通案内：武雄温泉駅からお車で約5分　長崎空港からお車で約50分　佐賀空港（九州佐賀国際空港）から約一時間です</p>
+                  <p><strong>【所在地・アクセス】</strong>佐賀県武雄市武雄町大字武雄3688 ／ 最寄り駅：佐賀空港 ／ 交通案内：武雄温泉駅からお車で約5分　長崎空港からお車で約50分　佐賀空港（九州佐賀国際空港）から約一時間です</p>
                   <p><strong>【駐車場・マイカー利用】</strong>母屋向かい・隣に宿泊者様専用の無料駐車場がございます。 （ご予約不要・13台分のスペースあり）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

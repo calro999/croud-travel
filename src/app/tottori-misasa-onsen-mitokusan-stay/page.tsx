@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">鳥取・三朝温泉＆三徳山三仏寺：世界屈指のラジウム温泉・国宝投入堂宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「鳥取・三朝温泉＆三徳山三仏寺：世界屈指のラジウム温泉・国宝投入堂宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「鳥取・三朝温泉＆三徳山三仏寺：世界屈指のラジウム温泉・国宝投入堂宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -279,7 +279,7 @@ export default function MicroTouristHubPage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 三朝温泉　旅館　大橋</td>
-                <td className="p-3 text-stone-600">鳥取県</td>
+                <td className="p-3 text-stone-600">鳥取県東伯郡三朝町三朝302-1</td>
                 <td className="p-3 text-stone-600">JR山陰本線-倉吉駅下車～バス20分／中国道-院庄ICよりＲ１７９号を</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.42（278件）</td>
@@ -323,7 +323,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/184048/184048.jpg" alt="東郷館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>はわい温泉で唯一ワンちゃんと泊まれる宿♪24時間の温泉と旬の海鮮でほっと癒されるペット旅を。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鳥取県東伯郡湯梨浜町はわい温泉4-24 ／ 最寄り駅：松崎（鳥取） ／ 交通案内：松崎駅より車で約８分</p>
+                  <p><strong>【所在地・アクセス】</strong>鳥取県東伯郡湯梨浜町はわい温泉4-24 ／ 最寄り駅：松崎（鳥取） ／ 交通案内：松崎駅より車で約８分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/84783/84783.jpg" alt="ビジネスイン　諏訪部 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>倉吉市街地の飲食店街や、観光スポットへのアクセス良好。シンプルでリーズナブルなビジネスホテル。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鳥取県倉吉市上井町1-6-13 ／ 最寄り駅：倉吉 ／ 交通案内：倉吉駅より徒歩にて約５分</p>
+                  <p><strong>【所在地・アクセス】</strong>鳥取県倉吉市上井町1-6-13 ／ 最寄り駅：倉吉 ／ 交通案内：倉吉駅より徒歩にて約５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　　トラック．バス置けます</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4871/4871_ky.jpg" alt="大江戸温泉物語Ｐｒｅｍｉｕｍ　斉木別館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>キッズパークやプレミアムラウンジ、ライトアップされた日本庭園など、家族みんなが楽しめる温泉宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鳥取県東伯郡三朝町山田70 ／ 最寄り駅：倉吉 ／ 交通案内：中国自動車道院庄Ｉ．Ｃから５５分／ＪＲ倉吉駅下車、三朝温泉行きバスにて約２０分・お車にて約１５分</p>
+                  <p><strong>【所在地・アクセス】</strong>鳥取県東伯郡三朝町山田70 ／ 最寄り駅：倉吉 ／ 交通案内：中国自動車道院庄Ｉ．Ｃから５５分／ＪＲ倉吉駅下車、三朝温泉行きバスにて約２０分・お車にて約１５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>１００台　予約不要　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -388,8 +388,8 @@ export default function MicroTouristHubPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/40046/40046.jpg" alt="三朝温泉　旅館　大橋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「鳥取・三朝温泉＆三徳山三仏寺（世界屈指のラジウム温泉・国宝投入堂宿 厳選ガイド）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：JR山陰本線-倉吉駅下車～バス20分／中国道-院庄ICよりＲ１７９号を倉吉方面に約50分/ANA羽田～鳥取～バス～倉吉</p>
+                  <p><strong>【宿の特徴・魅力】</strong>鳥取県東伯郡三朝町三朝302-1の「三朝温泉 旅館 大橋」（楽天トラベル評価4.36（278件）／1泊目安¥14,300〜）の魅力と宿泊ポイントを詳しく紹介。舘は国登録有形文化財。自家源泉５ヶ所の内、自噴泉が３ヶ所ある「巌窟の湯」が名物風呂。部屋タイプ選びのポイントや入浴・食事情報、交通アクセス・駐車場データ、楽天トラベルでの賢い予約方法を紹介します。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：JR山陰本線-倉吉駅下車～バス20分／中国道-院庄ICよりＲ１７９号を倉吉方面に約50分/ANA羽田～鳥取～バス～倉吉</p>
                   <p>【鳥取・三朝温泉＆三徳山三仏寺：世界屈指のラジウム温泉】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/153377/153377_kan1.jpg" alt="三朝温泉桃園館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【日本遺産】に選ばれた三朝温泉を源泉100%でお楽しみいただける温泉旅館です！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鳥取県東伯郡三朝町山田118-1 ／ 最寄り駅：鳥取空港 ／ 交通案内：ＪＲ倉吉駅より三朝温泉行バスにて２０分／中国道 院庄ＩＣよりＲ１７９経由で６０分／米子道 湯原ＩＣより４５分</p>
+                  <p><strong>【所在地・アクセス】</strong>鳥取県東伯郡三朝町山田118-1 ／ 最寄り駅：鳥取空港 ／ 交通案内：ＪＲ倉吉駅より三朝温泉行バスにて２０分／中国道 院庄ＩＣよりＲ１７９経由で６０分／米子道 湯原ＩＣより４５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/78116/78116_ru.jpg" alt="三朝温泉　木造りの宿　橋津屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>源泉掛け流し天然温泉を大浴場や露天風呂で、冬の旬　松葉蟹など四季の食材による美食もご堪能ください。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鳥取県東伯郡三朝町三朝886 ／ 最寄り駅：倉吉 ／ 交通案内：ＪＲ　倉吉駅より日ノ丸バス乗車後三朝温泉にて下車徒歩３分(倉吉駅への送迎は行っておりません）</p>
+                  <p><strong>【所在地・アクセス】</strong>鳥取県東伯郡三朝町三朝886 ／ 最寄り駅：倉吉 ／ 交通案内：ＪＲ　倉吉駅より日ノ丸バス乗車後三朝温泉にて下車徒歩３分(倉吉駅への送迎は行っておりません）</p>
                   <p>【鳥取・三朝温泉＆三徳山三仏寺：世界屈指のラジウム温泉】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

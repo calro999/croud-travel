@@ -77,7 +77,7 @@ export default function ArticlePage() {
             兵庫・姫路駅前天然温泉＆城下町サウナ出張特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「姫路出張・天然温泉サウナ」世界遺産姫路城ビュー・天然温泉白鷺の湯・播州美食！山陽新幹線拠点を制する厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               日本初の世界文化遺産・姫路城を擁し、播磨臨海工業地帯の産業中枢として活況を呈する兵庫県・姫路市。山陽新幹線の重要ハブである姫路駅周辺には、出張ビジネスパーソンを温かく迎える天然温泉大浴場や本格サウナを備えた高機能ホテルが集まっています。
             </p>
             <p>
-              天然温泉露天風呂とサウナ・夜鳴きそばが揃う人気ホテルから、日帰り温泉並みの巨大スパゾーンを併設したシティリゾートまで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              天然温泉露天風呂とサウナ・夜鳴きそばが揃う人気ホテルから、日帰り温泉並みの巨大スパゾーンを併設したシティリゾートまで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -419,11 +419,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">姫路出張・天然温泉サウナ：世界遺産姫路城ビュー・天然温泉白鷺の湯・播州美食！山陽新幹線拠点を制する厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「姫路出張・天然温泉サウナ：世界遺産姫路城ビュー・天然温泉白鷺の湯・播州美食！山陽新幹線拠点を制する厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「姫路出張・天然温泉サウナ：世界遺産姫路城ビュー・天然温泉白鷺の湯・播州美食！山陽新幹線拠点を制する厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -505,7 +505,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/129607/129607.jpg" alt="天然温泉　白鷺の湯　ドーミーイン姫路（ドーミーイン・御宿野乃　ホテルズグループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2024年10月16日リフレッシュオープン！JR姫路駅より徒歩3分駅前唯一の天然温泉大浴場完備★</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県姫路市豊沢町160-2 ／ 最寄り駅：姫路 ／ 交通案内：ＪＲ山陽本線・新幹線「姫路駅」より徒歩3分。姫路バイパス「姫路南ランプ」より約１0分</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県姫路市豊沢町160-2 ／ 最寄り駅：姫路 ／ 交通案内：ＪＲ山陽本線・新幹線「姫路駅」より徒歩3分。姫路バイパス「姫路南ランプ」より約１0分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有26台　1泊1台1,300円　高205㎝×幅185㎝（先着順満車時は契約近隣駐車場へのご案内)</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.37 ／ 立地 ★4.35 ／ 部屋 ★4.29 ／ 設備 ★4.33 ／ 風呂 ★4.49 ／ 食事 ★4.37</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -527,7 +527,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2636/2636_rst.jpg" alt="ナチュラルファームシティ農園ホテル　＜秩父の街並みを眼下に望むロケーション＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>高台に位置する当ホテルは運が良ければ雲海に出会えるかも　～「雲海に 出会えたあなたは 運がいい」～</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 埼玉県秩父市大宮5911-1 ／ 最寄り駅：秩父 ／ 交通案内：西武池袋線、西武秩父駅より車で約７分（無料送迎有）、関越自動車道　花園Ｉ．Ｃから皆野寄居バイパス経由約４０分</p>
+                  <p><strong>【所在地・アクセス】</strong>埼玉県秩父市大宮5911-1 ／ 最寄り駅：秩父 ／ 交通案内：西武池袋線、西武秩父駅より車で約７分（無料送迎有）、関越自動車道　花園Ｉ．Ｃから皆野寄居バイパス経由約４０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台　無料　本館前Ｐ　第二駐車場　※先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -549,7 +549,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5013/5013_war.jpg" alt="渋沢栄一翁命名の宿　養浩亭 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>上長瀞駅徒歩5分！荒川沿いで観光にもビジネスにも便利♪創業103年目のレトロな旅館です</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 埼玉県秩父郡長瀞町長瀞1446 ／ 最寄り駅：上長瀞 ／ 交通案内：電車：秩父鉄道・上長瀞駅より徒歩５分　車：関越自動車道・花園ＩＣより、国道１４０号長瀞方面へ約２０ｋｍ、約２５分</p>
+                  <p><strong>【所在地・アクセス】</strong>埼玉県秩父郡長瀞町長瀞1446 ／ 最寄り駅：上長瀞 ／ 交通案内：電車：秩父鉄道・上長瀞駅より徒歩５分　車：関越自動車道・花園ＩＣより、国道１４０号長瀞方面へ約２０ｋｍ、約２５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１３台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.16 ／ 立地 ★4.04 ／ 部屋 ★3.86 ／ 設備 ★3.66 ／ 風呂 ★3.84 ／ 食事 ★4.19</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -571,7 +571,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5125/5125_heya.jpg" alt="旅館　きん藤 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>二食付きでお泊りいただけます。　無料wi-fi　JR深谷駅より徒歩7分、</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 埼玉県深谷市本住町7‐52 ／ 最寄り駅：深谷 ／ 交通案内：深谷駅北側徒歩７分、旧中山道沿い、花園ＩＣより【２５分】１０ｋｍ</p>
+                  <p><strong>【所在地・アクセス】</strong>埼玉県深谷市本住町7‐52 ／ 最寄り駅：深谷 ／ 交通案内：深谷駅北側徒歩７分、旧中山道沿い、花園ＩＣより【２５分】１０ｋｍ</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場アリ、大型車・マイクロもＯＫ、（15台）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -593,7 +593,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5828/5828_war.jpg" alt="秩父七湯『御代の湯』　新木鉱泉旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2025楽天トラベルアワード13度目の受賞！民芸調のほのぼの宿！滑らかな卵水と云われる温泉が自慢です</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 埼玉県秩父市山田1538番地1 ／ 最寄り駅：西武秩父 ／ 交通案内：◆送迎有◆その他、西武秩父駅よりタクシー10分又は定峰行きバス25分金昌寺下車徒歩4分●関越道花園ICより40分●</p>
+                  <p><strong>【所在地・アクセス】</strong>埼玉県秩父市山田1538番地1 ／ 最寄り駅：西武秩父 ／ 交通案内：◆送迎有◆その他、西武秩父駅よりタクシー10分又は定峰行きバス25分金昌寺下車徒歩4分●関越道花園ICより40分●</p>
                   <p><strong>【駐車場・マイカー利用】</strong>３０台　　【無料・予約不要】</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

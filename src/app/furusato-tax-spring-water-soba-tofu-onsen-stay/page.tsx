@@ -636,11 +636,11 @@ export default function FurusatoFeaturePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">名水百選・湧水めぐり＆名水蕎麦豆腐料理の宿×ふるさと納税厳選ガイド忍野八海・安曇野・郡上八幡の名湯：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「名水百選・湧水めぐり＆名水蕎麦豆腐料理の宿×ふるさと納税厳選ガイド忍野八海・安曇野・郡上八幡の名湯」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「名水百選・湧水めぐり＆名水蕎麦豆腐料理の宿×ふるさと納税厳選ガイド忍野八海・安曇野・郡上八幡の名湯」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -731,7 +731,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1778/1778_sgl.jpg" alt="河口湖天然温泉「霊水の湯」ホテルルートイン河口湖 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>◆天然温泉展望大浴場より富士山・河口湖が眺望可能◆ＷＯＷＯＷ無料視聴可◆WiFi無料◆バイキング朝食</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県南都留郡富士河口湖町浅川366-1 ／ 最寄り駅：河口湖 ／ 交通案内：富士急行河口湖駅から車で約5分　中央自動車道河口湖インターチェンジより車で約10分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県南都留郡富士河口湖町浅川366-1 ／ 最寄り駅：河口湖 ／ 交通案内：富士急行河口湖駅から車で約5分　中央自動車道河口湖インターチェンジより車で約10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　25台　無料　（駐車場スペース１区画を超える中型・大型車の駐車をご遠慮頂いております。）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -753,7 +753,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/72707/72707_wayo.jpg" alt="天然温泉　富士松の湯　富士松園ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全てのお部屋が【富士山】又は【山中湖】の眺望自慢のホテル！富士山を眺める溶岩風呂で温泉も満喫♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県南都留郡山中湖村山中195 ／ 最寄り駅：富士吉田 ／ 交通案内：最寄IC：山中湖IC（東富士五湖道路）最寄バス：TBS寮前（富士急行バス）・山中局入口（中央高速バス）</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県南都留郡山中湖村山中195 ／ 最寄り駅：富士吉田 ／ 交通案内：最寄IC：山中湖IC（東富士五湖道路）最寄バス：TBS寮前（富士急行バス）・山中局入口（中央高速バス）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　無料です</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -775,7 +775,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/84817/84817_kan1.jpg" alt="カントリーホテル　スターダスト 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>＜全6室＞富士の恵みたっぷりの本格欧風料理！別荘地の隠れ家で、県内産ワインやマジックショーを楽しむ</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県南都留郡山中湖村平野2977 ／ 最寄り駅：富士吉田 ／ 交通案内：山中湖ICより約10km、富士吉田駅から路線バス(約25分)、富士山山中湖下車お車5分（バス停からはタクシーが便利です）</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県南都留郡山中湖村平野2977 ／ 最寄り駅：富士吉田 ／ 交通案内：山中湖ICより約10km、富士吉田駅から路線バス(約25分)、富士山山中湖下車お車5分（バス停からはタクシーが便利です）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　6台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.57 ／ 立地 ★4.3 ／ 部屋 ★4.19 ／ 設備 ★4.24 ／ 風呂 ★4.38</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -797,7 +797,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/196659/196659.jpg" alt="温泉ホテル安曇野アートキャビン 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全室温泉付き｜好きなときに温泉に浸かれる10室の静かな宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県安曇野市穂高有明2252-2 ／ 最寄り駅：穂高 ／ 交通案内：穂高駅からお車で約７分／長野道安曇野ＩＣよりお車で約２０分／松本駅からお車で約５０分　■館内にサウナ2室あり</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県安曇野市穂高有明2252-2 ／ 最寄り駅：穂高 ／ 交通案内：穂高駅からお車で約７分／長野道安曇野ＩＣよりお車で約２０分／松本駅からお車で約５０分　■館内にサウナ2室あり</p>
                   <p><strong>【駐車場・マイカー利用】</strong>屋根付き駐車場10台（無料）　屋外駐車場あり、電気自動車用のコンセント2カ所有り</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -819,7 +819,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7149/7149_to.jpg" alt="穂高温泉郷　安曇野穂高ビューホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>松本エリアから車で約40分★口コミ朝食４．7 心癒す旅を</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県安曇野市穂高牧2200-3 ／ 最寄り駅：松本 ／ 交通案内：長野自動車道【安曇野IC】よりお車で約25分。【松本IC】よりお車で約40分／JR大糸線穂高駅よりバスで約15分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県安曇野市穂高牧2200-3 ／ 最寄り駅：松本 ／ 交通案内：長野自動車道【安曇野IC】よりお車で約25分。【松本IC】よりお車で約40分／JR大糸線穂高駅よりバスで約15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　80台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -841,7 +841,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/13451/13451_twn.jpg" alt="ホテルルートインコート安曇野豊科駅南 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>楽天からのご予約は、ルートインの会員カードのポイント特典、HPからのご予約特典は受けられません</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県安曇野市豊科4677-1 ／ 最寄り駅：豊科 ／ 交通案内：JR大糸線「豊科駅」より徒歩２分 /長野自動車道 豊科ICより車で５分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県安曇野市豊科4677-1 ／ 最寄り駅：豊科 ／ 交通案内：JR大糸線「豊科駅」より徒歩２分 /長野自動車道 豊科ICより車で５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　平面駐車場　６３台　無料 ※2t車を超える中型車・大型車の駐車はお断りしています。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

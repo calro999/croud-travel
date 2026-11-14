@@ -231,11 +231,11 @@ export default function OsakaTravelBudgetPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">大阪旅行 費用：1泊2日・2泊3日の総額はいくら？USJ込みの予算＆道頓堀グルメ食費シミュレーション：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「大阪旅行 費用：1泊2日・2泊3日の総額はいくら？USJ込みの予算＆道頓堀グルメ食費シミュレーション」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「大阪旅行 費用：1泊2日・2泊3日の総額はいくら？USJ込みの予算＆道頓堀グルメ食費シミュレーション」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -326,7 +326,7 @@ export default function OsakaTravelBudgetPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/199160/199160.jpg" alt="日和ホテルＦｌｅｘ大阪道頓堀 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>大阪観光の拠点にぴったり。道頓堀とんぼりリバーウォーク直結。フレキシブルな滞在を実現するホテル。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大阪府大阪市中央区西心斎橋2-6-10 ／ 最寄り駅：南海難波 ／ 交通案内：各線難波駅25番・26番出口より徒歩3分</p>
+                  <p><strong>【所在地・アクセス】</strong>大阪府大阪市中央区西心斎橋2-6-10 ／ 最寄り駅：南海難波 ／ 交通案内：各線難波駅25番・26番出口より徒歩3分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>なし</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -348,7 +348,7 @@ export default function OsakaTravelBudgetPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/182489/182489.jpg" alt="ＦＯＲＺＡ　ホテルフォルツァ大阪なんば道頓堀 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>グリコ看板より徒歩約2分。駅からもほど近い道頓堀商店街唯一のホテルでのご宿泊を是非お楽しみください♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大阪府大阪市中央区道頓堀1丁目4-22 3F ／ 最寄り駅：なんば ／ 交通案内：近畿日本鉄道・大阪メトロ「なんば駅」15B出口、大阪メトロ「日本橋駅」2番出口より徒歩約5分</p>
+                  <p><strong>【所在地・アクセス】</strong>大阪府大阪市中央区道頓堀1丁目4-22 3F ／ 最寄り駅：なんば ／ 交通案内：近畿日本鉄道・大阪メトロ「なんば駅」15B出口、大阪メトロ「日本橋駅」2番出口より徒歩約5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -370,7 +370,7 @@ export default function OsakaTravelBudgetPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/168742/168742.jpg" alt="ベニキアカルトンホテル大阪道頓堀 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>道頓堀まで徒歩２分の好立地！！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大阪府大阪市中央区島之内2-15-4 ／ 最寄り駅：日本橋（大阪） ／ 交通案内：地下鉄　日本橋駅2番出口より徒歩4分/ 難波駅より徒歩１０分/関西空港より道頓プラザ行直行バス運行中　ホテルより徒歩１分</p>
+                  <p><strong>【所在地・アクセス】</strong>大阪府大阪市中央区島之内2-15-4 ／ 最寄り駅：日本橋（大阪） ／ 交通案内：地下鉄　日本橋駅2番出口より徒歩4分/ 難波駅より徒歩１０分/関西空港より道頓プラザ行直行バス運行中　ホテルより徒歩１分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場はございませんが、交通機関でのアクセスが便利です。日本橋駅から徒歩4分！</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -392,7 +392,7 @@ export default function OsakaTravelBudgetPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/185877/185877.jpg" alt="ＵＳＪ、大阪観光に最適、西九条楽しいＨｏｔｅｌ／民泊 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong></p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大阪府大阪市此花区西九条1-4-16　Ｈｏｔｅｌ　Ｊｕｎｇｌｅ　ｆｕｎ　ｆｕｎ ／ 最寄り駅：西九条 ／ 交通案内：西九条駅から徒歩で約５分</p>
+                  <p><strong>【所在地・アクセス】</strong>大阪府大阪市此花区西九条1-4-16　Ｈｏｔｅｌ　Ｊｕｎｇｌｅ　ｆｕｎ　ｆｕｎ ／ 最寄り駅：西九条 ／ 交通案内：西九条駅から徒歩で約５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -414,7 +414,7 @@ export default function OsakaTravelBudgetPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/147805/147805_room.jpg" alt="ザ　パーク　フロント　ホテル　アット　ユニバーサル・スタジオ・ジャパン 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>パークに1番近いオフィシャルホテル☆ユニバーサルシティ駅から徒歩1分の好立地！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大阪府大阪市此花区島屋6-2-52 ／ 最寄り駅：ユニバーサルシティ ／ 交通案内：ユニバーサルシティ駅より徒歩約１分</p>
+                  <p><strong>【所在地・アクセス】</strong>大阪府大阪市此花区島屋6-2-52 ／ 最寄り駅：ユニバーサルシティ ／ 交通案内：ユニバーサルシティ駅より徒歩約１分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>109台3500円（13:00〜翌13:00）予約不可※満車の場合は他の駐車場をご案内致します。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.59 ／ 立地 ★4.64 ／ 部屋 ★4.56 ／ 設備 ★4.5 ／ 風呂 ★4.5 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -436,7 +436,7 @@ export default function OsakaTravelBudgetPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/160809/160809_room.jpg" alt="ザ　シンギュラリホテル　＆　スカイスパ　アット　ユニバーサル・スタジオ・ジャパン 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2017年8月開業ユニバーサル・スタジオ・ジャパンオフィシャルホテル。最上階に露天付大浴場/全室禁煙</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大阪府大阪市此花区島屋6丁目2番25号 ／ 最寄り駅：ユニバーサルシティ ／ 交通案内：ユニバーサルシティ駅改札からすぐ。※徒歩1分以内</p>
+                  <p><strong>【所在地・アクセス】</strong>大阪府大阪市此花区島屋6丁目2番25号 ／ 最寄り駅：ユニバーサルシティ ／ 交通案内：ユニバーサルシティ駅改札からすぐ。※徒歩1分以内</p>
                   <p><strong>【駐車場・マイカー利用】</strong>2,800円/泊(13時～翌13時)、延長30分300円、現金のみ、予約不可※駐車台数制限あり</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

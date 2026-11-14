@@ -536,11 +536,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大峡谷＆断崖絶壁・エメラルド渓谷宿×ふるさと納税ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本三大峡谷＆断崖絶壁・エメラルド渓谷宿×ふるさと納税ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「日本三大峡谷＆断崖絶壁・エメラルド渓谷宿×ふるさと納税ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -578,7 +578,7 @@ export default function Page() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 里創人　熊野倶楽部</td>
-                <td className="p-3 text-stone-600">千葉県</td>
+                <td className="p-3 text-stone-600">三重県 熊野市久生屋町1430</td>
                 <td className="p-3 text-stone-600">ＪＲ 熊野市駅よりお車で10分／送迎バス有り 【熊野古道まで車で15分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（1098件）</td>
@@ -604,7 +604,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/109363/109363_kya.jpg" alt="清津峡湯元温泉　清津館 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>インスタ映え間違いなし☆十日町市人気No1スポット「清津峡トンネル」へ徒歩1分の秘湯の宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県十日町市小出癸2126-1 ／ 最寄り駅：越後湯沢 ／ 交通案内：塩沢石打ICより車で25分/湯沢ICより車で27分/十日町市内より35分</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県十日町市小出癸2126-1 ／ 最寄り駅：越後湯沢 ／ 交通案内：塩沢石打ICより車で25分/湯沢ICより車で27分/十日町市内より35分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１２台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -626,7 +626,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/40625/40625_kya.jpg" alt="黒部峡谷・宇奈月温泉　ホテル黒部 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>『宇奈月温泉随一の眺望』四季折々の地元食材と透明な美肌湯を堪能</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 富山県黒部市宇奈月温泉７番地 ／ 最寄り駅：宇奈月温泉 ／ 交通案内：北陸新幹線黒部宇奈月温泉駅から富山地鉄乗り換え25分。 宇奈月温泉駅から歩10分／北陸道 黒部ＩＣから約20分。</p>
+                  <p><strong>【所在地・アクセス】</strong>富山県黒部市宇奈月温泉７番地 ／ 最寄り駅：宇奈月温泉 ／ 交通案内：北陸新幹線黒部宇奈月温泉駅から富山地鉄乗り換え25分。 宇奈月温泉駅から歩10分／北陸道 黒部ＩＣから約20分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　無料 （トロッコ観光中もお預かりいたします）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -647,8 +647,8 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/79395/79395_ryo.jpg" alt="里創人　熊野倶楽部 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「日本三大峡谷＆断崖絶壁・エメラルド渓谷宿×ふるさと納税ガイド」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ 熊野市駅よりお車で10分／送迎バス有り 【熊野古道まで車で15分】</p>
+                  <p><strong>【宿の特徴・魅力】</strong>自然に癒され、暮らすように過ごすオールスイート＆オールインクルーシブリゾート「熊野倶楽部」</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：ＪＲ 熊野市駅よりお車で10分／送迎バス有り 【熊野古道まで車で15分】</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

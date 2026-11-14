@@ -228,11 +228,11 @@ export default function TransitStyleHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">観光列車＆極上温泉宿：サフィール踊り子・しまかぜ・ゆふいんの森で行く名旅館 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「観光列車＆極上温泉宿：サフィール踊り子・しまかぜ・ゆふいんの森で行く名旅館 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「観光列車＆極上温泉宿：サフィール踊り子・しまかぜ・ゆふいんの森で行く名旅館 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function TransitStyleHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1307/1307_heya.jpg" alt="下田温泉　黒船ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【全室オーシャンビュー】離れや客室露天風呂、プールをご堪能。伊豆・下田温泉の味覚に舌鼓。ペット可！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県下田市柿崎3-8 ／ 最寄り駅：伊豆急下田 ／ 交通案内：伊豆急線「伊豆急下田駅」から徒歩13分、タクシーで3分。 車で沼津から当館まで伊豆縦貫道で90分。</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県下田市柿崎3-8 ／ 最寄り駅：伊豆急下田 ／ 交通案内：伊豆急線「伊豆急下田駅」から徒歩13分、タクシーで3分。 車で沼津から当館まで伊豆縦貫道で90分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>当館の駐車場は建物の地下部分にございます。(高さ制限2.3ｍ/狭めのスペース/台数制限有り/無料)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function TransitStyleHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/108114/108114_h.jpg" alt="松崎温泉　御宿しんしま 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>なまこ壁の町並みを散策♪　川沿いの遊歩道に面した静かな和風温泉宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県賀茂郡松崎町宮内284 ／ 最寄り駅：伊豆急下田 ／ 交通案内：伊豆急下田駅から東海バス乗車５０分　（●松崎バスターミナル　●松崎小学校前　●松崎中学校前　）</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県賀茂郡松崎町宮内284 ／ 最寄り駅：伊豆急下田 ／ 交通案内：伊豆急下田駅から東海バス乗車５０分　（●松崎バスターミナル　●松崎小学校前　●松崎中学校前　）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>・1部屋1台無料でご利用いただけます。◆予約不要　◆追加1台につき1100円　◆マイクロバス利用可能</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function TransitStyleHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/13971/13971_room.jpg" alt="グランドメルキュール伊勢志摩リゾート＆スパ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>心と身体が満たされる、海と森に抱かれる贅沢なひととき</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 三重県志摩市磯部町的矢笠取939-6 ／ 最寄り駅：志摩磯部 ／ 交通案内：近鉄 鵜方駅より定時シャトルバス約15分(予約不要　定時運行　公式HP参照)／伊勢西ＩＣよりお車約45分</p>
+                  <p><strong>【所在地・アクセス】</strong>三重県志摩市磯部町的矢笠取939-6 ／ 最寄り駅：志摩磯部 ／ 交通案内：近鉄 鵜方駅より定時シャトルバス約15分(予約不要　定時運行　公式HP参照)／伊勢西ＩＣよりお車約45分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>220台あり（無料・予約不可）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function TransitStyleHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/54134/54134_k.jpg" alt="源泉掛け流しの離れ宿　由布院別邸　風の森 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【大人の隠れ家を体験したいアナタへ】絶品料理・全室離れ・トロりとした露天内湯付き</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大分県由布市湯布院町川南371-1 ／ 最寄り駅：由布院 ／ 交通案内：◆ 由布院駅より徒歩15分</p>
+                  <p><strong>【所在地・アクセス】</strong>大分県由布市湯布院町川南371-1 ／ 最寄り駅：由布院 ／ 交通案内：◆ 由布院駅より徒歩15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>◆◇ 無料の駐車場が有ります。予約は不要です。 ◆◇ １３台分停められます◆◇</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function TransitStyleHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/32186/32186_h.jpg" alt="由布院温泉　旅館　冨季の舎 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>３棟ある離れには、内風呂と露天風呂付。その他に５つの貸切風呂がございます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大分県由布市湯布院町川南814-1 ／ 最寄り駅：由布院 ／ 交通案内：ＪＲ久大線　由布院駅より車で５分　徒歩１５分</p>
+                  <p><strong>【所在地・アクセス】</strong>大分県由布市湯布院町川南814-1 ／ 最寄り駅：由布院 ／ 交通案内：ＪＲ久大線　由布院駅より車で５分　徒歩１５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　２０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function TransitStyleHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/72871/72871_gr.jpg" alt="由布院温泉　湯富里の宿　一壷天 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>一壷天では、古(骨董品）、新、和、洋のしつらいが見事にとけ合った大人の空間と時間をご堪能下さい</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大分県由布市湯布院町川上302-7 ／ 最寄り駅：由布院 ／ 交通案内：車/湯布院ICから県道216号。湯布院幹部交番を左折（7分）電車/JR由布院駅下車、車で約5分（2.5km）</p>
+                  <p><strong>【所在地・アクセス】</strong>大分県由布市湯布院町川上302-7 ／ 最寄り駅：由布院 ／ 交通案内：車/湯布院ICから県道216号。湯布院幹部交番を左折（7分）電車/JR由布院駅下車、車で約5分（2.5km）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料で15台停められます。予約は不要です。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

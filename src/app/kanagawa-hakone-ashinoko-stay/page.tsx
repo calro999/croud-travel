@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">箱根・芦ノ湖＆元箱根：湖畔鳥居・海賊船＆富士ビュー極上宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「箱根・芦ノ湖＆元箱根：湖畔鳥居・海賊船＆富士ビュー極上宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「箱根・芦ノ湖＆元箱根：湖畔鳥居・海賊船＆富士ビュー極上宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/162650/162650_kan1.jpg" alt="箱根・芦ノ湖　はなをり（オリックスホテルズ＆リゾーツ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>SNSで話題の水盤テラス＆足湯♪ 色浴衣を身にまとい、五感が喜ぶ温泉リゾートでフォトジェニックな旅を</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県足柄下郡箱根町元箱根桃源台160 ／ 最寄り駅：主要駅 ／ 交通案内：桃源台駅より徒歩にて約2分</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県足柄下郡箱根町元箱根桃源台160 ／ 交通案内：桃源台駅より徒歩にて約2分</p>
                   <p>【箱根・芦ノ湖＆元箱根：湖畔鳥居・海賊船＆富士ビュー極】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/10956/10956_kan.jpg" alt="箱根芦ノ湖温泉　源泉100％の宿　ＨＯＴＥＬ　Ｒａ　Ｋｕｕｎ　(ホテルラクーン） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>芦ノ湖の高台にたたずむ「HOTEL RaKuun」 自分らしいステイスタイルで、芦ノ湖を遊びつくす</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県足柄下郡箱根町元箱根103-227 ／ 最寄り駅：箱根湯本 ／ 交通案内：箱根湯本駅→箱根町元箱根行バス３０分「双子茶屋」下車(送迎不可）／小田原厚木道路小田原西IC→国道１号で約１５km</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県足柄下郡箱根町元箱根103-227 ／ 最寄り駅：箱根湯本 ／ 交通案内：箱根湯本駅→箱根町元箱根行バス３０分「双子茶屋」下車(送迎不可）／小田原厚木道路小田原西IC→国道１号で約１５km</p>
                   <p><strong>【駐車場・マイカー利用】</strong>あり　２０台(1グループ1台まで）　先着順　無料（マイクロバス等の駐車はできません）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.19 ／ 立地 ★3.66 ／ 部屋 ★3.74 ／ 設備 ★3.68 ／ 風呂 ★3.92 ／ 食事 ★4.3</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/183100/183100.jpg" alt="ホテル四季の館箱根芦ノ湖 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>芦ノ湖を見眼下に見下ろす抜群のロケーションと檜の香りに包まれた全30室の露天風呂の宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県足柄下郡箱根町元箱根103-241 ／ 最寄り駅：小田原 ／ 交通案内：小田原駅よりバス　ホテルより無料送迎あり（要予約）</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県足柄下郡箱根町元箱根103-241 ／ 最寄り駅：小田原 ／ 交通案内：小田原駅よりバス　ホテルより無料送迎あり（要予約）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/59637/59637_ro.jpg" alt="ザ・プリンス　箱根芦ノ湖 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>コンセプトは“リラクゼーション＆ネイチャー</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県足柄下郡箱根町元箱根144 ／ 最寄り駅：箱根湯本 ／ 交通案内：小田原駅西口より無料送迎バス（定時運行・要予約）にて45分／箱根湯本駅から伊豆箱根バス約65分／元箱根より循環バスあり</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県足柄下郡箱根町元箱根144 ／ 最寄り駅：箱根湯本 ／ 交通案内：小田原駅西口より無料送迎バス（定時運行・要予約）にて45分／箱根湯本駅から伊豆箱根バス約65分／元箱根より循環バスあり</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り／屋外282台（宿泊者無料・予約不要）※12月より3月までは、積雪の恐れがございます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/184193/184193.jpg" alt="ホテル森の風箱根仙石原 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>すすき草原まで徒歩8分。自然と触れ合う趣ある庭園に高級感ある和モダンの檜造りの宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県足柄下郡箱根町仙石原817-444 ／ 最寄り駅：強羅 ／ 交通案内：強羅駅よりタクシーで15分、箱根湯本駅よりバスで30分、小田原駅よりバスで45分</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県足柄下郡箱根町仙石原817-444 ／ 最寄り駅：強羅 ／ 交通案内：強羅駅よりタクシーで15分、箱根湯本駅よりバスで30分、小田原駅よりバスで45分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　45台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/170212/170212.jpg" alt="Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　箱根仙石原 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全室温泉＆足湯付き！最大10名宿泊可能なメゾネットヴィラ！仙石原草原へは徒歩約10分</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県足柄下郡箱根町仙石原1246-748、1246-761 ／ 最寄り駅：箱根湯本 ／ 交通案内：御殿場IC20分、「東京放送入口」バス停すぐ、マップコード北館57 300 219*17南館57 300 098*30</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県足柄下郡箱根町仙石原1246-748、1246-761 ／ 最寄り駅：箱根湯本 ／ 交通案内：御殿場IC20分、「東京放送入口」バス停すぐ、マップコード北館57 300 219*17南館57 300 098*30</p>
                   <p><strong>【駐車場・マイカー利用】</strong>【北館】南館隣接駐車場に1室2台まで【南館】部屋により駐車場・台数が異なります※EV充電可能・先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

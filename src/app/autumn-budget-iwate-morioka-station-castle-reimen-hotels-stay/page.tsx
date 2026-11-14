@@ -376,11 +376,11 @@ export default function AutumnBudgetHotelsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">盛岡駅前：盛岡城跡公園の紅葉＆名物盛岡冷麺・じゃじゃ麺！3,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「盛岡駅前：盛岡城跡公園の紅葉＆名物盛岡冷麺・じゃじゃ麺！3,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「盛岡駅前：盛岡城跡公園の紅葉＆名物盛岡冷麺・じゃじゃ麺！3,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -462,7 +462,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/196889/196889.jpg" alt="アパホテル〈盛岡駅前〉 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>■2025年10月開業■VODアパルームシアター視聴無料■アメニティ全室設置■</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岩手県盛岡市盛岡駅前通14-3 ／ 最寄り駅：盛岡 ／ 交通案内：盛岡駅（地下自由通路B4出口）徒歩1分、いわて花巻空港よりリムジンバスで50分</p>
+                  <p><strong>【所在地・アクセス】</strong>岩手県盛岡市盛岡駅前通14-3 ／ 最寄り駅：盛岡 ／ 交通案内：盛岡駅（地下自由通路B4出口）徒歩1分、いわて花巻空港よりリムジンバスで50分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場3か所合計600台以上！（①PNP盛岡駅前　②ペリカンパークひめかみ　③タイムズフェザン）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.31 ／ 立地 ★4.36 ／ 部屋 ★4.34 ／ 設備 ★4.3 ／ 風呂 ★4.14 ／ 食事 ★3.92</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -484,7 +484,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/181404/181404.jpg" alt="リッチモンドホテル盛岡駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>盛岡駅から徒歩約3分!!　1Ｆにコンビニあり！加湿機能付き空気清浄機完備</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岩手県盛岡市盛岡駅前通9-17 ／ 最寄り駅：盛岡 ／ 交通案内：JR盛岡駅東口を出て徒歩約３分</p>
+                  <p><strong>【所在地・アクセス】</strong>岩手県盛岡市盛岡駅前通9-17 ／ 最寄り駅：盛岡 ／ 交通案内：JR盛岡駅東口を出て徒歩約３分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>近隣の有料駐車場をご案内。15：00〜翌朝10：00まで900円。時間外1時間300円〜</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.54 ／ 立地 ★4.57 ／ 部屋 ★4.57 ／ 設備 ★4.51 ／ 風呂 ★4.46</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -506,7 +506,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/183248/183248.jpg" alt="ダイワロイネットホテル盛岡駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR盛岡駅より徒歩約4分の好立地。全室21㎡以上。一部を除きバス・トイレ別。充実のアメニティバー設置</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岩手県盛岡市盛岡駅前通7-15 ／ 最寄り駅：盛岡 ／ 交通案内：JR盛岡駅より徒歩約4分。東口より地下道A1出口を出て開運橋方面に約100ｍ。</p>
+                  <p><strong>【所在地・アクセス】</strong>岩手県盛岡市盛岡駅前通7-15 ／ 最寄り駅：盛岡 ／ 交通案内：JR盛岡駅より徒歩約4分。東口より地下道A1出口を出て開運橋方面に約100ｍ。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>機械式立体駐車場60台。先着順。1泊1,100円（税込）でご用意。満車時は提携駐車場をご案内します。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.5 ／ 部屋 ★4.55 ／ 設備 ★4.51 ／ 風呂 ★4.48 ／ 食事 ★4.4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -528,7 +528,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/63150/63150_ky.jpg" alt="ホテルルートイン盛岡駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>■JR盛岡駅から徒歩1分の好立地！■　人工温泉大浴場完備！バイキング朝食無料！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岩手県盛岡市盛岡駅前通3-25 ／ 最寄り駅：盛岡 ／ 交通案内：ＪＲ東北本線　盛岡駅正面口より徒歩3分</p>
+                  <p><strong>【所在地・アクセス】</strong>岩手県盛岡市盛岡駅前通3-25 ／ 最寄り駅：盛岡 ／ 交通案内：ＪＲ東北本線　盛岡駅正面口より徒歩3分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　立体駐車場７２台　1,000円/泊　先着順・予約不可　入庫制限有り　バイク駐車不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.22 ／ 立地 ★4.23 ／ 部屋 ★4.19 ／ 設備 ★4.14 ／ 風呂 ★4.17 ／ 食事 ★4.17</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -550,7 +550,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/153340/153340_kan1.jpg" alt="ホテルグローバルビュー盛岡（旧：ＨＯＴＥＬ　ＪＩＮ盛岡駅前） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR盛岡駅西口より徒歩約5分「手作り朝食が自慢です♪」</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岩手県盛岡市盛岡駅西通1-6-15 ／ 最寄り駅：盛岡 ／ 交通案内：JR盛岡駅西口より徒歩約5分　盛岡ＩＣから車で約１０分　岩手保健医療大学隣り</p>
+                  <p><strong>【所在地・アクセス】</strong>岩手県盛岡市盛岡駅西通1-6-15 ／ 最寄り駅：盛岡 ／ 交通案内：JR盛岡駅西口より徒歩約5分　盛岡ＩＣから車で約１０分　岩手保健医療大学隣り</p>
                   <p><strong>【駐車場・マイカー利用】</strong>1泊600円（翌11時迄）先着順で予約不可　満車時はコインパーキングをご利用ください（お客様ご負担）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.11 ／ 立地 ★3.91 ／ 部屋 ★4 ／ 設備 ★3.94 ／ 風呂 ★4.02 ／ 食事 ★4.22</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

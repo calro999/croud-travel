@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/car-free-train-access-girls-trip-stay/"
   };
 
@@ -186,6 +186,12 @@ export default function Page() {
           </p>
         </div>
 
+        <div className="pt-2">
+          <ShareButtons
+            title="新幹線・特急駅から徒歩ですぐ！車なし・電車アクセス抜群の駅近名湯＆女子旅ホテル"
+            url="https://croud-travel.pages.dev/car-free-train-access-girls-trip-stay/"
+          />
+        </div>
         {/* クーポン特大バナー */}
         <SpecialCouponBanner />
 
@@ -303,11 +309,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">新幹線・特急駅から徒歩ですぐ！車なし・電車アクセス抜群の駅近名湯＆女子旅ホテル：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「新幹線・特急駅から徒歩ですぐ！車なし・電車アクセス抜群の駅近名湯＆女子旅ホテル」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「新幹線・特急駅から徒歩ですぐ！車なし・電車アクセス抜群の駅近名湯＆女子旅ホテル」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -371,7 +377,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/191668/191668.jpg" alt="スーパーホテル仙台駅東口天然温泉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【仙台駅徒歩5分の好立地】天然温泉◆無料健康朝食とウェルカムバー◆ぐっすり眠れるホテル◆全館禁煙</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮城県仙台市宮城野区名掛丁203-12 ／ 最寄り駅：仙台 ／ 交通案内：仙台駅東口より徒歩で約５分/北部名掛丁自由通路」を通り出口を出てから徒歩2分/高速バス「仙台駅前」のりばから徒歩5分</p>
+                  <p><strong>【所在地・アクセス】</strong>宮城県仙台市宮城野区名掛丁203-12 ／ 最寄り駅：仙台 ／ 交通案内：仙台駅東口より徒歩で約５分/北部名掛丁自由通路」を通り出口を出てから徒歩2分/高速バス「仙台駅前」のりばから徒歩5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無し（近隣コインパーキングをご利用ください）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.59 ／ 立地 ★4.44 ／ 部屋 ★4.47 ／ 設備 ★4.44 ／ 風呂 ★4.42 ／ 食事 ★4.43</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -393,7 +399,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/50750/50750_twi.jpg" alt="天然温泉プレミアホテル―ＣＡＢＩＮ―旭川 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>旭川駅徒歩3分！天然温泉とサウナが人気！展望レストランでの朝食ブッフェをお楽しみください</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道旭川市1条通7丁目 ／ 最寄り駅：旭川 ／ 交通案内：ＪＲ旭川駅『北口(西側)』より徒歩３分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道旭川市1条通7丁目 ／ 最寄り駅：旭川 ／ 交通案内：ＪＲ旭川駅『北口(西側)』より徒歩３分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>先着順800円~1,100円車種により異なります。満車時とワゴン、バイクは徒歩圏内の提携先へご案内。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.21 ／ 立地 ★4.22 ／ 部屋 ★4.11 ／ 設備 ★4.13 ／ 風呂 ★4.26 ／ 食事 ★4.46</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -415,7 +421,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/168794/168794_kan1.jpg" alt="変なホテル大阪　なんば 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>バス・トイレ別☆USJ・京セラドーム・大阪城へ好アクセス！非対面型の恐竜チェックインが好評♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大阪府大阪市中央区西心斎橋2-10-16 ／ 最寄り駅：心斎橋 ／ 交通案内：大阪メトロ心斎橋駅8番出口より徒歩6分／なんば駅25番出口より徒歩6分／近鉄難波駅より徒歩9分 好立地で評価◎</p>
+                  <p><strong>【所在地・アクセス】</strong>大阪府大阪市中央区西心斎橋2-10-16 ／ 最寄り駅：心斎橋 ／ 交通案内：大阪メトロ心斎橋駅8番出口より徒歩6分／なんば駅25番出口より徒歩6分／近鉄難波駅より徒歩9分 好立地で評価◎</p>
                   <p><strong>【駐車場・マイカー利用】</strong>近隣のコインパーキングをご利用下さいませ。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.05 ／ 立地 ★3.9 ／ 部屋 ★4.06 ／ 設備 ★4.06 ／ 風呂 ★4.14 ／ 食事 ★3.19</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -503,11 +503,11 @@ export default function FurusatoFeaturePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大砂丘＆雄大パノラマ・砂の絶景リゾート宿×ふるさと納税厳選ガイド鳥取砂丘・中田島砂丘・吹上浜の海宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本三大砂丘＆雄大パノラマ・砂の絶景リゾート宿×ふるさと納税厳選ガイド鳥取砂丘・中田島砂丘・吹上浜の海宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「日本三大砂丘＆雄大パノラマ・砂の絶景リゾート宿×ふるさと納税厳選ガイド鳥取砂丘・中田島砂丘・吹上浜の海宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -536,7 +536,7 @@ export default function FurusatoFeaturePage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 山陰湯村温泉　湧泉の宿　ゆあむ</td>
-                <td className="p-3 text-stone-600">静岡県</td>
+                <td className="p-3 text-stone-600">兵庫県美方郡新温泉町湯1610</td>
                 <td className="p-3 text-stone-600">近畿豊岡道日高神鍋高原ICより約35分/大阪梅田より阪急特急バス「湯村</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.47（1528件）</td>
@@ -598,7 +598,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5020/5020_r1.jpg" alt="皆生温泉　皆生シーサイドホテル　海の四季 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【楽天アワード2025受賞】14年連続＆通算17回目！全室オーシャンフロント！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鳥取県米子市皆生温泉3-4-3 ／ 最寄り駅：米子 ／ 交通案内：米子自動車道・米子ＩＣより車で約10分、ＪＲ米子駅よりタクシー又はバスで約15分、米子空港よりタクシー又はバスで約20分</p>
+                  <p><strong>【所在地・アクセス】</strong>鳥取県米子市皆生温泉3-4-3 ／ 最寄り駅：米子 ／ 交通案内：米子自動車道・米子ＩＣより車で約10分、ＪＲ米子駅よりタクシー又はバスで約15分、米子空港よりタクシー又はバスで約20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場80台分完備。当館をご利用のお客様はいつでも駐車いただけます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -619,8 +619,8 @@ export default function FurusatoFeaturePage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/10636/10636.jpg" alt="山陰湯村温泉　湧泉の宿　ゆあむ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「日本三大砂丘＆雄大パノラマ・砂の絶景リゾート宿×ふるさと納税厳選ガイド鳥取砂丘・中田島砂丘・吹上浜の海宿」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：近畿豊岡道日高神鍋高原ICより約35分/大阪梅田より阪急特急バス「湯村温泉行」1日1～2便</p>
+                  <p><strong>【宿の特徴・魅力】</strong>【和モダンな温泉宿】2023年2月温泉付客室＜かわみ＞3タイプ誕生。全34室</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：近畿豊岡道日高神鍋高原ICより約35分/大阪梅田より阪急特急バス「湯村温泉行」1日1～2便</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -642,7 +642,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2038/2038_heya.jpg" alt="皆生温泉　華水亭 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2026年7月18日お食事処リニューアルオープン♪日本海の眺望と季節の会席が愉しめる自家源泉の宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鳥取県米子市皆生温泉4-19-10 ／ 最寄り駅：米子 ／ 交通案内：ＪＲ米子駅より車で１５分、米子空港より車で２０分、米子自動車道米子ＩＣより車で１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>鳥取県米子市皆生温泉4-19-10 ／ 最寄り駅：米子 ／ 交通案内：ＪＲ米子駅より車で１５分、米子空港より車で２０分、米子自動車道米子ＩＣより車で１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　70台　バス10台　乗用車70台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -664,7 +664,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/167675/167675.jpg" alt="スーパーホテル浜松　天然温泉「浜松出世の湯」 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【無料駐車場＆無料健康朝食＆男女別天然温泉】※駐車場利用不可プランにご注意。駐車は普通自動車のみ可能</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県浜松市中央区西伊場町58-7 ／ 最寄り駅：浜松 ／ 交通案内：浜松駅からタクシーで約10分、バスで約15分！浜松西インターよりお車で約20分！</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県浜松市中央区西伊場町58-7 ／ 最寄り駅：浜松 ／ 交通案内：浜松駅からタクシーで約10分、バスで約15分！浜松西インターよりお車で約20分！</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り 無料※駐車場利用不可プランにご注意 ※駐車場は全長5m以下の普通車のみ トラック・バス駐車不可</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -686,7 +686,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/67376/67376_k.jpg" alt="ホテルルートイン浜名湖 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>朝食無料！大浴場完備！全室BS・WOWOW視聴無料！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県湖西市古見1049-1 ／ 最寄り駅：鷲津 ／ 交通案内：ＪＲ東海道本線　豊橋駅から鷲津駅まで15分／鷲津駅から車で5分／東名高速道路　三ヶ日I.Cより車で２０分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県湖西市古見1049-1 ／ 最寄り駅：鷲津 ／ 交通案内：ＪＲ東海道本線　豊橋駅から鷲津駅まで15分／鷲津駅から車で5分／東名高速道路　三ヶ日I.Cより車で２０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１２9台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.37 ／ 立地 ★4.17 ／ 部屋 ★4.26 ／ 設備 ★4.27 ／ 風呂 ★4.31 ／ 食事 ★4.31</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -708,7 +708,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/78120/78120_ru2.jpg" alt="中島温泉旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>西郷隆盛も訪れた名湯、歴史ある老舗純和風旅館。一日三組限定で一組に三部屋使用。天然かけ流しの硫黄泉。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県日置市吹上町湯之浦1106 ／ 最寄り駅：鹿児島中央 ／ 交通案内：ＪＲ　鹿児島中央駅から鹿児島交通バスで伊作バス停下車後、お車にて５分</p>
+                  <p><strong>【所在地・アクセス】</strong>鹿児島県日置市吹上町湯之浦1106 ／ 最寄り駅：鹿児島中央 ／ 交通案内：ＪＲ　鹿児島中央駅から鹿児島交通バスで伊作バス停下車後、お車にて５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

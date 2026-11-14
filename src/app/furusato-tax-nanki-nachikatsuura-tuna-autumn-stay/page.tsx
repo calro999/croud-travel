@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-nanki-nachikatsuura-tuna-autumn-stay/"
   };
 
@@ -379,27 +379,6 @@ export default function Page() {
         </section>
 
         {/* FAQ */}
-        <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-stone-200/80">
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-3 border-b border-stone-200 pb-4">よくある質問（FAQ）</h2>
-          <div className="space-y-6 text-stone-700 text-sm sm:text-base">
-            <div className="border-b border-stone-100 pb-4">
-              <h3 className="font-bold text-stone-900 mb-2">Q. 10月〜11月の紅葉や混雑の状況は？</h3>
-              <p className="text-stone-600 text-xs sm:text-sm leading-relaxed">
-                紅葉の見頃ピーク（10月〜11月下旬（那智の滝周辺紅葉・熊野古道大門坂散策・勝浦生まぐろ・熊野牛・みかん））は週末を中心に観光客で賑わいます。ゆっくり散策や温泉を楽しみたい方は平日の宿泊や、早朝の観光スポット訪問がおすすめです。
-              </p>
-            </div>
-            <div className="border-b border-stone-100 pb-4">
-              <h3 className="font-bold text-stone-900 mb-2">Q. クーポンを利用した予約のキャンセル規定はどうなっていますか？</h3>
-              <p className="text-stone-600 text-xs sm:text-sm leading-relaxed">通常の楽天トラベルのキャンセル規定に準じます。期限内であればキャンセル時にクーポンは返還され、有効期限内であれば別の予約で再利用可能です。
-              </p>
-            </div>
-            <div>
-              <h3 className="font-bold text-stone-900 mb-2">Q. ふるさと納税クーポンとポイントは併用できますか？</h3>
-              <p className="text-stone-600 text-xs sm:text-sm leading-relaxed">はい、楽天ふるさと納税トラベルクーポンと通常の楽天ポイントは同時に併用して利用いただけます。
-              </p>
-            </div>
-          </div>
-        </section>
         
 
         {/* FAQ Section */}
@@ -435,11 +414,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">那智の滝と熊野古道の秋紅葉！南紀勝浦温泉の海辺洞窟露天風呂・生まぐろ＆熊野牛を味わう聖地紀州旅｜ふるさと納税で泊まれる名宿ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「那智の滝と熊野古道の秋紅葉！南紀勝浦温泉の海辺洞窟露天風呂・生まぐろ＆熊野牛を味わう聖地紀州旅｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「那智の滝と熊野古道の秋紅葉！南紀勝浦温泉の海辺洞窟露天風呂・生まぐろ＆熊野牛を味わう聖地紀州旅｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -503,7 +482,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/68247/68247_w.jpg" alt="南紀勝浦温泉　くつろぎの宿　料理旅館　万清楼 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【ホテル浦島の温泉も利用可】紀州勝浦産の生まぐろや南紀の食材を使った会席料理をお楽しみください。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県東牟婁郡那智勝浦町勝浦448 ／ 最寄り駅：紀伊勝浦 ／ 交通案内：JR「紀伊勝浦駅」より徒歩約7分／大阪から紀勢自動車道「すさみ南IC」経由で約3時間半</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県東牟婁郡那智勝浦町勝浦448 ／ 最寄り駅：紀伊勝浦 ／ 交通案内：JR「紀伊勝浦駅」より徒歩約7分／大阪から紀勢自動車道「すさみ南IC」経由で約3時間半</p>
                   <p><strong>【駐車場・マイカー利用】</strong>20台（無料）／専用駐車場は当館横と裏側にあります。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -525,7 +504,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/54556/54556_b1.jpg" alt="南紀勝浦温泉　ホテル浦島 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【楽天トラベルゴールドアワード受賞】圧倒的なスケールと開放感！天然洞窟温泉など湯巡りを楽しもう♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県東牟婁郡那智勝浦町勝浦1165-2 ／ 最寄り駅：紀伊勝浦 ／ 交通案内：ＪＲ紀勢線　紀伊勝浦駅から徒歩6分で桟橋へ。更に専用ボート又は、シャトルバスで５分　詳しくは交通案内ページをご覧ください</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県東牟婁郡那智勝浦町勝浦1165-2 ／ 最寄り駅：紀伊勝浦 ／ 交通案内：ＪＲ紀勢線　紀伊勝浦駅から徒歩6分で桟橋へ。更に専用ボート又は、シャトルバスで５分　詳しくは交通案内ページをご覧ください</p>
                   <p><strong>【駐車場・マイカー利用】</strong>400台（無料）／駐車場はホテルより離れた場所にございます。詳しくは交通案内ページをご覧ください</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.16 ／ 立地 ★4.41 ／ 部屋 ★4.18 ／ 設備 ★4.03 ／ 風呂 ★4.51 ／ 食事 ★4.22</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -547,7 +526,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/6002/6002_bath.jpg" alt="南紀勝浦温泉　ホテルなぎさや 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>トンネルを抜けるとそこは…映画のような入り江の中にある秘密のお宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県東牟婁郡那智勝浦町大字湯川955番地の1 ／ 最寄り駅：紀伊勝浦 ／ 交通案内：JR「紀伊勝浦駅」より車で約5分（事前予約で送迎サービス有）／大阪から紀勢自動車道「すさみ南IC」経由で約3時間半</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県東牟婁郡那智勝浦町大字湯川955番地の1 ／ 最寄り駅：紀伊勝浦 ／ 交通案内：JR「紀伊勝浦駅」より車で約5分（事前予約で送迎サービス有）／大阪から紀勢自動車道「すさみ南IC」経由で約3時間半</p>
                   <p><strong>【駐車場・マイカー利用】</strong>50台（無料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.9 ／ 立地 ★4.14 ／ 部屋 ★3.71 ／ 設備 ★3.59 ／ 風呂 ★4.05 ／ 食事 ★4.03</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

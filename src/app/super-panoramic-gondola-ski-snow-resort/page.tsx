@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/super-panoramic-gondola-ski-snow-resort/"
   };
 
@@ -270,23 +270,6 @@ export default function Page() {
             ))}
           </div>
         </section>
-
-        {/* 旅のQ&A */}
-        <section className="bg-white rounded-2xl p-6 md:p-8 border border-stone-200 shadow-sm space-y-4">
-          <h2 className="text-lg md:text-xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">よくある質問・失敗しない宿選び</h2>
-          <div className="space-y-4 text-sm">
-            <div className="border border-stone-100 rounded-xl p-4 bg-stone-50/50 space-y-2">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5"><span className="text-emerald-700 font-black">Q.</span> おすすめの予約時期やタイミングは？</h3>
-              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">人気の日程（連休や週末）は1〜2ヶ月前には満室になることが多いため、早期予約（早割プラン）の利用がおすすめです。また楽天トラベルの「5と0のつく日」キャンペーンを活用すると最大20%オフのクーポンが併用でき、最もお得に予約できます。
-              </p>
-            </div>
-            <div className="border border-stone-100 rounded-xl p-4 bg-stone-50/50 space-y-2">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5"><span className="text-emerald-700 font-black">Q.</span> 宿選びで失敗しないためのポイントは？</h3>
-              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">宿泊者レビューのお風呂・お食事・接客評価が4.3以上の宿を選ぶと満足度が非常に高くなります。またアクセス手段（送迎バスの有無など）やプランに含まれる特典を事前に確認しておくと安心です。
-              </p>
-            </div>
-          </div>
-        </section>
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -416,11 +399,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：山頂ゴンドラ直結＆暖炉ラウンジ！白銀パノラマと天然温泉のスノーリゾートホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：山頂ゴンドラ直結＆暖炉ラウンジ！白銀パノラマと天然温泉のスノーリゾートホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：山頂ゴンドラ直結＆暖炉ラウンジ！白銀パノラマと天然温泉のスノーリゾートホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -502,7 +485,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/13890/13890_bath.jpg" alt="鬼首温泉　リゾートパーク　ホテル　オニコウベ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>大自然に囲まれたリゾートホテル～宮城県北唯一プールのある施設</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮城県大崎市鳴子温泉鬼首大清水26-29 ／ 最寄り駅：鳴子温泉 ／ 交通案内：東北自動車道古川ICより47号線を鳴子方面へ、岩下こけし資料館前交差点から108号線を秋田方面に入り約20分</p>
+                  <p><strong>【所在地・アクセス】</strong>宮城県大崎市鳴子温泉鬼首大清水26-29 ／ 最寄り駅：鳴子温泉 ／ 交通案内：東北自動車道古川ICより47号線を鳴子方面へ、岩下こけし資料館前交差点から108号線を秋田方面に入り約20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８５台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -524,7 +507,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/11010/11010_kan.jpg" alt="奥白馬温泉　ホテルグリーンプラザ白馬 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>白馬の大自然＆温泉＆バイキングを満喫！夏レジャー、紅葉、スキー♪オールシーズン楽しめる高原リゾート</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県北安曇郡小谷村千国乙12860-1 ／ 最寄り駅：南小谷 ／ 交通案内：上信越道 長野IC オリンピック道路 R148号経由90分/『南小谷駅』より無料送迎バス有り 約20分（予約制）</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県北安曇郡小谷村千国乙12860-1 ／ 最寄り駅：南小谷 ／ 交通案内：上信越道 長野IC オリンピック道路 R148号経由90分/『南小谷駅』より無料送迎バス有り 約20分（予約制）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　1100台　無料！</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -546,7 +529,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5757/5757_room.jpg" alt="高天ヶ原温泉　志賀パークホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>志賀高原高天々原温泉、志賀高原の四季を愉しむことができるホテルです。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県下高井郡山ノ内町志賀高原高天ヶ原 ／ 最寄り駅：湯田中 ／ 交通案内：信州中野ＩＣより車にて約45分。長野電鉄湯田中駅から路線バスにて約50分。新幹線長野駅から志賀高原急行バスにて約80分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県下高井郡山ノ内町志賀高原高天ヶ原 ／ 最寄り駅：湯田中 ／ 交通案内：信州中野ＩＣより車にて約45分。長野電鉄湯田中駅から路線バスにて約50分。新幹線長野駅から志賀高原急行バスにて約80分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>５０台　無料（先着順）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.81 ／ 立地 ★3.81 ／ 部屋 ★3.15 ／ 設備 ★3.19 ／ 風呂 ★3.69 ／ 食事 ★3.76</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -568,7 +551,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/15934/15934_heya.jpg" alt="白馬姫川温泉　北アルプスを一望　ホテル白馬＜長野県＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>新しくレストラン棟が完成、ロビーもリニューアルして温泉露天風呂＆大浴場とともに更に快適に！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県北安曇郡白馬村北城5470-1 ／ 最寄り駅：白馬 ／ 交通案内：ＪＲ白馬駅より徒歩１０分川沿い／長野自動車道安曇野ＩＣより５０分／上信越自動車道長野ＩＣより５０分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県北安曇郡白馬村北城5470-1 ／ 最寄り駅：白馬 ／ 交通案内：ＪＲ白馬駅より徒歩１０分川沿い／長野自動車道安曇野ＩＣより５０分／上信越自動車道長野ＩＣより５０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.48 ／ 立地 ★4.47 ／ 部屋 ★4.3 ／ 設備 ★4.24 ／ 風呂 ★4.28 ／ 食事 ★4.44</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -590,7 +573,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2160/2160_heya.jpg" alt="白馬姫川温泉　白馬　山のホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>白馬ジャンプ台を望む、欧州の山岳リゾートを思わせるクラシックなホテル。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県北安曇郡白馬村北城3477 ／ 最寄り駅：白馬 ／ 交通案内：中央道安曇野インター／上信越道長野インターより1時間。ＪＲ大糸線白馬駅／白馬八方バス停　ホテルの送迎有</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県北安曇郡白馬村北城3477 ／ 最寄り駅：白馬 ／ 交通案内：中央道安曇野インター／上信越道長野インターより1時間。ＪＲ大糸線白馬駅／白馬八方バス停　ホテルの送迎有</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場20台設置。EV普通充電スタンド（6kW/3kW対応・2台）も完備しております。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.37 ／ 部屋 ★4.26 ／ 設備 ★4.16 ／ 風呂 ★4.32</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -601,6 +584,9 @@ export default function Page() {
             </div>
           </div></section>
 
+              <div className="my-8">
+          <ShareButtons title="【2026年】山頂ゴンドラ直結＆暖炉ラウンジ！白銀パノラマと天然温泉のスノーリゾートホテル5選" url="https://croud-travel.pages.dev/super-panoramic-gondola-ski-snow-resort/" />
+        </div>
       </main>
     
       <HubRelatedPosts currentSlug="super-panoramic-gondola-ski-snow-resort" />

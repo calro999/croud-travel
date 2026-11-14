@@ -77,7 +77,7 @@ export default function ArticlePage() {
             静岡・熱海温泉ひとり旅＆海一望おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「熱海温泉ひとり旅・海一望おこもり」相模湾オーシャンビュー・貸切源泉露天・熱海海上花火！昭和レトロと絶景リゾート厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               徳川家康公も愛した名湯・熱海温泉。東京駅から新幹線でわずか35分という抜群の近さでありながら、熱海サンビーチのヤシ並木やレトロな商店街、そして夜空を彩る熱海海上花火大会など、日常を完全に忘れさせてくれる非日常が広がっています。
             </p>
             <p>
-              気兼ねなく一人で展望貸切温泉に浸かれるコンドミニアムホテルから、波音を聞きながらフレンチと名湯を味わえる極上オーベルジュまで、楽天トラベル公式APIより直接取得した最新データをもとに厳選紹介します。
+              気兼ねなく一人で展望貸切温泉に浸かれるコンドミニアムホテルから、波音を聞きながらフレンチと名湯を味わえる極上オーベルジュまで、宿泊施設データより直接取得した最新データをもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -418,11 +418,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">熱海温泉ひとり旅・海一望おこもり：相模湾オーシャンビュー・貸切源泉露天・熱海海上花火！昭和レトロと絶景リゾート厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「熱海温泉ひとり旅・海一望おこもり：相模湾オーシャンビュー・貸切源泉露天・熱海海上花火！昭和レトロと絶景リゾート厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「熱海温泉ひとり旅・海一望おこもり：相模湾オーシャンビュー・貸切源泉露天・熱海海上花火！昭和レトロと絶景リゾート厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -486,7 +486,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/28514/28514_heya1.jpg" alt="貸切温泉のコンドミニアム　グランビュー熱海 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>熱海駅徒歩7分☆海まで3分！3室限定の半露天風呂客室と７つの開発業務が人気のコンドミニアムホテル！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県熱海市咲見町8-9 ／ 最寄り駅：熱海 ／ 交通案内：熱海駅から徒歩7分！熱海サンビーチまで徒歩3分！熱海滞在に便利な立地で飲食店は周辺に多数あり♪</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県熱海市咲見町8-9 ／ 最寄り駅：熱海 ／ 交通案内：熱海駅から徒歩7分！熱海サンビーチまで徒歩3分！熱海滞在に便利な立地で飲食店は周辺に多数あり♪</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　1泊1台1,300円( 要予約）※駐車場は20台のみです。ご予約はお早目にお願い致します。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -508,7 +508,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/52970/52970_tu.jpg" alt="熱海温泉　ホテルサンミ倶楽部　別館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【全室オーシャンビュー＆熱海駅徒歩１２分】１人旅からカップルまで気軽に泊まれるカジュアルホテル</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県熱海市東海岸町14-66 ／ 最寄り駅：熱海 ／ 交通案内：【電車の場合】JR熱海駅下車。海の方へ向かい徒歩１２分 【車の場合】国道１３５号線沿い坂道(駐車料金有料1000円税別)</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県熱海市東海岸町14-66 ／ 最寄り駅：熱海 ／ 交通案内：【電車の場合】JR熱海駅下車。海の方へ向かい徒歩１２分 【車の場合】国道１３５号線沿い坂道(駐車料金有料1000円税別)</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り 全１３台　1,100円（税込み／泊）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.09 ／ 立地 ★4.29 ／ 部屋 ★3.94 ／ 設備 ★3.81 ／ 風呂 ★3.84 ／ 食事 ★4.31</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -530,7 +530,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/151233/151233.jpg" alt="オーベルジュ　フォンテーヌ・ブロー熱海 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全12室 源泉露天風呂付き客室☆ 正統派オーベルジュ</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県熱海市下多賀1484-5 ／ 最寄り駅：伊豆多賀 ／ 交通案内：事前予約でJR伊豆多賀駅から無料送迎あり♪　#フランス料理 #温泉 #ホテル #オーシャンビュー</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県熱海市下多賀1484-5 ／ 最寄り駅：伊豆多賀 ／ 交通案内：事前予約でJR伊豆多賀駅から無料送迎あり♪　#フランス料理 #温泉 #ホテル #オーシャンビュー</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り／敷地内駐車場・12台／無料／電気自動車充電可（1台分のみ）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.55 ／ 立地 ★4.4 ／ 部屋 ★4.52 ／ 設備 ★4.3 ／ 風呂 ★4.51 ／ 食事 ★4.64</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

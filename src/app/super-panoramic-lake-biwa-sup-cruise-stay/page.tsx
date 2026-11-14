@@ -231,7 +231,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全5選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -673,11 +673,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：湖上に浮かぶ大鳥居へ！琵琶湖SUP体験＆レイクサイド絶景温泉リゾート5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：湖上に浮かぶ大鳥居へ！琵琶湖SUP体験＆レイクサイド絶景温泉リゾート5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：湖上に浮かぶ大鳥居へ！琵琶湖SUP体験＆レイクサイド絶景温泉リゾート5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -759,7 +759,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4843/4843_room.jpg" alt="琵琶湖ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【全室レイクビュー】天然温泉・露天風呂も楽しめる湖畔のリゾートホテル</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 滋賀県大津市浜町2-40 ／ 最寄り駅：大津 ／ 交通案内：JR大津駅より徒歩約15分／京阪びわ湖浜大津駅より徒歩約5分／名神大津ICより約10分／無料駐車場</p>
+                  <p><strong>【所在地・アクセス】</strong>滋賀県大津市浜町2-40 ／ 最寄り駅：大津 ／ 交通案内：JR大津駅より徒歩約15分／京阪びわ湖浜大津駅より徒歩約5分／名神大津ICより約10分／無料駐車場</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　155台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -781,7 +781,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/160835/160835.jpg" alt="琵琶湖マリオットホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>目の前に雄大な琵琶湖と比良山系を眺めながら快適な滞在をお楽しみいただけます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 滋賀県守山市今浜町十軒家2876 ／ 最寄り駅：堅田 ／ 交通案内：JR堅田駅より無料シャトルバス運行【時刻表等の詳細はホテルHPへ】</p>
+                  <p><strong>【所在地・アクセス】</strong>滋賀県守山市今浜町十軒家2876 ／ 最寄り駅：堅田 ／ 交通案内：JR堅田駅より無料シャトルバス運行【時刻表等の詳細はホテルHPへ】</p>
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場有 185台 2026年8月1日より有料となります。500円/1泊　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -803,7 +803,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9254/9254_sgl.jpg" alt="奥琵琶湖マキノグランドパークホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【アパ参画ホテル】奥琵琶湖の湖岸に佇む、自然に包まれたリゾートホテル。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 滋賀県高島市マキノ町西浜763-2 ／ 最寄り駅：マキノ（滋賀） ／ 交通案内：JR湖西線『マキノ駅』下車、徒歩約12分 無料駐車場</p>
+                  <p><strong>【所在地・アクセス】</strong>滋賀県高島市マキノ町西浜763-2 ／ 最寄り駅：マキノ（滋賀） ／ 交通案内：JR湖西線『マキノ駅』下車、徒歩約12分 無料駐車場</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　150台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.04 ／ 立地 ★4.29 ／ 部屋 ★4.05 ／ 設備 ★3.84 ／ 風呂 ★3.52 ／ 食事 ★4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -825,7 +825,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2922/2922_heya1.jpg" alt="グランドメルキュール琵琶湖リゾート＆スパ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>4月リブランドオープン！全てのお客様が無料で利用できるラウンジ特典付のリゾート</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 滋賀県長浜市大島町38 ／ 最寄り駅：長浜 ／ 交通案内：長浜駅から(西出口)徒歩約10分(無料定時送迎有）米原駅から車約20分　長浜ＩＣから車約15分　米原ＩＣから車約20分</p>
+                  <p><strong>【所在地・アクセス】</strong>滋賀県長浜市大島町38 ／ 最寄り駅：長浜 ／ 交通案内：長浜駅から(西出口)徒歩約10分(無料定時送迎有）米原駅から車約20分　長浜ＩＣから車約15分　米原ＩＣから車約20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>屋外150台有料：普通車1泊500円（大型要問合せ）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -847,7 +847,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/106122/106122_w.jpg" alt="琵琶湖グランドホテル・京近江 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>お1人様～カップル・ファミリー・グループ様大歓迎。大切な方と琵琶湖ステイ。京都や延暦寺へアクセス良好</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 滋賀県大津市雄琴6-5-1 ／ 最寄り駅：雄琴 ／ 交通案内：ＪＲ湖西線おごと温泉駅下車、車5分(送迎有)　名神高速道路、京都東ＩＣより湖西道路経由仰木雄琴より5分無料駐車場有り</p>
+                  <p><strong>【所在地・アクセス】</strong>滋賀県大津市雄琴6-5-1 ／ 最寄り駅：雄琴 ／ 交通案内：ＪＲ湖西線おごと温泉駅下車、車5分(送迎有)　名神高速道路、京都東ＩＣより湖西道路経由仰木雄琴より5分無料駐車場有り</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３５０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

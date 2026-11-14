@@ -236,7 +236,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -681,11 +681,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：佐渡金山世界遺産登録記念！極上日本海海の幸と絶景夕日温泉宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：佐渡金山世界遺産登録記念！極上日本海海の幸と絶景夕日温泉宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：佐渡金山世界遺産登録記念！極上日本海海の幸と絶景夕日温泉宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -767,7 +767,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/6196/6196_war.jpg" alt="佐渡随一の源泉かけ流し八幡温泉　八幡館＜佐渡島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>佐渡の中央にあり観光にもビジネスにも便利。佐渡屈指の名湯「八幡温泉」とゆとりある客室が自慢♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県佐渡市八幡2043 ／ 最寄り駅：佐渡空港 ／ 交通案内：お車で約35分、国道350号線からお入りください。両津港、小木港から路線バスにて約50分、八幡温泉前下車で目の前です</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県佐渡市八幡2043 ／ 最寄り駅：佐渡空港 ／ 交通案内：お車で約35分、国道350号線からお入りください。両津港、小木港から路線バスにて約50分、八幡温泉前下車で目の前です</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.24 ／ 立地 ★4.17 ／ 部屋 ★4.18 ／ 設備 ★4.06 ／ 風呂 ★4.41</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -789,7 +789,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/179056/179056_kan1.jpg" alt="佐渡温泉　御宿　おぎの湯＜佐渡島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>自慢の温泉は、とろりとした肌触りの「美肌の湯」小木の港から車で5分の高台に位置し港を一望できます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県佐渡市小木町1494-6 ／ 最寄り駅：主要駅 ／ 交通案内：佐渡汽船　小木港よりお車にて約５分</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県佐渡市小木町1494-6 ／ 交通案内：佐渡汽船　小木港よりお車にて約５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４２台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.02 ／ 立地 ★4.02 ／ 部屋 ★4 ／ 設備 ★3.95 ／ 風呂 ★4.21 ／ 食事 ★4.18</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -811,7 +811,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/10682/10682_rm.jpg" alt="湖畔の宿　吉田家　＜佐渡島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>両津港よりお車にて５分。（到着時電話にてお向かいあり、翌日も定期的に佐渡汽船まで送りあり）</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県佐渡市両津夷261-1 ／ 最寄り駅：佐渡空港 ／ 交通案内：佐渡汽船　両津港よりお車にて５分。無料送迎バス有り（要予約）</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県佐渡市両津夷261-1 ／ 最寄り駅：佐渡空港 ／ 交通案内：佐渡汽船　両津港よりお車にて５分。無料送迎バス有り（要予約）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -833,7 +833,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/59633/59633_ky.jpg" alt="ＨＯＴＥＬ　ＡＺＵＭＡ＜佐渡島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>夕陽と大海原をひとり占め　〜寄り添う　心温かいおもてなし〜</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県佐渡市相川大浦548-1 ／ 最寄り駅：佐渡空港 ／ 交通案内：両津港より車で５０分／小木港より車で６０分</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県佐渡市相川大浦548-1 ／ 最寄り駅：佐渡空港 ／ 交通案内：両津港より車で５０分／小木港より車で６０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　57台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.67 ／ 部屋 ★4.35 ／ 設備 ★4.31 ／ 風呂 ★4.21 ／ 食事 ★4.49</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -855,7 +855,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4894/4894_ks.jpg" alt="伝統と風格の宿　ホテル万長　＜佐渡島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>佐渡島の歴史文化、相川の茜色の夕陽、四季の海山の幸とともに、ゆったりと流れる島時間をお愉しみください</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県佐渡市相川下戸町58 ／ 最寄り駅：佐渡空港 ／ 交通案内：両津港から25ｋｍ（車で45分/路線バスで約60分・本線相川下戸下車徒歩1分）小木港から37ｋｍ（車で60分）</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県佐渡市相川下戸町58 ／ 最寄り駅：佐渡空港 ／ 交通案内：両津港から25ｋｍ（車で45分/路線バスで約60分・本線相川下戸下車徒歩1分）小木港から37ｋｍ（車で60分）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場・車50台（大型バス駐車可能）/一部バイク用ガレージあり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.46 ／ 立地 ★4.45 ／ 部屋 ★4.38 ／ 設備 ★4.19 ／ 風呂 ★4.24 ／ 食事 ★4.47</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

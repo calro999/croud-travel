@@ -359,11 +359,11 @@ export default function AutumnBudgetFuranoHotelsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">富良野：秋の収穫祭・ふらのワイン＆丘陵紅葉！4,000円台〜泊まれる格安リゾートホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「富良野：秋の収穫祭・ふらのワイン＆丘陵紅葉！4,000円台〜泊まれる格安リゾートホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「富良野：秋の収穫祭・ふらのワイン＆丘陵紅葉！4,000円台〜泊まれる格安リゾートホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -445,7 +445,7 @@ export default function AutumnBudgetFuranoHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/172266/172266_kan1.jpg" alt="ホテルムニン富良野（Ｈｏｔｅｌ　Ｍｕｎｉｎ　Ｆｕｒａｎｏ） 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>富良野スキー場北の峰ゴンドラステーションまで徒歩10分。世界のスキーヤーのためのホテル。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道富良野市北の峰町10-23 ／ 最寄り駅：富良野 ／ 交通案内：ＪＲ　富良野駅よりお車にて約８分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道富良野市北の峰町10-23 ／ 最寄り駅：富良野 ／ 交通案内：ＪＲ　富良野駅よりお車にて約８分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　隣接駐車場１７台(無料)　他、近隣に提携駐車場有(無料)</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.63 ／ 立地 ★4.44 ／ 部屋 ★4.65 ／ 設備 ★4.57 ／ 風呂 ★4.49 ／ 食事 ★4.5</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -467,7 +467,7 @@ export default function AutumnBudgetFuranoHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/30804/30804_kan1.jpg" alt="新富良野プリンスホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>冬の富良野を満喫するチャンス！期間限定タイムセール開催中。今だけ使えるクーポン配布中！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道富良野市中御料 ／ 最寄り駅：富良野 ／ 交通案内：ＪＲ富良野駅タクシー10分／道央自動車道 三笠ＩＣより車で約60分／旭川空港・新千歳空港から路線バスあり（終点当ホテル）</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道富良野市中御料 ／ 最寄り駅：富良野 ／ 交通案内：ＪＲ富良野駅タクシー10分／道央自動車道 三笠ＩＣより車で約60分／旭川空港・新千歳空港から路線バスあり（終点当ホテル）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　390台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -489,7 +489,7 @@ export default function AutumnBudgetFuranoHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/67066/67066_kr.jpg" alt="ＦＵＲＡＮＯ　ＮＡＴＵＬＵＸ　ＨＯＴＥＬ（富良野　ナチュラクス　ホテル） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>≪ミシュラン掲載≫【楽天アワード５年連続受賞】－ＪＲ富良野駅より徒歩1分の癒しと寛ぎの空間－</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道富良野市朝日町1-35 ／ 最寄り駅：富良野 ／ 交通案内：ＪＲ富良野駅より徒歩1分・札幌市よりお車で約2.5時間・旭川よりお車で約1時間/旭川空港～富良野駅直通バスあり</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道富良野市朝日町1-35 ／ 最寄り駅：富良野 ／ 交通案内：ＪＲ富良野駅より徒歩1分・札幌市よりお車で約2.5時間・旭川よりお車で約1時間/旭川空港～富良野駅直通バスあり</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台 （ハイルーフ車もOK）　無料　予約不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.23 ／ 立地 ★4.18 ／ 部屋 ★4.08 ／ 設備 ★4.07 ／ 風呂 ★3.99 ／ 食事 ★4.04</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -511,7 +511,7 @@ export default function AutumnBudgetFuranoHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/16240/16240_trp.jpg" alt="富良野リゾートホテル　エーデルヴェルメ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>大雪山・十勝岳連峰と富良野の雄大な景色を堪能できる北欧風リゾートホテルでコンセプトルームを多数ご用意</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道富良野市北の峰町9-20 ／ 最寄り駅：富良野 ／ 交通案内：札幌ICから道央自動車道、三笠ICまで約30分、道道116号岩見沢三笠線/国道38号線、北の峰経由で約1時間30分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道富良野市北の峰町9-20 ／ 最寄り駅：富良野 ／ 交通案内：札幌ICから道央自動車道、三笠ICまで約30分、道道116号岩見沢三笠線/国道38号線、北の峰経由で約1時間30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -533,7 +533,7 @@ export default function AutumnBudgetFuranoHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/75270/75270_room.jpg" alt="ホテル　ナトゥールヴァルト富良野 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>富良野の女性と子どもに優しい宿♪心が温かくなる接客・富良野スキー場目の前</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道富良野市北の峰町14-46 ／ 最寄り駅：富良野 ／ 交通案内：車札幌から約3時間、旭川・旭山動物園から約1時間/旭川空港 富良野バス（旭川-富良野駅）で1時間</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道富良野市北の峰町14-46 ／ 最寄り駅：富良野 ／ 交通案内：車札幌から約3時間、旭川・旭山動物園から約1時間/旭川空港 富良野バス（旭川-富良野駅）で1時間</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（もちろんハイルーフ車もOK）　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

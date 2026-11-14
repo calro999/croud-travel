@@ -317,11 +317,11 @@ export default function KanazawaBudgetAutumnPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋の金沢×格安：兼六園の雪吊りと秋のカニ解禁！天然温泉付き1泊3,000円〜6,000円台の高コスパホテル5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「秋の金沢×格安：兼六園の雪吊りと秋のカニ解禁！天然温泉付き1泊3,000円〜6,000円台の高コスパホテル5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「秋の金沢×格安：兼六園の雪吊りと秋のカニ解禁！天然温泉付き1泊3,000円〜6,000円台の高コスパホテル5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -403,7 +403,7 @@ export default function KanazawaBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/180588/180588.jpg" alt="天然温泉　鼓門の湯　スーパーホテルＰｒｅｍｉｅｒ金沢駅東口 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>金沢駅東口より徒歩７分！主要駅からのアクセスが良くビジネスや観光に便利♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県金沢市本町2-5-15 ／ 最寄り駅：金沢 ／ 交通案内：金沢駅東口より徒歩7分。金沢東ICより約15分。</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県金沢市本町2-5-15 ／ 最寄り駅：金沢 ／ 交通案内：金沢駅東口より徒歩7分。金沢東ICより約15分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル専用駐車場、駐輪場はございません。近隣駐車場のご案内となります</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -425,7 +425,7 @@ export default function KanazawaBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4806/4806_room.jpg" alt="ｔｈｅ　ｂ　金沢片町 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【北陸エリア初進出】ｔｈｅ　ｂ　金沢片町が８月１日グランドオープン！全室32㎡以上｜バス・トイレ別</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県金沢市片町2-2-13 ／ 最寄り駅：金沢 ／ 交通案内：金沢駅からバスで10分(金沢駅東口⑨⑩⑪のりばから乗車）片町バス停から徒歩2分/金沢西I.Cより車で10分</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県金沢市片町2-2-13 ／ 最寄り駅：金沢 ／ 交通案内：金沢駅からバスで10分(金沢駅東口⑨⑩⑪のりばから乗車）片町バス停から徒歩2分/金沢西I.Cより車で10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>提携①270台(16時間1,200円 24時間1,700円)②139台(15時〜11時1,200円)</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.27 ／ 立地 ★4.22 ／ 部屋 ★4.31 ／ 設備 ★4.17 ／ 風呂 ★4.21 ／ 食事 ★4.6</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -447,7 +447,7 @@ export default function KanazawaBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/18391/18391_s.jpg" alt="アパホテル〈金沢中央〉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>最上階天然温泉・サウナ・岩盤浴完備、客室Wi-Fi無料。兼六園や21世紀美術館も徒歩圏内で観光便利。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県金沢市片町1-5-24 ／ 最寄り駅：金沢 ／ 交通案内：■片町スクランブル交差点30秒 ■金沢駅東口⑨⑩⑪乗り場から「片町」バス停下車徒歩1分</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県金沢市片町1-5-24 ／ 最寄り駅：金沢 ／ 交通案内：■片町スクランブル交差点30秒 ■金沢駅東口⑨⑩⑪乗り場から「片町」バス停下車徒歩1分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル駐車場1泊1650円(入庫から24時間まで)高さ制限あり。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.14 ／ 立地 ★4.22 ／ 部屋 ★4.15 ／ 設備 ★4.13 ／ 風呂 ★4.25 ／ 食事 ★4.21</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -469,7 +469,7 @@ export default function KanazawaBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/147855/147855_kan1.jpg" alt="天然温泉・健康ランド　金沢ゆめのゆ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>天然温泉大浴場など各種施設も充実。ホテル満室時でも簡易宿泊施設がございます。お気軽にお問合せ下さい。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県金沢市藤江南3-26 ／ 最寄り駅：金沢 ／ 交通案内：金沢駅発無料バス　10：45～18：45　の間、毎時間「４５分」に金沢駅西口団体バス乗降所を出発</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県金沢市藤江南3-26 ／ 最寄り駅：金沢 ／ 交通案内：金沢駅発無料バス　10：45～18：45　の間、毎時間「４５分」に金沢駅西口団体バス乗降所を出発</p>
                   <p><strong>【駐車場・マイカー利用】</strong>１４００台　無料駐車場は予約不要でご利用できます。　大型車も駐車OK!（有料）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -491,7 +491,7 @@ export default function KanazawaBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/182423/182423.jpg" alt="天然温泉　加賀の宝泉　御宿　野乃金沢（ドーミーイン・御宿野乃　ホテルズグループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「近江町市場」「兼六園」まで徒歩圏内！天然温泉大浴場＆サウナ完備！朝食は「お好み海鮮丼」</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県金沢市下堤町1-1 ／ 最寄り駅：金沢 ／ 交通案内：JR金沢駅より徒歩15分または北鉄バス6～10番乗り場からバスで4分「武蔵が辻・近江町市場」バス停下車後徒歩1分</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県金沢市下堤町1-1 ／ 最寄り駅：金沢 ／ 交通案内：JR金沢駅より徒歩15分または北鉄バス6～10番乗り場からバスで4分「武蔵が辻・近江町市場」バス停下車後徒歩1分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　先着順(76台)　1泊1,500円　長さ:5300㎜　全幅:1940㎜　高さ:2000㎜</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

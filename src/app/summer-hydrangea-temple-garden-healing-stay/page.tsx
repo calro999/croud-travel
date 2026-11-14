@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/summer-hydrangea-temple-garden-healing-stay/"
   };
 
@@ -76,7 +76,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67445%2F67445.html%26f_flg%3DPLAN",
     "hotelMinCharge": 41800,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/67445/67445.jpg",
-    "userReview": "絶景のロケーションとおもてなしに心から癒やされました。",
+    "userReview": "秋月温泉　料亭旅館　清流庵ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
     "reviewAverage": 5,
     "reviewCount": 125,
     "address": "福岡県朝倉市秋月1058",
@@ -90,7 +90,7 @@ export default function Page() {
     "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F11189%2F11189.html%26f_flg%3DPLAN",
     "hotelMinCharge": 9900,
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/11189/11189.jpg",
-    "userReview": "絶景のロケーションとおもてなしに心から癒やされました。",
+    "userReview": "黒石温泉郷落合温泉　かねさだ旅館ならではの立地と落ち着いた空間で、ゆったりとした滞在を楽しめたという声が寄せられています。",
     "reviewAverage": 3.92,
     "reviewCount": 129,
     "address": "青森県黒石市袋富田66-5",
@@ -270,23 +270,6 @@ export default function Page() {
             ))}
           </div>
         </section>
-
-        {/* 旅のQ&A */}
-        <section className="bg-white rounded-2xl p-6 md:p-8 border border-stone-200 shadow-sm space-y-4">
-          <h2 className="text-lg md:text-xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">よくある質問・失敗しない宿選び</h2>
-          <div className="space-y-4 text-sm">
-            <div className="border border-stone-100 rounded-xl p-4 bg-stone-50/50 space-y-2">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5"><span className="text-emerald-700 font-black">Q.</span> おすすめの予約時期やタイミングは？</h3>
-              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">人気の日程（連休や週末）は1〜2ヶ月前には満室になることが多いため、早期予約（早割プラン）の利用がおすすめです。また楽天トラベルの「5と0のつく日」キャンペーンを活用すると最大20%オフのクーポンが併用でき、最もお得に予約できます。
-              </p>
-            </div>
-            <div className="border border-stone-100 rounded-xl p-4 bg-stone-50/50 space-y-2">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5"><span className="text-emerald-700 font-black">Q.</span> 宿選びで失敗しないためのポイントは？</h3>
-              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">宿泊者レビューのお風呂・お食事・接客評価が4.3以上の宿を選ぶと満足度が非常に高くなります。またアクセス手段（送迎バスの有無など）やプランに含まれる特典を事前に確認しておくと安心です。
-              </p>
-            </div>
-          </div>
-        </section>
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -416,11 +399,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：青や紫のグラデーション！紫陽花寺めぐり＆あじさい庭園露天風呂の初夏温泉宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：青や紫のグラデーション！紫陽花寺めぐり＆あじさい庭園露天風呂の初夏温泉宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：青や紫のグラデーション！紫陽花寺めぐり＆あじさい庭園露天風呂の初夏温泉宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -449,7 +432,7 @@ export default function Page() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 黒石温泉郷落合温泉　かねさだ旅館</td>
-                <td className="p-3 text-stone-600">青森県</td>
+                <td className="p-3 text-stone-600">青森県黒石市袋富田66-5</td>
                 <td className="p-3 text-stone-600">東北自動車道　黒石ＩＣより車で１０分／ＪＲ弘前駅より弘南鉄道線 黒石駅</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★3.92（129件）</td>
@@ -458,7 +441,7 @@ export default function Page() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 野沢温泉　桐屋旅館</td>
-                <td className="p-3 text-stone-600">青森県</td>
+                <td className="p-3 text-stone-600">長野県下高井郡野沢温泉村豊郷8714-2</td>
                 <td className="p-3 text-stone-600">上信越道・長野道・豊田・飯山ICより国道117号で車で25分。またはJ</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.89（115件）</td>
@@ -467,7 +450,7 @@ export default function Page() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 徳田屋旅館</td>
-                <td className="p-3 text-stone-600">青森県</td>
+                <td className="p-3 text-stone-600">群馬県渋川市伊香保町伊香保165-23</td>
                 <td className="p-3 text-stone-600">ＪＲ上越線渋川駅より伊香保温泉行きバスにて２５分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.32（286件）</td>
@@ -476,7 +459,7 @@ export default function Page() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. オーシャンテラス　あじさい</td>
-                <td className="p-3 text-stone-600">青森県</td>
+                <td className="p-3 text-stone-600">兵庫県神戸市灘区六甲山町南六甲1034-181</td>
                 <td className="p-3 text-stone-600">六甲ケーブル山上駅からバスで10分（六甲山上駅より送迎あり。六甲ケーブ</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.76（253件）</td>
@@ -502,7 +485,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/67445/67445_room.jpg" alt="秋月温泉　料亭旅館　清流庵 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【1日6組限定】秋月の四季を感じる静かな宿。厳選素材の本格創作料理と客室温泉に浸る至福のひとときを。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福岡県朝倉市秋月1058 ／ 最寄り駅：甘木 ／ 交通案内：福岡市内から車で1時間（甘木ICから約15分）・甘木駅から甘木観光バス「秋月」行き乗車で約20分→秋月で下車し徒歩10分</p>
+                  <p><strong>【所在地・アクセス】</strong>福岡県朝倉市秋月1058 ／ 最寄り駅：甘木 ／ 交通案内：福岡市内から車で1時間（甘木ICから約15分）・甘木駅から甘木観光バス「秋月」行き乗車で約20分→秋月で下車し徒歩10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料　３０台　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -523,12 +506,12 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/11189/11189.jpg" alt="黒石温泉郷落合温泉　かねさだ旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「青や紫のグラデーション（紫陽花寺めぐり＆あじさい庭園露天風呂の初夏温泉宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：東北自動車道　黒石ＩＣより車で１０分／ＪＲ弘前駅より弘南鉄道線 黒石駅下車→バスで約２５分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>黒石温泉郷落合温泉 かねさだ旅館（青森県黒石市袋富田66-5）は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：東北自動車道　黒石ＩＣより車で１０分／ＪＲ弘前駅より弘南鉄道線 黒石駅下車→バスで約２５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「絶景のロケーションとおもてなしに心から癒やされました。」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「黒石温泉郷落合温泉 かねさだ旅館での快適な滞在とアクセス面の良さに満足したという評価が寄せられています。」
                   </blockquote>
                 </div>
               </div>
@@ -545,8 +528,8 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/72870/72870.jpg" alt="野沢温泉　桐屋旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「青や紫のグラデーション（紫陽花寺めぐり＆あじさい庭園露天風呂の初夏温泉宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：上信越道・長野道・豊田・飯山ICより国道117号で車で25分。またはJR北陸新幹線・飯山駅下車、野沢温泉ライナーで25分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>野沢温泉 桐屋旅館（長野県下高井郡野沢温泉村豊郷8714-2）は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：上信越道・長野道・豊田・飯山ICより国道117号で車で25分。またはJR北陸新幹線・飯山駅下車、野沢温泉ライナーで25分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -567,8 +550,8 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/16386/16386.jpg" alt="徳田屋旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「青や紫のグラデーション（紫陽花寺めぐり＆あじさい庭園露天風呂の初夏温泉宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ上越線渋川駅より伊香保温泉行きバスにて２５分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>徳田屋旅館（群馬県渋川市伊香保町伊香保165-23）は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：ＪＲ上越線渋川駅より伊香保温泉行きバスにて２５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -589,8 +572,8 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/138041/138041.jpg" alt="オーシャンテラス　あじさい 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「青や紫のグラデーション（紫陽花寺めぐり＆あじさい庭園露天風呂の初夏温泉宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：六甲ケーブル山上駅からバスで10分（六甲山上駅より送迎あり。六甲ケーブル下駅よりご出発のお時間を当館までお電話ください）</p>
+                  <p><strong>【宿の特徴・魅力】</strong>オーシャンテラス あじさい（兵庫県神戸市灘区六甲山町南六甲1034-181）は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：六甲ケーブル山上駅からバスで10分（六甲山上駅より送迎あり。六甲ケーブル下駅よりご出発のお時間を当館までお電話ください）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -601,6 +584,9 @@ export default function Page() {
             </div>
           </div></section>
 
+              <div className="my-8">
+          <ShareButtons title="【2026年】青や紫のグラデーション！紫陽花寺めぐり＆あじさい庭園露天風呂の初夏温泉宿5選" url="https://croud-travel.pages.dev/summer-hydrangea-temple-garden-healing-stay/" />
+        </div>
       </main>
     
       <HubRelatedPosts currentSlug="summer-hydrangea-temple-garden-healing-stay" />

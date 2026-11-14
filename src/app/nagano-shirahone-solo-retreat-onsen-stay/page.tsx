@@ -77,7 +77,7 @@ export default function ArticlePage() {
             長野・白骨温泉ひとり旅＆北アルプス深山白濁秘湯おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「信州白骨温泉ひとり旅・三日入れば三年風邪ひかない名湯おこもり」乳白色混浴大露天・湯元自家源泉・信州ジビエ！北アルプス深山の秘湯厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               長野県松本市安曇、標高1,400mの北アルプス山腹にひっそりと佇む白骨（しらほね）温泉。鎌倉時代からの歴史を持ち、中里介山の小説『大菩薩峠』にも登場する名湯です。空気に触れると乳白色やコバルトブルーに変化する硫黄泉は弱酸性で肌に優しく、温泉通が一生に一度は訪れたいと憧れる秘湯です。
             </p>
             <p>
-              自然湧出の青みがかった白濁大露天風呂を持つ宿から、白樺の森で静かに読書やおこもりを満喫できる隠れ宿まで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              自然湧出の青みがかった白濁大露天風呂を持つ宿から、白樺の森で静かに読書やおこもりを満喫できる隠れ宿まで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -419,11 +419,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">信州白骨温泉ひとり旅・三日入れば三年風邪ひかない名湯おこもり：乳白色混浴大露天・湯元自家源泉・信州ジビエ！北アルプス深山の秘湯厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「信州白骨温泉ひとり旅・三日入れば三年風邪ひかない名湯おこもり：乳白色混浴大露天・湯元自家源泉・信州ジビエ！北アルプス深山の秘湯厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「信州白骨温泉ひとり旅・三日入れば三年風邪ひかない名湯おこもり：乳白色混浴大露天・湯元自家源泉・信州ジビエ！北アルプス深山の秘湯厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -487,7 +487,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/56929/56929_kan.jpg" alt="白骨の名湯　泡の湯 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>この湯は三年忘れない！こころを溶かす混浴露天…白濁ぬる湯の名湯白骨温泉</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県松本市安曇白骨温泉 ／ 最寄り駅：新島々 ／ 交通案内：松本ICより車60分　東海北陸道・高山西ICより車60分　国道158号線沢渡（さわんど）より県道300号線約10分。</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県松本市安曇白骨温泉 ／ 最寄り駅：新島々 ／ 交通案内：松本ICより車60分　東海北陸道・高山西ICより車60分　国道158号線沢渡（さわんど）より県道300号線約10分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>50台無料　さわんどバスターミナルまで車で15分　バスの運行もございます</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.64 ／ 立地 ★4.54 ／ 部屋 ★4.38 ／ 設備 ★4.34 ／ 風呂 ★4.64</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -509,7 +509,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/32100/32100_kan1.jpg" alt="白骨温泉　湯元齋藤旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>二百八十余年の間源泉を守り続ける湯守の宿。レトロモダンな造りの館内には寛ぎの空間が広がっています。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県松本市安曇白骨温泉4195 ／ 最寄り駅：主要駅 ／ 交通案内：お車で松本ICから60分、高山ICから70分。上高地へは「さわんどバスターミナル」乗り換えで約60分。</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県松本市安曇白骨温泉4195 ／ 交通案内：お車で松本ICから60分、高山ICから70分。上高地へは「さわんどバスターミナル」乗り換えで約60分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>40台有り。お車をお預かりし、駐車場へお停めいたします。 駐車場所の指定はお受けいたしかねます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -531,7 +531,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/141241/141241_kya.jpg" alt="白骨温泉　小梨の湯　笹屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>白樺林が織りなす静けさへ。自然に包まれて貸切露天に浸かる、心も身体も湯に溶ける大人旅</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県松本市安曇4182-1 ／ 最寄り駅：松本 ／ 交通案内：ＪＲ　松本駅より、松本電鉄　新島々下車、バスにて６０分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県松本市安曇4182-1 ／ 最寄り駅：松本 ／ 交通案内：ＪＲ　松本駅より、松本電鉄　新島々下車、バスにて６０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.59 ／ 立地 ★4.46 ／ 部屋 ★4.61 ／ 設備 ★4.38 ／ 風呂 ★4.89 ／ 食事 ★4.69</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

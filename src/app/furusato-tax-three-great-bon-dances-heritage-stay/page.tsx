@@ -536,11 +536,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大盆踊り＆伝統文化・城下町宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本三大盆踊り＆伝統文化・城下町宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「日本三大盆踊り＆伝統文化・城下町宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -604,7 +604,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/67231/67231_w1.jpg" alt="川原田館 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>庭園を眺めながら、心温まる家庭的な雰囲気に包まれて、ゆったりとした時間をお過ごし頂けます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 秋田県雄勝郡羽後町西馬音内川原田81-1 ／ 最寄り駅：湯沢 ／ 交通案内：ＪＲ奥羽本線　湯沢駅から車で１５分／湯沢ＩＣから車で１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>秋田県雄勝郡羽後町西馬音内川原田81-1 ／ 最寄り駅：湯沢 ／ 交通案内：ＪＲ奥羽本線　湯沢駅から車で１５分／湯沢ＩＣから車で１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１２台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -626,7 +626,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/104706/104706_s.jpg" alt="ビジネスホテル　郡上八幡インター 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>郡上八幡インターから抜群のアクセス！ビジネスに、観光に、お気軽にご利用下さい。皆様のお越しを楽しみにお待ちしています。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岐阜県郡上市八幡町五町3-1-15 ／ 最寄り駅：郡上八幡 ／ 交通案内：郡上八幡駅から車で５分</p>
+                  <p><strong>【所在地・アクセス】</strong>岐阜県郡上市八幡町五町3-1-15 ／ 最寄り駅：郡上八幡 ／ 交通案内：郡上八幡駅から車で５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -648,7 +648,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4721/4721_heya.jpg" alt="ＪＲホテルクレメント徳島 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ＪＲ徳島駅直結の好立地なシティーホテル</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 徳島県徳島市寺島本町西1-61 ／ 最寄り駅：徳島 ／ 交通案内：ＪＲ徳島駅直結０分・高速バス降り場より徒歩１分・徳島阿波おどり空港より車で約30分・徳島Ｉ．Ｃ．から車で１５分。</p>
+                  <p><strong>【所在地・アクセス】</strong>徳島県徳島市寺島本町西1-61 ／ 最寄り駅：徳島 ／ 交通案内：ＪＲ徳島駅直結０分・高速バス降り場より徒歩１分・徳島阿波おどり空港より車で約30分・徳島Ｉ．Ｃ．から車で１５分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>1泊1台1,300円(24時間入出庫可能)※2026/4/1より1,300円へ変更になりました</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

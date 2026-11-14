@@ -234,11 +234,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">静岡・伊豆高原＆城ヶ崎：城ヶ崎門脇吊橋・大室山＆露天風呂ヴィラ宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「静岡・伊豆高原＆城ヶ崎：城ヶ崎門脇吊橋・大室山＆露天風呂ヴィラ宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「静岡・伊豆高原＆城ヶ崎：城ヶ崎門脇吊橋・大室山＆露天風呂ヴィラ宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -329,7 +329,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/55897/55897_f.jpg" alt="伊豆高原温泉　全室露天風呂付の宿　ｅ，ここ地宿　風曜日 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>☆伊豆高原温泉全４室だけの露天風呂付の宿☆リピーターも絶賛創作スペイン料理を満喫☆</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県伊東市八幡野１２５３－１４５（大室高原７丁目２１０） ／ 最寄り駅：伊豆高原 ／ 交通案内：伊豆高原駅よりシャボテン公園行き（桜並木経由）バスで１５分、大室高原８丁目下車より徒歩にて１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県伊東市八幡野１２５３－１４５（大室高原７丁目２１０） ／ 最寄り駅：伊豆高原 ／ 交通案内：伊豆高原駅よりシャボテン公園行き（桜並木経由）バスで１５分、大室高原８丁目下車より徒歩にて１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -351,7 +351,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/17499/17499_heya.jpg" alt="客室露天風呂付き　お部屋食で金目鯛を味わう宿　伊豆高原温泉　お宿　癒楽里ーゆらりー 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【客室風呂＆お部屋食】伊豆名物キンメの煮付けが食べられる！クチコミ5つ星の絶品創作料理をお部屋食で！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県伊東市富戸1094-12 ／ 最寄り駅：伊豆高原 ／ 交通案内：東名高速厚木ＩＣ→小田原厚木道路→Ｒ１３５で約９０分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県伊東市富戸1094-12 ／ 最寄り駅：伊豆高原 ／ 交通案内：東名高速厚木ＩＣ→小田原厚木道路→Ｒ１３５で約９０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -373,7 +373,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/29100/29100_wa.jpg" alt="伊豆高原温泉　海望む露天風呂付客室　夢海月(ゆめみづき) 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>伊豆高原温泉のモダン旅館 ・海望む露天風呂付客室と個室で楽しむ伊豆金目鯛懐石・ニッポニア高原宿夢海月</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県伊東市大室高原10丁目348 ／ 最寄り駅：伊豆高原 ／ 交通案内：車：東名高速厚木IC・沼津ＩＣより約100分／電車：伊豆急行線伊豆高原駅～シャボテン公園行・理想郷バス停～歩2分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県伊東市大室高原10丁目348 ／ 最寄り駅：伊豆高原 ／ 交通案内：車：東名高速厚木IC・沼津ＩＣより約100分／電車：伊豆急行線伊豆高原駅～シャボテン公園行・理想郷バス停～歩2分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料7台（ご予約不要）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.46 ／ 立地 ★4.06 ／ 部屋 ★4.52 ／ 設備 ★4.26 ／ 風呂 ★4.38 ／ 食事 ★4.6</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -395,7 +395,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/49287/49287_k.jpg" alt="伊豆高原温泉　蔵の宿　ひなた 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>海を見下ろし　温泉三昧　ひなたぼっこをするように ゆっくりのんびりしてほしい</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県伊東市富戸1095-216 ／ 最寄り駅：城ヶ崎海岸 ／ 交通案内：城ヶ崎海岸駅より車で８分／伊豆高原駅より車で１５分／東名高速　厚木ＩＣ→小田原→熱海→伊東</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県伊東市富戸1095-216 ／ 最寄り駅：城ヶ崎海岸 ／ 交通案内：城ヶ崎海岸駅より車で８分／伊豆高原駅より車で１５分／東名高速　厚木ＩＣ→小田原→熱海→伊東</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　5台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -417,7 +417,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/38761/38761_su.jpg" alt="伊豆高原温泉　客室露天風呂付リゾートホテル　コルテラルゴ伊豆高原 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全室天然温泉の露天風呂付◇熟練シェフによる創作イタリアンと健康志向こだわりの朝食</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県伊東市富戸1038-73 ／ 最寄り駅：伊豆高原 ／ 交通案内：伊豆急行線　伊豆高原駅より車にて１０分／東名　厚木ＩＣより小田原厚木道路経由、Ｒ１３５を下田方面へ１２０分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県伊東市富戸1038-73 ／ 最寄り駅：伊豆高原 ／ 交通案内：伊豆急行線　伊豆高原駅より車にて１０分／東名　厚木ＩＣより小田原厚木道路経由、Ｒ１３５を下田方面へ１２０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　９台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.88 ／ 立地 ★4.63 ／ 部屋 ★4.82 ／ 設備 ★4.81 ／ 風呂 ★4.81 ／ 食事 ★4.88</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -439,7 +439,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5390/5390_ryo.jpg" alt="チャイニーズオーベルジュ　仙豆飯店 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>無化調中華、白砂糖不使用、神寶塩、無農薬玄米自家製米、圧搾絞りの紅花油や胡麻油を使用の中華コース</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県伊東市富戸1317-5719 ／ 最寄り駅：伊東 ／ 交通案内：ＪＲ伊東駅より 東海バス(一碧湖経由シャボテン公園行) 南初島台下車 徒歩約3分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県伊東市富戸1317-5719 ／ 最寄り駅：伊東 ／ 交通案内：ＪＲ伊東駅より 東海バス(一碧湖経由シャボテン公園行) 南初島台下車 徒歩約3分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　6台　無料（予約不要です）　EV無料充電器2基有り　（要予約・普通充電コードご持参ください）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -211,7 +211,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -599,11 +599,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：本場讃岐うどん巡礼！こんぴら温泉郷＆香川グルメを堪能する極上名宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：本場讃岐うどん巡礼！こんぴら温泉郷＆香川グルメを堪能する極上名宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：本場讃岐うどん巡礼！こんぴら温泉郷＆香川グルメを堪能する極上名宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -676,7 +676,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5901/5901_k1.jpg" alt="湯元こんぴら温泉華の湯　紅梅亭 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>露天風呂付スイートOPEN◆2種の源泉を楽しむ＜3箇所15種類の湯処＞でのんびり湯巡り</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 香川県仲多度郡琴平町556-1 ／ 最寄り駅：琴平 ／ 交通案内：ＪＲ琴平駅下車、徒歩5分（無料送迎有・要予約）。車：道善通寺ＩＣ下車約15分。高松空港より約40分</p>
+                  <p><strong>【所在地・アクセス】</strong>香川県仲多度郡琴平町556-1 ／ 最寄り駅：琴平 ／ 交通案内：ＪＲ琴平駅下車、徒歩5分（無料送迎有・要予約）。車：道善通寺ＩＣ下車約15分。高松空港より約40分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り：70台（無料）／EV充電器設置</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.67 ／ 立地 ★4.52 ／ 部屋 ★4.58 ／ 設備 ★4.52 ／ 風呂 ★4.66 ／ 食事 ★4.66</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -698,7 +698,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/752/752_room.jpg" alt="こんぴら温泉　琴平リバーサイドホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【令和5年12月リニュアル】WIFI利用無料　温泉のあるビジネスホテル～JR琴平駅から徒歩4分</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 香川県仲多度郡琴平町246-1 ／ 最寄り駅：琴平 ／ 交通案内：ＪＲ土讃線「琴平駅」徒歩４分。車／高松自動車道「善通寺IC」約15分。「高松空港」約40分。</p>
+                  <p><strong>【所在地・アクセス】</strong>香川県仲多度郡琴平町246-1 ／ 最寄り駅：琴平 ／ 交通案内：ＪＲ土讃線「琴平駅」徒歩４分。車／高松自動車道「善通寺IC」約15分。「高松空港」約40分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有/無料（8台）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -720,7 +720,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5900/5900_k1.jpg" alt="こんぴら温泉　琴平グランドホテル　桜の抄 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>金刀比羅宮に続く参道まで徒歩1分で参拝に便利な温泉宿。和洋約50種類の朝食バイキング好評。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 香川県仲多度郡琴平町977-1 ／ 最寄り駅：琴平 ／ 交通案内：全室Wi-Fi無料/ＪＲ琴平駅下車、徒歩約15分（無料送迎有・要予約）。車/善通寺ＩＣより約15分　高松空港より約40分</p>
+                  <p><strong>【所在地・アクセス】</strong>香川県仲多度郡琴平町977-1 ／ 最寄り駅：琴平 ／ 交通案内：全室Wi-Fi無料/ＪＲ琴平駅下車、徒歩約15分（無料送迎有・要予約）。車/善通寺ＩＣより約15分　高松空港より約40分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>40台（有料）・利用時間14時〜翌11時・予約必須・詳細は桜の抄公式HPをご確認ください</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.59 ／ 立地 ★4.49 ／ 部屋 ★4.59 ／ 設備 ★4.51 ／ 風呂 ★4.56 ／ 食事 ★4.66</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -742,7 +742,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/84770/84770_room.jpg" alt="ホテル　パールガーデン 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>上位ランクのシモンズベッドでぐっすり☆新館禁煙Ｒのみ・本館喫煙Ｒ有！無料ＷＩＦＩ＆駐車場無料</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 香川県高松市福岡町2-2-1 ／ 最寄り駅：高松（香川） ／ 交通案内：JR高松駅より徒歩約30分(車で約10分)又は路線パスで約5分/高松中央ICより5km（約25分）</p>
+                  <p><strong>【所在地・アクセス】</strong>香川県高松市福岡町2-2-1 ／ 最寄り駅：高松（香川） ／ 交通案内：JR高松駅より徒歩約30分(車で約10分)又は路線パスで約5分/高松中央ICより5km（約25分）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２１７台　無料　予約不要。マイクロバス、中型、大型バス、トラック等は有料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.39 ／ 立地 ★4.23 ／ 部屋 ★4.47 ／ 設備 ★4.38 ／ 風呂 ★4.38 ／ 食事 ★4.49</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

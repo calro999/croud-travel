@@ -77,7 +77,7 @@ export default function ArticlePage() {
             山形・天童温泉ひとり旅＆将棋と山寺おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「天童温泉ひとり旅・将棋駒と名湯おこもり」山寺立石寺パノラマ・源泉かけ流し・山形牛＆さくらんぼ！山形新幹線直通の果樹王国厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               山形新幹線「つばさ」で東京から乗り換えなしでアクセスできる山形県・天童温泉。明治末期に田んぼの灌漑用水を掘っていた際に偶然湧出した良質な温泉は、クセのない透明でまろやかな泉質で身体の芯まで温まります。芭蕉ゆかりの国指定名勝・山寺（立石寺）への観光拠点としても抜群です。
             </p>
             <p>
-              将棋のタイトル戦が開催される名門ホテルから、一人旅で静かに源泉と向き合える隠れ宿まで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              将棋のタイトル戦が開催される名門ホテルから、一人旅で静かに源泉と向き合える隠れ宿まで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -418,11 +418,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">天童温泉ひとり旅・将棋駒と名湯おこもり：山寺立石寺パノラマ・源泉かけ流し・山形牛＆さくらんぼ！山形新幹線直通の果樹王国厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「天童温泉ひとり旅・将棋駒と名湯おこもり：山寺立石寺パノラマ・源泉かけ流し・山形牛＆さくらんぼ！山形新幹線直通の果樹王国厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「天童温泉ひとり旅・将棋駒と名湯おこもり：山寺立石寺パノラマ・源泉かけ流し・山形牛＆さくらんぼ！山形新幹線直通の果樹王国厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -486,7 +486,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/52812/52812_i.jpg" alt="天童温泉　湯の香　松の湯 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>天童唯一二種類の源泉100%を掛流し☆山形牛付お部屋食</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県天童市鎌田本町2-2-54 ／ 最寄り駅：主要駅 ／ 交通案内：山形新幹線東京駅から天童駅まで約2時間45分。天童駅から車で約5分</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県天童市鎌田本町2-2-54 ／ 交通案内：山形新幹線東京駅から天童駅まで約2時間45分。天童駅から車で約5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -508,7 +508,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5954/5954_heya.jpg" alt="天童温泉　美味求真の宿　天童ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【楽天トラベルゴールドアワード】【楽天トラベル日本の宿】2024年W受賞！山形の旬を味わえる会席料理</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県天童市鎌田本町2-1-3 ／ 最寄り駅：天童 ／ 交通案内：山形新幹線で東京駅ー天童駅3H。天童駅東口から無料送迎4分（要予約）。天童ICから10分、山形北ICから15分。街中の宿</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県天童市鎌田本町2-1-3 ／ 最寄り駅：天童 ／ 交通案内：山形新幹線で東京駅ー天童駅3H。天童駅東口から無料送迎4分（要予約）。天童ICから10分、山形北ICから15分。街中の宿</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料200台・予約不要｜ホテル玄関前で荷下ろし後、当館から東に約130mの駐車場へご駐車ください</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.58 ／ 立地 ★4.43 ／ 部屋 ★4.53 ／ 設備 ★4.47 ／ 風呂 ★4.54 ／ 食事 ★4.61</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -530,7 +530,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/84800/84800_spa.jpg" alt="天童温泉　栄屋ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>天童唯一の出羽の山々を見渡す絶景展望露天風呂と山形の味覚会席で心ほどける極上旅</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県天童市鎌田2-3-16 ／ 最寄り駅：天童 ／ 交通案内：天童駅よりお車にて５分</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県天童市鎌田2-3-16 ／ 最寄り駅：天童 ／ 交通案内：天童駅よりお車にて５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.08 ／ 立地 ★3.99 ／ 部屋 ★4.02 ／ 設備 ★3.85 ／ 風呂 ★4.11</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

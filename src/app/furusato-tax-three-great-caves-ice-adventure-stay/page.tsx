@@ -536,11 +536,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大氷穴・洞窟探検宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本三大氷穴・洞窟探検宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「日本三大氷穴・洞窟探検宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -560,7 +560,7 @@ export default function Page() {
               <tbody className="divide-y divide-stone-200">
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 露天風呂の宿　開運の湯　ロイヤルホテル河口湖</td>
-                <td className="p-3 text-stone-600">青森県</td>
+                <td className="p-3 text-stone-600">山梨県南都留郡富士河口湖町船津6713-22</td>
                 <td className="p-3 text-stone-600">中央道河口湖ＩＣ－Ｒ１３９を河口湖方面へ約１０分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★3.2（493件）</td>
@@ -603,12 +603,12 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/6116/6116.jpg" alt="露天風呂の宿　開運の湯　ロイヤルホテル河口湖 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「日本三大氷穴・洞窟探検宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：中央道河口湖ＩＣ－Ｒ１３９を河口湖方面へ約１０分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>日本三大氷穴・洞窟探検宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウドで比較したい各宿のロケーション・駐車場・料金詳細は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：中央道河口湖ＩＣ－Ｒ１３９を河口湖方面へ約１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「絶景のロケーションとおもてなしに心から癒やされました。」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂の宿 開運の湯 ロイヤルホテル河口湖での快適な滞在とアクセス面の良さに満足したという評価が寄せられています。」
                   </blockquote>
                 </div>
               </div>
@@ -626,7 +626,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/74545/74545_war.jpg" alt="ウェルネスリゾート沖縄　ユインチホテル南城 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>バギーやヨナグニウマふれあい体験などアクティビティメニューが豊富に！遊んだ後は天然温泉を満喫</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県南城市佐敷新里1688 ／ 最寄り駅：主要駅 ／ 交通案内：那覇空港から車で約40分。那覇空港自動車道・南風原北ICから約15分。那覇空港から路線バス系統39番で約70分。</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県南城市佐敷新里1688 ／ 交通案内：那覇空港から車で約40分。那覇空港自動車道・南風原北ICから約15分。那覇空港から路線バス系統39番で約70分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り／400台・無料・予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.47 ／ 立地 ★4.48 ／ 部屋 ★4.42 ／ 設備 ★4.38 ／ 風呂 ★4.55 ／ 食事 ★4.44</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -648,7 +648,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/27721/27721_tw.jpg" alt="おきえらぶ　フローラルホテル　＜沖永良部島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>宿泊者専用展望浴場とサウナ付大浴場完備（水曜日定休）全館無線LAN完備・冷蔵庫・ウォシュレット完備</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県大島郡知名町知名520 ／ 最寄り駅：沖永良部空港 ／ 交通案内：沖永良部空港～お車で約３０分／和泊港～お車で約２０分</p>
+                  <p><strong>【所在地・アクセス】</strong>鹿児島県大島郡知名町知名520 ／ 最寄り駅：沖永良部空港 ／ 交通案内：沖永良部空港～お車で約３０分／和泊港～お車で約２０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　約30台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

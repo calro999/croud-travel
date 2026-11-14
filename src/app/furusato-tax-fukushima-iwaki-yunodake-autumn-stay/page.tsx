@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-fukushima-iwaki-yunodake-autumn-stay/"
   };
 
@@ -482,11 +482,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">福島・日本三古湯 いわき湯本温泉と湯の岳パノラマ紅葉！毎分5.5トンの美肌名湯＆常磐もの海鮮会席｜ふるさと納税で泊まれる名宿ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「福島・日本三古湯 いわき湯本温泉と湯の岳パノラマ紅葉！毎分5.5トンの美肌名湯＆常磐もの海鮮会席｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「福島・日本三古湯 いわき湯本温泉と湯の岳パノラマ紅葉！毎分5.5トンの美肌名湯＆常磐もの海鮮会席｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -550,7 +550,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/19278/19278_meal.jpg" alt="いわき湯本温泉　ホテルパームスプリング 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ハワイアンズ車5分と好アクセス！源泉100％掛け流し檜香る温泉に旬の食材を使用した料理長特製の和食膳</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県いわき市常磐白鳥町壱丁田18 ／ 最寄り駅：湯本 ／ 交通案内：ＪＲ湯本駅から車で7分／常磐道いわき湯本ＩＣより車で５分</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県いわき市常磐白鳥町壱丁田18 ／ 最寄り駅：湯本 ／ 交通案内：ＪＲ湯本駅から車で7分／常磐道いわき湯本ＩＣより車で５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り 90台 無料 先着順 *ただし４トン車以上の大型車は有料となります。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -572,7 +572,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31896/31896_fu1.jpg" alt="いわき湯本温泉　旅館　こいと 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>こだわりの湯使い、本当の源泉かけ流しをご堪能ください&amp;#9832;</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県いわき市常磐湯本町笠井1 ／ 最寄り駅：湯本 ／ 交通案内：ＪＲ常磐線湯本駅より徒歩８分　常磐自動車道いわき湯本ＩＣから４ｋｍ（車で７分）　ハワイアンズまで車で約７分</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県いわき市常磐湯本町笠井1 ／ 最寄り駅：湯本 ／ 交通案内：ＪＲ常磐線湯本駅より徒歩８分　常磐自動車道いわき湯本ＩＣから４ｋｍ（車で７分）　ハワイアンズまで車で約７分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>普通乗用車タイプ28台、無料、道路を挟んで旅館の向かい側。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.39 ／ 立地 ★4.38 ／ 部屋 ★4.22 ／ 設備 ★4.19 ／ 風呂 ★4.6 ／ 食事 ★4.54</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -594,7 +594,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/18337/18337_r.jpg" alt="いわき湯本温泉　雨情の宿　新つた 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>野口雨情ゆかりの宿。庭園露天風呂と海鮮料理が自慢の宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県いわき市常磐湯本町吹谷58 ／ 最寄り駅：湯本 ／ 交通案内：常磐線・湯本駅より徒歩７分／常磐自動車道・湯本ＩＣよりお車で１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県いわき市常磐湯本町吹谷58 ／ 最寄り駅：湯本 ／ 交通案内：常磐線・湯本駅より徒歩７分／常磐自動車道・湯本ＩＣよりお車で１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

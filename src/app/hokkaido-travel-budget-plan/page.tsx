@@ -259,11 +259,11 @@ export default function HokkaidoBudgetGuide() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">北海道旅行 予算：2泊3日・3泊4日はいくら必要？レンタカーなしでも回れる費用計画ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「北海道旅行 予算：2泊3日・3泊4日はいくら必要？レンタカーなしでも回れる費用計画ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「北海道旅行 予算：2泊3日・3泊4日はいくら必要？レンタカーなしでも回れる費用計画ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -354,7 +354,7 @@ export default function HokkaidoBudgetGuide() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/172398/172398.jpg" alt="ベッセルホテルカンパーナすすきの｜サウナ付大浴場（札幌・すすきの） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>旅の疲れを癒してくれるサウナ付き大浴場完備。すすきの駅から徒歩４分の好立地</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道札幌市中央区南五条西6-16-1 ／ 最寄り駅：すすきの ／ 交通案内：すすきの駅より徒歩にて約４分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道札幌市中央区南五条西6-16-1 ／ 最寄り駅：すすきの ／ 交通案内：すすきの駅より徒歩にて約４分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>立体駐車場(先着順)／８０台１5００円（税込／泊）　平面駐車場(要予約)／２台１５００円(税込／泊)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -376,7 +376,7 @@ export default function HokkaidoBudgetGuide() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/186132/186132.jpg" alt="札幌定山渓天然温泉大浴場付Ｍａｘ６人＇ＭＯＬＩＮ５０６＇－札幌国際スキー場まで２０分－／民泊 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong></p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道札幌市南区定山渓温泉西2-45-1　ライオンズマンション参-館506号室 ／ 最寄り駅：札幌 ／ 交通案内：電車事業所前駅から車で約３５分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道札幌市南区定山渓温泉西2-45-1　ライオンズマンション参-館506号室 ／ 最寄り駅：札幌 ／ 交通案内：電車事業所前駅から車で約３５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -398,7 +398,7 @@ export default function HokkaidoBudgetGuide() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/67259/67259_room.jpg" alt="クロスホテル札幌（オリックスホテルズ＆リゾーツ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>大通と札幌駅のほぼ中央に位置☆最上階に展望大浴場完備☆全室禁煙室☆</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道札幌市中央区北2条西2-23 ／ 最寄り駅：札幌 ／ 交通案内：札幌駅・大通駅から徒歩5分。ビジネスにも観光にも便利な好立地。札幌駅前通地下歩行空間「3番出口」から徒歩3分。</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道札幌市中央区北2条西2-23 ／ 最寄り駅：札幌 ／ 交通案内：札幌駅・大通駅から徒歩5分。ビジネスにも観光にも便利な好立地。札幌駅前通地下歩行空間「3番出口」から徒歩3分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>１泊1,500円（先着順・予約不可）※詳細情報のその他欄をご確認下さい。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.4 ／ 部屋 ★4.45 ／ 設備 ★4.38 ／ 風呂 ★4.33</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -420,7 +420,7 @@ export default function HokkaidoBudgetGuide() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/151068/151068_kan1.jpg" alt="函館・湯の川温泉　ホテル万惣（オリックスホテルズ＆リゾーツ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>お食事と温泉が大好評！　函館空港より車で10分　ファミリー・カップル歓迎♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道函館市湯川町1-15-3 ／ 最寄り駅：函館 ／ 交通案内：ＪＲ函館駅より車で15分、函館空港より車で10分。湯の川温泉電停より徒歩5分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道函館市湯川町1-15-3 ／ 最寄り駅：函館 ／ 交通案内：ＪＲ函館駅より車で15分、函館空港より車で10分。湯の川温泉電停より徒歩5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り 90台 無料 予約不要 （マイクロバス・キャンピングカー可）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -442,7 +442,7 @@ export default function HokkaidoBudgetGuide() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/50746/50746_twn.jpg" alt="ホテルグローバルビュー函館（旧天然温泉　ホテルパコ函館） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>楽天トラベルアワード受賞★駐車場200台以上完備★全室Wi-fi完備★館内天然温泉無料★</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道函館市大森町25-3 ／ 最寄り駅：函館 ／ 交通案内：◆ＪＲ函館駅中央口より徒歩約13分◆     ◆函館空港より、シャトルバスで約２０分。バス停「大森町」下車◆</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道函館市大森町25-3 ／ 最寄り駅：函館 ／ 交通案内：◆ＪＲ函館駅中央口より徒歩約13分◆     ◆函館空港より、シャトルバスで約２０分。バス停「大森町」下車◆</p>
                   <p><strong>【駐車場・マイカー利用】</strong>青空駐車場200台以上完備★　1泊550円（税込）※トラック・バス等の大型車不可</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -464,7 +464,7 @@ export default function HokkaidoBudgetGuide() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/69326/69326_s.jpg" alt="天然温泉　漁火の湯　スーパーホテル函館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>泉質の良い小さな天然温泉【漁火の湯】★焼きたてパンや函館名物イカの塩辛にスープカレーの健康朝食♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道函館市松風町1-10 ／ 最寄り駅：函館 ／ 交通案内：ＪＲ　函館駅より徒歩７分／函館空港より函館駅行きシャトルバスにて「大森町」下車、徒歩１分/コンビニまで徒歩１分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道函館市松風町1-10 ／ 最寄り駅：函館 ／ 交通案内：ＪＲ　函館駅より徒歩７分／函館空港より函館駅行きシャトルバスにて「大森町」下車、徒歩１分/コンビニまで徒歩１分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４２台　５００円（税込み／泊）　当日来館先着到着順のご案内</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

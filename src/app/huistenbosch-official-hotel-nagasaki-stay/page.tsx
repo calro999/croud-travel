@@ -228,11 +228,11 @@ export default function ThemeParkActivityHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">ハウステンボス直営＆オフィシャルホテル：ヨーロッパの街並み＆イルミネーション宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「ハウステンボス直営＆オフィシャルホテル：ヨーロッパの街並み＆イルミネーション宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「ハウステンボス直営＆オフィシャルホテル：ヨーロッパの街並み＆イルミネーション宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function ThemeParkActivityHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9159/9159_twn.jpg" alt="ホテルヨーロッパ　ハウステンボス 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ハウステンボス直営／ハウステンボス最上位ホテル。クラシカルな世界観と専用クルーズで贅沢なひと時を。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長崎県佐世保市ハウステンボス町7-7 ／ 最寄り駅：ハウステンボス ／ 交通案内：博多駅→特急約100分／長崎駅→快速約90分／長崎空港→高速船約45分・バス約60分</p>
+                  <p><strong>【所在地・アクセス】</strong>長崎県佐世保市ハウステンボス町7-7 ／ 最寄り駅：ハウステンボス ／ 交通案内：博多駅→特急約100分／長崎駅→快速約90分／長崎空港→高速船約45分・バス約60分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>フロントにて無料券を発行しますので「宿泊者専用駐車場」をご利用ください。必ず出庫前にご精算ください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function ThemeParkActivityHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9157/9157_twn.jpg" alt="ホテルアムステルダム　ハウステンボス 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ハウステンボス直営／ハウステンボステーマパーク内に位置する唯一のホテルで、抜群の立地と癒しの滞在を。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長崎県佐世保市ハウステンボス町7-7 ／ 最寄り駅：ハウステンボス ／ 交通案内：博多駅→特急約100分／長崎駅→快速約90分／長崎空港→高速船約45分・バス約60分</p>
+                  <p><strong>【所在地・アクセス】</strong>長崎県佐世保市ハウステンボス町7-7 ／ 最寄り駅：ハウステンボス ／ 交通案内：博多駅→特急約100分／長崎駅→快速約90分／長崎空港→高速船約45分・バス約60分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>フロントにて無料券を発行しますので「宿泊者専用駐車場」をご利用ください。必ず出庫前にご精算ください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.6 ／ 立地 ★4.68 ／ 部屋 ★4.6 ／ 設備 ★4.42 ／ 風呂 ★4.28 ／ 食事 ★4.55</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function ThemeParkActivityHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9156/9156_twr.jpg" alt="フォレストヴィラ　ハウステンボス 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ハウステンボス直営／別荘感覚のメゾネットコテージで、家族や仲間と自由に賑やかなハウステンボス滞在を。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長崎県佐世保市ハウステンボス町7-7 ／ 最寄り駅：ハウステンボス ／ 交通案内：博多駅→特急約100分／長崎駅→快速約90分／長崎空港→高速船約45分・バス約60分</p>
+                  <p><strong>【所在地・アクセス】</strong>長崎県佐世保市ハウステンボス町7-7 ／ 最寄り駅：ハウステンボス ／ 交通案内：博多駅→特急約100分／長崎駅→快速約90分／長崎空港→高速船約45分・バス約60分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>フロントにて無料券を発行しますので「宿泊者専用駐車場」をご利用ください。必ず出庫前にご精算ください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function ThemeParkActivityHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9057/9057_twn.jpg" alt="ホテルオークラＪＲハウステンボス 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>スタッフのおもてなしに心和らぎ、天然温泉が疲れを癒す魅力あるリゾートホテルです。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長崎県佐世保市ハウステンボス町10 ／ 最寄り駅：ハウステンボス ／ 交通案内：西九州自動車道　佐世保大塔ICより車で15分/長崎空港よりバスで70分／JR博多駅より特急ハウステンボス号で110分</p>
+                  <p><strong>【所在地・アクセス】</strong>長崎県佐世保市ハウステンボス町10 ／ 最寄り駅：ハウステンボス ／ 交通案内：西九州自動車道　佐世保大塔ICより車で15分/長崎空港よりバスで70分／JR博多駅より特急ハウステンボス号で110分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有、1泊1台あたり1000円 *到着日の朝から翌日正午まで。*2027年4月1日より1500円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.63 ／ 立地 ★4.65 ／ 部屋 ★4.61 ／ 設備 ★4.53 ／ 風呂 ★4.47 ／ 食事 ★4.65</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function ThemeParkActivityHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7808/7808_room.jpg" alt="弓張の丘ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【全客室リニューアル】◆佐世保の絶景を愉しむ贅沢な時間◆温泉・サウナ・駐車場完備◆朝食もさらに充実！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長崎県佐世保市鵜渡越町510 ／ 最寄り駅：佐世保 ／ 交通案内：佐世保中央ＩＣよりお車で約10分　 佐世保駅より無料シャトルバス運行</p>
+                  <p><strong>【所在地・アクセス】</strong>長崎県佐世保市鵜渡越町510 ／ 最寄り駅：佐世保 ／ 交通案内：佐世保中央ＩＣよりお車で約10分　 佐世保駅より無料シャトルバス運行</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り：１００台（無料）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function ThemeParkActivityHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/15312/15312_w.jpg" alt="長崎スカイホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>長崎1,000万＄の夜景を一望できる料理自慢のお宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長崎県長崎市江の浦町18-1 ／ 最寄り駅：長崎（長崎） ／ 交通案内：JR長崎駅より車で10分</p>
+                  <p><strong>【所在地・アクセス】</strong>長崎県長崎市江の浦町18-1 ／ 最寄り駅：長崎（長崎） ／ 交通案内：JR長崎駅より車で10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　お車１台につき、普通車800円/中型車1,600円/大型車2,000円（税込）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

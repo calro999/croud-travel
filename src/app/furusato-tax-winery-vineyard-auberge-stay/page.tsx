@@ -636,11 +636,11 @@ export default function FurusatoFeaturePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">銘酒ワイナリー＆葡萄畑オーベルジュ×ふるさと納税厳選ガイド勝沼・余市・十勝のワインペアリング旅：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「銘酒ワイナリー＆葡萄畑オーベルジュ×ふるさと納税厳選ガイド勝沼・余市・十勝のワインペアリング旅」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「銘酒ワイナリー＆葡萄畑オーベルジュ×ふるさと納税厳選ガイド勝沼・余市・十勝のワインペアリング旅」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -731,7 +731,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5727/5727_kan.jpg" alt="石和温泉　美と健康と癒しの宿　ホテル八田 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【美肌の湯◇認証】県内最大級の露天風呂・展望ワイン風呂・貸切風呂で癒しの湯を堪能。甲州の旬を味わう宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県笛吹市石和町川中島1607 ／ 最寄り駅：石和温泉 ／ 交通案内：新宿から特急約90分の石和温泉駅より徒歩15分(無料定期送迎車有・事前予約制)/中央道一宮御坂IC車8分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県笛吹市石和町川中島1607 ／ 最寄り駅：石和温泉 ／ 交通案内：新宿から特急約90分の石和温泉駅より徒歩15分(無料定期送迎車有・事前予約制)/中央道一宮御坂IC車8分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　無料　コンビニ徒歩2分</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -753,7 +753,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/72719/72719_wa.jpg" alt="石和温泉　ホテル平安 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>石和温泉駅無料送迎有◆温泉24時間OK◆水晶焼ステーキ・ほうとう鍋など郷土の味を堪能</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県笛吹市石和町川中島538 ／ 最寄り駅：石和温泉 ／ 交通案内：ＪＲ石和温泉駅：徒歩15分無料送迎5分（15～17時）有/中央道一宮・御坂IC車10分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県笛吹市石和町川中島538 ／ 最寄り駅：石和温泉 ／ 交通案内：ＪＲ石和温泉駅：徒歩15分無料送迎5分（15～17時）有/中央道一宮・御坂IC車10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.58 ／ 立地 ★3.51 ／ 部屋 ★3.48 ／ 設備 ★3.22 ／ 風呂 ★3.5 ／ 食事 ★3.77</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -775,7 +775,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/59642/59642_kya.jpg" alt="大江戸温泉物語　ホテル新光 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>見どころ満載の石和温泉を楽しんだ後は、自慢のバイキングと美肌の湯でゆっくりとおくつろぎください。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県笛吹市石和町八田97 ／ 最寄り駅：石和温泉 ／ 交通案内：JR中央本線「石和温泉駅」よりお車で約5分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県笛吹市石和町八田97 ／ 最寄り駅：石和温泉 ／ 交通案内：JR中央本線「石和温泉駅」よりお車で約5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -797,7 +797,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/172337/172337.jpg" alt="アンワインドホテルアンドバー小樽（ＵＮＷＩＮＤ　ＨＯＴＥＬ　＆　ＢＡＲ　小樽） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>北海道随一のクラシックホテルを現代的感性で再生</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道小樽市色内1-8-25 ／ 最寄り駅：小樽 ／ 交通案内：小樽駅より徒歩にて約10分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道小樽市色内1-8-25 ／ 最寄り駅：小樽 ／ 交通案内：小樽駅より徒歩にて約10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　5台　1500円（1泊1台分）　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -819,7 +819,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1432/1432_room.jpg" alt="プレミアホテル－ＴＳＵＢＡＫＩ－札幌 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ご宿泊者様専用サウナ＆フィットネス◇すすきの徒歩圏内◇ご宿泊者様専用ラウンジ（利用条件有り）</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道札幌市豊平区豊平4条1丁目1-1 ／ 最寄り駅：札幌 ／ 交通案内：《新千歳空港から》空港連絡バス「プレミアホテルTSUBAKI」下車 《お車》地下駐車場有《JR札幌駅から》シャトルバス有</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道札幌市豊平区豊平4条1丁目1-1 ／ 最寄り駅：札幌 ／ 交通案内：《新千歳空港から》空港連絡バス「プレミアホテルTSUBAKI」下車 《お車》地下駐車場有《JR札幌駅から》シャトルバス有</p>
                   <p><strong>【駐車場・マイカー利用】</strong>地下駐車場200台◇1泊1台1000円◇高さ制限2.1m◇24時間出し入れ自由</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.5 ／ 立地 ★4.24 ／ 部屋 ★4.42 ／ 設備 ★4.34 ／ 風呂 ★4.26 ／ 食事 ★4.62</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -841,7 +841,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/169/169_room.jpg" alt="ＡＮＡクラウンプラザホテル札幌　ｂｙ　ＩＨＧ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全室禁煙・ＪＲ札幌駅徒歩7分、地下鉄さっぽろ駅東豊線改札21番出口徒歩1分、空港バスホテル正面停車</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道札幌市中央区北3条西1丁目 ／ 最寄り駅：札幌 ／ 交通案内：JR札幌駅より徒歩7分/地下鉄東豊線さっぽろ駅21番出口（階段）より徒歩1分・23番出口（エレベーター）より徒歩2分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道札幌市中央区北3条西1丁目 ／ 最寄り駅：札幌 ／ 交通案内：JR札幌駅より徒歩7分/地下鉄東豊線さっぽろ駅21番出口（階段）より徒歩1分・23番出口（エレベーター）より徒歩2分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>79台収容（1泊￥2,000/地下駐車場：車高1.9m迄/国道5号線北方面沿い）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

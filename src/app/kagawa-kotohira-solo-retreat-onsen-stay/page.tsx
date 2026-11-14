@@ -77,7 +77,7 @@ export default function ArticlePage() {
             香川・こんぴら温泉ひとり旅＆門前町おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「こんぴら温泉郷ひとり旅・金刀比羅宮門前おこもり」石段街を望む展望露天・美肌の名湯・讃岐牛＆手打ちうどん！四国随一の霊峰リトリート厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               古くから全国の庶民の憧れの聖地として賑わいを見せてきた讃岐金刀比羅宮。参道の賑わいから一歩足を踏み入れると、柔らかな肌触りの温泉が湧き出る湯の街が広がります。奥社まで1368段、本宮まで785段の参拝道を自分の足で歩き切った後の温泉は、旅人にとって最高の恵みと癒やしです。
             </p>
             <p>
-              参道の情緒を窓下に望む展望自慢の老舗旅館から、心温まる家庭的なもてなしの宿まで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              参道の情緒を窓下に望む展望自慢の老舗旅館から、心温まる家庭的なもてなしの宿まで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -420,11 +420,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">こんぴら温泉郷ひとり旅・金刀比羅宮門前おこもり：石段街を望む展望露天・美肌の名湯・讃岐牛＆手打ちうどん！四国随一の霊峰リトリート厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「こんぴら温泉郷ひとり旅・金刀比羅宮門前おこもり：石段街を望む展望露天・美肌の名湯・讃岐牛＆手打ちうどん！四国随一の霊峰リトリート厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「こんぴら温泉郷ひとり旅・金刀比羅宮門前おこもり：石段街を望む展望露天・美肌の名湯・讃岐牛＆手打ちうどん！四国随一の霊峰リトリート厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -488,7 +488,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5900/5900_k1.jpg" alt="こんぴら温泉　琴平グランドホテル　桜の抄 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>金刀比羅宮に続く参道まで徒歩1分で参拝に便利な温泉宿。和洋約50種類の朝食バイキング好評。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 香川県仲多度郡琴平町977-1 ／ 最寄り駅：琴平 ／ 交通案内：全室Wi-Fi無料/ＪＲ琴平駅下車、徒歩約15分（無料送迎有・要予約）。車/善通寺ＩＣより約15分　高松空港より約40分</p>
+                  <p><strong>【所在地・アクセス】</strong>香川県仲多度郡琴平町977-1 ／ 最寄り駅：琴平 ／ 交通案内：全室Wi-Fi無料/ＪＲ琴平駅下車、徒歩約15分（無料送迎有・要予約）。車/善通寺ＩＣより約15分　高松空港より約40分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>40台（有料）・利用時間14時〜翌11時・予約必須・詳細は桜の抄公式HPをご確認ください</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.59 ／ 立地 ★4.49 ／ 部屋 ★4.59 ／ 設備 ★4.51 ／ 風呂 ★4.56 ／ 食事 ★4.66</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -510,7 +510,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5901/5901_k1.jpg" alt="湯元こんぴら温泉華の湯　紅梅亭 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>露天風呂付スイートOPEN◆2種の源泉を楽しむ＜3箇所15種類の湯処＞でのんびり湯巡り</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 香川県仲多度郡琴平町556-1 ／ 最寄り駅：琴平 ／ 交通案内：ＪＲ琴平駅下車、徒歩5分（無料送迎有・要予約）。車：道善通寺ＩＣ下車約15分。高松空港より約40分</p>
+                  <p><strong>【所在地・アクセス】</strong>香川県仲多度郡琴平町556-1 ／ 最寄り駅：琴平 ／ 交通案内：ＪＲ琴平駅下車、徒歩5分（無料送迎有・要予約）。車：道善通寺ＩＣ下車約15分。高松空港より約40分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り：70台（無料）／EV充電器設置</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.67 ／ 立地 ★4.52 ／ 部屋 ★4.58 ／ 設備 ★4.52 ／ 風呂 ★4.66 ／ 食事 ★4.66</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -532,7 +532,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/188191/188191.jpg" alt="虎屋旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【2023年夏OPEN】金刀比羅宮の参拝に◎400年以上の虎屋旅館の歴史を現代に残しオープン</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 香川県仲多度郡琴平町957-1 ／ 最寄り駅：琴平 ／ 交通案内：ＪＲ琴平駅より徒歩約10分　高松自動車道「善通寺」ICよりR319経由で15分</p>
+                  <p><strong>【所在地・アクセス】</strong>香川県仲多度郡琴平町957-1 ／ 最寄り駅：琴平 ／ 交通案内：ＪＲ琴平駅より徒歩約10分　高松自動車道「善通寺」ICよりR319経由で15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

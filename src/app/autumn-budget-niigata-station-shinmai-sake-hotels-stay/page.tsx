@@ -359,11 +359,11 @@ export default function AutumnBudgetNiigataStationHotelsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">新潟駅前：新米コシヒカリ・南蛮エビ＆日本酒角打ち！2,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「新潟駅前：新米コシヒカリ・南蛮エビ＆日本酒角打ち！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「新潟駅前：新米コシヒカリ・南蛮エビ＆日本酒角打ち！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -445,7 +445,7 @@ export default function AutumnBudgetNiigataStationHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/167086/167086.jpg" alt="ホテルリブマックス新潟駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【全室シモンズベッド】【全室電子レンジ完備】【全室有線LAN・Wi-Fi】【コインランドリー完備】</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県新潟市中央区花園1-7-10 ／ 最寄り駅：新潟 ／ 交通案内：上越新幹線 各線 新潟駅 万代口より徒歩にて約3分。 新潟交通各路線高速バス「新潟駅前」バス停より徒歩5分</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県新潟市中央区花園1-7-10 ／ 最寄り駅：新潟 ／ 交通案内：上越新幹線 各線 新潟駅 万代口より徒歩にて約3分。 新潟交通各路線高速バス「新潟駅前」バス停より徒歩5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無し 徒歩5分以内に有料パーキングあり　※提携はしておりません　満車の場合はご容赦下さい。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.16 ／ 立地 ★4.16 ／ 部屋 ★4.16 ／ 設備 ★4.08 ／ 風呂 ★3.9</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -467,7 +467,7 @@ export default function AutumnBudgetNiigataStationHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/73877/73877_sig.jpg" alt="コンフォートホテル新潟駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>日替わりスムージーが人気★無料朝食サービスがイチオシのコスパ最強ホテル◆小学6年生まで添い寝無料</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県新潟市中央区弁天3-3-1 ／ 最寄り駅：新潟 ／ 交通案内：上越新幹線「JR新潟駅」徒歩3分◆北陸自動車道「新潟西」、磐越自動車道「新潟中央」約20分◆新潟空港バス約25分</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県新潟市中央区弁天3-3-1 ／ 最寄り駅：新潟 ／ 交通案内：上越新幹線「JR新潟駅」徒歩3分◆北陸自動車道「新潟西」、磐越自動車道「新潟中央」約20分◆新潟空港バス約25分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>敷地内駐車場（先着順・予約不可）1,600円/泊（15時〜翌10時）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★4.17 ／ 部屋 ★4.13 ／ 設備 ★4.09 ／ 風呂 ★3.99 ／ 食事 ★4.12</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -489,7 +489,7 @@ export default function AutumnBudgetNiigataStationHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/67938/67938_ss.jpg" alt="アートホテル新潟駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR新潟駅直結の好立地■東改札から東側連絡通路より徒歩2分■2種類のお米などお勧めの朝食をどうぞ</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県新潟市中央区笹口1-1 ／ 最寄り駅：新潟 ／ 交通案内：JR新潟駅東改札→改札出て右、南口広場方面ペデストリアンデッキ左折→突当り右折・東側連絡通路→階段→左折→階段→ホテル</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県新潟市中央区笹口1-1 ／ 最寄り駅：新潟 ／ 交通案内：JR新潟駅東改札→改札出て右、南口広場方面ペデストリアンデッキ左折→突当り右折・東側連絡通路→階段→左折→階段→ホテル</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有料提携駐車場：１泊1400円〜1600円／別途追加料金発生有／詳細はフロントへお問合せください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.25 ／ 立地 ★4.36 ／ 部屋 ★4.25 ／ 設備 ★4.16 ／ 風呂 ★4.09 ／ 食事 ★4.49</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -511,7 +511,7 @@ export default function AutumnBudgetNiigataStationHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/183212/183212.jpg" alt="アパホテル＆リゾート〈新潟駅前大通〉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>◆大浴殿・プール・レストラン完備◆JR新潟駅万代広場から徒歩7分！新潟市最大1001室のメガホテル！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県新潟市中央区万代5-1-1 ／ 最寄り駅：新潟 ／ 交通案内：JR越後線、信越本線、白新線、磐越西線、上越新幹線「新潟駅」万代広場から徒歩7分</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県新潟市中央区万代5-1-1 ／ 最寄り駅：新潟 ／ 交通案内：JR越後線、信越本線、白新線、磐越西線、上越新幹線「新潟駅」万代広場から徒歩7分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>■敷地内機械式50台■1泊1,500円□提携駐車場3箇所□15時から翌11時 割引処理後1,000円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -533,7 +533,7 @@ export default function AutumnBudgetNiigataStationHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1170/1170_sgl.jpg" alt="新潟第一ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★2021年フルリニューアル完了★新潟駅徒歩3分。15000冊コミックルーム、男女別大浴場あり。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県新潟市中央区花園1-3-12 ／ 最寄り駅：新潟 ／ 交通案内：ＪＲ新潟駅・万代側出口から右へ徒歩3分。お車では新潟駅の万代側正面を左折して５０ｍ。</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県新潟市中央区花園1-3-12 ／ 最寄り駅：新潟 ／ 交通案内：ＪＲ新潟駅・万代側出口から右へ徒歩3分。お車では新潟駅の万代側正面を左折して５０ｍ。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>立体駐車場・外部提携駐車場あり◆普通車1泊1,200円・バイク1泊1,000円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.27 ／ 立地 ★4.33 ／ 部屋 ★4.27 ／ 設備 ★4.23 ／ 風呂 ★4.24 ／ 食事 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

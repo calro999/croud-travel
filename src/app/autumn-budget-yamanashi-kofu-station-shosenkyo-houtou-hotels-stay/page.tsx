@@ -376,11 +376,11 @@ export default function AutumnBudgetHotelsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">甲府駅前：特別名勝昇仙峡の紅葉＆名物ほうとう・甲州ワイン！3,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「甲府駅前：特別名勝昇仙峡の紅葉＆名物ほうとう・甲州ワイン！3,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「甲府駅前：特別名勝昇仙峡の紅葉＆名物ほうとう・甲州ワイン！3,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -462,7 +462,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5690/5690_sig.jpg" alt="甲府駅北口　徒歩１分　ホテルニューステーション＜山梨県＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR甲府駅最寄りのホテル★徒歩1分★有料駐車場※事前予約制 【無料日替わり朝食】</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県甲府市北口1-4-15 ／ 最寄り駅：甲府 ／ 交通案内：JR甲府駅北口より徒歩１分　甲府南ＩＣ及び甲府昭和ＩＣより車で約15分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県甲府市北口1-4-15 ／ 最寄り駅：甲府 ／ 交通案内：JR甲府駅北口より徒歩１分　甲府南ＩＣ及び甲府昭和ＩＣより車で約15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有料駐車場9台600円・バイク500円（ご予約がない場合は先着順　満車の場合は近隣有料駐車場へ）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.69 ／ 立地 ★3.91 ／ 部屋 ★3.38 ／ 設備 ★3.29 ／ 風呂 ★3.33</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -484,7 +484,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/963/963_si.jpg" alt="ホテルクラウンヒルズ甲府　甲府駅前（ＢＢＨホテルグループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>甲府駅北口徒歩3分、和洋バイキングや大浴場(男女交代制)、会議室も備えた快適ホテル♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県甲府市北口1-2-17 ／ 最寄り駅：甲府 ／ 交通案内：JR甲府駅北口より、徒歩3分の好立地</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県甲府市北口1-2-17 ／ 最寄り駅：甲府 ／ 交通案内：JR甲府駅北口より、徒歩3分の好立地</p>
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場１泊800円先着制10台まで</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.57 ／ 立地 ★3.65 ／ 部屋 ★3.48 ／ 設備 ★3.44 ／ 風呂 ★3.51 ／ 食事 ★3.72</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -506,7 +506,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/52640/52640_si.jpg" alt="東横ＩＮＮ甲府駅南口１ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR甲府駅から徒歩7分で朝食・小学生以下添い寝無料のホテル！舞鶴城址公園まで徒歩1分</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県甲府市丸の内1-13-20 ／ 最寄り駅：甲府 ／ 交通案内：ＪＲ　甲府駅より徒歩７分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県甲府市丸の内1-13-20 ／ 最寄り駅：甲府 ／ 交通案内：ＪＲ　甲府駅より徒歩７分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場有　800〜1000円（税込／泊）満車時は徒歩5分の提携コインパーキングへのご案内となります。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.09 ／ 立地 ★3.98 ／ 部屋 ★4.08 ／ 設備 ★3.99 ／ 風呂 ★3.93 ／ 食事 ★3.99</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -528,7 +528,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/108361/108361.jpg" alt="東横ＩＮＮ甲府駅南口２ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR甲府駅から徒歩1分で朝食・小学生以下添い寝無料のホテル！甲州夢小路まで車で5分</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県甲府市丸の内２－３－２ ／ 最寄り駅：甲府 ／ 交通案内：電車：JR甲府駅南口より徒歩1分／車：中央道甲府南ICから15分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県甲府市丸の内２－３－２ ／ 最寄り駅：甲府 ／ 交通案内：電車：JR甲府駅南口より徒歩1分／車：中央道甲府南ICから15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>立体64台・平置6台（うち車いす優先1台・要予約）先着順 ￥1000／泊・時間外￥100／時</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.95 ／ 立地 ★4.06 ／ 部屋 ★3.96 ／ 設備 ★3.88 ／ 風呂 ★3.84 ／ 食事 ★3.86</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -550,7 +550,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/187168/187168.jpg" alt="トラベルイン甲府 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>甲府駅より徒歩10分｜軽朝食サービス（無料）｜ビジネス・観光の拠点に便利｜貸切風呂あり</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県甲府市丸の内3-19-10 ／ 最寄り駅：甲府 ／ 交通案内：JR中央本線甲府駅徒歩10分、中央道甲府昭和ICから車で10分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県甲府市丸の内3-19-10 ／ 最寄り駅：甲府 ／ 交通案内：JR中央本線甲府駅徒歩10分、中央道甲府昭和ICから車で10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　19台　500円（税込み／泊）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.83 ／ 立地 ★3.6 ／ 部屋 ★3.57 ／ 設備 ★3.43 ／ 風呂 ★3.38 ／ 食事 ★3.91</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

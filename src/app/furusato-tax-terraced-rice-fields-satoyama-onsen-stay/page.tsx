@@ -504,11 +504,11 @@ export default function FurusatoFeaturePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">絶景棚田＆日本の原風景里山温泉宿×ふるさと納税厳選ガイド星峠・白米千枚田・大山千枚田の休日：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「絶景棚田＆日本の原風景里山温泉宿×ふるさと納税厳選ガイド星峠・白米千枚田・大山千枚田の休日」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「絶景棚田＆日本の原風景里山温泉宿×ふるさと納税厳選ガイド星峠・白米千枚田・大山千枚田の休日」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -599,7 +599,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/109055/109055_wa1.jpg" alt="越後松之山温泉　旅館明星 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>地酒（第一酒造）のラインナップは自称世界一！お酒とお料理と温泉が楽しめます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県十日町市松之山天水越88-2 ／ 最寄り駅：松代 ／ 交通案内：ほくほく線　松代駅より路線バスにて２０分　只今、松代駅へ送迎は停止させて頂きます。</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県十日町市松之山天水越88-2 ／ 最寄り駅：松代 ／ 交通案内：ほくほく線　松代駅より路線バスにて２０分　只今、松代駅へ送迎は停止させて頂きます。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -621,7 +621,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/67124/67124_gen.jpg" alt="山中温泉　吉祥やまなか 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>清流と名湯、美食に包まれるラグジュアリー宿。山中温泉の文化に触れ、心ほどける静寂の滞在。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県加賀市山中温泉東町1-ホ14-3 ／ 最寄り駅：加賀温泉 ／ 交通案内：加賀温泉駅・小松空港から無料送迎あり（要予約/定時便）【車】加賀ICより14分。金沢・福井へは車で1時間</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県加賀市山中温泉東町1-ホ14-3 ／ 最寄り駅：加賀温泉 ／ 交通案内：加賀温泉駅・小松空港から無料送迎あり（要予約/定時便）【車】加賀ICより14分。金沢・福井へは車で1時間</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有（無料）２０台　※正面玄関前にお越しください。スタッフがご案内いたします。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.77 ／ 立地 ★4.51 ／ 部屋 ★4.54 ／ 設備 ★4.61 ／ 風呂 ★4.67 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -643,7 +643,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/45119/45119_kya.jpg" alt="禄光旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>能登の山と海の自然な素材を生かした料理を味わっていただきながら心に刻まれる安らぎのひと時をどうぞ。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県珠洲市狼煙町 ／ 最寄り駅：珠洲 ／ 交通案内：奥能登観光バスで狼煙下車、徒歩３分</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県珠洲市狼煙町 ／ 最寄り駅：珠洲 ／ 交通案内：奥能登観光バスで狼煙下車、徒歩３分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -665,7 +665,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/14395/14395_kan1.jpg" alt="和倉温泉　ホテル海望 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>お客様に愛され続けて創業130余年。海を望むという名である理由、感動を一度ご体感ください。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県七尾市和倉町和歌崎部12-3 ／ 最寄り駅：和倉温泉 ／ 交通案内：JR和倉温泉駅から当館無料送迎バスで5分。金沢から「のと里山海道」徳田大津JCT、和倉IC経由、車で約1時間。</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県七尾市和倉町和歌崎部12-3 ／ 最寄り駅：和倉温泉 ／ 交通案内：JR和倉温泉駅から当館無料送迎バスで5分。金沢から「のと里山海道」徳田大津JCT、和倉IC経由、車で約1時間。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル海望と湯っ足りパークの間に、海を望む無料駐車場がございます。全150台。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.6 ／ 立地 ★4.72 ／ 部屋 ★4.48 ／ 設備 ★4.23 ／ 風呂 ★4.41 ／ 食事 ★4.71</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -687,7 +687,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31490/31490_r1.jpg" alt="鴨川グランドタワー 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【全室オーシャンビュー】33F建高層コンドミニアム■隣の鴨川グランドホテル温泉大浴場も無料■</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 千葉県鴨川市広場834 ／ 最寄り駅：安房鴨川 ／ 交通案内：東京駅よりＪＲ外房線特急「わかしお」で約2時間。安房鴨川駅より徒歩15分　アクアライン君津ＩＣより50分</p>
+                  <p><strong>【所在地・アクセス】</strong>千葉県鴨川市広場834 ／ 最寄り駅：安房鴨川 ／ 交通案内：東京駅よりＪＲ外房線特急「わかしお」で約2時間。安房鴨川駅より徒歩15分　アクアライン君津ＩＣより50分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場有り（100台・無料・先着順）※先にフロントで「駐車券」を必ずお受取りの上、駐車願います</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -709,7 +709,7 @@ export default function FurusatoFeaturePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/51733/51733_yo.jpg" alt="鴨川館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2024年大浴場リニューアル&amp;インドアテラス客室誕生！人気の鴨川シーワールドまで徒歩3分</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 千葉県鴨川市西町1179 ／ 最寄り駅：安房鴨川 ／ 交通案内：ＪＲ外房線　安房鴨川駅よりお車にて約５分（送迎あり、要予約）</p>
+                  <p><strong>【所在地・アクセス】</strong>千葉県鴨川市西町1179 ／ 最寄り駅：安房鴨川 ／ 交通案内：ＪＲ外房線　安房鴨川駅よりお車にて約５分（送迎あり、要予約）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り100台・無料・予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.61 ／ 立地 ★4.63 ／ 部屋 ★4.66 ／ 設備 ★4.62 ／ 風呂 ★4.61 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

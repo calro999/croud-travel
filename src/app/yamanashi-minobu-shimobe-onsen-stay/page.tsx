@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">山梨・身延山＆下部温泉：日蓮宗総本山久遠寺しだれ桜・信玄隠し湯宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「山梨・身延山＆下部温泉：日蓮宗総本山久遠寺しだれ桜・信玄隠し湯宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「山梨・身延山＆下部温泉：日蓮宗総本山久遠寺しだれ桜・信玄隠し湯宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -305,7 +305,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/40916/40916_hu.jpg" alt="山梨県の温泉旅館　下部温泉郷　下部ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>泉質の異なる「三種類の源泉」を、七つの露天風呂を含む大浴場など「十二の湯舟」でご堪能いただけます</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県南巨摩郡身延町上之平1900 ／ 最寄り駅：下部温泉 ／ 交通案内：ＪＲ身延線下部温泉駅徒歩１分／車：中部横断道下部温泉早川ＩＣより５分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県南巨摩郡身延町上之平1900 ／ 最寄り駅：下部温泉 ／ 交通案内：ＪＲ身延線下部温泉駅徒歩１分／車：中部横断道下部温泉早川ＩＣより５分</p>
                   <p>【山梨・身延山＆下部温泉：日蓮宗総本山久遠寺しだれ桜・】 <strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.58 ／ 立地 ★4.31 ／ 部屋 ★4.27 ／ 設備 ★4.27 ／ 風呂 ★4.54 ／ 食事 ★4.45</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -327,7 +327,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2501/2501_heya.jpg" alt="健康・旬彩の宿　下部温泉　ホテル守田 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【薬石サウナも人気】あつ湯とぬる湯を交互に楽しむ「武田信玄のかくし湯」が有名</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県南巨摩郡身延町下部990 ／ 最寄り駅：下部温泉 ／ 交通案内：ＪＲ身延線下部温泉駅下車（送迎車で3分）／中部横断自動車道下部温泉早川ＩＣよりＲ300号経由8分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県南巨摩郡身延町下部990 ／ 最寄り駅：下部温泉 ／ 交通案内：ＪＲ身延線下部温泉駅下車（送迎車で3分）／中部横断自動車道下部温泉早川ＩＣよりＲ300号経由8分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>【有】5台無料／それ以上の場合は近くの空いている場所にお停めください（先着順）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -349,7 +349,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8911/8911_room.jpg" alt="下部温泉　湯元ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>自家屋内に湯口を有し、湧出量は下部温泉 No,1。山間部の湯治旅館です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県南巨摩郡身延町下部35 ／ 最寄り駅：下部温泉 ／ 交通案内：JR下部温泉駅より徒歩18分。駐車場あり。</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県南巨摩郡身延町下部35 ／ 最寄り駅：下部温泉 ／ 交通案内：JR下部温泉駅より徒歩18分。駐車場あり。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>事前にご案内をお送りしますので、メールアドレスをお知らせください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -371,7 +371,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/67121/67121_kw.jpg" alt="世界最古の宿・ギネスブック認定　全館源泉掛け流し　西山温泉　慶雲館（２０２６年３月リニューアル） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>２０２６年３月リニューアル★日本随一の湯量。毎分１６３０リットル、 全館全て源泉掛け流し ギネス登録</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県南巨摩郡早川町湯島白沢８３ ／ 最寄り駅：身延 ／ 交通案内：ＪＲ身延線　身延駅よりバスに乗車（送迎バス有り）13:40発 　翌日送り　9:50発　(※1日1便。要事前予約)</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県南巨摩郡早川町湯島白沢８３ ／ 最寄り駅：身延 ／ 交通案内：ＪＲ身延線　身延駅よりバスに乗車（送迎バス有り）13:40発 　翌日送り　9:50発　(※1日1便。要事前予約)</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.69 ／ 立地 ★4.62 ／ 部屋 ★4.49 ／ 設備 ★4.42 ／ 風呂 ★4.76</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

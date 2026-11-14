@@ -459,10 +459,10 @@ export default function KamakuraRainyDayCafeMuseumPage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/yamagata/"
+                href="/prefectures/kanagawa/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                山形県の宿・温泉
+                神奈川県の宿・温泉
               </Link>
               <Link
                 href="/prefectures/gifu/"
@@ -491,11 +491,11 @@ export default function KamakuraRainyDayCafeMuseumPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">鎌倉・江の島 雨の日の過ごし方：しっとり濡れる古刹・小町通りアーケード・新江ノ島水族館デート：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「鎌倉・江の島 雨の日の過ごし方：しっとり濡れる古刹・小町通りアーケード・新江ノ島水族館デート」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「鎌倉・江の島 雨の日の過ごし方：しっとり濡れる古刹・小町通りアーケード・新江ノ島水族館デート」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -559,7 +559,7 @@ export default function KamakuraRainyDayCafeMuseumPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/123/123_room.jpg" alt="ホテル法華クラブ湘南藤沢 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>大好評、男・女別浴場あり！旅・ビジネスの疲れを癒してくれます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県藤沢市鵠沼石上1-6-1 ／ 最寄り駅：藤沢 ／ 交通案内：ＪＲ・小田急・江ノ電「藤沢駅」南口より徒歩５分。繁華街の中心に位置し、江ノ島、鎌倉観光に最適♪</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県藤沢市鵠沼石上1-6-1 ／ 最寄り駅：藤沢 ／ 交通案内：ＪＲ・小田急・江ノ電「藤沢駅」南口より徒歩５分。繁華街の中心に位置し、江ノ島、鎌倉観光に最適♪</p>
                   <p><strong>【駐車場・マイカー利用】</strong>車高1.9ｍ長さ5.1ｍ重さ2ｔ以内は先着順にて駐車可能。1泊1,100円。その他の場合は要問合せ。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -581,7 +581,7 @@ export default function KamakuraRainyDayCafeMuseumPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/80893/80893_hu.jpg" alt="湘南台第一ホテル藤沢横浜 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>湘南台駅西口より徒歩１分！充実のフリーアメニティも好評♪早期～直前まで様々なプランをご用意(^^)/</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県藤沢市湘南台2-3-10 ／ 最寄り駅：湘南台 ／ 交通案内：湘南台駅「Ｃ出口」より徒歩30秒　（小田急線、横浜市営地下鉄線、相鉄線乗り入れ）</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県藤沢市湘南台2-3-10 ／ 最寄り駅：湘南台 ／ 交通案内：湘南台駅「Ｃ出口」より徒歩30秒　（小田急線、横浜市営地下鉄線、相鉄線乗り入れ）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>周辺コインPへご案内　※一部コインPで使える【割引券】のご用意あり。詳細はフロントまで</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -603,7 +603,7 @@ export default function KamakuraRainyDayCafeMuseumPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/20068/20068_one.jpg" alt="京急ＥＸイン横須賀リサーチパーク（旧：ホテルＹＲＰ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>京急線YRP野比駅からバス5分</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県横須賀市光の丘7-2 ／ 最寄り駅：ＹＲＰ野比 ／ 交通案内：京浜急行「ＹＲＰ野比駅」からＹＲＰ行きバス、光の丘５番で下車</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県横須賀市光の丘7-2 ／ 最寄り駅：ＹＲＰ野比 ／ 交通案内：京浜急行「ＹＲＰ野比駅」からＹＲＰ行きバス、光の丘５番で下車</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　45台　無料　普通車のみ予約不要　但しトラック、マイクロバス（9ｍ以下）要予約</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

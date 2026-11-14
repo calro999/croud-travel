@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">栃木・奥日光＆湯元温泉：男体山・戦場ヶ原＆乳白色硫黄泉・日光湯波宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「栃木・奥日光＆湯元温泉：男体山・戦場ヶ原＆乳白色硫黄泉・日光湯波宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「栃木・奥日光＆湯元温泉：男体山・戦場ヶ原＆乳白色硫黄泉・日光湯波宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/54497/54497_ky.jpg" alt="奥日光湯元温泉　ゆの森 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全12室◇天然温泉100％のにごり湯掛流しの露天風呂付◇美食＆名湯のスロータイムな癒し旅</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県日光市湯元2549-3 ／ 最寄り駅：東武日光 ／ 交通案内：東武日光駅から東武バス乗車、終点「湯元温泉」下車（約６０分）　日光東照宮まで車60分</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県日光市湯元2549-3 ／ 最寄り駅：東武日光 ／ 交通案内：東武日光駅から東武バス乗車、終点「湯元温泉」下車（約６０分）　日光東照宮まで車60分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１２台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.83 ／ 立地 ★4.67 ／ 部屋 ★4.61 ／ 設備 ★4.67 ／ 風呂 ★4.83 ／ 食事 ★4.83</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/149268/149268_kan1.jpg" alt="湯西川温泉　ホテル湯西川（伊東園ホテルズ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>平家の落人伝説の残る温泉地。Ph9.2のアルカリ性単純泉『美肌の湯』と言われています。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県日光市湯西川597 ／ 最寄り駅：湯西川温泉 ／ 交通案内：湯西川温泉駅よりバスにて約20分（ホテル湯西川前下車）</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県日光市湯西川597 ／ 最寄り駅：湯西川温泉 ／ 交通案内：湯西川温泉駅よりバスにて約20分（ホテル湯西川前下車）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4 ／ 立地 ★4.03 ／ 部屋 ★3.88 ／ 設備 ★3.81 ／ 風呂 ★4.17 ／ 食事 ★3.89</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/189179/189179.jpg" alt="グランピングリゾート　ブリリアントヴィレッジ日光 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>日光初のドームグランピング施設。四季折々、全18棟ドームテントと地元素材BBQを堪能！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県日光市瀬尾2010 ／ 最寄り駅：東武日光 ／ 交通案内：日光有料道路今市インターから車で約１５分、東武日光線下今市駅から車で約１５分</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県日光市瀬尾2010 ／ 最寄り駅：東武日光 ／ 交通案内：日光有料道路今市インターから車で約１５分、東武日光線下今市駅から車で約１５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>18台の無料駐車場有り／ご予約不要／他臨時駐車場有</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.98 ／ 立地 ★4.83 ／ 部屋 ★4.93 ／ 設備 ★4.76 ／ 風呂 ★4.62 ／ 食事 ★4.94</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/41383/41383_wa.jpg" alt="日光温泉　ホテル　春茂登 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>日光名物の湯波を中心とした料理自慢の宿です。日光東照宮に近く観光の拠点の宿として親しまれております。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県日光市安川町5-13 ／ 最寄り駅：東武日光 ／ 交通案内：ＪＲ日光駅又は東武日光駅より車で１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県日光市安川町5-13 ／ 最寄り駅：東武日光 ／ 交通案内：ＪＲ日光駅又は東武日光駅より車で１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１１台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/128438/128438_kya.jpg" alt="オーベルジュ　はなぶさ日光 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全6棟、全室贅沢な２つの温泉露天風呂付離れ・・・1日14名様だから叶うこだわりの料理とおもてなし。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県日光市所野1458-1 ／ 最寄り駅：東武日光 ／ 交通案内：東武日光駅より徒歩１０分、JR日光駅より徒歩１２分（送迎は行っておりません）</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県日光市所野1458-1 ／ 最寄り駅：東武日光 ／ 交通案内：東武日光駅より徒歩１０分、JR日光駅より徒歩１２分（送迎は行っておりません）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/151342/151342_kan1.jpg" alt="日光・奥鬼怒温泉郷の山の宿　八丁の湯 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>日光国立公園内・奥鬼怒の手つかずの大自然に囲まれた秘境に佇む宿。関東最後の秘湯を是非お楽しみ下さい。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県日光市川俣876 ／ 最寄り駅：鬼怒川温泉 ／ 交通案内：鬼怒川温泉からバスで「女夫渕」行き乗車、「女夫渕」バス停より送迎</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県日光市川俣876 ／ 最寄り駅：鬼怒川温泉 ／ 交通案内：鬼怒川温泉からバスで「女夫渕」行き乗車、「女夫渕」バス停より送迎</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り８０台　無料　予約不要（女夫渕駐車場・当館まで無料送迎あり※要予約）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.66 ／ 部屋 ★4.26 ／ 設備 ★4.39 ／ 風呂 ★4.68 ／ 食事 ★4.62</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

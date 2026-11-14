@@ -77,7 +77,7 @@ export default function ArticlePage() {
             岐阜・下呂温泉ひとり旅＆美肌名湯おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「下呂温泉ひとり旅・美肌名湯おこもり」日本三名泉つるつる美人の湯・飛騨川パノラマ・飛騨牛会席！飛騨路の山里でととのう厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               草津・有馬と並び「日本三名泉」と称される岐阜県・下呂温泉。アルカリ性単純温泉の泉質はまるで美容液のようにまろやかで、入浴後はお肌がつるつるになると女性・男性問わず絶大な人気を誇ります。
             </p>
             <p>
-              飛騨川の絶景を望む露天風呂や貸切温泉が充実したホテルから、大人の隠れ家として名高い静寂の宿まで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              飛騨川の絶景を望む露天風呂や貸切温泉が充実したホテルから、大人の隠れ家として名高い静寂の宿まで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -420,11 +420,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">下呂温泉ひとり旅・美肌名湯おこもり：日本三名泉つるつる美人の湯・飛騨川パノラマ・飛騨牛会席！飛騨路の山里でととのう厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「下呂温泉ひとり旅・美肌名湯おこもり：日本三名泉つるつる美人の湯・飛騨川パノラマ・飛騨牛会席！飛騨路の山里でととのう厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「下呂温泉ひとり旅・美肌名湯おこもり：日本三名泉つるつる美人の湯・飛騨川パノラマ・飛騨牛会席！飛騨路の山里でととのう厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -488,7 +488,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4730/4730_bas.jpg" alt="下呂温泉　湯あそびの宿　下呂観光ホテル本館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>絶景ランキング1位！インバウンド比率6.6％。団体客無しでゆっくりとくつろげる全室夜景自慢の宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岐阜県下呂市萩原町西上田2148-1 ／ 最寄り駅：下呂 ／ 交通案内：【JR】高山線下呂駅から徒歩1５分【車】中央道中津川I.Cより車で50分</p>
+                  <p><strong>【所在地・アクセス】</strong>岐阜県下呂市萩原町西上田2148-1 ／ 最寄り駅：下呂 ／ 交通案内：【JR】高山線下呂駅から徒歩1５分【車】中央道中津川I.Cより車で50分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料(一部プランにより有料もあり)　バイク専用屋根付き駐車場あり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.47 ／ 立地 ★4.38 ／ 部屋 ★4.39 ／ 設備 ★4.35 ／ 風呂 ★4.49 ／ 食事 ★4.6</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -510,7 +510,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/15392/15392_wa.jpg" alt="下呂温泉　紗々羅 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【受賞歴多数！温泉宿・ホテル総選挙女子旅部門1位】源泉かけ流しの美人の湯を堪能。大人の贅沢滞在。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岐阜県下呂市森1412-1 ／ 最寄り駅：下呂 ／ 交通案内：JR高山本線「下呂駅」よりタクシーで3分（タクシー代は当社持ち）。中央道　中津川ICよりR257経由で60分。</p>
+                  <p><strong>【所在地・アクセス】</strong>岐阜県下呂市森1412-1 ／ 最寄り駅：下呂 ／ 交通案内：JR高山本線「下呂駅」よりタクシーで3分（タクシー代は当社持ち）。中央道　中津川ICよりR257経由で60分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★4.12 ／ 部屋 ★4.22 ／ 設備 ★4.06 ／ 風呂 ★4.26 ／ 食事 ★4.24</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -532,7 +532,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5606/5606_room.jpg" alt="下呂温泉　こころをなでる静寂　みやこ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>下呂温泉の高台に位置し客室18室の隠れ家的宿、露天風呂付き客室や離れ、貸切露天風呂などが人気。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岐阜県下呂市森2505 ／ 最寄り駅：下呂 ／ 交通案内：中央道中津川ＩＣを降りＲ２５７で高山方面へ１時間。ＪＲ高山本線下呂駅下車。送迎有</p>
+                  <p><strong>【所在地・アクセス】</strong>岐阜県下呂市森2505 ／ 最寄り駅：下呂 ／ 交通案内：中央道中津川ＩＣを降りＲ２５７で高山方面へ１時間。ＪＲ高山本線下呂駅下車。送迎有</p>
                   <p><strong>【駐車場・マイカー利用】</strong>18台／無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.8 ／ 立地 ★4.55 ／ 部屋 ★4.67 ／ 設備 ★4.5 ／ 風呂 ★4.61 ／ 食事 ★4.7</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

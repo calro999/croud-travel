@@ -77,7 +77,7 @@ export default function ArticlePage() {
             群馬・伊香保温泉10-11月秋の河鹿橋紅葉＆黄金の湯ひとり旅おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">【10月・11月秋の伊香保温泉ひとり旅・湯元河鹿橋の紅葉ライトアップと黄金の湯おこもり】365段石段街・茶褐色の名湯・上州牛会席！大正ロマン厳選3宿！365段石段街・茶褐色の名湯・上州牛会席！大正ロマン厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               新宿・東京駅から直行高速バス「伊香保温泉号」で約2時間半。万葉の時代から愛され続ける名湯・伊香保温泉は、秋になると榛名山麓のモミジやカエデが一斉に色づき、町全体が情緒あふれる秋色に染まります。特に湯元付近の朱塗りの太鼓橋「河鹿橋」周辺の紅葉は圧巻で、夜間にはライトアップも実施。鉄分を含み身体を芯から温める茶褐色の「黄金の湯」が秋の冷えを優しく癒やします。
             </p>
             <p>
-              一人旅に絶大な支持を受ける美食オーベルジュ風旅館から、石段街至近の伝統ある湯宿まで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              一人旅に絶大な支持を受ける美食オーベルジュ風旅館から、石段街至近の伝統ある湯宿まで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -421,11 +421,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">【10月・11月秋の伊香保温泉ひとり旅・湯元河鹿橋の紅葉ライトアップと黄金の湯おこもり】365段石段街・茶褐色の名湯・上州牛会席！大正ロマン厳選3宿！365段石段街・茶褐色の名湯・上州牛会席！大正ロマン厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「【10月・11月秋の伊香保温泉ひとり旅・湯元河鹿橋の紅葉ライトアップと黄金の湯おこもり】365段石段街・茶褐色の名湯・上州牛会席！大正ロマン厳選3宿！365段石段街・茶褐色の名湯・上州牛会席！大正ロマン厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「【10月・11月秋の伊香保温泉ひとり旅・湯元河鹿橋の紅葉ライトアップと黄金の湯おこもり】365段石段街・茶褐色の名湯・上州牛会席！大正ロマン厳選3宿！365段石段街・茶褐色の名湯・上州牛会席！大正ロマン厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -489,7 +489,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/17741/17741_rote.jpg" alt="伊香保温泉　森秋旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★名湯「黄金の湯」源泉掛け流しが自慢の宿♪ ★観光名所「石段街」まで徒歩３分♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県渋川市伊香保町伊香保60 ／ 最寄り駅：渋川 ／ 交通案内：ＪＲ渋川駅下車バスで25分！新宿から高速バスで2時間半！伊香保の名物石段街から徒歩３分と好立地♪散策に抜群の好立地</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県渋川市伊香保町伊香保60 ／ 最寄り駅：渋川 ／ 交通案内：ＪＲ渋川駅下車バスで25分！新宿から高速バスで2時間半！伊香保の名物石段街から徒歩３分と好立地♪散策に抜群の好立地</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有（無料）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -511,7 +511,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/19362/19362_heya.jpg" alt="伊香保温泉　松本楼　洋風旅館ぴのん 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>女性が1人でも安心して宿泊できる洋風旅館。1品1品出来立てでお出しする『フレンチ風懐石』が人気</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県渋川市伊香保町伊香保383 ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ上越線渋川駅よりバスで約２０分、見晴下 下車／関越道渋川・伊香保ＩＣより約１０ｋｍ</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県渋川市伊香保町伊香保383 ／ 交通案内：ＪＲ上越線渋川駅よりバスで約２０分、見晴下 下車／関越道渋川・伊香保ＩＣより約１０ｋｍ</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -533,7 +533,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/68523/68523_w.jpg" alt="伊香保温泉　石坂旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>石段街まで徒歩１分。【黄金の湯】源泉かけ流しの湯。客室からの山々の景色は必見です！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県渋川市伊香保町伊香保67 ／ 最寄り駅：渋川 ／ 交通案内：ＪＲ上越線　渋川駅前より伊香保温泉行バス乗車にて終点「伊香保温泉」下車で徒歩５分　【石段まで徒歩1分】</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県渋川市伊香保町伊香保67 ／ 最寄り駅：渋川 ／ 交通案内：ＪＲ上越線　渋川駅前より伊香保温泉行バス乗車にて終点「伊香保温泉」下車で徒歩５分　【石段まで徒歩1分】</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　・旅館前５～６台(入り口大変狭し)・少し離れた場所に３０台(送迎有り)　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

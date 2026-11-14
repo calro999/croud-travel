@@ -395,37 +395,6 @@ export default function Page() {
           </div>
         </section>
 
-        {/* よくある質問 FAQ */}
-        <section className="mb-16 bg-white rounded-3xl shadow-sm border border-stone-200/80 p-6 md:p-10">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">よくある質問・ふるさと納税トラベルクーポンの疑問を解消</h2>
-          <div className="space-y-4">
-            
-            <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>3世代旅行で複数部屋を予約する場合、クーポンはどう使えますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
-                楽天トラベルでは1予約につき利用できるふるさと納税クーポンは1枚です。複数部屋を予約する場合は、部屋ごとに予約を分けて寄付・クーポンをそれぞれ適用するか、三世代が同室で泊まれる「大型ファミリールーム」「スイートルーム」「一棟貸し離れ」プランを1つの予約として予約し、そこに高額クーポンを適用するのがスムーズです。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>寄付上限額が30万円の場合、いくらのクーポンがもらえますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
-                30万円の寄付で、寄付額の30％にあたる「9万円分」の楽天トラベルクーポンが付与されます。宿泊総額が20万円の高級離れ宿であれば、クーポン適用により手出し11万円で宿泊でき、税金控除（実質自己負担2,000円）を考慮すると圧倒的な節約効果が生まれます。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>子どもの食事やアレルギー対応は事前に相談できますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
-                多くの名門旅館やリゾートホテルでは、予約時の備考欄や電話連絡にてアレルギー対応やキッズ用特別プレートへの変更を受け付けています。三世代旅行であることを事前に伝えておくと、部屋の位置や食事処の個室配慮など細やかなホスピタリティを受けられることが多いです。
-              </p>
-            </div>
-          </div>
-        </section>
-
         {/* 相互回遊リンク */}
         <section className="bg-stone-200/80 rounded-3xl p-6 md:p-10 border border-stone-300">
           <div className="text-center max-w-2xl mx-auto mb-8">

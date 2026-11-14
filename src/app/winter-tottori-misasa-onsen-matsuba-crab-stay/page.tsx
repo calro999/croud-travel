@@ -369,7 +369,7 @@ export default function MisasaCrabWinterPage() {
             <span className="text-xs font-bold text-rose-700 uppercase tracking-widest">Selected Ryokans</span>
             <h2 className="text-2xl sm:text-3xl font-bold text-stone-900 mt-1">タグ付き活松葉ガニと世界屈指のラジウム湯を堪能する厳選宿5選</h2>
             <p className="text-stone-500 text-sm mt-2">
-              楽天トラベル公式APIより取得した最新情報に基づき、料理・源泉・建物格調において高いクチコミ評価を誇る5軒を厳選。
+              編集部が施設データとクチコミ評価をもとに、料理・源泉・建物格調において高いクチコミ評価を誇る5軒を厳選。
             </p>
           </div>
 

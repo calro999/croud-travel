@@ -228,11 +228,11 @@ export default function HeritageOnsenHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">古民家一棟貸し・蔵サウナの宿：築100年再生邸宅・プライベート薪サウナ 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「古民家一棟貸し・蔵サウナの宿：築100年再生邸宅・プライベート薪サウナ 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「古民家一棟貸し・蔵サウナの宿：築100年再生邸宅・プライベート薪サウナ 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function HeritageOnsenHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/188150/188150.jpg" alt="古民家宿　ＡＫＩＹＡ　ｃｏｒｎｅｒｓｔｏｎｅ　淡路島 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>国際夫婦が元廃墟をセルフリノベして1日1組限定の古民家宿に。薪サウナと天然芝生のドッグラン。ペット可</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県淡路市浅野南574-6 ／ 最寄り駅：林崎松江海岸 ／ 交通案内：北淡ＩＣから車で約５分。観光にも便利な淡路島の西海岸から少し入った静かな立地のバケーションレンタル。</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県淡路市浅野南574-6 ／ 最寄り駅：林崎松江海岸 ／ 交通案内：北淡ＩＣから車で約５分。観光にも便利な淡路島の西海岸から少し入った静かな立地のバケーションレンタル。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function HeritageOnsenHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/53420/53420_da.jpg" alt="離れのある囲炉裏温泉旅館　早水荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>囲炉裏があり、、昔懐かしい雰囲気の静かな温泉宿です。離れはペットも一緒に泊まれます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県伊佐市菱刈川北2280-14 ／ 最寄り駅：栗野 ／ 交通案内：肥薩線　栗野駅より南国交通バスで１２～１３分／鹿児島本線　水俣駅より南国交通バスで１時間</p>
+                  <p><strong>【所在地・アクセス】</strong>鹿児島県伊佐市菱刈川北2280-14 ／ 最寄り駅：栗野 ／ 交通案内：肥薩線　栗野駅より南国交通バスで１２～１３分／鹿児島本線　水俣駅より南国交通バスで１時間</p>
                   <p>【古民家一棟貸し・蔵サウナの宿：築100年再生邸宅・プ】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function HeritageOnsenHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/192077/192077.jpg" alt="古民家宿　むかしのいえ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>築２６０年山あいの田舎暮らし古民家宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岡山県津山市加茂町物見162 ／ 最寄り駅：岡山 ／ 交通案内：岡山駅よりお車で約２時間、中国自動車道津山ＩＣより約３０分、</p>
+                  <p><strong>【所在地・アクセス】</strong>岡山県津山市加茂町物見162 ／ 最寄り駅：岡山 ／ 交通案内：岡山駅よりお車で約２時間、中国自動車道津山ＩＣより約３０分、</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３台　無料　要予約</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -388,8 +388,8 @@ export default function HeritageOnsenHubPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4817/4817_f.jpg" alt="一里野高原ホテル　ろあん 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「古民家一棟貸し・蔵サウナの宿（築100年再生邸宅・プライベート薪サウナ 厳選ガイド）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県白山市尾添チ70-4 ／ 最寄り駅：小松空港 ／ 交通案内：金沢駅より車で９０分｜北陸自動車道白山ＩＣ６０分｜北陸鉄道バス瀬女まで無料送迎可（前日までの予約制）</p>
+                  <p><strong>【宿の特徴・魅力】</strong>和牛・ジビエ・有機野菜♪地物の食にこだわる高原の宿！LOVOTのいる宿♪個室サウナ・グランピング有</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県白山市尾添チ70-4 ／ 最寄り駅：小松空港 ／ 交通案内：金沢駅より車で９０分｜北陸自動車道白山ＩＣ６０分｜北陸鉄道バス瀬女まで無料送迎可（前日までの予約制）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り45台/無料（EV充電スポット2ヶ所）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function HeritageOnsenHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/72893/72893_gr.jpg" alt="兜家旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>緑ふかい山々に抱かれた、奥多摩檜原村。南北朝時代の落人伝説を秘めた数馬の里に当兜家旅館はあります。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 東京都西多摩郡檜原村数馬2612 ／ 最寄り駅：武蔵五日市 ／ 交通案内：武蔵五日市駅より西東京バス「数馬行き」乗車１時間。終点下車徒歩１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>東京都西多摩郡檜原村数馬2612 ／ 最寄り駅：武蔵五日市 ／ 交通案内：武蔵五日市駅より西東京バス「数馬行き」乗車１時間。終点下車徒歩１０分</p>
                   <p>【古民家一棟貸し・蔵サウナの宿：築100年再生邸宅・プ】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function HeritageOnsenHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/169601/169601.jpg" alt="『　モダン町家　一棟貸し　一日一組限定　』京都中心エリア　　＾ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>＊一組限定　一棟貸し切り＊</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 京都府京都市中京区壬生相合町4-9　ｋｏｍｏｒｅｂｉ ／ 最寄り駅：四条大宮 ／ 交通案内：四条大宮駅から徒歩で約３分</p>
+                  <p><strong>【所在地・アクセス】</strong>京都府京都市中京区壬生相合町4-9　ｋｏｍｏｒｅｂｉ ／ 最寄り駅：四条大宮 ／ 交通案内：四条大宮駅から徒歩で約３分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

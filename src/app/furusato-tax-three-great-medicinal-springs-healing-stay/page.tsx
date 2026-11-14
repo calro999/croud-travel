@@ -536,11 +536,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大薬湯＆濃厚生薬湯治宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本三大薬湯＆濃厚生薬湯治宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「日本三大薬湯＆濃厚生薬湯治宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -604,7 +604,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/14679/14679_war.jpg" alt="松之山温泉　ひなの宿　ちとせ 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>日本三大薬湯、地産料理、里山朝ごはん、靴を脱いだら畳敷きの館内。素朴さが贅沢な心にも身体にも優しい宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県十日町市松之山湯本49-1 ／ 最寄り駅：まつだい ／ 交通案内：ほくほく線まつだい駅より定時送迎あり（要予約）/ 関越道・塩沢石打ICより353号約50分/無料屋内駐車場（最大17台）</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県十日町市松之山湯本49-1 ／ 最寄り駅：まつだい ／ 交通案内：ほくほく線まつだい駅より定時送迎あり（要予約）/ 関越道・塩沢石打ICより353号約50分/無料屋内駐車場（最大17台）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>地下駐車場を完備してございます。雨風の当らない場所でお預かりします。（１７台を超えると屋外の場合有）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -626,7 +626,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4904/4904_bas.jpg" alt="草津温泉　望雲 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>創業慶長4年。６つのお風呂と2つの源泉が楽しめる、数々の文人に愛された、落ち着いた佇まいの旅館。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県吾妻郡草津町433-1 ／ 最寄り駅：長野原草津口 ／ 交通案内：ＪＲ吾妻線長野原草津口駅から車で２０分。</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県吾妻郡草津町433-1 ／ 最寄り駅：長野原草津口 ／ 交通案内：ＪＲ吾妻線長野原草津口駅から車で２０分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -648,7 +648,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8636/8636_roten.jpg" alt="有馬温泉　兵衛向陽閣 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>創業700年の老舗旅館。有馬温泉の高台に位置し、有馬最大級の悠々とした三大浴場でお寛ぎいただけます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県神戸市北区有馬町1904 ／ 最寄り駅：有馬温泉 ／ 交通案内：神戸より電車で約３０分／神戸電鉄有馬温泉駅・バス有馬温泉駅より徒歩約６分／阪神高速道路北神戸線有馬口出口より約５分</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県神戸市北区有馬町1904 ／ 最寄り駅：有馬温泉 ／ 交通案内：神戸より電車で約３０分／神戸電鉄有馬温泉駅・バス有馬温泉駅より徒歩約６分／阪神高速道路北神戸線有馬口出口より約５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り：120台（無料・先着順）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.62 ／ 立地 ★4.48 ／ 部屋 ★4.49 ／ 設備 ★4.44 ／ 風呂 ★4.72 ／ 食事 ★4.64</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">大分・別府八湯＆別府地獄めぐり：海地獄・血の池地獄＆地獄蒸し極上宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「大分・別府八湯＆別府地獄めぐり：海地獄・血の池地獄＆地獄蒸し極上宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「大分・別府八湯＆別府地獄めぐり：海地獄・血の池地獄＆地獄蒸し極上宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/70231/70231_kya.jpg" alt="別府鉄輪温泉　旅館　喜楽＜大分県＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2022年2月客室リニューアル。鉄輪温泉本来の熱めの泉質と名物の地元料理が愉しめる。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大分県別府市御幸4 ／ 最寄り駅：別府（大分） ／ 交通案内：日豊本線　別府駅より車にて１５分</p>
+                  <p><strong>【所在地・アクセス】</strong>大分県別府市御幸4 ／ 最寄り駅：別府（大分） ／ 交通案内：日豊本線　別府駅より車にて１５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　10台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/163057/163057_kan1.jpg" alt="鉄輪温泉　かんなわ　ゆの香（レトロ館） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2食付き7550円～！2006年リニューアルOPENの「ゆの香」別館です。ご宿泊の方は貸切風呂無料♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大分県別府市御幸四組 ／ 最寄り駅：別府（大分） ／ 交通案内：別府駅からバスで３０分。亀の井バス停留所「鉄輪」より徒歩0分。別府ＩＣより車で５分</p>
+                  <p><strong>【所在地・アクセス】</strong>大分県別府市御幸四組 ／ 最寄り駅：別府（大分） ／ 交通案内：別府駅からバスで３０分。亀の井バス停留所「鉄輪」より徒歩0分。別府ＩＣより車で５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/197315/197315.jpg" alt="鉄輪温泉　冨士屋ホテル（Ｆｕｊｉｙａ　Ｈｏｔｅｌ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>またここから百年伝えるホテル</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大分県別府市大字鉄輪735 ／ 最寄り駅：別府（大分） ／ 交通案内：JR日豊本線　別府駅よりお車で20分</p>
+                  <p><strong>【所在地・アクセス】</strong>大分県別府市大字鉄輪735 ／ 最寄り駅：別府（大分） ／ 交通案内：JR日豊本線　別府駅よりお車で20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>あり　40台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/30664/30664_w.jpg" alt="源泉湯元の宿　旅館　国東荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>天然温泉にて源泉より毎分２６０リットルの湧出量があり、海の幸の会席と地獄蒸料理をご堪能下さい。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大分県別府市鉄輪風呂本３組 ／ 最寄り駅：別府（大分） ／ 交通案内：日豊本線ＪＲ別府駅／大分自動車道　別府ICより車で５分</p>
+                  <p><strong>【所在地・アクセス】</strong>大分県別府市鉄輪風呂本３組 ／ 最寄り駅：別府（大分） ／ 交通案内：日豊本線ＪＲ別府駅／大分自動車道　別府ICより車で５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　１２台　無料　予約制</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/183268/183268.jpg" alt="別府ホテル塒 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【地獄めぐり】海地獄まで徒歩約10分！別府の「街に滞在」をテーマに宿泊体験を追求したデザインホテル</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大分県別府市火売765-5 ／ 最寄り駅：別府（大分） ／ 交通案内：東九州自動車道・別府ICより車で約5分／JR別府駅より約15分</p>
+                  <p><strong>【所在地・アクセス】</strong>大分県別府市火売765-5 ／ 最寄り駅：別府（大分） ／ 交通案内：東九州自動車道・別府ICより車で約5分／JR別府駅より約15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4765/4765_room.jpg" alt="別府温泉　ホテル好楽 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>別府温泉の中心地に位置する好立地で源泉かけ流しの露天風呂を堪能＆ワンちゃんOKな客室あり！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 大分県別府市北浜3-13-21 ／ 最寄り駅：別府（大分） ／ 交通案内：別府駅から徒歩10分、北浜バス停（福岡からの高速バス降り口）から2分</p>
+                  <p><strong>【所在地・アクセス】</strong>大分県別府市北浜3-13-21 ／ 最寄り駅：別府（大分） ／ 交通案内：別府駅から徒歩10分、北浜バス停（福岡からの高速バス降り口）から2分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　1泊550円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

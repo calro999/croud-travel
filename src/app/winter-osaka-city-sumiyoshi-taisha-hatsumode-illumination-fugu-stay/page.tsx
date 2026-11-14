@@ -186,8 +186,8 @@ export default function OsakaCityWinterFeaturePage() {
             "url": "https://croud-travel.pages.dev/icon.png"
           }
         },
-        "datePublished": "",
-        "dateModified": ""
+        "datePublished": "2026-11-01",
+        "dateModified": "2026-11-15"
       },
       {
         "@type": "FAQPage",
@@ -422,7 +422,7 @@ export default function OsakaCityWinterFeaturePage() {
             <span className="text-amber-600 font-bold text-xs uppercase tracking-wider">VERIFIED ACCOMMODATIONS</span>
             <h2 className="text-xl sm:text-3xl font-extrabold text-slate-900 mt-1">冬の大阪を満喫する厳選名宿5選</h2>
             <p className="text-xs sm:text-sm text-slate-600 mt-2">
-              楽天トラベル公式APIを通じてレビュー評価、立地、夜景、天然温泉、美食プランを厳選した最高品質のホテルです。
+              宿泊施設データを通じてレビュー評価、立地、夜景、天然温泉、美食プランを厳選した最高品質のホテルです。
             </p>
           </div>
 

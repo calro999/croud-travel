@@ -203,11 +203,11 @@ export default function OkinawaHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">沖縄旅行 完全計画ガイド 2026：2泊3日・3泊4日モデルコース＆那覇・恩納村・美ら海水族館・ビーチリゾートホテル・レンタカー：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「沖縄旅行 完全計画ガイド 2026：2泊3日・3泊4日モデルコース＆那覇・恩納村・美ら海水族館・ビーチリゾートホテル・レンタカー」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「沖縄旅行 完全計画ガイド 2026：2泊3日・3泊4日モデルコース＆那覇・恩納村・美ら海水族館・ビーチリゾートホテル・レンタカー」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -298,7 +298,7 @@ export default function OkinawaHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/166949/166949_kan1.jpg" alt="ワイズキャビン＆ホテル那覇国際通り 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ゆったり寛げる男女別サウナ付大浴場併設！キャビン・洋室・和室と幅広いラインナップ！！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県那覇市久茂地3-9-18 ／ 最寄り駅：主要駅 ／ 交通案内：ゆいレール県庁前駅徒歩３分</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県那覇市久茂地3-9-18 ／ 交通案内：ゆいレール県庁前駅徒歩３分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有＊予約制＊1泊1,000円(税込)、2026年2月から￥1200円に改定</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -320,7 +320,7 @@ export default function OkinawaHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2906/2906_heya.jpg" alt="琉球オリオンホテル　那覇国際通り（旧：オリオンホテル那覇） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【2025年リブランド】国際通り沿い、牧志駅徒歩3分！「沖縄をもっと楽しくする」旅の拠点となるホテル</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県那覇市安里1-2-21 ／ 最寄り駅：那覇空港 ／ 交通案内：那覇空港よりモノレールで約20分、牧志駅より徒歩3分、国際通り沿い、コンビニ、スーパーも目の前の好立地</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県那覇市安里1-2-21 ／ 最寄り駅：那覇空港 ／ 交通案内：那覇空港よりモノレールで約20分、牧志駅より徒歩3分、国際通り沿い、コンビニ、スーパーも目の前の好立地</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（先着順）　1泊1台1,500円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -342,7 +342,7 @@ export default function OkinawaHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/50220/50220_tu.jpg" alt="ホテルＪＡＬシティ那覇（国際通り） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>国際通り徒歩0分！ホテル正面玄関を出れば観光客で賑わう国際通り沿いの中心地。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県那覇市牧志1-3-70 ／ 最寄り駅：那覇空港 ／ 交通案内：那覇空港より車で約15分／沖縄都市モノレール(ゆいレール)美栄橋駅より徒歩約8分/牧志駅より徒歩約10分</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県那覇市牧志1-3-70 ／ 最寄り駅：那覇空港 ／ 交通案内：那覇空港より車で約15分／沖縄都市モノレール(ゆいレール)美栄橋駅より徒歩約8分/牧志駅より徒歩約10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>（1泊1台）1,800円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -364,7 +364,7 @@ export default function OkinawaHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/52511/52511_wi.jpg" alt="ホテル　サン・クイーン（那覇／国際通り沿い） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>国際通りに位置するあなたにやさしいホテル。豊富なアメニティーに加え、天然無垢のフローリングを使用。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県那覇市安里2-4-2-1 ／ 最寄り駅：那覇空港 ／ 交通案内：モノレール牧志駅より徒歩2分。那覇空港からモノレール・お車とも20分弱。コンビニへ徒歩1分の好立地で好評を頂いております</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県那覇市安里2-4-2-1 ／ 最寄り駅：那覇空港 ／ 交通案内：モノレール牧志駅より徒歩2分。那覇空港からモノレール・お車とも20分弱。コンビニへ徒歩1分の好立地で好評を頂いております</p>
                   <p><strong>【駐車場・マイカー利用】</strong>電話・メールにてご予約下さい。メッセージでは受付致しません。満車時は近隣コイン駐車場をご利用下さい。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -386,7 +386,7 @@ export default function OkinawaHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/73895/73895_mea.jpg" alt="ホテルアートステイ那覇国際通り 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>◇国際通りの中心◇全室異なるアートな客室と充実の無料サービスでクラシックな滞在を</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県那覇市牧志1-3-43 ／ 最寄り駅：那覇空港 ／ 交通案内：那覇空港より車で約20分/ゆいレール美栄橋駅・牧志駅から徒歩5分/国際通りまで徒歩30秒/泊港離島ターミナル徒歩15分</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県那覇市牧志1-3-43 ／ 最寄り駅：那覇空港 ／ 交通案内：那覇空港より車で約20分/ゆいレール美栄橋駅・牧志駅から徒歩5分/国際通りまで徒歩30秒/泊港離島ターミナル徒歩15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>提携のコインパーキングが1箇所ございます。詳しくはフロントまでお問い合わせ下さいませ。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -408,7 +408,7 @@ export default function OkinawaHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/158644/158644_kan1.jpg" alt="ＨＯＴＥＬ　ＴＨＥ　ＣＵＢＥ　那覇国際通り 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>コスパ重視の方にオススメ★国際通り沿いにあるホテル コンパクトで上質な空間</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県那覇市牧志3-13-17 ／ 最寄り駅：主要駅 ／ 交通案内：ゆいレール「牧志駅」より徒歩１分・国際通りまで徒歩0分♪那覇空港からホテルまでゆいレールで15分♪</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県那覇市牧志3-13-17 ／ 交通案内：ゆいレール「牧志駅」より徒歩１分・国際通りまで徒歩0分♪那覇空港からホテルまでゆいレールで15分♪</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.08 ／ 立地 ★4.11 ／ 部屋 ★3.73 ／ 設備 ★3.77 ／ 風呂 ★3.63 ／ 食事 ★3.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -344,11 +344,11 @@ export default function HighwayBusArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">東京・新宿〜飛騨高山・白川郷：直行高速バスが最強！電車との料金・時間比較＆飛騨牛1泊2日モデルコース：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「東京・新宿〜飛騨高山・白川郷：直行高速バスが最強！電車との料金・時間比較＆飛騨牛1泊2日モデルコース」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「東京・新宿〜飛騨高山・白川郷：直行高速バスが最強！電車との料金・時間比較＆飛騨牛1泊2日モデルコース」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -395,7 +395,7 @@ export default function HighwayBusArticlePage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 奥飛騨　平湯温泉　岡田旅館</td>
-                <td className="p-3 text-stone-600">東京都</td>
+                <td className="p-3 text-stone-600">岐阜県高山市奥飛騨温泉郷平湯</td>
                 <td className="p-3 text-stone-600">平湯温泉方面行きバス乗車、「平湯温泉駅」下車／松本ＩＣより６０分／富山</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★3.91（627件）</td>
@@ -430,7 +430,7 @@ export default function HighwayBusArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/177425/177425_kan1.jpg" alt="飛騨高山　旅館　一の松 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ジャパニーズモダンな館内、客室は和を基調としたモダンなつくりで、ゆっくりとお寛ぎいただけます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岐阜県高山市岡本町1-225-8 ／ 最寄り駅：高山 ／ 交通案内：高山駅西口より徒歩にて約6分</p>
+                  <p><strong>【所在地・アクセス】</strong>岐阜県高山市岡本町1-225-8 ／ 最寄り駅：高山 ／ 交通案内：高山駅西口より徒歩にて約6分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　8台(1000円／１泊)　先着順※事前予約不可</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -452,7 +452,7 @@ export default function HighwayBusArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8326/8326_heya.jpg" alt="飛騨高山　本陣平野屋　光風館（旧：飛騨高山　本陣平野屋　別館） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2026年4月より名称変更（旧：本陣平野屋別館）古い町並・陣屋前朝市まで徒歩1分！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岐阜県高山市本町1-5 ／ 最寄り駅：高山 ／ 交通案内：高山駅・バスセンターより徒歩10分　駅まで無料送迎：随時　車：東海北陸　高山ＩＣ～１０分・中央道　松本ＩＣ～120分</p>
+                  <p><strong>【所在地・アクセス】</strong>岐阜県高山市本町1-5 ／ 最寄り駅：高山 ／ 交通案内：高山駅・バスセンターより徒歩10分　駅まで無料送迎：随時　車：東海北陸　高山ＩＣ～１０分・中央道　松本ＩＣ～120分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有 ５０台 無料 チェックイン前・チェックアウト後も無料でお車お預かり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.71 ／ 立地 ★4.68 ／ 部屋 ★4.54 ／ 設備 ★4.52 ／ 風呂 ★4.42 ／ 食事 ★4.75</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -474,7 +474,7 @@ export default function HighwayBusArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8327/8327_heya.jpg" alt="飛騨高山　本陣平野屋　花兆庵 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【高山陣屋】【古い町並】に最も近い宿。上質なおもてなしでさりげなく満たされる極上の時間をゆっくりと…</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岐阜県高山市本町1-34 ／ 最寄り駅：高山 ／ 交通案内：高山駅より徒歩10分　駅まで無料送迎：随時　車：東海北陸　高山ＩＣ～10分・中央道　松本ＩＣ～120分</p>
+                  <p><strong>【所在地・アクセス】</strong>岐阜県高山市本町1-34 ／ 最寄り駅：高山 ／ 交通案内：高山駅より徒歩10分　駅まで無料送迎：随時　車：東海北陸　高山ＩＣ～10分・中央道　松本ＩＣ～120分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料　50台　チェックイン前・チェックアウト後もお預かりいたします</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.92 ／ 立地 ★4.82 ／ 部屋 ★4.87 ／ 設備 ★4.79 ／ 風呂 ★4.69 ／ 食事 ★4.92</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -495,8 +495,8 @@ export default function HighwayBusArticlePage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/54007/54007.jpg" alt="奥飛騨　平湯温泉　岡田旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「東京・新宿〜飛騨高山・白川郷（直行高速バスが最強）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：平湯温泉方面行きバス乗車、「平湯温泉駅」下車／松本ＩＣより６０分／富山ＩＣより９０分／清見ＩＣより８０分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>全て掛け流しの温泉旅館。貸切＆露天風呂付客室の温もり感じるおもてなしの湯宿。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：平湯温泉方面行きバス乗車、「平湯温泉駅」下車／松本ＩＣより６０分／富山ＩＣより９０分／清見ＩＣより８０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -518,7 +518,7 @@ export default function HighwayBusArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/20688/20688_sh.jpg" alt="料理旅館　奥飛騨山草庵　饗家（きょうや） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【1日5組限定】岐阜県随一の名工が腕を振るう、本格料理と源泉掛け流し貸切露天風呂で非日常を味わう旅</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岐阜県高山市奥飛騨温泉郷一重ケ根212-84 ／ 最寄り駅：高山 ／ 交通案内：JR高山線・高山駅～バスで70分「新平湯禅通寺前」下車徒歩3分／JR中央線・松本駅～バスで100分／東海北陸道・清見IC</p>
+                  <p><strong>【所在地・アクセス】</strong>岐阜県高山市奥飛騨温泉郷一重ケ根212-84 ／ 最寄り駅：高山 ／ 交通案内：JR高山線・高山駅～バスで70分「新平湯禅通寺前」下車徒歩3分／JR中央線・松本駅～バスで100分／東海北陸道・清見IC</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.72 ／ 立地 ★4.59 ／ 部屋 ★4.72 ／ 設備 ★4.76 ／ 風呂 ★4.83 ／ 食事 ★4.83</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

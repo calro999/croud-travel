@@ -235,7 +235,7 @@ export default function Page() {
         <section className="space-y-10">
           <div className="text-center space-y-2">
             <h2 className="text-2xl md:text-3xl font-bold text-slate-900">楽天ふるさと納税で泊まる名宿＆厳選ホテル</h2>
-            <p className="text-xs md:text-sm text-slate-500">楽天トラベル公式APIより最新の宿情報・写真・最低参考価格を取得しています
+            <p className="text-xs md:text-sm text-slate-500">宿泊施設データより最新の宿情報・写真・最低参考価格を取得しています
             </p>
           </div>
 
@@ -538,11 +538,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大和紙＆清流の里の手漉き体験・紙漉き文化の湯宿×ふるさと納税厳選ガイド越前・美濃・土佐：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本三大和紙＆清流の里の手漉き体験・紙漉き文化の湯宿×ふるさと納税厳選ガイド越前・美濃・土佐」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「日本三大和紙＆清流の里の手漉き体験・紙漉き文化の湯宿×ふるさと納税厳選ガイド越前・美濃・土佐」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -571,7 +571,7 @@ export default function Page() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 料理旅館いずみ荘</td>
-                <td className="p-3 text-stone-600">千葉県</td>
+                <td className="p-3 text-stone-600">岐阜県美濃市安毛31-5</td>
                 <td className="p-3 text-stone-600">美濃市駅より車で7分/美濃ＩＣから7分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.14（74件）</td>
@@ -606,7 +606,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/6113/6113_sig.jpg" alt="ホテルクラウンヒルズ武生駅前（ＢＢＨホテルグループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ハピライン武生駅より徒歩1分以内の好立地。9Fスカイレストランからは、越前市街を一望できます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福井県越前市府中1-2-3 ／ 最寄り駅：武生 ／ 交通案内：ハピラインふくい武生駅下車徒歩1分！　 北陸自動車道武生IC車で10分</p>
+                  <p><strong>【所在地・アクセス】</strong>福井県越前市府中1-2-3 ／ 最寄り駅：武生 ／ 交通案内：ハピラインふくい武生駅下車徒歩1分！　 北陸自動車道武生IC車で10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　840円／泊</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -627,12 +627,12 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8028/8028.jpg" alt="料理旅館いずみ荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「日本三大和紙＆清流の里の手漉き体験・紙漉き文化の湯宿×ふるさと納税厳選ガイド越前・美濃・土佐」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：美濃市駅より車で7分/美濃ＩＣから7分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>山・川・里の四季折々の食材を使用したこだわりのお料理が自慢の料理旅館</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：美濃市駅より車で7分/美濃ＩＣから7分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「絶景のロケーションとおもてなしに心から癒やされました。」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理旅館いずみ荘での快適な滞在とアクセス面の良さに満足したという評価が寄せられています。」
                   </blockquote>
                 </div>
               </div>
@@ -650,7 +650,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/75287/75287_wa.jpg" alt="土佐和紙工芸村「くらうど」 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【夕食評価4.8】土佐の自然の恵みを、見て、味わって、体験して。仁淀川の隠れ宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 高知県吾川郡いの町鹿敷1226 ／ 最寄り駅：伊野 ／ 交通案内：JR伊野駅より北部交通バスで15分、岩村下車すぐ/高知市内より車で30分</p>
+                  <p><strong>【所在地・アクセス】</strong>高知県吾川郡いの町鹿敷1226 ／ 最寄り駅：伊野 ／ 交通案内：JR伊野駅より北部交通バスで15分、岩村下車すぐ/高知市内より車で30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　９０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -665,7 +665,7 @@ export default function Page() {
 
       {/* フッター */}
       <footer className="bg-slate-950 text-slate-400 py-8 px-4 text-center text-xs border-t border-slate-800">
-        <p>© 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の楽天トラベル公式APIに基づきます。</p>
+        <p>© 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の宿泊施設データに基づきます。</p>
       </footer>
     
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">香川・小豆島：エンジェルロード・寒霞渓＆オリーブ牛・海辺リゾート 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「香川・小豆島：エンジェルロード・寒霞渓＆オリーブ牛・海辺リゾート 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「香川・小豆島：エンジェルロード・寒霞渓＆オリーブ牛・海辺リゾート 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -314,7 +314,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/20489/20489_wa.jpg" alt="海辺の宿　入舟　＜香川県・小豆島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>海際にあり、エンジェルロード目の前。家族的で、近くにオリーブ温泉、スーパー、コンビニ有ります。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 香川県小豆郡土庄町甲1171-14 ／ 最寄り駅：高松（香川） ／ 交通案内：土庄港より１８００ｍ、／小豆島バス「銀波浦バス停前」下車　食料持ち込みOK！</p>
+                  <p><strong>【所在地・アクセス】</strong>香川県小豆郡土庄町甲1171-14 ／ 最寄り駅：高松（香川） ／ 交通案内：土庄港より１８００ｍ、／小豆島バス「銀波浦バス停前」下車　食料持ち込みOK！</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -336,7 +336,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/44874/44874_yso.jpg" alt="ベイリゾートホテル小豆島 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>◆全室オーシャンビュー◆自家源泉の最上階展望露天風呂＆個室貸切露天風呂が魅力★</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 香川県小豆郡小豆島町古江乙16-3 ／ 最寄り駅：坂出 ／ 交通案内：（車）坂手港3分/福田港30分/土庄港30分/草壁港10分/池田港20分★大部港以外の無料送迎有（2日前までに予約要）</p>
+                  <p><strong>【所在地・アクセス】</strong>香川県小豆郡小豆島町古江乙16-3 ／ 最寄り駅：坂出 ／ 交通案内：（車）坂手港3分/福田港30分/土庄港30分/草壁港10分/池田港20分★大部港以外の無料送迎有（2日前までに予約要）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.4 ／ 立地 ★4.48 ／ 部屋 ★4.25 ／ 設備 ★4.11 ／ 風呂 ★4.28 ／ 食事 ★4.23</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -358,7 +358,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/188032/188032.jpg" alt="ホテルグリーンプラザ小豆島＜小豆島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【ソフトドリンク・コーヒー無料サービス】【持ち込みOK】船の往来が見えるリゾートホテル</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 香川県小豆郡土庄町伊喜末2464 ／ 最寄り駅：高松（香川） ／ 交通案内：小豆島　土庄港より車で7分、池田港より車で11分、福田港より車で38分　土庄港へは無料送迎もございます　※要予約</p>
+                  <p><strong>【所在地・アクセス】</strong>香川県小豆郡土庄町伊喜末2464 ／ 最寄り駅：高松（香川） ／ 交通案内：小豆島　土庄港より車で7分、池田港より車で11分、福田港より車で38分　土庄港へは無料送迎もございます　※要予約</p>
                   <p>【香川・小豆島：エンジェルロード・寒霞渓＆オリーブ牛・】 <strong>【駐車場・マイカー利用】</strong>有り　50台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -380,7 +380,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/188826/188826.jpg" alt="ヴィラ汐音＜小豆島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>絶景！海沿いの別荘を完全貸切。大切な方と、完全にプライベートで過ごせる！　ヴィラ汐音（シオン）</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 香川県小豆郡小豆島町坂手甲1686-5 ／ 最寄り駅：瓦町 ／ 交通案内：小豆島坂手港より車で約５分、徒歩２５分（1.7km）</p>
+                  <p><strong>【所在地・アクセス】</strong>香川県小豆郡小豆島町坂手甲1686-5 ／ 最寄り駅：瓦町 ／ 交通案内：小豆島坂手港より車で約５分、徒歩２５分（1.7km）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -402,7 +402,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/84770/84770_room.jpg" alt="ホテル　パールガーデン 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>上位ランクのシモンズベッドでぐっすり☆新館禁煙Ｒのみ・本館喫煙Ｒ有！無料ＷＩＦＩ＆駐車場無料</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 香川県高松市福岡町2-2-1 ／ 最寄り駅：高松（香川） ／ 交通案内：JR高松駅より徒歩約30分(車で約10分)又は路線パスで約5分/高松中央ICより5km（約25分）</p>
+                  <p><strong>【所在地・アクセス】</strong>香川県高松市福岡町2-2-1 ／ 最寄り駅：高松（香川） ／ 交通案内：JR高松駅より徒歩約30分(車で約10分)又は路線パスで約5分/高松中央ICより5km（約25分）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２１７台　無料　予約不要。マイクロバス、中型、大型バス、トラック等は有料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.39 ／ 立地 ★4.23 ／ 部屋 ★4.47 ／ 設備 ★4.38 ／ 風呂 ★4.38 ／ 食事 ★4.49</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

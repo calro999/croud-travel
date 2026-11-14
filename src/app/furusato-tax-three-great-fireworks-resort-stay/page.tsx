@@ -326,11 +326,11 @@ export default function FurusatoUpgradedPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大花火大会の特等席と快適眺望ホテル×ふるさと納税厳選ガイド大曲・長岡・土浦：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本三大花火大会の特等席と快適眺望ホテル×ふるさと納税厳選ガイド大曲・長岡・土浦」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「日本三大花火大会の特等席と快適眺望ホテル×ふるさと納税厳選ガイド大曲・長岡・土浦」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -393,8 +393,8 @@ export default function FurusatoUpgradedPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/70699/70699_tt.jpg" alt="ホテルルートイン　大曲駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「日本三大花火大会の特等席と快適眺望ホテル×ふるさと納税厳選ガイド大曲・長岡・土浦」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 秋田県大仙市大曲通町3-14 ／ 最寄り駅：大曲（秋田） ／ 交通案内：ＪＲ秋田新幹線大曲駅より徒歩３分/大曲I.Cより車で約10分/秋田市より秋田自動車道利用で約40分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>ホテルルートイン 大曲駅前（秋田県大仙市大曲通町3-14）は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>秋田県大仙市大曲通町3-14 ／ 最寄り駅：大曲（秋田） ／ 交通案内：ＪＲ秋田新幹線大曲駅より徒歩３分/大曲I.Cより車で約10分/秋田市より秋田自動車道利用で約40分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料　予約不要 先着順  ※満車の際は近隣駐車場をご案内致します。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -415,8 +415,8 @@ export default function FurusatoUpgradedPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2104/2104_room.jpg" alt="ホテルニューオータニ長岡 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「日本三大花火大会の特等席と快適眺望ホテル×ふるさと納税厳選ガイド大曲・長岡・土浦」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県長岡市台町2丁目8番35号 ／ 最寄り駅：長岡 ／ 交通案内：上越新幹線・信越本線の長岡駅東口より徒歩２分／長岡ICから車で長岡駅方面約２０分／１泊１台１，０００円の駐車場あり</p>
+                  <p><strong>【宿の特徴・魅力】</strong>ホテルニューオータニ長岡（新潟県長岡市台町2丁目8番35号）は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県長岡市台町2丁目8番35号 ／ 最寄り駅：長岡 ／ 交通案内：上越新幹線・信越本線の長岡駅東口より徒歩２分／長岡ICから車で長岡駅方面約２０分／１泊１台１，０００円の駐車場あり</p>
                   <p><strong>【駐車場・マイカー利用】</strong>普通車　1泊1台：1,000円／予約不要／満車時は提携駐車場をご案内</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -437,8 +437,8 @@ export default function FurusatoUpgradedPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1812/1812_twn.jpg" alt="ホテルマロウド筑波 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「日本三大花火大会の特等席と快適眺望ホテル×ふるさと納税厳選ガイド大曲・長岡・土浦」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 茨城県土浦市城北町2-24 ／ 最寄り駅：土浦 ／ 交通案内：JR常磐線 土浦駅西口から徒歩１2分 お車でＴＸつくば駅から２５分 常磐道桜土浦ＩＣから１５分 土浦北ＩＣから１０分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>ホテルマロウド筑波（茨城県土浦市城北町2-24）は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>茨城県土浦市城北町2-24 ／ 最寄り駅：土浦 ／ 交通案内：JR常磐線 土浦駅西口から徒歩１2分 お車でＴＸつくば駅から２５分 常磐道桜土浦ＩＣから１５分 土浦北ＩＣから１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>300台有　無料(普通乗用車)　それ以外(中型車以上)の車は有料￥2200（電話にて要予約）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

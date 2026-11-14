@@ -77,7 +77,7 @@ export default function ArticlePage() {
             栃木・板室温泉ひとり旅＆現代湯治リトリート特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「那須塩原・板室温泉ひとり旅・下野の薬湯立ち湯おこもり」開湯1050年杖いらずの名湯・那珂川上流自然林・保養とアート！現代湯治リトリート厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               平安時代・後冷泉天皇の治世（1059年）に発見されたと伝わる板室温泉。関節炎や神経痛を治し「杖をついて来た人が杖を忘れて帰る」ことから「杖いらずの湯」と称えられてきました。約40度のぬるめの無色透明アルカリ性単純温泉は、体に負担をかけずに何時間でも浸かることができ、日々のデスクワークやデジタル社会で疲弊した現代人の脳と身体を深いリラクゼーションへと導きます。
             </p>
             <p>
-              現代アートと温泉保養を融合させた最高峰の文化宿から、薬草スパや大正浪漫の風情ある湯守の宿まで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              現代アートと温泉保養を融合させた最高峰の文化宿から、薬草スパや大正浪漫の風情ある湯守の宿まで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -421,11 +421,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">那須塩原・板室温泉ひとり旅・下野の薬湯立ち湯おこもり：開湯1050年杖いらずの名湯・那珂川上流自然林・保養とアート！現代湯治リトリート厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「那須塩原・板室温泉ひとり旅・下野の薬湯立ち湯おこもり：開湯1050年杖いらずの名湯・那珂川上流自然林・保養とアート！現代湯治リトリート厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「那須塩原・板室温泉ひとり旅・下野の薬湯立ち湯おこもり：開湯1050年杖いらずの名湯・那珂川上流自然林・保養とアート！現代湯治リトリート厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -454,7 +454,7 @@ export default function ArticlePage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 板室別邸リトリート　SPA和薬草</td>
-                <td className="p-3 text-stone-600">栃木県</td>
+                <td className="p-3 text-stone-600">栃木県那須塩原市板室841-14</td>
                 <td className="p-3 text-stone-600">【無料送迎】＜往路＞那須塩原駅西口12：30発　＜復路＞SPA和薬草1</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（133件）</td>
@@ -489,7 +489,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/153309/153309_kan1.jpg" alt="板室温泉大黒屋　保養とアートの宿 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>栃木県那須・板室の大自然の中に静かに佇む、隠れ家のような旅館「保養とアートの宿」板室温泉大黒屋</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県那須塩原市板室856 ／ 最寄り駅：那須塩原 ／ 交通案内：東京から2時間　那須塩原駅より送迎タクシーで30分　東北道黒磯板室ICから車で20分</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県那須塩原市板室856 ／ 最寄り駅：那須塩原 ／ 交通案内：東京から2時間　那須塩原駅より送迎タクシーで30分　東北道黒磯板室ICから車で20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -510,8 +510,8 @@ export default function ArticlePage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/183550/183550.jpg" alt="板室別邸リトリート　SPA和薬草 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「那須塩原・板室温泉ひとり旅・下野の薬湯立ち湯おこもり（開湯1050年杖いらずの名湯・那珂川上流自然林・保養とアート）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：【無料送迎】＜往路＞那須塩原駅西口12：30発　＜復路＞SPA和薬草10：00発</p>
+                  <p><strong>【宿の特徴・魅力】</strong>那須の秘境で湯治体験。様々なコンテンツであなただけのオリジナルリトリート時間を。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：【無料送迎】＜往路＞那須塩原駅西口12：30発　＜復路＞SPA和薬草10：00発</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -533,7 +533,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/111212/111212_room.jpg" alt="板室温泉　奥那須・大正村　幸乃湯温泉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>源泉掛け流しの湯を畳敷きひのき造りの大浴場で味わう一軒宿！当館自慢の野天風呂＆豪快4m滝打たせ湯</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 栃木県那須塩原市百村3536-1 ／ 最寄り駅：那須塩原 ／ 交通案内：那須塩原駅よりお車又は当館無料バスにて約２５分（要予約）</p>
+                  <p><strong>【所在地・アクセス】</strong>栃木県那須塩原市百村3536-1 ／ 最寄り駅：那須塩原 ／ 交通案内：那須塩原駅よりお車又は当館無料バスにて約２５分（要予約）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

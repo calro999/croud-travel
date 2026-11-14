@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/book-hotel-library-reading-retreat-stay/"
   };
 
@@ -186,6 +186,12 @@ export default function Page() {
           </p>
         </div>
 
+        <div className="pt-2">
+          <ShareButtons
+            title="数万冊の本に囲まれて贅沢な夜更かし！全国の泊まれる図書館＆ブックホテル特集"
+            url="https://croud-travel.pages.dev/book-hotel-library-reading-retreat-stay/"
+          />
+        </div>
         {/* クーポン特大バナー */}
         <SpecialCouponBanner />
 
@@ -303,11 +309,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">数万冊の本に囲まれて贅沢な夜更かし！全国の泊まれる図書館＆ブックホテル特集：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「数万冊の本に囲まれて贅沢な夜更かし！全国の泊まれる図書館＆ブックホテル特集」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「数万冊の本に囲まれて贅沢な夜更かし！全国の泊まれる図書館＆ブックホテル特集」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -371,7 +377,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/25295/25295_furo.jpg" alt="湯の山温泉　ホテル湯の本 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>楽天トラベルアワード連続受賞！旬の味覚と絶景露天風呂を満喫♪登山・観光に最適！部屋食もご好評★</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 三重県三重郡菰野町菰野8497 ／ 最寄り駅：湯の山温泉 ／ 交通案内：近鉄湯の山温泉駅～車で約７分（駅より送迎あり：当日要連絡）／新名神・菰野IC～約８分、東名阪・四日市ＩＣ～約２５分</p>
+                  <p><strong>【所在地・アクセス】</strong>三重県三重郡菰野町菰野8497 ／ 最寄り駅：湯の山温泉 ／ 交通案内：近鉄湯の山温泉駅～車で約７分（駅より送迎あり：当日要連絡）／新名神・菰野IC～約８分、東名阪・四日市ＩＣ～約２５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.62 ／ 立地 ★4.49 ／ 部屋 ★4.36 ／ 設備 ★4.17 ／ 風呂 ★4.37 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -393,7 +399,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/184034/184034.jpg" alt="天然温泉　あづみの湯　御宿　野乃松本（ドーミーイン・御宿野乃　ホテルズグループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2022年4月OPEN♪セルフロウリュウサウナのある天望大浴場付全館畳敷の和風ビジネスホテル</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県松本市深志1-5-17 ／ 最寄り駅：松本 ／ 交通案内：松本駅　徒歩5分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県松本市深志1-5-17 ／ 最寄り駅：松本 ／ 交通案内：松本駅　徒歩5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有28台(15:00〜翌12:00）1泊1400円/台(途中出庫は有料）バイクは詳細確認ください</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.63 ／ 立地 ★4.49 ／ 部屋 ★4.62 ／ 設備 ★4.61 ／ 風呂 ★4.61 ／ 食事 ★4.73</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -415,7 +421,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/108257/108257_ky1.jpg" alt="稲佐山温泉　ホテルアマンディ　〜長崎の日本三大夜景を一望〜 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>日本三大夜景を一望！100％源泉の露天風呂や岩盤浴が人気のリゾートホテル。駐車場無料・Wi-Fi完備</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長崎県長崎市曙町39-38 ／ 最寄り駅：長崎（長崎） ／ 交通案内：JR長崎駅からお車で7分。長崎バス5番系統「稲佐山」または「稲佐山中腹」行きバス乗車　無料送迎バス有</p>
+                  <p><strong>【所在地・アクセス】</strong>長崎県長崎市曙町39-38 ／ 最寄り駅：長崎（長崎） ／ 交通案内：JR長崎駅からお車で7分。長崎バス5番系統「稲佐山」または「稲佐山中腹」行きバス乗車　無料送迎バス有</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１２０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.99 ／ 立地 ★4.12 ／ 部屋 ★3.87 ／ 設備 ★3.7 ／ 風呂 ★3.99 ／ 食事 ★4.03</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -310,37 +310,6 @@ export default function Page() {
           </div>
         </section>
 
-        {/* よくある質問 FAQ */}
-        <section className="mb-16 bg-white rounded-2xl shadow-sm border border-stone-200/80 p-6 md:p-8">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">よくある質問・伝統文化体験＆宿坊の楽しみ方</h2>
-          <div className="space-y-4">
-            
-            <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-amber-700 font-serif font-black text-lg">Q.</span>
-                <span>武家屋敷の内部見学や甲冑体験は宿泊者以外でもできますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
-                角館や会津の主要武家屋敷は一般公開されており、観光施設として見学や甲冑着付け体験が可能です。宿泊施設によっては、宿泊者限定の夜間ライトアップ見学やプライベート居合道体験プランを用意しているところもあります。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-amber-700 font-serif font-black text-lg">Q.</span>
-                <span>武家屋敷宿の客室設備（水回り・冷暖房）は快適ですか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
-                外観や梁・柱は歴史的な武家建築や蔵の風合いをそのまま活かしつつ、水回り（バス・トイレ）・ベッド・空調・Wi-Fiなどは最新の高級ホテル基準に全面改装されています。歴史の情緒と現代の快適性を兼ね備えています。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-amber-700 font-serif font-black text-lg">Q.</span>
-                <span>刀剣や歴史ファン向けの見どころは周辺にありますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
-                会津若松城の郷土博物館や角館青柳家の武器蔵（刀剣や甲冑の展示）、各地の鍛冶屋や刀剣工房など、本物の日本刀や武具を間近に鑑賞できるスポットが充実しています。
-              </p>
-            </div>
-          </div>
-        </section>
-
         {/* 関連リンク */}
         <section className="bg-stone-200/70 rounded-2xl p-6 md:p-8 text-center border border-stone-300">
           <h3 className="text-xl font-bold text-stone-900 mb-3 font-serif">他の伝統文化・リトリート宿を探す</h3>
@@ -490,10 +459,10 @@ export default function Page() {
                 和歌山県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/yamagata/"
+                href="/prefectures/kyoto/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                山形県の宿・温泉
+                京都府の宿・温泉
               </Link>
               <Link
                 href="/prefectures/yamaguchi/"

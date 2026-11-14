@@ -228,11 +228,11 @@ export default function GourmetCuisineHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大地鶏＆銘柄鶏の宿：比内地鶏・名古屋コーチン・さつま地鶏・阿波尾鶏 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本三大地鶏＆銘柄鶏の宿：比内地鶏・名古屋コーチン・さつま地鶏・阿波尾鶏 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「日本三大地鶏＆銘柄鶏の宿：比内地鶏・名古屋コーチン・さつま地鶏・阿波尾鶏 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function GourmetCuisineHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/14338/14338_bath1.jpg" alt="効能溢れる癒しの湯治宿　玉川温泉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>日帰り入浴は午前10:00～午後3:00までです。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 秋田県仙北市田沢湖玉川渋黒沢国有林第3014林班ロ小班 ／ 最寄り駅：田沢湖 ／ 交通案内：JR田沢湖駅前から路線バスで約70分。お車でお越しの場合盛岡IC～田沢湖経由で約100分。</p>
+                  <p><strong>【所在地・アクセス】</strong>秋田県仙北市田沢湖玉川渋黒沢国有林第3014林班ロ小班 ／ 最寄り駅：田沢湖 ／ 交通案内：JR田沢湖駅前から路線バスで約70分。お車でお越しの場合盛岡IC～田沢湖経由で約100分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>宿から5分ほど離れた場所にあります。当日係がご案内致します。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function GourmetCuisineHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2974/2974_heya.jpg" alt="縄文のふる里　大湯温泉　ホテル鹿角 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>開湯800年の名湯と四季折々の彩りが添えられた料理を楽しむ。箱根・富士屋ホテルや花巻温泉もグループ。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 秋田県鹿角市十和田大湯字中谷地５－１ ／ 最寄り駅：十和田南 ／ 交通案内：■十和田湖より車で30分■ＪＲ花輪線十和田南駅から車で１２分■東北道十和田ＩＣから国道１０３号線を十和田湖方面へ１２分</p>
+                  <p><strong>【所在地・アクセス】</strong>秋田県鹿角市十和田大湯字中谷地５－１ ／ 最寄り駅：十和田南 ／ 交通案内：■十和田湖より車で30分■ＪＲ花輪線十和田南駅から車で１２分■東北道十和田ＩＣから国道１０３号線を十和田湖方面へ１２分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　２００台　無料　　　　　　　　　　　　　　　　★お得な宿泊プラン満載★</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function GourmetCuisineHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/52102/52102_wa.jpg" alt="男鹿温泉　湯けむりリゾート　セイコーグランドホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>源泉かけ流し！当館自慢の「美肌の湯」と日本海の海幸を満喫。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 秋田県男鹿市北浦湯本草木原50-1 ／ 最寄り駅：羽立 ／ 交通案内：秋田自動車道秋田北IC下車６０ｋｍ７０分／JR羽立駅～路線バスで４５分／JR男鹿駅～無料送迎バスあり詳しくは公式HPへ</p>
+                  <p><strong>【所在地・アクセス】</strong>秋田県男鹿市北浦湯本草木原50-1 ／ 最寄り駅：羽立 ／ 交通案内：秋田自動車道秋田北IC下車６０ｋｍ７０分／JR羽立駅～路線バスで４５分／JR男鹿駅～無料送迎バスあり詳しくは公式HPへ</p>
                   <p>【日本三大地鶏＆銘柄鶏の宿：比内地鶏・名古屋コーチン・】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★3.93 ／ 部屋 ★4.01 ／ 設備 ★3.86 ／ 風呂 ★4.11 ／ 食事 ★4.3</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function GourmetCuisineHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/158810/158810_kan1.jpg" alt="からまつ山荘　東兵衛温泉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>目前に迫る出羽山地の山々は圧巻！源泉かけ流し子宝・安産の湯でほっこり。夕食は秋田比内地鶏を堪能。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 秋田県大仙市協和船岡東兵衛屋敷91 ／ 最寄り駅：主要駅 ／ 交通案内：秋田新幹線　角館駅よりお車にて約4０分</p>
+                  <p><strong>【所在地・アクセス】</strong>秋田県大仙市協和船岡東兵衛屋敷91 ／ 交通案内：秋田新幹線　角館駅よりお車にて約4０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７１台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function GourmetCuisineHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5306/5306_w.jpg" alt="犬山温泉　旬樹庵　八勝閣みづのを 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>四季折々の表情を望む木曽川に面した眺望絶景の宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛知県岐阜県各務原市鵜沼南町6-264 ／ 最寄り駅：犬山遊園 ／ 交通案内：名鉄犬山線犬山遊園駅より徒歩7分</p>
+                  <p><strong>【所在地・アクセス】</strong>愛知県岐阜県各務原市鵜沼南町6-264 ／ 最寄り駅：犬山遊園 ／ 交通案内：名鉄犬山線犬山遊園駅より徒歩7分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　15台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function GourmetCuisineHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/13872/13872_room.jpg" alt="旅館　薩摩の里 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>『天下の名泉』市比野温泉☆平静な環境の中で、源泉掛流し１００％天然温泉が楽しめる純和風温泉旅館♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県薩摩川内市樋脇町市比野4134 ／ 最寄り駅：川内（鹿児島） ／ 交通案内：ＪＲ川内駅より車で２０分</p>
+                  <p><strong>【所在地・アクセス】</strong>鹿児島県薩摩川内市樋脇町市比野4134 ／ 最寄り駅：川内（鹿児島） ／ 交通案内：ＪＲ川内駅より車で２０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　先着順　無料　　バイクの場合は屋根付きスペースを確保します（要連絡）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

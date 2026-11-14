@@ -49,8 +49,8 @@ export default function Page() {
       "headline": "【雪見の名泉・美作三湯と津山城下町の冬叙情】2026-2027年冬の岡山・津山＆湯原・奥津！名物そずり鍋と幻の千屋牛会席名宿5選",
       "description": "西日本を代表する名湯「美作三湯（湯原・奥津・湯郷）」の雪見露天風呂！津山城鶴山公園の雄大な石垣美とレトロ城下町散策。骨周りの旨味が凝縮した冬の郷土鍋「津山そずり鍋」や日本最古の蔓牛「千屋牛」に満たされる冬の岡山・美作の厳選名宿5選。",
       "image": "https://img.travel.rakuten.co.jp/share/HOTEL/168420/168420.jpg",
-      "datePublished": "",
-      "dateModified": "",
+      "datePublished": "2026-11-01",
+      "dateModified": "2026-11-15",
       "author": {
         "@type": "Organization",
         "name": "Japan Travel Curations"

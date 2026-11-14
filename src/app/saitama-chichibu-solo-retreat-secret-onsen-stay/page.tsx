@@ -77,7 +77,7 @@ export default function ArticlePage() {
             埼玉・秩父温泉ひとり旅＆里山囲炉裏おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「秩父・長瀞ひとり旅・秩父七湯と囲炉裏古民家おこもり」開湯190年卵水美肌湯・地酒秩父錦・囲炉裏炭火焼き！池袋特急ラビュー77分の里山厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               山々に囲まれた秩父盆地には、古くから霊峰武甲山の伏流水や薬効あらたかな鉱泉が湧き出ています。特に「卵水」と称される新木鉱泉などは、硫黄の香りと重曹成分を含む極上のとろみ湯で、古い角質を落とし美肌を促します。夜は囲炉裏の火を眺めながら、秩父名物の豚みそ漬けや岩魚の塩焼き、銘酒「秩父錦」に舌鼓を打つ贅沢が待っています。
             </p>
             <p>
-              江戸末期創業の重厚な歴史宿から、囲炉裏炭火焼き料理を堪能できる温泉宿まで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              江戸末期創業の重厚な歴史宿から、囲炉裏炭火焼き料理を堪能できる温泉宿まで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -420,11 +420,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">秩父・長瀞ひとり旅・秩父七湯と囲炉裏古民家おこもり：開湯190年卵水美肌湯・地酒秩父錦・囲炉裏炭火焼き！池袋特急ラビュー77分の里山厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「秩父・長瀞ひとり旅・秩父七湯と囲炉裏古民家おこもり：開湯190年卵水美肌湯・地酒秩父錦・囲炉裏炭火焼き！池袋特急ラビュー77分の里山厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「秩父・長瀞ひとり旅・秩父七湯と囲炉裏古民家おこもり：開湯190年卵水美肌湯・地酒秩父錦・囲炉裏炭火焼き！池袋特急ラビュー77分の里山厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -488,7 +488,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5828/5828_war.jpg" alt="秩父七湯『御代の湯』　新木鉱泉旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2025楽天トラベルアワード13度目の受賞！民芸調のほのぼの宿！滑らかな卵水と云われる温泉が自慢です</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 埼玉県秩父市山田1538番地1 ／ 最寄り駅：西武秩父 ／ 交通案内：◆送迎有◆その他、西武秩父駅よりタクシー10分又は定峰行きバス25分金昌寺下車徒歩4分●関越道花園ICより40分●</p>
+                  <p><strong>【所在地・アクセス】</strong>埼玉県秩父市山田1538番地1 ／ 最寄り駅：西武秩父 ／ 交通案内：◆送迎有◆その他、西武秩父駅よりタクシー10分又は定峰行きバス25分金昌寺下車徒歩4分●関越道花園ICより40分●</p>
                   <p><strong>【駐車場・マイカー利用】</strong>３０台　　【無料・予約不要】</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -510,7 +510,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9706/9706_war.jpg" alt="秩父温泉郷　囲炉裏の宿　小鹿荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>懐かしい囲炉裏にほっこり、ぽっかぽかの温泉でゆったり。地元食材を使った囲炉裏料理と温泉の宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 埼玉県秩父郡小鹿野町三山243 ／ 最寄り駅：西武秩父 ／ 交通案内：■車：関越道花園ICより約50分。■電車：西武秩父駅、秩父鉄道秩父駅無料送迎あり【要予約】</p>
+                  <p><strong>【所在地・アクセス】</strong>埼玉県秩父郡小鹿野町三山243 ／ 最寄り駅：西武秩父 ／ 交通案内：■車：関越道花園ICより約50分。■電車：西武秩父駅、秩父鉄道秩父駅無料送迎あり【要予約】</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.63 ／ 立地 ★4.35 ／ 部屋 ★4.54 ／ 設備 ★4.4 ／ 風呂 ★4.45 ／ 食事 ★4.71</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -532,7 +532,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/14195/14195_war.jpg" alt="秩父小鹿野温泉旅館　梁山泊 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【埼玉おもてなし大賞☆特別賞】２年連続受賞★露天風呂付き客室☆美人の湯と呼ばれる温泉☆懐石料理が人気</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 埼玉県秩父郡小鹿野町般若260 ／ 最寄り駅：西武秩父 ／ 交通案内：【車】関越道花園ＩＣから車で35分　【電車】西武秩父駅または秩父駅より送迎有</p>
+                  <p><strong>【所在地・アクセス】</strong>埼玉県秩父郡小鹿野町般若260 ／ 最寄り駅：西武秩父 ／ 交通案内：【車】関越道花園ＩＣから車で35分　【電車】西武秩父駅または秩父駅より送迎有</p>
                   <p><strong>【駐車場・マイカー利用】</strong>100台以上駐車できる無料駐車場を完備</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.1 ／ 立地 ★3.97 ／ 部屋 ★4.41 ／ 設備 ★4.14 ／ 風呂 ★4.22 ／ 食事 ★4.35</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

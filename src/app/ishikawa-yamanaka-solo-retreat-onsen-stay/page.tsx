@@ -77,7 +77,7 @@ export default function ArticlePage() {
             石川・山中温泉ひとり旅＆鶴仙渓渓谷美おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「山中温泉ひとり旅・鶴仙渓おこもり」芭蕉も称賛の名湯・あやとり橋・加賀会席！大聖寺川の渓谷美と山中漆器の街でととのう厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               加賀温泉郷の奥座敷として、名勝・鶴仙渓の深い緑と奇岩に寄り添う山中温泉。伝統工芸「山中漆器」や九谷焼の工房が息づく情緒あふれる温泉街「ゆげ街道」は、一人で散策しながら本物の日本の美と職人技に触れられる上質なリトリート空間です。
             </p>
             <p>
-              渓谷の絶景を望む露天風呂と贅を尽くした加賀会席が評判のラグジュアリー宿から、一人旅でも利用しやすい老舗旅館まで、楽天トラベル公式APIより直接取得した最新データをもとに厳選紹介します。
+              渓谷の絶景を望む露天風呂と贅を尽くした加賀会席が評判のラグジュアリー宿から、一人旅でも利用しやすい老舗旅館まで、宿泊施設データより直接取得した最新データをもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -388,10 +388,10 @@ export default function ArticlePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/yamagata/"
+                href="/prefectures/ishikawa/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                山形県の宿・温泉
+                石川県の宿・温泉
               </Link>
               <Link
                 href="/prefectures/mie/"
@@ -420,11 +420,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">山中温泉ひとり旅・鶴仙渓おこもり：芭蕉も称賛の名湯・あやとり橋・加賀会席！大聖寺川の渓谷美と山中漆器の街でととのう厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「山中温泉ひとり旅・鶴仙渓おこもり：芭蕉も称賛の名湯・あやとり橋・加賀会席！大聖寺川の渓谷美と山中漆器の街でととのう厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「山中温泉ひとり旅・鶴仙渓おこもり：芭蕉も称賛の名湯・あやとり橋・加賀会席！大聖寺川の渓谷美と山中漆器の街でととのう厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -488,7 +488,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/67124/67124_gen.jpg" alt="山中温泉　吉祥やまなか 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>清流と名湯、美食に包まれるラグジュアリー宿。山中温泉の文化に触れ、心ほどける静寂の滞在。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県加賀市山中温泉東町1-ホ14-3 ／ 最寄り駅：加賀温泉 ／ 交通案内：加賀温泉駅・小松空港から無料送迎あり（要予約/定時便）【車】加賀ICより14分。金沢・福井へは車で1時間</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県加賀市山中温泉東町1-ホ14-3 ／ 最寄り駅：加賀温泉 ／ 交通案内：加賀温泉駅・小松空港から無料送迎あり（要予約/定時便）【車】加賀ICより14分。金沢・福井へは車で1時間</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有（無料）２０台　※正面玄関前にお越しください。スタッフがご案内いたします。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.77 ／ 立地 ★4.51 ／ 部屋 ★4.54 ／ 設備 ★4.61 ／ 風呂 ★4.67 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -510,7 +510,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/40312/40312_ya.jpg" alt="山中温泉　白鷺湯たわらや 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【2023年4月・露天風呂付特別室OPEN】創業800年/老舗/渓流露天風呂/蟹/のどぐろ/能登牛</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県加賀市山中温泉東町２丁目ヘ-1 ／ 最寄り駅：加賀温泉 ／ 交通案内：ＪＲ加賀温泉駅からバスで山中温泉バスターミナル２５分。さらに徒歩３分。（無料送迎有。要予約１４：００～１８：００）。</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県加賀市山中温泉東町２丁目ヘ-1 ／ 最寄り駅：加賀温泉 ／ 交通案内：ＪＲ加賀温泉駅からバスで山中温泉バスターミナル２５分。さらに徒歩３分。（無料送迎有。要予約１４：００～１８：００）。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>８０台分有り（無料）　※スタッフが場所をご案内しますので、正面玄関まで車をお寄せくださいませ。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.59 ／ 立地 ★4.42 ／ 部屋 ★4.37 ／ 設備 ★4.34 ／ 風呂 ★4.55 ／ 食事 ★4.62</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -532,7 +532,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/196302/196302.jpg" alt="山中温泉河鹿荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>山中温泉街の中心に位置。名湯と四季の渓流美に癒される空間をご提供いたします。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 石川県加賀市山中温泉河鹿町ホ-100 ／ 最寄り駅：加賀温泉 ／ 交通案内：ＪＲ北陸本線　加賀温泉駅より車で約２０分</p>
+                  <p><strong>【所在地・アクセス】</strong>石川県加賀市山中温泉河鹿町ホ-100 ／ 最寄り駅：加賀温泉 ／ 交通案内：ＪＲ北陸本線　加賀温泉駅より車で約２０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７５台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.36 ／ 立地 ★4.27 ／ 部屋 ★4.34 ／ 設備 ★4.32 ／ 風呂 ★4.33</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

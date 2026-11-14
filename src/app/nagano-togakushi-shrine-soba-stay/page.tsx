@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">長野・戸隠＆飯綱高原：戸隠神社五社巡り・奥社杉並木＆日本三大戸隠そば宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「長野・戸隠＆飯綱高原：戸隠神社五社巡り・奥社杉並木＆日本三大戸隠そば宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「長野・戸隠＆飯綱高原：戸隠神社五社巡り・奥社杉並木＆日本三大戸隠そば宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -305,7 +305,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9370/9370_war.jpg" alt="旅館　横倉　宿坊（旧十輪院） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>戸隠神社中社近くにある茅葺屋根の宿坊旅館。土蔵造りのモダンな喫茶室もあるクラシックな宿です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県長野市戸隠中社3347 ／ 最寄り駅：長野 ／ 交通案内：JR長野駅より車・バスで1時間『戸隠中社宮前』下車</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県長野市戸隠中社3347 ／ 最寄り駅：長野 ／ 交通案内：JR長野駅より車・バスで1時間『戸隠中社宮前』下車</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　10台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -327,7 +327,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/18707/18707_r1.jpg" alt="黒姫高原　ホテル若月＜長野県＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>森と清流に恵まれた黒姫高原の宿「ホテル若月」広い敷地内で釣りやBBQも楽しめます♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県上水内郡信濃町黒姫高原 ／ 最寄り駅：黒姫 ／ 交通案内：しなの鉄道北しなの線・黒姫駅からバス【黒姫高原行き】若月前下車徒歩３分／上信越道・信濃町ＩＣから黒姫高原方面約５ｋｍ</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県上水内郡信濃町黒姫高原 ／ 最寄り駅：黒姫 ／ 交通案内：しなの鉄道北しなの線・黒姫駅からバス【黒姫高原行き】若月前下車徒歩３分／上信越道・信濃町ＩＣから黒姫高原方面約５ｋｍ</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -349,7 +349,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5208/5208_sgl.jpg" alt="ホテルナガノアベニュー 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>旅の疲れを癒すお風呂と本格サウナ！◇図書室マンガ約5000冊&amp;amp;地元情報誌沢山！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県長野市南千歳2-8-5 ／ 最寄り駅：長野 ／ 交通案内：JR長野駅（善光寺口）を出て駅を背にして長野大通りを右（北上）へまっすぐ徒歩7～8分◆上信越自動車道長野ICより３０分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県長野市南千歳2-8-5 ／ 最寄り駅：長野 ／ 交通案内：JR長野駅（善光寺口）を出て駅を背にして長野大通りを右（北上）へまっすぐ徒歩7～8分◆上信越自動車道長野ICより３０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>ホテルより徒歩4分TOiGOパーキング入庫より24時間出し入れなし800円（高さ制限2.1M）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -371,7 +371,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8447/8447_war.jpg" alt="宿坊旅館　大西 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>戸隠パワースポット巡りに最適◎戸隠神社中社徒歩3分の好立地！ 絶品手打ちそばと、心ほどけるひとときを</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県長野市戸隠3500 ／ 最寄り駅：長野 ／ 交通案内：長野道長野ICより車で1時間</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県長野市戸隠3500 ／ 最寄り駅：長野 ／ 交通案内：長野道長野ICより車で1時間</p>
                   <p>【長野・戸隠＆飯綱高原：戸隠神社五社巡り・奥社杉並木＆】 <strong>【駐車場・マイカー利用】</strong>有り　30台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

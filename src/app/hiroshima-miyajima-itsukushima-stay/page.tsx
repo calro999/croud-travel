@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">広島・宮島＆嚴島神社：海に浮かぶ大鳥居・弥山＆牡蠣・穴子飯宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「広島・宮島＆嚴島神社：海に浮かぶ大鳥居・弥山＆牡蠣・穴子飯宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「広島・宮島＆嚴島神社：海に浮かぶ大鳥居・弥山＆牡蠣・穴子飯宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -297,7 +297,7 @@ export default function MicroTouristHubPage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. リブマックスリゾート宮浜温泉Ｏｃｅａｎ</td>
-                <td className="p-3 text-stone-600">広島県</td>
+                <td className="p-3 text-stone-600">広島県廿日市市宮浜温泉2-13-10</td>
                 <td className="p-3 text-stone-600">山陽本線 [大野浦駅]から車で5分・[玖波駅]から車で5分・[宮島口駅</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.21（911件）</td>
@@ -323,7 +323,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/18848/18848_rm.jpg" alt="宮島グランドホテル　有もと 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>すべてはお客様の満足と笑顔のために。宮島の歴史とともに時を重ねる、世界遺産「厳島神社」に最も近い宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 広島県廿日市市宮島町南町364 ／ 最寄り駅：宮島口 ／ 交通案内：宮島口桟橋よりフェリーで１０分～宮島桟橋よりマイクロバスにて送迎</p>
+                  <p><strong>【所在地・アクセス】</strong>広島県廿日市市宮島町南町364 ／ 最寄り駅：宮島口 ／ 交通案内：宮島口桟橋よりフェリーで１０分～宮島桟橋よりマイクロバスにて送迎</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.72 ／ 立地 ★4.6 ／ 部屋 ★4.57 ／ 設備 ★4.45 ／ 風呂 ★4.43 ／ 食事 ★4.66</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/11125/11125_war.jpg" alt="宮島　神撰の宿　ホテルみや離宮 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>宮島観光に便利な立地！美味しいお料理とあったかいお風呂でリラックス♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 広島県廿日市市宮島町849 ／ 最寄り駅：宮島口 ／ 交通案内：ＪＲ山陽本線宮島口駅下車、宮島口桟橋よりフェリーで１０分。宮島桟橋下船後、厳島神社方面へ徒歩5分／厳島神社まで徒歩約7分</p>
+                  <p><strong>【所在地・アクセス】</strong>広島県廿日市市宮島町849 ／ 最寄り駅：宮島口 ／ 交通案内：ＪＲ山陽本線宮島口駅下車、宮島口桟橋よりフェリーで１０分。宮島桟橋下船後、厳島神社方面へ徒歩5分／厳島神社まで徒歩約7分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>交通規制があり駐車不可。乗船前に宮島口の駐車場をご利用下さい。（1泊約2000円）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/172823/172823.jpg" alt="安芸の御宿　みやじま庵廣島 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>炭酸水素イオンの自慢の美人の湯・サウナ・冷鉱泉の水風呂　宮島を見下ろす宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 広島県廿日市市宮島口4-4-15 ／ 最寄り駅：宮島口 ／ 交通案内：宮島口駅徒歩8分　宮島桟橋徒歩10分　山陽道(廿日市インター）</p>
+                  <p><strong>【所在地・アクセス】</strong>広島県廿日市市宮島口4-4-15 ／ 最寄り駅：宮島口 ／ 交通案内：宮島口駅徒歩8分　宮島桟橋徒歩10分　山陽道(廿日市インター）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>【専用無料駐車場有り】　チェクイン前チェクアウト後も駐車可能　キャンピングカーも駐車可能</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/17769/17769_sgl.jpg" alt="宮島コーラルホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>宮島フェリー乗り場まで徒歩約30秒！JR宮島口駅から徒歩５分！無料駐車場完備</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 広島県廿日市市宮島口1-9-8 ／ 最寄り駅：宮島口 ／ 交通案内：ＪＲ宮島口駅下車　徒歩5分・広島電鉄宮島口駅下車　徒歩３分</p>
+                  <p><strong>【所在地・アクセス】</strong>広島県廿日市市宮島口1-9-8 ／ 最寄り駅：宮島口 ／ 交通案内：ＪＲ宮島口駅下車　徒歩5分・広島電鉄宮島口駅下車　徒歩３分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　55台　到着日の15時〜出立日の正午まで無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.26 ／ 立地 ★4.4 ／ 部屋 ★4.21 ／ 設備 ★4.12 ／ 風呂 ★4.06 ／ 食事 ★4.29</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/129976/129976_kya.jpg" alt="宮島　ホテル菊乃家 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>２０２５年８月菊乃家別邸オープン。宮島の自然に囲まれひっそりと佇む、大人の隠れ家宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 広島県廿日市市宮島町335 ／ 最寄り駅：宮島口 ／ 交通案内：宮島桟橋より徒歩15分（ホテルより送迎あり。フェリー乗船前にお電話いただけましたらお迎えに参ります）</p>
+                  <p><strong>【所在地・アクセス】</strong>広島県廿日市市宮島町335 ／ 最寄り駅：宮島口 ／ 交通案内：宮島桟橋より徒歩15分（ホテルより送迎あり。フェリー乗船前にお電話いただけましたらお迎えに参ります）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場なし（フェリーご乗船前の一般の駐車場にお止めください）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.56 ／ 立地 ★4.32 ／ 部屋 ★4.47 ／ 設備 ★4.3 ／ 風呂 ★4.2 ／ 食事 ★4.36</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -432,8 +432,8 @@ export default function MicroTouristHubPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/178590/178590.jpg" alt="リブマックスリゾート宮浜温泉Ｏｃｅａｎ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「広島・宮島＆嚴島神社（海に浮かぶ大鳥居・弥山＆牡蠣・穴子飯宿 厳選ガイド）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：山陽本線 [大野浦駅]から車で5分・[玖波駅]から車で5分・[宮島口駅]から車で15分　岩国空港から車で30分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>【2019年OPEN】宮島を望む全室天然温泉＆オーシャンビュー露天風呂付スパ＆リゾートホテル</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：山陽本線 [大野浦駅]から車で5分・[玖波駅]から車で5分・[宮島口駅]から車で15分　岩国空港から車で30分</p>
                   <p>【広島・宮島＆嚴島神社：海に浮かぶ大鳥居・弥山＆牡蠣・】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

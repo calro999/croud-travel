@@ -77,7 +77,7 @@ export default function ArticlePage() {
             神奈川・箱根仙石原温泉ひとり旅＆高原アートリゾートおこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「箱根仙石原温泉ひとり旅・ススキ草原白濁おこもり」黄金色のススキ・大涌谷引湯白濁露天・極上フレンチ！標高700mの高原アートリゾート厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               箱根山カルデラの北部に広がる仙石原高原。箱根湿生花園やポーラ美術館、箱根ガラスの森美術館など洗練されたアートスポットが集まり、大涌谷から引湯された乳白色の温泉と澄み切った高原の空気が、都会の喧騒を完全に遮断してくれます。
             </p>
             <p>
-              美食家垂涎のオーベルジュから、文人たちに愛されてきた歴史ある白濁湯の名旅館まで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              美食家垂涎のオーベルジュから、文人たちに愛されてきた歴史ある白濁湯の名旅館まで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -420,11 +420,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">箱根仙石原温泉ひとり旅・ススキ草原白濁おこもり：黄金色のススキ・大涌谷引湯白濁露天・極上フレンチ！標高700mの高原アートリゾート厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「箱根仙石原温泉ひとり旅・ススキ草原白濁おこもり：黄金色のススキ・大涌谷引湯白濁露天・極上フレンチ！標高700mの高原アートリゾート厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「箱根仙石原温泉ひとり旅・ススキ草原白濁おこもり：黄金色のススキ・大涌谷引湯白濁露天・極上フレンチ！標高700mの高原アートリゾート厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -488,7 +488,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/182748/182748.jpg" alt="ＴＨＥ　ＨＩＲＡＭＡＴＳＵ　ＨＯＴＥＬＳ　＆　ＲＥＳＯＲＴＳ　仙石原 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【全室源泉掛け流し】ひらまつがお贈りする贅をつくした料理と温かいおもてなしの「滞在するレストラン」。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県足柄下郡箱根町仙石原1245-337 ／ 最寄り駅：箱根湯本 ／ 交通案内：箱根湯本駅からバスで約35分</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県足柄下郡箱根町仙石原1245-337 ／ 最寄り駅：箱根湯本 ／ 交通案内：箱根湯本駅からバスで約35分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.88 ／ 立地 ★4.88 ／ 部屋 ★4.82 ／ 設備 ★4.88 ／ 風呂 ★4.88 ／ 食事 ★4.88</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -510,7 +510,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/29177/29177_food1.jpg" alt="仙石原温泉　仙郷楼 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>創業明治３年。数々のお風呂に女性を美しくする白い酸性石膏泉が溢れています。箱根仙石原の高台です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県足柄下郡箱根町仙石原1284 ／ 最寄り駅：箱根湯本 ／ 交通案内：箱根湯本駅／ＪＲ小田原駅より桃源台行箱根登山バスで仙郷楼前下車／東名高速御殿場ＩＣより138号線で15㎞（約15分）</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県足柄下郡箱根町仙石原1284 ／ 最寄り駅：箱根湯本 ／ 交通案内：箱根湯本駅／ＪＲ小田原駅より桃源台行箱根登山バスで仙郷楼前下車／東名高速御殿場ＩＣより138号線で15㎞（約15分）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -532,7 +532,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8968/8968_twn.jpg" alt="仙石原温泉　箱根ホテル花月園 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>自家源泉の天然温泉（大浴場）と、大涌谷からの硫黄泉を供給する「貸切風呂」が楽しめる高原のホテル</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 神奈川県足柄下郡箱根町仙石原イタリ1244-2 ／ 最寄り駅：小田原 ／ 交通案内：東名高速御殿場ＩＣより１３８号線で箱根方面へ。仙石原交差点（県道75号線分岐）を芦ノ湖方面へ。</p>
+                  <p><strong>【所在地・アクセス】</strong>神奈川県足柄下郡箱根町仙石原イタリ1244-2 ／ 最寄り駅：小田原 ／ 交通案内：東名高速御殿場ＩＣより１３８号線で箱根方面へ。仙石原交差点（県道75号線分岐）を芦ノ湖方面へ。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

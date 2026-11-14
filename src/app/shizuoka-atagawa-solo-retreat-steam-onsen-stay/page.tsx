@@ -77,7 +77,7 @@ export default function ArticlePage() {
             静岡・熱川温泉ひとり旅＆東伊豆自噴湯けむりおこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「東伊豆・熱川温泉ひとり旅・自噴湯けむりおこもり」自家源泉100度超・六つの貸切露天風呂・金目鯛姿煮！伊豆急直通の海辺厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               平安時代に太田道灌が手負いの猿が湯浴みしているのを見て発見したと伝わる熱川温泉。約100度の熱湯が自噴する豊富な湯量を誇り、ナトリウム・カルシウム-塩化物・硫酸塩泉は保温・保湿に優れ、冷え性や日々の疲労を根底から解きほぐします。眼前に広がる相模灘の水平線と波音、脂の乗った金目鯛の煮付けが一人旅の五感を深く満たします。
             </p>
             <p>
-              プライベート感満点の貸切風呂巡りができる上質宿から、海一望の絶景パノラマ露天風呂を備えた名門リゾートまで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              プライベート感満点の貸切風呂巡りができる上質宿から、海一望の絶景パノラマ露天風呂を備えた名門リゾートまで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -423,11 +423,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">東伊豆・熱川温泉ひとり旅・自噴湯けむりおこもり：自家源泉100度超・六つの貸切露天風呂・金目鯛姿煮！伊豆急直通の海辺厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「東伊豆・熱川温泉ひとり旅・自噴湯けむりおこもり：自家源泉100度超・六つの貸切露天風呂・金目鯛姿煮！伊豆急直通の海辺厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「東伊豆・熱川温泉ひとり旅・自噴湯けむりおこもり：自家源泉100度超・六つの貸切露天風呂・金目鯛姿煮！伊豆急直通の海辺厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -491,7 +491,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/28425/28425_f.jpg" alt="伊豆熱川温泉　六つの貸切風呂を湯めぐり　ふたりの湯宿　湯花満開 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2023年12月半露天風呂付き客室誕生！6つの源泉掛け流し温泉、海の幸のお食事が人気。伊豆熱川駅5分</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県賀茂郡東伊豆町奈良本987-1 ／ 最寄り駅：伊豆熱川 ／ 交通案内：伊豆急行線・伊豆熱川温泉駅／Ｒ１３５を通り、熱海から約１時間。伊豆熱川駅から海へ徒歩３～５分。当館海側に無料駐車場あり。</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県賀茂郡東伊豆町奈良本987-1 ／ 最寄り駅：伊豆熱川 ／ 交通案内：伊豆急行線・伊豆熱川温泉駅／Ｒ１３５を通り、熱海から約１時間。伊豆熱川駅から海へ徒歩３～５分。当館海側に無料駐車場あり。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　※予備駐車場あり</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -513,7 +513,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1222/1222_k1.jpg" alt="熱川温泉　熱川プリンスホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【星4.5】個性豊かな12の湯船と天空露天風呂、 空と海との一体感が味わえる魅力が光る贅沢宿！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県賀茂郡東伊豆町奈良本1248-3 ／ 最寄り駅：伊豆熱川 ／ 交通案内：東京駅から乗換なしでスムーズ♪直通電車「踊り子号」を利用すれば、最短1時間40分で到着！伊豆熱川駅徒歩10分。送迎有</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県賀茂郡東伊豆町奈良本1248-3 ／ 最寄り駅：伊豆熱川 ／ 交通案内：東京駅から乗換なしでスムーズ♪直通電車「踊り子号」を利用すれば、最短1時間40分で到着！伊豆熱川駅徒歩10分。送迎有</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　　50台　　1泊　　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -535,7 +535,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/13731/13731_f1.jpg" alt="伊豆熱川　自家源泉　おもてなしの宿　みはるや 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>美食と源泉掛け流しに癒される、わずか10室の静かな湯宿。伊豆唯一の砂風呂も備える</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県賀茂郡東伊豆町奈良本971-1 ／ 最寄り駅：伊豆熱川 ／ 交通案内：伊豆熱川駅より徒歩1分／東名高速道路厚木ＩＣより熱海経由約２時間半</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県賀茂郡東伊豆町奈良本971-1 ／ 最寄り駅：伊豆熱川 ／ 交通案内：伊豆熱川駅より徒歩1分／東名高速道路厚木ＩＣより熱海経由約２時間半</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１0台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

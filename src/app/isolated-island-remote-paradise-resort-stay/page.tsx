@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/isolated-island-remote-paradise-resort-stay/"
   };
 
@@ -270,23 +270,6 @@ export default function Page() {
             ))}
           </div>
         </section>
-
-        {/* 旅のQ&A */}
-        <section className="bg-white rounded-2xl p-6 md:p-8 border border-stone-200 shadow-sm space-y-4">
-          <h2 className="text-lg md:text-xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">よくある質問・失敗しない宿選び</h2>
-          <div className="space-y-4 text-sm">
-            <div className="border border-stone-100 rounded-xl p-4 bg-stone-50/50 space-y-2">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5"><span className="text-emerald-700 font-black">Q.</span> おすすめの予約時期やタイミングは？</h3>
-              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">人気の日程（連休や週末）は1〜2ヶ月前には満室になることが多いため、早期予約（早割プラン）の利用がおすすめです。また楽天トラベルの「5と0のつく日」キャンペーンを活用すると最大20%オフのクーポンが併用でき、最もお得に予約できます。
-              </p>
-            </div>
-            <div className="border border-stone-100 rounded-xl p-4 bg-stone-50/50 space-y-2">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5"><span className="text-emerald-700 font-black">Q.</span> 宿選びで失敗しないためのポイントは？</h3>
-              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">宿泊者レビューのお風呂・お食事・接客評価が4.3以上の宿を選ぶと満足度が非常に高くなります。またアクセス手段（送迎バスの有無など）やプランに含まれる特典を事前に確認しておくと安心です。
-              </p>
-            </div>
-          </div>
-        </section>
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
@@ -416,11 +399,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：青い海と島時間に包まれる！日本の秘境・離島リゾート＆隠れ家温泉宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：青い海と島時間に包まれる！日本の秘境・離島リゾート＆隠れ家温泉宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：青い海と島時間に包まれる！日本の秘境・離島リゾート＆隠れ家温泉宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -440,7 +423,7 @@ export default function Page() {
               <tbody className="divide-y divide-stone-200">
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 伊計島温泉　AJリゾートアイランド伊計島</td>
-                <td className="p-3 text-stone-600">茨城県</td>
+                <td className="p-3 text-stone-600">沖縄県うるま市与那城伊計1286</td>
                 <td className="p-3 text-stone-600">那覇空港から沖縄自動車道利用で約９０分（沖縄北ＩＣより海中道路県道１０</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.18（1188件）</td>
@@ -501,8 +484,8 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/145332/145332.jpg" alt="伊計島温泉　AJリゾートアイランド伊計島 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「青い海と島時間に包まれる（日本の秘境・離島リゾート＆隠れ家温泉宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：那覇空港から沖縄自動車道利用で約９０分（沖縄北ＩＣより海中道路県道１０号経由約５０分）</p>
+                  <p><strong>【宿の特徴・魅力】</strong>2026年で比較したい各宿のロケーション・駐車場・料金詳細は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：那覇空港から沖縄自動車道利用で約９０分（沖縄北ＩＣより海中道路県道１０号経由約５０分）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -524,7 +507,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/44874/44874_yso.jpg" alt="ベイリゾートホテル小豆島 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>◆全室オーシャンビュー◆自家源泉の最上階展望露天風呂＆個室貸切露天風呂が魅力★</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 香川県小豆郡小豆島町古江乙16-3 ／ 最寄り駅：坂出 ／ 交通案内：（車）坂手港3分/福田港30分/土庄港30分/草壁港10分/池田港20分★大部港以外の無料送迎有（2日前までに予約要）</p>
+                  <p><strong>【所在地・アクセス】</strong>香川県小豆郡小豆島町古江乙16-3 ／ 最寄り駅：坂出 ／ 交通案内：（車）坂手港3分/福田港30分/土庄港30分/草壁港10分/池田港20分★大部港以外の無料送迎有（2日前までに予約要）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.4 ／ 立地 ★4.48 ／ 部屋 ★4.25 ／ 設備 ★4.11 ／ 風呂 ★4.28 ／ 食事 ★4.23</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -546,7 +529,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/54209/54209_k.jpg" alt="熱海温泉　ホテル大野屋（伊東園ホテルズ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>４本の自家源泉を所有し、３００人同時入浴可能なローマ風呂など、大小９ヶ所自慢のお風呂がございます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県熱海市和田浜南町3-9 ／ 最寄り駅：主要駅 ／ 交通案内：熱海駅より路線バス（乗り場７）にて、「マリンスパあたみ」下車　／　車で「長泉IC」から伊豆縦貫・函熱道路で６０分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県熱海市和田浜南町3-9 ／ 交通案内：熱海駅より路線バス（乗り場７）にて、「マリンスパあたみ」下車　／　車で「長泉IC」から伊豆縦貫・函熱道路で６０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -568,7 +551,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/75267/75267_wa.jpg" alt="熱海温泉　ウオミサキホテル（伊東園ホテルズ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>熱海港前、熱海の旅を満喫できる宿ウオミサキホテル。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県熱海市和田浜南町7-2 ／ 最寄り駅：熱海 ／ 交通案内：ＪＲ東海道新幹線　熱海駅よりバスに乗車、マリンスパあたみ下車で徒歩1分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県熱海市和田浜南町7-2 ／ 最寄り駅：熱海 ／ 交通案内：ＪＲ東海道新幹線　熱海駅よりバスに乗車、マリンスパあたみ下車で徒歩1分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.74 ／ 立地 ★3.9 ／ 部屋 ★3.66 ／ 設備 ★3.52 ／ 風呂 ★3.82 ／ 食事 ★3.7</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -590,7 +573,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/44112/44112_da.jpg" alt="熱海温泉　アタミシーズンホテル（伊東園ホテルズ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ゆったりとした時間の流れ、熱海の風、洗練された大人の空間。 ご夕食時間90分飲み放題付</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県熱海市咲見町6-1 ／ 最寄り駅：熱海 ／ 交通案内：JR  熱海駅より車で５分、徒歩１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県熱海市咲見町6-1 ／ 最寄り駅：熱海 ／ 交通案内：JR  熱海駅より車で５分、徒歩１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１３台　無料　予約不要（満車の場合は近隣の市営駐車場（ホテルより徒歩約10分）ご案内）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.86 ／ 立地 ★3.74 ／ 部屋 ★3.94 ／ 設備 ★3.69 ／ 風呂 ★3.77 ／ 食事 ★3.94</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -601,6 +584,9 @@ export default function Page() {
             </div>
           </div></section>
 
+              <div className="my-8">
+          <ShareButtons title="【2026年】青い海と島時間に包まれる！日本の秘境・離島リゾート＆隠れ家温泉宿5選" url="https://croud-travel.pages.dev/isolated-island-remote-paradise-resort-stay/" />
+        </div>
       </main>
     
       <HubRelatedPosts currentSlug="isolated-island-remote-paradise-resort-stay" />

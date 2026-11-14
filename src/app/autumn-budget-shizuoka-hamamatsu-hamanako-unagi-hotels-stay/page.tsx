@@ -285,11 +285,11 @@ export default function AutumnBudgetHamamatsuHotelsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">浜松・浜名湖：秋の旬うなぎと湖畔の絶景夕陽！格安・高コスパホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「浜松・浜名湖：秋の旬うなぎと湖畔の絶景夕陽！格安・高コスパホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「浜松・浜名湖：秋の旬うなぎと湖畔の絶景夕陽！格安・高コスパホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -371,7 +371,7 @@ export default function AutumnBudgetHamamatsuHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/210/210_room.jpg" alt="富士宮　富士急ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>富士宮駅目の前！ビジネスや観光の拠点に！富士宮焼きそば等、地元食材を取り入れた無料朝食バイキング！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県富士宮市中央町15-18 ／ 最寄り駅：富士宮 ／ 交通案内：ＪＲ身延線富士宮駅北口から徒歩約２分。 東海道新幹線新富士駅下車、車で４０分（駐車場は先着順・約30台収容）</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県富士宮市中央町15-18 ／ 最寄り駅：富士宮 ／ 交通案内：ＪＲ身延線富士宮駅北口から徒歩約２分。 東海道新幹線新富士駅下車、車で４０分（駐車場は先着順・約30台収容）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有（先着順）30台 有料  乗用車1泊1台600円(税込)。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.87 ／ 立地 ★3.93 ／ 部屋 ★3.76 ／ 設備 ★3.7 ／ 風呂 ★3.63 ／ 食事 ★3.95</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -393,7 +393,7 @@ export default function AutumnBudgetHamamatsuHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/619/619_sgl.jpg" alt="ハイセットホテル静岡インター 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>無料駐車場完備。静岡インターに最も近いホテル！うなぎご飯、ネギトロ、しらす、静岡茶など朝食が大好評！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県静岡市駿河区中村町322-1 ／ 最寄り駅：静岡 ／ 交通案内：お車で　東名静岡ＩＣ2分　新東名静岡ＳＡ２７分　ＪＲ静岡駅１０分　富士山空港３５分　久能山１９分　ツインメッセ１２分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県静岡市駿河区中村町322-1 ／ 最寄り駅：静岡 ／ 交通案内：お車で　東名静岡ＩＣ2分　新東名静岡ＳＡ２７分　ＪＲ静岡駅１０分　富士山空港３５分　久能山１９分　ツインメッセ１２分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>普通車まで無料でお停めいただけます。※大型車（2t車以上）は事前の申込みが必要です。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.12 ／ 立地 ★4.05 ／ 部屋 ★4.04 ／ 設備 ★3.94 ／ 風呂 ★3.92 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -415,7 +415,7 @@ export default function AutumnBudgetHamamatsuHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/859/859_room.jpg" alt="熱海温泉　月の栖　熱海聚楽ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【熱海温泉】楽天トラベルマイスター＆アワード受賞！お部屋へご用意する会席料理がクチコミ高評価！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県熱海市田原本町2-19 ／ 最寄り駅：熱海 ／ 交通案内：ＪＲ東海道線「熱海駅」～仲見世通り商店街を抜けて徒歩３分。高台に建つ和風旅館。海と街の景色が人気。露天風呂付客室3室有り</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県熱海市田原本町2-19 ／ 最寄り駅：熱海 ／ 交通案内：ＪＲ東海道線「熱海駅」～仲見世通り商店街を抜けて徒歩３分。高台に建つ和風旅館。海と街の景色が人気。露天風呂付客室3室有り</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（有料）１泊　1760円（税込）　お車は当館の玄関前に直接お寄せください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -437,7 +437,7 @@ export default function AutumnBudgetHamamatsuHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1222/1222_k1.jpg" alt="熱川温泉　熱川プリンスホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【星4.5】個性豊かな12の湯船と天空露天風呂、 空と海との一体感が味わえる魅力が光る贅沢宿！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県賀茂郡東伊豆町奈良本1248-3 ／ 最寄り駅：伊豆熱川 ／ 交通案内：東京駅から乗換なしでスムーズ♪直通電車「踊り子号」を利用すれば、最短1時間40分で到着！伊豆熱川駅徒歩10分。送迎有</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県賀茂郡東伊豆町奈良本1248-3 ／ 最寄り駅：伊豆熱川 ／ 交通案内：東京駅から乗換なしでスムーズ♪直通電車「踊り子号」を利用すれば、最短1時間40分で到着！伊豆熱川駅徒歩10分。送迎有</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　　50台　　1泊　　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -459,7 +459,7 @@ export default function AutumnBudgetHamamatsuHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1307/1307_heya.jpg" alt="下田温泉　黒船ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【全室オーシャンビュー】離れや客室露天風呂、プールをご堪能。伊豆・下田温泉の味覚に舌鼓。ペット可！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県下田市柿崎3-8 ／ 最寄り駅：伊豆急下田 ／ 交通案内：伊豆急線「伊豆急下田駅」から徒歩13分、タクシーで3分。 車で沼津から当館まで伊豆縦貫道で90分。</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県下田市柿崎3-8 ／ 最寄り駅：伊豆急下田 ／ 交通案内：伊豆急線「伊豆急下田駅」から徒歩13分、タクシーで3分。 車で沼津から当館まで伊豆縦貫道で90分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>当館の駐車場は建物の地下部分にございます。(高さ制限2.3ｍ/狭めのスペース/台数制限有り/無料)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

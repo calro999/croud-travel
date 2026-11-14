@@ -228,11 +228,11 @@ export default function LuxuryPremiumHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">客室プライベートプール付きオールスイートヴィラ：沖縄・奄美・宮古・関東 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「客室プライベートプール付きオールスイートヴィラ：沖縄・奄美・宮古・関東 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「客室プライベートプール付きオールスイートヴィラ：沖縄・奄美・宮古・関東 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -314,7 +314,7 @@ export default function LuxuryPremiumHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/168769/168769.jpg" alt="ホテルシギラミラージュ＜宮古島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>旅人を魅了する蒼の楽園 ～二つとして同じ色のない幻想の世界へ～</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県宮古島市上野新里1405-201 ／ 最寄り駅：宮古空港 ／ 交通案内：宮古空港ーホテル：シャトルバス空港カウンター受付（１０時ー１７時３０分）、下地島空港ーホテル：公式サイトをご確認ください</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県宮古島市上野新里1405-201 ／ 最寄り駅：宮古空港 ／ 交通案内：宮古空港ーホテル：シャトルバス空港カウンター受付（１０時ー１７時３０分）、下地島空港ーホテル：公式サイトをご確認ください</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -336,7 +336,7 @@ export default function LuxuryPremiumHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/178390/178390_kan1.jpg" alt="石垣島ＴＨＥ　ＭＩＹＡＲＡ　ＧＡＲＤＥＮ（ザミヤラガーデン）＜石垣島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全棟130平米以上のスイートルーム！プライベートプール付一棟貸切リゾートヴィラ。バーベキューも♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県石垣市宮良1025-7 ／ 最寄り駅：石垣空港 ／ 交通案内：新石垣空港よりお車にて約１０分。空港と市街地の真ん中の便利な宮良地区です。</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県石垣市宮良1025-7 ／ 最寄り駅：石垣空港 ／ 交通案内：新石垣空港よりお車にて約１０分。空港と市街地の真ん中の便利な宮良地区です。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　施設合計６台　各棟２台まで　駐車料金は無料　予約不要。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -358,7 +358,7 @@ export default function LuxuryPremiumHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/171607/171607.jpg" alt="オーシャンビュー石垣　－　プール付き新築ヴィラ　＾ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>オーシャンビュー石垣のヴィラは海岸沿いに位置する為、各フロアからのオーシャンビューに加え、ビーチが近</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 沖縄県石垣市川平1216-627、681　オーシャンビュー石垣 ／ 最寄り駅：石垣空港 ／ 交通案内：石垣空港から車で約３０分</p>
+                  <p><strong>【所在地・アクセス】</strong>沖縄県石垣市川平1216-627、681　オーシャンビュー石垣 ／ 最寄り駅：石垣空港 ／ 交通案内：石垣空港から車で約３０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -380,7 +380,7 @@ export default function LuxuryPremiumHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7800/7800_hey.jpg" alt="伊豆河津浜　磯あるきの湯宿　潮雲 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2022年9月開業！河津浜を望み、磯歩きを愉しむ、全7室の湯宿。全ての部屋は温泉掛け流し露天風呂付。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県賀茂郡河津町浜357 ／ 最寄り駅：河津 ／ 交通案内：東名 厚木ＩＣより１５０分。伊豆急行「河津駅」より徒歩3分。</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県賀茂郡河津町浜357 ／ 最寄り駅：河津 ／ 交通案内：東名 厚木ＩＣより１５０分。伊豆急行「河津駅」より徒歩3分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り：7台（無料）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -402,7 +402,7 @@ export default function LuxuryPremiumHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9080/9080_room1.jpg" alt="伊豆一碧湖レイクサイドテラス 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>1つ1つ、独立した客室はまるで「家」！広々70平米以上の客室は大人数利用にもおすすめ♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県伊東市吉田839-91 ／ 最寄り駅：伊東 ／ 交通案内：東京方面：小田原厚木道小田原東ICより約90分／名古屋方面：東名沼津ICより約90分／伊豆急川奈駅より送迎有り（要予約）</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県伊東市吉田839-91 ／ 最寄り駅：伊東 ／ 交通案内：東京方面：小田原厚木道小田原東ICより約90分／名古屋方面：東名沼津ICより約90分／伊豆急川奈駅より送迎有り（要予約）</p>
                   <p>【客室プライベートプール付きオールスイートヴィラ：沖縄】 <strong>【駐車場・マイカー利用】</strong>有り　30台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

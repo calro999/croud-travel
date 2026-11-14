@@ -310,37 +310,6 @@ export default function Page() {
           </div>
         </section>
 
-        {/* よくある質問 FAQ */}
-        <section className="mb-16 bg-white rounded-2xl shadow-sm border border-emerald-900/10 p-6 md:p-8">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">よくある質問・サウナリゾートの楽しみ方</h2>
-          <div className="space-y-4">
-            
-            <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-emerald-700 font-serif font-black text-lg">Q.</span>
-                <span>絶景サウナのベストな時間帯はいつですか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
-                富士山ビューは空気が澄み渡る早朝の「紅富士」や日中、オーシャンビューは夕暮れのサンセットタイム、都市型ホテルは煌びやかな夜景が広がるナイトタイムが最もドラマチックでおすすめです。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-emerald-700 font-serif font-black text-lg">Q.</span>
-                <span>外気浴スペースにリクライニングチェア（ととのい椅子）は完備されていますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
-                特集している多くの施設では、インフィニティチェアや木製リクライニングベッドが絶景を正面に望む特等席に配置されており、最高のビューポジションでととのうことができます。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-emerald-700 font-serif font-black text-lg">Q.</span>
-                <span>日帰り利用も可能ですか、それとも宿泊者限定ですか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
-                一部の施設は日帰りスパとして利用可能ですが、混雑のない早朝や夕暮れのプライムタイムをゆったり満喫できる宿泊での滞在が圧倒的におすすめです。
-              </p>
-            </div>
-          </div>
-        </section>
-
         {/* 関連リンク */}
         <section className="bg-stone-200/70 rounded-2xl p-6 md:p-8 text-center border border-stone-300">
           <h3 className="text-xl font-bold text-stone-900 mb-3 font-serif">他のサウナ＆ウェルネス・癒しの宿を探す</h3>

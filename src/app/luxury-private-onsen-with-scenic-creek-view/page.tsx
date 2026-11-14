@@ -236,7 +236,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -681,11 +681,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：せせらぎがBGM。清流の息吹を感じる渓流沿い専用露天風呂付き極上宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：せせらぎがBGM。清流の息吹を感じる渓流沿い専用露天風呂付き極上宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：せせらぎがBGM。清流の息吹を感じる渓流沿い専用露天風呂付き極上宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -767,7 +767,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9340/9340_rote.jpg" alt="１１種類の貸切露天風呂　水上高原／奥利根温泉　ホテルサンバード 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>１１種の貸切露天風呂や滝を望む高台の露天風呂など湯めぐりを満喫！高原ＢＢＱプランも大人気！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県利根郡みなかみ町藤原4957-1 ／ 最寄り駅：水上 ／ 交通案内：車で関越自動車道・水上ＩＣから３０分・ＪＲで上越線　水上駅より　湯ノ小屋行きバスで藤原スキー場入口下車900M</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県利根郡みなかみ町藤原4957-1 ／ 最寄り駅：水上 ／ 交通案内：車で関越自動車道・水上ＩＣから３０分・ＪＲで上越線　水上駅より　湯ノ小屋行きバスで藤原スキー場入口下車900M</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り ３００台 無料 先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.03 ／ 立地 ★4.08 ／ 部屋 ★3.94 ／ 設備 ★3.75 ／ 風呂 ★4.19 ／ 食事 ★4.16</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -789,7 +789,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/68475/68475_w.jpg" alt="中ノ沢温泉　庭園露天風呂の宿　朝日屋旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>◎箕輪スキー場までお車で約10分！湯の香広がる極上の温泉は２４時間入浴可能！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県耶麻郡猪苗代町蚕養沼尻山甲2855-111 ／ 最寄り駅：猪苗代 ／ 交通案内：ＪＲ磐越西線　猪苗代駅より路線バスで３０分、又は車で２０分</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県耶麻郡猪苗代町蚕養沼尻山甲2855-111 ／ 最寄り駅：猪苗代 ／ 交通案内：ＪＲ磐越西線　猪苗代駅より路線バスで３０分、又は車で２０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★2.77 ／ 立地 ★3.12 ／ 部屋 ★3 ／ 設備 ★2.48 ／ 風呂 ★3.88</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -811,7 +811,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9536/9536_ky.jpg" alt="岩手　花巻温泉郷　鉛温泉　藤三旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2024年6月宮沢賢治をテーマにした「なめとこ山サウナ」がグランドオープン</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岩手県花巻市鉛中平75-1 ／ 最寄り駅：花巻 ／ 交通案内：新花巻駅より４０分・花巻駅より３０分（送迎バスあり、協力金：片道100円、予約必須）。花巻南ＩＣよりお車で２０分。</p>
+                  <p><strong>【所在地・アクセス】</strong>岩手県花巻市鉛中平75-1 ／ 最寄り駅：花巻 ／ 交通案内：新花巻駅より４０分・花巻駅より３０分（送迎バスあり、協力金：片道100円、予約必須）。花巻南ＩＣよりお車で２０分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　60台先着順無料　湯治部のご利用は第2駐車場をご利用ください</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.37 ／ 部屋 ★4.12 ／ 設備 ★4.11 ／ 風呂 ★4.64 ／ 食事 ★4.41</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -833,7 +833,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/147774/147774_room.jpg" alt="鉛温泉「藤三旅館・別邸」心の刻　十三月 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全14室の露天風呂付き客室で、新日本百名湯の名湯と豊沢川を一望</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岩手県花巻市鉛中平75-1 ／ 最寄り駅：花巻 ／ 交通案内：ＪＲ　花巻駅よりお車にて約２０分,（送迎バスあり、協力金：片道100円、予約必須）</p>
+                  <p><strong>【所在地・アクセス】</strong>岩手県花巻市鉛中平75-1 ／ 最寄り駅：花巻 ／ 交通案内：ＪＲ　花巻駅よりお車にて約２０分,（送迎バスあり、協力金：片道100円、予約必須）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１４台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.46 ／ 立地 ★4.46 ／ 部屋 ★4.46 ／ 設備 ★4.54 ／ 風呂 ★4.61 ／ 食事 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -855,7 +855,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2948/2948_bas1.jpg" alt="四万温泉　柏屋旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2つの露天風呂付き客室、3つの無料貸切風呂、チェックアウト12時。カップルや記念日におすすめの小宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県吾妻郡中之条町四万3829 ／ 最寄り駅：中之条 ／ 交通案内：車：関越道渋川伊香保ICよりR17、353を四万温泉方面６０分。電車：中之条駅から四万温泉行バス３５分、清流の湯入口下車</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県吾妻郡中之条町四万3829 ／ 最寄り駅：中之条 ／ 交通案内：車：関越道渋川伊香保ICよりR17、353を四万温泉方面６０分。電車：中之条駅から四万温泉行バス３５分、清流の湯入口下車</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　15台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

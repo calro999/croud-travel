@@ -236,7 +236,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -681,11 +681,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：挽きたて・打ちたて・茹でたて！信州手打ち蕎麦会席＆北アルプス展望温泉宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：挽きたて・打ちたて・茹でたて！信州手打ち蕎麦会席＆北アルプス展望温泉宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：挽きたて・打ちたて・茹でたて！信州手打ち蕎麦会席＆北アルプス展望温泉宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -767,7 +767,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/6064/6064_bath.jpg" alt="信州別所温泉　旅宿　上松や 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>楽天トラベルアワード7年連続受賞！（2025 シルバーアワード）</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県上田市別所温泉1628 ／ 最寄り駅：別所温泉 ／ 交通案内：JR北陸新幹線上田駅にて上田電鉄別所線に乗換、終点別所温泉駅より徒歩10分。</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県上田市別所温泉1628 ／ 最寄り駅：別所温泉 ／ 交通案内：JR北陸新幹線上田駅にて上田電鉄別所線に乗換、終点別所温泉駅より徒歩10分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.61 ／ 立地 ★4.28 ／ 部屋 ★4.34 ／ 設備 ★4.26 ／ 風呂 ★4.58 ／ 食事 ★4.7</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -789,7 +789,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/15864/15864_heya.jpg" alt="信州別所温泉　玉屋旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>湯のまちの美食宿。和モダンに設えた和洋室と信州プレミアム牛肉の会席料理。源泉掛け流しの美人の湯を堪能</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県上田市別所温泉227 ／ 最寄り駅：上田（長野） ／ 交通案内：北陸新幹線上田駅乗り換え、別所温泉駅より徒歩7分（14時～17時は無料送迎バス有）、上信越道「上田菅平IC」から車30分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県上田市別所温泉227 ／ 最寄り駅：上田（長野） ／ 交通案内：北陸新幹線上田駅乗り換え、別所温泉駅より徒歩7分（14時～17時は無料送迎バス有）、上信越道「上田菅平IC」から車30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.74 ／ 立地 ★4.48 ／ 部屋 ★4.71 ／ 設備 ★4.66 ／ 風呂 ★4.63 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -811,7 +811,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/38989/38989_kya.jpg" alt="信州安曇野穂高温泉郷　旅館　山のたこ平 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>信州安曇野を味わい尽くすお料理★エリア随一の広々とした温泉★松本上高地や白馬へのアクセス良好</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県安曇野市穂高有明8969 ／ 最寄り駅：有明（長野） ／ 交通案内：長野自動車道安曇野ICより車で２０分、JR穂高駅より車で１５分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県安曇野市穂高有明8969 ／ 最寄り駅：有明（長野） ／ 交通案内：長野自動車道安曇野ICより車で２０分、JR穂高駅より車で１５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　1００台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -833,7 +833,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/38902/38902_hu.jpg" alt="信州鹿教湯温泉　愛犬と泊まれる温泉宿　鹿鳴荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>■ワンちゃんといつも一緒■当館の看板犬シェリがおもてなし★温泉街中心に位置するカフェ併設の旅館です！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県上田市鹿教湯温泉1422 ／ 最寄り駅：上田（長野） ／ 交通案内：ＪＲ長野新幹線　上田駅より車で３０分／ＪＲ　松本駅より車で３０分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県上田市鹿教湯温泉1422 ／ 最寄り駅：上田（長野） ／ 交通案内：ＪＲ長野新幹線　上田駅より車で３０分／ＪＲ　松本駅より車で３０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　すべて可能</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.43 ／ 立地 ★3.97 ／ 部屋 ★3.93 ／ 設備 ★3.8 ／ 風呂 ★4.4 ／ 食事 ★4.5</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -855,7 +855,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/38930/38930_ni.jpg" alt="信州松本　美ヶ原温泉　翔峰 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>楽天アワード2021受賞★松本エリア唯一の5つ星の宿◆北アルプスと松本城下町を一望！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県松本市里山辺527 ／ 最寄り駅：松本 ／ 交通案内：ＪＲ　松本駅から車で20分／松本駅前バスターミナルより美ヶ原温泉行きのバスで20分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県松本市里山辺527 ／ 最寄り駅：松本 ／ 交通案内：ＪＲ　松本駅から車で20分／松本駅前バスターミナルより美ヶ原温泉行きのバスで20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.63 ／ 立地 ★4.59 ／ 部屋 ★4.56 ／ 設備 ★4.54 ／ 風呂 ★4.64 ／ 食事 ★4.66</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

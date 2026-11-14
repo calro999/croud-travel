@@ -234,11 +234,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">宮城・松島＆塩竈：日本三景松島・塩竈生マグロ＆焼き牡蠣温泉宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「宮城・松島＆塩竈：日本三景松島・塩竈生マグロ＆焼き牡蠣温泉宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「宮城・松島＆塩竈：日本三景松島・塩竈生マグロ＆焼き牡蠣温泉宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -329,7 +329,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/29538/29538_kw.jpg" alt="松島温泉　ホテル絶景の館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>お部屋から刻々変化する180°のパノラマを体験しませんか</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮城県宮城郡松島町松島東浜4-6 ／ 最寄り駅：松島海岸 ／ 交通案内：仙石線 松島海岸駅・東北本線　松島駅　（15：00～21：00まで送迎有・予約不可）／三陸道松島ICより１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>宮城県宮城郡松島町松島東浜4-6 ／ 最寄り駅：松島海岸 ／ 交通案内：仙石線 松島海岸駅・東北本線　松島駅　（15：00～21：00まで送迎有・予約不可）／三陸道松島ICより１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料　４０台</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -351,7 +351,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4964/4964_roten.jpg" alt="松島温泉　松島センチュリーホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>日本三景松島の中心部に位置し、主な観光施設へは徒歩圏内。目の前に広がる松島湾の風景は最高の贅沢。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮城県宮城郡松島町松島字仙随８番地 ／ 最寄り駅：松島海岸 ／ 交通案内：ＪＲ仙石線松島海岸駅下車徒歩10分、ＪＲ東北本線松島駅下車徒歩15分</p>
+                  <p><strong>【所在地・アクセス】</strong>宮城県宮城郡松島町松島字仙随８番地 ／ 最寄り駅：松島海岸 ／ 交通案内：ＪＲ仙石線松島海岸駅下車徒歩10分、ＪＲ東北本線松島駅下車徒歩15分</p>
                   <p>【宮城・松島＆塩竈：日本三景松島・塩竈生マグロ＆焼き牡】 <strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -373,7 +373,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2047/2047_bas.jpg" alt="松島温泉　ホテル大松荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>松島海岸駅から徒歩１分、天然温泉とおいしいお料理でおもてなしいたします。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮城県宮城郡松島町松島字町内25 ／ 最寄り駅：松島海岸 ／ 交通案内：ＪＲ松島海岸駅より徒歩１分。東北自動車道仙台南IC～南部道路～三陸自動車道　松島海岸ICより３分</p>
+                  <p><strong>【所在地・アクセス】</strong>宮城県宮城郡松島町松島字町内25 ／ 最寄り駅：松島海岸 ／ 交通案内：ＪＲ松島海岸駅より徒歩１分。東北自動車道仙台南IC～南部道路～三陸自動車道　松島海岸ICより３分</p>
                   <p>【宮城・松島＆塩竈：日本三景松島・塩竈生マグロ＆焼き牡】 <strong>【駐車場・マイカー利用】</strong>有り　50台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -395,7 +395,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/51231/51231_room.jpg" alt="松島温泉　パレス松洲 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全室から松島の絶景が楽しめる小さなリゾートホテル。三陸の旬と寛ぎの時間をリーズナブルに提供します。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮城県宮城郡松島町高城浜38 ／ 最寄り駅：松島 ／ 交通案内：ＪＲ松島駅より徒歩10分　東北本線松島駅、仙石線松島海岸駅・高城町駅より送迎あり　三陸自動車道　松島海岸ＩＣより15分</p>
+                  <p><strong>【所在地・アクセス】</strong>宮城県宮城郡松島町高城浜38 ／ 最寄り駅：松島 ／ 交通案内：ＪＲ松島駅より徒歩10分　東北本線松島駅、仙石線松島海岸駅・高城町駅より送迎あり　三陸自動車道　松島海岸ＩＣより15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り 80台 無料 予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -417,7 +417,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/51699/51699_room.jpg" alt="ホテルグランドパレス塩釜 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ＪＲ本塩釜駅より徒歩３分の便利さ！！ビジネス・観光に最適！宴会場・レストランも充実！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮城県塩釜市尾島町3-5 ／ 最寄り駅：本塩釜 ／ 交通案内：ＪＲ仙石線　本塩釜駅より徒歩3分</p>
+                  <p><strong>【所在地・アクセス】</strong>宮城県塩釜市尾島町3-5 ／ 最寄り駅：本塩釜 ／ 交通案内：ＪＲ仙石線　本塩釜駅より徒歩3分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　46台　無料　※大型車は要事前連絡。状況により、大型車はお断りさせて頂く場合あり。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -439,7 +439,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/15104/15104_kya.jpg" alt="スマイルホテル塩釜 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>寿司の町塩釜に位置し、お車でなら松島、多賀城、利府にも便利。全館有線ＬＡＮ＆Ｗｉ－Ｆｉ使用可能！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 宮城県塩竈市新富町18-31 ／ 最寄り駅：本塩釜 ／ 交通案内：JR仙石線「本塩釜駅」より車で4分 / 仙台港北ICまたは利府塩釜ICより10分 45号線沿い</p>
+                  <p><strong>【所在地・アクセス】</strong>宮城県塩竈市新富町18-31 ／ 最寄り駅：本塩釜 ／ 交通案内：JR仙石線「本塩釜駅」より車で4分 / 仙台港北ICまたは利府塩釜ICより10分 45号線沿い</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場完備（敷地外含む普通車65台）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -536,11 +536,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大銘石＆枯山水庭園・名湯宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本三大銘石＆枯山水庭園・名湯宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「日本三大銘石＆枯山水庭園・名湯宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -604,7 +604,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31586/31586_k.jpg" alt="小木温泉　旅館かもめ荘　＜佐渡島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>100％源泉かけ流し天然温泉×新鮮な魚介類を堪能♪港近くの静かな住宅地に建つペンション風の平屋建て。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 新潟県佐渡市小木町11-7 ／ 最寄り駅：直江津 ／ 交通案内：JR新潟駅→佐渡汽船新潟港～佐渡両津港→車で６０分。JR北陸本線直江津駅→佐渡汽船直江津港～小木港より徒歩１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>新潟県佐渡市小木町11-7 ／ 最寄り駅：直江津 ／ 交通案内：JR新潟駅→佐渡汽船新潟港～佐渡両津港→車で６０分。JR北陸本線直江津駅→佐渡汽船直江津港～小木港より徒歩１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　２０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -626,7 +626,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/71966/71966_kan.jpg" alt="養老温泉　滝元館　遊季の里 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>名古屋から車で60分、養老温泉の高台で絶景露天風呂を堪能。夜景と静寂を堪能する大人の温泉宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岐阜県養老郡養老町養老公園1290-167 ／ 最寄り駅：養老 ／ 交通案内：名神高速道路養老JCTより東海環状自動車道養老ICを降り石畑左折、養老公園東右折、養老の滝方面へ(名古屋方面）</p>
+                  <p><strong>【所在地・アクセス】</strong>岐阜県養老郡養老町養老公園1290-167 ／ 最寄り駅：養老 ／ 交通案内：名神高速道路養老JCTより東海環状自動車道養老ICを降り石畑左折、養老公園東右折、養老の滝方面へ(名古屋方面）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　11台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.27 ／ 立地 ★4.53 ／ 部屋 ★4.53 ／ 設備 ★4.13 ／ 風呂 ★4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -648,7 +648,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/73923/73923_bath.jpg" alt="嵐山温泉彩四季の宿　花筏 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>嵐山散策に便利な渡月橋南詰に位置し、嵐山温泉と京懐石が自慢の癒しの宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 京都府京都市西京区嵐山中尾下町57 ／ 最寄り駅：嵯峨嵐山 ／ 交通案内：阪急嵐山駅より徒歩５分（渡月橋渡らず）、ＪＲ嵯峨嵐山駅より徒歩約１５分(渡月橋渡る)。JR京都駅３０分、阪急梅田駅５０分</p>
+                  <p><strong>【所在地・アクセス】</strong>京都府京都市西京区嵐山中尾下町57 ／ 最寄り駅：嵯峨嵐山 ／ 交通案内：阪急嵐山駅より徒歩５分（渡月橋渡らず）、ＪＲ嵯峨嵐山駅より徒歩約１５分(渡月橋渡る)。JR京都駅３０分、阪急梅田駅５０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　要予約。最寄りICは大原野IC(花筏まで１５分）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.2 ／ 立地 ★4.48 ／ 部屋 ★4.2 ／ 設備 ★3.98 ／ 風呂 ★4.14 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

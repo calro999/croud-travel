@@ -326,11 +326,11 @@ export default function FurusatoUpgradedPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大山城・天空の城の雲海と歴史浪漫宿×ふるさと納税厳選ガイド竹田城・備中松山城・岩村城：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本三大山城・天空の城の雲海と歴史浪漫宿×ふるさと納税厳選ガイド竹田城・備中松山城・岩村城」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「日本三大山城・天空の城の雲海と歴史浪漫宿×ふるさと納税厳選ガイド竹田城・備中松山城・岩村城」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -393,8 +393,8 @@ export default function FurusatoUpgradedPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/145001/145001_room.jpg" alt="竹田城　城下町　ホテルＥＮ（えん） 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「日本三大山城・天空の城の雲海と歴史浪漫宿×ふるさと納税厳選ガイド竹田城・備中松山城・岩村城」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 兵庫県朝来市和田山町竹田上町西側363 ／ 最寄り駅：竹田（兵庫） ／ 交通案内：JR播但線　竹田駅より徒歩にて3分（駅より250ｍ）</p>
+                  <p><strong>【宿の特徴・魅力】</strong>【大阪から車で約100分】竹田城跡の麓で約400年の歴史を持つ旧酒造場に泊まる。</p>
+                  <p><strong>【所在地・アクセス】</strong>兵庫県朝来市和田山町竹田上町西側363 ／ 最寄り駅：竹田（兵庫） ／ 交通案内：JR播但線　竹田駅より徒歩にて3分（駅より250ｍ）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>竹田まちなか観光駐車場にお停めください。無料でご利用いただけます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -415,8 +415,8 @@ export default function FurusatoUpgradedPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/193515/193515.jpg" alt="高梁ファイブシーズホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「日本三大山城・天空の城の雲海と歴史浪漫宿×ふるさと納税厳選ガイド竹田城・備中松山城・岩村城」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岡山県高梁市栄町1943-5 ／ 最寄り駅：備中高梁 ／ 交通案内：ＪＲ伯備線　備中高梁駅より徒歩約２分・岡山自動車道賀陽ICより車で約15分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>高梁ファイブシーズホテル（岡山県高梁市栄町1943-5）は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>岡山県高梁市栄町1943-5 ／ 最寄り駅：備中高梁 ／ 交通案内：ＪＲ伯備線　備中高梁駅より徒歩約２分・岡山自動車道賀陽ICより車で約15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り６台まで無料　※大型車は駐車不可　先着順の為、満車の際はコインパーキングへの御案内。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -437,8 +437,8 @@ export default function FurusatoUpgradedPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/187460/187460.jpg" alt="さつき旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「日本三大山城・天空の城の雲海と歴史浪漫宿×ふるさと納税厳選ガイド竹田城・備中松山城・岩村城」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岐阜県恵那市明智町1158-1 ／ 最寄り駅：明智（明知鉄道） ／ 交通案内：中央道恵那ICまたは瑞浪ICより車40分、明知鉄道明智駅より徒歩9分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>さつき旅館（岐阜県恵那市明智町1158-1）は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>岐阜県恵那市明智町1158-1 ／ 最寄り駅：明智（明知鉄道） ／ 交通案内：中央道恵那ICまたは瑞浪ICより車40分、明知鉄道明智駅より徒歩9分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　5台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -77,7 +77,7 @@ export default function ArticlePage() {
             静岡・伊東温泉ひとり旅＆相模湾オーシャンおこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「伊東温泉ひとり旅・相模湾オーシャンおこもり」毎分3万L湧出の名湯・貸切源泉露天・金目鯛姿煮！伊豆東海岸の温暖な湯の街厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               伊豆半島の東海岸に位置し、徳川家光への献上湯としても知られる由緒正しき名湯・伊東温泉。街中に約750本もの源泉が存在し、毎分3万リットルを超える豊富な温泉が湧き出しています。東京から特急踊り子号で直通約100分と、思い立ったらすぐに行けるアクセスの良さも魅力です。
             </p>
             <p>
-              高台から海を見晴らすラグジュアリー旅館から、24時間温泉三昧が楽しめる名物宿まで、楽天トラベル公式APIより直接取得した最新データをもとに厳選紹介します。
+              高台から海を見晴らすラグジュアリー旅館から、24時間温泉三昧が楽しめる名物宿まで、宿泊施設データより直接取得した最新データをもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -419,11 +419,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">伊東温泉ひとり旅・相模湾オーシャンおこもり：毎分3万L湧出の名湯・貸切源泉露天・金目鯛姿煮！伊豆東海岸の温暖な湯の街厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「伊東温泉ひとり旅・相模湾オーシャンおこもり：毎分3万L湧出の名湯・貸切源泉露天・金目鯛姿煮！伊豆東海岸の温暖な湯の街厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「伊東温泉ひとり旅・相模湾オーシャンおこもり：毎分3万L湧出の名湯・貸切源泉露天・金目鯛姿煮！伊豆東海岸の温暖な湯の街厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -487,7 +487,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1376/1376_heya.jpg" alt="伊東温泉　青山やまと 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>100%源泉掛け流し温泉とこだわりの部屋食が魅力。伊東エリア屈指のプレミアム宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県伊東市岡203 ／ 最寄り駅：伊東 ／ 交通案内：JR伊東駅より車で10分。13:30～17:30は30分間隔で送迎有り（予約不要）</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県伊東市岡203 ／ 最寄り駅：伊東 ／ 交通案内：JR伊東駅より車で10分。13:30～17:30は30分間隔で送迎有り（予約不要）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り：30台・無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -509,7 +509,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/30799/30799_h.jpg" alt="伊東温泉　やまだ屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>《口コミ4.0》駅から徒歩３分！美食と天然の貸切温泉　〜【湯】【味】【癒】をお部屋で贅沢に楽しむ〜</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県伊東市猪戸1-5-26 ／ 最寄り駅：伊東 ／ 交通案内：ＪＲ伊東駅／東名沼津ＩＣより伊豆中央道・亀石峠・宇佐美を通り約１時間。厚木ＩＣより小田厚道を通り約２時間。</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県伊東市猪戸1-5-26 ／ 最寄り駅：伊東 ／ 交通案内：ＪＲ伊東駅／東名沼津ＩＣより伊豆中央道・亀石峠・宇佐美を通り約１時間。厚木ＩＣより小田厚道を通り約２時間。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　４台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -531,7 +531,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/15268/15268_wa.jpg" alt="伊豆・伊東温泉　お風呂ずきの宿　大東館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>源泉１００％掛け流し！２４時間入浴OK！３種の貸切風呂は無料♪日替わり手作り朝食付！平日８５５０円☆</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県伊東市末広町2-23 ／ 最寄り駅：伊東 ／ 交通案内：東名厚木ＩＣより90分　東名沼津ＩＣより60分／ＪＲ伊東線伊東駅下車/車３分(歩１２分)</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県伊東市末広町2-23 ／ 最寄り駅：伊東 ／ 交通案内：東名厚木ＩＣより90分　東名沼津ＩＣより60分／ＪＲ伊東線伊東駅下車/車３分(歩１２分)</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　約30台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

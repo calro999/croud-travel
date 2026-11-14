@@ -317,11 +317,11 @@ export default function KyotoBudgetAutumnPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋の京都×格安：紅葉狩りをお得に満喫！大浴場・サウナ付き1泊4,000円台〜のコスパ最強おすすめホテル5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「秋の京都×格安：紅葉狩りをお得に満喫！大浴場・サウナ付き1泊4,000円台〜のコスパ最強おすすめホテル5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「秋の京都×格安：紅葉狩りをお得に満喫！大浴場・サウナ付き1泊4,000円台〜のコスパ最強おすすめホテル5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -394,7 +394,7 @@ export default function KyotoBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/187986/187986.jpg" alt="ロワジールホテル京都東寺 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>京都駅から徒歩10分 | 世界遺産「東寺」ビューと大浴場・サウナ、おばんざい朝食ビュッフェで京都満喫</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 京都府京都市南区西九条蔵王町 31-1 ／ 最寄り駅：京都 ／ 交通案内：JR「京都駅」八条西口より徒歩12分、近鉄「東寺駅」より徒歩3分</p>
+                  <p><strong>【所在地・アクセス】</strong>京都府京都市南区西九条蔵王町 31-1 ／ 最寄り駅：京都 ／ 交通案内：JR「京都駅」八条西口より徒歩12分、近鉄「東寺駅」より徒歩3分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無し/近隣パーキングをご利用ください</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -416,7 +416,7 @@ export default function KyotoBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/167811/167811.jpg" alt="京都山科　ホテル山楽 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>京都観光の定番「祇園・清水」エリアまで地下鉄で乗換なし。大浴場は女性専用で人気のシャンプーバーあり</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 京都府京都市山科区安朱桟敷町23 ／ 最寄り駅：山科 ／ 交通案内：※新快速停車※京都・大津から約５分！ＪＲ琵琶湖線・湖西線／京阪京津線／市営地下鉄東西線　山科駅より地下道直結で徒歩1分！</p>
+                  <p><strong>【所在地・アクセス】</strong>京都府京都市山科区安朱桟敷町23 ／ 最寄り駅：山科 ／ 交通案内：※新快速停車※京都・大津から約５分！ＪＲ琵琶湖線・湖西線／京阪京津線／市営地下鉄東西線　山科駅より地下道直結で徒歩1分！</p>
                   <p><strong>【駐車場・マイカー利用】</strong>専用駐車場なし。提携駐車場は3台限定です。先着順・ご予約制のためご希望の場合は、必ずお電話ください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.5 ／ 立地 ★4.48 ／ 部屋 ★4.51 ／ 設備 ★4.48 ／ 風呂 ★4.45 ／ 食事 ★4.7</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -438,7 +438,7 @@ export default function KyotoBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/147994/147994_kan1.jpg" alt="ベッセルホテルカンパーナ京都五条｜サウナ付大浴場（京都１号店） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>サウナ付大浴場完備 京都市営地下鉄烏丸線五条駅3番出口徒歩1分 京都観光に最適 18歳以下添い寝無料</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 京都府京都市下京区東洞院通五条下る下万寿寺町498 ／ 最寄り駅：五条（京都市営） ／ 交通案内：京都市営地下鉄烏丸線五条駅３番出口より徒歩１分■京都駅より徒歩約15分■新京都東ICから約16分■京都南ICから約21分</p>
+                  <p><strong>【所在地・アクセス】</strong>京都府京都市下京区東洞院通五条下る下万寿寺町498 ／ 最寄り駅：五条（京都市営） ／ 交通案内：京都市営地下鉄烏丸線五条駅３番出口より徒歩１分■京都駅より徒歩約15分■新京都東ICから約16分■京都南ICから約21分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>先着順 立体駐車場28台 高さ1.8ｍ　1泊2000円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.45 ／ 立地 ★4.31 ／ 部屋 ★4.43 ／ 設備 ★4.42 ／ 風呂 ★4.47 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -460,7 +460,7 @@ export default function KyotoBudgetAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/165176/165176.jpg" alt="ホテルインターゲート京都　四条新町 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ハッピーアワーからぶぶ漬けバイキングまで『無料ラウンジサービス』付き  | 手足伸ばせる大浴場 完備</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 京都府京都市中京区新町通錦小路上る百足屋町387 ／ 最寄り駅：烏丸 ／ 交通案内：阪急京都線 烏丸駅・ 地下鉄烏丸線 四条駅より徒歩にて約５分</p>
+                  <p><strong>【所在地・アクセス】</strong>京都府京都市中京区新町通錦小路上る百足屋町387 ／ 最寄り駅：烏丸 ／ 交通案内：阪急京都線 烏丸駅・ 地下鉄烏丸線 四条駅より徒歩にて約５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.46 ／ 立地 ★4.37 ／ 部屋 ★4.49 ／ 設備 ★4.49 ／ 風呂 ★4.36 ／ 食事 ★4.5</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

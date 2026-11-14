@@ -77,7 +77,7 @@ export default function ArticlePage() {
             福島・飯坂温泉ひとり旅＆奥州三名湯あつ湯おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「奥州三名湯・飯坂温泉ひとり旅・摺上川渓谷あつ湯おこもり」松尾芭蕉ゆかりの古湯・摺上川のせせらぎ・円盤餃子＆福島地酒！福島交通飯坂線直通厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               2世紀に日本武尊が東征の折に発見したとも伝わる悠久の古湯・飯坂温泉。摺上川の河畔に無数の源泉が湧き出ており、無色透明のアルカリ性単純温泉は肌に柔らかく、しゃきっと熱めの湯温が特徴です。温泉街には木造瓦葺きの共同浴場「鯖湖湯」をはじめとする9つの共同浴場が点在し、地元の人々との温かな触れ合いや、名物「円盤餃子」の食べ歩きが一人旅の夜を盛り上げます。
             </p>
             <p>
-              自家源泉を贅沢に掛け流す料理自慢の小宿から、渓谷を望む展望露天風呂を備えた老舗旅館まで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              自家源泉を贅沢に掛け流す料理自慢の小宿から、渓谷を望む展望露天風呂を備えた老舗旅館まで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -420,11 +420,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">奥州三名湯・飯坂温泉ひとり旅・摺上川渓谷あつ湯おこもり：松尾芭蕉ゆかりの古湯・摺上川のせせらぎ・円盤餃子＆福島地酒！福島交通飯坂線直通厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「奥州三名湯・飯坂温泉ひとり旅・摺上川渓谷あつ湯おこもり：松尾芭蕉ゆかりの古湯・摺上川のせせらぎ・円盤餃子＆福島地酒！福島交通飯坂線直通厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「奥州三名湯・飯坂温泉ひとり旅・摺上川渓谷あつ湯おこもり：松尾芭蕉ゆかりの古湯・摺上川のせせらぎ・円盤餃子＆福島地酒！福島交通飯坂線直通厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -506,7 +506,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5114/5114_on.jpg" alt="飯坂温泉　松島屋　桃香 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>おかげさまで全館リニューアル！！お子様、ペット大歓迎！夕朝食共お部屋でゆっくりお召し上がり下さい。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福島県福島市飯坂町湯野字切湯ノ上14番地 ／ 最寄り駅：福島（福島） ／ 交通案内：ＪＲ福島駅より電車、タクシー共に約25分</p>
+                  <p><strong>【所在地・アクセス】</strong>福島県福島市飯坂町湯野字切湯ノ上14番地 ／ 最寄り駅：福島（福島） ／ 交通案内：ＪＲ福島駅より電車、タクシー共に約25分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>２0台　有料1台500円税込み</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.74 ／ 立地 ★4.54 ／ 部屋 ★4.67 ／ 設備 ★4.68 ／ 風呂 ★4.54 ／ 食事 ★4.61</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -528,7 +528,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/504/504_ky.jpg" alt="アートホテル弘前シティ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR弘前駅前、津軽の自然の彩を感じるホテル。旅の拠点として最適です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 青森県弘前市大町1-1-2 ／ 最寄り駅：弘前 ／ 交通案内：ＪＲ弘前駅中央口より徒歩1分、青森空港より車で約６０分、東北自動車道（大鰐・弘前ＩＣ）より車で約１５分</p>
+                  <p><strong>【所在地・アクセス】</strong>青森県弘前市大町1-1-2 ／ 最寄り駅：弘前 ／ 交通案内：ＪＲ弘前駅中央口より徒歩1分、青森空港より車で約６０分、東北自動車道（大鰐・弘前ＩＣ）より車で約１５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>先着順　ホテル駐車場・提携先駐車場は普通車1泊700円、満車の際は近隣有料駐車場をご案内。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -550,7 +550,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/856/856_si.jpg" alt="スマイルホテル青森 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>官庁街に隣接しビジネスに最適な立地・繁華街もすぐ近くです！インターネット無料で接続できます！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 青森県青森市本町2-4-7 ／ 最寄り駅：青森 ／ 交通案内：JR・青い森鉄道青森駅から徒歩13分/JR新青森駅から車で約15分/青森中央I.C.から車10分/青森空港から車30分</p>
+                  <p><strong>【所在地・アクセス】</strong>青森県青森市本町2-4-7 ／ 最寄り駅：青森 ／ 交通案内：JR・青い森鉄道青森駅から徒歩13分/JR新青森駅から車で約15分/青森中央I.C.から車10分/青森空港から車30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場あり1泊（15時〜翌10時） 600円〜、到着順。■バイク：不可。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.87 ／ 立地 ★3.72 ／ 部屋 ★3.66 ／ 設備 ★3.67 ／ 風呂 ★3.69 ／ 食事 ★3.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -572,7 +572,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1228/1228_sgl.jpg" alt="むつパークホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>温かなおもてなしの心で、スタッフが皆様をお迎え致します。【Ｗｉ－Ｆｉ＆無料駐車場完備】</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 青森県むつ市田名部町9-10 ／ 最寄り駅：田名部 ／ 交通案内：JR大湊線下北駅より　お車又は路線バスにて約10分。下北交通バスをご利用の方はバス停（むつ）下車後、徒歩１分！</p>
+                  <p><strong>【所在地・アクセス】</strong>青森県むつ市田名部町9-10 ／ 最寄り駅：田名部 ／ 交通案内：JR大湊線下北駅より　お車又は路線バスにて約10分。下北交通バスをご利用の方はバス停（むつ）下車後、徒歩１分！</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　70台　無料　予約不要　青空駐車場　トラック等大型車要予約　屋根のあるスペースはありません。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -594,7 +594,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1482/1482_room.jpg" alt="ホテルＪＡＬシティ青森 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ただいまクーポン祭りやってます！青森駅から徒歩5〜6分、青森湾を一望する客室もあり。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 青森県青森市安方2-4-12 ／ 最寄り駅：青森 ／ 交通案内：●青森駅から徒歩6分●東北自動車道青森中央ICから15分●青森空港からバス約40分「県庁通り」下車徒歩2分</p>
+                  <p><strong>【所在地・アクセス】</strong>青森県青森市安方2-4-12 ／ 最寄り駅：青森 ／ 交通案内：●青森駅から徒歩6分●東北自動車道青森中央ICから15分●青森空港からバス約40分「県庁通り」下車徒歩2分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>立体駐車場・提携パラカ駐車場にて750円/泊</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.31 ／ 立地 ★4.21 ／ 部屋 ★4.25 ／ 設備 ★4.17 ／ 風呂 ★4.11 ／ 食事 ★4.44</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

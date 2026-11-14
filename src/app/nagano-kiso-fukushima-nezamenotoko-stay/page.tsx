@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">長野・木曽福島＆寝覚の床・御嶽山：中山道関所宿場町・木曽そば＆五平餅宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「長野・木曽福島＆寝覚の床・御嶽山：中山道関所宿場町・木曽そば＆五平餅宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「長野・木曽福島＆寝覚の床・御嶽山：中山道関所宿場町・木曽そば＆五平餅宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -279,7 +279,7 @@ export default function MicroTouristHubPage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. きそふくしま温泉　街道浪漫　おん宿　蔦屋</td>
-                <td className="p-3 text-stone-600">福島県</td>
+                <td className="p-3 text-stone-600">長野県木曽郡木曽町福島本町5162</td>
                 <td className="p-3 text-stone-600">JR木曽福島駅～徒歩約10分【15：30分16：40分送迎有要予約】伊</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.25（582件）</td>
@@ -323,7 +323,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/16778/16778_heya.jpg" alt="木曽路の宿　いわや 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>宮家の方々や文人に愛された、木曽路で最も古い老舗。木曽川眺望、総檜造りのお部屋や展望露天など。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県木曽郡木曽町福島5169 ／ 最寄り駅：木曽福島 ／ 交通案内：JR木曽福島駅より徒歩10分／中央自動車道：塩尻ICより60分、中津川ICより60分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県木曽郡木曽町福島5169 ／ 最寄り駅：木曽福島 ／ 交通案内：JR木曽福島駅より徒歩10分／中央自動車道：塩尻ICより60分、中津川ICより60分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/15488/15488_room.jpg" alt="料亭旅館　熱海　小嵐亭（旧　迎賓館　熱海小嵐亭） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>■全館禁煙（喫煙所あり）■　熱海の老舗旅館で心休まる寛ぎの時間をごゆっくりお過ごしください。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県熱海市小嵐町1-16 ／ 最寄り駅：熱海 ／ 交通案内：車／東名厚木ICより小田原厚木道路経由（約60分）　電車／東京より東海道新幹線で熱海下車（約45分）</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県熱海市小嵐町1-16 ／ 最寄り駅：熱海 ／ 交通案内：車／東名厚木ICより小田原厚木道路経由（約60分）　電車／東京より東海道新幹線で熱海下車（約45分）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り 15台　 ※ 有料／1台1泊ごとに1,000円（税込）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/134942/134942_spa.jpg" alt="旅館　鳥屋沢 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>四季折々の景色を楽しみながらの温泉と、とうじ蕎麦をはじめとする地元料理を堪能</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県松本市奈川2562-2 ／ 最寄り駅：松本 ／ 交通案内：松本駅よりバスにて５０分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県松本市奈川2562-2 ／ 最寄り駅：松本 ／ 交通案内：松本駅よりバスにて５０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　8台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -388,8 +388,8 @@ export default function MicroTouristHubPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/6067/6067.jpg" alt="きそふくしま温泉　街道浪漫　おん宿　蔦屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「長野・木曽福島＆寝覚の床・御嶽山（中山道関所宿場町・木曽そば＆五平餅宿 厳選ガイド）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：JR木曽福島駅～徒歩約10分【15：30分16：40分送迎有要予約】伊那IC約40分塩尻IC約60分中津川I約70分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>創業300年☆評判料理と木曽川沿い露天風呂【きそふくしま温泉】で心もからだもリフレッシュ♪</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：JR木曽福島駅～徒歩約10分【15：30分16：40分送迎有要予約】伊那IC約40分塩尻IC約60分中津川I約70分</p>
                   <p>【長野・木曽福島＆寝覚の床・御嶽山：中山道関所宿場町・】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/28298/28298_r.jpg" alt="ねざめホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>２０１５年６月、リニューアルしたねざめホテルと、木曽の山々の雄大な眺めをお楽しみください。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県木曽郡上松町上松1888 ／ 最寄り駅：上松 ／ 交通案内：ＪＲ中央線・上松駅／中央道・塩尻ＩＣ又は中津川ＩＣ～５０分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県木曽郡上松町上松1888 ／ 最寄り駅：上松 ／ 交通案内：ＪＲ中央線・上松駅／中央道・塩尻ＩＣ又は中津川ＩＣ～５０分</p>
                   <p>【長野・木曽福島＆寝覚の床・御嶽山：中山道関所宿場町・】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5748/5748_twin.jpg" alt="木曽駒高原　森のホテル＜長野県＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>木曽駒ヶ岳を望む高原の中で夏は避暑地、冬はスキーリゾート！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県木曽郡木曽町日義4898-553 ／ 最寄り駅：木曽福島 ／ 交通案内：JR木曽福島駅から車で約10分。塩尻IC・中津川ICから車で60分。</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県木曽郡木曽町日義4898-553 ／ 最寄り駅：木曽福島 ／ 交通案内：JR木曽福島駅から車で約10分。塩尻IC・中津川ICから車で60分。</p>
                   <p>【長野・木曽福島＆寝覚の床・御嶽山：中山道関所宿場町・】 <strong>【駐車場・マイカー利用】</strong>有り　30台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

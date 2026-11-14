@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/icon.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/limestone-cave-underground-lake-adventure-stay/"
   };
 
@@ -186,6 +186,12 @@ export default function Page() {
           </p>
         </div>
 
+        <div className="pt-2">
+          <ShareButtons
+            title="エメラルドに輝く神秘の地底湖！日本屈指の鍾乳洞探検と周辺名湯旅館"
+            url="https://croud-travel.pages.dev/limestone-cave-underground-lake-adventure-stay/"
+          />
+        </div>
         {/* クーポン特大バナー */}
         <SpecialCouponBanner />
 
@@ -303,11 +309,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">エメラルドに輝く神秘の地底湖！日本屈指の鍾乳洞探検と周辺名湯旅館：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「エメラルドに輝く神秘の地底湖！日本屈指の鍾乳洞探検と周辺名湯旅館」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「エメラルドに輝く神秘の地底湖！日本屈指の鍾乳洞探検と周辺名湯旅館」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -327,7 +333,7 @@ export default function Page() {
               <tbody className="divide-y divide-stone-200">
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">1. 洞川温泉　桝源旅館</td>
-                <td className="p-3 text-stone-600">奈良県</td>
+                <td className="p-3 text-stone-600">奈良県吉野郡天川村洞川189</td>
                 <td className="p-3 text-stone-600">近鉄吉野線　下市口駅より洞川温泉行きバス１本。　車：国道169号から3</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.13（133件）</td>
@@ -370,8 +376,8 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/68262/68262.jpg" alt="洞川温泉　桝源旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「エメラルドに輝く神秘の地底湖（日本屈指の鍾乳洞探検と周辺名湯旅館）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：近鉄吉野線　下市口駅より洞川温泉行きバス１本。　車：国道169号から309号。　世界遺産の高野山、熊野古道へも120分圏</p>
+                  <p><strong>【宿の特徴・魅力】</strong>「エメラルドに輝く神秘の地底湖！日本屈指の鍾乳洞探検と周辺名湯旅館」掲載宿の所在地・アクセス・特徴データ一覧は、周辺の観光巡りにも便利で快適な滞在環境が整った宿泊施設です。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：近鉄吉野線　下市口駅より洞川温泉行きバス１本。　車：国道169号から309号。　世界遺産の高野山、熊野古道へも120分圏</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -393,7 +399,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9362/9362_heya.jpg" alt="洞川温泉　いろは旅館＜奈良県＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>吉野に観光と美味しい葛を楽しみにいらした際は是非温泉旅館いろはへお越し下さい。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 奈良県吉野郡天川村洞川248 ／ 最寄り駅：下市口 ／ 交通案内：近鉄　下市口駅より奈良交通バス（洞川温泉行き）終点</p>
+                  <p><strong>【所在地・アクセス】</strong>奈良県吉野郡天川村洞川248 ／ 最寄り駅：下市口 ／ 交通案内：近鉄　下市口駅より奈良交通バス（洞川温泉行き）終点</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.65 ／ 立地 ★4.56 ／ 部屋 ★4.44 ／ 設備 ★4.38 ／ 風呂 ★4.48 ／ 食事 ★4.71</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -415,7 +421,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8805/8805_room.jpg" alt="洞川温泉　あたらしや旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>くつろぎの時間</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 奈良県吉野郡天川村洞川215 ／ 最寄り駅：下市口 ／ 交通案内：近鉄吉野線下市口駅よりバスで80分</p>
+                  <p><strong>【所在地・アクセス】</strong>奈良県吉野郡天川村洞川215 ／ 最寄り駅：下市口 ／ 交通案内：近鉄吉野線下市口駅よりバスで80分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -77,7 +77,7 @@ export default function ArticlePage() {
             北海道・洞爺湖温泉ひとり旅＆湖畔リトリート特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「洞爺湖温泉ひとり旅・湖畔絶景おこもり」インフィニティ露天風呂・ロングラン花火・道産牛フレンチ会席！支笏洞爺国立公園厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               新千歳空港や札幌からJR特急北斗で約90分〜120分。北海道を代表する名景・洞爺湖の南岸に広がる洞爺湖温泉は、肌に優しく保温効果の高いナトリウム・カルシウム-炭酸水素塩・硫酸塩泉。春から秋にかけて連夜打ち上げられる「洞爺湖ロングラン花火大会」の水中花火が湖面を染め上げ、一人旅の心を幻想的な感動で包み込みます。
             </p>
             <p>
-              雄大なレイクビューと洗練されたホテルステイを堪能できる名門ホテルから、源泉かけ流しをリーズナブルに味わえる湖畔の温泉宿まで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              雄大なレイクビューと洗練されたホテルステイを堪能できる名門ホテルから、源泉かけ流しをリーズナブルに味わえる湖畔の温泉宿まで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -423,11 +423,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">洞爺湖温泉ひとり旅・湖畔絶景おこもり：インフィニティ露天風呂・ロングラン花火・道産牛フレンチ会席！支笏洞爺国立公園厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「洞爺湖温泉ひとり旅・湖畔絶景おこもり：インフィニティ露天風呂・ロングラン花火・道産牛フレンチ会席！支笏洞爺国立公園厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「洞爺湖温泉ひとり旅・湖畔絶景おこもり：インフィニティ露天風呂・ロングラン花火・道産牛フレンチ会席！支笏洞爺国立公園厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -509,7 +509,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/20613/20613_t.jpg" alt="洞爺湖万世閣ホテルレイクサイドテラス 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>サウナが自慢「月の湯」とインフィニティ露天風呂「星の湯」、石窯焼ピッツァなど豊富なビュッフェも人気！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道虻田郡洞爺湖町洞爺湖温泉 21 ／ 最寄り駅：洞爺 ／ 交通案内：JR室蘭本線「洞爺駅」より、道南バス「洞爺湖温泉行き」にて「中央通」停留所下車すぐ</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道虻田郡洞爺湖町洞爺湖温泉 21 ／ 最寄り駅：洞爺 ／ 交通案内：JR室蘭本線「洞爺駅」より、道南バス「洞爺湖温泉行き」にて「中央通」停留所下車すぐ</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（約100台・無料）予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -531,7 +531,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/14467/14467_heya.jpg" alt="洞爺湖温泉　ホテルグランド　トーヤ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>洞爺湖湖畔に位置し、湖に面したお部屋からは中島・羊蹄山(エゾ富士）が一望出来ます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道虻田郡洞爺湖町洞爺湖温泉 144 ／ 最寄り駅：洞爺 ／ 交通案内：ＪＲ室蘭本線洞爺駅より車で約15分／道央道虻田洞爺湖ＩＣより20分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道虻田郡洞爺湖町洞爺湖温泉 144 ／ 最寄り駅：洞爺 ／ 交通案内：ＪＲ室蘭本線洞爺駅より車で約15分／道央道虻田洞爺湖ＩＣより20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.19 ／ 立地 ★4.24 ／ 部屋 ★4.03 ／ 設備 ★3.88 ／ 風呂 ★4.03 ／ 食事 ★3.98</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -553,7 +553,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/126/126_sgl.jpg" alt="ホテル法華クラブ函館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>函館郷土料理が豊富な朝食バイキングを是非■人工温泉準天然《光明石温泉》完備！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道函館市本町27-1 ／ 最寄り駅：函館 ／ 交通案内：函館駅からタクシーで約10分、函館空港からタクシーで約15分。市電五稜郭公園前から徒歩1分。</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道函館市本町27-1 ／ 最寄り駅：函館 ／ 交通案内：函館駅からタクシーで約10分、函館空港からタクシーで約15分。市電五稜郭公園前から徒歩1分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>◆1泊 800円（先着順）地下（10台）屋外（40台）※バイク500円　バス・トラック2400円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.4 ／ 立地 ★4.35 ／ 部屋 ★4.35 ／ 設備 ★4.29 ／ 風呂 ★4.34 ／ 食事 ★4.5</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -575,7 +575,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/169/169_room.jpg" alt="ＡＮＡクラウンプラザホテル札幌　ｂｙ　ＩＨＧ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全室禁煙・ＪＲ札幌駅徒歩7分、地下鉄さっぽろ駅東豊線改札21番出口徒歩1分、空港バスホテル正面停車</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道札幌市中央区北3条西1丁目 ／ 最寄り駅：札幌 ／ 交通案内：JR札幌駅より徒歩7分/地下鉄東豊線さっぽろ駅21番出口（階段）より徒歩1分・23番出口（エレベーター）より徒歩2分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道札幌市中央区北3条西1丁目 ／ 最寄り駅：札幌 ／ 交通案内：JR札幌駅より徒歩7分/地下鉄東豊線さっぽろ駅21番出口（階段）より徒歩1分・23番出口（エレベーター）より徒歩2分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>79台収容（1泊￥2,000/地下駐車場：車高1.9m迄/国道5号線北方面沿い）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -597,7 +597,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/238/238_twn.jpg" alt="旭川トーヨーホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ロビー直結コンビニございます！旭川空港発着・カムイスキーリンクス発着のバス停がホテル正面！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道旭川市7条通7丁目32-12 ／ 最寄り駅：旭川 ／ 交通案内：ＪＲ旭川駅西口から車で5分徒歩で15分、旭川空港発着のバスでおよそ40分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道旭川市7条通7丁目32-12 ／ 最寄り駅：旭川 ／ 交通案内：ＪＲ旭川駅西口から車で5分徒歩で15分、旭川空港発着のバスでおよそ40分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場含めて100台収容（１泊800円）ページ内に「駐車場」案内有り</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

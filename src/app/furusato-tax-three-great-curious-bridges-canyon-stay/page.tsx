@@ -536,11 +536,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三奇橋＆スリル満点の名橋・渓谷宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本三奇橋＆スリル満点の名橋・渓谷宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「日本三奇橋＆スリル満点の名橋・渓谷宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -604,7 +604,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/199179/199179.jpg" alt="アパホテル〈山口岩国駅前西〉（２０２６年６月プレオープン） 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR山陽本線「岩国駅」徒歩5分の好立地！50型大型テレビ、Wi-Fi6完備のビジネス・観光の新拠点！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山口県岩国市麻里布町2-9-30 ／ 最寄り駅：岩国 ／ 交通案内：JR山陽本線「岩国駅」（西口）より徒歩5分</p>
+                  <p><strong>【所在地・アクセス】</strong>山口県岩国市麻里布町2-9-30 ／ 最寄り駅：岩国 ／ 交通案内：JR山陽本線「岩国駅」（西口）より徒歩5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>【駐車場38台】入庫後24時間以内出庫500円　※先着順、予約不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.74 ／ 立地 ★3.68 ／ 部屋 ★3.6 ／ 設備 ★3.62 ／ 風呂 ★3.49</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -626,7 +626,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/72719/72719_wa.jpg" alt="石和温泉　ホテル平安 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>石和温泉駅無料送迎有◆温泉24時間OK◆水晶焼ステーキ・ほうとう鍋など郷土の味を堪能</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県笛吹市石和町川中島538 ／ 最寄り駅：石和温泉 ／ 交通案内：ＪＲ石和温泉駅：徒歩15分無料送迎5分（15～17時）有/中央道一宮・御坂IC車10分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県笛吹市石和町川中島538 ／ 最寄り駅：石和温泉 ／ 交通案内：ＪＲ石和温泉駅：徒歩15分無料送迎5分（15～17時）有/中央道一宮・御坂IC車10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.58 ／ 立地 ★3.51 ／ 部屋 ★3.48 ／ 設備 ★3.22 ／ 風呂 ★3.5 ／ 食事 ★3.77</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -648,7 +648,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/20228/20228_h.jpg" alt="新祖谷温泉　ホテルかずら橋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ケーブルカーで登る天空露天風呂と囲炉裏の宿。渓谷の絶景と郷土料理、温かなおもてなしでお迎えいたします</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 徳島県三好市西祖谷山村善徳３３－１ ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲのお客様 大歩危駅～路線バス20分（タクシー15分）・お車のお客様　徳島自動車道井川池田ＩＣより大歩危経由で５０分</p>
+                  <p><strong>【所在地・アクセス】</strong>徳島県三好市西祖谷山村善徳３３－１ ／ 交通案内：ＪＲのお客様 大歩危駅～路線バス20分（タクシー15分）・お車のお客様　徳島自動車道井川池田ＩＣより大歩危経由で５０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

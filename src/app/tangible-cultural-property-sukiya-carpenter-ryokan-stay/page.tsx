@@ -310,37 +310,6 @@ export default function Page() {
           </div>
         </section>
 
-        {/* よくある質問 FAQ */}
-        <section className="mb-16 bg-white rounded-2xl shadow-sm border border-stone-200/80 p-6 md:p-8">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">よくある質問・歴史建築宿の楽しみ方</h2>
-          <div className="space-y-4">
-            
-            <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-amber-700 font-serif font-black text-lg">Q.</span>
-                <span>文化財の宿は防音や断熱面で不便はありませんか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
-                伝統的な木造建築のため、現代の高気密RC造ホテルに比べると隣室や廊下の気配・川音が感じられやすい面があります。しかし各宿では内障子の二重化や最新の暖房・床暖房設備の導入など、快適に過ごせる工夫が施されています。木のきしみや川のせせらぎも風情として楽しむのが粋な過ごし方です。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-amber-700 font-serif font-black text-lg">Q.</span>
-                <span>文化財建築の保護のために宿泊者が気をつけるマナーはありますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
-                貴重な漆喰壁や組子障子、銘木の柱などは繊細です。スーツケースの車輪で畳や敷居を傷つけないよう持ち上げて運ぶ、柱や障子に鋭利なものを当てないなど、日本の美を後世へ残す思いやりを持った宿泊が望まれます。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-amber-700 font-serif font-black text-lg">Q.</span>
-                <span>温泉街の散策や周辺の見どころはありますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
-                修善寺の竹林の小径や独鈷の湯、有馬の湯本坂など、文化財宿の多くは歴史ある温泉情緒の中心に位置しています。宿の下駄を鳴らして温泉街を浴衣でそぞろ歩きするのも旅の大きな醍醐味です。
-              </p>
-            </div>
-          </div>
-        </section>
-
         {/* 関連リンク */}
         <section className="bg-stone-200/70 rounded-2xl p-6 md:p-8 text-center border border-stone-300">
           <h3 className="text-xl font-bold text-stone-900 mb-3 font-serif">他のこだわり・テーマ特化ステイを探す</h3>

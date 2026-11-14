@@ -77,7 +77,7 @@ export default function ArticlePage() {
             北海道・登別温泉ひとり旅＆地獄谷名湯おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「北海道・登別温泉ひとり旅・地獄谷の多彩な泉質おこもり」9種類の湧出泉・白濁硫黄露天風呂・道産会席！名湯の王様厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               新千歳空港や札幌から直行高速バスや特急列車で直結する北海道屈指の大温泉地・登別温泉。原生林に囲まれた巨大な爆裂火口「地獄谷」から湧き出す湯は、硫黄泉・食塩泉・明礬泉など多彩を極め、「温泉のデパート」とも称されます。立ち上る湯煙の合間から広がる雄大な北の大地を感じつつ、自分だけの湯治時間に身を委ねることができます。
             </p>
             <p>
-              老舗の純和風割烹旅館から大浴場のスケールが魅力のリゾートホテルまで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              老舗の純和風割烹旅館から大浴場のスケールが魅力のリゾートホテルまで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -422,11 +422,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">北海道・登別温泉ひとり旅・地獄谷の多彩な泉質おこもり：9種類の湧出泉・白濁硫黄露天風呂・道産会席！名湯の王様厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「北海道・登別温泉ひとり旅・地獄谷の多彩な泉質おこもり：9種類の湧出泉・白濁硫黄露天風呂・道産会席！名湯の王様厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「北海道・登別温泉ひとり旅・地獄谷の多彩な泉質おこもり：9種類の湧出泉・白濁硫黄露天風呂・道産会席！名湯の王様厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -490,7 +490,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/28637/28637_lb.jpg" alt="登別温泉　登別万世閣 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ライブビュッフェで満腹！名湯とセルフロウリュサウナで癒される宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道登別市登別温泉町21 ／ 最寄り駅：登別 ／ 交通案内：JR登別駅より登別温泉行バス終点下車徒歩目の前</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道登別市登別温泉町21 ／ 最寄り駅：登別 ／ 交通案内：JR登別駅より登別温泉行バス終点下車徒歩目の前</p>
                   <p><strong>【駐車場・マイカー利用】</strong>屋外駐車場をご用意しております。（無料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.02 ／ 立地 ★3.92 ／ 部屋 ★3.93 ／ 設備 ★3.88 ／ 風呂 ★3.93 ／ 食事 ★4.16</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -512,7 +512,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/37379/37379_wa.jpg" alt="登別温泉　名湯の宿　パークホテル雅亭 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>登別でも今では数少ない、源泉の上に建つ、本物のお湯が楽しめる温泉自慢の宿です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道登別市登別温泉町100 ／ 最寄り駅：登別 ／ 交通案内：ＪＲ登別駅～登別温泉行バス約15分+徒歩約７分/道央道～登別東ＩＣより約15分※JR特急札幌より約70分・千歳約50分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道登別市登別温泉町100 ／ 最寄り駅：登別 ／ 交通案内：ＪＲ登別駅～登別温泉行バス約15分+徒歩約７分/道央道～登別東ＩＣより約15分※JR特急札幌より約70分・千歳約50分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.08 ／ 立地 ★3.95 ／ 部屋 ★3.8 ／ 設備 ★3.74 ／ 風呂 ★4.31 ／ 食事 ★3.85</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -534,7 +534,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9535/9535_k.jpg" alt="登別温泉　御やど清水屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>檜香る名湯と、雅な和の寛ぎ。 お部屋で味わう旬の会席が、心ほどける贅沢なひとときを演出します。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道登別市登別温泉町173 ／ 最寄り駅：登別 ／ 交通案内：道央道登別東ICより約10分/JR室蘭本線登別駅</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道登別市登別温泉町173 ／ 最寄り駅：登別 ／ 交通案内：道央道登別東ICより約10分/JR室蘭本線登別駅</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.47 ／ 立地 ★4.19 ／ 部屋 ★4.11 ／ 設備 ★3.83 ／ 風呂 ★4.28 ／ 食事 ★4.64</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

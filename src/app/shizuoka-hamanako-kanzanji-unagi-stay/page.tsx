@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">静岡・浜名湖＆舘山寺温泉：湖畔パノラマ・ロープウェイ＆浜名湖うなぎ宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「静岡・浜名湖＆舘山寺温泉：湖畔パノラマ・ロープウェイ＆浜名湖うなぎ宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「静岡・浜名湖＆舘山寺温泉：湖畔パノラマ・ロープウェイ＆浜名湖うなぎ宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -305,7 +305,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2092/2092_hos.jpg" alt="浜名湖かんざんじ温泉　ホテル鞠水亭 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>浜名湖内浦湾と大草山を一望できる湖畔の宿。石造りと御殿風檜造りの2種類の展望露天風呂が自慢です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県浜松市中央区舘山寺町398番地 ／ 最寄り駅：浜松 ／ 交通案内：ＪＲ浜松駅より路線バスで４５分（舘山寺温泉行き）　東名高速、舘山寺スマートＩＣより約５分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県浜松市中央区舘山寺町398番地 ／ 最寄り駅：浜松 ／ 交通案内：ＪＲ浜松駅より路線バスで４５分（舘山寺温泉行き）　東名高速、舘山寺スマートＩＣより約５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　乗用車　80台　大型　4台，無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -327,7 +327,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/3112/3112_heya.jpg" alt="ホテル　ウェルシーズン浜名湖 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【ウェルカムベビーのお宿】お子様大歓迎のホテルです！／華咲の湯＆遊園地入場無料（休業日除く）</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県浜松市中央区舘山寺町1891 ／ 最寄り駅：浜松 ／ 交通案内：■東名高速道路『舘山寺スマートIC』より約5分 ■JR浜松駅より路線バスで約45分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県浜松市中央区舘山寺町1891 ／ 最寄り駅：浜松 ／ 交通案内：■東名高速道路『舘山寺スマートIC』より約5分 ■JR浜松駅より路線バスで約45分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>あり（宿泊当日〜出発日迄無料／予約不要）　※車いす駐車場有（要問合せ）※バイク用屋根付き有</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.62 ／ 立地 ★4.43 ／ 部屋 ★4.43 ／ 設備 ★4.47 ／ 風呂 ★4.45 ／ 食事 ★4.64</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -349,7 +349,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/64543/64543_ky.jpg" alt="旅館ふじや 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>浜名湖にたたずみ、沈む夕日の美しさに感動！お料理は浜名湖、遠州灘の幸を心を込めて調理致します。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県浜松市中央区舘山寺町2268 ／ 最寄り駅：浜松 ／ 交通案内：東名高速浜松西ICから15分、舘山寺スマートICから5分　ＪＲ浜松駅からバスで45分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県浜松市中央区舘山寺町2268 ／ 最寄り駅：浜松 ／ 交通案内：東名高速浜松西ICから15分、舘山寺スマートICから5分　ＪＲ浜松駅からバスで45分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　10台　無料（大人の人数の半数台まで無料）　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -371,7 +371,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/39935/39935_meal.jpg" alt="愛知渥美半島　伊良湖温泉　魚と貝のうまい宿　玉川 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>愛知・伊良湖温泉 露天風呂付き客室のある料理旅館</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛知県田原市福江町中紺屋瀬古22-1 ／ 最寄り駅：豊橋 ／ 交通案内：豊橋よりバスにて６０分～福江バス停で下車～徒歩１分／当館の入口は、通りに面したレンガの壁が目印です</p>
+                  <p><strong>【所在地・アクセス】</strong>愛知県田原市福江町中紺屋瀬古22-1 ／ 最寄り駅：豊橋 ／ 交通案内：豊橋よりバスにて６０分～福江バス停で下車～徒歩１分／当館の入口は、通りに面したレンガの壁が目印です</p>
                   <p>【静岡・浜名湖＆舘山寺温泉：湖畔パノラマ・ロープウェイ】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -422,7 +422,7 @@ export default function MiyazakiTakachihoNightKaguraWinterPage() {
             <span className="text-rose-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Featured Accommodations</span>
             <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の高千穂夜神楽と高千穂牛を堪能する厳選名宿5選</h2>
             <p className="text-stone-600 text-sm sm:text-base mt-1">
-              楽天トラベル公式APIより取得した最新データに基づく、神楽アクセス・美食・もてなしが高評価の宿。
+              施設スペックと宿泊者評価に基づく、神楽アクセス・美食・もてなしが高評価の宿。
             </p>
           </div>
 

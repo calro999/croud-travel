@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-toba-ise-shima-iseebi-autumn-stay/"
   };
 
@@ -482,11 +482,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">鳥羽・伊勢志摩の秋味覚「伊勢海老漁解禁」＆リアス海岸美・絶景オーシャンビュー温泉｜ふるさと納税で泊まれる名宿ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「鳥羽・伊勢志摩の秋味覚「伊勢海老漁解禁」＆リアス海岸美・絶景オーシャンビュー温泉｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「鳥羽・伊勢志摩の秋味覚「伊勢海老漁解禁」＆リアス海岸美・絶景オーシャンビュー温泉｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -550,7 +550,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8529/8529_ysw.jpg" alt="鳥羽国際ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>鳥羽駅からシャトルバスで5分。神宮から車で約20分。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 三重県鳥羽市鳥羽1-23-1 ／ 最寄り駅：鳥羽 ／ 交通案内：ＪＲ及び近鉄「鳥羽駅」より車で3分。近鉄鳥羽駅から無料シャトルバス有。（12:30～18:00の間毎時0分・30分）</p>
+                  <p><strong>【所在地・アクセス】</strong>三重県鳥羽市鳥羽1-23-1 ／ 最寄り駅：鳥羽 ／ 交通案内：ＪＲ及び近鉄「鳥羽駅」より車で3分。近鉄鳥羽駅から無料シャトルバス有。（12:30～18:00の間毎時0分・30分）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り 100台 （無料 ・ご予約不要）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -572,7 +572,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/15780/15780_heya.jpg" alt="湯めぐり海百景　鳥羽シーサイドホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>伊勢神宮まで車で３０分　☆お客様が選ぶ４つ星以上の人気宿☆</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 三重県鳥羽市安楽島町1084 ／ 最寄り駅：鳥羽 ／ 交通案内：近鉄・ＪＲ鳥羽駅より車で１０分（無料送迎有・定期運行）／伊勢自動車道　伊勢ＩＣ→伊勢二見鳥羽ライン２５分</p>
+                  <p><strong>【所在地・アクセス】</strong>三重県鳥羽市安楽島町1084 ／ 最寄り駅：鳥羽 ／ 交通案内：近鉄・ＪＲ鳥羽駅より車で１０分（無料送迎有・定期運行）／伊勢自動車道　伊勢ＩＣ→伊勢二見鳥羽ライン２５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料　先着順 カーナビ検索は０５９９－２５－５１５１で</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.48 ／ 立地 ★4.53 ／ 部屋 ★4.36 ／ 設備 ★4.24 ／ 風呂 ★4.48 ／ 食事 ★4.4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -594,7 +594,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4761/4761_room.jpg" alt="伊勢志摩国立公園　／　鳥羽温泉郷　戸田家 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【鳥羽駅徒歩圏内の温泉旅館】鳥羽湾一望の客室と13の湯めぐり、地魚解体ショーが人気</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 三重県鳥羽市鳥羽1丁目24-26 ／ 最寄り駅：鳥羽 ／ 交通案内：【電車】近鉄・JR鳥羽駅より徒歩3分（送迎有）【お車】伊勢道伊勢ICより伊勢二見鳥羽ライン経由約15分</p>
+                  <p><strong>【所在地・アクセス】</strong>三重県鳥羽市鳥羽1丁目24-26 ／ 最寄り駅：鳥羽 ／ 交通案内：【電車】近鉄・JR鳥羽駅より徒歩3分（送迎有）【お車】伊勢道伊勢ICより伊勢二見鳥羽ライン経由約15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有150台（無料）・電気自動車（EV・PHV）【EV充電エネチェンジ】</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.51 ／ 立地 ★4.47 ／ 部屋 ★4.39 ／ 設備 ★4.24 ／ 風呂 ★4.33 ／ 食事 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

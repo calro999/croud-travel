@@ -536,11 +536,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大名勝断崖海岸＆パノラマ海宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本三大名勝断崖海岸＆パノラマ海宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「日本三大名勝断崖海岸＆パノラマ海宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -604,7 +604,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/141313/141313_kya.jpg" alt="ホテル羅賀荘 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>お天気が良ければ朝陽に出会え、部屋の窓からは紺碧の海と白亜紀断層を眺め日々の疲れを癒す海辺のホテル</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岩手県下閉伊郡田野畑村羅賀60-1 ／ 最寄り駅：田野畑 ／ 交通案内：E４５三陸道「宮古市や久慈市」から車で約４５分。龍泉洞は約３０分。三陸鉄道、田野畑駅から車で約３分（予約で送迎ＯＫ）</p>
+                  <p><strong>【所在地・アクセス】</strong>岩手県下閉伊郡田野畑村羅賀60-1 ／ 最寄り駅：田野畑 ／ 交通案内：E４５三陸道「宮古市や久慈市」から車で約４５分。龍泉洞は約３０分。三陸鉄道、田野畑駅から車で約３分（予約で送迎ＯＫ）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.39 ／ 立地 ★4.52 ／ 部屋 ★4.32 ／ 設備 ★4.17 ／ 風呂 ★4.31 ／ 食事 ★4.41</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -626,7 +626,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4898/4898_heya.jpg" alt="東尋坊温泉　三国オーシャンリゾート＆ホテル（旧：三国観光ホテル） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全室オーシャンビュー！日本海に沈む美しい夕陽をお部屋から◆東尋坊まで車で10分＆“和畳の湯”も人気♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福井県坂井市三国町緑ヶ丘4-4-8 ／ 最寄り駅：芦原温泉 ／ 交通案内：ＪＲ北陸新幹線・ハピライン芦原温泉下車　京福バス東尋坊経由　終点　龍翔博物館前下車</p>
+                  <p><strong>【所在地・アクセス】</strong>福井県坂井市三国町緑ヶ丘4-4-8 ／ 最寄り駅：芦原温泉 ／ 交通案内：ＪＲ北陸新幹線・ハピライン芦原温泉下車　京福バス東尋坊経由　終点　龍翔博物館前下車</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -648,7 +648,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/14660/14660_heya.jpg" alt="あしずり温泉郷　足摺サニーサイドホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>水平線に沈む夕陽が一望出来るレストラン！黒潮の海鮮と土佐のならではの郷土料理をどうぞ♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 高知県土佐清水市松尾19-2 ／ 最寄り駅：中村 ／ 交通案内：中村駅よりバス１００分（足摺岬行き）　タクシー６０分／高知自動車道　四万十町中央ＩＣよりＲ５６、Ｒ３２１経由110分</p>
+                  <p><strong>【所在地・アクセス】</strong>高知県土佐清水市松尾19-2 ／ 最寄り駅：中村 ／ 交通案内：中村駅よりバス１００分（足摺岬行き）　タクシー６０分／高知自動車道　四万十町中央ＩＣよりＲ５６、Ｒ３２１経由110分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

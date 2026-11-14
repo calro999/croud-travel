@@ -356,28 +356,6 @@ export default function ArticlePage() {
         </section>
 
         {/* よくある質問 FAQ */}
-        <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-6">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-stone-900 border-b border-stone-200 pb-3">よくある質問（FAQ）</h2>
-          <div className="space-y-4">
-            
-            <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
-                <span>浜松駅周辺で一人で入りやすいうなぎ屋さんはありますか？</span></h3>
-              <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
-                駅ビル「メイワン」やアクトシティ内、駅南口・北口の老舗（うな炭亭、八百徳など）はすべてカウンター席や一人用テーブルを備えており、出張客が気兼ねなく利用しています。
-              </p>
-            </div>
-            
-            <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
-                <span>新幹線「ひかり」と「こだま」の所要時間はどれくらいですか？</span></h3>
-              <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
-                東京駅から「ひかり」で約1時間25分、新大阪駅から「ひかり」で約1時間20分と、どちらのメガ都市からも乗り換えなしでアクセスできます。
-              </p>
-            </div>
-            
-          </div>
-        </section>
 
         {/* 関連リンク・ナビゲーション */}
         <div className="text-center pt-8 border-t border-stone-200">
@@ -423,11 +401,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">浜松出張＆ソログルメ泊：新幹線直結アクトシティ・地上45階スカイビュー・絶品うなぎ！ものづくりの街の快適拠点 厳選3選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「浜松出張＆ソログルメ泊：新幹線直結アクトシティ・地上45階スカイビュー・絶品うなぎ！ものづくりの街の快適拠点 厳選3選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「浜松出張＆ソログルメ泊：新幹線直結アクトシティ・地上45階スカイビュー・絶品うなぎ！ものづくりの街の快適拠点 厳選3選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -491,7 +469,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2055/2055_s.jpg" alt="オークラアクトシティホテル浜松（オークラホテルズ＆リゾーツ） 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>家康ゆかりの地 浜松☆夜景の見えるシティホテル全国第4位☆上質のおもてなし♪JR浜松駅隣</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県浜松市中央区板屋町111-2 ／ 最寄り駅：浜松 ／ 交通案内：ＪＲ浜松駅２階メイワン改札より連絡通路で徒歩３分。浜松IC.浜松西ICより車で約20分。エコパから電車で約40分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県浜松市中央区板屋町111-2 ／ 最寄り駅：浜松 ／ 交通案内：ＪＲ浜松駅２階メイワン改札より連絡通路で徒歩３分。浜松IC.浜松西ICより車で約20分。エコパから電車で約40分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有料：1台１泊 1,000円 （地下・予約不要・精算はフロント）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.59 ／ 立地 ★4.66 ／ 部屋 ★4.6 ／ 設備 ★4.47 ／ 風呂 ★4.39 ／ 食事 ★4.51</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -513,7 +491,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2920/2920_sgl.jpg" alt="ＡＮＡクラウンプラザホテル浜松　ｂｙＩＨＧ（旧：ホテルクラウンパレス浜松） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>おもてなしの新たなステージ。 伝統と革新が調和するこの場所で、プレミアムな滞在をご体験ください。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県浜松市中央区板屋町110-17 ／ 最寄り駅：浜松 ／ 交通案内：駅北口・バスターミナルから地下道直結で徒歩3分。東名浜松ICから約20分。浜松西ICからは約30分。</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県浜松市中央区板屋町110-17 ／ 最寄り駅：浜松 ／ 交通案内：駅北口・バスターミナルから地下道直結で徒歩3分。東名浜松ICから約20分。浜松西ICからは約30分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>1泊につき1台1000円（税込）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.2 ／ 立地 ★4.31 ／ 部屋 ★4.22 ／ 設備 ★3.96 ／ 風呂 ★4.05 ／ 食事 ★4.13</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -535,7 +513,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1570/1570_sho.jpg" alt="ホテルコンコルド浜松 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>■浜松城隣接■滞在中駐車場無料■シェフが目の前で作るオムレツが人気の朝食バイキング</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県浜松市中央区元城町109-18 ／ 最寄り駅：浜松 ／ 交通案内：■駐車場無料／東名「三方原スマートIC」から約15分or「浜松IC」から約20分■JR浜松駅より路線バスで約6分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県浜松市中央区元城町109-18 ／ 最寄り駅：浜松 ／ 交通案内：■駐車場無料／東名「三方原スマートIC」から約15分or「浜松IC」から約20分■JR浜松駅より路線バスで約6分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料 200台2階建平面駐車場（大型バス・トラックは除く）。屋根付きだからバイクも安心</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.38 ／ 立地 ★4.35 ／ 部屋 ★4.24 ／ 設備 ★4.16 ／ 風呂 ★3.95 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

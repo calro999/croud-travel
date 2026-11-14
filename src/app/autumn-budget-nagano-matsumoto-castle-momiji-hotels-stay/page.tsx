@@ -285,11 +285,11 @@ export default function AutumnBudgetMatsumotoHotelsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">松本：国宝松本城の秋紅葉と新そばを味わう！高コスパ格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「松本：国宝松本城の秋紅葉と新そばを味わう！高コスパ格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「松本：国宝松本城の秋紅葉と新そばを味わう！高コスパ格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -371,7 +371,7 @@ export default function AutumnBudgetMatsumotoHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1599/1599_twn.jpg" alt="ビジネスホテル鶴 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>出水市の中心部で川添いの静かなホテルです。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 鹿児島県出水市昭和町24-15 ／ 最寄り駅：出水 ／ 交通案内：ＪＲ出水駅より徒歩５分／南九州西回り自動車道出水ＩＣより車で１０分/鹿児島空港より車で６０分</p>
+                  <p><strong>【所在地・アクセス】</strong>鹿児島県出水市昭和町24-15 ／ 最寄り駅：出水 ／ 交通案内：ＪＲ出水駅より徒歩５分／南九州西回り自動車道出水ＩＣより車で１０分/鹿児島空港より車で６０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>２８台分　普通車無料（５m以上のトラック、バスは１泊1,000円）先着順となっております。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -393,7 +393,7 @@ export default function AutumnBudgetMatsumotoHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/973/973_dbl.jpg" alt="中町にあるホテル　池田屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>蔵の街「中町」と縄手通りに面した松本情緒溢れる環境。松本城、イオン、芸術館も近く観光に便利な立地です</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県松本市中央3-4-6 ／ 最寄り駅：松本 ／ 交通案内：●松本駅【お城口】徒歩12分●松本情緒溢れる「蔵の町中町」の女鳥羽川沿い8階建●松本城（徒歩5分）、芸術館、美術館至近</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県松本市中央3-4-6 ／ 最寄り駅：松本 ／ 交通案内：●松本駅【お城口】徒歩12分●松本情緒溢れる「蔵の町中町」の女鳥羽川沿い8階建●松本城（徒歩5分）、芸術館、美術館至近</p>
                   <p><strong>【駐車場・マイカー利用】</strong>１台500円(込)／泊　●入出庫可●高さ制限無※大型車・バイクは駐車不可</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -415,7 +415,7 @@ export default function AutumnBudgetMatsumotoHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1173/1173_twn.jpg" alt="白馬東急ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>広い客室と2つのレストラン、バー、エステ、温泉浴場完備の正統派山岳リゾート。駅やゲレンデ無料送迎あり</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県北安曇郡白馬村北城4688 ／ 最寄り駅：白馬 ／ 交通案内：白馬駅からお車で約8分。白馬八方バスターミナルからお車で約3分。送迎はご到着の1時間前までにご依頼ください。</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県北安曇郡白馬村北城4688 ／ 最寄り駅：白馬 ／ 交通案内：白馬駅からお車で約8分。白馬八方バスターミナルからお車で約3分。送迎はご到着の1時間前までにご依頼ください。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り 約70台無料。EV充電器2台分ございます。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.6 ／ 立地 ★4.74 ／ 部屋 ★4.64 ／ 設備 ★4.55 ／ 風呂 ★4.41 ／ 食事 ★4.65</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -437,7 +437,7 @@ export default function AutumnBudgetMatsumotoHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1562/1562_sgl.jpg" alt="松本駅から一番近い大浴場のある　ホテルニューステーション＜長野県＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>創業50年の老舗ホテル◆松本駅東口徒歩１分◆檜の男女大浴場◆和食レストラン◆長期連泊プラン好評受付中</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県松本市中央1-1-11 ／ 最寄り駅：松本 ／ 交通案内：ＪＲ松本駅北隣り徒歩１分。駅（東口）を出て左手４軒目。長野道松本ＩＣから車で１０分。松本バスターミナルから徒歩４分。</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県松本市中央1-1-11 ／ 最寄り駅：松本 ／ 交通案内：ＪＲ松本駅北隣り徒歩１分。駅（東口）を出て左手４軒目。長野道松本ＩＣから車で１０分。松本バスターミナルから徒歩４分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>1000円/泊　アメニティパーク（中央1-15-25）高さ155cm以下　不適合車は別の場所へご案内</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -459,7 +459,7 @@ export default function AutumnBudgetMatsumotoHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1614/1614_heya.jpg" alt="ホテルタングラム　斑尾東急リゾート 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【楽天トラベルブロンズアワード2025受賞】遊ぶ・泊まる・食べるが揃ったリゾートホテル！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県上水内郡信濃町古海3575-8 ／ 最寄り駅：妙高高原 ／ 交通案内：JR黒姫駅より路線バス(有料）　上信越道信濃町ＩＣ又は妙高高原ＩＣから車で20分。</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県上水内郡信濃町古海3575-8 ／ 最寄り駅：妙高高原 ／ 交通案内：JR黒姫駅より路線バス(有料）　上信越道信濃町ＩＣ又は妙高高原ＩＣから車で20分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　1000台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -697,11 +697,11 @@ export default function FurusatoTaxPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">秘境・渓谷の一軒宿×ふるさと納税厳選ガイド黒部峡谷・祖谷・みちのく深山の完全遮断リトリート：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「秘境・渓谷の一軒宿×ふるさと納税厳選ガイド黒部峡谷・祖谷・みちのく深山の完全遮断リトリート」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「秘境・渓谷の一軒宿×ふるさと納税厳選ガイド黒部峡谷・祖谷・みちのく深山の完全遮断リトリート」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -792,7 +792,7 @@ export default function FurusatoTaxPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/40625/40625_kya.jpg" alt="黒部峡谷・宇奈月温泉　ホテル黒部 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>『宇奈月温泉随一の眺望』四季折々の地元食材と透明な美肌湯を堪能</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 富山県黒部市宇奈月温泉７番地 ／ 最寄り駅：宇奈月温泉 ／ 交通案内：北陸新幹線黒部宇奈月温泉駅から富山地鉄乗り換え25分。 宇奈月温泉駅から歩10分／北陸道 黒部ＩＣから約20分。</p>
+                  <p><strong>【所在地・アクセス】</strong>富山県黒部市宇奈月温泉７番地 ／ 最寄り駅：宇奈月温泉 ／ 交通案内：北陸新幹線黒部宇奈月温泉駅から富山地鉄乗り換え25分。 宇奈月温泉駅から歩10分／北陸道 黒部ＩＣから約20分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　無料 （トロッコ観光中もお預かりいたします）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -814,7 +814,7 @@ export default function FurusatoTaxPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/10719/10719_war.jpg" alt="宇奈月温泉　延楽 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>季節のお料理と樹齢四百年の総檜露天風呂。露天風呂付き客室でゆったり自分時間。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 富山県黒部市宇奈月温泉347-1 ／ 最寄り駅：宇奈月温泉 ／ 交通案内：富山地方鉄道「宇奈月温泉駅」より徒歩3分 / 北陸自動車道 黒部ICより約２０分</p>
+                  <p><strong>【所在地・アクセス】</strong>富山県黒部市宇奈月温泉347-1 ／ 最寄り駅：宇奈月温泉 ／ 交通案内：富山地方鉄道「宇奈月温泉駅」より徒歩3分 / 北陸自動車道 黒部ICより約２０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り・4０台・無料・先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.63 ／ 立地 ★4.67 ／ 部屋 ★4.49 ／ 設備 ★4.4 ／ 風呂 ★4.65 ／ 食事 ★4.68</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -836,7 +836,7 @@ export default function FurusatoTaxPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9591/9591_rot.jpg" alt="黒部・宇奈月温泉　やまのは（オリックスホテルズ＆リゾーツ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>おかげさまで連続受賞！「楽天トラベル 日本の宿アワード2025 TOP47」♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 富山県黒部市宇奈月温泉352番地7 ／ 最寄り駅：宇奈月温泉 ／ 交通案内：富山地方鉄道「宇奈月温泉駅」下車徒歩３分　無料送迎バス有※要確認／北陸自動車道黒部IC下車約２０分</p>
+                  <p><strong>【所在地・アクセス】</strong>富山県黒部市宇奈月温泉352番地7 ／ 最寄り駅：宇奈月温泉 ／ 交通案内：富山地方鉄道「宇奈月温泉駅」下車徒歩３分　無料送迎バス有※要確認／北陸自動車道黒部IC下車約２０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>140台の無料駐車スペースがございます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -858,7 +858,7 @@ export default function FurusatoTaxPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/20228/20228_h.jpg" alt="新祖谷温泉　ホテルかずら橋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ケーブルカーで登る天空露天風呂と囲炉裏の宿。渓谷の絶景と郷土料理、温かなおもてなしでお迎えいたします</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 徳島県三好市西祖谷山村善徳３３－１ ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲのお客様 大歩危駅～路線バス20分（タクシー15分）・お車のお客様　徳島自動車道井川池田ＩＣより大歩危経由で５０分</p>
+                  <p><strong>【所在地・アクセス】</strong>徳島県三好市西祖谷山村善徳３３－１ ／ 交通案内：ＪＲのお客様 大歩危駅～路線バス20分（タクシー15分）・お車のお客様　徳島自動車道井川池田ＩＣより大歩危経由で５０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -880,7 +880,7 @@ export default function FurusatoTaxPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4749/4749_heya.jpg" alt="白布温泉　中屋別館　不動閣 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【クーポン配布中】白布温泉で唯一の、渓谷を望む露天風呂！米沢牛と里山の幸に舌鼓！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県米沢市白布温泉大字関1514 ／ 最寄り駅：米沢 ／ 交通案内：JR米沢駅から路線バス（山交バス白布温泉行き）約50分。東北中央自動車道～米沢八幡原IC～国道13号～県道2号線約30分</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県米沢市白布温泉大字関1514 ／ 最寄り駅：米沢 ／ 交通案内：JR米沢駅から路線バス（山交バス白布温泉行き）約50分。東北中央自動車道～米沢八幡原IC～国道13号～県道2号線約30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台（宿泊者無料/先着順）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -902,7 +902,7 @@ export default function FurusatoTaxPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/176968/176968_kan1.jpg" alt="須川高原温泉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>何もいらない、この湯けむりと暖かい陽ざし、植物を揺らす風が少しあればいい、そこが癒しの宿須川高原温泉</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岩手県一関市厳美町祭畤山国有林46林班ト ／ 最寄り駅：一ノ関 ／ 交通案内：一ノ関駅よりお車にて約９０分</p>
+                  <p><strong>【所在地・アクセス】</strong>岩手県一関市厳美町祭畤山国有林46林班ト ／ 最寄り駅：一ノ関 ／ 交通案内：一ノ関駅よりお車にて約９０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

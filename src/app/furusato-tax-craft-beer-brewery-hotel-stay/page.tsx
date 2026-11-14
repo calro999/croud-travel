@@ -697,11 +697,11 @@ export default function FurusatoTaxPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">クラフトビール＆ご当地ブルワリーホテル×ふるさと納税厳選ガイド出来立て生ビールと美食ステイ：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「クラフトビール＆ご当地ブルワリーホテル×ふるさと納税厳選ガイド出来立て生ビールと美食ステイ」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「クラフトビール＆ご当地ブルワリーホテル×ふるさと納税厳選ガイド出来立て生ビールと美食ステイ」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -792,7 +792,7 @@ export default function FurusatoTaxPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/145006/145006_kan.jpg" alt="プチリゾート　アピア 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>開田高原にたたずむプチリゾートホテル「Aｐｐｅａｒ」。癒しの空間で、贅沢な時間を◎</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県木曽郡木曽町開田高原西野8064-2 ／ 最寄り駅：木曽福島 ／ 交通案内：木曽福島駅よりバスにて約５０分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県木曽郡木曽町開田高原西野8064-2 ／ 最寄り駅：木曽福島 ／ 交通案内：木曽福島駅よりバスにて約５０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -814,7 +814,7 @@ export default function FurusatoTaxPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31865/31865_he.jpg" alt="修善寺温泉　国の登録文化財の宿　新井旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ミシュランで二つ星の竹林の小径まで徒歩2分、修善寺温泉の中心で観光に便利です</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県伊豆市修善寺970 ／ 最寄り駅：修善寺 ／ 交通案内：伊豆箱根鉄道線 修善寺駅よりバスまたはタクシーで10分／東名・新東名高速 沼津ICより伊豆縦貫道経由45分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県伊豆市修善寺970 ／ 最寄り駅：修善寺 ／ 交通案内：伊豆箱根鉄道線 修善寺駅よりバスまたはタクシーで10分／東名・新東名高速 沼津ICより伊豆縦貫道経由45分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>あり　40台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.67 ／ 立地 ★4.67 ／ 部屋 ★4.72 ／ 設備 ★4.56 ／ 風呂 ★4.72 ／ 食事 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -836,7 +836,7 @@ export default function FurusatoTaxPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/140978/140978_kya.jpg" alt="長岡温泉　伊豆長岡金城館（伊東園ホテルズ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>あやめ御前ゆかりの源氏山の山裾で、葛城山を近くに望む豊かな自然に囲まれた立地。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県伊豆の国市長岡1035-1 ／ 最寄り駅：伊豆長岡 ／ 交通案内：伊豆長岡駅よりお車にて約１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県伊豆の国市長岡1035-1 ／ 最寄り駅：伊豆長岡 ／ 交通案内：伊豆長岡駅よりお車にて約１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -858,7 +858,7 @@ export default function FurusatoTaxPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9042/9042_heya.jpg" alt="伊豆長岡温泉　ホテル茜 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>実る心地よさに出逢うたび・・・</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県伊豆の国市長岡123 ／ 最寄り駅：伊豆長岡 ／ 交通案内：直通特急（踊り子号）をご利用の場合、東京から伊豆長岡まで約２時間</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県伊豆の国市長岡123 ／ 最寄り駅：伊豆長岡 ／ 交通案内：直通特急（踊り子号）をご利用の場合、東京から伊豆長岡まで約２時間</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -880,7 +880,7 @@ export default function FurusatoTaxPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/825/825_room.jpg" alt="オーセントホテル小樽 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>小樽駅より徒歩5分で観光便利♪海と街を望むノスタルジックなホテル。地産地消の美食も口コミ高評価！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道小樽市稲穂2-15-1 ／ 最寄り駅：主要駅 ／ 交通案内：</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道小樽市稲穂2-15-1 ／ 交通案内：</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -902,7 +902,7 @@ export default function FurusatoTaxPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/188785/188785.jpg" alt="アールジェイホテルズ＜小樽＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>無人チェックインのトレーラーホテル。ペットをお連れの方は「ペット可」ルームをご予約ください。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 北海道小樽市稲穂5-7-8 ／ 最寄り駅：小樽 ／ 交通案内：小樽駅 徒歩約１３分　／　北運河まで徒歩7分　小樽ICより車で5分</p>
+                  <p><strong>【所在地・アクセス】</strong>北海道小樽市稲穂5-7-8 ／ 最寄り駅：小樽 ／ 交通案内：小樽駅 徒歩約１３分　／　北運河まで徒歩7分　小樽ICより車で5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４０台　無料円（税込み／泊）　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

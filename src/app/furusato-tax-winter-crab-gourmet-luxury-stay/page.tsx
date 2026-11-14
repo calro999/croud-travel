@@ -395,37 +395,6 @@ export default function Page() {
           </div>
         </section>
 
-        {/* よくある質問 FAQ */}
-        <section className="mb-16 bg-white rounded-3xl shadow-sm border border-stone-200/80 p-6 md:p-10">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">よくある質問・ふるさと納税トラベルクーポンの疑問を解消</h2>
-          <div className="space-y-4">
-            
-            <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>タグ付きガニと一般的なカニプランで何が違うのですか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
-                タグ付きガニは、指定された港（津居山・三国・境港など）で水揚げされ、大きさ・身詰まり・鮮度の厳格な基準をクリアした最高ランクの活蟹にのみ付けられる証明です。冷凍や輸入物とは甘み・食感・蟹味噌のコクが全く異なり、一度味わうとカニの概念が変わるほどの違いがあります。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>カニの解禁期間以外（春・夏・初秋）でも予約できますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
-                本ズワイガニ（松葉ガニ・越前ガニ）の提供期間は通常11月上旬から翌年3月下旬までです。春から初秋にかけては、深海で獲れる「紅ズワイガニ（香住ガニ）」や白イカ、岩牡蠣などの旬グルメプランにふるさと納税クーポンを利用できます。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>子ども連れでもカニフルコースプランを楽しめますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
-                多くの宿では、大人向けにカニフルコースを提供しつつ、子ども用にはハンバーグやエビフライなどのキッズプレートや、カニを少しだけ取り分けたお子様向け会席を用意しています。個室食事処や部屋食プランを選べば、家族水入らずでゆっくり味わえます。
-              </p>
-            </div>
-          </div>
-        </section>
-
         {/* 相互回遊リンク */}
         <section className="bg-stone-200/80 rounded-3xl p-6 md:p-10 border border-stone-300">
           <div className="text-center max-w-2xl mx-auto mb-8">

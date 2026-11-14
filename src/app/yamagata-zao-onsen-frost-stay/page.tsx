@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">山形・蔵王温泉：樹氷スノーモンスター・強酸性硫黄泉＆山形牛極上宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「山形・蔵王温泉：樹氷スノーモンスター・強酸性硫黄泉＆山形牛極上宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「山形・蔵王温泉：樹氷スノーモンスター・強酸性硫黄泉＆山形牛極上宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -314,7 +314,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/38663/38663_ky.jpg" alt="蔵王温泉　堺屋森のホテルヴァルトベルク 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>蔵王の森に囲まれた　愛らしさあふれる宿／大自然の恵み＜湯量豊富な白濁の温泉＞に身をゆだねる至福の時間</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県山形市蔵王温泉清水坂889-1 ／ 最寄り駅：山形 ／ 交通案内：山形駅よりバスで蔵王温泉行終点まで約40分。下車徒歩15分／バスターミナル送迎有り（要予約）</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県山形市蔵王温泉清水坂889-1 ／ 最寄り駅：山形 ／ 交通案内：山形駅よりバスで蔵王温泉行終点まで約40分。下車徒歩15分／バスターミナル送迎有り（要予約）</p>
                   <p>【山形・蔵王温泉：樹氷スノーモンスター・強酸性硫黄泉＆】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -336,7 +336,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/18758/18758_r.jpg" alt="蔵王温泉　岩清水料理の宿　季の里 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>源泉かけ流し強酸性硫黄泉と蔵王の天然水を沸かした内湯が自慢！山形牛・蔵王牛を使った和会席に舌鼓</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県山形市蔵王温泉1271-1 ／ 最寄り駅：山形 ／ 交通案内：ＪＲ山形駅よりバスで４０分／山形自動車道→山形蔵王ＩＣより３０分      蔵王温泉スキー場徒歩５分</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県山形市蔵王温泉1271-1 ／ 最寄り駅：山形 ／ 交通案内：ＪＲ山形駅よりバスで４０分／山形自動車道→山形蔵王ＩＣより３０分      蔵王温泉スキー場徒歩５分</p>
                   <p>【山形・蔵王温泉：樹氷スノーモンスター・強酸性硫黄泉＆】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -358,7 +358,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8084/8084_room1.jpg" alt="蔵王温泉　最上高湯　善七乃湯（旧：蔵王温泉　大平ホテル） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【温泉4.9】5つの無料貸切風呂完備｜強酸性硫黄泉×源泉かけ流しの極上湯を堪能◆ペット同伴客室あり◆</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県山形市蔵王温泉825 ／ 最寄り駅：山形 ／ 交通案内：JR山形駅より定期バス45分／山形蔵王ICより車で25分／山形駅からの無料送迎（予約サイト・EGBY12月～3月）</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県山形市蔵王温泉825 ／ 最寄り駅：山形 ／ 交通案内：JR山形駅より定期バス45分／山形蔵王ICより車で25分／山形駅からの無料送迎（予約サイト・EGBY12月～3月）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>普通車40台（無料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.48 ／ 立地 ★4.33 ／ 部屋 ★4.28 ／ 設備 ★4.18 ／ 風呂 ★4.6 ／ 食事 ★4.54</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -380,7 +380,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/67210/67210_room.jpg" alt="蔵王温泉　たかみや瑠璃倶楽リゾート　‐ＲＵＲＩＫＵＲＡ　ＲＥＳＯＲＴ‐ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>～名湯一門　高見屋～　蔵王温泉に佇む、雄大な景色と山形の美食を満喫する高原のリゾート。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県山形市蔵王温泉三度川1118-7 ／ 最寄り駅：山形 ／ 交通案内：ＪＲ　山形駅よりバスにて４５分、蔵王バスターミナル下車　蔵王バスターミナルから無料送迎有</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県山形市蔵王温泉三度川1118-7 ／ 最寄り駅：山形 ／ 交通案内：ＪＲ　山形駅よりバスにて４５分、蔵王バスターミナル下車　蔵王バスターミナルから無料送迎有</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -402,7 +402,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/12587/12587_war.jpg" alt="蔵王温泉　蔵王・和歌（うた）の宿　わかまつや 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>旬の地物を手作りした和会席と自家源泉からかけ流しの温泉で人気!貸切風呂無料～斎藤茂吉ゆかりの老舗宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県山形市蔵王温泉951-1 ／ 最寄り駅：山形 ／ 交通案内：JR山形新幹線「山形駅」より蔵王温泉行バス45分　バス停から随時送迎 / 山形道 山形蔵王ICより16km(25分）</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県山形市蔵王温泉951-1 ／ 最寄り駅：山形 ／ 交通案内：JR山形新幹線「山形駅」より蔵王温泉行バス45分　バス停から随時送迎 / 山形道 山形蔵王ICより16km(25分）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料　先着順 第１駐車場（自動消雪）は建物の目の前　蔵王温泉バスターミナル随時送迎</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

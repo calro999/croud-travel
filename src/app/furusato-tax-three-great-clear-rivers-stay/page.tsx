@@ -235,7 +235,7 @@ export default function Page() {
         <section className="space-y-10">
           <div className="text-center space-y-2">
             <h2 className="text-2xl md:text-3xl font-bold text-slate-900">楽天ふるさと納税で泊まる名宿＆厳選ホテル</h2>
-            <p className="text-xs md:text-sm text-slate-500">楽天トラベル公式APIより最新の宿情報・写真・最低参考価格を取得しています
+            <p className="text-xs md:text-sm text-slate-500">宿泊施設データより最新の宿情報・写真・最低参考価格を取得しています
             </p>
           </div>
 
@@ -538,11 +538,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大清流＆奇跡の透明度と川魚・名水グルメ温泉宿×ふるさと納税厳選ガイド四万十川・長良川・柿田川：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本三大清流＆奇跡の透明度と川魚・名水グルメ温泉宿×ふるさと納税厳選ガイド四万十川・長良川・柿田川」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「日本三大清流＆奇跡の透明度と川魚・名水グルメ温泉宿×ふるさと納税厳選ガイド四万十川・長良川・柿田川」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -606,7 +606,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/10838/10838_room.jpg" alt="新安並温泉　なごみ宿　安住庵 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>城山の山頂に建つ四万十の川と街を眼下に望む一軒宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 高知県四万十市中村1815為松公園頂上 ／ 最寄り駅：中村 ／ 交通案内：土佐くろしお鉄道中村駅下車　タクシーで約１０分（徒歩４０分） / 高知自動車道四万十町中央ICより国道５６号線で約６０分</p>
+                  <p><strong>【所在地・アクセス】</strong>高知県四万十市中村1815為松公園頂上 ／ 最寄り駅：中村 ／ 交通案内：土佐くろしお鉄道中村駅下車　タクシーで約１０分（徒歩４０分） / 高知自動車道四万十町中央ICより国道５６号線で約６０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -628,7 +628,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2979/2979_r1.jpg" alt="長良川温泉　十八楼 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>江戸時代より時を刻む麗しの老舗宿。長良川温泉 『蔵の湯』が好評です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岐阜県岐阜市湊町１０番地 ／ 最寄り駅：岐阜 ／ 交通案内：(電車)ＪＲ岐阜駅 名鉄岐阜駅より路線バスにて約15分 長良橋バス停下車　　(車)東海北陸道 一宮木曽川ICより約30分</p>
+                  <p><strong>【所在地・アクセス】</strong>岐阜県岐阜市湊町１０番地 ／ 最寄り駅：岐阜 ／ 交通案内：(電車)ＪＲ岐阜駅 名鉄岐阜駅より路線バスにて約15分 長良橋バス停下車　　(車)東海北陸道 一宮木曽川ICより約30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　乗用車150台　バス１５台　(無料)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -650,7 +650,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/128491/128491_bth.jpg" alt="天然温泉　富嶽の湯　ドーミーイン三島 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>時間限定で、夜鳴きそば＆ウェルカムドリンク＆乳酸菌飲料＆アイス無料提供中♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県三島市大宮町3-18-33 ／ 最寄り駅：三島 ／ 交通案内：ＪＲ　三島駅「南口」より徒歩5分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県三島市大宮町3-18-33 ／ 最寄り駅：三島 ／ 交通案内：ＪＲ　三島駅「南口」より徒歩5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>敷地内駐車場７0台 （平面32台　立体38台）1,200円/1泊　(先着順)※予約不可※</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -665,7 +665,7 @@ export default function Page() {
 
       {/* フッター */}
       <footer className="bg-slate-950 text-slate-400 py-8 px-4 text-center text-xs border-t border-slate-800">
-        <p>© 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の楽天トラベル公式APIに基づきます。</p>
+        <p>© 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の宿泊施設データに基づきます。</p>
       </footer>
     
       <div className="max-w-5xl mx-auto px-4 sm:px-6 my-8">

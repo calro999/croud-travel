@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">愛媛・宇和島＆愛南・滑床渓谷：現存天守宇和島城・滑床キャニオニング＆宇和島鯛めし宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「愛媛・宇和島＆愛南・滑床渓谷：現存天守宇和島城・滑床キャニオニング＆宇和島鯛めし宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「愛媛・宇和島＆愛南・滑床渓谷：現存天守宇和島城・滑床キャニオニング＆宇和島鯛めし宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/148952/148952.jpg" alt="ＣＡＮＤＥＯ　ＨＯＴＥＬＳ（カンデオホテルズ）松山大街道 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>歴史と文化の街・松山の中心地、大街道に誕生した新たな街のシンボル。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛媛県松山市大街道2-5-12 ／ 最寄り駅：主要駅 ／ 交通案内：松山空港よりリムジンバス乗車約25分、一番町下車徒歩約3分。松山市駅より伊予鉄道利用、大街道駅より徒歩1分。</p>
+                  <p><strong>【所在地・アクセス】</strong>愛媛県松山市大街道2-5-12 ／ 交通案内：松山空港よりリムジンバス乗車約25分、一番町下車徒歩約3分。松山市駅より伊予鉄道利用、大街道駅より徒歩1分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場無。有料提携駐車場（お城下パーキング2番町、フラワーパーキング2番町など）をご利用ください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/130595/130595.jpg" alt="ホテルイシバシ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【夕食評価★4.5】JR宇和島駅10分＆大浴場完備/全室wi-fi・無料駐車場・有料レンタル自転車</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛媛県宇和島市栄町港2-4-14 ／ 最寄り駅：宇和島 ／ 交通案内：JR≪宇和島駅≫より徒歩10分｜宇和島朝日ICより車で3分｜宇和島新内港まで徒歩3分</p>
+                  <p><strong>【所在地・アクセス】</strong>愛媛県宇和島市栄町港2-4-14 ／ 最寄り駅：宇和島 ／ 交通案内：JR≪宇和島駅≫より徒歩10分｜宇和島朝日ICより車で3分｜宇和島新内港まで徒歩3分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料・20台　※予約不要・先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/179083/179083.jpg" alt="道後ｈａｋｕｒｏ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2020年ＯＰＥＮ★松山・道後の旅もっと気軽に自由に思い思いに楽しむ温泉ライフスタイルホテル</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛媛県松山市道後鷺谷町3-1 ／ 最寄り駅：道後温泉 ／ 交通案内：道後温泉駅より徒歩にて約5分 ／ 松山自動車道 松山ICより車で約30分 ／ 道後温泉本館まで徒歩約3分</p>
+                  <p><strong>【所在地・アクセス】</strong>愛媛県松山市道後鷺谷町3-1 ／ 最寄り駅：道後温泉 ／ 交通案内：道後温泉駅より徒歩にて約5分 ／ 松山自動車道 松山ICより車で約30分 ／ 道後温泉本館まで徒歩約3分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>平面駐車場【有料】1泊 普通車770円・バイク 550円 ※大型車は駐車できません</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/27716/27716_t.jpg" alt="奥道後　壱湯の守（いちゆのもり） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【西日本最大級の露天風呂で湯巡り♪】道後から車で１０分！大自然に佇む美人湯の宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛媛県松山市末町267 ／ 最寄り駅：松山（愛媛） ／ 交通案内：ＪＲ松山駅よりお車もしくは伊予鉄バス(奥道後行)で３０分／松山ＩＣから国道３１７号線を通って今治方面に４０分</p>
+                  <p><strong>【所在地・アクセス】</strong>愛媛県松山市末町267 ／ 最寄り駅：松山（愛媛） ／ 交通案内：ＪＲ松山駅よりお車もしくは伊予鉄バス(奥道後行)で３０分／松山ＩＣから国道３１７号線を通って今治方面に４０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場300台完備(先着順)</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.5 ／ 立地 ★4.36 ／ 部屋 ★4.25 ／ 設備 ★4.12 ／ 風呂 ★4.53 ／ 食事 ★4.47</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2352/2352_wheya.jpg" alt="宇和島オリエンタルホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>心がほっとする滞在を。選べるバスソルトと香る柑橘、淹れたてコーヒーでお迎え。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛媛県宇和島市鶴島町6-10 ／ 最寄り駅：宇和島 ／ 交通案内：JR宇和島駅から徒歩5分｜松山自動車道宇和島朝日町ＩＣから車3分 │ コンビニ徒歩5分</p>
+                  <p><strong>【所在地・アクセス】</strong>愛媛県宇和島市鶴島町6-10 ／ 最寄り駅：宇和島 ／ 交通案内：JR宇和島駅から徒歩5分｜松山自動車道宇和島朝日町ＩＣから車3分 │ コンビニ徒歩5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>1泊1台あたり700円　先着順でご案内いたします。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.25 ／ 立地 ★4.11 ／ 部屋 ★4.12 ／ 設備 ★4.06 ／ 風呂 ★4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/145017/145017_room.jpg" alt="道後温泉　旅亭　うめ乃や 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>湯築の杜を望む静かな落ち着き。数寄屋造りの歴史感じる温泉宿で過ごす大人の贅沢。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 愛媛県松山市上市2-8-9 ／ 最寄り駅：道後温泉 ／ 交通案内：伊予鉄松山市駅・JR松山駅から伊予鉄で道後温泉駅へ。道後温泉駅・道後温泉本館から徒歩5分。</p>
+                  <p><strong>【所在地・アクセス】</strong>愛媛県松山市上市2-8-9 ／ 最寄り駅：道後温泉 ／ 交通案内：伊予鉄松山市駅・JR松山駅から伊予鉄で道後温泉駅へ。道後温泉駅・道後温泉本館から徒歩5分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８台　無料　予約必要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.82 ／ 立地 ★4.76 ／ 部屋 ★4.47 ／ 設備 ★4.35 ／ 風呂 ★4.65 ／ 食事 ★4.88</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

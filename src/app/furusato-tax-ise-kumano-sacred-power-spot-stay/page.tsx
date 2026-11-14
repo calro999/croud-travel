@@ -395,37 +395,6 @@ export default function Page() {
           </div>
         </section>
 
-        {/* よくある質問 FAQ */}
-        <section className="mb-16 bg-white rounded-3xl shadow-sm border border-stone-200/80 p-6 md:p-10">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">よくある質問・ふるさと納税トラベルクーポンの疑問を解消</h2>
-          <div className="space-y-4">
-            
-            <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>伊勢神宮や出雲大社の正式な参拝マナーはありますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
-                伊勢神宮では「外宮先参（げくうせんさん）」といって、外宮から参拝した後に内宮へお参りするのが古くからの習わしです。拝礼は通常の「二礼二拍手一礼」。一方、出雲大社では独自の「二礼四拍手一礼」が作法となっています。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>熊野古道を歩く際の服装や装備はどうすればいいですか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
-                大門坂から那智の滝周辺などの初心者コースでも石畳の階段が続くため、滑りにくいスニーカーやトレッキングシューズ、動きやすい服装が必須です。山間部は天候が変わりやすいため、折りたたみ傘や雨具を携帯しておくと安心です。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>御朱印集めをしているのですが、宿で御朱印帳の販売はありますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
-                門前宿や聖地周辺のホテルでは、オリジナルの表紙をあしらった限定御朱印帳を販売しているところが多くあります。神社仏閣の授与所で受ける御朱印と合わせて、旅の素晴らしい記念になります。
-              </p>
-            </div>
-          </div>
-        </section>
-
         {/* 相互回遊リンク */}
         <section className="bg-stone-200/80 rounded-3xl p-6 md:p-10 border border-stone-300">
           <div className="text-center max-w-2xl mx-auto mb-8">

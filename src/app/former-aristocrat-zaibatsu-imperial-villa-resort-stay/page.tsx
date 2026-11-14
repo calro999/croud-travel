@@ -310,37 +310,6 @@ export default function Page() {
           </div>
         </section>
 
-        {/* よくある質問 FAQ */}
-        <section className="mb-16 bg-white rounded-2xl shadow-sm border border-stone-200/80 p-6 md:p-8">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">よくある質問・歴史建築宿の楽しみ方</h2>
-          <div className="space-y-4">
-            
-            <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-amber-700 font-serif font-black text-lg">Q.</span>
-                <span>旧財閥別邸や華族別邸の宿は一般の旅行者でも気軽に泊まれますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
-                はい、現在は高級旅館やリゾートホテルとして一般の宿泊予約を受け付けています。歴史的格式は高くとも、温かく心地よいホスピタリティで迎えてくれるため、記念日やご褒美旅行、家族旅行に最適です。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-amber-700 font-serif font-black text-lg">Q.</span>
-                <span>庭園散策や写真撮影は自由にできますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
-                敷地内の広大な名園は宿泊者限定で散策できる宿が多く、混雑のない静寂の中で四季の移ろいや苔庭、池泉回遊式庭園の美しさを堪能できます。朝の澄んだ空気の中での庭園散歩は格別です。
-              </p>
-            </div>
-
-            <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-amber-700 font-serif font-black text-lg">Q.</span>
-                <span>食事はどのような形式で提供されますか？</span></h3>
-              <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
-                多くの宿では、地元の厳選素材や旬の味覚を贅沢に盛り込んだ本格的な京懐石や会席料理がお部屋または個室食事処で提供されます。器選びから盛り付けに至るまで美術品のような美しさを楽しめます。
-              </p>
-            </div>
-          </div>
-        </section>
-
         {/* 関連リンク */}
         <section className="bg-stone-200/70 rounded-2xl p-6 md:p-8 text-center border border-stone-300">
           <h3 className="text-xl font-bold text-stone-900 mb-3 font-serif">他のこだわり・テーマ特化ステイを探す</h3>
@@ -478,10 +447,10 @@ export default function Page() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/yamagata/"
+                href="/prefectures/kyoto/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                山形県の宿・温泉
+                京都府の宿・温泉
               </Link>
               <Link
                 href="/prefectures/kanagawa/"

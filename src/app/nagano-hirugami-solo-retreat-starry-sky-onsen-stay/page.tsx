@@ -77,7 +77,7 @@ export default function ArticlePage() {
             長野・昼神温泉ひとり旅＆日本一の星空おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「昼神温泉ひとり旅・日本一の星空おこもり」pH9.7超とろとろ美肌の湯・阿智村ナイトツアー・信州郷土会席！南信州の星降る里厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               南信州・阿智村に位置し、昭和48年に国鉄のトンネル工事中に突如湧出した奇跡の温泉・昼神温泉。全国屈指の強アルカリ性（pH9.7）を誇る単純硫黄泉は「美人の湯」として知られ、さらに環境省が認めた日本一の星空観測地としても世界中から注目を集めています。
             </p>
             <p>
-              一人旅でも星空ナイトツアーへの参加がしやすく、肌に吸い付くような名湯と南信州の旬の味覚をゆっくり堪能できる厳選3宿を、楽天トラベル公式APIより直接取得した最新スペックをもとに紹介します。
+              一人旅でも星空ナイトツアーへの参加がしやすく、肌に吸い付くような名湯と南信州の旬の味覚をゆっくり堪能できる厳選3宿を、宿泊施設の詳細スペック・設備情報をもとに紹介します。
             </p>
           </div>
         </header>
@@ -418,11 +418,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">昼神温泉ひとり旅・日本一の星空おこもり：pH9.7超とろとろ美肌の湯・阿智村ナイトツアー・信州郷土会席！南信州の星降る里厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「昼神温泉ひとり旅・日本一の星空おこもり：pH9.7超とろとろ美肌の湯・阿智村ナイトツアー・信州郷土会席！南信州の星降る里厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「昼神温泉ひとり旅・日本一の星空おこもり：pH9.7超とろとろ美肌の湯・阿智村ナイトツアー・信州郷土会席！南信州の星降る里厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -451,7 +451,7 @@ export default function ArticlePage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 昼神温泉　湯多利の里　伊那華</td>
-                <td className="p-3 text-stone-600">青森県</td>
+                <td className="p-3 text-stone-600">長野県 下伊那郡阿智村智里503-294</td>
                 <td className="p-3 text-stone-600">ＪＲ飯田線 飯田駅よりバスで４０分（無料送迎有り）／中央道 飯田山本Ｉ</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.21（574件）</td>
@@ -486,7 +486,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5978/5978_bath.jpg" alt="昼神温泉　ひるがみの森 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>日本一の星空ナイトツアー：当日の天気次第でもチケットキャンセルが対応可な宿★彡</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県下伊那郡阿智村智里567-10 ／ 最寄り駅：天竜峡 ／ 交通案内：中央自動車道・園原ICより車にて10分(名古屋・関西方面)、中央自動車道・飯田山本ICより車にて10分(関東・長野方面)</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県下伊那郡阿智村智里567-10 ／ 最寄り駅：天竜峡 ／ 交通案内：中央自動車道・園原ICより車にて10分(名古屋・関西方面)、中央自動車道・飯田山本ICより車にて10分(関東・長野方面)</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　150台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.37 ／ 立地 ★4.18 ／ 部屋 ★4.22 ／ 設備 ★4.22 ／ 風呂 ★4.42 ／ 食事 ★4.35</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -507,8 +507,8 @@ export default function ArticlePage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/72860/72860_yok.jpg" alt="昼神温泉　湯多利の里　伊那華 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「昼神温泉ひとり旅・日本一の星空おこもり（pH9.7超とろとろ美肌の湯・阿智村ナイトツアー・信州郷土会席）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ飯田線 飯田駅よりバスで４０分（無料送迎有り）／中央道 飯田山本ＩＣより車で10分／中央道 園原ＩＣより車で１０分</p>
+                  <p><strong>【宿の特徴・魅力】</strong>長野県下伊那郡阿智村智里503-294の「昼神温泉 湯多利の里 伊那華」（楽天トラベル評価4.21（582件）／1泊目安¥7,700〜）の魅力と宿泊ポイントを詳しく紹介。４つの内湯に７つの露天風呂、8つの足湯そして豊富なメニューのバイキングが楽しめるお宿です。客室タイプや大浴場・温泉、朝食・夕食の魅力、アクセス（ＪＲ飯田線 飯田駅よりバスで４０分（無料送迎有り）／中央道 飯田山本ＩＣより車で10分／中）・駐車場情報からお得なクーポン予約術まで網羅しています。</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：ＪＲ飯田線 飯田駅よりバスで４０分（無料送迎有り）／中央道 飯田山本ＩＣより車で10分／中央道 園原ＩＣより車で１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -530,7 +530,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/51693/51693_oh.jpg" alt="昼神温泉郷　懐石と炉ばたの宿　吉弥 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>昼神温泉のとろりとした美肌の湯と炉ばた／懐石料理が自慢の宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県下伊那郡阿智村智里503-2 ／ 最寄り駅：飯田（長野） ／ 交通案内：中央道　名古屋方面から：園原ＩＣより約１０分　　東京方面から：飯田山本ＩＣより約１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県下伊那郡阿智村智里503-2 ／ 最寄り駅：飯田（長野） ／ 交通案内：中央道　名古屋方面から：園原ＩＣより約１０分　　東京方面から：飯田山本ＩＣより約１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　4０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

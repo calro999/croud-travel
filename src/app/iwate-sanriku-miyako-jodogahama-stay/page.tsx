@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">岩手・三陸宮古＆浄土ヶ浜：極楽浄土の白い奇岩・青の洞窟＆名物「瓶ドン」宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「岩手・三陸宮古＆浄土ヶ浜：極楽浄土の白い奇岩・青の洞窟＆名物「瓶ドン」宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「岩手・三陸宮古＆浄土ヶ浜：極楽浄土の白い奇岩・青の洞窟＆名物「瓶ドン」宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/64789/64789_si.jpg" alt="浄土ヶ浜パークホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>浄土ヶ浜の高台に建つ和の景観と四季の恵みあふれるホテル。三陸の海の幸をご用意してお待ちしております</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岩手県宮古市日立浜町32-4 ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ山田線　宮古駅から奥浄土ヶ浜行きバスにて１５分、浄土ヶ浜ビジターセンター下車後、徒歩５分。【ペットと宿泊可※小型犬】</p>
+                  <p><strong>【所在地・アクセス】</strong>岩手県宮古市日立浜町32-4 ／ 交通案内：ＪＲ山田線　宮古駅から奥浄土ヶ浜行きバスにて１５分、浄土ヶ浜ビジターセンター下車後、徒歩５分。【ペットと宿泊可※小型犬】</p>
                   <p>【岩手・三陸宮古＆浄土ヶ浜：極楽浄土の白い奇岩・青の洞】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/44853/44853_ka1.jpg" alt="備長炭の湯　ホテル宮古ヒルズ　ステーション店（ＢＢＨホテルグループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★駐車場無料☆コンビニ徒歩１分圏内★男性専用大浴場完備（サウナ完備）☆平日限定無料夜カレー★</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岩手県宮古市和見町5-1 ／ 最寄り駅：宮古 ／ 交通案内：ＪＲ宮古駅より徒歩5分♪　宮古中央ICから車で約12分</p>
+                  <p><strong>【所在地・アクセス】</strong>岩手県宮古市和見町5-1 ／ 最寄り駅：宮古 ／ 交通案内：ＪＲ宮古駅より徒歩5分♪　宮古中央ICから車で約12分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（無料）／約４０台／完全先着順（予約不可）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/145293/145293_siw.jpg" alt="ホテル　ルートイン宮古 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>大浴場完備、全室Wi-Fi 無料</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岩手県宮古市藤の川15-38 ／ 最寄り駅：宮古 ／ 交通案内：ＪＲ三陸鉄道　宮古駅よりお車にて約１0分、三陸自動車道 宮古南IC・宮古港ICより 車で約5分</p>
+                  <p><strong>【所在地・アクセス】</strong>岩手県宮古市藤の川15-38 ／ 最寄り駅：宮古 ／ 交通案内：ＪＲ三陸鉄道　宮古駅よりお車にて約１0分、三陸自動車道 宮古南IC・宮古港ICより 車で約5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　197台　（無料） 大型車駐車可能</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31842/31842_kan1.jpg" alt="宮古ホテル沢田屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>宮古近海で揚れた旬の魚介料理が好評！【無料駐車場】【大浴場】【Wi-Fi】】【全室バス・トイレ】完備</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岩手県宮古市新町4-1 ／ 最寄り駅：宮古 ／ 交通案内：宮古駅より徒歩10分、宮古南IC＆宮古港フェリーターミナルからは車で15分圏内</p>
+                  <p><strong>【所在地・アクセス】</strong>岩手県宮古市新町4-1 ／ 最寄り駅：宮古 ／ 交通案内：宮古駅より徒歩10分、宮古南IC＆宮古港フェリーターミナルからは車で15分圏内</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　20台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/59644/59644_hu.jpg" alt="つたや旅館＜岩手県＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>昭和２８年創業、宮作りの建物は半世紀たってもしっかりしており、時の流れを忘れさせてくれます。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岩手県久慈市中央2-22 ／ 最寄り駅：久慈 ／ 交通案内：第一ホテル裏側に隣接、赤屋根　駅直進、みち銀右50M  先着駐車場　右50Mパチ屋横　 携帯08055526612</p>
+                  <p><strong>【所在地・アクセス】</strong>岩手県久慈市中央2-22 ／ 最寄り駅：久慈 ／ 交通案内：第一ホテル裏側に隣接、赤屋根　駅直進、みち銀右50M  先着駐車場　右50Mパチ屋横　 携帯08055526612</p>
                   <p><strong>【駐車場・マイカー利用】</strong>旅館横のガレージ、左50m拉麺屋空地、駅裏　看板有</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/148922/148922_room.jpg" alt="渚亭たろう庵 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全室露天風呂付！東北唯一の海岸国立公園を眼下に望む≪絶景美食の宿≫。雄大な景色、三陸の海の幸が魅力！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岩手県宮古市田老青砂里164-1 ／ 最寄り駅：田老 ／ 交通案内：三陸鉄道　「新田老駅」より無料送迎有り（事前に到着時間をお知らせください）</p>
+                  <p><strong>【所在地・アクセス】</strong>岩手県宮古市田老青砂里164-1 ／ 最寄り駅：田老 ／ 交通案内：三陸鉄道　「新田老駅」より無料送迎有り（事前に到着時間をお知らせください）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>敷地内に有り　１３台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

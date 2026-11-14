@@ -536,11 +536,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -604,7 +604,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/64789/64789_si.jpg" alt="浄土ヶ浜パークホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>浄土ヶ浜の高台に建つ和の景観と四季の恵みあふれるホテル。三陸の海の幸をご用意してお待ちしております</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岩手県宮古市日立浜町32-4 ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ山田線　宮古駅から奥浄土ヶ浜行きバスにて１５分、浄土ヶ浜ビジターセンター下車後、徒歩５分。【ペットと宿泊可※小型犬】</p>
+                  <p><strong>【所在地・アクセス】</strong>岩手県宮古市日立浜町32-4 ／ 交通案内：ＪＲ山田線　宮古駅から奥浄土ヶ浜行きバスにて１５分、浄土ヶ浜ビジターセンター下車後、徒歩５分。【ペットと宿泊可※小型犬】</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -626,7 +626,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/72851/72851_room.jpg" alt="オーベルジュ　土佐山 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ここは、したたる緑と澄みわたる流れに抱かれた「オーベルジュ」至福の味わいと極上の空間をご用意。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 高知県高知市土佐山東川661 ／ 最寄り駅：高知 ／ 交通案内：高知駅よりお車にて約４０分</p>
+                  <p><strong>【所在地・アクセス】</strong>高知県高知市土佐山東川661 ／ 最寄り駅：高知 ／ 交通案内：高知駅よりお車にて約４０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場　約５０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.65 ／ 立地 ★4.59 ／ 部屋 ★4.56 ／ 設備 ★4.56 ／ 風呂 ★4.52 ／ 食事 ★4.74</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -648,7 +648,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8178/8178_jpr.jpg" alt="山口県　長門湯本温泉　大谷山荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>山間の自然に佇む明治14年創業の温泉旅館。長州藩主も湯治に訪れた長門湯本温泉で、四季折々のお寛ぎを</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山口県長門市深川湯本2208 ／ 最寄り駅：長門湯本 ／ 交通案内：お車で角島・JR新山口駅へ60分／宇部空港へ70分／絶景元乃隅神社・萩へ35分／JR長門湯本駅より無料送迎5分</p>
+                  <p><strong>【所在地・アクセス】</strong>山口県長門市深川湯本2208 ／ 最寄り駅：長門湯本 ／ 交通案内：お車で角島・JR新山口駅へ60分／宇部空港へ70分／絶景元乃隅神社・萩へ35分／JR長門湯本駅より無料送迎5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料　90台 収容　屋内駐車場もございます。背の高いお車でもご安心ください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

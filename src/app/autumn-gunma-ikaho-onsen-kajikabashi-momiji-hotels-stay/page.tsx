@@ -317,11 +317,11 @@ export default function IkahoOnsenAutumnPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋の伊香保温泉：河鹿橋の紅葉ライトアップと石段街レトロ散策！黄金の湯を楽しむおすすめ名宿5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「秋の伊香保温泉：河鹿橋の紅葉ライトアップと石段街レトロ散策！黄金の湯を楽しむおすすめ名宿5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「秋の伊香保温泉：河鹿橋の紅葉ライトアップと石段街レトロ散策！黄金の湯を楽しむおすすめ名宿5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -403,7 +403,7 @@ export default function IkahoOnsenAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/70871/70871_matu.jpg" alt="伊香保温泉　香雲館 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★全10室・全室露天風呂付客室の宿★大浴場はわずか8軒の【黄金の湯】を100％源泉掛け流しで贅沢に。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県渋川市伊香保町伊香保175 ／ 最寄り駅：渋川 ／ 交通案内：ＪＲ渋川駅から伊香保温泉行きバス乗車で２５分※バス停までは随時送迎可。到着時お電話下さい。</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県渋川市伊香保町伊香保175 ／ 最寄り駅：渋川 ／ 交通案内：ＪＲ渋川駅から伊香保温泉行きバス乗車で２５分※バス停までは随時送迎可。到着時お電話下さい。</p>
                   <p>【秋の伊香保温泉：河鹿橋の紅葉ライトアップと石段街レト】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.89 ／ 立地 ★4.65 ／ 部屋 ★4.78 ／ 設備 ★4.7 ／ 風呂 ★4.76 ／ 食事 ★4.89</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -425,7 +425,7 @@ export default function IkahoOnsenAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/10737/10737_room.jpg" alt="伊香保温泉　和心の宿　大森 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>口コミサービス部門「4.7点」石段まで徒歩5分、標高800mの絶景露天風呂・貸切風呂あり</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県渋川市伊香保町伊香保58 ／ 最寄り駅：渋川 ／ 交通案内：関越道『渋川伊香保IC』より12km/JR上越線『渋川駅』</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県渋川市伊香保町伊香保58 ／ 最寄り駅：渋川 ／ 交通案内：関越道『渋川伊香保IC』より12km/JR上越線『渋川駅』</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　80台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.69 ／ 立地 ★4.43 ／ 部屋 ★4.44 ／ 設備 ★4.31 ／ 風呂 ★4.49 ／ 食事 ★4.65</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -447,7 +447,7 @@ export default function IkahoOnsenAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/19271/19271_heya.jpg" alt="伊香保温泉　ホテル松本楼 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>露天風呂付客室、サウナ付客室、展望部屋、バリアフリールームなど8種以上の客室タイプ。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県渋川市伊香保町伊香保164 ／ 最寄り駅：渋川 ／ 交通案内：ＪＲ上越線渋川駅よりバスで見晴下下車／関越自動車道渋川・伊香保ＩＣより約１０ｋｍ</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県渋川市伊香保町伊香保164 ／ 最寄り駅：渋川 ／ 交通案内：ＪＲ上越線渋川駅よりバスで見晴下下車／関越自動車道渋川・伊香保ＩＣより約１０ｋｍ</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台　無料　余裕有り</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.65 ／ 立地 ★4.33 ／ 部屋 ★4.5 ／ 設備 ★4.47 ／ 風呂 ★4.59 ／ 食事 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -469,7 +469,7 @@ export default function IkahoOnsenAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7170/7170_hur.jpg" alt="伊香保温泉　温泉宿　塚越屋七兵衛 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>伊香保に語り継がれる希少泉質「黄金の湯」を、贅沢に源泉かけ流しで楽しむ至福の宿泊体験。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県渋川市伊香保町伊香保175 ／ 最寄り駅：渋川 ／ 交通案内：関越自動車道 渋川・伊香保ICより車にて20分　※路線バス・高速バスをご利用の際はバス停送迎有（到着時連絡）</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県渋川市伊香保町伊香保175 ／ 最寄り駅：渋川 ／ 交通案内：関越自動車道 渋川・伊香保ICより車にて20分　※路線バス・高速バスをご利用の際はバス停送迎有（到着時連絡）</p>
                   <p>【秋の伊香保温泉：河鹿橋の紅葉ライトアップと石段街レト】 <strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -491,7 +491,7 @@ export default function IkahoOnsenAutumnPage() {
                 
                 <div className="md:col-span-3 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>どこかなつかしい横丁のような雰囲気の館内。上州牛すきやきと地酒がたのしめる心地よい宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県渋川市伊香保町伊香保557 ／ 最寄り駅：主要駅 ／ 交通案内：</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県渋川市伊香保町伊香保557 ／ 交通案内：</p>
                   <p>【秋の伊香保温泉：河鹿橋の紅葉ライトアップと石段街レト】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

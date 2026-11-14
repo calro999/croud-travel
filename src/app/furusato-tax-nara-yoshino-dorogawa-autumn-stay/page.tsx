@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-nara-yoshino-dorogawa-autumn-stay/"
   };
 
@@ -482,11 +482,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">奈良・吉野山＆大峯山麓 洞川温泉のレトロ街並み紅葉！名水ごごろと名物ぼたん鍋・大和牛｜ふるさと納税で泊まれる名宿ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「奈良・吉野山＆大峯山麓 洞川温泉のレトロ街並み紅葉！名水ごごろと名物ぼたん鍋・大和牛｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「奈良・吉野山＆大峯山麓 洞川温泉のレトロ街並み紅葉！名水ごごろと名物ぼたん鍋・大和牛｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -515,7 +515,7 @@ export default function Page() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 洞川温泉　行者の宿　角甚</td>
-                <td className="p-3 text-stone-600">北海道</td>
+                <td className="p-3 text-stone-600">奈良県吉野郡天川村洞川240</td>
                 <td className="p-3 text-stone-600">近鉄電車下市口駅より、奈良交通バスで約８０分。タクシ-で４０分。南阪奈</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.73（295件）</td>
@@ -550,7 +550,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8054/8054_heya.jpg" alt="洞川（どろがわ）温泉☆後鬼の湯・宿　花屋徳兵衛 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>創業500年☆一番の老舗温泉旅館【貸切温泉有】リピーターの多い宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 奈良県吉野郡天川村洞川217 ／ 最寄り駅：下市口 ／ 交通案内：【バス】近鉄下市口駅～洞川温泉行きバス約80分/【車】南阪奈道路～京奈和道路御所南ICより約70分</p>
+                  <p><strong>【所在地・アクセス】</strong>奈良県吉野郡天川村洞川217 ／ 最寄り駅：下市口 ／ 交通案内：【バス】近鉄下市口駅～洞川温泉行きバス約80分/【車】南阪奈道路～京奈和道路御所南ICより約70分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場(無料）到着時は一旦宿の前で下車し、荷物をお預けください。駐車場までは宿の車で送迎致します。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -571,8 +571,8 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9273/9273.jpg" alt="洞川温泉　行者の宿　角甚 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「奈良・吉野山＆大峯山麓 洞川温泉のレトロ街並み紅葉（名水ごごろと名物ぼたん鍋・大和牛）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：近鉄電車下市口駅より、奈良交通バスで約８０分。タクシ-で４０分。南阪奈道路　橿原終点より車で約７０分。</p>
+                  <p><strong>【宿の特徴・魅力】</strong>昔ながらの縁側、旅籠の風情を残す全８室の和空間。露天風呂付客室人気</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：近鉄電車下市口駅より、奈良交通バスで約８０分。タクシ-で４０分。南阪奈道路　橿原終点より車で約７０分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -594,7 +594,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/144962/144962_kya.jpg" alt="プチホテル＆中華料理　彰武 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★少人数の、ご宿泊大歓迎◎登山◎観光◎神社お寺の参拝◎お仕事◎川魚つりなど、お気軽に御予約下さい★</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 奈良県吉野郡天川村洞川293-4 ／ 最寄り駅：下市口 ／ 交通案内：★洞川温泉バス停から徒歩15分★バス停までの送迎致します(電話で、お伝え下さい)★</p>
+                  <p><strong>【所在地・アクセス】</strong>奈良県吉野郡天川村洞川293-4 ／ 最寄り駅：下市口 ／ 交通案内：★洞川温泉バス停から徒歩15分★バス停までの送迎致します(電話で、お伝え下さい)★</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

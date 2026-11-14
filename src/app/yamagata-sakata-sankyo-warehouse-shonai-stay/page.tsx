@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">山形・酒田＆山居倉庫・庄内砂丘：北前船豪商の港町・酒田ラーメン＆日本海夕陽宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「山形・酒田＆山居倉庫・庄内砂丘：北前船豪商の港町・酒田ラーメン＆日本海夕陽宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「山形・酒田＆山居倉庫・庄内砂丘：北前船豪商の港町・酒田ラーメン＆日本海夕陽宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -305,7 +305,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/44087/44087_wa.jpg" alt="日和山ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>故郷に帰ったような温かい昭和の宿。Wifi無料・館内イノベーション済・日和山公園すぐそば。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県酒田市南新町2-2-4 ／ 最寄り駅：酒田 ／ 交通案内：ＪＲ酒田駅よりバスで約６分：酒田駅前からお越しの場合、最終１７：５０発です　庄内空港から乗り合いタクシーで１５００円。</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県酒田市南新町2-2-4 ／ 最寄り駅：酒田 ／ 交通案内：ＪＲ酒田駅よりバスで約６分：酒田駅前からお越しの場合、最終１７：５０発です　庄内空港から乗り合いタクシーで１５００円。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場無料【12台】、先着順でのご案内です。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -327,7 +327,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/191950/191950.jpg" alt="湯野浜ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>本格的な韓国料理を楽しめる海辺の温泉旅館。全部屋トイレ付でプライバシーも安心です&amp;#9836;</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県鶴岡市湯野浜1-3-36 ／ 最寄り駅：鶴岡 ／ 交通案内：鶴岡駅 バス約４０分・車約２５分</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県鶴岡市湯野浜1-3-36 ／ 最寄り駅：鶴岡 ／ 交通案内：鶴岡駅 バス約４０分・車約２５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★4.09 ／ 部屋 ★4.22 ／ 設備 ★4.06 ／ 風呂 ★4.38</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -349,7 +349,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/56286/56286_room.jpg" alt="ＫＡＭＥＹＡ　ＨＯＴＥＬ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>水平線に沈む絶景の夕陽を全てのお部屋から。 庄内の豊かな海の幸、山の幸を生かした極上の美食宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県鶴岡市湯野浜1-5-50 ／ 最寄り駅：鶴岡 ／ 交通案内：ＪＲ　鶴岡駅より車で２5分、定期バスで４０分／庄内空港より車で１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県鶴岡市湯野浜1-5-50 ／ 最寄り駅：鶴岡 ／ 交通案内：ＪＲ　鶴岡駅より車で２5分、定期バスで４０分／庄内空港より車で１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -371,7 +371,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/32244/32244_wa.jpg" alt="湯野浜温泉　海辺のお宿　一久 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>波のたりの夕暮れに、庄内のおいしいを喰らふ＜全室オーシャンビュー＞</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県鶴岡市湯野浜1-10-29 ／ 最寄り駅：鶴岡 ／ 交通案内：ＪＲ鶴岡駅よりタクシーで２５分　定期バス（４０分）バス停より徒歩３分</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県鶴岡市湯野浜1-10-29 ／ 最寄り駅：鶴岡 ／ 交通案内：ＪＲ鶴岡駅よりタクシーで２５分　定期バス（４０分）バス停より徒歩３分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　25台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

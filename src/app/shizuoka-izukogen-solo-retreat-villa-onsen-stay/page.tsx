@@ -77,7 +77,7 @@ export default function ArticlePage() {
             静岡・伊豆高原ひとり旅＆大室山オーシャンおこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「東伊豆・伊豆高原ひとり旅・大室山と海一望おこもり」全室客室露天風呂・金目鯛姿煮・伊豆ジオパーク！東京特急踊り子直通のリゾート厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               伊豆東海岸の高台に位置する伊豆高原は、四季折々の豊かな緑と澄んだ海風に恵まれたリゾートエリア。美術館やギャラリー、お洒落なカフェが点在し、一人旅でも気兼ねなくマイペースに過ごせます。相模湾で水揚げされた新鮮な金目鯛の煮付けや地魚のお造りを味わい、静寂に包まれた森の露天風呂で日常を忘れる癒やしの時間が流れます。
             </p>
             <p>
-              プライベート感を徹底的に重視した露天風呂付き隠れ宿から、名園を配した格調高いリゾート温泉ホテルまで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              プライベート感を徹底的に重視した露天風呂付き隠れ宿から、名園を配した格調高いリゾート温泉ホテルまで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -421,11 +421,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">東伊豆・伊豆高原ひとり旅・大室山と海一望おこもり：全室客室露天風呂・金目鯛姿煮・伊豆ジオパーク！東京特急踊り子直通のリゾート厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「東伊豆・伊豆高原ひとり旅・大室山と海一望おこもり：全室客室露天風呂・金目鯛姿煮・伊豆ジオパーク！東京特急踊り子直通のリゾート厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「東伊豆・伊豆高原ひとり旅・大室山と海一望おこもり：全室客室露天風呂・金目鯛姿煮・伊豆ジオパーク！東京特急踊り子直通のリゾート厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -489,7 +489,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/128493/128493_room.jpg" alt="伊豆高原　記念日を祝う宿　自然家．Ｈａｃｏ（しぜんや．ハコ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【全室露天風呂付客室＆お部屋食の安心Relaxスタイル】海一望、絶景ロケーションで二人きり癒しステイ</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県伊東市富戸1160-11 ／ 最寄り駅：富戸 ／ 交通案内：富戸駅より送迎可能（要予約）徒歩２０分／東名厚木ＩＣ、沼津ＩＣより約９０分 電気自動車でお越しの方 充電可能！</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県伊東市富戸1160-11 ／ 最寄り駅：富戸 ／ 交通案内：富戸駅より送迎可能（要予約）徒歩２０分／東名厚木ＩＣ、沼津ＩＣより約９０分 電気自動車でお越しの方 充電可能！</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.78 ／ 立地 ★4.69 ／ 部屋 ★4.67 ／ 設備 ★4.64 ／ 風呂 ★4.89 ／ 食事 ★4.92</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -511,7 +511,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/171866/171866_kan1.jpg" alt="大室の杜　玉翠 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全9室は、高台から海を望む、源泉かけ流し露天風呂付。不易流行。伝統とモダンが調和する大人宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県伊東市八幡野1357-10 ／ 最寄り駅：伊豆高原 ／ 交通案内：伊豆急行線 伊豆高原駅よりお車で約8 分・送迎あり</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県伊東市八幡野1357-10 ／ 最寄り駅：伊豆高原 ／ 交通案内：伊豆急行線 伊豆高原駅よりお車で約8 分・送迎あり</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り １０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.77 ／ 立地 ★4.66 ／ 部屋 ★4.77 ／ 設備 ★4.63 ／ 風呂 ★4.69 ／ 食事 ★4.74</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -533,7 +533,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/158403/158403_kan1.jpg" alt="伊豆高原温泉ホテル　森の泉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>広大な大自然に佇む大人の癒し空間でオールインクルーシブを満喫◇伊豆の味覚と四季折々の景色を味わう</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県伊東市吉田901-75 ／ 最寄り駅：川奈（静岡） ／ 交通案内：【最寄り駅】川奈駅より車で約15分（※無料送迎／予約制）【最寄りIC】小田原西ICから車で約90分</p>
+                  <p><strong>【所在地・アクセス】</strong>静岡県伊東市吉田901-75 ／ 最寄り駅：川奈（静岡） ／ 交通案内：【最寄り駅】川奈駅より車で約15分（※無料送迎／予約制）【最寄りIC】小田原西ICから車で約90分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　35台（無料）予約不要　　　Wi-fi　：有り（館内全て）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★4.21 ／ 部屋 ★4.25 ／ 設備 ★4.1 ／ 風呂 ★4.3 ／ 食事 ★4.47</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

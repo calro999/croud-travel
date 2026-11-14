@@ -536,11 +536,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大和紙の里＆工芸温泉宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本三大和紙の里＆工芸温泉宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「日本三大和紙の里＆工芸温泉宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -604,7 +604,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/16207/16207_war.jpg" alt="あわら温泉　グランディア芳泉 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ラウンジ飲料は無料！5階天上のSPAは眺望随一★全33室庭園露天風呂付客室や和洋室タイプなど色々♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 福井県あわら市舟津43-26 ／ 最寄り駅：芦原温泉 ／ 交通案内：【車】北陸自動車道金津ICより約15分【電車】JR北陸本線芦原温泉駅より車で約10分【航空機】小松空港より車で約50分</p>
+                  <p><strong>【所在地・アクセス】</strong>福井県あわら市舟津43-26 ／ 最寄り駅：芦原温泉 ／ 交通案内：【車】北陸自動車道金津ICより約15分【電車】JR北陸本線芦原温泉駅より車で約10分【航空機】小松空港より車で約50分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>約300台（屋外／宿泊者無料）※正面玄関へお越しください。係が駐車場へご案内させていただきます。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.72 ／ 立地 ★4.48 ／ 部屋 ★4.61 ／ 設備 ★4.6 ／ 風呂 ★4.6</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -626,7 +626,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/187501/187501.jpg" alt="十八楼離れ　宿いとう 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>岐阜の城下町、川原町本通りの裏手に佇む一棟貸しの宿。絶景長良川を望む、完全貸切「宿いとう」。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 岐阜県岐阜市元浜町35-6 ／ 最寄り駅：岐阜 ／ 交通案内：JR岐阜駅よりタクシーの場合 約15分、在来線バスの場合 約20分</p>
+                  <p><strong>【所在地・アクセス】</strong>岐阜県岐阜市元浜町35-6 ／ 最寄り駅：岐阜 ／ 交通案内：JR岐阜駅よりタクシーの場合 約15分、在来線バスの場合 約20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　各棟４台　無料　先着順　５台目以降は十八楼本館駐車場をご利用いただけます</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -648,7 +648,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5828/5828_war.jpg" alt="秩父七湯『御代の湯』　新木鉱泉旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2025楽天トラベルアワード13度目の受賞！民芸調のほのぼの宿！滑らかな卵水と云われる温泉が自慢です</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 埼玉県秩父市山田1538番地1 ／ 最寄り駅：西武秩父 ／ 交通案内：◆送迎有◆その他、西武秩父駅よりタクシー10分又は定峰行きバス25分金昌寺下車徒歩4分●関越道花園ICより40分●</p>
+                  <p><strong>【所在地・アクセス】</strong>埼玉県秩父市山田1538番地1 ／ 最寄り駅：西武秩父 ／ 交通案内：◆送迎有◆その他、西武秩父駅よりタクシー10分又は定峰行きバス25分金昌寺下車徒歩4分●関越道花園ICより40分●</p>
                   <p><strong>【駐車場・マイカー利用】</strong>３０台　　【無料・予約不要】</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

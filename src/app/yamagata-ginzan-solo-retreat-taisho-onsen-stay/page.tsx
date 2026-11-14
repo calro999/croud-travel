@@ -77,7 +77,7 @@ export default function ArticlePage() {
             山形・銀山温泉ひとり旅＆大正浪漫おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「山形・銀山温泉ひとり旅・大正浪漫ガス灯おこもり」木造多層建築群・銀山川の雪景色・山形牛と尾花沢蕎麦！大正タイムスリップの美湯厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               山形新幹線の大石田駅から直行バスで約40分。かつて延沢銀山の鉱夫たちによって発見されたと伝えられる銀山温泉は、大正から昭和初期に建てられた洋風意匠を取り入れた木造旅館が今なお美しく保たれています。乳白色の湯花が舞う含食塩硫化水素泉は、体の芯までじっくりと温め、日々のストレスを優しく溶かしてくれます。
             </p>
             <p>
-              歴史ある伝統の意匠をそのまま残す名門旅館から、渓谷を望む露天風呂と上質なサービスを兼ね備えた名宿まで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              歴史ある伝統の意匠をそのまま残す名門旅館から、渓谷を望む露天風呂と上質なサービスを兼ね備えた名宿まで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -423,11 +423,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">山形・銀山温泉ひとり旅・大正浪漫ガス灯おこもり：木造多層建築群・銀山川の雪景色・山形牛と尾花沢蕎麦！大正タイムスリップの美湯厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「山形・銀山温泉ひとり旅・大正浪漫ガス灯おこもり：木造多層建築群・銀山川の雪景色・山形牛と尾花沢蕎麦！大正タイムスリップの美湯厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「山形・銀山温泉ひとり旅・大正浪漫ガス灯おこもり：木造多層建築群・銀山川の雪景色・山形牛と尾花沢蕎麦！大正タイムスリップの美湯厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -491,7 +491,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/137447/137447_ru.jpg" alt="銀山温泉　伝統の宿　古山閣 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>木造４階建ての宿。昔の空気が今も流れている・・・そんな感覚を味わいに来てみてはいかがでしょうか。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県尾花沢市銀山温泉423 ／ 最寄り駅：大石田 ／ 交通案内：大石田駅より尾花沢経由銀山行バスにて35分。送迎についてはプラン詳細をご覧ください。</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県尾花沢市銀山温泉423 ／ 最寄り駅：大石田 ／ 交通案内：大石田駅より尾花沢経由銀山行バスにて35分。送迎についてはプラン詳細をご覧ください。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　15台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -513,7 +513,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/111234/111234_sin.jpg" alt="銀山温泉　仙峡の宿　銀山荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>古き良き大正ロマンの漂う銀山温泉。湖上の山々がおりなす四季の彩りをのんびり眺めながら入る露天風呂。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県尾花沢市銀山新畑85 ／ 最寄り駅：大石田 ／ 交通案内：国道１３号線尾花沢市内よりお車にて３０分。 ＪＲ利用のお客様は１１：１０、１３：４０、１５:４５の送迎あり（要予約）</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県尾花沢市銀山新畑85 ／ 最寄り駅：大石田 ／ 交通案内：国道１３号線尾花沢市内よりお車にて３０分。 ＪＲ利用のお客様は１１：１０、１３：４０、１５:４５の送迎あり（要予約）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.41 ／ 立地 ★4.52 ／ 部屋 ★4.48 ／ 設備 ★4.38 ／ 風呂 ★4.48 ／ 食事 ★4.45</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -535,7 +535,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/111235/111235_kwa.jpg" alt="銀山温泉　古勢起屋別館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>『2011年度・お客様が選んだ4つ星以上の人気宿』大正浪漫の雪景色・銀山荘の露天風呂もご利用可能</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県尾花沢市銀山新畑417 ／ 最寄り駅：大石田 ／ 交通案内：国道１３号線尾花沢市内よりお車にて３０分。 ＪＲ利用のお客様は１５:４５の送迎あり（要予約）</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県尾花沢市銀山新畑417 ／ 最寄り駅：大石田 ／ 交通案内：国道１３号線尾花沢市内よりお車にて３０分。 ＪＲ利用のお客様は１５:４５の送迎あり（要予約）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

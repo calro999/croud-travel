@@ -359,11 +359,11 @@ export default function AutumnBudgetNagasakiStationHotelsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">長崎駅前：秋の長崎ちゃんぽん・卓袱料理＆夜景！2,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「長崎駅前：秋の長崎ちゃんぽん・卓袱料理＆夜景！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「長崎駅前：秋の長崎ちゃんぽん・卓袱料理＆夜景！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -445,7 +445,7 @@ export default function AutumnBudgetNagasakiStationHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/180388/180388_kan1.jpg" alt="Ｃｏｒｕｓｃａｎｔ　Ｈｏｔｅｌ　長崎駅１（コルサントホテル） 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>◆◇長崎駅より徒歩６分の好立地◇◆お仕事・観光に最適【全室Wi-Fi完備／全室トイレ風呂別】</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長崎県長崎市大黒町7-15 ／ 最寄り駅：主要駅 ／ 交通案内：長崎駅から徒歩約6分</p>
+                  <p><strong>【所在地・アクセス】</strong>長崎県長崎市大黒町7-15 ／ 交通案内：長崎駅から徒歩約6分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.95 ／ 立地 ★4.13 ／ 部屋 ★3.98 ／ 設備 ★3.97 ／ 風呂 ★3.81</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -467,7 +467,7 @@ export default function AutumnBudgetNagasakiStationHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/178621/178621.jpg" alt="グランドベース長崎駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>２０１９年冬オープン！長崎駅から徒歩5分のアパートタイプ新築スマートホテル「グランドベース長崎駅前」</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長崎県長崎市西坂町7-1 ／ 最寄り駅：長崎（長崎） ／ 交通案内：JR長崎駅から徒歩5分。新地中華街からはバスで5分、長崎空港からはリムジンバスで43分で到着。</p>
+                  <p><strong>【所在地・アクセス】</strong>長崎県長崎市西坂町7-1 ／ 最寄り駅：長崎（長崎） ／ 交通案内：JR長崎駅から徒歩5分。新地中華街からはバスで5分、長崎空港からはリムジンバスで43分で到着。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無し。近隣の有料コインパーキングをご利用ください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.8 ／ 立地 ★3.53 ／ 部屋 ★4.53 ／ 設備 ★4.13 ／ 風呂 ★4.2</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -489,7 +489,7 @@ export default function AutumnBudgetNagasakiStationHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/37511/37511_de.jpg" alt="ホテル　クオーレ長崎駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ＪＲ長崎駅正面に立地。全客室にＷｉ－Ｆｉ回線完備。女性専用フロアあり。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長崎県長崎市大黒町7-3 ／ 最寄り駅：長崎（長崎） ／ 交通案内：ＪＲ長崎駅東口から徒歩約5分　高速バスターミナルより徒歩約１分</p>
+                  <p><strong>【所在地・アクセス】</strong>長崎県長崎市大黒町7-3 ／ 最寄り駅：長崎（長崎） ／ 交通案内：ＪＲ長崎駅東口から徒歩約5分　高速バスターミナルより徒歩約１分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>近隣駐車場有/15時から翌10時まで1,400円/先着順/車高2m以下/営業時間5時〜23時</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.21 ／ 立地 ★4.3 ／ 部屋 ★4.24 ／ 設備 ★4.15 ／ 風呂 ★4.11 ／ 食事 ★4.32</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -511,7 +511,7 @@ export default function AutumnBudgetNagasakiStationHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/70850/70850_sgl.jpg" alt="アパホテル〈長崎駅南〉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>長崎市中心部、人気観光地へアクセス抜群！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長崎県長崎市元船町9-2 ／ 最寄り駅：長崎（長崎） ／ 交通案内：路面電車・空港リムジンバス「大波止」（電停・バス停）徒歩3分、JR「長崎駅」（東口）徒歩10分</p>
+                  <p><strong>【所在地・アクセス】</strong>長崎県長崎市元船町9-2 ／ 最寄り駅：長崎（長崎） ／ 交通案内：路面電車・空港リムジンバス「大波止」（電停・バス停）徒歩3分、JR「長崎駅」（東口）徒歩10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場なし。※近隣の有料駐車場をご案内しています。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -533,7 +533,7 @@ export default function AutumnBudgetNagasakiStationHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/179673/179673.jpg" alt="天然温泉　鶴港の湯　ドーミーインＰＲＥＭＩＵＭ長崎駅前（ドーミーイン・御宿野乃　ホテルズグループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>駅前周辺ホテルで唯一！男女別天然温泉大浴場完備！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長崎県長崎市五島町2-29 ／ 最寄り駅：長崎（長崎） ／ 交通案内：長崎駅より徒歩にて約10分</p>
+                  <p><strong>【所在地・アクセス】</strong>長崎県長崎市五島町2-29 ／ 最寄り駅：長崎（長崎） ／ 交通案内：長崎駅より徒歩にて約10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>1泊1,200円（機械式68台）入庫制限有（車高2.05m長さ5.05ｍ車幅1.91ｍ)先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.48 ／ 立地 ★4.44 ／ 部屋 ★4.53 ／ 設備 ★4.51 ／ 風呂 ★4.57 ／ 食事 ★4.51</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

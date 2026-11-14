@@ -77,7 +77,7 @@ export default function ArticlePage() {
             長野・野沢温泉ひとり旅＆十三外湯めぐりおこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「野沢温泉ひとり旅・十三外湯めぐりおこもり」麻釜の湯けむり・源泉かけ流し硫黄泉・信州牛！信信濃のスキーと湯治の里厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               長野県北部、毛無山の麓に広がる日本屈指の名湯・野沢温泉。村内には村人たちの「湯仲間」によって江戸時代から大切に管理されてきた13の共同浴場（外湯）が点在し、入浴料は寸志（お気持ち）で誰でも天然温泉かけ流しを楽しむことができます。
             </p>
             <p>
-              外湯のすぐ隣で温泉三昧ができる名宿から、北信濃の絶景を望む高原ホテルまで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              外湯のすぐ隣で温泉三昧ができる名宿から、北信濃の絶景を望む高原ホテルまで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -360,11 +360,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">野沢温泉ひとり旅・十三外湯めぐりおこもり：麻釜の湯けむり・源泉かけ流し硫黄泉・信州牛！信信濃のスキーと湯治の里厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「野沢温泉ひとり旅・十三外湯めぐりおこもり：麻釜の湯けむり・源泉かけ流し硫黄泉・信州牛！信信濃のスキーと湯治の里厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「野沢温泉ひとり旅・十三外湯めぐりおこもり：麻釜の湯けむり・源泉かけ流し硫黄泉・信州牛！信信濃のスキーと湯治の里厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -446,7 +446,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/973/973_dbl.jpg" alt="中町にあるホテル　池田屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>蔵の街「中町」と縄手通りに面した松本情緒溢れる環境。松本城、イオン、芸術館も近く観光に便利な立地です</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県松本市中央3-4-6 ／ 最寄り駅：松本 ／ 交通案内：●松本駅【お城口】徒歩12分●松本情緒溢れる「蔵の町中町」の女鳥羽川沿い8階建●松本城（徒歩5分）、芸術館、美術館至近</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県松本市中央3-4-6 ／ 最寄り駅：松本 ／ 交通案内：●松本駅【お城口】徒歩12分●松本情緒溢れる「蔵の町中町」の女鳥羽川沿い8階建●松本城（徒歩5分）、芸術館、美術館至近</p>
                   <p><strong>【駐車場・マイカー利用】</strong>１台500円(込)／泊　●入出庫可●高さ制限無※大型車・バイクは駐車不可</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -468,7 +468,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1173/1173_twn.jpg" alt="白馬東急ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>広い客室と2つのレストラン、バー、エステ、温泉浴場完備の正統派山岳リゾート。駅やゲレンデ無料送迎あり</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県北安曇郡白馬村北城4688 ／ 最寄り駅：白馬 ／ 交通案内：白馬駅からお車で約8分。白馬八方バスターミナルからお車で約3分。送迎はご到着の1時間前までにご依頼ください。</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県北安曇郡白馬村北城4688 ／ 最寄り駅：白馬 ／ 交通案内：白馬駅からお車で約8分。白馬八方バスターミナルからお車で約3分。送迎はご到着の1時間前までにご依頼ください。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り 約70台無料。EV充電器2台分ございます。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.6 ／ 立地 ★4.74 ／ 部屋 ★4.64 ／ 設備 ★4.55 ／ 風呂 ★4.41 ／ 食事 ★4.65</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -490,7 +490,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1562/1562_sgl.jpg" alt="松本駅から一番近い大浴場のある　ホテルニューステーション＜長野県＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>創業50年の老舗ホテル◆松本駅東口徒歩１分◆檜の男女大浴場◆和食レストラン◆長期連泊プラン好評受付中</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県松本市中央1-1-11 ／ 最寄り駅：松本 ／ 交通案内：ＪＲ松本駅北隣り徒歩１分。駅（東口）を出て左手４軒目。長野道松本ＩＣから車で１０分。松本バスターミナルから徒歩４分。</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県松本市中央1-1-11 ／ 最寄り駅：松本 ／ 交通案内：ＪＲ松本駅北隣り徒歩１分。駅（東口）を出て左手４軒目。長野道松本ＩＣから車で１０分。松本バスターミナルから徒歩４分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>1000円/泊　アメニティパーク（中央1-15-25）高さ155cm以下　不適合車は別の場所へご案内</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -512,7 +512,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1614/1614_heya.jpg" alt="ホテルタングラム　斑尾東急リゾート 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【楽天トラベルブロンズアワード2025受賞】遊ぶ・泊まる・食べるが揃ったリゾートホテル！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県上水内郡信濃町古海3575-8 ／ 最寄り駅：妙高高原 ／ 交通案内：JR黒姫駅より路線バス(有料）　上信越道信濃町ＩＣ又は妙高高原ＩＣから車で20分。</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県上水内郡信濃町古海3575-8 ／ 最寄り駅：妙高高原 ／ 交通案内：JR黒姫駅より路線バス(有料）　上信越道信濃町ＩＣ又は妙高高原ＩＣから車で20分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　1000台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -534,7 +534,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1844/1844_syo.jpg" alt="白馬五竜　ホテル　ステラベラ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>信州白馬のモダンなホテル！巨大樽の露天風呂、２４H営業の天然温泉もあり。シェフこだわりのお食事も♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県北安曇郡白馬村神城22201-5 ／ 最寄り駅：白馬 ／ 交通案内：JR神城駅,白馬五竜バス停(送迎：要事前予約）安曇野ICより車で45分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県北安曇郡白馬村神城22201-5 ／ 最寄り駅：白馬 ／ 交通案内：JR神城駅,白馬五竜バス停(送迎：要事前予約）安曇野ICより車で45分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

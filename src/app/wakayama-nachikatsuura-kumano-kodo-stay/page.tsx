@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">和歌山・那智勝浦＆熊野古道：熊野那智大社・那智の滝＆生マグロ・洞窟風呂宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「和歌山・那智勝浦＆熊野古道：熊野那智大社・那智の滝＆生マグロ・洞窟風呂宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「和歌山・那智勝浦＆熊野古道：熊野那智大社・那智の滝＆生マグロ・洞窟風呂宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/68247/68247_w.jpg" alt="南紀勝浦温泉　くつろぎの宿　料理旅館　万清楼 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【ホテル浦島の温泉も利用可】紀州勝浦産の生まぐろや南紀の食材を使った会席料理をお楽しみください。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県東牟婁郡那智勝浦町勝浦448 ／ 最寄り駅：紀伊勝浦 ／ 交通案内：JR「紀伊勝浦駅」より徒歩約7分／大阪から紀勢自動車道「すさみ南IC」経由で約3時間半</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県東牟婁郡那智勝浦町勝浦448 ／ 最寄り駅：紀伊勝浦 ／ 交通案内：JR「紀伊勝浦駅」より徒歩約7分／大阪から紀勢自動車道「すさみ南IC」経由で約3時間半</p>
                   <p><strong>【駐車場・マイカー利用】</strong>20台（無料）／専用駐車場は当館横と裏側にあります。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/166123/166123_kan1.jpg" alt="大江戸温泉物語　南紀串本 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>勝浦港水揚げの生まぐろを満喫！オーシャンビューの絶景温泉宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県東牟婁郡串本町串本2300-1 ／ 最寄り駅：串本 ／ 交通案内：紀勢本線　串本駅よりお車にて約５分　シャトルバスあり(事前予約制)</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県東牟婁郡串本町串本2300-1 ／ 最寄り駅：串本 ／ 交通案内：紀勢本線　串本駅よりお車にて約５分　シャトルバスあり(事前予約制)</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　144台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/164778/164778_kan1.jpg" alt="海辺を散策できる温泉宿　サンセットすさみ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>絶景を巡るツーリングやサイクリングの拠点に！夕日と星空を眺め、とろとろ天然温泉と絶品の旬の食材を満喫</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県西牟婁郡すさみ町周参見5351-10 ／ 最寄り駅：周参見 ／ 交通案内：JR周参見駅より徒歩約7分／大阪から車で阪和自動車道日置川IC経由で約2時間半／アドベンチャーワールドより車で約25分</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県西牟婁郡すさみ町周参見5351-10 ／ 最寄り駅：周参見 ／ 交通案内：JR周参見駅より徒歩約7分／大阪から車で阪和自動車道日置川IC経由で約2時間半／アドベンチャーワールドより車で約25分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/6002/6002_bath.jpg" alt="南紀勝浦温泉　ホテルなぎさや 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>トンネルを抜けるとそこは…映画のような入り江の中にある秘密のお宿</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県東牟婁郡那智勝浦町大字湯川955番地の1 ／ 最寄り駅：紀伊勝浦 ／ 交通案内：JR「紀伊勝浦駅」より車で約5分（事前予約で送迎サービス有）／大阪から紀勢自動車道「すさみ南IC」経由で約3時間半</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県東牟婁郡那智勝浦町大字湯川955番地の1 ／ 最寄り駅：紀伊勝浦 ／ 交通案内：JR「紀伊勝浦駅」より車で約5分（事前予約で送迎サービス有）／大阪から紀勢自動車道「すさみ南IC」経由で約3時間半</p>
                   <p><strong>【駐車場・マイカー利用】</strong>50台（無料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.9 ／ 立地 ★4.14 ／ 部屋 ★3.71 ／ 設備 ★3.59 ／ 風呂 ★4.05 ／ 食事 ★4.03</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/13918/13918_heya.jpg" alt="民宿　美滝山荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>熊野古道。那智大社詣りにピッタリの立地　お鍋の夕食や地酒も大人気　那智の滝を眺められるお部屋も</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県東牟婁郡那智勝浦町那智山545-1 ／ 最寄り駅：紀伊勝浦 ／ 交通案内：国道42号那智駅前交差点より那智山方面へ約8㎞／紀伊勝浦駅よりバスで約25分「那智山神社お寺前駐車場」で下車し徒歩約2分</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県東牟婁郡那智勝浦町那智山545-1 ／ 最寄り駅：紀伊勝浦 ／ 交通案内：国道42号那智駅前交差点より那智山方面へ約8㎞／紀伊勝浦駅よりバスで約25分「那智山神社お寺前駐車場」で下車し徒歩約2分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>15台（無料）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7719/7719_heya.jpg" alt="南紀勝浦　湯川温泉　恵比須屋＜和歌山県＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>無色透明なめらかなイオウ泉　家族でもてなし新鮮魚料理</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 和歌山県東牟婁郡那智勝浦町湯川1065 ／ 最寄り駅：湯川 ／ 交通案内：車で国道４２号線より５０ｍ中に入った所</p>
+                  <p><strong>【所在地・アクセス】</strong>和歌山県東牟婁郡那智勝浦町湯川1065 ／ 最寄り駅：湯川 ／ 交通案内：車で国道４２号線より５０ｍ中に入った所</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

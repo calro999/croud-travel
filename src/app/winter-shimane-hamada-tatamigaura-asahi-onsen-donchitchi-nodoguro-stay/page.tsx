@@ -48,8 +48,8 @@ export default function Page() {
       "headline": "【冬の日本海白波奇勝・石見畳ヶ浦と幻のどんちっちノドグロ】2026-2027年冬の島根・浜田！美肌名湯旭温泉と石見神楽冬情話名宿5選",
       "description": "天然記念物「石見畳ヶ浦」の豪快な日本海白波と冬の奇岩絶景！脂の乗り日本一と称される浜田港特選「どんちっちノドグロ」の姿焼き・小鍋と石見神楽の夜。PH高き美肌のぬる湯・旭温泉や有福温泉で温まる冬の石見厳選名宿5選。",
       "image": "https://img.travel.rakuten.co.jp/share/HOTEL/431/431.jpg",
-      "datePublished": "",
-      "dateModified": "",
+      "datePublished": "2026-11-01",
+      "dateModified": "2026-11-15",
       "author": {
         "@type": "Organization",
         "name": "Japan Travel Curations"

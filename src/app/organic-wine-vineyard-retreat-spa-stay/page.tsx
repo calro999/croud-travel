@@ -236,7 +236,7 @@ export default function FeatureDetailPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">宿泊施設データから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -680,11 +680,11 @@ export default function FeatureDetailPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：広大なブドウ畑を望む。ワイナリー直営レストラン＆ワイン風呂リゾート5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「2026年：広大なブドウ畑を望む。ワイナリー直営レストラン＆ワイン風呂リゾート5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「2026年：広大なブドウ畑を望む。ワイナリー直営レストラン＆ワイン風呂リゾート5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -766,7 +766,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/16581/16581_f.jpg" alt="五島コンカナ王国ワイナリー＆リゾート　＜五島・福江島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>五島の大自然に囲まれ、自社農園のワインと島食材の美食を堪能。異国情緒溢れる空間で寛ぐ離島リゾート。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長崎県五島市上大津町2413 ／ 最寄り駅：福江空港 ／ 交通案内：福江港から福江空港方面へ 途中の広域農道の案内看板に従い左折し、約3ｋｍ</p>
+                  <p><strong>【所在地・アクセス】</strong>長崎県五島市上大津町2413 ／ 最寄り駅：福江空港 ／ 交通案内：福江港から福江空港方面へ 途中の広域農道の案内看板に従い左折し、約3ｋｍ</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（200台／無料／先着順）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -788,7 +788,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9060/9060_twn.jpg" alt="大鰐温泉郷　青森ワイナリーホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>青森ヒバの大浴場と露天風呂が自慢のリゾートホテル</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 青森県南津軽郡大鰐町島田滝の沢100-9 ／ 最寄り駅：大鰐温泉 ／ 交通案内：JR大鰐温泉駅～ホテル間の無料送迎バス有【2日前までの予約制】　9:00～18:45の間で運行。公式HPに時刻表有。</p>
+                  <p><strong>【所在地・アクセス】</strong>青森県南津軽郡大鰐町島田滝の沢100-9 ／ 最寄り駅：大鰐温泉 ／ 交通案内：JR大鰐温泉駅～ホテル間の無料送迎バス有【2日前までの予約制】　9:00～18:45の間で運行。公式HPに時刻表有。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.15 ／ 立地 ★4.21 ／ 部屋 ★4.06 ／ 設備 ★3.96 ／ 風呂 ★4.07 ／ 食事 ★4.07</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -810,7 +810,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/72719/72719_wa.jpg" alt="石和温泉　ホテル平安 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>石和温泉駅無料送迎有◆温泉24時間OK◆水晶焼ステーキ・ほうとう鍋など郷土の味を堪能</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県笛吹市石和町川中島538 ／ 最寄り駅：石和温泉 ／ 交通案内：ＪＲ石和温泉駅：徒歩15分無料送迎5分（15～17時）有/中央道一宮・御坂IC車10分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県笛吹市石和町川中島538 ／ 最寄り駅：石和温泉 ／ 交通案内：ＪＲ石和温泉駅：徒歩15分無料送迎5分（15～17時）有/中央道一宮・御坂IC車10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.58 ／ 立地 ★3.51 ／ 部屋 ★3.48 ／ 設備 ★3.22 ／ 風呂 ★3.5 ／ 食事 ★3.77</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -832,7 +832,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/68084/68084_w.jpg" alt="富士山石和温泉郷　春日居びゅーほてる 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>カニ食べ放題！充実のバイキング！姉妹館への無料湯めぐりで温泉三昧！館内は無線LAN対応。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県笛吹市春日居町鎮目178 ／ 最寄り駅：石和温泉 ／ 交通案内：JR中央本線 石和温泉駅より車で5分／中央自動車道 一宮御坂ICより車で10分／中央高速バス 石和バス停より車で5分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県笛吹市春日居町鎮目178 ／ 最寄り駅：石和温泉 ／ 交通案内：JR中央本線 石和温泉駅より車で5分／中央自動車道 一宮御坂ICより車で10分／中央高速バス 石和バス停より車で5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り 100台 無料 予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -854,7 +854,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/39460/39460_he.jpg" alt="石和温泉　石和びゅーほてる 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2食付きプランご予約で湯上りビールの特典付き！姉妹館の温泉も楽しめる無料湯めぐりサービスで温泉三昧！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山梨県笛吹市石和町川中島1607 ／ 最寄り駅：石和温泉 ／ 交通案内：JR中央本線 石和温泉駅より車で5分／中央自動車道 一宮御坂ICより車で10分／中央高速バス 石和バス停より車で5分</p>
+                  <p><strong>【所在地・アクセス】</strong>山梨県笛吹市石和町川中島1607 ／ 最寄り駅：石和温泉 ／ 交通案内：JR中央本線 石和温泉駅より車で5分／中央自動車道 一宮御坂ICより車で10分／中央高速バス 石和バス停より車で5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り 120台 無料 予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

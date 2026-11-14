@@ -317,11 +317,11 @@ export default function KamikochiShirahoneAutumnPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋の上高地・白骨温泉：カラマツ黄葉と乳白色の秘湯！閉山前に訪れたい絶景名宿5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「秋の上高地・白骨温泉：カラマツ黄葉と乳白色の秘湯！閉山前に訪れたい絶景名宿5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「秋の上高地・白骨温泉：カラマツ黄葉と乳白色の秘湯！閉山前に訪れたい絶景名宿5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -394,7 +394,7 @@ export default function KamikochiShirahoneAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/141241/141241_kya.jpg" alt="白骨温泉　小梨の湯　笹屋 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>白樺林が織りなす静けさへ。自然に包まれて貸切露天に浸かる、心も身体も湯に溶ける大人旅</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県松本市安曇4182-1 ／ 最寄り駅：松本 ／ 交通案内：ＪＲ　松本駅より、松本電鉄　新島々下車、バスにて６０分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県松本市安曇4182-1 ／ 最寄り駅：松本 ／ 交通案内：ＪＲ　松本駅より、松本電鉄　新島々下車、バスにて６０分</p>
                   <p>【秋の上高地・白骨温泉：カラマツ黄葉と乳白色の秘湯】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.59 ／ 立地 ★4.46 ／ 部屋 ★4.61 ／ 設備 ★4.38 ／ 風呂 ★4.89 ／ 食事 ★4.69</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -416,7 +416,7 @@ export default function KamikochiShirahoneAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/32100/32100_kan1.jpg" alt="白骨温泉　湯元齋藤旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>二百八十余年の間源泉を守り続ける湯守の宿。レトロモダンな造りの館内には寛ぎの空間が広がっています。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県松本市安曇白骨温泉4195 ／ 最寄り駅：主要駅 ／ 交通案内：お車で松本ICから60分、高山ICから70分。上高地へは「さわんどバスターミナル」乗り換えで約60分。</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県松本市安曇白骨温泉4195 ／ 交通案内：お車で松本ICから60分、高山ICから70分。上高地へは「さわんどバスターミナル」乗り換えで約60分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>40台有り。お車をお預かりし、駐車場へお停めいたします。 駐車場所の指定はお受けいたしかねます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -438,7 +438,7 @@ export default function KamikochiShirahoneAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/67348/67348_k.jpg" alt="白骨温泉　白船荘新宅旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>極上の自家源泉は８ヶ所の浴槽で掛け流し、加温なしの天然源泉をお楽しみいただけます</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県松本市安曇4201 ／ 最寄り駅：新島々 ／ 交通案内：JR松本駅から私鉄上高地線　新島々駅より白骨温泉行バス乗車→終点白骨温泉下車</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県松本市安曇4201 ／ 最寄り駅：新島々 ／ 交通案内：JR松本駅から私鉄上高地線　新島々駅より白骨温泉行バス乗車→終点白骨温泉下車</p>
                   <p>【秋の上高地・白骨温泉：カラマツ黄葉と乳白色の秘湯】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.63 ／ 立地 ★4.39 ／ 部屋 ★4.44 ／ 設備 ★4.24 ／ 風呂 ★4.66 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -460,7 +460,7 @@ export default function KamikochiShirahoneAutumnPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/128531/128531_wa.jpg" alt="白骨温泉　白船グランドホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>大自然を堪能できる露天風呂。名湯白骨温泉の人気宿です。お料理は地元食材を中心としております。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県松本市安曇4203 ／ 最寄り駅：主要駅 ／ 交通案内：松本ICより約60分、高山西ICより約80分。R158経由、さわんど温泉より県道300号線で車15分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県松本市安曇4203 ／ 交通案内：松本ICより約60分、高山西ICより約80分。R158経由、さわんど温泉より県道300号線で車15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　約５０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">三重・熊野＆尾鷲・鬼ヶ城：世界遺産鬼ヶ城・獅子岩＆熊野古道伊勢路・尾鷲ガスエビ宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「三重・熊野＆尾鷲・鬼ヶ城：世界遺産鬼ヶ城・獅子岩＆熊野古道伊勢路・尾鷲ガスエビ宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「三重・熊野＆尾鷲・鬼ヶ城：世界遺産鬼ヶ城・獅子岩＆熊野古道伊勢路・尾鷲ガスエビ宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -261,7 +261,7 @@ export default function MicroTouristHubPage() {
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 里創人　熊野倶楽部</td>
-                <td className="p-3 text-stone-600">三重県</td>
+                <td className="p-3 text-stone-600">三重県 熊野市久生屋町1430</td>
                 <td className="p-3 text-stone-600">ＪＲ 熊野市駅よりお車で10分／送迎バス有り 【熊野古道まで車で15分</td>
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（1098件）</td>
@@ -296,7 +296,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/20199/20199_r1.jpg" alt="ビジネスホテル　河上 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>熊野市駅から徒歩5分《シングルは駅近1番の広さ》ビジネス・観光にも最適！お隣はスーパー／WiFi完備</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 三重県熊野市井戸町446-15 ／ 最寄り駅：熊野市 ／ 交通案内：ＪＲ熊野市駅　徒歩５分／大泊IC下車～国道42号線　新宮方面　約10分</p>
+                  <p><strong>【所在地・アクセス】</strong>三重県熊野市井戸町446-15 ／ 最寄り駅：熊野市 ／ 交通案内：ＪＲ熊野市駅　徒歩５分／大泊IC下車～国道42号線　新宮方面　約10分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料  予約不要　但し大型車の場合は予約が必要になります</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -317,8 +317,8 @@ export default function MicroTouristHubPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/79395/79395_ryo.jpg" alt="里創人　熊野倶楽部 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「三重・熊野＆尾鷲・鬼ヶ城（世界遺産鬼ヶ城・獅子岩＆熊野古道伊勢路・尾鷲ガスエビ宿 厳選ガイド）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ 熊野市駅よりお車で10分／送迎バス有り 【熊野古道まで車で15分】</p>
+                  <p><strong>【宿の特徴・魅力】</strong>自然に癒され、暮らすように過ごすオールスイート＆オールインクルーシブリゾート「熊野倶楽部」</p>
+                  <p><strong>【所在地・アクセス】</strong>交通案内：ＪＲ 熊野市駅よりお車で10分／送迎バス有り 【熊野古道まで車で15分】</p>
                   <p>【三重・熊野＆尾鷲・鬼ヶ城：世界遺産鬼ヶ城・獅子岩＆熊】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -340,7 +340,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/29808/29808_r.jpg" alt="ホテル　季の座 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>伊勢神宮と熊野三山を結ぶお食事と温泉の宿。世界遺産熊野古道。天然温泉と熊野灘の海の幸をご堪能下さい。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 三重県北牟婁郡紀北町東長島3043-4 ／ 最寄り駅：紀伊長島 ／ 交通案内：ＪＲ紀伊長島駅送迎バス１０分／紀勢自動車道紀勢・紀伊長島ＩＣより約6.5km</p>
+                  <p><strong>【所在地・アクセス】</strong>三重県北牟婁郡紀北町東長島3043-4 ／ 最寄り駅：紀伊長島 ／ 交通案内：ＪＲ紀伊長島駅送迎バス１０分／紀勢自動車道紀勢・紀伊長島ＩＣより約6.5km</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　１００台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

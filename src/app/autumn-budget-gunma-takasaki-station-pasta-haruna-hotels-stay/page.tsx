@@ -376,11 +376,11 @@ export default function AutumnBudgetHotelsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">高崎駅前：上毛三山・榛名山紅葉＆名物高崎パスタ！3,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「高崎駅前：上毛三山・榛名山紅葉＆名物高崎パスタ！3,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「高崎駅前：上毛三山・榛名山紅葉＆名物高崎パスタ！3,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -462,7 +462,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/67446/67446_ky.jpg" alt="高崎駅前プラザホテル　慈光通り（ＢＢＨホテルグループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR高崎駅西口近。バイキング朝食付。Wi-Fi有♪ウエルカムドリンク実施中！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県高崎市通町4 ／ 最寄り駅：高崎 ／ 交通案内：JR高崎駅西口より徒歩7分、関越道高崎インターより車で約20分。徒歩3分にコンビニ有り。フロントは3Ｆにございます。</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県高崎市通町4 ／ 最寄り駅：高崎 ／ 交通案内：JR高崎駅西口より徒歩7分、関越道高崎インターより車で約20分。徒歩3分にコンビニ有り。フロントは3Ｆにございます。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無し　近隣駐車場ご案内　有料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.61 ／ 立地 ★3.47 ／ 部屋 ★3.28 ／ 設備 ★3.25 ／ 風呂 ★3.3</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -484,7 +484,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1779/1779_sgl.jpg" alt="ホテルルートイン高崎駅西口 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>朝食バイキング無料！！大浴場完備♪全室空気清浄機＆加湿器完備＆全館無料ｗｉｆｉ完備！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県高崎市旭町128-4 ／ 最寄り駅：高崎 ／ 交通案内：上越新幹線高崎駅から徒歩で10分 高崎インターより車で約15分</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県高崎市旭町128-4 ／ 最寄り駅：高崎 ／ 交通案内：上越新幹線高崎駅から徒歩で10分 高崎インターより車で約15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り:無料　ただし、大型車(２Tトラック以上、またはレントゲン車、積載車)は有料となります。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.56 ／ 立地 ★3.33 ／ 部屋 ★3.42 ／ 設備 ★3.34 ／ 風呂 ★3.52 ／ 食事 ★3.51</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -506,7 +506,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/28283/28283_spa.jpg" alt="アパホテル〈高崎駅前〉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>高崎駅西口から徒歩1分！天然温泉大浴殿(循環ろ過)&amp;サウナ付き！高崎アリーナまで徒歩8分！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県高崎市八島町232-8 ／ 最寄り駅：高崎 ／ 交通案内：JR高崎駅西口から徒歩１分！（デッキ直結）高崎アリーナまで徒歩約８分！Ｇメッセ群馬にも車で約10分！</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県高崎市八島町232-8 ／ 最寄り駅：高崎 ／ 交通案内：JR高崎駅西口から徒歩１分！（デッキ直結）高崎アリーナまで徒歩約８分！Ｇメッセ群馬にも車で約10分！</p>
                   <p><strong>【駐車場・マイカー利用】</strong>1階にコインパーキングあり。当館には提携している駐車場はございません。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.19 ／ 立地 ★4.25 ／ 部屋 ★4.1 ／ 設備 ★4.14 ／ 風呂 ★4.21 ／ 食事 ★4.08</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -528,7 +528,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/29240/29240_r1.jpg" alt="ニュー赤城＜高崎駅前＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>高崎駅から5分！周辺は飲食店等多数◆完全素泊まり◆全館Wi-Fi、空気清浄機完備</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県高崎市通町46 ／ 最寄り駅：高崎 ／ 交通案内：ＪＲ高崎駅・新幹線高崎駅より徒歩5分／関越自動車道・高崎ＩＣ～お車で２０分（シングル14平米）</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県高崎市通町46 ／ 最寄り駅：高崎 ／ 交通案内：ＪＲ高崎駅・新幹線高崎駅より徒歩5分／関越自動車道・高崎ＩＣ～お車で２０分（シングル14平米）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　7台　５００円（税込／泊）　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.82 ／ 立地 ★3.64 ／ 部屋 ★3.14 ／ 設備 ★3.03 ／ 風呂 ★3.18</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -550,7 +550,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/197229/197229.jpg" alt="アパホテル＜高崎駅東口＞２０２６年１１月２日ＯＰＥＮ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>高崎アリーナ・Gメッセ群馬も徒歩圏内！朝食は水沢名店の地元食材を使った和ビュッフェ</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 群馬県高崎市東町48-6 ／ 最寄り駅：高崎 ／ 交通案内：上越新幹線・北陸新幹線・JR各線・上信電鉄「高崎駅」（東口）より徒歩6分</p>
+                  <p><strong>【所在地・アクセス】</strong>群馬県高崎市東町48-6 ／ 最寄り駅：高崎 ／ 交通案内：上越新幹線・北陸新幹線・JR各線・上信電鉄「高崎駅」（東口）より徒歩6分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>近隣コインパーキングのご利用をお願いいたします。【ココパルク800　料金：1,000円／24H】</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

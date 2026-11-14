@@ -77,7 +77,7 @@ export default function ArticlePage() {
             山形・蔵王温泉ひとり旅＆強酸性名湯おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「蔵王温泉ひとり旅・強酸性美肌の湯おこもり」大露天風呂・樹氷パノラマ・山形牛すき焼き！白濁硫黄泉に包まれる高原ソロリトリート厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -88,7 +88,7 @@ export default function ArticlePage() {
               開湯1900年の歴史を誇る山形県・蔵王温泉。pH1.5前後の強酸性白濁硫黄泉は「美肌の湯」「血行促進の湯」として名高く、湯船に浸かった瞬間に肌が引き締まる感覚を味わえます。冬のスノーモンスター樹氷や、春夏のトレッキングなど四季のアクティビティも魅力です。
             </p>
             <p>
-              静かな森の中に佇み四季の景色を望む高原ホテルから、一人でもリーズナブルに本物の源泉に泊まれる宿まで、楽天トラベル公式APIより直接取得した最新スペックをもとに厳選紹介します。
+              静かな森の中に佇み四季の景色を望む高原ホテルから、一人でもリーズナブルに本物の源泉に泊まれる宿まで、宿泊施設の詳細スペック・設備情報をもとに厳選紹介します。
             </p>
           </div>
         </header>
@@ -418,11 +418,11 @@ export default function ArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">蔵王温泉ひとり旅・強酸性美肌の湯おこもり：大露天風呂・樹氷パノラマ・山形牛すき焼き！白濁硫黄泉に包まれる高原ソロリトリート厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「蔵王温泉ひとり旅・強酸性美肌の湯おこもり：大露天風呂・樹氷パノラマ・山形牛すき焼き！白濁硫黄泉に包まれる高原ソロリトリート厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「蔵王温泉ひとり旅・強酸性美肌の湯おこもり：大露天風呂・樹氷パノラマ・山形牛すき焼き！白濁硫黄泉に包まれる高原ソロリトリート厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -504,7 +504,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/38663/38663_ky.jpg" alt="蔵王温泉　堺屋森のホテルヴァルトベルク 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>蔵王の森に囲まれた　愛らしさあふれる宿／大自然の恵み＜湯量豊富な白濁の温泉＞に身をゆだねる至福の時間</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県山形市蔵王温泉清水坂889-1 ／ 最寄り駅：山形 ／ 交通案内：山形駅よりバスで蔵王温泉行終点まで約40分。下車徒歩15分／バスターミナル送迎有り（要予約）</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県山形市蔵王温泉清水坂889-1 ／ 最寄り駅：山形 ／ 交通案内：山形駅よりバスで蔵王温泉行終点まで約40分。下車徒歩15分／バスターミナル送迎有り（要予約）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -526,7 +526,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1691/1691_twn.jpg" alt="山形グランドホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★2025年7月ラウンジNew OPEN★ 地元繁華街まで徒歩3分の立地です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県山形市本町1-7-42 ／ 最寄り駅：山形 ／ 交通案内：JR山形駅から車で5分。市内中心街に立地。中心街１００円循環バスで山形駅より５分。（運行時間/9:30～18:30）</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県山形市本町1-7-42 ／ 最寄り駅：山形 ／ 交通案内：JR山形駅から車で5分。市内中心街に立地。中心街１００円循環バスで山形駅より５分。（運行時間/9:30～18:30）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>1泊1,000円。先着順となります（予約不可）※大型車は駐車出来ません</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.11 ／ 立地 ★3.96 ／ 部屋 ★3.98 ／ 設備 ★3.86 ／ 風呂 ★3.69</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -548,7 +548,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4623/4623_twn.jpg" alt="ホテルリッチ＆ガーデン酒田 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>北欧テイストの上質なホテル。地元色を追求した美味しい朝食が自慢。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県酒田市若竹町1-1-1 ／ 最寄り駅：酒田 ／ 交通案内：■庄内空港よりバス30分　庄内空港行きはホテル道路沿いより運行　■■酒田駅　車で６分■■酒田ＩＣ　１０分</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県酒田市若竹町1-1-1 ／ 最寄り駅：酒田 ／ 交通案内：■庄内空港よりバス30分　庄内空港行きはホテル道路沿いより運行　■■酒田駅　車で６分■■酒田ＩＣ　１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>約80台無料駐車場</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★4.16 ／ 部屋 ★4.13 ／ 設備 ★4 ／ 風呂 ★4.03 ／ 食事 ★4.36</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -570,7 +570,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4749/4749_heya.jpg" alt="白布温泉　中屋別館　不動閣 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【クーポン配布中】白布温泉で唯一の、渓谷を望む露天風呂！米沢牛と里山の幸に舌鼓！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県米沢市白布温泉大字関1514 ／ 最寄り駅：米沢 ／ 交通案内：JR米沢駅から路線バス（山交バス白布温泉行き）約50分。東北中央自動車道～米沢八幡原IC～国道13号～県道2号線約30分</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県米沢市白布温泉大字関1514 ／ 最寄り駅：米沢 ／ 交通案内：JR米沢駅から路線バス（山交バス白布温泉行き）約50分。東北中央自動車道～米沢八幡原IC～国道13号～県道2号線約30分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台（宿泊者無料/先着順）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -592,7 +592,7 @@ export default function ArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4753/4753_heya.jpg" alt="羽根沢温泉　ホテル紅葉館＜山形県＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>天然温泉と四季折々の食材を使用した郷土料理を楽しめる湯宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 山形県最上郡鮭川村大字中渡1314-1 ／ 最寄り駅：新庄 ／ 交通案内：山形新幹線・ＪＲ新庄駅からバスで40分／東北自動車道新庄北ICより車で20分</p>
+                  <p><strong>【所在地・アクセス】</strong>山形県最上郡鮭川村大字中渡1314-1 ／ 最寄り駅：新庄 ／ 交通案内：山形新幹線・ＪＲ新庄駅からバスで40分／東北自動車道新庄北ICより車で20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場　20台完備</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -40,8 +40,8 @@ export default function Page() {
         "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
-    "datePublished": "",
-    "dateModified": "",
+    "datePublished": "2026-11-01",
+    "dateModified": "2026-11-15",
     "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-saga-ureshino-takeo-autumn-stay/"
   };
 
@@ -482,11 +482,11 @@ export default function Page() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">佐賀・日本三大美肌の湯 嬉野温泉＆武雄温泉！トロトロ重曹泉と名物温泉湯どうふ・佐賀牛｜ふるさと納税で泊まれる名宿ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「佐賀・日本三大美肌の湯 嬉野温泉＆武雄温泉！トロトロ重曹泉と名物温泉湯どうふ・佐賀牛｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「佐賀・日本三大美肌の湯 嬉野温泉＆武雄温泉！トロトロ重曹泉と名物温泉湯どうふ・佐賀牛｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -550,7 +550,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8986/8986_eur.jpg" alt="嬉野温泉　ハミルトン宇礼志野 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ミシュランガイド2019にて佐賀県で唯一4パビリオンを獲得。美食と癒しを感じる宿。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 佐賀県嬉野市嬉野町岩屋川内288-1 ／ 最寄り駅：武雄温泉 ／ 交通案内：【JR】武雄温泉駅から「新幹線」で嬉野温泉駅まで約5分。　【高速】嬉野ICより車で5分　【飛行機】福岡空港より車で８０分</p>
+                  <p><strong>【所在地・アクセス】</strong>佐賀県嬉野市嬉野町岩屋川内288-1 ／ 最寄り駅：武雄温泉 ／ 交通案内：【JR】武雄温泉駅から「新幹線」で嬉野温泉駅まで約5分。　【高速】嬉野ICより車で5分　【飛行機】福岡空港より車で８０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場完備</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -572,7 +572,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/107623/107623_k.jpg" alt="嬉野温泉　ホテル華翠苑 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>楽天トラベル【シニアに人気の宿】全国1位を獲得！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 佐賀県嬉野市嬉野町岩屋川内甲333 ／ 最寄り駅：武雄温泉 ／ 交通案内：【JR】武雄温泉駅から「新幹線」で嬉野温泉駅まで約5分。　【高速】嬉野ICより車で5分　【飛行機】福岡空港より車で８０分</p>
+                  <p><strong>【所在地・アクセス】</strong>佐賀県嬉野市嬉野町岩屋川内甲333 ／ 最寄り駅：武雄温泉 ／ 交通案内：【JR】武雄温泉駅から「新幹線」で嬉野温泉駅まで約5分。　【高速】嬉野ICより車で5分　【飛行機】福岡空港より車で８０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -594,7 +594,7 @@ export default function Page() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/187621/187621.jpg" alt="フェアフィールド・バイ・マリオット・佐賀嬉野温泉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>佐賀の自然や食を巡る旅の拠点に。洗練された心地よい空間で、ふっと肩の力が抜ける穏やかな滞在を。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 佐賀県嬉野市嬉野町大字下宿甲4765番1 ／ 最寄り駅：武雄温泉 ／ 交通案内：嬉野温泉駅より徒歩3分。嬉野ICより車で約7分（グーグルマップやカーナビは「道の駅うれしのまるく」を目標にお越し下さい）</p>
+                  <p><strong>【所在地・アクセス】</strong>佐賀県嬉野市嬉野町大字下宿甲4765番1 ／ 最寄り駅：武雄温泉 ／ 交通案内：嬉野温泉駅より徒歩3分。嬉野ICより車で約7分（グーグルマップやカーナビは「道の駅うれしのまるく」を目標にお越し下さい）</p>
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場18台／無料・先着順。満車時は近隣案内、詳細はフロント(0954-27-8655)まで</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

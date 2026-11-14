@@ -357,11 +357,11 @@ export default function HighwayBusArticlePage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">東京〜広島：新幹線 vs 飛行機 vs 夜行バス徹底比較！厳島神社＆広島お好み焼き1泊2日モデルコース：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「東京〜広島：新幹線 vs 飛行機 vs 夜行バス徹底比較！厳島神社＆広島お好み焼き1泊2日モデルコース」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「東京〜広島：新幹線 vs 飛行機 vs 夜行バス徹底比較！厳島神社＆広島お好み焼き1泊2日モデルコース」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -443,7 +443,7 @@ export default function HighwayBusArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/191892/191892.jpg" alt="アパホテル〈広島駅前新幹線口〉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>大浴殿・露天風呂完備！観光・ビジネスの拠点ホテルにおすすめです。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 広島県広島市東区上大須賀町2-29 ／ 最寄り駅：広島 ／ 交通案内：山陽新幹線・JR各線「広島駅」新幹線口（北口）徒歩4分</p>
+                  <p><strong>【所在地・アクセス】</strong>広島県広島市東区上大須賀町2-29 ／ 最寄り駅：広島 ／ 交通案内：山陽新幹線・JR各線「広島駅」新幹線口（北口）徒歩4分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>16台（先着順、予約不可）、【料金】入庫から24時間 1,500円【時間外】 30分につき200円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -465,7 +465,7 @@ export default function HighwayBusArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/153290/153290.jpg" alt="アパホテル〈広島駅前大橋〉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ご宿泊者様専用露天風呂付大浴殿完備！おいしい朝食ビュッフェ付きプランあり！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 広島県広島市南区京橋町2-26 ／ 最寄り駅：広島 ／ 交通案内：［山陽新幹線＋JR各線］広島駅南口8番出口から徒歩4分［市内電車］広島電停から徒歩6分　［空港］広島駅から直通バス50分</p>
+                  <p><strong>【所在地・アクセス】</strong>広島県広島市南区京橋町2-26 ／ 最寄り駅：広島 ／ 交通案内：［山陽新幹線＋JR各線］広島駅南口8番出口から徒歩4分［市内電車］広島電停から徒歩6分　［空港］広島駅から直通バス50分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>先着順　入庫から24時間で1500円　入出庫：7：00-22：00　大きさ制限あり　詳細はホテルへ</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -487,7 +487,7 @@ export default function HighwayBusArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/262/262_sgl.jpg" alt="ホテルエミシア東京立川 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全室Wi-Fi無料！JR立川駅徒歩2分。ビジネスにも観光にも最適なシティホテル</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 東京都立川市曙町2-14-16 ／ 最寄り駅：立川 ／ 交通案内：▼▼▼ＪＲ立川駅北口より徒歩２分。多摩モノレール立川北駅より徒歩3分。中央道国立府中ICから25分▼▼▼</p>
+                  <p><strong>【所在地・アクセス】</strong>東京都立川市曙町2-14-16 ／ 最寄り駅：立川 ／ 交通案内：▼▼▼ＪＲ立川駅北口より徒歩２分。多摩モノレール立川北駅より徒歩3分。中央道国立府中ICから25分▼▼▼</p>
                   <p><strong>【駐車場・マイカー利用】</strong>1泊1600円　　※現在、ホテル地下Pは営業時間を短縮してます。詳しくはHPをご確認下さい。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.35 ／ 立地 ★4.33 ／ 部屋 ★4.36 ／ 設備 ★4.31 ／ 風呂 ★4.21 ／ 食事 ★4.5</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -509,7 +509,7 @@ export default function HighwayBusArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/388/388_sgl.jpg" alt="ホテルメトロポリタン 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>～やすらぎと華やぎが出会う場所～JR東日本グループのホテルとして、皆さまお越しをお待ちしております。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 東京都豊島区西池袋1-6-１ ／ 最寄り駅：池袋 ／ 交通案内：池袋駅西口より徒歩３分、東京駅より地下鉄で17分、羽田空港へのリムジンバス（有料）がホテル正面玄関にて発着します。</p>
+                  <p><strong>【所在地・アクセス】</strong>東京都豊島区西池袋1-6-１ ／ 最寄り駅：池袋 ／ 交通案内：池袋駅西口より徒歩３分、東京駅より地下鉄で17分、羽田空港へのリムジンバス（有料）がホテル正面玄関にて発着します。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有　1泊につき1台  3,000円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -531,7 +531,7 @@ export default function HighwayBusArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/509/509_si.jpg" alt="渋谷東急ＲＥＩホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>渋谷駅すぐ◇観光やビジネス、ショッピングの拠点に</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 東京都渋谷区渋谷1-24-10 ／ 最寄り駅：渋谷 ／ 交通案内：ＪＲ渋谷駅より徒歩2分（宮益坂口、宮下公園隣り）　東京メトロ・東急渋谷駅B2番出口すぐ</p>
+                  <p><strong>【所在地・アクセス】</strong>東京都渋谷区渋谷1-24-10 ／ 最寄り駅：渋谷 ／ 交通案内：ＪＲ渋谷駅より徒歩2分（宮益坂口、宮下公園隣り）　東京メトロ・東急渋谷駅B2番出口すぐ</p>
                   <p><strong>【駐車場・マイカー利用】</strong>近隣の提携駐車場　車体制限あり　ホテルに問い合わせ要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

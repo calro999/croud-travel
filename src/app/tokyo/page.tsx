@@ -159,11 +159,11 @@ export default function TokyoHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">東京観光 完全計画ガイド 2026：1泊2日・2泊3日モデルコース＆東京駅・新宿・渋谷・浅草・夜景ホテル・朝食ビュッフェ：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「東京観光 完全計画ガイド 2026：1泊2日・2泊3日モデルコース＆東京駅・新宿・渋谷・浅草・夜景ホテル・朝食ビュッフェ」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「東京観光 完全計画ガイド 2026：1泊2日・2泊3日モデルコース＆東京駅・新宿・渋谷・浅草・夜景ホテル・朝食ビュッフェ」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -254,7 +254,7 @@ export default function TokyoHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/141356/141356.jpg" alt="高濃度炭酸泉　八重桜の湯　スーパーホテルＰｒｅｍｉｅｒ東京駅八重洲中央口 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>おもてなし規格 紫認証ホテル（経済産業省）　東京駅から徒歩3分！男女別の大浴場は健康イオン水と炭酸泉</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 東京都中央区八重洲2-2-7 ／ 最寄り駅：東京 ／ 交通案内：東京駅より徒歩３分（八重洲中央口より）、羽田空港よりリムジンバスで30分、成田空港よりJRエクスプレスで60分。</p>
+                  <p><strong>【所在地・アクセス】</strong>東京都中央区八重洲2-2-7 ／ 最寄り駅：東京 ／ 交通案内：東京駅より徒歩３分（八重洲中央口より）、羽田空港よりリムジンバスで30分、成田空港よりJRエクスプレスで60分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>事前予約制立体駐車場/1泊3000円 /入庫時間・車高制限有</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -276,7 +276,7 @@ export default function TokyoHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/11044/11044_tw.jpg" alt="ロイヤルパインズホテル浦和 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR浦和駅から東京駅へ約24分、羽田空港へ直通リムジンバス運行！さいたまスーパーアリーナまで最短1駅</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 埼玉県さいたま市浦和区仲町2-5-1 ／ 最寄り駅：浦和 ／ 交通案内：JR京浜東北線・上野東京ライン・湘南新宿ライン・高崎線・宇都宮線「浦和駅」西口より徒歩約７分、アトレ北口より徒歩約5分</p>
+                  <p><strong>【所在地・アクセス】</strong>埼玉県さいたま市浦和区仲町2-5-1 ／ 最寄り駅：浦和 ／ 交通案内：JR京浜東北線・上野東京ライン・湘南新宿ライン・高崎線・宇都宮線「浦和駅」西口より徒歩約７分、アトレ北口より徒歩約5分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（286台）、\1800/泊（税込）　高さ2.1ｍ×幅2.0ｍ×長さ5.5ｍまでの車輌（先着順）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -298,7 +298,7 @@ export default function TokyoHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/188764/188764.jpg" alt="プレミアホテルーＣＡＢＩＮ　ＰＲＥＳＩＤＥＮＴー東京 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【2024年4月新規開業】銀座・築地・豊洲も好アクセス　ホテルベーカリー食べ放題の華やか朝食ブッフェ</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 東京都中央区晴海３丁目２番７号 ／ 最寄り駅：勝どき ／ 交通案内：【電車】大江戸線「勝どき駅」A3b出口徒歩8分　【バス】バス停「晴海三丁目」目の前。銀座・築地・東京駅・豊洲市場まで1本</p>
+                  <p><strong>【所在地・アクセス】</strong>東京都中央区晴海３丁目２番７号 ／ 最寄り駅：勝どき ／ 交通案内：【電車】大江戸線「勝どき駅」A3b出口徒歩8分　【バス】バス停「晴海三丁目」目の前。銀座・築地・東京駅・豊洲市場まで1本</p>
                   <p><strong>【駐車場・マイカー利用】</strong>機械式立体駐車場有り（3,000円／1泊あたり）事前予約制</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -320,7 +320,7 @@ export default function TokyoHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/165753/165753.jpg" alt="変なホテル東京　浜松町 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>浜松町は「快眠」と「健康」をコンセプトに旅の癒しを追求しております。ＪＲ・浜松町駅徒歩２分</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 東京都港区浜松町1-24-11 ／ 最寄り駅：大門（東京） ／ 交通案内：都営浅草線・大江戸線大門駅 B4出口より徒歩約１分、JR浜松町駅 北口より徒歩約２分、モノレール浜松町駅より徒歩4分</p>
+                  <p><strong>【所在地・アクセス】</strong>東京都港区浜松町1-24-11 ／ 最寄り駅：大門（東京） ／ 交通案内：都営浅草線・大江戸線大門駅 B4出口より徒歩約１分、JR浜松町駅 北口より徒歩約２分、モノレール浜松町駅より徒歩4分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>なし</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -342,7 +342,7 @@ export default function TokyoHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4929/4929_t.jpg" alt="ホテルフランクス 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>接客サービスクチコミ高評価♪全室リファシャワー導入！全室禁煙★羽田・成田空港リムジンバス発着有</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 千葉県千葉市美浜区ひび野2-10-2 ／ 最寄り駅：海浜幕張 ／ 交通案内：海浜幕張駅徒歩4分◆空港リムジンバス停有◆幕張メッセ徒歩5分◆舞浜駅まで乗換無◆マリンスタジアム徒歩15分</p>
+                  <p><strong>【所在地・アクセス】</strong>千葉県千葉市美浜区ひび野2-10-2 ／ 最寄り駅：海浜幕張 ／ 交通案内：海浜幕張駅徒歩4分◆空港リムジンバス停有◆幕張メッセ徒歩5分◆舞浜駅まで乗換無◆マリンスタジアム徒歩15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>立体駐車場（高さ1.57ｍ、幅1.78m以下）1泊1,000円　2泊目以降一律1,500円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -364,7 +364,7 @@ export default function TokyoHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/167921/167921.jpg" alt="ホテルリソル秋葉原 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2019年4月1日新規オープン◇秋葉原駅より徒歩約3分！都内各所へのアクセスも抜群◇</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 東京都千代田区神田須田町2-25-12 ／ 最寄り駅：秋葉原 ／ 交通案内：ＪＲ「秋葉原」駅　中央改札出口より徒歩にて約３分　都営新宿線「岩本町」駅より徒歩約１分</p>
+                  <p><strong>【所在地・アクセス】</strong>東京都千代田区神田須田町2-25-12 ／ 最寄り駅：秋葉原 ／ 交通案内：ＪＲ「秋葉原」駅　中央改札出口より徒歩にて約３分　都営新宿線「岩本町」駅より徒歩約１分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り 5台 2500円（1泊） 要電話予約。提携駐車場なし。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

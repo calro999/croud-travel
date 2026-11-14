@@ -285,11 +285,11 @@ export default function AutumnBudgetKumamotoHotelsPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">熊本：銀杏城の黄金イチョウと阿蘇あか牛！3,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「熊本：銀杏城の黄金イチョウと阿蘇あか牛！3,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「熊本：銀杏城の黄金イチョウと阿蘇あか牛！3,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -371,7 +371,7 @@ export default function AutumnBudgetKumamotoHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/704/704_syo.jpg" alt="アークホテル熊本城前　－ルートインホテルズ－ 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>熊本城、繁華街、アーケードまで徒歩5分の好立地♪ビジネス・観光・ショッピングに最適なホテルです！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 熊本県熊本市中央区城東町5-16 ／ 最寄り駅：熊本 ／ 交通案内：熊本駅から20分■熊本市電／熊本駅→熊本城・市役所前駅→徒歩5分　熊本空港から50分■バス／空港→通町筋バス停→徒歩7分</p>
+                  <p><strong>【所在地・アクセス】</strong>熊本県熊本市中央区城東町5-16 ／ 最寄り駅：熊本 ／ 交通案内：熊本駅から20分■熊本市電／熊本駅→熊本城・市役所前駅→徒歩5分　熊本空港から50分■バス／空港→通町筋バス停→徒歩7分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>立体駐車場　46台（先着順） 1200円/泊 (全長5.05ｍ・車幅1.75ｍ・車高1.55ｍ迄）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -393,7 +393,7 @@ export default function AutumnBudgetKumamotoHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/550/550_room.jpg" alt="天然温泉スーパーホテル熊本商工会議所前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>■天然温泉”美肌の湯”【温泉PH】8.17　 つるつるすべすべな温泉です。　■男女別温泉</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 熊本県熊本市中央区魚屋町1-30-1 ／ 最寄り駅：熊本 ／ 交通案内：JR熊本駅より熊本市電約４分「河原町」下車徒歩２分／熊本交通センター徒歩８分／熊本空港～リムジンバス商工会議所前目の前</p>
+                  <p><strong>【所在地・アクセス】</strong>熊本県熊本市中央区魚屋町1-30-1 ／ 最寄り駅：熊本 ／ 交通案内：JR熊本駅より熊本市電約４分「河原町」下車徒歩２分／熊本交通センター徒歩８分／熊本空港～リムジンバス商工会議所前目の前</p>
                   <p><strong>【駐車場・マイカー利用】</strong>◆駐車場 地域最大級！駐車場可能台数140台！！　■午後15時～受付　■1泊550円（2輪車含む）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -415,7 +415,7 @@ export default function AutumnBudgetKumamotoHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/703/703_sgl.jpg" alt="グリーンリッチホテル水前寺(市立体育館前・水前寺公園入口前) 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>SHARPプラズマクラスター全室完備■Wi-Fi無料■空港・高速バス停徒歩１分！路面電車電停目の前！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 熊本県熊本市中央区出水1-8-5 ／ 最寄り駅：熊本 ／ 交通案内：■熊本市電「市立体育館前」は目の前■空港リムジンバス停車！「水前寺公園前」バス停より徒歩１分■水前寺公園までは徒歩２分■</p>
+                  <p><strong>【所在地・アクセス】</strong>熊本県熊本市中央区出水1-8-5 ／ 最寄り駅：熊本 ／ 交通案内：■熊本市電「市立体育館前」は目の前■空港リムジンバス停車！「水前寺公園前」バス停より徒歩１分■水前寺公園までは徒歩２分■</p>
                   <p><strong>【駐車場・マイカー利用】</strong>普通車１泊１０００円（税込）■完全予約制■満車の際は有料駐車場をご利用ください　バイク１泊２００円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.41 ／ 立地 ★3.4 ／ 部屋 ★3.18 ／ 設備 ★3.07 ／ 風呂 ★3.09</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -437,7 +437,7 @@ export default function AutumnBudgetKumamotoHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/726/726_sgl.jpg" alt="熊本県庁前グリーンホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>熊本県庁そば！　高速バス停至近！　平面駐車場あり！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 熊本県熊本市中央区神水1-24-3 ／ 最寄り駅：水前寺 ／ 交通案内：■空港より車２５分■バス停【熊本県庁前】から徒歩３分■高速【益城熊本空港IC】から車１５分■市電【八丁馬場】から徒歩５分</p>
+                  <p><strong>【所在地・アクセス】</strong>熊本県熊本市中央区神水1-24-3 ／ 最寄り駅：水前寺 ／ 交通案内：■空港より車２５分■バス停【熊本県庁前】から徒歩３分■高速【益城熊本空港IC】から車１５分■市電【八丁馬場】から徒歩５分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>平地３０台　普通車１０００円/１泊　大、中型車はスペースに応じて追加料金</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.73 ／ 立地 ★3.63 ／ 部屋 ★3.7 ／ 設備 ★3.62 ／ 風呂 ★3.58</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -459,7 +459,7 @@ export default function AutumnBudgetKumamotoHotelsPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4725/4725_heya1.jpg" alt="黒川温泉　夢龍胆 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>黒川温泉中心部に位置し、清流田ノ原川のほとりに面した情緒溢れるお料理自慢の純和風旅館。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 熊本県阿蘇郡南小国町満願寺6430-1 ／ 最寄り駅：阿蘇 ／ 交通案内：大分道日田ＩＣより車で６０分、黒川温泉バス停より徒歩1分。送迎あり(条件あり)事前予約要。</p>
+                  <p><strong>【所在地・アクセス】</strong>熊本県阿蘇郡南小国町満願寺6430-1 ／ 最寄り駅：阿蘇 ／ 交通案内：大分道日田ＩＣより車で６０分、黒川温泉バス停より徒歩1分。送迎あり(条件あり)事前予約要。</p>
                   <p>【熊本：銀杏城の黄金イチョウと阿蘇あか牛】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

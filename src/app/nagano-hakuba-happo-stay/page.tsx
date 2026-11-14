@@ -228,11 +228,11 @@ export default function MicroTouristHubPage() {
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
-              RAKUTEN TRAVEL API &amp; LOCAL GUIDE
+              HOTEL SPECS &amp; ACCESS GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">長野・白馬八方尾根：白馬マウンテンハーバー＆北アルプス絶景・温泉宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「長野・白馬八方尾根：白馬マウンテンハーバー＆北アルプス絶景・温泉宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              「長野・白馬八方尾根：白馬マウンテンハーバー＆北アルプス絶景・温泉宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -323,7 +323,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/15934/15934_heya.jpg" alt="白馬姫川温泉　北アルプスを一望　ホテル白馬＜長野県＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>新しくレストラン棟が完成、ロビーもリニューアルして温泉露天風呂＆大浴場とともに更に快適に！</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県北安曇郡白馬村北城5470-1 ／ 最寄り駅：白馬 ／ 交通案内：ＪＲ白馬駅より徒歩１０分川沿い／長野自動車道安曇野ＩＣより５０分／上信越自動車道長野ＩＣより５０分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県北安曇郡白馬村北城5470-1 ／ 最寄り駅：白馬 ／ 交通案内：ＪＲ白馬駅より徒歩１０分川沿い／長野自動車道安曇野ＩＣより５０分／上信越自動車道長野ＩＣより５０分</p>
                   <p>【長野・白馬八方尾根：白馬マウンテンハーバー＆北アルプ】 <strong>【駐車場・マイカー利用】</strong>有り　８０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.48 ／ 立地 ★4.47 ／ 部屋 ★4.3 ／ 設備 ★4.24 ／ 風呂 ★4.28 ／ 食事 ★4.44</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -345,7 +345,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/68532/68532_t.jpg" alt="白馬姫川温泉　白馬ハイランドホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>地消地産！ こだわり料理＆白馬唯一、白馬三山を一望できる２つの露天風呂で心も体もポカポカに。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県北安曇郡白馬村北城21582 ／ 最寄り駅：白馬 ／ 交通案内：ＪＲ白馬駅より徒歩２０分（無料送迎あり）／長野自動車道安曇野ＩＣより６０分／上信越自動車道長野ＩＣより６０分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県北安曇郡白馬村北城21582 ／ 最寄り駅：白馬 ／ 交通案内：ＪＲ白馬駅より徒歩２０分（無料送迎あり）／長野自動車道安曇野ＩＣより６０分／上信越自動車道長野ＩＣより６０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有100台（無料）※全面舗装ですが、屋根日影はありません</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -367,7 +367,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/39292/39292_si.jpg" alt="ホテルＪＡＬシティ長野 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>最上階16階にて信州の食文化を感じられる美味しい朝食がクチコミで好評♪</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県長野市問御所町1221 ／ 最寄り駅：長野 ／ 交通案内：ＪＲ長野駅（善光寺口）より徒歩７分。</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県長野市問御所町1221 ／ 最寄り駅：長野 ／ 交通案内：ＪＲ長野駅（善光寺口）より徒歩７分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>隣接駐車場は先着順（45台収容可　税込1,000円/泊） ※満車の場合は契約駐車場をご案内します。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -389,7 +389,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/173116/173116_kan1.jpg" alt="休暇村リトリート安曇野ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>穂高温泉郷に位置し、旬の食材を堪能できる隠れ家のようなホテル。信州観光の拠点としてご利用ください。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県安曇野市穂高有明7682-4 ／ 最寄り駅：穂高 ／ 交通案内：穂高駅よりお車にて約15分、【松本IC】よりお車で約40分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県安曇野市穂高有明7682-4 ／ 最寄り駅：穂高 ／ 交通案内：穂高駅よりお車にて約15分、【松本IC】よりお車で約40分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -411,7 +411,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/3093/3093_heya1.jpg" alt="白馬アルパインホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>信濃路の旅情漂う山岳ホテル　温泉露天風呂が好評です。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県北安曇郡白馬村八方5706 ／ 最寄り駅：白馬 ／ 交通案内：長野自動車道安曇野ＩＣより車で６０分、ＪＲ白馬駅よりバス</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県北安曇郡白馬村八方5706 ／ 最寄り駅：白馬 ／ 交通案内：長野自動車道安曇野ＩＣより車で６０分、ＪＲ白馬駅よりバス</p>
                   <p>【長野・白馬八方尾根：白馬マウンテンハーバー＆北アルプ】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -433,7 +433,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/181791/181791.jpg" alt="ＷＨＩＴＥ　ＨＯＴＥＬ　ＧＲＡＮＤ　ＨＡＫＵＢＡ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>白馬・大町エリア間の青木湖畔高台に位置し北アルプス観光やＳＵＰ、トレッキングの拠点に最適。</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 長野県大町市平23370 ／ 最寄り駅：南神城 ／ 交通案内：JR大糸線簗場（やなば）駅より送迎１０分／長野自動車道｜安曇野ＩＣ・上信越自動車道｜長野ＩＣより約６０分</p>
+                  <p><strong>【所在地・アクセス】</strong>長野県大町市平23370 ／ 最寄り駅：南神城 ／ 交通案内：JR大糸線簗場（やなば）駅より送迎１０分／長野自動車道｜安曇野ＩＣ・上信越自動車道｜長野ＩＣより約６０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>敷地内に無料駐車場をご用意しております。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
