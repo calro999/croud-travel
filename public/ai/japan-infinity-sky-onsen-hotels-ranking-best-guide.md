@@ -3,7 +3,7 @@ title: "【2026-2027年最新】全国絶景インフィニティ温泉＆天空
 url: "https://croud-travel.pages.dev/posts/japan-infinity-sky-onsen-hotels-ranking-best-guide/"
 hotel_name: "全国絶景インフィニティ温泉＆天空露天風呂12選"
 prefecture: "全国"
-area: "全国"
+area: "全国主要エリア"
 price_from: 0
 rating: 4.7
 review_count: 3200
@@ -14,7 +14,7 @@ last_modified: "2026-11-10T09:50:31.954Z"
 
 - **URL**: https://croud-travel.pages.dev/posts/japan-infinity-sky-onsen-hotels-ranking-best-guide/
 - **宿泊施設・特集名**: 全国絶景インフィニティ温泉＆天空露天風呂12選
-- **所在地**: 全国（全国）
+- **所在地**: 全国（全国主要エリア）
 - **参考最安料金**: ¥NaN〜
 - **楽天トラベル評価**: ★4.7（口コミ 3,200件）
 - **最終更新日**: 2026-11-10T09:50:31.954Z

@@ -3,7 +3,7 @@ title: "【栃木の直前予約・空室速報】週末連休・年末年始に
 url: "https://croud-travel.pages.dev/posts/obon-tochigi-lastminute-guide/"
 hotel_name: "【2026お盆直前】栃木・鬼怒川温泉＆日光の直前予約できる温泉旅館特集｜世界遺産・渓谷美・東武線で渋滞知らず"
 prefecture: "栃木県"
-area: "栃木県"
+area: "・鬼怒川温泉"
 price_from: 52920
 rating: 4.15
 review_count: 24
@@ -14,7 +14,7 @@ last_modified: "2026-11-15"
 
 - **URL**: https://croud-travel.pages.dev/posts/obon-tochigi-lastminute-guide/
 - **宿泊施設・特集名**: 【2026お盆直前】栃木・鬼怒川温泉＆日光の直前予約できる温泉旅館特集｜世界遺産・渓谷美・東武線で渋滞知らず
-- **所在地**: 栃木県（栃木県）
+- **所在地**: 栃木県（・鬼怒川温泉）
 - **参考最安料金**: ¥52,920〜
 - **楽天トラベル評価**: ★4.15（口コミ 24件）
 - **最終更新日**: 2026-11-15

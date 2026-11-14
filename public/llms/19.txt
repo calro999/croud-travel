@@ -1,10 +1,10 @@
-# 山梨県の宿泊・観光記事（85件）
+# 山梨県の宿泊・観光記事（86件）
 
 ## 【山梨の直前予約・空室速報】週末連休・年末年始に今すぐ泊まれるおすすめ人気ホテル＆温泉宿
 - 記事: https://croud-travel.pages.dev/posts/obon-yamanashi-lastminute-guide/
 - 全文Markdown: https://croud-travel.pages.dev/ai/obon-yamanashi-lastminute-guide.md
 - 宿泊施設名: 【2026お盆直前】山梨・富士五湖・河口湖の直前予約できる温泉宿＆絶景ホテル特集｜中央道渋滞回避・絶景ドライブ
-- エリア: 山梨県
+- エリア: 山梨主要エリア
 - 参考価格: ¥10000〜
 - 評価: 4.15
 
@@ -89,6 +89,16 @@
 - 評価: 4.66
 
 サチコクエリ「石和温泉 慶山 朝食」「石和温泉 子連れ」「山梨 旅館 おすすめ」に完全連動！新宿からJR中央線特急あずさ・かいじで約90分と首都圏からアクセス抜群の「石和温泉」。プロが選ぶ日本のホテル旅館100選に選ばれる「華やぎの章 慶山」では、毎晩開催される大迫力の「慶山太鼓ショー」に子供も大人...
+
+## 【山梨・河口湖】「河口湖 冬花火2027」＆冬の富士山絶景完全攻略！澄み渡る夜空を彩る湖上花火と大池公園特等席、客室露天から眺める紅富士・名湯河口湖温泉＆甲州牛・名物ほうとうを味わう厳選宿5選
+- 記事: https://croud-travel.pages.dev/posts/winter-yamanashi-kawaguchiko-winter-fireworks-fuji-view-hotels-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/winter-yamanashi-kawaguchiko-winter-fireworks-fuji-view-hotels-guide.md
+- 宿泊施設名: 富士河口湖温泉 湖南荘・秀峰閣 湖月・THE KUKUNA ほか
+- エリア: 河口湖・富士五湖
+- 参考価格: ¥¥25,300〜〜
+- 評価: 4.71
+
+2027年1月中旬から2月下旬にかけて開催される「河口湖 冬花火」と、澄み渡る大気の中に雪化粧の富士山が輝く冬の富士五湖完全攻略ガイド。大池公園・畳岩・八木崎公園の打ち上げポイント、湖面に映る逆さ富士花火、朝焼けに染まる「紅富士」の鑑賞術を網羅。客室や露天風呂から真正面に富士山と花火を望む河口湖温泉の極上宿など厳選5選をご紹介。
 
 ## 【10月-11月のグランピング特集】秋の澄んだ星空と焚き火BBQ！温泉・サウナ付きで快適に過ごす関東・甲信の人気アウトドア宿5選（2026年）
 - 記事: https://croud-travel.pages.dev/posts/autumn-kanto-koshin-glamping-bonfire-bbq-guide/

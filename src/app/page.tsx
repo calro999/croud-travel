@@ -201,7 +201,7 @@ export default function Home() {
         </div>
 
         <p className="text-xs md:text-sm text-stone-300 leading-relaxed max-w-4xl">
-          当サイトが誇る圧倒的情報量（各記事1万文字超！）と実測APIデータで比較した、今最も読まれている全国横断の特別ガイドです。草津・箱根・有馬などの名湯から、オールインクルーシブ、サウナシュラン、年末年始初詣、ふるさと納税高級宿、冬の味覚カニ旅行まで、一生に一度は訪れたい至高の旅路をご案内します。
+          当サイトが実測データをもとに厳選比較した、今最も読まれている全国横断の特別ガイドです。草津・箱根・有馬などの名湯から、オールインクルーシブ、サウナシュラン、年末年始初詣、ふるさと納税高級宿、冬の味覚カニ旅行まで、一生に一度は訪れたい至高の旅路をご案内します。
         </p>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-1">
@@ -277,7 +277,7 @@ export default function Home() {
               <span className="text-[10px] font-extrabold text-amber-300 bg-amber-950/80 px-2.5 py-0.5 rounded-md border border-amber-500/30">
                 ✨ 表参道＆神宮外苑クリスマス
               </span>
-              <span className="text-[10px] text-stone-400">8,900文字超</span>
+              <span className="text-[10px] text-stone-300 font-bold">厳選5宿・夜景比較</span>
             </div>
             <h3 className="text-sm md:text-base font-bold text-white group-hover:text-amber-200 transition line-clamp-2 leading-snug">【表参道・神宮外苑】表参道フェンディイルミネーション2026＆東京クリスマスマーケット完全攻略！</h3>
             <p className="text-xs text-stone-300 line-clamp-2 leading-relaxed">
@@ -293,7 +293,7 @@ export default function Home() {
               <span className="text-[10px] font-extrabold text-emerald-300 bg-emerald-950/80 px-2.5 py-0.5 rounded-md border border-emerald-500/30">
                 🌲 さがみ湖イルミリオン600万球
               </span>
-              <span className="text-[10px] text-stone-400">7,900文字超</span>
+              <span className="text-[10px] text-stone-300 font-bold">厳選5宿・温泉比較</span>
             </div>
             <h3 className="text-sm md:text-base font-bold text-white group-hover:text-emerald-200 transition line-clamp-2 leading-snug">【さがみ湖イルミリオン2026-2027】関東三大イルミネーション600万球の絶景と相模湖・高尾山温泉！</h3>
             <p className="text-xs text-stone-300 line-clamp-2 leading-relaxed">
@@ -309,7 +309,7 @@ export default function Home() {
               <span className="text-[10px] font-extrabold text-blue-300 bg-blue-950/80 px-2.5 py-0.5 rounded-md border border-blue-500/30">
                 🎡 東京ドームシティ＆ラクーア天然温泉
               </span>
-              <span className="text-[10px] text-stone-400">8,000文字超</span>
+              <span className="text-[10px] text-stone-300 font-bold">厳選5宿・スパ特集</span>
             </div>
             <h3 className="text-sm md:text-base font-bold text-white group-hover:text-blue-200 transition line-clamp-2 leading-snug">【東京ドームシティ】ウィンターイルミネーション2026-2027＆都心天然温泉「スパ ラクーア」完全攻略！</h3>
             <p className="text-xs text-stone-300 line-clamp-2 leading-relaxed">
@@ -325,7 +325,7 @@ export default function Home() {
               <span className="text-[10px] font-extrabold text-amber-300 bg-amber-950/80 px-2.5 py-0.5 rounded-md border border-amber-500/30">
                 ♨️ 全国温泉地ランキング
               </span>
-              <span className="text-[10px] text-stone-400">14,000文字超</span>
+              <span className="text-[10px] text-stone-300 font-bold">厳選12宿・泉質比較</span>
             </div>
             <h3 className="text-sm md:text-base font-bold text-white group-hover:text-amber-200 transition line-clamp-2 leading-snug">【日本全国温泉地ランキングTOP12】草津・箱根・有馬・由布院・別府・城崎の名旅館徹底比較</h3>
             <p className="text-xs text-stone-300 line-clamp-2 leading-relaxed">
@@ -341,7 +341,7 @@ export default function Home() {
               <span className="text-[10px] font-extrabold text-indigo-300 bg-indigo-950/80 px-2.5 py-0.5 rounded-md border border-indigo-500/30">
                 🍷 オールインクルーシブ
               </span>
-              <span className="text-[10px] text-stone-400">15,000文字超</span>
+              <span className="text-[10px] text-stone-300 font-bold">厳選12宿・特典比較</span>
             </div>
             <h3 className="text-sm md:text-base font-bold text-white group-hover:text-indigo-200 transition line-clamp-2 leading-snug">【全国オールインクルーシブ温泉宿TOP12】ビール・地酒・夜食・貸切風呂まで全て無料</h3>
             <p className="text-xs text-stone-300 line-clamp-2 leading-relaxed">
@@ -357,7 +357,7 @@ export default function Home() {
               <span className="text-[10px] font-extrabold text-teal-300 bg-teal-950/80 px-2.5 py-0.5 rounded-md border border-teal-500/30">
                 🧖 サウナシュラン＆サ旅
               </span>
-              <span className="text-[10px] text-stone-400">14,000文字超</span>
+              <span className="text-[10px] text-stone-300 font-bold">厳選12宿・水温比較</span>
             </div>
             <h3 className="text-sm md:text-base font-bold text-white group-hover:text-teal-200 transition line-clamp-2 leading-snug">【全国サウナが凄いホテル＆名旅館TOP12】らかんの湯・北こぶし知床・マウント富士</h3>
             <p className="text-xs text-stone-300 line-clamp-2 leading-relaxed">
@@ -409,7 +409,7 @@ export default function Home() {
               <span className="text-[10px] font-extrabold text-rose-300 bg-rose-950/80 px-2.5 py-0.5 rounded-md border border-rose-500/30">
                 ⛩️ 初詣＆初日の出2026-2027
               </span>
-              <span className="text-[10px] text-stone-400">12,000文字超</span>
+              <span className="text-[10px] text-stone-300 font-bold">開運12宿・参拝比較</span>
             </div>
             <h3 className="text-sm md:text-base font-bold text-white group-hover:text-rose-200 transition line-clamp-2 leading-snug">【年末年始・初詣＆初日の出温泉旅行】伊勢神宮・出雲大社・富士山近くの開運旅館12選</h3>
             <p className="text-xs text-stone-300 line-clamp-2 leading-relaxed">
@@ -425,7 +425,7 @@ export default function Home() {
               <span className="text-[10px] font-extrabold text-amber-300 bg-amber-950/80 px-2.5 py-0.5 rounded-md border border-amber-500/30">
                 💰 実質2,000円宿泊
               </span>
-              <span className="text-[10px] text-stone-400">11,600文字超</span>
+              <span className="text-[10px] text-stone-300 font-bold">最高峰12宿・控除ガイド</span>
             </div>
             <h3 className="text-sm md:text-base font-bold text-white group-hover:text-amber-200 transition line-clamp-2 leading-snug">【楽天ふるさと納税×高級宿】還元率30%クーポンで泊まる憧れの最高峰旅館12選</h3>
             <p className="text-xs text-stone-300 line-clamp-2 leading-relaxed">
@@ -441,7 +441,7 @@ export default function Home() {
               <span className="text-[10px] font-extrabold text-red-300 bg-red-950/80 px-2.5 py-0.5 rounded-md border border-red-500/30">
                 🦀 冬の味覚・カニ解禁
               </span>
-              <span className="text-[10px] text-stone-400">11,800文字超</span>
+              <span className="text-[10px] text-stone-300 font-bold">タグ付活蟹・厳選12宿</span>
             </div>
             <h3 className="text-sm md:text-base font-bold text-white group-hover:text-red-200 transition line-clamp-2 leading-snug">【日本海カニ旅行】松葉ガニ・越前がに・間人ガニ解禁！タグ付き活蟹が食べられる宿12選</h3>
             <p className="text-xs text-stone-300 line-clamp-2 leading-relaxed">

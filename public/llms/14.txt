@@ -1,10 +1,10 @@
-# 神奈川県の宿泊・観光記事（82件）
+# 神奈川県の宿泊・観光記事（83件）
 
 ## 【神奈川の直前予約・空室速報】週末連休・年末年始に今すぐ泊まれるおすすめ人気ホテル＆温泉宿
 - 記事: https://croud-travel.pages.dev/posts/obon-kanagawa-lastminute-guide/
 - 全文Markdown: https://croud-travel.pages.dev/ai/obon-kanagawa-lastminute-guide.md
 - 宿泊施設名: 【2026お盆直前】神奈川・箱根の直前予約できる温泉旅館＆露天風呂付き宿特集｜東京から1時間・東名渋滞回避のコツも
-- エリア: 神奈川県
+- エリア: 神奈川主要エリア
 - 参考価格: ¥6175〜
 - 評価: 4.15
 
@@ -33,10 +33,22 @@
 ## 【さがみ湖イルミリオン2026-2027】関東三大イルミネーション600万球の絶景と相模湖・高尾山温泉！焚き火コテージ＆極上リゾート宿5選
 - 記事: https://croud-travel.pages.dev/posts/winter-kanagawa-sagamiko-illumillion-kanto-three-great-lightup-hotels-guide/
 - 全文Markdown: https://croud-travel.pages.dev/ai/winter-kanagawa-sagamiko-illumillion-kanto-three-great-lightup-hotels-guide.md
-- 宿泊施設名: 
+- 宿泊施設名: ＰＩＣＡさがみ湖・タカオネ・京王プラザホテル八王子 ほか
 - エリア: 相模湖・津久井・高尾・八王子
+- 参考価格: ¥3150〜
+- 評価: 4.03
 
 2026年11月〜2027年5月開催の関東三大イルミネーション「さがみ湖イルミリオン（さがみ湖MORI MORI）」完全ガイド。起伏に富んだ大自然の山腹を埋め尽くす圧巻の600万球、全長250mの「光の虹のリフト」による空中散歩、標高370m「光の観覧車」から望む夜景パノラマ、日帰り温泉「さがみ湖温泉 うるり」を徹底解説。さらにPICAさがみ湖の焚き火テラス付きコテージや、高尾山口駅前の体験型ホテル「タカオネ」、京王プラザホテル八王子など、冬のドライブデートやファミリー旅行に最適な厳選5宿をご紹介します。
+
+## 【横浜】クリスマスマーケット in 横浜赤レンガ倉庫2026＆ヨコハマミライト完全攻略！本場ドイツのヒュッテ・巨大ツリーとみなとみらい100万ドルの冬夜景、バルコニー付き海見え客室＆豪華ディナーを満喫する厳選名ホテル5選
+- 記事: https://croud-travel.pages.dev/posts/winter-kanagawa-yokohama-redbrick-christmas-market-minatomirai-hotels-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/winter-kanagawa-yokohama-redbrick-christmas-market-minatomirai-hotels-guide.md
+- 宿泊施設名: 横浜ベイホテル東急・インターコンチネンタル横浜Pier 8・ホテルニューグランド ほか
+- エリア: 横浜・みなとみらい
+- 参考価格: ¥¥9,146〜〜
+- 評価: 4.72
+
+2026年11月下旬〜12月25日開催の「クリスマスマーケット in 横浜赤レンガ倉庫」と「ヨコハマミライト」を徹底解説。本場ドイツ・ニュルンベルクの伝統を受け継ぐヒュッテ、高さ約10mの本モミの木ツリー、約1.5km続くイルミネーション散策路を網羅。横浜ベイホテル東急やインターコンチネンタル横浜Pier 8など、バルコニー付き客室からみなとみらいの冬夜景を独り占めできる楽天トラベル高評価宿5選をご紹介。
 
 ## 【10月-11月の箱根温泉】仙石原の一面黄金すすき草原と芦ノ湖の紅葉！客室露天風呂＆極上ディナーで過ごす秋の名宿5選（2026最新）
 - 記事: https://croud-travel.pages.dev/posts/autumn-kanagawa-hakone-sengokuhara-susuki-momiji-guide/

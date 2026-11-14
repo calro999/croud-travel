@@ -2,8 +2,8 @@
 title: "【軽井沢】軽井沢高原教会「星降る森のクリスマス2026」＆ハルニレテラス完全攻略！無数のランタンキャンドルと白糸の滝ライトアップ、星野温泉トンボの湯＆信州牛・極上フレンチを堪能するクラシックリゾート宿5選"
 url: "https://croud-travel.pages.dev/posts/winter-nagano-karuizawa-plateau-church-christmas-candle-hotels-guide/"
 hotel_name: "万平ホテル・旧軽井沢KIKYO・ルグラン軽井沢ホテル＆リゾート ほか"
-prefecture: ""
-area: ""
+prefecture: "長野県"
+area: "軽井沢"
 price_from: 0
 rating: 4.73
 review_count: 536
@@ -14,7 +14,7 @@ last_modified: "2026-11-02"
 
 - **URL**: https://croud-travel.pages.dev/posts/winter-nagano-karuizawa-plateau-church-christmas-candle-hotels-guide/
 - **宿泊施設・特集名**: 万平ホテル・旧軽井沢KIKYO・ルグラン軽井沢ホテル＆リゾート ほか
-- **所在地**: （）
+- **所在地**: 長野県（軽井沢）
 - **参考最安料金**: ¥NaN〜
 - **楽天トラベル評価**: ★4.73（口コミ 536件）
 - **最終更新日**: 2026-11-02
@@ -26,7 +26,7 @@ last_modified: "2026-11-02"
 
 | 順位 | 宿泊施設名 | 口コミ評価 | 参考最安料金 |
 | :--- | :--- | :--- | :--- |
-| 1位 | 12月の軽井沢・必見イベント＆散策術 | ★4.3 | プラン参照 |
+| 1位 | 万平ホテル | ★4.3 | プラン参照 |
 | 2位 | 旧軽井沢ＫＩＫＹＯキュリオ・コレクションｂｙヒルトン（長野県北佐久郡軽井沢町） | ★4.3 | ¥22,028〜 |
 | 3位 | ルグラン軽井沢ホテル＆リゾート（長野県北佐久郡軽井沢町） | ★4.3 | ¥16,170〜 |
 | 4位 | ホテルインディゴ軽井沢 ｂｙ ＩＨＧ（長野県北佐久郡軽井沢町） | ★4.3 | ¥18,000〜 |

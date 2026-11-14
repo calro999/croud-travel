@@ -528,7 +528,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有４０台無料　係員が駐車場までご案内します　Google map「寿亭専用駐車場」と検索してください</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.69 ／ 立地 ★4.44 ／ 部屋 ★4.44 ／ 設備 ★4.31 ／ 風呂 ★4.51 ／ 食事 ★4.65</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「趣のある空間と美味しい食事でゆったりと旅館自体は古いですが趣のある感じで寛げました。お食事も美味しかったですし器も素敵でした貸切風呂は綺麗でのんびり過ごせました。クチコミの詳細はこちら…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「趣のある空間と美味しい食事でゆったりと旅館自体は古いですが趣のある感じで寛げました。お食事も美味しかったですし器も素敵でした貸切風呂は綺麗でのんびり過ごせました。」
                   </blockquote>
                 </div>
               </div>

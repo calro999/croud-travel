@@ -3,7 +3,7 @@ title: "【2026-2027年最新】全国の客室露天風呂・貸切風呂付き
 url: "https://croud-travel.pages.dev/posts/japan-private-open-air-bath-onsen-hotels-ranking-guide/"
 hotel_name: "全国客室露天風呂・貸切風呂付き名旅館12選"
 prefecture: "全国"
-area: "全国"
+area: "全国主要エリア"
 price_from: 0
 rating: 4.6
 review_count: 2350
@@ -14,7 +14,7 @@ last_modified: "2026-11-10T09:09:21.925Z"
 
 - **URL**: https://croud-travel.pages.dev/posts/japan-private-open-air-bath-onsen-hotels-ranking-guide/
 - **宿泊施設・特集名**: 全国客室露天風呂・貸切風呂付き名旅館12選
-- **所在地**: 全国（全国）
+- **所在地**: 全国（全国主要エリア）
 - **参考最安料金**: ¥NaN〜
 - **楽天トラベル評価**: ★4.6（口コミ 2,350件）
 - **最終更新日**: 2026-11-10T09:09:21.925Z

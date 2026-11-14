@@ -3,7 +3,7 @@ title: "【2026最新】楽天トラベルお得予約ガイド｜セール時�
 url: "https://croud-travel.pages.dev/posts/rakuten-travel-guide/"
 hotel_name: "楽天トラベルおトク旅行ガイドコラム"
 prefecture: "全国"
-area: "全国"
+area: "全国主要エリア"
 price_from: 6780
 rating: 4.73
 review_count: 103
@@ -14,7 +14,7 @@ last_modified: "2026-11-15"
 
 - **URL**: https://croud-travel.pages.dev/posts/rakuten-travel-guide/
 - **宿泊施設・特集名**: 楽天トラベルおトク旅行ガイドコラム
-- **所在地**: 全国（全国）
+- **所在地**: 全国（全国主要エリア）
 - **参考最安料金**: ¥6,780〜
 - **楽天トラベル評価**: ★4.73（口コミ 103件）
 - **最終更新日**: 2026-11-15

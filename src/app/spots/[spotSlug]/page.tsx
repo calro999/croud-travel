@@ -430,7 +430,7 @@ export default async function SpotDetailPage({ params }: { params: Promise<{ spo
 
         return (
           <NextSearchQuestions
-            title={`🔍 「${spot.name}」を調べた人が次に検索している疑問＆周辺ガイド`}
+            title={`「${spot.name}」を調べた人が次に検索している疑問＆周辺ガイド`}
             subtitle="観光の計画をさらに充実させるため、周辺の宿泊施設・名物グルメ・関連する旅の特集を先回りしてご紹介します。"
             items={nextQuestions}
           />

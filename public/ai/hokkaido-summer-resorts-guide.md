@@ -3,7 +3,7 @@ title: "避暑地 夏の北海道・大自然を満喫できる絶景リゾー�
 url: "https://croud-travel.pages.dev/posts/hokkaido-summer-resorts-guide/"
 hotel_name: "【避暑地】夏の北海道・大自然を満喫できる絶景リゾートホテル大特集"
 prefecture: "北海道"
-area: "北海道"
+area: "道央・札幌近郊"
 price_from: 8250
 rating: 4.15
 review_count: 1500
@@ -14,7 +14,7 @@ last_modified: "2026-09-15"
 
 - **URL**: https://croud-travel.pages.dev/posts/hokkaido-summer-resorts-guide/
 - **宿泊施設・特集名**: 【避暑地】夏の北海道・大自然を満喫できる絶景リゾートホテル大特集
-- **所在地**: 北海道（北海道）
+- **所在地**: 北海道（道央・札幌近郊）
 - **参考最安料金**: ¥8,250〜
 - **楽天トラベル評価**: ★4.15（口コミ 1,500件）
 - **最終更新日**: 2026-09-15

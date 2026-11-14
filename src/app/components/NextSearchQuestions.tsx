@@ -20,7 +20,7 @@ interface NextSearchQuestionsProps {
 }
 
 export default function NextSearchQuestions({
-  title = "🔍 この記事を読んだ人が「次に検索している疑問」＆先回りガイド",
+  title = "この記事を読んだ人が「次に検索している疑問」＆先回りガイド",
   subtitle = "旅行の計画をスムーズに進めるために、次に知りたくなる周辺情報やおすすめルートをまとめました。",
   items,
 }: NextSearchQuestionsProps) {

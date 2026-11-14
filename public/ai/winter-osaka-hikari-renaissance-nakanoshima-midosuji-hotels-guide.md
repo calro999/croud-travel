@@ -2,8 +2,8 @@
 title: "【大阪・中之島】OSAKA光のルネサンス2026＆御堂筋イルミネーション完全攻略！大阪市中央公会堂プロジェクションマッピングと光のマルシェ、水都の天空パノラマ夜景＆クラシック名門ホテル5選"
 url: "https://croud-travel.pages.dev/posts/winter-osaka-hikari-renaissance-nakanoshima-midosuji-hotels-guide/"
 hotel_name: "コンラッド大阪・リーガロイヤルホテル大阪・帝国ホテル大阪 ほか"
-prefecture: ""
-area: ""
+prefecture: "大阪府"
+area: "中之島・御堂筋・梅田"
 price_from: 0
 rating: 4.73
 review_count: 14142
@@ -14,7 +14,7 @@ last_modified: "2026-11-08"
 
 - **URL**: https://croud-travel.pages.dev/posts/winter-osaka-hikari-renaissance-nakanoshima-midosuji-hotels-guide/
 - **宿泊施設・特集名**: コンラッド大阪・リーガロイヤルホテル大阪・帝国ホテル大阪 ほか
-- **所在地**: （）
+- **所在地**: 大阪府（中之島・御堂筋・梅田）
 - **参考最安料金**: ¥NaN〜
 - **楽天トラベル評価**: ★4.73（口コミ 14,142件）
 - **最終更新日**: 2026-11-08

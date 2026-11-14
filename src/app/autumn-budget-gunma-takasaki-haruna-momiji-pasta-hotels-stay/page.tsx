@@ -440,7 +440,7 @@ export default function AutumnBudgetTakasakiHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有料：立体駐車場1泊￥500</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.1 ／ 立地 ★3.98 ／ 部屋 ★4.03 ／ 設備 ★3.94 ／ 風呂 ★3.92</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食のおにぎりが美味しくコーヒーも満足朝食のおにぎりがとても美味しかったです。コーヒーのサービスもありました。アメニティがもう少し充実していると更に良かったです。クチコミの詳細はこちら…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食のおにぎりが美味しくコーヒーも満足朝食のおにぎりがとても美味しかったです。コーヒーのサービスもありました。アメニティがもう少し充実していると更に良かったです。」
                   </blockquote>
                 </div>
               </div>

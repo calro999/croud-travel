@@ -3,7 +3,7 @@ title: "【愛知の直前予約・空室速報】週末連休・年末年始に
 url: "https://croud-travel.pages.dev/posts/obon-aichi-lastminute-guide/"
 hotel_name: "【2026お盆直前】愛知・名古屋・犬山・知多半島の直前予約できるホテル＆温泉宿特集｜名古屋めし・ファミリー旅行"
 prefecture: "愛知県"
-area: "愛知県"
+area: "愛知主要エリア"
 price_from: 5650
 rating: 4.15
 review_count: 1247
@@ -14,7 +14,7 @@ last_modified: "2026-11-15"
 
 - **URL**: https://croud-travel.pages.dev/posts/obon-aichi-lastminute-guide/
 - **宿泊施設・特集名**: 【2026お盆直前】愛知・名古屋・犬山・知多半島の直前予約できるホテル＆温泉宿特集｜名古屋めし・ファミリー旅行
-- **所在地**: 愛知県（愛知県）
+- **所在地**: 愛知県（愛知主要エリア）
 - **参考最安料金**: ¥5,650〜
 - **楽天トラベル評価**: ★4.15（口コミ 1,247件）
 - **最終更新日**: 2026-11-15

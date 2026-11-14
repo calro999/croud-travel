@@ -349,7 +349,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　13台　無料　予約不要　※満車時は隣接町営無料駐車場をご案内</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「入浴時間が長く、古き良き雰囲気に癒やされたお風呂の入浴可能時間が朝夕長いのでくつろげました。施設自体は古いですが、イイ雰囲気でした。また行きます。ありがとうございました。クチコミの詳細はこちら…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「入浴時間が長く、古き良き雰囲気に癒やされたお風呂の入浴可能時間が朝夕長いのでくつろげました。施設自体は古いですが、イイ雰囲気でした。また行きます。ありがとうございました。」
                   </blockquote>
                 </div>
               </div>

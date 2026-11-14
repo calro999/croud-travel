@@ -371,7 +371,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料。 敷地内にはございません。約400ｍ離れた場所にございます。スタッフでご移動かご誘導します。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お食事がすごく美味しかったです。品のある味つけ、盛り付け。鯛づくしでなかでも鯛しゃぶと鯛茶漬けは最高に美味しかった。お部屋もステキで、お風呂もよかったです。他の画像やクチコミの詳細はこちら…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お食事がすごく美味しかったです。品のある味つけ、盛り付け。鯛づくしでなかでも鯛しゃぶと鯛茶漬けは最高に美味しかった。お部屋もステキで、お風呂もよかったです。他の画像や」
                   </blockquote>
                 </div>
               </div>

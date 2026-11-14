@@ -493,7 +493,7 @@ export default function AutumnBudgetNagasakiStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>近隣駐車場有/15時から翌10時まで1,400円/先着順/車高2m以下/営業時間5時〜23時</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.21 ／ 立地 ★4.3 ／ 部屋 ★4.24 ／ 設備 ★4.15 ／ 風呂 ★4.11 ／ 食事 ★4.32</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食は期待外れ、レディースフロアは場所が難解朝食が写真よりもイマイチだったのが残念でした。レディースフロアで、クッションがあったのは良かったが、場所が分かりにくかった。クチコミの詳細はこちらか…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食は期待外れ、レディースフロアは場所が難解朝食が写真よりもイマイチだったのが残念でした。レディースフロアで、クッションがあったのは良かったが、場所が分かりにくかった。」
                   </blockquote>
                 </div>
               </div>

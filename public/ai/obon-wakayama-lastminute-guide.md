@@ -3,7 +3,7 @@ title: "【和歌山の直前予約・空室速報】週末連休・年末年始
 url: "https://croud-travel.pages.dev/posts/obon-wakayama-lastminute-guide/"
 hotel_name: "【2026お盆直前】和歌山・白浜温泉＆熊野古道の直前予約できる温泉旅館特集｜パンダに会える・白良浜・南紀の海鮮"
 prefecture: "和歌山県"
-area: "和歌山県"
+area: "・白浜温泉"
 price_from: 6050
 rating: 4.15
 review_count: 1353
@@ -14,7 +14,7 @@ last_modified: "2026-11-15"
 
 - **URL**: https://croud-travel.pages.dev/posts/obon-wakayama-lastminute-guide/
 - **宿泊施設・特集名**: 【2026お盆直前】和歌山・白浜温泉＆熊野古道の直前予約できる温泉旅館特集｜パンダに会える・白良浜・南紀の海鮮
-- **所在地**: 和歌山県（和歌山県）
+- **所在地**: 和歌山県（・白浜温泉）
 - **参考最安料金**: ¥6,050〜
 - **楽天トラベル評価**: ★4.15（口コミ 1,353件）
 - **最終更新日**: 2026-11-15

@@ -3,7 +3,7 @@ title: "【福岡の直前予約・空室速報】週末連休・年末年始に
 url: "https://croud-travel.pages.dev/posts/obon-fukuoka-lastminute-guide/"
 hotel_name: "【2026お盆直前】福岡・博多の直前予約できるホテル特集｜博多ラーメン・もつ鍋・太宰府天満宮・屋台グルメ"
 prefecture: "福岡県"
-area: "福岡県"
+area: "博多・天神"
 price_from: 8300
 rating: 4.15
 review_count: 3307
@@ -14,7 +14,7 @@ last_modified: "2026-11-15"
 
 - **URL**: https://croud-travel.pages.dev/posts/obon-fukuoka-lastminute-guide/
 - **宿泊施設・特集名**: 【2026お盆直前】福岡・博多の直前予約できるホテル特集｜博多ラーメン・もつ鍋・太宰府天満宮・屋台グルメ
-- **所在地**: 福岡県（福岡県）
+- **所在地**: 福岡県（博多・天神）
 - **参考最安料金**: ¥8,300〜
 - **楽天トラベル評価**: ★4.15（口コミ 3,307件）
 - **最終更新日**: 2026-11-15

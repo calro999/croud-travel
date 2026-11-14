@@ -659,7 +659,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
                   <span className="text-[10px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase tracking-wider">
                     {prefInfo.name} ＞ {subArea.areaName}
                   </span>
-                  <a href="#" className="text-[10px] font-bold text-teal-900/50 hover:text-teal-800">
+                  <a href="#top" className="text-[10px] font-bold text-teal-900/50 hover:text-teal-800">
                     ▲ 目次へ戻る
                   </a>
                 </div>
@@ -1047,7 +1047,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
 
         return (
           <NextSearchQuestions
-            title={`🔍 「${prefInfo.name} 観光」を調べた人が次に検索している疑問＆先回りガイド`}
+            title={`「${prefInfo.name} 観光」を調べた人が次に検索している疑問＆先回りガイド`}
             subtitle={`${prefInfo.name}への旅行をより具体的にイメージできるよう、人気の市町村ガイド、有名観光地、おすすめホテル、旅行テーマ特集を先回り提示します。`}
             items={nextQuestions}
           />

@@ -3,7 +3,7 @@ title: "【長野の直前予約・空室速報】週末連休・年末年始に
 url: "https://croud-travel.pages.dev/posts/obon-nagano-lastminute-guide/"
 hotel_name: "【2026お盆直前】長野・軽井沢の直前予約できる高原リゾート＆温泉宿特集｜避暑地・混雑回避"
 prefecture: "長野県"
-area: "長野県"
+area: "長野主要エリア"
 price_from: 14520
 rating: 4.15
 review_count: 142
@@ -14,7 +14,7 @@ last_modified: "2026-11-15"
 
 - **URL**: https://croud-travel.pages.dev/posts/obon-nagano-lastminute-guide/
 - **宿泊施設・特集名**: 【2026お盆直前】長野・軽井沢の直前予約できる高原リゾート＆温泉宿特集｜避暑地・混雑回避
-- **所在地**: 長野県（長野県）
+- **所在地**: 長野県（長野主要エリア）
 - **参考最安料金**: ¥14,520〜
 - **楽天トラベル評価**: ★4.15（口コミ 142件）
 - **最終更新日**: 2026-11-15

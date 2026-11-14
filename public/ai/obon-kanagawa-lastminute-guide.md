@@ -3,7 +3,7 @@ title: "【神奈川の直前予約・空室速報】週末連休・年末年始
 url: "https://croud-travel.pages.dev/posts/obon-kanagawa-lastminute-guide/"
 hotel_name: "【2026お盆直前】神奈川・箱根の直前予約できる温泉旅館＆露天風呂付き宿特集｜東京から1時間・東名渋滞回避のコツも"
 prefecture: "神奈川県"
-area: "神奈川県"
+area: "神奈川主要エリア"
 price_from: 6175
 rating: 4.15
 review_count: 166
@@ -14,7 +14,7 @@ last_modified: "2026-11-15"
 
 - **URL**: https://croud-travel.pages.dev/posts/obon-kanagawa-lastminute-guide/
 - **宿泊施設・特集名**: 【2026お盆直前】神奈川・箱根の直前予約できる温泉旅館＆露天風呂付き宿特集｜東京から1時間・東名渋滞回避のコツも
-- **所在地**: 神奈川県（神奈川県）
+- **所在地**: 神奈川県（神奈川主要エリア）
 - **参考最安料金**: ¥6,175〜
 - **楽天トラベル評価**: ★4.15（口コミ 166件）
 - **最終更新日**: 2026-11-15

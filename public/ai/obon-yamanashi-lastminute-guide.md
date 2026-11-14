@@ -3,7 +3,7 @@ title: "【山梨の直前予約・空室速報】週末連休・年末年始に
 url: "https://croud-travel.pages.dev/posts/obon-yamanashi-lastminute-guide/"
 hotel_name: "【2026お盆直前】山梨・富士五湖・河口湖の直前予約できる温泉宿＆絶景ホテル特集｜中央道渋滞回避・絶景ドライブ"
 prefecture: "山梨県"
-area: "山梨県"
+area: "山梨主要エリア"
 price_from: 10000
 rating: 4.15
 review_count: 5587
@@ -14,7 +14,7 @@ last_modified: "2026-11-15"
 
 - **URL**: https://croud-travel.pages.dev/posts/obon-yamanashi-lastminute-guide/
 - **宿泊施設・特集名**: 【2026お盆直前】山梨・富士五湖・河口湖の直前予約できる温泉宿＆絶景ホテル特集｜中央道渋滞回避・絶景ドライブ
-- **所在地**: 山梨県（山梨県）
+- **所在地**: 山梨県（山梨主要エリア）
 - **参考最安料金**: ¥10,000〜
 - **楽天トラベル評価**: ★4.15（口コミ 5,587件）
 - **最終更新日**: 2026-11-15

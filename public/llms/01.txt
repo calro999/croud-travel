@@ -1,10 +1,10 @@
-# 北海道の宿泊・観光記事（149件）
+# 北海道の宿泊・観光記事（150件）
 
 ## 【北海道の直前予約・空室速報】週末連休・年末年始に今すぐ泊まれるおすすめ人気ホテル＆温泉宿
 - 記事: https://croud-travel.pages.dev/posts/obon-hokkaido-lastminute-guide/
 - 全文Markdown: https://croud-travel.pages.dev/ai/obon-hokkaido-lastminute-guide.md
 - 宿泊施設名: 【2026お盆直前】北海道の直前予約できる絶景リゾート＆温泉宿特集｜札幌・富良野・函館の駆け込みプラン
-- エリア: 北海道
+- エリア: 札幌・大通
 - 参考価格: ¥10000〜
 - 評価: 4.15
 
@@ -14,7 +14,7 @@
 - 記事: https://croud-travel.pages.dev/posts/silverweek-lastminute-earlybird-shinkansen-hotels-guide/
 - 全文Markdown: https://croud-travel.pages.dev/ai/silverweek-lastminute-earlybird-shinkansen-hotels-guide.md
 - 宿泊施設名: 冬休み・年末年始＆3連休 直前割・早割人気名宿セレクション
-- エリア: 北海道
+- エリア: 道央・札幌近郊
 - 参考価格: ¥13500〜
 - 評価: 4.88
 
@@ -24,7 +24,7 @@
 - 記事: https://croud-travel.pages.dev/posts/silverweek-shinkansen-discount-hotels-guide/
 - 全文Markdown: https://croud-travel.pages.dev/ai/silverweek-shinkansen-discount-hotels-guide.md
 - 宿泊施設名: 冬休み・年末年始 新幹線割引・駅近名湯宿セレクション
-- エリア: 北海道
+- エリア: 道央・札幌近郊
 - 参考価格: ¥13500〜
 - 評価: 4.88
 
@@ -44,7 +44,7 @@
 - 記事: https://croud-travel.pages.dev/posts/1432/
 - 全文Markdown: https://croud-travel.pages.dev/ai/1432.md
 - 宿泊施設名: プレミアホテル－ＴＳＵＢＡＫＩ－札幌
-- エリア: 北海道
+- エリア: 札幌・大通
 - 参考価格: ¥9800〜
 - 評価: 4.43
 
@@ -84,7 +84,7 @@
 - 記事: https://croud-travel.pages.dev/posts/winter-autumn-shuttle-bus-snow-onsen-hotels-guide/
 - 全文Markdown: https://croud-travel.pages.dev/ai/winter-autumn-shuttle-bus-snow-onsen-hotels-guide.md
 - 宿泊施設名: 無料送迎バス完備 秋・冬の絶景温泉宿セレクション
-- エリア: 北海道
+- エリア: 道央・札幌近郊
 - 参考価格: ¥13500〜
 - 評価: 4.88
 
@@ -158,7 +158,7 @@
 - 参考価格: ¥19541〜
 - 評価: 4.5
 
-北海道・北海道全域エリアで本当に泊まるべきおすすめ温泉旅館・ホテル10選！楽天トラベルで高評価を誇る「あかん遊久の里鶴雅」「定山渓万世閣ホテルミリオーネ」など全10施設の客室・露天風呂・旬の料理・宿泊料金目安を徹底比較。2026秋冬〜年末年始の予約に最適です。
+北海道全域エリアで本当に泊まるべきおすすめ温泉旅館・ホテル10選！楽天トラベルで高評価を誇る「あかん遊久の里鶴雅」「定山渓万世閣ホテルミリオーネ」など全10施設の客室・露天風呂・旬の料理・宿泊料金目安を徹底比較。2026秋冬〜年末年始の予約に最適です。
 
 ## 【北海道・阿寒/摩周】奇跡の絶景「フロストフラワー＆摩周湖霧氷」完全攻略！マイナス15度の氷上アートと阿寒湖温泉アイヌコタン・冬の道東厳選グルメを堪能する湖畔の温泉宿5選
 - 記事: https://croud-travel.pages.dev/posts/winter-hokkaido-akan-mashu-frost-flower-ice-lake-onsen-hotels-guide/
@@ -330,11 +330,21 @@ Search Consoleで「ユキロロ」「運河の宿 おたる ふる川」への�
 
 サチコ注目クエリ「定山渓温泉 旅館 おすすめ」「北海道のスパ ホテル」に完全連動！札幌中心部から車で約50分、冬の渓谷美と豊富な湯量を誇る「定山渓（じょうざんけい）温泉」。道内最大級の総面積4,000平米を誇る屋内温水アミューズメントスパ「水の王国ラグーン」を擁する「定山渓ビュー...
 
+## 【函館】はこだてクリスマスファンタジー2026＆五稜星の夢完全攻略！海上に浮かぶ巨大ツリー・点灯花火と函館山冬夜景、湯の川温泉海見え露天＆極上活イカ・津軽海峡マグロを満喫する厳選宿5選
+- 記事: https://croud-travel.pages.dev/posts/winter-hokkaido-hakodate-christmas-fantasy-goryokaku-hotels-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/winter-hokkaido-hakodate-christmas-fantasy-goryokaku-hotels-guide.md
+- 宿泊施設名: センチュリーマリーナ函館・ラビスタ函館ベイANNEX・望楼NOGUCHI函館 ほか
+- エリア: 函館・湯の川温泉
+- 参考価格: ¥¥13,500〜〜
+- 評価: 4.65
+
+2026年12月開催の「はこだてクリスマスファンタジー」と特別史跡五稜郭跡が星形に浮かび上がる「五稜星の夢イルミネーション」を徹底解説。赤レンガ倉庫群前の海上に浮かぶ高さ約20mの巨大モミの木ツリー、毎夜18時の点灯花火、スープバー巡りや函館山の澄み渡る極上冬夜景の鑑賞術を網羅。朝食バイキングで全国屈指の人気を誇るベイエリアホテルや、津軽海峡を望む湯の川温泉の名門旅館など厳選5宿をご紹介。
+
 ## 【北海道・余市】Ｙｕ Ｋｉｒｏｒｏ（ユキロロ）の宿泊ガイド＆口コミ評判｜客室・お風呂・食事・アクセスまとめ
 - 記事: https://croud-travel.pages.dev/posts/177508/
 - 全文Markdown: https://croud-travel.pages.dev/ai/177508.md
 - 宿泊施設名: Ｙｕ Ｋｉｒｏｒｏ（ユキロロ）
-- エリア: 北海道
+- エリア: 小樽
 - 参考価格: ¥12000〜
 - 評価: 4.43
 
@@ -374,7 +384,7 @@ Search Consoleで「ユキロロ」「運河の宿 おたる ふる川」への�
 - 記事: https://croud-travel.pages.dev/posts/167979/
 - 全文Markdown: https://croud-travel.pages.dev/ai/167979.md
 - 宿泊施設名: 東急ステイ札幌大通
-- エリア: 北海道
+- エリア: 札幌・大通
 - 参考価格: ¥5680〜
 - 評価: 4.51
 
@@ -394,7 +404,7 @@ Search Consoleで「ユキロロ」「運河の宿 おたる ふる川」への�
 - 記事: https://croud-travel.pages.dev/posts/166427/
 - 全文Markdown: https://croud-travel.pages.dev/ai/166427.md
 - 宿泊施設名: Ｒホテルズイン北海道旭川
-- エリア: 北海道
+- エリア: 旭川
 - 参考価格: ¥3000〜
 - 評価: 3.84
 
@@ -414,7 +424,7 @@ Search Consoleで「ユキロロ」「運河の宿 おたる ふる川」への�
 - 記事: https://croud-travel.pages.dev/posts/901/
 - 全文Markdown: https://croud-travel.pages.dev/ai/901.md
 - 宿泊施設名: ホテルエミシア札幌
-- エリア: 北海道
+- エリア: 札幌・大通
 - 参考価格: ¥4417〜
 - 評価: 4.38
 
@@ -434,7 +444,7 @@ Search Consoleで「ユキロロ」「運河の宿 おたる ふる川」への�
 - 記事: https://croud-travel.pages.dev/posts/hokkaido-summer-resorts-guide/
 - 全文Markdown: https://croud-travel.pages.dev/ai/hokkaido-summer-resorts-guide.md
 - 宿泊施設名: 【避暑地】夏の北海道・大自然を満喫できる絶景リゾートホテル大特集
-- エリア: 北海道
+- エリア: 道央・札幌近郊
 - 参考価格: ¥8250〜
 - 評価: 4.15
 
@@ -444,7 +454,7 @@ Search Consoleで「ユキロロ」「運河の宿 おたる ふる川」への�
 - 記事: https://croud-travel.pages.dev/posts/182148/
 - 全文Markdown: https://croud-travel.pages.dev/ai/182148.md
 - 宿泊施設名: 函館湯の川温泉 海と灯／ヒューイットリゾート
-- エリア: 北海道
+- エリア: 函館・湯の川温泉
 - 参考価格: ¥12495〜
 - 評価: 4.48
 
@@ -484,7 +494,7 @@ Search Consoleで「ユキロロ」「運河の宿 おたる ふる川」への�
 - 記事: https://croud-travel.pages.dev/posts/68566/
 - 全文Markdown: https://croud-travel.pages.dev/ai/68566.md
 - 宿泊施設名: 小樽リトリート蔵群 ｂｙ温故知新
-- エリア: 北海道
+- エリア: 小樽
 - 参考価格: ¥53570〜
 - 評価: 4.13
 
@@ -504,7 +514,7 @@ Search Consoleで「ユキロロ」「運河の宿 おたる ふる川」への�
 - 記事: https://croud-travel.pages.dev/posts/9611/
 - 全文Markdown: https://croud-travel.pages.dev/ai/9611.md
 - 宿泊施設名: 美瑛白金温泉 ホテルパークヒルズ
-- エリア: 北海道
+- エリア: 富良野・美瑛
 - 参考価格: ¥8140〜
 - 評価: 4.18
 
@@ -524,7 +534,7 @@ Search Consoleで「ユキロロ」「運河の宿 おたる ふる川」への�
 - 記事: https://croud-travel.pages.dev/posts/825/
 - 全文Markdown: https://croud-travel.pages.dev/ai/825.md
 - 宿泊施設名: オーセントホテル小樽
-- エリア: 北海道
+- エリア: 小樽
 - 参考価格: ¥5900〜
 - 評価: 4.38
 
@@ -564,7 +574,7 @@ Search Consoleで「ユキロロ」「運河の宿 おたる ふる川」への�
 - 記事: https://croud-travel.pages.dev/posts/japan-souvenir-ranking-best-hotels-guide/
 - 全文Markdown: https://croud-travel.pages.dev/ai/japan-souvenir-ranking-best-hotels-guide.md
 - 宿泊施設名: お土産処・セレクトショップ充実 おすすめ名宿セレクション
-- エリア: 北海道
+- エリア: 道央・札幌近郊
 - 参考価格: ¥18500〜
 - 評価: 4.92
 
@@ -604,7 +614,7 @@ Search Consoleで「ユキロロ」「運河の宿 おたる ふる川」への�
 - 記事: https://croud-travel.pages.dev/posts/28261/
 - 全文Markdown: https://croud-travel.pages.dev/ai/28261.md
 - 宿泊施設名: 網走湖温泉 温泉旅館もとよし
-- エリア: 北海道
+- エリア: 道東（阿寒・網走・知床）
 - 参考価格: ¥21700〜
 - 評価: 3.69
 
@@ -684,7 +694,7 @@ Search Consoleで「ユキロロ」「運河の宿 おたる ふる川」への�
 - 記事: https://croud-travel.pages.dev/posts/192332/
 - 全文Markdown: https://croud-travel.pages.dev/ai/192332.md
 - 宿泊施設名: 余市ヴィンヤードグランピング
-- エリア: 北海道
+- エリア: 余市・小樽
 - 参考価格: ¥12000〜
 - 評価: 4.57
 
@@ -694,7 +704,7 @@ Search Consoleで「ユキロロ」「運河の宿 おたる ふる川」への�
 - 記事: https://croud-travel.pages.dev/posts/44235/
 - 全文Markdown: https://croud-travel.pages.dev/ai/44235.md
 - 宿泊施設名: 十勝岳温泉 カミホロ荘
-- エリア: 北海道
+- エリア: 十勝・帯広・トマム
 - 参考価格: ¥20600〜
 - 評価: 4.26
 
@@ -734,7 +744,7 @@ Search Consoleで「ユキロロ」「運河の宿 おたる ふる川」への�
 - 記事: https://croud-travel.pages.dev/posts/70658/
 - 全文Markdown: https://croud-travel.pages.dev/ai/70658.md
 - 宿泊施設名: ビジネスホテル北斗荘＜北海道＞
-- エリア: 北海道
+- エリア: 道央・札幌近郊
 - 参考価格: ¥11900〜
 - 評価: 4.08
 
@@ -844,7 +854,7 @@ Search Consoleで「ユキロロ」「運河の宿 おたる ふる川」への�
 - 記事: https://croud-travel.pages.dev/posts/japan-prefecture-famous-things-gourmet-scenery-hotels-guide/
 - 全文Markdown: https://croud-travel.pages.dev/ai/japan-prefecture-famous-things-gourmet-scenery-hotels-guide.md
 - 宿泊施設名: 47都道府県を代表する最高峰温泉名宿セレクション
-- エリア: 北海道
+- エリア: 道央・札幌近郊
 - 参考価格: ¥21000〜
 - 評価: 4.95
 
@@ -894,7 +904,7 @@ Search Consoleで「ユキロロ」「運河の宿 おたる ふる川」への�
 - 記事: https://croud-travel.pages.dev/posts/70730/
 - 全文Markdown: https://croud-travel.pages.dev/ai/70730.md
 - 宿泊施設名: 天然温泉 空沼の湯 スーパーホテル札幌・すすきの
-- エリア: 北海道
+- エリア: 札幌・大通
 - 参考価格: ¥4070〜
 - 評価: 4.15
 
@@ -944,7 +954,7 @@ Search Consoleで「ユキロロ」「運河の宿 おたる ふる川」への�
 - 記事: https://croud-travel.pages.dev/posts/38870/
 - 全文Markdown: https://croud-travel.pages.dev/ai/38870.md
 - 宿泊施設名: 湯の川温泉 源泉掛け流しの宿 ホテルかもめ館
-- エリア: 北海道
+- エリア: 函館・湯の川温泉
 - 参考価格: ¥4400〜
 - 評価: 4.22
 
@@ -964,7 +974,7 @@ Search Consoleで「ユキロロ」「運河の宿 おたる ふる川」への�
 - 記事: https://croud-travel.pages.dev/posts/airport-free-shuttle-bus-resorts-guide/
 - 全文Markdown: https://croud-travel.pages.dev/ai/airport-free-shuttle-bus-resorts-guide.md
 - 宿泊施設名: 空港送迎・アクセス抜群 人気温泉リゾートセレクション
-- エリア: 北海道
+- エリア: 道央・札幌近郊
 - 参考価格: ¥18500〜
 - 評価: 4.9
 
@@ -974,7 +984,7 @@ Search Consoleで「ユキロロ」「運河の宿 おたる ふる川」への�
 - 記事: https://croud-travel.pages.dev/posts/193511/
 - 全文Markdown: https://croud-travel.pages.dev/ai/193511.md
 - 宿泊施設名: エスコンフィールドＨＯＫＫＡＩＤＯホテル 北広島駅前
-- エリア: 北海道
+- エリア: 支笏湖・千歳・道央
 - 参考価格: ¥2767〜
 - 評価: 4.21
 
@@ -984,7 +994,7 @@ Search Consoleで「ユキロロ」「運河の宿 おたる ふる川」への�
 - 記事: https://croud-travel.pages.dev/posts/73964/
 - 全文Markdown: https://croud-travel.pages.dev/ai/73964.md
 - 宿泊施設名: 北海道の全室温泉付きホテル レイクサイドヴィラ翠明閣
-- エリア: 北海道
+- エリア: 支笏湖・千歳・道央
 - 参考価格: ¥28204〜
 - 評価: 4.5
 
@@ -1044,7 +1054,7 @@ Search Consoleで「ユキロロ」「運河の宿 おたる ふる川」への�
 - 記事: https://croud-travel.pages.dev/posts/56773/
 - 全文Markdown: https://croud-travel.pages.dev/ai/56773.md
 - 宿泊施設名: ＨＡＫＯＤＡＴＥ 男爵倶楽部 ＨＯＴＥＬ＆ＲＥＳＯＲＴＳ
-- エリア: 北海道
+- エリア: 函館
 - 参考価格: ¥7720〜
 - 評価: 4.64
 
@@ -1094,7 +1104,7 @@ Search Consoleで「ユキロロ」「運河の宿 おたる ふる川」への�
 - 記事: https://croud-travel.pages.dev/posts/9691/
 - 全文Markdown: https://croud-travel.pages.dev/ai/9691.md
 - 宿泊施設名: 登別温泉 ホテルゆもと登別
-- エリア: 北海道
+- エリア: 登別温泉
 - 参考価格: ¥12430〜
 - 評価: 4.35
 
@@ -1114,7 +1124,7 @@ Search Consoleで「ユキロロ」「運河の宿 おたる ふる川」への�
 - 記事: https://croud-travel.pages.dev/posts/142863/
 - 全文Markdown: https://croud-travel.pages.dev/ai/142863.md
 - 宿泊施設名: ニセコ昆布温泉鶴雅別荘 杢の抄
-- エリア: 北海道
+- エリア: ニセコ・後志
 - 参考価格: ¥22687〜
 - 評価: 4.5
 
@@ -1164,7 +1174,7 @@ Search Consoleで「ユキロロ」「運河の宿 おたる ふる川」への�
 - 記事: https://croud-travel.pages.dev/posts/67479/
 - 全文Markdown: https://croud-travel.pages.dev/ai/67479.md
 - 宿泊施設名: Ｔａｂｉｓｔ 竹葉新葉亭 函館 湯の川温泉
-- エリア: 北海道
+- エリア: 函館・湯の川温泉
 - 参考価格: ¥3600〜
 - 評価: 4.29
 
@@ -1204,7 +1214,7 @@ Search Consoleで「ユキロロ」「運河の宿 おたる ふる川」への�
 - 記事: https://croud-travel.pages.dev/posts/165829/
 - 全文Markdown: https://croud-travel.pages.dev/ai/165829.md
 - 宿泊施設名: 東急ステイ札幌
-- エリア: 北海道
+- エリア: 札幌・大通
 - 参考価格: ¥5320〜
 - 評価: 4.53
 
@@ -1254,7 +1264,7 @@ Search Consoleで「ユキロロ」「運河の宿 おたる ふる川」への�
 - 記事: https://croud-travel.pages.dev/posts/67259/
 - 全文Markdown: https://croud-travel.pages.dev/ai/67259.md
 - 宿泊施設名: クロスホテル札幌（オリックスホテルズ＆リゾーツ）
-- エリア: 北海道
+- エリア: 札幌・大通
 - 参考価格: ¥5700〜
 - 評価: 4.43
 
@@ -1274,7 +1284,7 @@ Search Consoleで「ユキロロ」「運河の宿 おたる ふる川」への�
 - 記事: https://croud-travel.pages.dev/posts/192816/
 - 全文Markdown: https://croud-travel.pages.dev/ai/192816.md
 - 宿泊施設名: ホテルエノエ函館
-- エリア: 北海道
+- エリア: 函館
 - 参考価格: ¥4230〜
 - 評価: 4.45
 
@@ -1294,7 +1304,7 @@ Search Consoleで「ユキロロ」「運河の宿 おたる ふる川」への�
 - 記事: https://croud-travel.pages.dev/posts/161222/
 - 全文Markdown: https://croud-travel.pages.dev/ai/161222.md
 - 宿泊施設名: クラブメッド 北海道 トマム
-- エリア: 北海道
+- エリア: 十勝・帯広・トマム
 - 参考価格: ¥19500〜
 - 評価: 4.65
 
@@ -1364,7 +1374,7 @@ Search Consoleで「ユキロロ」「運河の宿 おたる ふる川」への�
 - 記事: https://croud-travel.pages.dev/posts/1019/
 - 全文Markdown: https://croud-travel.pages.dev/ai/1019.md
 - 宿泊施設名: 森のスパリゾート 北海道ホテル
-- エリア: 北海道
+- エリア: 十勝・帯広・トマム
 - 参考価格: ¥6630〜
 - 評価: 4.64
 
@@ -1434,7 +1444,7 @@ Search Consoleで「ユキロロ」「運河の宿 おたる ふる川」への�
 - 記事: https://croud-travel.pages.dev/posts/635/
 - 全文Markdown: https://croud-travel.pages.dev/ai/635.md
 - 宿泊施設名: ホテルグレイスリー札幌
-- エリア: 北海道
+- エリア: 札幌・大通
 - 参考価格: ¥5550〜
 - 評価: 4.33
 

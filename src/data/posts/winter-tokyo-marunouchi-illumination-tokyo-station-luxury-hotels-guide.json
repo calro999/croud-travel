@@ -38,5 +38,47 @@
     "ラグジュアリーホテル",
     "シャンパンゴールド"
   ],
-  "summary": ""
+  "summary": "",
+  "image": "https://img.travel.rakuten.co.jp/share/HOTEL/137869/137869.jpg",
+  "other_images": [
+    "https://img.travel.rakuten.co.jp/share/HOTEL/137869/137869.jpg",
+    "https://img.travel.rakuten.co.jp/share/HOTEL/184685/184685.jpg",
+    "https://img.travel.rakuten.co.jp/share/HOTEL/184598/184598.jpg",
+    "https://img.travel.rakuten.co.jp/share/HOTEL/5562/5562.jpg",
+    "https://img.travel.rakuten.co.jp/share/HOTEL/28576/28576.jpg"
+  ],
+  "is_special_feature": true,
+  "featured_hotels": [
+    {
+      "name": "東京ステーションホテル",
+      "rating": "4.7",
+      "price": "¥34,787〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F137869%2F137869.html"
+    },
+    {
+      "name": "パレスホテル東京",
+      "rating": "4.7",
+      "price": "¥62,723〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F184685%2F184685.html"
+    },
+    {
+      "name": "ザ・ペニンシュラ東京",
+      "rating": "4.8",
+      "price": "¥65,358〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F184598%2F184598.html"
+    },
+    {
+      "name": "丸ノ内ホテル",
+      "rating": "4.9",
+      "price": "¥39,700〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5562%2F5562.html"
+    },
+    {
+      "name": "帝国ホテル東京",
+      "rating": "4.69",
+      "price": "¥30,643〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28576%2F28576.html"
+    }
+  ],
+  "price": 30643
 }

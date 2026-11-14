@@ -554,7 +554,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>専用駐車場30台　800円／日（15時〜翌11時）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.88 ／ 立地 ★4.07 ／ 部屋 ★3.84 ／ 設備 ★3.76 ／ 風呂 ★3.51 ／ 食事 ★3.31</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「コスパ、立地最高です立地がよく、一歩ホテルを出ると居酒屋さんが目移りするほどあり、大正解でした、また、函館行く時は、リピートしようと思います。コスパも良かったです。クチコミの詳細はこちらか…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「コスパ、立地最高です立地がよく、一歩ホテルを出ると居酒屋さんが目移りするほどあり、大正解でした、また、函館行く時は、リピートしようと思います。コスパも良かったです。」
                   </blockquote>
                 </div>
               </div>

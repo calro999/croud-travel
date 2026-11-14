@@ -3,7 +3,7 @@ title: "【静岡の直前予約・空室速報】週末連休・年末年始に
 url: "https://croud-travel.pages.dev/posts/obon-shizuoka-lastminute-guide/"
 hotel_name: "【2026お盆直前】静岡・伊豆・熱海の直前予約できる温泉旅館＆海が見えるホテル特集｜東名渋滞回避"
 prefecture: "静岡県"
-area: "静岡県"
+area: "静岡主要エリア"
 price_from: 39380
 rating: 4.15
 review_count: 573
@@ -14,7 +14,7 @@ last_modified: "2026-11-15"
 
 - **URL**: https://croud-travel.pages.dev/posts/obon-shizuoka-lastminute-guide/
 - **宿泊施設・特集名**: 【2026お盆直前】静岡・伊豆・熱海の直前予約できる温泉旅館＆海が見えるホテル特集｜東名渋滞回避
-- **所在地**: 静岡県（静岡県）
+- **所在地**: 静岡県（静岡主要エリア）
 - **参考最安料金**: ¥39,380〜
 - **楽天トラベル評価**: ★4.15（口コミ 573件）
 - **最終更新日**: 2026-11-15

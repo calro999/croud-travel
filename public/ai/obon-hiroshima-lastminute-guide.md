@@ -3,7 +3,7 @@ title: "【広島の直前予約・空室速報】週末連休・年末年始に
 url: "https://croud-travel.pages.dev/posts/obon-hiroshima-lastminute-guide/"
 hotel_name: "【2026お盆直前】広島・宮島（厳島神社）＆尾道の直前予約できる温泉旅館＆ホテル特集｜世界遺産・お好み焼き・しまなみ海道"
 prefecture: "広島県"
-area: "広島県"
+area: "広島主要エリア"
 price_from: 12100
 rating: 4.15
 review_count: 421
@@ -14,7 +14,7 @@ last_modified: "2026-11-15"
 
 - **URL**: https://croud-travel.pages.dev/posts/obon-hiroshima-lastminute-guide/
 - **宿泊施設・特集名**: 【2026お盆直前】広島・宮島（厳島神社）＆尾道の直前予約できる温泉旅館＆ホテル特集｜世界遺産・お好み焼き・しまなみ海道
-- **所在地**: 広島県（広島県）
+- **所在地**: 広島県（広島主要エリア）
 - **参考最安料金**: ¥12,100〜
 - **楽天トラベル評価**: ★4.15（口コミ 421件）
 - **最終更新日**: 2026-11-15

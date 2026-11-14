@@ -3,7 +3,7 @@ title: "【兵庫の直前予約・空室速報】週末連休・年末年始に
 url: "https://croud-travel.pages.dev/posts/obon-hyogo-lastminute-guide/"
 hotel_name: "【2026お盆直前】兵庫・有馬温泉＆城崎温泉の直前予約できる旅館特集｜日本三名泉・外湯めぐり・神戸牛も"
 prefecture: "兵庫県"
-area: "兵庫県"
+area: "・有馬温泉＆城崎温泉"
 price_from: 9900
 rating: 4.15
 review_count: 232
@@ -14,7 +14,7 @@ last_modified: "2026-11-15"
 
 - **URL**: https://croud-travel.pages.dev/posts/obon-hyogo-lastminute-guide/
 - **宿泊施設・特集名**: 【2026お盆直前】兵庫・有馬温泉＆城崎温泉の直前予約できる旅館特集｜日本三名泉・外湯めぐり・神戸牛も
-- **所在地**: 兵庫県（兵庫県）
+- **所在地**: 兵庫県（・有馬温泉＆城崎温泉）
 - **参考最安料金**: ¥9,900〜
 - **楽天トラベル評価**: ★4.15（口コミ 232件）
 - **最終更新日**: 2026-11-15

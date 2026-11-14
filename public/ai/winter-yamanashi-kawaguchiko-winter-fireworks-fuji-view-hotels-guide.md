@@ -2,8 +2,8 @@
 title: "【山梨・河口湖】「河口湖 冬花火2027」＆冬の富士山絶景完全攻略！澄み渡る夜空を彩る湖上花火と大池公園特等席、客室露天から眺める紅富士・名湯河口湖温泉＆甲州牛・名物ほうとうを味わう厳選宿5選"
 url: "https://croud-travel.pages.dev/posts/winter-yamanashi-kawaguchiko-winter-fireworks-fuji-view-hotels-guide/"
 hotel_name: "富士河口湖温泉 湖南荘・秀峰閣 湖月・THE KUKUNA ほか"
-prefecture: ""
-area: ""
+prefecture: "山梨県"
+area: "河口湖・富士五湖"
 price_from: 0
 rating: 4.71
 review_count: 1826
@@ -14,7 +14,7 @@ last_modified: "2026-10-22"
 
 - **URL**: https://croud-travel.pages.dev/posts/winter-yamanashi-kawaguchiko-winter-fireworks-fuji-view-hotels-guide/
 - **宿泊施設・特集名**: 富士河口湖温泉 湖南荘・秀峰閣 湖月・THE KUKUNA ほか
-- **所在地**: （）
+- **所在地**: 山梨県（河口湖・富士五湖）
 - **参考最安料金**: ¥NaN〜
 - **楽天トラベル評価**: ★4.71（口コミ 1,826件）
 - **最終更新日**: 2026-10-22
@@ -26,7 +26,7 @@ last_modified: "2026-10-22"
 
 | 順位 | 宿泊施設名 | 口コミ評価 | 参考最安料金 |
 | :--- | :--- | :--- | :--- |
-| 1位 | 冬花火の日程・時間＆3大鑑賞ポイント | ★4.3 | プラン参照 |
+| 1位 | 富士河口湖温泉　湖南荘 | ★4.3 | プラン参照 |
 | 2位 | 富士河口湖温泉 秀峰閣 湖月（山梨県南都留郡富士河口湖町河口） | ★4.3 | ¥26,400〜 |
 | 3位 | ＴＨＥ ＫＵＫＵＮＡ（山梨県南都留郡富士河口湖町浅川） | ★4.3 | ¥25,300〜 |
 | 4位 | 逆さ富士を望む湖畔の絶景宿 湖楽おんやど富士吟景（山梨県南都留郡富士河口湖町浅川） | ★4.3 | ¥35,500〜 |

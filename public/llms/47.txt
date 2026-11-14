@@ -4,7 +4,7 @@
 - 記事: https://croud-travel.pages.dev/posts/obon-okinawa-lastminute-guide/
 - 全文Markdown: https://croud-travel.pages.dev/ai/obon-okinawa-lastminute-guide.md
 - 宿泊施設名: 【2026お盆直前】沖縄本島・離島の直前予約できるビーチリゾート＆プール付きホテル特集
-- エリア: 沖縄
+- エリア: 沖縄本島・離島
 - 参考価格: ¥4910〜
 - 評価: 4.15
 
@@ -124,7 +124,7 @@ YouTuberヒカル氏プロデュースで話題の宮古島「HOTEL 385（サン
 - 記事: https://croud-travel.pages.dev/posts/78094/
 - 全文Markdown: https://croud-travel.pages.dev/ai/78094.md
 - 宿泊施設名: ロワジールスパタワー那覇
-- エリア: 沖縄
+- エリア: 那覇・南部
 - 参考価格: ¥8351〜
 - 評価: 4.3
 
@@ -134,7 +134,7 @@ YouTuberヒカル氏プロデュースで話題の宮古島「HOTEL 385（サン
 - 記事: https://croud-travel.pages.dev/posts/hotel-coin-laundry-dryer-packing-guide/
 - 全文Markdown: https://croud-travel.pages.dev/ai/hotel-coin-laundry-dryer-packing-guide.md
 - 宿泊施設名: コインランドリー・洗濯乾燥機完備 連泊快適ホテルセレクション
-- エリア: 沖縄
+- エリア: 沖縄本島・離島
 - 参考価格: ¥6500〜
 - 評価: 4.8
 
@@ -254,7 +254,7 @@ YouTuberヒカル氏プロデュースで話題の宮古島「HOTEL 385（サン
 - 記事: https://croud-travel.pages.dev/posts/191586/
 - 全文Markdown: https://croud-travel.pages.dev/ai/191586.md
 - 宿泊施設名: 与那国島ホテル むんぶステイ 空港前＜与那国島＞
-- エリア: 沖縄
+- エリア: 石垣島・八重山
 - 参考価格: ¥6200〜
 - 評価: 3.41
 
@@ -324,7 +324,7 @@ YouTuberヒカル氏プロデュースで話題の宮古島「HOTEL 385（サン
 - 記事: https://croud-travel.pages.dev/posts/197781/
 - 全文Markdown: https://croud-travel.pages.dev/ai/197781.md
 - 宿泊施設名: アラマンダスプレンディド＜宮古島＞
-- エリア: 沖縄
+- エリア: 宮古島
 - 参考価格: ¥25160〜
 - 評価: 4.67
 
@@ -524,7 +524,7 @@ YouTuberヒカル氏プロデュースで話題の宮古島「HOTEL 385（サン
 - 記事: https://croud-travel.pages.dev/posts/sudomari-packing-list-hotels-guide/
 - 全文Markdown: https://croud-travel.pages.dev/ai/sudomari-packing-list-hotels-guide.md
 - 宿泊施設名: 素泊まり快適 充実設備のおすすめホテルセレクション
-- エリア: 沖縄
+- エリア: 沖縄本島・離島
 - 参考価格: ¥6800〜
 - 評価: 4.78
 
@@ -564,7 +564,7 @@ YouTuberヒカル氏プロデュースで話題の宮古島「HOTEL 385（サン
 - 記事: https://croud-travel.pages.dev/posts/hotel-free-parking-high-roof-drive-guide/
 - 全文Markdown: https://croud-travel.pages.dev/ai/hotel-free-parking-high-roof-drive-guide.md
 - 宿泊施設名: 無料平面駐車場完備 ドライブ観光おすすめホテルセレクション
-- エリア: 沖縄
+- エリア: 沖縄本島・離島
 - 参考価格: ¥6500〜
 - 評価: 4.8
 

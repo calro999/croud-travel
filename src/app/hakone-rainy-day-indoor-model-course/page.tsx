@@ -464,7 +464,7 @@ export default function HakoneRainyDayIndoorCoursePage() {
                         </div>
                       </div>
                     ) : (
-                      <div className="aspect-[16/10] w-full bg-slate-900 flex items-center justify-center text-slate-500">
+                      <div className="aspect-[16/10] w-full bg-slate-900 flex items-center justify-center text-slate-200">
                         ♨️ 画像準備中
                       </div>
                     )}

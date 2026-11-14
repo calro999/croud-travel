@@ -3,7 +3,7 @@ title: "【石川の直前予約・空室速報】週末連休・年末年始に
 url: "https://croud-travel.pages.dev/posts/obon-ishikawa-lastminute-guide/"
 hotel_name: "【2026お盆直前】石川県・金沢・能登の直前予約できる温泉宿特集｜穴場スポット・直前割引プラン"
 prefecture: "石川県"
-area: "石川県"
+area: "石川主要エリア"
 price_from: 14300
 rating: 4.15
 review_count: 178
@@ -14,7 +14,7 @@ last_modified: "2026-11-15"
 
 - **URL**: https://croud-travel.pages.dev/posts/obon-ishikawa-lastminute-guide/
 - **宿泊施設・特集名**: 【2026お盆直前】石川県・金沢・能登の直前予約できる温泉宿特集｜穴場スポット・直前割引プラン
-- **所在地**: 石川県（石川県）
+- **所在地**: 石川県（石川主要エリア）
 - **参考最安料金**: ¥14,300〜
 - **楽天トラベル評価**: ★4.15（口コミ 178件）
 - **最終更新日**: 2026-11-15

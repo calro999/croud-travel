@@ -483,7 +483,7 @@ export default async function CityDetailPage({ params }: { params: Promise<{ pre
 
         return (
           <NextSearchQuestions
-            title={`🔍 「${cityInfo.cityName}」の観光を調べた人が次に検索している疑問＆先回りガイド`}
+            title={`「${cityInfo.cityName}」の観光を調べた人が次に検索している疑問＆先回りガイド`}
             subtitle={`${cityInfo.cityName}への旅行計画をさらに深めるため、具体的な観光名所の解説、おすすめホテル、県内他エリア、旅行テーマ特集を先回り提示します。`}
             items={nextQuestions}
           />

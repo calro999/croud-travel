@@ -491,7 +491,7 @@ export default function AutumnBudgetFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有料立体駐車場有り。お車の高さ制限(160cm)があります。予約不可・先着順（1泊1,500円）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.69 ／ 立地 ★4.55 ／ 部屋 ★4.39 ／ 設備 ★4.49 ／ 風呂 ★4.14 ／ 食事 ★4.75</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食バイキングが好評、子供も大喜び!2回目の利用です。朝食バイキングとても良く普段は少食な子ども達もたくさん食べていました自分で作るフレッシュジュースが気に入りましたクチコミの詳細はこちら…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食バイキングが好評、子供も大喜び!2回目の利用です。朝食バイキングとても良く普段は少食な子ども達もたくさん食べていました自分で作るフレッシュジュースが気に入りました」
                   </blockquote>
                 </div>
               </div>

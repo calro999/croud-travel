@@ -380,7 +380,7 @@ export default function KamakuraVsEnoshimaPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>完全予約制。当ホテル公式ホームぺージをご覧ください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ロケーションもサービスも最高、また利用したいロケーションもサービスも大変満足しております。また鎌倉に行く機会があればまたここに泊まりに行きます。ありがとうございました!クチコミの詳細はこちらか…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ロケーションもサービスも最高、また利用したいロケーションもサービスも大変満足しております。また鎌倉に行く機会があればまたここに泊まりに行きます。ありがとうございました!」
                   </blockquote>
                 </div>
               </div>

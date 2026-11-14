@@ -2,8 +2,8 @@
 title: "【函館】はこだてクリスマスファンタジー2026＆五稜星の夢完全攻略！海上に浮かぶ巨大ツリー・点灯花火と函館山冬夜景、湯の川温泉海見え露天＆極上活イカ・津軽海峡マグロを満喫する厳選宿5選"
 url: "https://croud-travel.pages.dev/posts/winter-hokkaido-hakodate-christmas-fantasy-goryokaku-hotels-guide/"
 hotel_name: "センチュリーマリーナ函館・ラビスタ函館ベイANNEX・望楼NOGUCHI函館 ほか"
-prefecture: ""
-area: ""
+prefecture: "北海道"
+area: "函館・湯の川温泉"
 price_from: 0
 rating: 4.65
 review_count: 4188
@@ -14,7 +14,7 @@ last_modified: "2026-10-15"
 
 - **URL**: https://croud-travel.pages.dev/posts/winter-hokkaido-hakodate-christmas-fantasy-goryokaku-hotels-guide/
 - **宿泊施設・特集名**: センチュリーマリーナ函館・ラビスタ函館ベイANNEX・望楼NOGUCHI函館 ほか
-- **所在地**: （）
+- **所在地**: 北海道（函館・湯の川温泉）
 - **参考最安料金**: ¥NaN〜
 - **楽天トラベル評価**: ★4.65（口コミ 4,188件）
 - **最終更新日**: 2026-10-15
@@ -26,7 +26,7 @@ last_modified: "2026-10-15"
 
 | 順位 | 宿泊施設名 | 口コミ評価 | 参考最安料金 |
 | :--- | :--- | :--- | :--- |
-| 1位 | 12月の函館・必見スポット＆イベント | ★4.3 | プラン参照 |
+| 1位 | センチュリーマリーナ函館 | ★4.3 | プラン参照 |
 | 2位 | ラビスタ函館ベイＡＮＮＥＸ（共立リゾート）（北海道函館市大手町） | ★4.3 | ¥17,020〜 |
 | 3位 | 望楼ＮＯＧＵＣＨＩ函館（北海道函館市湯川町） | ★4.3 | ¥34,000〜 |
 | 4位 | 割烹旅館 若松（北海道函館市湯川町） | ★4.3 | ¥24,200〜 |

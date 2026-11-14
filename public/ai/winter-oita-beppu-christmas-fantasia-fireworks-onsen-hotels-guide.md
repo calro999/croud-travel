@@ -2,8 +2,8 @@
 title: "【別府】べっぷクリスマスファンタジア2026＆鉄輪温泉湯けむり完全攻略！冬の夜空と海を焦がす1万発の音楽花火、別府湾一望の絶景露天風呂＆地獄蒸し・豊後牛・関アジ関サバを満喫する厳選宿5選"
 url: "https://croud-travel.pages.dev/posts/winter-oita-beppu-christmas-fantasia-fireworks-onsen-hotels-guide/"
 hotel_name: "別府温泉 杉乃井ホテル・AMANE RESORT SEIKAI・山荘 神和苑 ほか"
-prefecture: ""
-area: ""
+prefecture: "大分県"
+area: "別府温泉・由布院"
 price_from: 0
 rating: 4.73
 review_count: 13279
@@ -14,7 +14,7 @@ last_modified: "2026-11-08"
 
 - **URL**: https://croud-travel.pages.dev/posts/winter-oita-beppu-christmas-fantasia-fireworks-onsen-hotels-guide/
 - **宿泊施設・特集名**: 別府温泉 杉乃井ホテル・AMANE RESORT SEIKAI・山荘 神和苑 ほか
-- **所在地**: （）
+- **所在地**: 大分県（別府温泉・由布院）
 - **参考最安料金**: ¥NaN〜
 - **楽天トラベル評価**: ★4.73（口コミ 13,279件）
 - **最終更新日**: 2026-11-08
@@ -26,7 +26,7 @@ last_modified: "2026-11-08"
 
 | 順位 | 宿泊施設名 | 口コミ評価 | 参考最安料金 |
 | :--- | :--- | :--- | :--- |
-| 1位 | 打ち上げ時間・観覧スポット＆プログラム | ★4.3 | プラン参照 |
+| 1位 | 別府温泉 杉乃井ホテル（オリックスホテルズ＆リゾーツ） | ★4.3 | プラン参照 |
 | 2位 | ＡＭＡＮＥ ＲＥＳＯＲＴ ＳＥＩＫＡＩ（潮騒の宿 晴海）（大分県別府市上人ケ浜町） | ★4.3 | ¥26,565〜 |
 | 3位 | ＡＭＡＮＥ ＲＥＳＯＲＴ ＧＡＨＡＭＡ（ガハマテラス）（大分県別府市上人ケ浜町） | ★4.3 | ¥27,830〜 |
 | 4位 | 別府温泉 竹と椿のお宿 花べっぷ（大分県別府市上田の湯町） | ★4.3 | ¥17,787〜 |

@@ -505,7 +505,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>あり　141台　無料　／　大型車両やバスは1泊2000円・事前にお問合せください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.58 ／ 立地 ★4.28 ／ 部屋 ★4.69 ／ 設備 ★4.64 ／ 風呂 ★4.56 ／ 食事 ★4.76</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔な部屋とソファベッドが快適、次は朝食も部屋も清潔で、ソファベッドがとても使いやすくて良かったですお水やコーヒーのサービスもあり、次回は朝食付きにしたいと思いますクチコミの詳細はこちらか…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔な部屋とソファベッドが快適、次は朝食も部屋も清潔で、ソファベッドがとても使いやすくて良かったですお水やコーヒーのサービスもあり、次回は朝食付きにしたいと思います」
                   </blockquote>
                 </div>
               </div>

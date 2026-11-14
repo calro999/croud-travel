@@ -3,7 +3,7 @@ title: "【全国厳選】年末年始・冬休み＆3連休 直前割・早割�
 url: "https://croud-travel.pages.dev/posts/silverweek-lastminute-earlybird-shinkansen-hotels-guide/"
 hotel_name: "冬休み・年末年始＆3連休 直前割・早割人気名宿セレクション"
 prefecture: "北海道"
-area: "北海道"
+area: "道央・札幌近郊"
 price_from: 13500
 rating: 4.88
 review_count: 2541
@@ -14,7 +14,7 @@ last_modified: "2026-11-15"
 
 - **URL**: https://croud-travel.pages.dev/posts/silverweek-lastminute-earlybird-shinkansen-hotels-guide/
 - **宿泊施設・特集名**: 冬休み・年末年始＆3連休 直前割・早割人気名宿セレクション
-- **所在地**: 北海道（北海道）
+- **所在地**: 北海道（道央・札幌近郊）
 - **参考最安料金**: ¥13,500〜
 - **楽天トラベル評価**: ★4.88（口コミ 2,541件）
 - **最終更新日**: 2026-11-15

@@ -296,7 +296,7 @@ export default function FeaturePage() {
                       <span className="text-xl md:text-2xl font-black text-red-600">{hotel.price}</span>
                     </div>
                     <a 
-                      href={hotel.affiliateUrl || "https://travel.rakuten.co.jp/"} 
+                      href={hotel.affiliateUrl || "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2F"} 
                       target="_blank" 
                       rel="sponsored noopener noreferrer" 
                       className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-6 py-3 rounded-xl bg-orange-600 hover:bg-orange-700 text-white font-bold text-sm shadow-sm hover:shadow transition-all duration-200"

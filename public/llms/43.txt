@@ -364,7 +364,7 @@
 - 記事: https://croud-travel.pages.dev/posts/68236/
 - 全文Markdown: https://croud-travel.pages.dev/ai/68236.md
 - 宿泊施設名: 北海道の輝き☆ティンクナ
-- エリア: 九州・沖縄
+- エリア: 阿蘇・南阿蘇
 - 参考価格: ¥5940〜
 - 評価: 4.81
 

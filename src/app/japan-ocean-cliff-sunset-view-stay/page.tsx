@@ -349,7 +349,7 @@ export default function ScenicViewHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>フロント棟・レストラン棟・各客室棟には無料駐車場を完備いたしております。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お部屋、接客、清潔さなどは良かった。お部屋、接客、清潔さなどは良かったのですが、案内された駐車場が、解体作業中の建物の真横で車が砂埃まみれになっていてすごく残念でした。クチコミの詳細はこちらか…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お部屋、接客、清潔さなどは良かった。お部屋、接客、清潔さなどは良かったのですが、案内された駐車場が、解体作業中の建物の真横で車が砂埃まみれになっていてすごく残念でした。」
                   </blockquote>
                 </div>
               </div>

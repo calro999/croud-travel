@@ -3,7 +3,7 @@ title: "【宮城の直前予約・空室速報】週末連休・年末年始に
 url: "https://croud-travel.pages.dev/posts/obon-miyagi-lastminute-guide/"
 hotel_name: "【2026お盆直前】宮城・秋保温泉＆松島の直前予約できる温泉旅館＆リゾート特集｜仙台七夕まつり・牛タン・日本三景"
 prefecture: "宮城県"
-area: "宮城県"
+area: "・秋保温泉"
 price_from: 10450
 rating: 4.15
 review_count: 5214
@@ -14,7 +14,7 @@ last_modified: "2026-11-15"
 
 - **URL**: https://croud-travel.pages.dev/posts/obon-miyagi-lastminute-guide/
 - **宿泊施設・特集名**: 【2026お盆直前】宮城・秋保温泉＆松島の直前予約できる温泉旅館＆リゾート特集｜仙台七夕まつり・牛タン・日本三景
-- **所在地**: 宮城県（宮城県）
+- **所在地**: 宮城県（・秋保温泉）
 - **参考最安料金**: ¥10,450〜
 - **楽天トラベル評価**: ★4.15（口コミ 5,214件）
 - **最終更新日**: 2026-11-15

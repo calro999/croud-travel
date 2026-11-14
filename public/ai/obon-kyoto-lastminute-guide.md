@@ -3,7 +3,7 @@ title: "【京都の直前予約・空室速報】週末連休・年末年始に
 url: "https://croud-travel.pages.dev/posts/obon-kyoto-lastminute-guide/"
 hotel_name: "【2026お盆直前】京都の直前予約おすすめホテル・町家旅館特集｜五山送り火・お盆限定プラン"
 prefecture: "京都府"
-area: "京都"
+area: "京都市内・嵐山・祇園"
 price_from: 11495
 rating: 4.15
 review_count: 369
@@ -14,7 +14,7 @@ last_modified: "2026-11-15"
 
 - **URL**: https://croud-travel.pages.dev/posts/obon-kyoto-lastminute-guide/
 - **宿泊施設・特集名**: 【2026お盆直前】京都の直前予約おすすめホテル・町家旅館特集｜五山送り火・お盆限定プラン
-- **所在地**: 京都府（京都）
+- **所在地**: 京都府（京都市内・嵐山・祇園）
 - **参考最安料金**: ¥11,495〜
 - **楽天トラベル評価**: ★4.15（口コミ 369件）
 - **最終更新日**: 2026-11-15

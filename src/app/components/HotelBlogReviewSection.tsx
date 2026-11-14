@@ -58,9 +58,9 @@ export default function HotelBlogReviewSection({
       {/* 見出し */}
       <div className="border-b border-teal-900/10 pb-4">
         <span className="text-[10px] font-extrabold text-teal-800 tracking-wider uppercase block">
-          CHECKPOINT // {area}
+          {area && area !== prefecture ? `${prefecture} // ${area}` : prefecture}
         </span>
-        <h2 className="text-xl md:text-2xl font-black font-journal-serif text-teal-950 mt-1">【宿泊前に知りたいポイント】{cleanHotel}の設備・特徴ガイド</h2>
+        <h2 className="text-xl md:text-2xl font-black font-journal-serif text-teal-950 mt-1">{cleanHotel}の滞在ポイント・館内設備</h2>
       </div>
 
       {/* スコア・早見サマリ */}

@@ -845,7 +845,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　※一部屋根付き駐車場あり・バイクも大歓迎</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.24 ／ 立地 ★4.35 ／ 部屋 ★4.18 ／ 設備 ★4.06 ／ 風呂 ★4.25 ／ 食事 ★4.43</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「自販機で新札や硬貨が使えず不便酒の自販機が いまさら新千円札が使えないとか 500円が使えないとか ジュースの自販機も できれば全部の金種が使えるようにしてもらいたい。クチコミの詳細はこちらか…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「自販機で新札や硬貨が使えず不便酒の自販機が いまさら新千円札が使えないとか 500円が使えないとか ジュースの自販機も できれば全部の金種が使えるようにしてもらいたい。」
                   </blockquote>
                 </div>
               </div>

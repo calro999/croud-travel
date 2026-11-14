@@ -37,12 +37,12 @@
       "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/180552/180552map.gif",
       "reviewCount": 95,
       "reviewAverage": 4.44,
-      "userReview": "バーの生演奏が素敵、喫煙環境には注意が必要ラグジュアリーホテルの名に恥じないホテルでした。夜はバー「マデュロ」に行きましたが、フロアがとても広くジャズの生演奏があって素敵な空間でした。朝食もとても…　2026-10-05 20:51:50投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=180552\" class=\"3click\">つづきはこちら</a>",
+      "userReview": "バーの生演奏が素敵、喫煙環境には注意が必要ラグジュアリーホテルの名に恥じないホテルでした。夜はバー「マデュロ」に行きましたが、フロアがとても広くジャズの生演奏があって素敵な空間でした。朝食もとても…　2026-10-05 20:51:50投稿",
       "hotelMinCharge": 46679,
       "address1": "東京都",
       "address2": "港区六本木6-10-3",
       "telephoneNo": "03-4333-1234",
-      "access": "���京メトロ日比谷線　六本木駅　１Ｃ番出口より徒歩にて約３分",
+      "access": "・・・京メトロ日比谷線　六本木駅　１Ｃ番出口より徒歩にて約３分",
       "parkingInformation": "有り　200台　6,000円（税込み／泊）　予約不要",
       "nearestStation": "六本木",
       "hotelSpecial": "グローバルな雰囲気溢れるダイナミックな空間で、豊かな時間を創出する東京・六本木のラグジュアリーホテル",
@@ -62,12 +62,12 @@
       "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/64045/64045map.gif",
       "reviewCount": 116,
       "reviewAverage": 4.5,
-      "userReview": "スタッフの対応も眺望も最高、また泊まりたい初めての東京のホテル。リッツカールトン東京、スタッフさんの細かい接客から対応まで全てに100点でした。せっかくなので事前にスパを予約して4…　2026-10-25 13:53:20投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=64045\" class=\"3click\">つづきはこちら</a>",
+      "userReview": "スタッフの対応も眺望も最高、また泊まりたい初めての東京のホテル。リッツカールトン東京、スタッフさんの細かい接客から対応まで全てに100点でした。せっかくなので事前にスパを予約して4…　2026-10-25 13:53:20投稿",
       "hotelMinCharge": 59547,
       "address1": "東京都",
       "address2": "港区赤坂9-7-1　東京ミッドタウン",
       "telephoneNo": "03-3423-8000",
-      "access": "地下鉄���江戸線・日比谷線「六本木駅」～直結、千代田線「乃木坂駅」～徒歩5分、南北線「六本木一丁目駅」～徒歩10分",
+      "access": "地下鉄・・・江戸線・日比谷線「六本木駅」～直結、千代田線「乃木坂駅」～徒歩5分、南北線「六本木一丁目駅」～徒歩10分",
       "parkingInformation": "有",
       "nearestStation": "六本木",
       "hotelSpecial": "東京・六本木のランドマーク「東京ミッドタウン」に位置する世界屈指の高級ホテル",
@@ -87,13 +87,13 @@
       "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/184582/184582map.gif",
       "reviewCount": 103,
       "reviewAverage": 4.16,
-      "userReview": "40階からの素晴らしい眺望で快適な時間素晴らしい眺望の40階の部屋で快適に過ごせました。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/ho…　2026-11-03 14:34:16投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=184582\" class=\"3click\">つづきはこちら</a>",
+      "userReview": "40階からの素晴らしい眺望で快適な時間素晴らしい眺望の40階の部屋で快適に過ごせました。",
       "hotelMinCharge": 40480,
       "address1": "東京都",
       "address2": "港区虎ノ門2-10-4",
       "telephoneNo": "03-3582-0111",
       "access": "東京メトロ日比谷線　虎ノ門ヒルズ駅 出口A2aより徒歩約5分(宴会場入口まで)",
-      "parkingInformation": "有り　329台　宿��者滞在中無料　予約不要",
+      "parkingInformation": "有り　329台　宿・・者滞在中無料　予約不要",
       "nearestStation": "虎ノ門",
       "hotelSpecial": "優雅さを伝える日本の美と、きめ細かく気遣う日本の心、極上の日本らしさで、ゲストの皆様をお迎えします。",
       "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F184582%2F184582.html"
@@ -142,14 +142,63 @@
       "address1": "東京都",
       "address2": "港区虎ノ門1-23-4 虎ノ門ヒルズ 森タワー",
       "telephoneNo": "03-6830-1234",
-      "access": "東���メトロ日比谷線 虎ノ門ヒルズ駅直結（中目黒方面）徒歩3分・東京メトロ銀座線 虎ノ門駅直結 徒歩5分",
+      "access": "東・・・メトロ日比谷線 虎ノ門ヒルズ駅直結（中目黒方面）徒歩3分・東京メトロ銀座線 虎ノ門駅直結 徒歩5分",
       "parkingInformation": "有り　１５５台　5,０００円（税込み／泊）　予約不要",
       "nearestStation": "虎ノ門",
       "hotelSpecial": "虎ノ門ヒルズの上層階に位置する、ハイアットが手掛ける日本初のラグジュアリー ライフスタルホテル。",
       "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F181166%2F181166.html"
     }
   ],
-  "hotel_name": "",
+  "hotel_name": "グランドハイアット東京・ザ・リッツ・カールトン東京・オークラ東京 ほか",
   "summary": "",
-  "categories": []
+  "categories": [
+    "特集",
+    "イルミネーション特集",
+    "クリスマス特集",
+    "東京都"
+  ],
+  "image": "https://img.travel.rakuten.co.jp/share/HOTEL/180552/180552.jpg",
+  "other_images": [
+    "https://img.travel.rakuten.co.jp/share/HOTEL/180552/180552.jpg",
+    "https://img.travel.rakuten.co.jp/share/HOTEL/64045/64045.jpg",
+    "https://img.travel.rakuten.co.jp/share/HOTEL/184582/184582.jpg",
+    "https://img.travel.rakuten.co.jp/share/HOTEL/177558/177558.jpg",
+    "https://img.travel.rakuten.co.jp/share/HOTEL/181166/181166.jpg"
+  ],
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F180552%2F180552.html",
+  "price": 16348,
+  "rating": 4.44,
+  "is_special_feature": true,
+  "featured_hotels": [
+    {
+      "name": "グランドハイアット東京",
+      "rating": "4.44",
+      "price": "¥46,679〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F180552%2F180552.html"
+    },
+    {
+      "name": "ザ・リッツ・カールトン東京",
+      "rating": "4.5",
+      "price": "¥59,547〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F64045%2F64045.html"
+    },
+    {
+      "name": "オークラ東京",
+      "rating": "4.16",
+      "price": "¥40,480〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F184582%2F184582.html"
+    },
+    {
+      "name": "三井ガーデンホテル六本木プレミア",
+      "rating": "4.36",
+      "price": "¥16,348〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F177558%2F177558.html"
+    },
+    {
+      "name": "アンダーズ東京",
+      "rating": "4",
+      "price": "¥57,348〜",
+      "url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F181166%2F181166.html"
+    }
+  ]
 }

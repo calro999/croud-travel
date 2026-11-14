@@ -127,7 +127,7 @@ export default function RelatedPosts({
             </span>
             <h4 className="text-base md:text-lg font-black text-white mt-1 font-journal-serif">編集部総力取材！日本全国メガヒット決定版キラー特集</h4>
           </div>
-          <span className="text-[11px] text-stone-400">楽天トラベル公式データ連携</span>
+          <span className="text-[11px] text-stone-400">編集部厳選ガイド</span>
         </div>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 pt-1">
           <Link
@@ -136,7 +136,7 @@ export default function RelatedPosts({
           >
             <span className="text-[10px] text-amber-300 font-bold block">♨️ 全国温泉地ランキングTOP12</span>
             <p className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-              草津・箱根・有馬・由布院・別府・城崎の名旅館徹底比較（14,000文字）
+              草津・箱根・有馬・由布院・別府・城崎の名旅館徹底比較（泉質・露天比較）
             </p>
           </Link>
           <Link
@@ -145,7 +145,7 @@ export default function RelatedPosts({
           >
             <span className="text-[10px] text-indigo-300 font-bold block">🍷 オールインクルーシブTOP12</span>
             <p className="text-xs font-bold text-white group-hover:text-indigo-200 transition line-clamp-2">
-              ビール・地酒・夜食・貸切風呂まで全て無料の極上リゾート（15,000文字）
+              ビール・地酒・夜食・貸切風呂まで全て無料の極上リゾート（滞在体験まとめ）
             </p>
           </Link>
           <Link
@@ -154,7 +154,7 @@ export default function RelatedPosts({
           >
             <span className="text-[10px] text-teal-300 font-bold block">🧖 サウナシュラン受賞宿TOP12</span>
             <p className="text-xs font-bold text-white group-hover:text-teal-200 transition line-clamp-2">
-              らかんの湯・北こぶし知床・マウント富士の絶景ととのい（14,000文字）
+              らかんの湯・北こぶし知床・マウント富士の絶景ととのい（水風呂・外気浴案内）
             </p>
           </Link>
           <Link
@@ -163,7 +163,7 @@ export default function RelatedPosts({
           >
             <span className="text-[10px] text-teal-300 font-bold block">♨️ 客室露天＆貸切風呂TOP12</span>
             <p className="text-xs font-bold text-white group-hover:text-teal-200 transition line-clamp-2">
-              箱根・草津・有馬・由布院！誰の目も気にせず名湯独占（14,000文字）
+              箱根・草津・有馬・由布院！誰の目も気にせず名湯独占（プライベート湯宿比較）
             </p>
           </Link>
           <Link
@@ -172,7 +172,7 @@ export default function RelatedPosts({
           >
             <span className="text-[10px] text-cyan-300 font-bold block">🌅 絶景インフィニティ温泉TOP12</span>
             <p className="text-xs font-bold text-white group-hover:text-cyan-200 transition line-clamp-2">
-              熱海・河口湖・別府・洞爺湖！海と空に浮かぶ奇跡の天空露天（14,000文字）
+              熱海・河口湖・別府・洞爺湖！海と空に浮かぶ奇跡の天空露天（絶景湯厳選）
             </p>
           </Link>
           <Link
@@ -181,7 +181,7 @@ export default function RelatedPosts({
           >
             <span className="text-[10px] text-rose-300 font-bold block">⛩️ 年末年始・初詣＆初日の出</span>
             <p className="text-xs font-bold text-white group-hover:text-rose-200 transition line-clamp-2">
-              伊勢神宮・出雲大社・富士山近くの開運旅館ランキング（12,000文字）
+              伊勢神宮・出雲大社・富士山近くの開運旅館ランキング（年越し・正月滞在）
             </p>
           </Link>
           <Link

@@ -448,7 +448,7 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center flex-wrap gap-2">
         <Link href="/" className="hover:text-teal-800 transition">ホーム</Link>
         <span>/</span>
-        <Link href={prefPath} className="text-teal-950 font-bold hover:text-teal-700 transition">{post.prefecture}（{post.area}）</Link>
+        <Link href={prefPath} className="text-teal-950 font-bold hover:text-teal-700 transition">{post.area && post.area !== post.prefecture ? `${post.prefecture}（${post.area}）` : post.prefecture}</Link>
         <span>/</span>
         <span className="text-emerald-950/40 line-clamp-1">{post.hotel_name}</span>
       </nav>
@@ -462,7 +462,7 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
             <div className="flex flex-wrap items-center gap-2.5 text-[10px] font-extrabold text-teal-900/50 uppercase tracking-widest">
               <span>{post.date}</span>
               <span>•</span>
-              <span className="text-amber-600 font-bold">{`${post.area} // ${post.prefecture}`}</span>
+              <span className="text-amber-600 font-bold">{post.area && post.area !== post.prefecture ? `${post.area} // ${post.prefecture}` : post.prefecture}</span>
               {post.rating && (
                 <>
                   <span>•</span>
@@ -597,7 +597,7 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
           <>
             <div id="section-summary" className="scroll-mt-24 rounded-2xl overflow-hidden border border-teal-900/15 bg-white shadow-sm">
               <div className="bg-gradient-to-r from-teal-900 to-emerald-900 px-5 py-3.5 flex flex-wrap items-center justify-between gap-2">
-                <h2 className="text-xs md:text-sm font-black text-white flex items-center gap-2 m-0"><span>【施設基本スペック早見表】{post.hotel_name}（楽天トラベル公式データ連携）</span></h2>
+                <h2 className="text-xs md:text-sm font-black text-white flex items-center gap-2 m-0"><span>{post.hotel_name}の基本情報・料金目安</span></h2>
                 <a
                   href={post.affiliate_url}
                   target="_blank"
@@ -616,7 +616,7 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
                     </tr>
                     <tr>
                       <th scope="row" className="py-3 px-4 font-extrabold text-teal-950 bg-teal-50/50 whitespace-nowrap">所在地・エリア</th>
-                      <td className="py-3 px-4 font-medium text-emerald-950">{post.prefecture}（{post.area}エリア）</td>
+                      <td className="py-3 px-4 font-medium text-emerald-950">{post.area && post.area !== post.prefecture ? `${post.prefecture}（${post.area}エリア）` : post.prefecture}</td>
                     </tr>
                     {post.rating && (
                       <tr className="bg-emerald-50/20">
@@ -775,15 +775,6 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
           />
         </div>
 
-        {/* SNSシェアボタン（記事読了後） */}
-        <div className="pt-6 border-t border-emerald-950/5">
-          <ShareButtons
-            title={post.title}
-            url={`${baseUrl}/posts/${post.id}/`}
-            hotelName={post.hotel_name}
-          />
-        </div>
-
         {/* 予約前の割引クーポン獲得プッシュ（全記事共通・読了後の一番ホットなタイミング） */}
         <div className="pt-6 border-t border-emerald-950/5">
           <SpecialCouponBanner />
@@ -891,7 +882,7 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
           return (
             <div className="pt-8 border-t border-emerald-950/10">
               <NextSearchQuestions
-                title={`🔍 ${post.hotel_name}（${post.area}）を調べた人が「次に検索している疑問」`}
+                title={`${post.hotel_name}${post.area && post.area !== post.prefecture ? `（${post.area}）` : ""}を調べた人が「次に検索している疑問」`}
                 subtitle="旅行の検討や計画をスムーズに進めるために、周辺の観光スポット・名物グルメ・関連する旅の特集を先回りしてご紹介します。"
                 items={nextQuestions}
               />
