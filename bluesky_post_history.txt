@@ -317,3 +317,4 @@ showcase_osaka
 winter-yukimi-rotenburo-train-access-onsen-hotels-guide
 showcase_iwate
 january-shizuoka-atami-10selection
+showcase_kagawa
